@@ -15,13 +15,13 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Contents
 - [Design Principles](#design-principles)
-  - [Crosscutting Concerns](#crosscutting-concerns)
+  - [Cross Cutting Concerns](#cross-cutting-concerns)
   - [Vertical Slice Architecture](#vertical-slice-architecture)
   - [Clean Architecture](#clean-architecture)
   - [Onion Architecture](#onion-architecture)
 - [Modular Monolith](#modular-monolith)
 
-### Crosscutting Concerns
+### Cross Cutting Concerns
 
 #### Articles
 
