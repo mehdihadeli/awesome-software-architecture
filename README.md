@@ -24,6 +24,8 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Modular Monolith](#modular-monolith)
 - [DDD](#ddd)
   - [Value Objects](#value-objects)
+  - [Domain](#domain)
+  - [Domain Primitives](#domain-primitives)
 - [MicroServices](#microservices)
 
 ### Architectural principles
@@ -123,6 +125,12 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 #### Domain 
 - [Always-Valid Domain Model](https://enterprisecraftsmanship.com/posts/always-valid-domain-model/) - Vladimir Khorikove
+
+#### Domain Primitives
+
+##### Articles
+- [My Take On Domain Primitives](https://svenhuebner-it.com/my-take-on-domain-primitives/) - Sven Hübner
+- [Domain Primitives I: easily declaring domain primitives](https://svenhuebner-it.com/domain-primitives-i-easily-declaring-domain-primitives/) - Sven Hübner 
 
 ### MicroServices
 
