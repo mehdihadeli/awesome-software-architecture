@@ -31,7 +31,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
   - [Least Astonishment](#least-astonishment)
   - [Demeter](#demeter)
   - [Favor Composition over Inheritance](favor-composition-over-inheritance)
-  - [DRY)](#dry)
+  - [DRY](#dry)
   - [KISS](#kiss)
   - [YAGNI](#yagni)
   - [Minimize Coupling](#minimize-coupling) 
