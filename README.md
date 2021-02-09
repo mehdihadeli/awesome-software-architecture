@@ -26,24 +26,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
   -[Value Objects](#value-objects)
 - [MicroServices](#microservices)
 
-### Cross Cutting Concerns
-
-#### Articles
-
-- [Managing Cross Cutting Concerns – Logging](https://www.cshandler.com/2015/10/managing-cross-cutting-concerns-logging.html#.YCA5VOlR0uV)
-- [Cross cutting concern example](https://stackoverflow.com/questions/23700540/cross-cutting-concern-example)
-- [cross cutting concern](https://medium.com/anatta-design/cross-cutting-concern-aadf4f51a5c1)
-- [Cross-Cutting Concerns for An Enterprise Application](https://dzone.com/articles/cross-cutting-concerns-for-an-enterprise-applicati)
-- [Terminology: cross cutting concern](https://crosscuttingconcerns.com/Terminology-cross-cutting-concern)
-- [Crosscutting Concerns](https://oncodedesign.com/crosscutting-concerns/)
-- [Using the Decorator Pattern to handle cross-cutting concerns](https://www.davideguida.com/using-decorators-to-handle-cross-cutting-concerns/)
-- [Chain of Responsibility pattern for handling cross-cutting concerns](https://arturkrajewski.silvrback.com/chain-of-responsibility-pattern-for-handling-cross-cutting-concerns)
-
-#### Samples
-
-#### Videoes
-
-
 ### Architectural principles
 
 #### Clean Architecture
@@ -69,12 +51,16 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 - [https://github.com/EduardoPires/EquinoxProject](https://github.com/EduardoPires/EquinoxProject)
 > Full ASP.NET Core 3.1 application with DDD, CQRS and Event Sourcing concepts
+
 - [https://github.com/dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb)
 > Sample ASP.NET Core 5.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.
+
 - [https://github.com/JacobsDataSolutions/OrgManager](https://github.com/JacobsDataSolutions/OrgManager)
 > CQRS and Clean Domain-Driven Design concepts on the ASP.NET Core stack. Demo application for a fictional corporate organization management tool.
+
 - [https://github.com/matthewrenze/clean-architecture-demo](https://github.com/matthewrenze/clean-architecture-demo)
 > A sample app for my presentation on Clean Architecture: Patterns, Practices, and Principles
+
 - [https://github.com/jasontaylordev/NorthwindTraders](https://github.com/jasontaylordev/NorthwindTraders)
 > Northwind Traders is a sample application built using ASP.NET Core and Entity Framework Core.
 
@@ -110,9 +96,23 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 #### Samples
 - [https://github.com/kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd)
 > Full Modular Monolith application with Domain-Driven Design approach.
+
 - [https://github.com/kgrzybek/modular-monolith-with-ddd-fe-react](https://github.com/kgrzybek/modular-monolith-with-ddd-fe-react)
 > FrontEnd React application for Modular Monolith With DDD repository and system
-<<<<<<< HEAD
+
+### Design Principles
+
+### Cross Cutting Concerns
+
+#### Articles
+- [Managing Cross Cutting Concerns – Logging](https://www.cshandler.com/2015/10/managing-cross-cutting-concerns-logging.html#.YCA5VOlR0uV)
+- [Cross cutting concern example](https://stackoverflow.com/questions/23700540/cross-cutting-concern-example)
+- [cross cutting concern](https://medium.com/anatta-design/cross-cutting-concern-aadf4f51a5c1)
+- [Cross-Cutting Concerns for An Enterprise Application](https://dzone.com/articles/cross-cutting-concerns-for-an-enterprise-applicati)
+- [Terminology: cross cutting concern](https://crosscuttingconcerns.com/Terminology-cross-cutting-concern)
+- [Crosscutting Concerns](https://oncodedesign.com/crosscutting-concerns/)
+- [Using the Decorator Pattern to handle cross-cutting concerns](https://www.davideguida.com/using-decorators-to-handle-cross-cutting-concerns/)
+- [Chain of Responsibility pattern for handling cross-cutting concerns](https://arturkrajewski.silvrback.com/chain-of-responsibility-pattern-for-handling-cross-cutting-concerns)
 
 ### DDD
 
@@ -124,5 +124,3 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ### MicroServices
 
 ##### Articles
-=======
->>>>>>> 3cdbffc251a5d90cbfff0124b4109c9dd8f27cb6
