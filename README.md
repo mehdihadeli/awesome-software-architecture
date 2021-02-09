@@ -23,7 +23,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
   - [Crosscutting Concerns](#crosscutting-concerns)
 - [Modular Monolith](#modular-monolith)
 - [DDD](#ddd)
-  -[Value Objects](#value-objects)
+  - [Value Objects](#value-objects)
 - [MicroServices](#microservices)
 
 ### Architectural principles
@@ -68,19 +68,19 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ### Onion Architecture
 
 #### Articles
-- [Onion Architecture In ASP.NET Core With CQRS – Detailed](https://codewithmukesh.com/blog/onion-architecture-in-aspnet-core/) - [https://codewithmukesh.com](https://codewithmukesh.com)
-- [Onion Architecture](https://herbertograca.com/2017/09/21/onion-architecture/) - [https://herbertograca.com](https://herbertograca.com/)
-- [The Onion Architecture : part 1](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1/) - [https://jeffreypalermo.com/](https://jeffreypalermo.com/)
-- [The Onion Architecture : part 2](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-2/) - [https://jeffreypalermo.com/](https://jeffreypalermo.com/)
-- [The Onion Architecture : part 3](https://jeffreypalermo.com/2008/08/the-onion-architecture-part-3/) - [https://jeffreypalermo.com/](https://jeffreypalermo.com/)
+- [Onion Architecture In ASP.NET Core With CQRS – Detailed](https://codewithmukesh.com/blog/onion-architecture-in-aspnet-core/) - CodeWithMukesh
+- [Onion Architecture](https://herbertograca.com/2017/09/21/onion-architecture/) - Herberto Graca
+- [The Onion Architecture : part 1](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1) - Jeffrey Palermo
+- [The Onion Architecture : part 2](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-2) - Jeffrey Palermo
+- [The Onion Architecture : part 3](https://jeffreypalermo.com/2008/08/the-onion-architecture-part-3) - Jeffrey Palermo
 - [Clean architecture series — Part 2](https://dev.to/pereiren/clean-architecture-series-part-2-49db)
 
 
 ### Ports And Adapters Architecture
 
 #### Articles
-[Ports & Adapters Architecture](https://herbertograca.com/2017/09/14/ports-adapters-architecture/) - [https://herbertograca.com](https://herbertograca.com/)
-[Hexagonal architecture](https://alistair.cockburn.us/hexagonal-architecture/) - [Alistair Cockburn](https://alistair.cockburn.us)
+[Ports & Adapters Architecture](https://herbertograca.com/2017/09/14/ports-adapters-architecture/) - Herberto Graca
+[Hexagonal architecture](https://alistair.cockburn.us/hexagonal-architecture/) - Alistair Cockburn
 [Clean architecture series - Part 1](https://dev.to/pereiren/clean-architecture-series-part-1-m64)
 
 ### Vertical Slice Architecture
@@ -120,6 +120,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ##### Articles
 - [Treating Primitive Obsession with ValueObjects | DDD in .NET](https://www.youtube.com/watch?v=h4uldNA1JUE)
+
+#### Domain 
+- [Always-Valid Domain Model](https://enterprisecraftsmanship.com/posts/always-valid-domain-model/) - Vladimir Khorikove
 
 ### MicroServices
 
