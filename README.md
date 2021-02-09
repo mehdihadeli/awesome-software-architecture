@@ -80,7 +80,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 #### Articles
 [Ports & Adapters Architecture](https://herbertograca.com/2017/09/14/ports-adapters-architecture/) - Herberto Graca
+
 [Hexagonal architecture](https://alistair.cockburn.us/hexagonal-architecture/) - Alistair Cockburn
+
 [Clean architecture series - Part 1](https://dev.to/pereiren/clean-architecture-series-part-1-m64)
 
 ### Vertical Slice Architecture
