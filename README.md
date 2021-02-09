@@ -26,7 +26,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
   -[Value Objects](#value-objects)
 - [MicroServices](#microservices)
 
-### Crosscutting Concerns
+### Cross Cutting Concerns
 
 #### Articles
 
@@ -112,6 +112,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 > Full Modular Monolith application with Domain-Driven Design approach.
 - [https://github.com/kgrzybek/modular-monolith-with-ddd-fe-react](https://github.com/kgrzybek/modular-monolith-with-ddd-fe-react)
 > FrontEnd React application for Modular Monolith With DDD repository and system
+<<<<<<< HEAD
 
 ### DDD
 
@@ -123,3 +124,5 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ### MicroServices
 
 ##### Articles
+=======
+>>>>>>> 3cdbffc251a5d90cbfff0124b4109c9dd8f27cb6
