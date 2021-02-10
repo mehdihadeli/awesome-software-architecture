@@ -122,6 +122,8 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [https://github.com/iammukeshm/CleanArchitecture.WebApi](https://github.com/iammukeshm/CleanArchitecture.WebApi) - Mukesh Murugan
     > An implementation of Clean Architecture for ASP.NET Core 3.1 WebAPI. Built with loosely coupled architecture and clean-code practices in mind. - [Project Template (visual studio extension)](https://marketplace.visualstudio.com/items?itemName=MukeshMurugan.CleanArchitectureWebApi)
 
+- [https://github.com/fals/cqrs-clean-eventual-consistency](https://github.com/fals/cqrs-clean-eventual-consistency) - Filipe Augusto
+	> CQRS, using Clean Architecture, multiple databases and Eventual Consistency
 ### Onion Architecture
 
 #### Articles
@@ -247,6 +249,8 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Awesome Microservices .NET Core](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core
 
 ### Articles
+
+- [Microservices architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices)
 
 ### Tools
 
