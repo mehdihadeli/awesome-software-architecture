@@ -4,7 +4,7 @@
 [![blog](https://img.shields.io/badge/blog-dotnetuniversity.com-brightgreen?style=flat-square)](https://dotnetuniversity.com/)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](./contributing.md)
 
-> Collection of useful articles and resources to learning and practicing about software architecture, patterns and principles in .NET platform. this repository will be updated continuously, keep yourself up to date 
+> Collection of useful Articles and resources to learning and practicing about software architecture, patterns and principles in .NET platform. this repository will be updated continuously, keep yourself up to date 
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-dotnet-architecture/blob/master/contributing.md) pages first.
 
@@ -17,10 +17,11 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
   - [Traditional N-Layer Architecture](traditional-n-layer-architecture)
   - [Clean Architecture](#clean-architecture)
   - [Onion Architecture](#onion-architecture)
-  - [Ports And Adapters Architecture (aka Hexagonal Architecture)](#ports-and-adapters-architecture--aka-hexagonal-architecture-)
+  - [Ports And Adapters Architecture (Hexagonal Architecture)](#ports-and-adapters-architecture-hexagonal-architecture-)
   - [Vertical Slice Architecture](#vertical-slice-architecture)
   - [Event Driven Architecture](#event-driven-architecture)
 - [Design Principles](#design-principles)
+  - [Resources](#resources)
   - [Crosscutting Concerns](#crosscutting-concerns)
   - [Encapsulation](#encapsulation)
   - [Dependency Inversion](#dependency-inversion)
@@ -39,6 +40,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Design Patterns](#design-patterns)
    - [Decorator](#decorator)
 - [Cloud Design Patterns](#cloud-design-patterns)
+  - [Resources](#resources)
   - [Anti-Corruption Layer Pattern](#anti-corruption-layer-pattern)
   - [Asynchronous Request-Reply pattern](#anti-corruption-layer-pattern)
   - [Cache-Aside](#cache-aside)
@@ -55,8 +57,11 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
   - [Sidecar](#sidecar)
   - [Throttling](#throttling)
   - [Valet Key](#valet-key)
+  - [At-least-Once Delivery](#at-least-once-delivery)
+  - [Exactly-Once Delivery](#exactly-once-delivery)
   
 - [Anti Patterns](#anti-patterns)
+  - [Resources](#resources)
   - [Anemic Domain Model](#anemic-domain-model)
 - [Modular Monolith](#modular-monolith)
 - [DDD](#ddd)
@@ -65,13 +70,16 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
   - [Domain Primitives](#domain-primitives)
   - [Samples](#samples)
 - [MicroServices](#microservices)
+  - [Resources](#resources)
+  - [Articles](#articles)
+  - [Tools](#tools)
   - [Samples](#samples)
 
 ## Architectural Principles
 
 ### Traditional N-Layer Architecture
 
-#### Articles
+#### 📝 Articles
 
 - [N-tier architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier)
 - [Traditional "N-Layer" architecture applications](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures#traditional-n-layer-architecture-applications)
@@ -80,7 +88,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### Clean Architecture
 
-#### Articles
+#### 📝 Articles
 - [Clean architecture](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures#clean-architecture)
 - [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [CQRS Translated to Clean Architecture](https://blog.fals.io/2018-09-19-cqrs-clean-architecture/)
@@ -97,7 +105,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Hexagonal and Clean Architecture Styles with .NET Core (Reviewed)](https://paulovich.net/hexagonal-and-clean-architecture-styles-with-net-core-reviewed/)
 - [ASP.NET Core WebAPI – Clean Architecture](https://codewithmukesh.com/project/aspnet-core-webapi-clean-architecture%e2%80%8b/)
 
-#### Videoes
+#### 📹 Videoes
 - [Clean Testing - Clean Architecture with .NET Core - Jason Taylor - NDC Oslo 2020](https://www.youtube.com/watch?v=T6NRcX1vnz8)
 - [Clean Architecture with ASP.NET Core 3.0 - Jason Taylor](https://www.youtube.com/watch?v=5OtUm1BLmG0)
 - [Clean Architecture with ASP.NET Core 2.1 - Jason Taylor](https://www.youtube.com/watch?v=_lwCVE_XgqI&feature=youtu.be)
@@ -107,7 +115,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [An Overview of eShopOnWeb, an ASP.NET Core Reference Application](https://www.youtube.com/watch?v=vRZ8ucGac8M&ab_channel=Ardalis) - Steve Smith
 - [Clean Architecture S02](https://www.youtube.com/playlist?list=PLY9iz4il6pyO46KZN-xQtZZMtdpBO9AoR) - Ivan Paulovich
 
-#### Samples
+#### 🔖 Samples
 
 - [https://github.com/EduardoPires/EquinoxProject](https://github.com/EduardoPires/EquinoxProject) - Eduardo Pires
     > Full ASP.NET Core 3.1 application with DDD, CQRS and Event Sourcing concepts
@@ -146,7 +154,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 	> CQRS, using Clean Architecture, multiple databases and Eventual Consistency
 ### Onion Architecture
 
-#### Articles
+#### 📝 Articles
 - [Onion Architecture In ASP.NET Core With CQRS – Detailed](https://codewithmukesh.com/blog/onion-architecture-in-aspnet-core/) - CodeWithMukesh
 - [Onion Architecture](https://herbertograca.com/2017/09/21/onion-architecture/) - Herberto Graca
 - [The Onion Architecture : part 1](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1) - Jeffrey Palermo
@@ -156,23 +164,23 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Clean architecture series — Part 2](https://dev.to/pereiren/clean-architecture-series-part-2-49db) - David Pereira
 - [A simple template for Onion Architecture with .NET 5](https://dev.to/pereiren/a-simple-template-for-onion-architecture-with-net-5-3gll) - David Pereira
 
-### Ports And Adapters Architecture (aka Hexagonal Architecture)
+### Ports And Adapters Architecture (Hexagonal Architecture)
 
-#### Articles
+#### 📝 Articles
 - [Ports & Adapters Architecture](https://herbertograca.com/2017/09/14/ports-adapters-architecture/) - Herberto Graca
 - [Hexagonal architecture](https://alistair.cockburn.us/hexagonal-architecture/) - Alistair Cockburn
 - [Clean architecture series - Part 1](https://dev.to/pereiren/clean-architecture-series-part-1-m64)
 
 ### Vertical Slice Architecture
 
-#### Articles
+#### 📝 Articles
 - [Vertical Slice Architecture](https://jimmybogard.com/vertical-slice-architecture/)
 - [Why vertical slice architecture is better—if you know these few things](https://headspring.com/2019/11/05/why-vertical-slice-architecture-is-better/)
 - [Architecting for maintainability through Vertical Slices ](https://www.ghyston.com/insights/architecting-for-maintainability-through-vertical-slices/)
 
 ### Event Driven Architecture
 
-#### Articles
+#### 📝 Articles
 - [Event-driven architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/event-driven)
 - [Event-Driven Architecture](https://herbertograca.com/2017/10/05/event-driven-architecture/)
 - [Journey to Event Driven – Part 1: Why Event-First Programming Changes Everything](https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything/)
@@ -189,7 +197,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### Cross Cutting Concerns
 
-#### Articles
+#### 📝 Articles
 - [Managing Cross Cutting Concerns – Logging](https://www.cshandler.com/2015/10/managing-cross-cutting-concerns-logging.html#.YCA5VOlR0uV)
 - [Cross cutting concern example](https://stackoverflow.com/questions/23700540/cross-cutting-concern-example)
 - [cross cutting concern](https://medium.com/anatta-design/cross-cutting-concern-aadf4f51a5c1)
@@ -201,7 +209,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### KISS
 
-#### Articles
+#### 📝 Articles
 - [KISS](https://java-design-patterns.com/principles/#kiss)  - java-design-patterns
 - [Principles of Good Programming](https://www.artima.com/weblogs/viewpost.jsp?thread=331531)
 - [Keep It Simple Stupid (KISS)](http://principles-wiki.net/principles:keep_it_simple_stupid) - principles-wiki
@@ -209,7 +217,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### YAGNI
 
-#### Articles
+#### 📝 Articles
 - [YAGNI](https://deviq.com/principles/yagni) - DevIQ
 - [YAGNI](https://java-design-patterns.com/principles/#yagni) - java-design-patterns
 
@@ -226,8 +234,10 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 	> A comprehensive design patterns library implemented in C#, which covers various design patterns from the most commonly used ones to the lesser-known ones. Get familiar with and learn design patterns through moderately realistic examples.
 
 ## Cloud Design Patterns
- 
- - [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/index-patterns)
+
+### Resources
+ - [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/index-patterns) - Microsoft
+ - [Cloud Computing Patterns](https://www.cloudcomputingpatterns.org) - CloudComputingPatterns
  
 ###  Anti-Corruption Layer Pattern
 
@@ -261,21 +271,35 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ###  Valet Key
 
+### At-least-Once Delivery
+
+#### 📝 Articles
+- [At-least-once Delivery](https://www.cloudcomputingpatterns.org/at_least_once_delivery/) - cloudcomputingpatterns.org
+
+### Exactly-Once Delivery
+
+#### 📝 Articles
+
+- [Exactly-once Delivery](https://www.cloudcomputingpatterns.org/exactly_once_delivery/) - cloudcomputingpatterns.org
 
 ## Anti Patterns
 
+### Resources
 - [Anti Patterns](https://deviq.com/antipatterns/antipatterns-overview) - DevIQ
 
 ### Anemic Domain Model
+
+#### 📝 Articles
+
 - [AnemicDomainModel](https://www.martinfowler.com/bliki/AnemicDomainModel.html)
 - [What is Anemic Domain Model and why it can be harmful?](https://danielrusnok.medium.com/what-is-anemic-domain-model-and-why-it-can-be-harmful-2677b1b0a79a) - Daniel Rusnok
 
 ## Modular Monolith
 
-### Articles
+### 📝 Articles
 - [My experience of using modular monolith and DDD architectures](https://www.thereformedprogrammer.net/my-experience-of-using-modular-monolith-and-ddd-architectures/)
 
-### Samples
+### 🔖 Samples
 
 - [https://github.com/kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd)
     > Full Modular Monolith application with Domain-Driven Design approach.
@@ -287,7 +311,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### Value Objects
 
-#### Articles
+#### 📝 Articles
 - [Treating Primitive Obsession with ValueObjects | DDD in .NET](https://www.youtube.com/watch?v=h4uldNA1JUE)
 
 ### Domain 
@@ -295,11 +319,11 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### Domain Primitives
 
-#### Articles
+#### 📝 Articles
 - [My Take On Domain Primitives](https://svenhuebner-it.com/my-take-on-domain-primitives/) - Sven Hübner
 - [Domain Primitives I: easily declaring domain primitives](https://svenhuebner-it.com/domain-primitives-i-easily-declaring-domain-primitives/) - Sven Hübner 
 
-### Samples
+### 🔖 Samples
 
 - [https://github.com/kimcu-on-thenet/ddd-net-ef-core](https://github.com/kimcu-on-thenet/ddd-net-ef-core)
     > Self study: DDD, .net core, entity framework core
@@ -315,9 +339,10 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## MicroServices
 
-- [Awesome Microservices .NET Core](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core
+### Resources
+- [Awesome Microservices .NET Core](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - A collection of awesome training series, Articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core
 
-### Articles
+### 📝 Articles
 
 - [Microservices architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices)
 
@@ -326,7 +351,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [https://github.com/dotnet/tye](https://github.com/dotnet/tye)
     > Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
 
-### Samples
+### 🔖 Samples
 - [https://github.com/vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices)
     > A full-stack .NET microservices build on Dapr and Tye
 
