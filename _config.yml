@@ -7,3 +7,4 @@ include:
   - contributing.md
   - README.md
   - LICENSE.md
+theme: jekyll-theme-architect
