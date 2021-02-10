@@ -21,7 +21,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
   - [Vertical Slice Architecture](#vertical-slice-architecture)
   - [Event Driven Architecture](#event-driven-architecture)
 - [Design Principles](#design-principles)
-  - [Resources](#resources)
   - [Crosscutting Concerns](#crosscutting-concerns)
   - [Encapsulation](#encapsulation)
   - [Dependency Inversion](#dependency-inversion)
@@ -38,9 +37,8 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
   - [Minimize Coupling](#minimize-coupling) 
   - [Maximize Cohesion](#maximize-cohesion) 
 - [Design Patterns](#design-patterns)
-   - [Decorator](#decorator)
+  - [Decorator](#decorator)
 - [Cloud Design Patterns](#cloud-design-patterns)
-  - [Resources](#resources)
   - [Anti-Corruption Layer Pattern](#anti-corruption-layer-pattern)
   - [Asynchronous Request-Reply pattern](#anti-corruption-layer-pattern)
   - [Cache-Aside](#cache-aside)
@@ -59,27 +57,20 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
   - [Valet Key](#valet-key)
   - [At-least-Once Delivery](#at-least-once-delivery)
   - [Exactly-Once Delivery](#exactly-once-delivery)
-  
 - [Anti Patterns](#anti-patterns)
-  - [Resources](#resources)
   - [Anemic Domain Model](#anemic-domain-model)
 - [Modular Monolith](#modular-monolith)
 - [DDD](#ddd)
   - [Value Objects](#value-objects)
   - [Domain](#domain)
   - [Domain Primitives](#domain-primitives)
-  - [Samples](#samples)
 - [MicroServices](#microservices)
-  - [Resources](#resources)
-  - [Articles](#articles)
-  - [Tools](#tools)
-  - [Samples](#samples)
 
 ## Architectural Principles
 
 ### Traditional N-Layer Architecture
 
-#### 📝 Articles
+#### Articles
 
 - [N-tier architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier)
 - [Traditional "N-Layer" architecture applications](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures#traditional-n-layer-architecture-applications)
@@ -88,7 +79,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### Clean Architecture
 
-#### 📝 Articles
+#### Articles
 - [Clean architecture](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures#clean-architecture)
 - [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [CQRS Translated to Clean Architecture](https://blog.fals.io/2018-09-19-cqrs-clean-architecture/)
