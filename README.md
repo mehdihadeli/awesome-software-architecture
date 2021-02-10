@@ -337,7 +337,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 - [Microservices architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices)
 
-### Tools
+### 📦 Tools
 
 - [https://github.com/dotnet/tye](https://github.com/dotnet/tye)
     > Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
