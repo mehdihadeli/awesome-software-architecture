@@ -38,6 +38,8 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
   - [Maximize Cohesion](#maximize-cohesion) 
 - [Design Patterns](#design-patterns)
   - [Decorator](#decorator)
+  - [Specification Pattern](#specification-pattern)
+  - [Repository Pattern](#repository-pattern)
 - [Cloud Design Patterns](#cloud-design-patterns)
   - [Anti-Corruption Layer Pattern](#anti-corruption-layer-pattern)
   - [Asynchronous Request-Reply pattern](#anti-corruption-layer-pattern)
@@ -103,9 +105,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [ASP.NET Core WebAPI – Clean Architecture](https://codewithmukesh.com/project/aspnet-core-webapi-clean-architecture%e2%80%8b/)
 
 #### 📹 Videoes
-- [Clean Testing - Clean Architecture with .NET Core - Jason Taylor - NDC Oslo 2020](https://www.youtube.com/watch?v=T6NRcX1vnz8)
-- [Clean Architecture with ASP.NET Core 3.0 - Jason Taylor](https://www.youtube.com/watch?v=5OtUm1BLmG0)
-- [Clean Architecture with ASP.NET Core 2.1 - Jason Taylor](https://www.youtube.com/watch?v=_lwCVE_XgqI&feature=youtu.be)
+- [Clean Testing - Clean Architecture with .NET Core - Jason Taylor - NDC Oslo 2020](https://www.youtube.com/watch?v=T6NRcX1vnz8) - Jason Taylor
+- [Clean Architecture with ASP.NET Core 3.0 - Jason Taylor](https://www.youtube.com/watch?v=5OtUm1BLmG0) - Jason Taylor
+- [Clean Architecture with ASP.NET Core 2.1](https://www.youtube.com/watch?v=_lwCVE_XgqI&feature=youtu.be) - Jason Taylor
 - [Clean Architecture with ASP.NET Core with Steve "Ardalis" Smith (2020-06-01)](https://www.youtube.com/watch?v=joNTQy-KXiU&t=1719s) - Steve Smith
 - [SLC.NET Presents: Steve Smith (@Ardalis) - Clean Architecture with ASP.NET Core](https://www.youtube.com/watch?v=tYoqmL6e4oY) - Steve Smith
 - [Tour of Microsoft's Reference ASP NET Core App eShopOnWeb](https://www.youtube.com/watch?v=rSpF1s8wcyA) - Steve Smith
@@ -244,6 +246,8 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Design Patterns
 
+### Resources 
+
 - [https://github.com/abishekaditya/DesignPatterns](https://github.com/abishekaditya/DesignPatterns)
 	> Project : Design Patterns Examples in C#
 	
@@ -253,6 +257,18 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [https://github.com/nemanjarogic/DesignPatternsLibrary](https://github.com/nemanjarogic/DesignPatternsLibrary)
 	> A comprehensive design patterns library implemented in C#, which covers various design patterns from the most commonly used ones to the lesser-known ones. Get familiar with and learn design patterns through moderately realistic examples.
 
+### Specification Pattern
+
+#### 📝 Articles
+- [Specification pattern: C# implementation](https://enterprisecraftsmanship.com/posts/specification-pattern-c-implementation/) - Vladimir Khorikove
+- [Implementing Query Specification pattern in Entity Framework Core](https://gunnarpeipman.com/ef-core-query-specification/) - Gunnar Peipman
+- [Using the Specification pattern with Repository and Unit of work](https://dotnetfalcon.com/using-the-specification-pattern-with-repository-and-unit-of-work/) - Akos Nagy
+
+### Repository Pattern
+
+#### 📝 Articles
+- [No need for repositories and unit of work with Entity Framework Core](https://gunnarpeipman.com/ef-core-repository-unit-of-work/) - Gunnar Peipman
+- [Repository and unit of work ARE useful](https://dotnetfalcon.com/repository-and-unit-of-work-are-useful/) - Akos Nagy
 ## Cloud Design Patterns
 
 ### Resources
