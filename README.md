@@ -55,14 +55,20 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
   - [Sidecar](#sidecar)
   - [Throttling](#throttling)
   - [Valet Key](#valet-key)
-  - [At-least-Once Delivery](#at-least-once-delivery)
+  - [At-least-Once Delivery (Outbox Pattern)](#at-least-once-delivery-(outbox-pattern))
   - [Exactly-Once Delivery](#exactly-once-delivery)
+- [Object Oriented Design](#object-oriented-design)
+- [Clean Code](#clean-code)
 - [Anti Patterns](#anti-patterns)
   - [Anemic Domain Model](#anemic-domain-model)
+- [Asynchronous Patterns](#asynchronous-patterns)
 - [Modular Monolith](#modular-monolith)
+- [CQRS](#cqrs)
 - [DDD](#ddd)
   - [Value Objects](#value-objects)
   - [Domain](#domain)
+  - [Domain Event](#domain-event)
+  - [Aggregation](#aggregation)
   - [Domain Primitives](#domain-primitives)
 - [MicroServices](#microservices)
 
@@ -143,6 +149,19 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 - [https://github.com/fals/cqrs-clean-eventual-consistency](https://github.com/fals/cqrs-clean-eventual-consistency) - Filipe Augusto
 	> CQRS, using Clean Architecture, multiple databases and Eventual Consistency
+
+- [https://github.com/rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - Rafael Garcia
+	> Architecture .NET 5, ASP.NET Core 5, Entity Framework Core 5, C# 9, Angular 11, Clean Code, SOLID, DDD.
+
+- [https://github.com/kgrzybek/sample-dotnet-core-cqrs-api](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - Kamil Grzybek
+	> Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
+
+- [https://github.com/phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture)
+	> Asp.Net Core 5 Clean Architecture (Microservices, Modular Monolith, Monolith) samples (+Blazor, Angular 11, React 17, Vue 2.6), Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium E2E Testing, SignalR Notification, Hangfire Tasks Scheduling
+
+- [https://github.com/aspnetrun/run-aspnetcore](https://github.com/aspnetrun/run-aspnetcore) - AspNetRun
+	> A starter kit for your next ASP.NET Core web application. Boilerplate for ASP.NET Core reference application, demonstrating a layered application architecture with applying Clean Architecture and DDD
+	
 ### Onion Architecture
 
 #### 📝 Articles
@@ -155,6 +174,11 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Clean architecture series — Part 2](https://dev.to/pereiren/clean-architecture-series-part-2-49db) - David Pereira
 - [A simple template for Onion Architecture with .NET 5](https://dev.to/pereiren/a-simple-template-for-onion-architecture-with-net-5-3gll) - David Pereira
 
+#### 🔖 Samples
+
+- [https://github.com/Amitpnk/Onion-architecture-ASP.NET-Core](https://github.com/Amitpnk/Onion-architecture-ASP.NET-Core)
+	> WhiteApp API solution template which is built on Onion Architecture with all essential feature using .NET Core!
+	
 ### Ports And Adapters Architecture (Hexagonal Architecture)
 
 #### 📝 Articles
@@ -212,6 +236,11 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [YAGNI](https://deviq.com/principles/yagni) - DevIQ
 - [YAGNI](https://java-design-patterns.com/principles/#yagni) - java-design-patterns
 
+### Minimize Coupling
+
+#### 📝 Articles
+- [Why is loose coupling between services so important?](https://www.ben-morris.com/why-is-loose-coupling-between-services-so-important/) - Ben Morris
+
 
 ## Design Patterns
 
@@ -262,17 +291,26 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ###  Valet Key
 
-### At-least-Once Delivery
+### At-least-Once Delivery (Outbox Pattern)
 
 #### 📝 Articles
 - [At-least-once Delivery](https://www.cloudcomputingpatterns.org/at_least_once_delivery/) - cloudcomputingpatterns.org
-
+- [The Outbox Pattern](http://www.kamilgrzybek.com/design/the-outbox-pattern/) - Kamil Grzybek
 ### Exactly-Once Delivery
 
 #### 📝 Articles
 
 - [Exactly-once Delivery](https://www.cloudcomputingpatterns.org/exactly_once_delivery/) - cloudcomputingpatterns.org
 
+## Object Oriented Design
+
+## Clean Code
+
+### Resources
+
+- [https://github.com/thangchung/clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet) - Thang Chung 
+	> 🛁 Clean Code concepts and tools adapted for .NET
+	
 ## Anti Patterns
 
 ### Resources
@@ -285,6 +323,12 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [AnemicDomainModel](https://www.martinfowler.com/bliki/AnemicDomainModel.html)
 - [What is Anemic Domain Model and why it can be harmful?](https://danielrusnok.medium.com/what-is-anemic-domain-model-and-why-it-can-be-harmful-2677b1b0a79a) - Daniel Rusnok
 
+## Asynchronous Patterns
+
+### 📝 Articles
+- [Communication in a microservice architecture](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/communication-in-microservice-architecture) - Microsoft
+- [Asynchronous message-based communication](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/asynchronous-message-based-communication) - Microsoft
+- [Modular Monolith: Integration Styles](http://www.kamilgrzybek.com/tag/messaging/) - Kamil Grzybek
 ## Modular Monolith
 
 ### 📝 Articles
@@ -292,12 +336,28 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### 🔖 Samples
 
-- [https://github.com/kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd)
+- [https://github.com/kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Kamil Grzybek
     > Full Modular Monolith application with Domain-Driven Design approach.
 
-- [https://github.com/kgrzybek/modular-monolith-with-ddd-fe-react](https://github.com/kgrzybek/modular-monolith-with-ddd-fe-react)
+- [https://github.com/kgrzybek/modular-monolith-with-ddd-fe-react](https://github.com/kgrzybek/modular-monolith-with-ddd-fe-react) - Kamil Grzybek
     > FrontEnd React application for Modular Monolith With DDD repository and system
+	
+- [https://github.com/phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture)
+	> Asp.Net Core 5 Clean Architecture (Microservices, Modular Monolith, Monolith) samples (+Blazor, Angular 11, React 17, Vue 2.6), Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium E2E Testing, SignalR Notification, Hangfire Tasks Scheduling
 
+## CQRS
+
+### 📝 Articles
+- [Command and Query Responsibility Segregation (CQRS) pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs) - Microsoft
+- [Simple CQRS implementation with raw SQL and DDD](http://www.kamilgrzybek.com/design/simple-cqrs-implementation-with-raw-sql-and-ddd/) - Kamil Grzybek
+
+### 🔖 Samples
+
+- [https://github.com/kgrzybek/sample-dotnet-core-cqrs-api](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - Kamil Grzybek
+	> Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
+	
+- [https://github.com/aspnetrun/run-aspnetcore-cqrs](https://github.com/aspnetrun/run-aspnetcore-cqrs) - aspnetrun
+	> Real world Enterprise CRM application example of ASP.NET Core + Angular web application. Implemented CQRS Design Pattern for ASP.NET Core + Angular reference application, demonstrating a layered application architecture with DDD
 ## DDD
 
 ### Value Objects
@@ -306,7 +366,21 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Treating Primitive Obsession with ValueObjects | DDD in .NET](https://www.youtube.com/watch?v=h4uldNA1JUE)
 
 ### Domain 
+
+#### 📝 Articles
 - [Always-Valid Domain Model](https://enterprisecraftsmanship.com/posts/always-valid-domain-model/) - Vladimir Khorikove
+- [Domain Model Encapsulation and PI with Entity Framework 2.2](http://www.kamilgrzybek.com/design/domain-model-encapsulation-and-pi-with-entity-framework-2-2/) - Kamil Grzybek
+- [Attributes of Clean Domain Model](http://www.kamilgrzybek.com/design/clean-domain-model-attributes/) - Kamil Grzybek
+### Domain Events
+
+#### 📝 Articles
+- [How to publish and handle Domain Events](http://www.kamilgrzybek.com/design/how-to-publish-and-handle-domain-events/) - Kamil Grzybek
+- [Handling Domain Events: Missing Part](http://www.kamilgrzybek.com/design/handling-domain-events-missing-part/) - Kamil Grzybek
+
+### Aggregation
+
+#### 📝 Articles
+- [Processing multiple aggregates – transactional vs eventual consistency](https://www.kamilgrzybek.com/design/processing-multiple-aggregates-transactional-vs-eventual-consistency/) - Kamil Grzybek
 
 ### Domain Primitives
 
@@ -319,15 +393,18 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [https://github.com/kimcu-on-thenet/ddd-net-ef-core](https://github.com/kimcu-on-thenet/ddd-net-ef-core)
     > Self study: DDD, .net core, entity framework core
 
-- [https://github.com/thangchung/blog-core](https://github.com/thangchung/blog-core)
+- [https://github.com/thangchung/blog-core](https://github.com/thangchung/blog-core) - Thang Chung
     > Modular blog using Blazor with clean domain-driven design patterns
 
-- [https://github.com/thangchung/practical-clean-ddd](https://github.com/thangchung/practical-clean-ddd)
+- [https://github.com/thangchung/practical-clean-ddd](https://github.com/thangchung/practical-clean-ddd) Thang Chung
     > The repository uses the eCommerce business domain to demonstrate how to apply Domain Driven Design, Clean Architecture, and Microservice Architecture patterns.
 
-- [https://github.com/ardalis/ddd-guestbook](https://github.com/ardalis/ddd-guestbook)
+- [https://github.com/ardalis/ddd-guestbook](https://github.com/ardalis/ddd-guestbook) - Steve Smith
     > A DDD guestbook example written for ASP.NET Core
-
+	
+- [https://github.com/aspnetrun/run-aspnetcore](https://github.com/aspnetrun/run-aspnetcore) - AspNetRun
+	> A starter kit for your next ASP.NET Core web application. Boilerplate for ASP.NET Core reference application, demonstrating a layered application architecture with applying Clean Architecture and DDD
+	
 ## MicroServices
 
 ### Resources
@@ -336,6 +413,8 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ### 📝 Articles
 
 - [Microservices architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices)
+- [Securing Microservices with IdentityServer4, OAuth2 and OpenID Connect fronted by Ocelot API Gateway](https://medium.com/aspnetrun/securing-microservices-with-identityserver4-with-oauth2-and-openid-connect-fronted-by-ocelot-api-49ea44a0cf9e)
+
 
 ### 📦 Tools
 
@@ -343,11 +422,20 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
     > Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
 
 ### 🔖 Samples
-- [https://github.com/vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices)
+- [https://github.com/vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - Thang Chung
     > A full-stack .NET microservices build on Dapr and Tye
 
-- [https://github.com/thangchung/practical-dapr](https://github.com/thangchung/practical-dapr)
+- [https://github.com/thangchung/practical-dapr](https://github.com/thangchung/practical-dapr) - Thang Chung
     > A full-stack .NET microservices build on Dapr and Tye
 
 - [https://github.com/kimcu-on-thenet/dapr-tye-simple-microservices](https://github.com/kimcu-on-thenet/dapr-tye-simple-microservices)
     > An example of building .NET Core microservices with Dapr and Tye
+
+- [https://github.com/aspnetrun/run-aspnetcore-microservices](https://github.com/aspnetrun/run-aspnetcore-microservices) - AspNetRun
+	> Microservices on .Net platforms which used Asp.Net Web API, Docker, RabbitMQ, Ocelot API Gateway, MongoDB, Redis, SqlServer, Entity Framework Core, CQRS and Clean Architecture implementation. See Microservices Architecture and Step by Step Implementation on .NET Course w/ discount
+	
+- [https://github.com/aspnetrun/run-aspnet-identityserver4](https://github.com/aspnetrun/run-aspnet-identityserver4) - AspNetRun
+	> Secure microservices with using standalone Identity Server 4 and backing with Ocelot API Gateway. Protect our ASP.NET Web MVC and API applications with using OAuth 2 and OpenID Connect in IdentityServer4. Securing your web application and API with tokens, working with claims, authentication and authorization middlewares and applying policies.
+	
+- [https://github.com/alugili/ModernArchitectureShop](https://github.com/alugili/ModernArchitectureShop) - Bassam Alugili
+	> The Microservices Online Shop is an application with a modern software architecture that is cleanly designed and based on.NET lightweight technologies. The shop has two build variations. The first variant is the classic Microservices Architectural Style. The second one is with Dapr. Dapr has a comprehensive infrastructure  
