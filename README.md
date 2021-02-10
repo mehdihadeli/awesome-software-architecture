@@ -36,6 +36,26 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
   - [YAGNI](#yagni)
   - [Minimize Coupling](#minimize-coupling) 
   - [Maximize Cohesion](#maximize-cohesion) 
+- [Design Patterns](#design-patterns)
+   - [Decorator](#decorator)
+- [Cloud Design Patterns](#cloud-design-patterns)
+  - [Anti-Corruption Layer Pattern](#anti-corruption-layer-pattern)
+  - [Asynchronous Request-Reply pattern](#anti-corruption-layer-pattern)
+  - [Cache-Aside](#cache-aside)
+  - [Command and Query Responsibility Segregation (CQRS)](#command-and-query-responsibility-segregation-(cqrs))
+  - [Circuit Breaker](#circuit-breaker)
+  - [Gateway Aggregation](#gateway-aggregation)
+  - [Gateway Offloading](#gateway-offloading)
+  - [Gateway Routing](#gateway-routing)
+  - [Priority Queue](#priority-queue)
+  - [Publisher/Subscriber](#publisher/subscriber)
+  - [Retry](#retry)
+  - [Saga](#saga)
+  - [Sharding](#sharding)
+  - [Sidecar](#sidecar)
+  - [Throttling](#throttling)
+  - [Valet Key](#valet-key)
+  
 - [Anti Patterns](#anti-patterns)
   - [Anemic Domain Model](#anemic-domain-model)
 - [Modular Monolith](#modular-monolith)
@@ -192,6 +212,55 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 #### Articles
 - [YAGNI](https://deviq.com/principles/yagni) - DevIQ
 - [YAGNI](https://java-design-patterns.com/principles/#yagni) - java-design-patterns
+
+
+## Design Patterns
+
+- [https://github.com/abishekaditya/DesignPatterns](https://github.com/abishekaditya/DesignPatterns)
+	> Project : Design Patterns Examples in C#
+	
+- [https://github.com/anupavanm/csharp-design-patterns-for-humans](https://github.com/anupavanm/csharp-design-patterns-for-humans)
+	> Design Patterns for Humans™ - An ultra-simplified explanation - C# Examples
+	
+- [https://github.com/nemanjarogic/DesignPatternsLibrary](https://github.com/nemanjarogic/DesignPatternsLibrary)
+	> A comprehensive design patterns library implemented in C#, which covers various design patterns from the most commonly used ones to the lesser-known ones. Get familiar with and learn design patterns through moderately realistic examples.
+
+## Cloud Design Patterns
+ 
+ - [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/index-patterns)
+ 
+###  Anti-Corruption Layer Pattern
+
+###  Asynchronous Request-Reply pattern
+
+###  Cache-Aside
+
+###  Command and Query Responsibility Segregation (CQRS)
+
+###  Circuit Breaker
+
+###  Gateway Aggregation
+
+###  Gateway Offloading
+
+###  Gateway Routing
+
+###  Priority Queue
+
+###  Publisher/Subscriber
+
+###  Retry
+
+###  Saga
+
+###  Sharding
+
+###  Sidecar
+
+###  Throttling
+
+###  Valet Key
+
 
 ## Anti Patterns
 
