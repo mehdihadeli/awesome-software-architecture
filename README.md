@@ -13,14 +13,14 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-archi
 Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https://www.linkedin.com/in/mehdihadeli/) or [Twitter](https://twitter.com/mehdi_hadeli)!
 
 ## Contents
-- [Architectural Principles](architectural-principles)
+- [Architectural Style](#architectural-style)
   - [Traditional N-Layer Architecture](traditional-n-layer-architecture)
   - [Clean Architecture](#clean-architecture)
   - [Onion Architecture](#onion-architecture)
   - [Ports And Adapters Architecture (Hexagonal Architecture)](#ports-and-adapters-architecture-hexagonal-architecture-)
   - [Vertical Slice Architecture](#vertical-slice-architecture)
   - [Event Driven Architecture](#event-driven-architecture)
-- [Design Principles](#design-principles)
+- [Architectural Design Principles](#architectural-design-principles)
   - [Crosscutting Concerns](#crosscutting-concerns)
   - [Encapsulation](#encapsulation)
   - [Dependency Inversion](#dependency-inversion)
@@ -60,25 +60,30 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
   - [At-least-Once Delivery (Outbox Pattern)](#at-least-once-delivery-(outbox-pattern))
   - [Exactly-Once Delivery](#exactly-once-delivery)
 - [Object Oriented Design](#object-oriented-design)
+- [Distributed Systems Design](#distributed-systems-design)
 - [Clean Code](#clean-code)
 - [Anti Patterns](#anti-patterns)
   - [Anemic Domain Model](#anemic-domain-model)
 - [Asynchronous Patterns](#asynchronous-patterns)
 - [Modular Monolith](#modular-monolith)
 - [CQRS](#cqrs)
-- [DDD](#ddd)
-  - [Value Objects](#value-objects)
-  - [Domain](#domain)
-  - [Domain Event](#domain-event)
-  - [Aggregation](#aggregation)
-  - [Domain Primitives](#domain-primitives)
+- [Event Sourcing](#event-sourcing)
 - [MicroServices](#microservices)
+- [Books](#books)
 
-## Architectural Principles
+
+## Architectural Style
+
+## Resources
+
+- [Architectural Patterns and Styles](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ee658117(v=pandp.10)) - Microsoft
+
+### 📝 Articles
+- [The Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/) - Herberto Graca
 
 ### Traditional N-Layer Architecture
 
-#### Articles
+#### 📝 Articles
 
 - [N-tier architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier)
 - [Traditional "N-Layer" architecture applications](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures#traditional-n-layer-architecture-applications)
@@ -87,7 +92,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### Clean Architecture
 
-#### Articles
+#### 📝 Articles
 - [Clean architecture](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures#clean-architecture)
 - [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 - [CQRS Translated to Clean Architecture](https://blog.fals.io/2018-09-19-cqrs-clean-architecture/)
@@ -119,13 +124,16 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [https://github.com/EduardoPires/EquinoxProject](https://github.com/EduardoPires/EquinoxProject) - Eduardo Pires
     > Full ASP.NET Core 3.1 application with DDD, CQRS and Event Sourcing concepts
 
+- [https://github.com/ardalis/cleanarchitecture](https://github.com/ardalis/cleanarchitecture) - Steve Smith
+    > A starting point for Clean Architecture with ASP.NET Core - [Project Template (visual studio extension)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.CleanArchitecture)
+	
 - [https://github.com/dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - Steve Smith
     > Sample ASP.NET Core 5.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.
 
 - [https://github.com/JacobsDataSolutions/OrgManager](https://github.com/JacobsDataSolutions/OrgManager)
     > CQRS and Clean Domain-Driven Design concepts on the ASP.NET Core stack. Demo application for a fictional corporate organization management tool.
 
-- [https://github.com/matthewrenze/clean-architecture-demo](https://github.com/matthewrenze/clean-architecture-demo)
+- [https://github.com/matthewrenze/clean-architecture-demo](https://github.com/matthewrenze/clean-architecture-demo) - Matthew Renze
     > A sample app for my presentation on Clean Architecture: Patterns, Practices, and Principles
 
 - [https://github.com/jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Jason Taylor
@@ -133,9 +141,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 - [https://github.com/jasontaylordev/NorthwindTraders](https://github.com/jasontaylordev/NorthwindTraders) - Jason Taylor
     > Northwind Traders is a sample application built using ASP.NET Core and Entity Framework Core.
-
-- [https://github.com/ardalis/cleanarchitecture](https://github.com/ardalis/cleanarchitecture) - Steve Smith
-    > A starting point for Clean Architecture with ASP.NET Core - [Project Template (visual studio extension)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.CleanArchitecture)
 
 - [https://github.com/mmacneil/CleanAspNetCoreWebApi](https://github.com/mmacneil/CleanAspNetCoreWebApi) - Mark Macneil
     > Starter project for creating APIs built on ASP.NET Core using clean architecture.
@@ -146,8 +151,8 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [https://github.com/Daniel-Krzyczkowski/CleanArchitectureWithDevSecOps](https://github.com/Daniel-Krzyczkowski/CleanArchitectureWithDevSecOps) - Daniel Krzyczkowski
     > This repository contains code samples related with clean software architecture and DevSecOps.
 
-- [https://github.com/iammukeshm/CleanArchitecture.WebApi](https://github.com/iammukeshm/CleanArchitecture.WebApi) - Mukesh Murugan
-    > An implementation of Clean Architecture for ASP.NET Core 3.1 WebAPI. Built with loosely coupled architecture and clean-code practices in mind. - [Project Template (visual studio extension)](https://marketplace.visualstudio.com/items?itemName=MukeshMurugan.CleanArchitectureWebApi)
+- [https://github.com/aspnetcorehero/Boilerplate](https://github.com/aspnetcorehero/Boilerplate) - Mukesh Murugan
+    > Clean Architecture Solution Template for ASP.NET Core 5.0. Built with Onion/Hexagonal Architecture and incorporates the most essential Packages your projects will ever need. Includes both WebApi and Web(MVC) Projects.
 
 - [https://github.com/fals/cqrs-clean-eventual-consistency](https://github.com/fals/cqrs-clean-eventual-consistency) - Filipe Augusto
 	> CQRS, using Clean Architecture, multiple databases and Eventual Consistency
@@ -164,8 +169,14 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [https://github.com/aspnetrun/run-aspnetcore](https://github.com/aspnetrun/run-aspnetcore) - AspNetRun
 	> A starter kit for your next ASP.NET Core web application. Boilerplate for ASP.NET Core reference application, demonstrating a layered application architecture with applying Clean Architecture and DDD
 	
-### Onion Architecture
+- [https://github.com/aspnetrun/run-aspnetcore-cqrs](https://github.com/aspnetrun/run-aspnetcore-cqrs) - AspNetRun
+	> Real world Enterprise CRM application example of ASP.NET Core + Angular web application. Implemented CQRS Design Pattern for ASP.NET Core + Angular reference application, demonstrating a layered application architecture with DDD
 
+- [https://github.com/aspnetrun/run-aspnetcore-realworld](https://github.com/aspnetrun/run-aspnetcore-realworld) - AspNetRun
+	> E-Commerce real world example of run-aspnetcore ASP.NET Core web application. Implemented e-commerce domain with clean architecture for ASP.NET Core reference application, demonstrating a layered application architecture with DDD best practices.
+
+- [https://github.com/jacobduijzer/CleanArchitectureTemplate](https://github.com/jacobduijzer/CleanArchitectureTemplate)
+	> A template for a dotnet core api / mvc "clean architecture" project.
 #### 📝 Articles
 - [Onion Architecture In ASP.NET Core With CQRS – Detailed](https://codewithmukesh.com/blog/onion-architecture-in-aspnet-core/) - CodeWithMukesh
 - [Onion Architecture](https://herbertograca.com/2017/09/21/onion-architecture/) - Herberto Graca
@@ -199,13 +210,16 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 #### 📝 Articles
 - [Event-driven architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/event-driven)
-- [Event-Driven Architecture](https://herbertograca.com/2017/10/05/event-driven-architecture/)
+- [Event-Driven Architecture](https://herbertograca.com/2017/10/05/event-driven-architecture/) - Herberto Graca
 - [Journey to Event Driven – Part 1: Why Event-First Programming Changes Everything](https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything/)
 - [Journey to Event Driven – Part 2: Programming Models for the Event-Driven Architecture](https://www.confluent.io/blog/journey-to-event-driven-part-2-programming-models-event-driven-architecture/)
 - [Journey to Event Driven – Part 3: The Affinity Between Events, Streams and Serverless](https://www.confluent.io/blog/journey-to-event-driven-part-3-affinity-between-events-streams-serverless/)
 - [Journey to Event Driven – Part 4: Four Pillars of Event Streaming Microservices](https://www.confluent.io/blog/journey-to-event-driven-part-4-four-pillars-of-event-streaming-microservices/)
 
-## Design Principles
+## Architectural Design Principles
+
+### Resources
+- [Architectural principles](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles) - Microsoft
 - [Principles](https://deviq.com/principles/principles-overview) - DevIQ
 - [10 Crucial Software Development Principles to Live By](https://www.laneways.agency/software-development-principles/)
 - [10 OOP Design Principles Every Programmer Should Know](https://hackernoon.com/10-oop-design-principles-every-programmer-should-know-f187436caf65)
@@ -215,7 +229,8 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ### Cross Cutting Concerns
 
 #### 📝 Articles
-- [Managing Cross Cutting Concerns – Logging](https://www.cshandler.com/2015/10/managing-cross-cutting-concerns-logging.html#.YCA5VOlR0uV)
+- [Crosscutting Concerns](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ee658105(v=pandp.10)) - Microsoft
+- [Managing Cross Cutting Concerns – Logging](https://www.cshandler.com/2015/10/managing-cross-cutting-concerns-logging.html)
 - [Cross cutting concern example](https://stackoverflow.com/questions/23700540/cross-cutting-concern-example)
 - [cross cutting concern](https://medium.com/anatta-design/cross-cutting-concern-aadf4f51a5c1)
 - [Cross-Cutting Concerns for An Enterprise Application](https://dzone.com/articles/cross-cutting-concerns-for-an-enterprise-applicati)
@@ -320,6 +335,26 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Object Oriented Design
 
+## Distributed Systems Design
+
+### Resources
+- [System Design](https://www.youtube.com/playlist?list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV) - Tech Dummies Narendra L
+- [Coding and System Design Interview Questions](https://www.youtube.com/playlist?list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka) - Success in Tech
+- [System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) - Gaurav Sen
+- [Basics of System Design](https://www.youtube.com/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u) - Coding Simplified
+- [System Design Primer Course](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a) - sudoCODE
+- [System Design And Interview](https://www.youtube.com/c/interviewingio/videos) - interviewing.io
+- [System Design](https://www.youtube.com/playlist?list=PLhgw50vUymyckXl3D1IlXoVl94wknJfUC) - codeKarle
+- [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Donne Martin
+- [https://github.com/checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - Zach
+- [https://github.com/shashank88/system_design](https://github.com/shashank88/system_design) - shashank khare
+- [https://github.com/lei-hsia/grokking-system-design](https://github.com/lei-hsia/grokking-system-design) - LEI XIA
+
+### 📝 Articles
+
+- [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
+
+
 ## Clean Code
 
 ### Resources
@@ -372,9 +407,25 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [https://github.com/kgrzybek/sample-dotnet-core-cqrs-api](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - Kamil Grzybek
 	> Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
 	
-- [https://github.com/aspnetrun/run-aspnetcore-cqrs](https://github.com/aspnetrun/run-aspnetcore-cqrs) - aspnetrun
+- [https://github.com/aspnetrun/run-aspnetcore-cqrs](https://github.com/aspnetrun/run-aspnetcore-cqrs) - AspNetRun
 	> Real world Enterprise CRM application example of ASP.NET Core + Angular web application. Implemented CQRS Design Pattern for ASP.NET Core + Angular reference application, demonstrating a layered application architecture with DDD
+
+## Event Sourcing
+
+### 📝 Articles 
+
+- [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) - Martin Fowler
+- [About event sourcing](https://eventuate.io/whyeventsourcing.html) - eventuate.io
+- [Event Sourcing pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing) - Microsoft
+
 ## DDD
+
+### Core Concepts
+####
+
+- [PPPDDD.1 – What is Domain Driven Design?](https://herbertograca.com/2016/08/15/pppddd-1-what-is-domain-driven-design/) - Herberto Graca
+- [PPPDDD.2 – Distilling the Problem Domain](https://herbertograca.com/2016/08/22/pppddd-2-distilling-the-problem-domain/) - Herberto Graca
+- [PPPDDD.3 – Focusing on the Core Domain](https://herbertograca.com/2016/10/03/pppddd-3-focusing-on-the-core-domain/) - Herberto Graca
 
 ### Value Objects
 
@@ -387,7 +438,19 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Always-Valid Domain Model](https://enterprisecraftsmanship.com/posts/always-valid-domain-model/) - Vladimir Khorikove
 - [Domain Model Encapsulation and PI with Entity Framework 2.2](http://www.kamilgrzybek.com/design/domain-model-encapsulation-and-pi-with-entity-framework-2-2/) - Kamil Grzybek
 - [Attributes of Clean Domain Model](http://www.kamilgrzybek.com/design/clean-domain-model-attributes/) - Kamil Grzybek
+- [Are CQRS commands part of the domain model?](https://enterprisecraftsmanship.com/2019/01/31/cqrs-commands-part-domain-model/) - Vladimir Khorikove
+- [Domain model purity vs. domain model completeness](https://enterprisecraftsmanship.com/posts/domain-model-purity-completeness/) - Vladimir Khorikove
+### Domain Service
+
+#### 📝 Articles
+
+### Application Service
+
+#### 📝 Articles
+- [Domain services vs Application services](https://enterprisecraftsmanship.com/2016/09/08/domain-services-vs-application-services/) - Vladimir Khorikove
+
 ### Domain Events
+
 
 #### 📝 Articles
 - [How to publish and handle Domain Events](http://www.kamilgrzybek.com/design/how-to-publish-and-handle-domain-events/) - Kamil Grzybek
@@ -420,6 +483,10 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 	
 - [https://github.com/aspnetrun/run-aspnetcore](https://github.com/aspnetrun/run-aspnetcore) - AspNetRun
 	> A starter kit for your next ASP.NET Core web application. Boilerplate for ASP.NET Core reference application, demonstrating a layered application architecture with applying Clean Architecture and DDD
+
+- [https://github.com/aspnetrun/run-aspnetcore-realworld](https://github.com/aspnetrun/run-aspnetcore-realworld) - AspNetRun
+	> E-Commerce real world example of run-aspnetcore ASP.NET Core web application. Implemented e-commerce domain with clean architecture for ASP.NET Core reference application, demonstrating a layered application architecture with DDD best practices.
+
 	
 ## MicroServices
 
@@ -455,3 +522,15 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 	
 - [https://github.com/alugili/ModernArchitectureShop](https://github.com/alugili/ModernArchitectureShop) - Bassam Alugili
 	> The Microservices Online Shop is an application with a modern software architecture that is cleanly designed and based on.NET lightweight technologies. The shop has two build variations. The first variant is the classic Microservices Architectural Style. The second one is with Dapr. Dapr has a comprehensive infrastructure  
+	
+- [https://github.com/aspnetrun/run-aspnet-grpc](https://github.com/aspnetrun/run-aspnet-grpc) - AspNetRun
+	> Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5. See gRPC Microservices and Step by Step Implementation on .NET Course w/ discount->
+
+
+## Books
+- [Microsoft Application Architecture Guide, 2nd Edition](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ff650706(v=pandp.10))
+- [Lean Architecture: for Agile Software Development Paperback – Illustrated, 13 July 2010](https://www.amazon.co.uk/Lean-Architecture-Agile-Software-Development/dp/0470684208)
+- [Patterns of Enterprise Application Architecture](https://www.amazon.co.uk/Enterprise-Application-Architecture-Addison-Wesley-Signature/dp/0321127420/)
+- [Documenting Software Architectures: Views and Beyond](https://www.amazon.co.uk/dp/0321552687)
+- [Designing Software Architectures: A Practical Approach](https://www.amazon.co.uk/Designing-Software-Architectures-Practical-Engineering/dp/0134390784)
+- [Clean Architecture: A Craftsman's Guide to Software Structure and Design: A Craftsman's Guide to Software Structure and Design](https://www.amazon.co.uk/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
