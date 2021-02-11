@@ -74,12 +74,10 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Architectural Style
 
-## Resources
-
+### Resources
 - [Architectural Patterns and Styles](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ee658117(v=pandp.10)) - Microsoft
-
-### 📝 Articles
 - [The Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/) - Herberto Graca
+- [Architectural Styles vs. Architectural Patterns vs. Design Patterns](https://herbertograca.com/2017/07/28/architectural-styles-vs-architectural-patterns-vs-design-patterns/)
 
 ### Traditional N-Layer Architecture
 
@@ -219,6 +217,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## Architectural Design Principles
 
 ### Resources
+- [Architectural Styles vs. Architectural Patterns vs. Design Patterns](https://herbertograca.com/2017/07/28/architectural-styles-vs-architectural-patterns-vs-design-patterns/)
 - [Architectural principles](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles) - Microsoft
 - [Principles](https://deviq.com/principles/principles-overview) - DevIQ
 - [10 Crucial Software Development Principles to Live By](https://www.laneways.agency/software-development-principles/)
@@ -350,6 +349,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [https://github.com/shashank88/system_design](https://github.com/shashank88/system_design) - shashank khare
 - [https://github.com/lei-hsia/grokking-system-design](https://github.com/lei-hsia/grokking-system-design) - LEI XIA
 
+
 ### 📝 Articles
 
 - [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
@@ -421,7 +421,8 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## DDD
 
 ### Core Concepts
-####
+
+#### 📝 Articles
 
 - [PPPDDD.1 – What is Domain Driven Design?](https://herbertograca.com/2016/08/15/pppddd-1-what-is-domain-driven-design/) - Herberto Graca
 - [PPPDDD.2 – Distilling the Problem Domain](https://herbertograca.com/2016/08/22/pppddd-2-distilling-the-problem-domain/) - Herberto Graca
@@ -497,7 +498,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 - [Microservices architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices)
 - [Securing Microservices with IdentityServer4, OAuth2 and OpenID Connect fronted by Ocelot API Gateway](https://medium.com/aspnetrun/securing-microservices-with-identityserver4-with-oauth2-and-openid-connect-fronted-by-ocelot-api-49ea44a0cf9e)
-
 
 ### 📦 Tools
 
