@@ -20,6 +20,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
   - [Ports And Adapters Architecture (Hexagonal Architecture)](#ports-and-adapters-architecture-hexagonal-architecture-)
   - [Vertical Slice Architecture](#vertical-slice-architecture)
   - [Event Driven Architecture](#event-driven-architecture)
+  - [MicroServices Architecture](#microservices)
 - [Architectural Design Principles](#architectural-design-principles)
   - [Crosscutting Concerns](#crosscutting-concerns)
   - [Encapsulation](#encapsulation)
@@ -64,11 +65,11 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Clean Code](#clean-code)
 - [Anti Patterns](#anti-patterns)
   - [Anemic Domain Model](#anemic-domain-model)
+  - [Code Smells](#code-smells)
 - [Asynchronous Patterns](#asynchronous-patterns)
 - [Modular Monolith](#modular-monolith)
 - [CQRS](#cqrs)
 - [Event Sourcing](#event-sourcing)
-- [MicroServices](#microservices)
 - [Books](#books)
 
 
@@ -86,13 +87,16 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [N-tier architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier)
 - [Traditional "N-Layer" architecture applications](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures#traditional-n-layer-architecture-applications)
 - [What is N-Tier Architecture? How It Works, Examples, Tutorials, and More](https://stackify.com/n-tier-architecture/)
-- [Layered Architecture](https://herbertograca.com/2017/08/03/layered-architecture/)
+- [Layered Architecture](https://herbertograca.com/2017/08/03/layered-architecture/) - Herberto Graca
 
 ### Clean Architecture
 
 #### 📝 Articles
-- [Clean architecture](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures#clean-architecture)
-- [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+- [Clean architecture](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures#clean-architecture) - Microsoft
+- [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) - Uncle Bob
+- [Onion Architecture In ASP.NET Core With CQRS – Detailed](https://codewithmukesh.com/blog/onion-architecture-in-aspnet-core/) - CodeWithMukesh
+- [Clean Architecture: Standing on the shoulders of giants](https://herbertograca.com/2017/09/28/clean-architecture-standing-on-the-shoulders-of-giants/) - Herberto Graca
+- [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/) - Herberto Graca
 - [CQRS Translated to Clean Architecture](https://blog.fals.io/2018-09-19-cqrs-clean-architecture/)
 - [A Brief Intro to Clean Architecture, Clean DDD, and CQRS](https://blog.jacobsdata.com/2020/02/19/a-brief-intro-to-clean-architecture-clean-ddd-and-cqrs)
 - [Clean Architecture with .NET Core: Getting Started](https://jasontaylor.dev/clean-architecture-getting-started/)
@@ -106,6 +110,8 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Clean Architecture for .NET Applications](https://paulovich.net/clean-architecture-for-net-applications/)
 - [Hexagonal and Clean Architecture Styles with .NET Core (Reviewed)](https://paulovich.net/hexagonal-and-clean-architecture-styles-with-net-core-reviewed/)
 - [ASP.NET Core WebAPI – Clean Architecture](https://codewithmukesh.com/project/aspnet-core-webapi-clean-architecture%e2%80%8b/)
+- [Getting Started with Clean Architecture using ASP.NET Core – 01](https://www.gokhan-gokalp.com/en/getting-started-with-clean-architecture-using-asp-net-core-01/) - Gökhan Gökalp
+
 
 #### 📹 Videoes
 - [Clean Testing - Clean Architecture with .NET Core - Jason Taylor - NDC Oslo 2020](https://www.youtube.com/watch?v=T6NRcX1vnz8) - Jason Taylor
@@ -116,7 +122,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Tour of Microsoft's Reference ASP NET Core App eShopOnWeb](https://www.youtube.com/watch?v=rSpF1s8wcyA) - Steve Smith
 - [An Overview of eShopOnWeb, an ASP.NET Core Reference Application](https://www.youtube.com/watch?v=vRZ8ucGac8M&ab_channel=Ardalis) - Steve Smith
 - [Clean Architecture S02](https://www.youtube.com/playlist?list=PLY9iz4il6pyO46KZN-xQtZZMtdpBO9AoR) - Ivan Paulovich
-
+- [Robert C Martin - Clean Architecture](https://www.youtube.com/watch?v=Nltqi7ODZTM&feature=youtu.be)
 #### 🔖 Samples
 
 - [https://github.com/EduardoPires/EquinoxProject](https://github.com/EduardoPires/EquinoxProject) - Eduardo Pires
@@ -175,7 +181,14 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 - [https://github.com/jacobduijzer/CleanArchitectureTemplate](https://github.com/jacobduijzer/CleanArchitectureTemplate)
 	> A template for a dotnet core api / mvc "clean architecture" project.
+
+- [https://github.com/CanerPatir/aspnet-core-clean-arch](https://github.com/CanerPatir/aspnet-core-clean-arch)
+	> It is a clean architecture project template which is based on hexagonal-architecture principles built with .Net core.
+	
+### Onion Architecture
+
 #### 📝 Articles
+
 - [Onion Architecture In ASP.NET Core With CQRS – Detailed](https://codewithmukesh.com/blog/onion-architecture-in-aspnet-core/) - CodeWithMukesh
 - [Onion Architecture](https://herbertograca.com/2017/09/21/onion-architecture/) - Herberto Graca
 - [The Onion Architecture : part 1](https://jeffreypalermo.com/2008/07/the-onion-architecture-part-1) - Jeffrey Palermo
@@ -184,6 +197,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Onion Architecture: Part 4 – After Four Years](https://jeffreypalermo.com/2013/08/onion-architecture-part-4-after-four-years/) - Jeffrey Palermo
 - [Clean architecture series — Part 2](https://dev.to/pereiren/clean-architecture-series-part-2-49db) - David Pereira
 - [A simple template for Onion Architecture with .NET 5](https://dev.to/pereiren/a-simple-template-for-onion-architecture-with-net-5-3gll) - David Pereira
+- [Peeling Back the Onion Architecture](https://blog.tonysneed.com/2011/10/08/peeling-back-the-onion-architecture/) - Tony Sneed
 
 #### 🔖 Samples
 
@@ -193,9 +207,25 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ### Ports And Adapters Architecture (Hexagonal Architecture)
 
 #### 📝 Articles
+
 - [Ports & Adapters Architecture](https://herbertograca.com/2017/09/14/ports-adapters-architecture/) - Herberto Graca
-- [Hexagonal architecture](https://alistair.cockburn.us/hexagonal-architecture/) - Alistair Cockburn
-- [Clean architecture series - Part 1](https://dev.to/pereiren/clean-architecture-series-part-1-m64)
+- [Hexagonal architecture](http://web.archive.org/web/20180422210157/http://alistair.cockburn.us/Hexagonal+Architecture) - Alistair Cockburn
+- [Clean architecture series— Part 1](https://pereiren.medium.com/clean-architecture-series-part-1-f34ef6b04b62)
+- [Implementing Hexagonal Ports and Adapters Architectural Style](https://amanagrawal.blog/2018/11/17/implementing-hexagonal-ports-and-adapters-architectural-style/)
+- [Hexagonal Architecture Style](https://github.com/ivanpaulovich/clean-architecture-manga/wiki/Architecture-Styles#ports-and-adapters-architecture-style) - Ivan Paulovich
+- [Ports & Adapters architecture on example](https://wkrzywiec.medium.com/ports-adapters-architecture-on-example-19cab9e93be7)
+- [Hexagonal Architecture with Java and Spring](https://reflectoring.io/spring-hexagonal/)
+- [Layers, Onions, Ports, Adapters: it's all the same](https://blog.ploeh.dk/2013/12/03/layers-onions-ports-adapters-its-all-the-same/)
+
+#### 🔖 Samples
+- [https://github.com/ivanpaulovich/hexagonal-architecture-acerola](https://github.com/ivanpaulovich/hexagonal-architecture-acerola) - Ivan Paulovich
+	> An Hexagonal Architecture service template with DDD, CQRS, TDD and SOLID using .NET Core 2.0. All small features are testable and could be mocked. Adapters could be mocked or exchanged.
+
+- [https://github.com/ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) - Ivan Paulovich
+	> Clean Architecture with .NET5, C#9 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks
+
+- [https://github.com/CanerPatir/aspnet-core-clean-arch](https://github.com/CanerPatir/aspnet-core-clean-arch)
+	> It is a clean architecture project template which is based on hexagonal-architecture principles built with .Net core.
 
 ### Vertical Slice Architecture
 
@@ -213,6 +243,44 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Journey to Event Driven – Part 2: Programming Models for the Event-Driven Architecture](https://www.confluent.io/blog/journey-to-event-driven-part-2-programming-models-event-driven-architecture/)
 - [Journey to Event Driven – Part 3: The Affinity Between Events, Streams and Serverless](https://www.confluent.io/blog/journey-to-event-driven-part-3-affinity-between-events-streams-serverless/)
 - [Journey to Event Driven – Part 4: Four Pillars of Event Streaming Microservices](https://www.confluent.io/blog/journey-to-event-driven-part-4-four-pillars-of-event-streaming-microservices/)
+
+### MicroServices Architecture
+
+### Resources
+- [Awesome Microservices .NET Core](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - A collection of awesome training series, Articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core
+
+#### 📝 Articles
+- [Microservices architecture: What the gurus say about it](https://herbertograca.com/2017/01/26/microservices-architecture/)
+- [Microservices architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices)
+- [Securing Microservices with IdentityServer4, OAuth2 and OpenID Connect fronted by Ocelot API Gateway](https://medium.com/aspnetrun/securing-microservices-with-identityserver4-with-oauth2-and-openid-connect-fronted-by-ocelot-api-49ea44a0cf9e)
+
+#### 📦 Tools
+
+- [https://github.com/dotnet/tye](https://github.com/dotnet/tye)
+    > Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
+
+#### 🔖 Samples
+- [https://github.com/vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - Thang Chung
+    > A full-stack .NET microservices build on Dapr and Tye
+
+- [https://github.com/thangchung/practical-dapr](https://github.com/thangchung/practical-dapr) - Thang Chung
+    > A full-stack .NET microservices build on Dapr and Tye
+
+- [https://github.com/kimcu-on-thenet/dapr-tye-simple-microservices](https://github.com/kimcu-on-thenet/dapr-tye-simple-microservices)
+    > An example of building .NET Core microservices with Dapr and Tye
+
+- [https://github.com/aspnetrun/run-aspnetcore-microservices](https://github.com/aspnetrun/run-aspnetcore-microservices) - AspNetRun
+	> Microservices on .Net platforms which used Asp.Net Web API, Docker, RabbitMQ, Ocelot API Gateway, MongoDB, Redis, SqlServer, Entity Framework Core, CQRS and Clean Architecture implementation. See Microservices Architecture and Step by Step Implementation on .NET Course w/ discount
+	
+- [https://github.com/aspnetrun/run-aspnet-identityserver4](https://github.com/aspnetrun/run-aspnet-identityserver4) - AspNetRun
+	> Secure microservices with using standalone Identity Server 4 and backing with Ocelot API Gateway. Protect our ASP.NET Web MVC and API applications with using OAuth 2 and OpenID Connect in IdentityServer4. Securing your web application and API with tokens, working with claims, authentication and authorization middlewares and applying policies.
+	
+- [https://github.com/alugili/ModernArchitectureShop](https://github.com/alugili/ModernArchitectureShop) - Bassam Alugili
+	> The Microservices Online Shop is an application with a modern software architecture that is cleanly designed and based on.NET lightweight technologies. The shop has two build variations. The first variant is the classic Microservices Architectural Style. The second one is with Dapr. Dapr has a comprehensive infrastructure  
+	
+- [https://github.com/aspnetrun/run-aspnet-grpc](https://github.com/aspnetrun/run-aspnet-grpc) - AspNetRun
+	> Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5. See gRPC Microservices and Step by Step Implementation on .NET Course w/ discount->
+
 
 ## Architectural Design Principles
 
@@ -374,12 +442,19 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [AnemicDomainModel](https://www.martinfowler.com/bliki/AnemicDomainModel.html)
 - [What is Anemic Domain Model and why it can be harmful?](https://danielrusnok.medium.com/what-is-anemic-domain-model-and-why-it-can-be-harmful-2677b1b0a79a) - Daniel Rusnok
 
+### Code Smells
+
+#### 📝 Articles
+
+- [Code Smells](https://deviq.com/antipatterns/code-smells) - DevIQ
+
 ## Asynchronous Patterns
 
 ### 📝 Articles
 - [Communication in a microservice architecture](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/communication-in-microservice-architecture) - Microsoft
 - [Asynchronous message-based communication](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/asynchronous-message-based-communication) - Microsoft
 - [Modular Monolith: Integration Styles](http://www.kamilgrzybek.com/tag/messaging/) - Kamil Grzybek
+
 ## Modular Monolith
 
 ### 📝 Articles
@@ -461,6 +536,10 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 #### 📝 Articles
 - [Processing multiple aggregates – transactional vs eventual consistency](https://www.kamilgrzybek.com/design/processing-multiple-aggregates-transactional-vs-eventual-consistency/) - Kamil Grzybek
+- [Aggregate (Root) Design: Behavior & Data](https://codeopinion.com/aggregate-root-design-behavior-data/?utm_source=feedly&utm_medium=rss&utm_campaign=aggregate-root-design-behavior-data) - CodeOpinion
+
+#### 📹 Videoes
+- [Aggregate (Root) Design: Separate Behavior & Data for Persistence](https://www.youtube.com/watch?v=GtWVGJp061A) - CodeOpinion
 
 ### Domain Primitives
 
@@ -488,44 +567,8 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [https://github.com/aspnetrun/run-aspnetcore-realworld](https://github.com/aspnetrun/run-aspnetcore-realworld) - AspNetRun
 	> E-Commerce real world example of run-aspnetcore ASP.NET Core web application. Implemented e-commerce domain with clean architecture for ASP.NET Core reference application, demonstrating a layered application architecture with DDD best practices.
 
-	
-## MicroServices
-
-### Resources
-- [Awesome Microservices .NET Core](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - A collection of awesome training series, Articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core
-
-### 📝 Articles
-
-- [Microservices architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices)
-- [Securing Microservices with IdentityServer4, OAuth2 and OpenID Connect fronted by Ocelot API Gateway](https://medium.com/aspnetrun/securing-microservices-with-identityserver4-with-oauth2-and-openid-connect-fronted-by-ocelot-api-49ea44a0cf9e)
-
-### 📦 Tools
-
-- [https://github.com/dotnet/tye](https://github.com/dotnet/tye)
-    > Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
-
-### 🔖 Samples
-- [https://github.com/vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - Thang Chung
-    > A full-stack .NET microservices build on Dapr and Tye
-
-- [https://github.com/thangchung/practical-dapr](https://github.com/thangchung/practical-dapr) - Thang Chung
-    > A full-stack .NET microservices build on Dapr and Tye
-
-- [https://github.com/kimcu-on-thenet/dapr-tye-simple-microservices](https://github.com/kimcu-on-thenet/dapr-tye-simple-microservices)
-    > An example of building .NET Core microservices with Dapr and Tye
-
-- [https://github.com/aspnetrun/run-aspnetcore-microservices](https://github.com/aspnetrun/run-aspnetcore-microservices) - AspNetRun
-	> Microservices on .Net platforms which used Asp.Net Web API, Docker, RabbitMQ, Ocelot API Gateway, MongoDB, Redis, SqlServer, Entity Framework Core, CQRS and Clean Architecture implementation. See Microservices Architecture and Step by Step Implementation on .NET Course w/ discount
-	
-- [https://github.com/aspnetrun/run-aspnet-identityserver4](https://github.com/aspnetrun/run-aspnet-identityserver4) - AspNetRun
-	> Secure microservices with using standalone Identity Server 4 and backing with Ocelot API Gateway. Protect our ASP.NET Web MVC and API applications with using OAuth 2 and OpenID Connect in IdentityServer4. Securing your web application and API with tokens, working with claims, authentication and authorization middlewares and applying policies.
-	
-- [https://github.com/alugili/ModernArchitectureShop](https://github.com/alugili/ModernArchitectureShop) - Bassam Alugili
-	> The Microservices Online Shop is an application with a modern software architecture that is cleanly designed and based on.NET lightweight technologies. The shop has two build variations. The first variant is the classic Microservices Architectural Style. The second one is with Dapr. Dapr has a comprehensive infrastructure  
-	
-- [https://github.com/aspnetrun/run-aspnet-grpc](https://github.com/aspnetrun/run-aspnet-grpc) - AspNetRun
-	> Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5. See gRPC Microservices and Step by Step Implementation on .NET Course w/ discount->
-
+- [https://github.com/itlibrium/DDD-starter-dotnet](https://github.com/itlibrium/DDD-starter-dotnet)
+	> Sample implementation and comparison of various approaches to building DDD applications. Useful as a baseline to quickly start a DDD dot net project.
 
 ## Books
 - [Microsoft Application Architecture Guide, 2nd Edition](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ff650706(v=pandp.10))
@@ -533,4 +576,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Patterns of Enterprise Application Architecture](https://www.amazon.co.uk/Enterprise-Application-Architecture-Addison-Wesley-Signature/dp/0321127420/)
 - [Documenting Software Architectures: Views and Beyond](https://www.amazon.co.uk/dp/0321552687)
 - [Designing Software Architectures: A Practical Approach](https://www.amazon.co.uk/Designing-Software-Architectures-Practical-Engineering/dp/0134390784)
-- [Clean Architecture: A Craftsman's Guide to Software Structure and Design: A Craftsman's Guide to Software Structure and Design](https://www.amazon.co.uk/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
+- [Clean Architecture: A Craftsman's Guide to Software Structure and Design: A Craftsman's Guide to Software Structure and Design](https://www.amazon.co.uk/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164
+- [Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure](https://ardalis.com/architecture-ebook/)
+- [Agile Principles, Patterns, and Practices in C# ](https://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258)
