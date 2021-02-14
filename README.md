@@ -236,10 +236,13 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ### Vertical Slice Architecture
 
 #### 📝 Articles
-- [Vertical Slice Architecture](https://jimmybogard.com/vertical-slice-architecture/)
+- [Vertical Slice Architecture](https://jimmybogard.com/vertical-slice-architecture/) - Jimmy Bogard
 - [Why vertical slice architecture is better—if you know these few things](https://headspring.com/2019/11/05/why-vertical-slice-architecture-is-better/)
 - [Architecting for maintainability through Vertical Slices ](https://www.ghyston.com/insights/architecting-for-maintainability-through-vertical-slices/)
 
+#### 📹 Videoes
+- [Vertical Slice Architecture - Jimmy Bogard](https://www.youtube.com/watch?v=5kOzZz2vj2o) - Jimmy Bogard
+ 
 ### Event Driven Architecture
 
 #### 📝 Articles
@@ -255,11 +258,12 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ### Resources
 - [Awesome Microservices .NET Core](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - A collection of awesome training series, Articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core
 - [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/) - Microsoft
+
 #### 📝 Articles
 - [Microservices architecture: What the gurus say about it](https://herbertograca.com/2017/01/26/microservices-architecture/)
 - [Microservices architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices)
 - [Securing Microservices with IdentityServer4, OAuth2 and OpenID Connect fronted by Ocelot API Gateway](https://medium.com/aspnetrun/securing-microservices-with-identityserver4-with-oauth2-and-openid-connect-fronted-by-ocelot-api-49ea44a0cf9e)
-
+- [The Hardest Part About Microservices: Your Data](https://blog.christianposta.com/microservices/the-hardest-part-about-microservices-data/) - Christian Posta
 #### 📦 Tools
 
 - [https://github.com/dotnet/tye](https://github.com/dotnet/tye)
@@ -493,22 +497,69 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Command and Query Responsibility Segregation (CQRS) pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs) - Microsoft
 - [Simple CQRS implementation with raw SQL and DDD](http://www.kamilgrzybek.com/design/simple-cqrs-implementation-with-raw-sql-and-ddd/) - Kamil Grzybek
 - [Implement reads/queries in a CQRS microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/cqrs-microservice-reads) - Microsoft
+- [Event Sourcing and CQRS in C#](http://www.andreavallotti.tech/en/2018/01/event-sourcing-and-cqrs-in-c/) - Andrea Vallotti
+- [Real-World CQRS/ES with ASP.NET and Redis Part 1 - Overview](https://exceptionnotfound.net/real-world-cqrs-es-with-asp-net-and-redis-part-1-overview/) - ExceptionNotFound
+- [Getting Started with CQRS – Part 1](https://www.red-gate.com/simple-talk/dotnet/c-programming/getting-started-with-cqrs-part-1/) - Diogo Souza
+- [Getting Started with CQRS – Part 2](https://www.red-gate.com/simple-talk/dotnet/c-programming/getting-started-with-cqrs-part-2/) - Diogo Souza
+- [Getting Started with CQRS – Part 3](https://www.red-gate.com/simple-talk/dotnet/c-programming/getting-started-with-cqrs-part-3/) - Diogo Souza
+- [CQRS - FIRST STEP - SPLIT TO COMMANDS AND QUERIES](https://radekmaziarka.pl/2017/08/19/cqrs-first-step-split-to-commands-and-queries/) - Radek Maziarka
+- [CQRS - SECOND STEP - DIFFERENT DATA ACCESS](https://radekmaziarka.pl/2017/10/31/cqrs-second-step-different-data-access) - Radek Maziarka
+- [CQRS - THIRD STEP - SIMPLE READ MODEL](https://radekmaziarka.pl/2018/01/08/cqrs-third-step-simple-read-model/) - Radek Maziarka
+- [Event Sourcing and CQRS in C#](http://www.andreavallotti.tech/en/2018/01/event-sourcing-and-cqrs-in-c/) - Andrea Vallotti
+
 ### 🔖 Samples
 
+- [https://github.com/gautema/CQRSlite](https://github.com/gautema/CQRSlite) - Gaute Magnussen
+	> A lightweight framework to help creating CQRS and Eventsourcing applications in C#
+	
+- [https://github.com/gregoryyoung/m-r](https://github.com/gregoryyoung/m-r) - Greg Young
+	> Simple CQRS example
+	
 - [https://github.com/kgrzybek/sample-dotnet-core-cqrs-api](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - Kamil Grzybek
 	> Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
 	
+- [https://github.com/jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages) - Jimmy Bogard
+
+- [https://github.com/VenomAV/EventSourcingCQRS](https://github.com/VenomAV/EventSourcingCQRS) - Andrea Vallotti
+	> Sample ASP.NET Core application based on Event Sourcing and CQRS patterns
+	
 - [https://github.com/aspnetrun/run-aspnetcore-cqrs](https://github.com/aspnetrun/run-aspnetcore-cqrs) - AspNetRun
 	> Real world Enterprise CRM application example of ASP.NET Core + Angular web application. Implemented CQRS Design Pattern for ASP.NET Core + Angular reference application, demonstrating a layered application architecture with DDD
-
+	
+- [https://github.com/exceptionnotfound/DotNetCqrsDemo](https://github.com/exceptionnotfound/DotNetCqrsDemo) - exceptionnotfound
+	
 ## Event Sourcing
 
 ### 📝 Articles 
-
 - [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) - Martin Fowler
+- [Event Sourcing and CQRS in C#](http://www.andreavallotti.tech/en/2018/01/event-sourcing-and-cqrs-in-c/) - Andrea Vallotti
 - [About event sourcing](https://eventuate.io/whyeventsourcing.html) - eventuate.io
 - [Event Sourcing pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing) - Microsoft
+- [Event Sourcing in .NET Core – part 1: a gentle introduction](https://www.davideguida.com/event-sourcing-in-net-core-part-1-a-gentle-introduction/) - David Guida
+- [Event Sourcing in .NET Core – part 2: storing events](https://www.davideguida.com/event-sourcing-in-net-core-part-2-storing-events/) - David Guida
+- [What is Event Sourcing?](https://www.ahmetkucukoglu.com/en/what-is-event-sourcing/) - Ahmet Kucukoglu
+- [Event Sourcing with ASP.NET Core – 01 Store](https://www.ahmetkucukoglu.com/en/event-sourcing-with-asp-net-core-01-store/) - Ahmet Kucukoglu
+- [Event Sourcing with ASP.NET Core – 02 Messaging](https://www.ahmetkucukoglu.com/en/event-sourcing-with-aspnet-core-02-messaging/) - Ahmet Kucukoglu
+- [Domain events: design and implementation](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/domain-events-design-implementation)
+- [Building microservices through Event Driven Architecture part1 : application specific business rules](https://logcorner.com/building-microservices-through-event-driven-architecture-part1-application-specific-business-rules/) - Gora LEYE
+- [Event sourcing: making it functional (1)](https://blog.scooletz.com/2017/01/05/event-sourcing-making-it-functional-1/) - Szymon Kulec
+- [Real-World CQRS/ES with ASP.NET and Redis Part 1 - Overview](https://exceptionnotfound.net/real-world-cqrs-es-with-asp-net-and-redis-part-1-overview/) - ExceptionNotFound
+- [Getting Started with CQRS – Part 3](https://www.red-gate.com/simple-talk/dotnet/c-programming/getting-started-with-cqrs-part-3/) - Diogo Souza
+- [Event Sourcing: Awesome, powerful & different](https://www.erikheemskerk.nl/event-sourcing-awesome-powerful-different/) - Erik Heemskerk
+- [Event Sourcing: Eventual Consistency and Responding to Events](https://www.erikheemskerk.nl/event-sourcing-eventual-consistency-responding-to-events/) - Erik Heemskerk
+- [Event Sourcing: CQRS and querying using read models](https://www.erikheemskerk.nl/event-sourcing-cqrs-querying-read-models/) - Erik Heemskerk
+- [CQRS - THIRD STEP - SIMPLE READ MODEL](https://radekmaziarka.pl/2018/01/08/cqrs-third-step-simple-read-model/) - Radek Maziarka
+- [Event Sourcing applied – the application service](https://lostechies.com/gabrielschenker/2015/06/13/event-sourcing-applied-the-application-service/) - Jimmy Bogard
+- [Event Sourcing applied – the Aggregate](https://lostechies.com/gabrielschenker/2015/06/06/event-sourcing-applied-the-aggregate/) - Jimmy Bogard
+- [Event sourcing revisited](https://lostechies.com/gabrielschenker/2015/05/26/event-sourcing-revisited/) - Jimmy Bogard
+### 🔖 Samples
 
+- [https://github.com/VenomAV/EventSourcingCQRS](https://github.com/VenomAV/EventSourcingCQRS) - Andrea Vallotti
+	> Sample ASP.NET Core application based on Event Sourcing and CQRS patterns
+
+- [https://github.com/gautema/CQRSlite](https://github.com/gautema/CQRSlite)
+	> A lightweight framework to help creating CQRS and Eventsourcing applications in C#
+	
 ## DDD
 
 ### Core Concepts
@@ -521,6 +572,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [A Brief Intro to Clean Architecture, Clean DDD, and CQRS](https://blog.jacobsdata.com/2020/02/19/a-brief-intro-to-clean-architecture-clean-ddd-and-cqrs) - Jacobs Data
 - [A Basic Intro to Domain-Driven Design](https://blog.jacobsdata.com/2020/02/10/a-basic-intro-to-domain-driven-design) - Jacobs Data
 - [A Template for Clean Domain-Driven Design Architecture](https://blog.jacobsdata.com/2020/03/02/a-clean-domain-driven-design-architectural-template) - Jacobs Data
+
+#### 📹 Videoes
+- [Domain Driven Design: The Good Parts - Jimmy Bogard](https://www.youtube.com/watch?v=U6CeaA-Phqo) - Jimmy Bogard
 
 ### Value Objects
 
