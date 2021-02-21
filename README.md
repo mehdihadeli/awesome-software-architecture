@@ -436,6 +436,12 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Design Patterns
 
+### Service Locator
+
+#### Articles
+
+- [Service Locator is an Anti-Pattern](https://blog.ploeh.dk/2010/02/03/ServiceLocatorisanAnti-Pattern/)
+
 ### Resources 
 
 - [https://github.com/abishekaditya/DesignPatterns](https://github.com/abishekaditya/DesignPatterns)
@@ -668,6 +674,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Microservices architecture: What the gurus say about it](https://herbertograca.com/2017/01/26/microservices-architecture/)
 - [Microservices architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices)
 - [Securing Microservices with IdentityServer4, OAuth2 and OpenID Connect fronted by Ocelot API Gateway](https://medium.com/aspnetrun/securing-microservices-with-identityserver4-with-oauth2-and-openid-connect-fronted-by-ocelot-api-49ea44a0cf9e)
+- [Saga Pattern: how to manage distributed transactions with microservices](https://www.cncf.io/blog/2021/02/12/saga-pattern-how-to-manage-distributed-transactions-with-microservices)
 
 #### 📦 Tools
 
