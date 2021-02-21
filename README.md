@@ -809,7 +809,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Patterns of Enterprise Application Architecture](https://www.amazon.co.uk/Enterprise-Application-Architecture-Addison-Wesley-Signature/dp/0321127420/)
 - [Documenting Software Architectures: Views and Beyond](https://www.amazon.co.uk/dp/0321552687)
 - [Designing Software Architectures: A Practical Approach](https://www.amazon.co.uk/Designing-Software-Architectures-Practical-Engineering/dp/0134390784)
-- [Clean Architecture: A Craftsman's Guide to Software Structure and Design: A Craftsman's Guide to Software Structure and Design](https://www.amazon.co.uk/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164
+- [Clean Architecture: A Craftsman's Guide to Software Structure and Design: A Craftsman's Guide to Software Structure and Design](https://www.amazon.co.uk/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 - [Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure](https://ardalis.com/architecture-ebook/)
 - [Agile Principles, Patterns, and Practices in C# ](https://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258)
 - [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/)
