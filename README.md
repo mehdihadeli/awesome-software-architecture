@@ -204,7 +204,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Clean Architecture with ASP.NET Core with Steve "Ardalis" Smith (2020-06-01)](https://www.youtube.com/watch?v=joNTQy-KXiU&t=1719s) - Steve Smith
 - [SLC.NET Presents: Steve Smith (@Ardalis) - Clean Architecture with ASP.NET Core](https://www.youtube.com/watch?v=tYoqmL6e4oY) - Steve Smith
 - [Tour of Microsoft's Reference ASP NET Core App eShopOnWeb](https://www.youtube.com/watch?v=rSpF1s8wcyA) - Steve Smith
-- [An Overview of eShopOnWeb, an ASP.NET Core Reference Application](https://www.youtube.com/watch?v=vRZ8ucGac8M&ab_channel=Ardalis) - Steve Smith
+- [An Overview of eShopOnWeb, an ASP.NET Core Reference Application - 2020](https://www.youtube.com/watch?v=vRZ8ucGac8M&ab_channel=Ardalis) - Steve Smith
 - [Clean Architecture S02](https://www.youtube.com/playlist?list=PLY9iz4il6pyO46KZN-xQtZZMtdpBO9AoR) - Ivan Paulovich
 - [Robert C Martin - Clean Architecture](https://www.youtube.com/watch?v=Nltqi7ODZTM&feature=youtu.be) - Uncle Bob
 - [Gill CLEEREN: Clean architecture with ASP.NET Core | UCP2019](https://www.youtube.com/watch?v=BxtHt7tsX-c&t=2582s)
@@ -689,6 +689,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Microservices architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices)
 - [Securing Microservices with IdentityServer4, OAuth2 and OpenID Connect fronted by Ocelot API Gateway](https://medium.com/aspnetrun/securing-microservices-with-identityserver4-with-oauth2-and-openid-connect-fronted-by-ocelot-api-49ea44a0cf9e)
 - [Saga Pattern: how to manage distributed transactions with microservices](https://www.cncf.io/blog/2021/02/12/saga-pattern-how-to-manage-distributed-transactions-with-microservices)
+- [CAP Theorem, PACELC, and Microservices](https://ardalis.com/cap-pacelc-and-microservices/)
 
 #### 📦 Tools
 
@@ -720,10 +721,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 	
 - [https://github.com/aspnetrun/run-aspnet-grpc](https://github.com/aspnetrun/run-aspnet-grpc) - AspNetRun
 	> Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5. See gRPC Microservices and Step by Step Implementation on .NET Course w/ discount->
-
-
-
-
 
 ## Object Oriented Design
 
