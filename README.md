@@ -1,14 +1,14 @@
-# Awesome .Net Architecture [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome Software Architecture [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 ![Twitter URL](https://img.shields.io/badge/-@mehdi_hadeli-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff) 
 [![blog](https://img.shields.io/badge/blog-dotnetuniversity.com-brightgreen?style=flat-square)](https://dotnetuniversity.com/)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](./contributing.md)
 
-> Collection of useful Articles and resources to learning and practicing about software architecture, patterns and principles in .NET platform. this repository will be updated continuously, keep yourself up to date 
+> Collection of useful Articles and resources to learning and practicing about software architecture, patterns and principles. this repository will be updated continuously, keep yourself up to date 
 
-Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-dotnet-architecture/blob/master/contributing.md) pages first.
+Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-software-architecture/blob/master/contributing.md) pages first.
 
-Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-architecture/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
+Thanks to all [contributors](https://github.com/mehdihadeli/awesome-software-architecture/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
 Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https://www.linkedin.com/in/mehdihadeli/) or [Twitter](https://twitter.com/mehdi_hadeli)!
 
