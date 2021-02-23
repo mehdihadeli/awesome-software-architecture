@@ -26,4 +26,4 @@ To stay on the list, projects should follow these quality standards:
 
 If you are to include a research or academic project, please use the `**[Research]**` tag.
 
-Thanks to all [contributors](https://github.com/mehdihadeli/awesome-dotnet-architecture/graphs/contributors), you're awesome and wouldn't be possible without you!
+Thanks to all [contributors](https://github.com/mehdihadeli/awesome-software-architecture/graphs/contributors), you're awesome and wouldn't be possible without you!
