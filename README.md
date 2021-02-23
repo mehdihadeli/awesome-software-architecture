@@ -323,6 +323,8 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Hexagonal Architecture](https://fideloper.com/hexagonal-architecture) - Chris Fidao
 - [What is Hexagonal Architecture?](https://culttt.com/2014/12/31/hexagonal-architecture/) - PHILIP BROWN
 - [Hexagonal != Layers](https://tpierrain.blogspot.com/2016/04/hexagonal-layers.html)
+- [Domain-Driven Design and the Hexagonal Architecture](https://vaadin.com/learn/tutorials/ddd/ddd_and_hexagonal)
+
 #### 📹 Videos
 
 - [Chris Fidao - Hexagonal Architecture](https://www.youtube.com/watch?v=6SBjKOwVq0o)
@@ -465,6 +467,8 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 #### 📝 Articles
 - [No need for repositories and unit of work with Entity Framework Core](https://gunnarpeipman.com/ef-core-repository-unit-of-work/) - Gunnar Peipman
 - [Repository and unit of work ARE useful](https://dotnetfalcon.com/repository-and-unit-of-work-are-useful/) - Akos Nagy
+- [The generic repository is just a lazy anti-pattern](https://www.ben-morris.com/why-the-generic-repository-is-just-a-lazy-anti-pattern/)
+
 ## Cloud Design Patterns
 
 ### Resources
@@ -530,6 +534,16 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [A Basic Intro to Domain-Driven Design](https://blog.jacobsdata.com/2020/02/10/a-basic-intro-to-domain-driven-design) - Jacobs Data
 - [A Template for Clean Domain-Driven Design Architecture](https://blog.jacobsdata.com/2020/03/02/a-clean-domain-driven-design-architectural-template) - Jacobs Data
 - [Tackling Complexity in the Heart of DDD](https://vladikk.com/2016/04/05/tackling-complexity-ddd/) - Vladik Khononov
+- [Strategic Domain-Driven Design](https://vaadin.com/learn/tutorials/ddd/strategic_domain_driven_design)
+- [A Basic Intro to Domain-Driven Design](https://medium.com/software-alchemy/a-basic-intro-to-domain-driven-design-bca832c09e9d)
+- [DDD and avoiding CRUD](https://stackoverflow.com/questions/23970567/ddd-and-avoiding-crud)
+- [Domain-centric vs data-centric approaches to software development](https://enterprisecraftsmanship.com/posts/domain-centric-vs-data-centric-approaches/)
+- [Experiences Going From Data-Driven Development to Domain-Driven Design](https://www.infoq.com/news/2013/10/data-driven-to-ddd/)
+- [Domain-Driven Design: What is it and how do you use it?](https://airbrake.io/blog/software-design/domain-driven-design)
+- [Data Points - Coding for Domain-Driven Design: Tips for Data-Focused Devs](https://docs.microsoft.com/en-us/archive/msdn-magazine/2013/august/data-points-coding-for-domain-driven-design-tips-for-data-focused-devs)
+- [Data Points - Coding for Domain-Driven Design: Tips for Data-Focused Devs, Part 2](https://docs.microsoft.com/en-us/archive/msdn-magazine/2013/september/data-points-coding-for-domain-driven-design-tips-for-data-focused-devs-part-2)
+- [Data Points - Coding for Domain-Driven Design: Tips for Data-Focused Devs, Part 3](https://docs.microsoft.com/en-us/archive/msdn-magazine/2013/october/data-points-coding-for-domain-driven-design-tips-for-data-focused-devs-part-3)
+
 #### Value Objects
 
 ##### 📝 Articles
@@ -785,6 +799,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Modular Monolith: Architectural Drivers](http://www.kamilgrzybek.com/design/modular-monolith-architectural-drivers/)
 - [Modular Monolith: Architecture Enforcement](http://www.kamilgrzybek.com/design/modular-monolith-architecture-enforcement/)
 - [MonolithFirst](https://martinfowler.com/bliki/MonolithFirst.html)
+- [My experience of using the Clean Code architecture with a Modular Monolith](https://www.thereformedprogrammer.net/my-experience-of-using-the-clean-code-architecture-with-a-modular-monolith/)
+- [My experience of using modular monolith and DDD architectures](https://www.thereformedprogrammer.net/my-experience-of-using-modular-monolith-and-ddd-architectures/)
+
 ### 🔖 Samples
 
 - [https://github.com/kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Kamil Grzybek
