@@ -3,6 +3,7 @@
 ![Twitter URL](https://img.shields.io/badge/-@mehdi_hadeli-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff) 
 [![blog](https://img.shields.io/badge/blog-dotnetuniversity.com-brightgreen?style=flat-square)](https://dotnetuniversity.com/)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](./contributing.md)
+![Twitter URL](https://img.shields.io/twitter/url?label=Tweet&url=https%3A%2F%2Fgithub.com%2Fmehdihadeli%2Fawesome-software-architecture)
 
 > Collection of useful Articles and resources to learning and practicing about software architecture, patterns and principles in .NET platform. this repository will be updated continuously, keep yourself up to date 
 
@@ -117,11 +118,11 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Layers, hexagons, features and components](http://www.codingthearchitecture.com/2016/04/25/layers_hexagons_features_and_components.html)
 
 ### Videos
-- [DevTernity 2016: Simon Brown - The Art of Visualising Software Architecture](https://www.youtube.com/watch?v=oDpdaXt0HQI&ab_channel=Devoxx)
-- [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE&feature=emb_title&ab_channel=GOTOConferences)
-- [GOTO 2014 • Software Architecture vs. Code • Simon Brown](https://www.youtube.com/watch?v=GAFZcYlO5S0)
-- [Modular monoliths (Simon Brown) - 2016](https://www.youtube.com/watch?v=h_rBDIC51C4)
-- [Modular monoliths by Simon Brown](https://www.youtube.com/watch?v=kbKxmEeuvc4)
+- [DevTernity 2016: Simon Brown - The Art of Visualising Software Architecture](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=oDpdaXt0HQI&ab_channel=Devoxx)
+- [GOTO 2018 • Modular Monoliths • Simon Brown](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=5OjqD-ow8GE&feature=emb_title&ab_channel=GOTOConferences)
+- [GOTO 2014 • Software Architecture vs. Code • Simon Brown](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=GAFZcYlO5S0)
+- [Modular monoliths (Simon Brown) - 2016](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=h_rBDIC51C4)
+- [Modular monoliths by Simon Brown](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=kbKxmEeuvc4)
 - [Software architecture and code](https://skillsmatter.com/skillscasts/4312-software-architecture-and-code)
 - [Munich .NET Meetup: Modular Monolith Architecture - One to rule them all](https://www.youtube.com/watch?v=njDSXUWeik0)
 - [Majestic Modular Monoliths by Axel Fontaine](https://www.youtube.com/watch?v=BOvxJaklcr0)
@@ -309,7 +310,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 #### 📹 Videos
 
-- [Distributed Onion Architecture - Fort Worth .Net User Group 8/20/2013 - Jeffrey Palermo](https://www.youtube.com/watch?v=uuCaXu_kl0U)
+- [Distributed Onion Architecture - Fort Worth .Net User Group 8/20/2013 - Jeffrey Palermo](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=uuCaXu_kl0U)
 
 #### 🔖 Samples
 - [https://github.com/Amitpnk/Onion-architecture-ASP.NET-Core](https://github.com/Amitpnk/Onion-architecture-ASP.NET-Core)
@@ -341,8 +342,8 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 #### 📹 Videos
 
-- [Chris Fidao - Hexagonal Architecture](https://www.youtube.com/watch?v=6SBjKOwVq0o)
-- [Hexagonal, Onion, and Explicit Architecture with Elixir - Part 1](https://www.youtube.com/watch?v=iGTCZt9Z8A8)
+- [Chris Fidao - Hexagonal Architecture](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=6SBjKOwVq0o)
+- [Hexagonal, Onion, and Explicit Architecture with Elixir - Part 1](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=iGTCZt9Z8A8)
 
 #### 🔖 Samples
 - [https://github.com/Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
@@ -374,9 +375,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Coding: Packaging by vertical slice](https://markhneedham.com/blog/2012/02/20/coding-packaging-by-vertical-slice/)
 
 #### 📹 Videos
-- [Vertical Slice Architecture - Jimmy Bogard](https://www.youtube.com/watch?v=5kOzZz2vj2o) - Jimmy Bogard
-- [SOLID Architecture in Slices not Layers](https://www.youtube.com/watch?v=wTd-VcJCs_M) - Jimmy Bogard
-- [DevTernity 2019: Jimmy Bogard – Vertical Slice Architecture](https://www.youtube.com/watch?v=T6nglsEDaqA) - Jimmy Bogard
+- [Vertical Slice Architecture - Jimmy Bogard](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=5kOzZz2vj2o) - Jimmy Bogard
+- [SOLID Architecture in Slices not Layers](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=wTd-VcJCs_M) - Jimmy Bogard
+- [DevTernity 2019: Jimmy Bogard – Vertical Slice Architecture](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=T6nglsEDaqA) - Jimmy Bogard
 
 #### Samples
 - [https://github.com/jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages) - Jimmy Bogard
@@ -593,7 +594,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 #### Value Objects
 
 ##### 📝 Articles
-- [Treating Primitive Obsession with ValueObjects | DDD in .NET](https://www.youtube.com/watch?v=h4uldNA1JUE)
+- [Treating Primitive Obsession with ValueObjects | DDD in .NET](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=h4uldNA1JUE)
 - [Implement value objects](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/implement-value-objects)
 
 #### Domain 
@@ -797,13 +798,13 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ## Distributed Systems Design
 
 ### Resources
-- [System Design](https://www.youtube.com/playlist?list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV) - Tech Dummies Narendra L
-- [Coding and System Design Interview Questions](https://www.youtube.com/playlist?list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka) - Success in Tech
-- [System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) - Gaurav Sen
-- [Basics of System Design](https://www.youtube.com/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u) - Coding Simplified
-- [System Design Primer Course](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a) - sudoCODE
-- [System Design And Interview](https://www.youtube.com/c/interviewingio/videos) - interviewing.io
-- [System Design](https://www.youtube.com/playlist?list=PLhgw50vUymyckXl3D1IlXoVl94wknJfUC) - codeKarle
+- [System Design](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/playlist?list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV) - Tech Dummies Narendra L
+- [Coding and System Design Interview Questions](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/playlist?list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka) - Success in Tech
+- [System Design](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) - Gaurav Sen
+- [Basics of System Design](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u) - Coding Simplified
+- [System Design Primer Course](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a) - sudoCODE
+- [System Design And Interview](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/c/interviewingio/videos) - interviewing.io
+- [System Design](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/playlist?list=PLhgw50vUymyckXl3D1IlXoVl94wknJfUC) - codeKarle
 - [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Donne Martin
 - [https://github.com/checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - Zach
 - [https://github.com/shashank88/system_design](https://github.com/shashank88/system_design) - shashank khare
@@ -886,10 +887,10 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [https://github.com/dcomartin/LooselyCoupledMonolith](https://github.com/dcomartin/LooselyCoupledMonolith)
 
 ### Videos
-- [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE&feature=emb_title&ab_channel=GOTOConferences)
-- [Modular monoliths (Simon Brown) - 2016](https://www.youtube.com/watch?v=h_rBDIC51C4)
-- [Modular monoliths by Simon Brown](https://www.youtube.com/watch?v=kbKxmEeuvc4)
-- [Munich .NET Meetup: Modular Monolith Architecture - One to rule them all](https://www.youtube.com/watch?v=njDSXUWeik0)
+- [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE)
+- [Modular monoliths (Simon Brown) - 2016](https://www.youtube.com/watch?v=kbKxmEeuvc4)
+- [Modular monoliths by Simon Brown](https://www.youtube.com/watch?v=h_rBDIC51C4)
+- [Munich .NET Meetup: Modular Monolith Architecture - One to rule them all](https://www.youtube.com/watch?v=tpeOWlif1l4)
 - [Majestic Modular Monoliths by Axel Fontaine](https://www.youtube.com/watch?v=BOvxJaklcr0)
 ## Packaging
 
