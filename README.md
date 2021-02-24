@@ -4,7 +4,7 @@
 [![blog](https://img.shields.io/badge/blog-dotnetuniversity.com-brightgreen?style=flat-square)](https://dotnetuniversity.com/)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](./contributing.md)
 
-> Collection of useful Articles and resources to learning and practicing about software architecture, patterns and principles. this repository will be updated continuously, keep yourself up to date 
+> Collection of useful Articles and resources to learning and practicing about software architecture, patterns and principles in .NET platform. this repository will be updated continuously, keep yourself up to date 
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-software-architecture/blob/master/contributing.md) pages first.
 
@@ -43,10 +43,12 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Architectural Patterns](#architectural-patterns)
   - [DDD](#ddd)
   - [CQRS](#cqrs)
+  - [Data Driven Design - (CRUD)](#data-driven-design---(crud))
   - [MVC](#mvc)
   - [Event Sourcing](#event-sourcing)
-  - [Microservices](#microservices)
-  - [Serverless-Architecture](#serverless)
+  - [Microservices Architectural Pattern](#microservices-architectural-pattern)
+  - [Serverless Architectural Pattern](#serverless-architectural-pattern)
+  - [MicroKernel Architectural Pattern](microKernel-architectural-pattern)
 - [Design Patterns](#design-patterns)
   - [Decorator](#decorator)
   - [Specification Pattern](#specification-pattern)
@@ -123,6 +125,10 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Software architecture and code](https://skillsmatter.com/skillscasts/4312-software-architecture-and-code)
 - [Munich .NET Meetup: Modular Monolith Architecture - One to rule them all](https://www.youtube.com/watch?v=njDSXUWeik0)
 - [Majestic Modular Monoliths by Axel Fontaine](https://www.youtube.com/watch?v=BOvxJaklcr0)
+- [GOTO 2020 • Five Things Every Developer Should Know about Software Architecture • Simon Brown](https://www.youtube.com/watch?v=9Az0q2XHtH8)
+- [How to build software architecture diagrams](https://www.youtube.com/watch?v=_I0U1sZ9RJ8)
+- [Visualising software architecture with the C4 model - Simon Brown, Agile on the Beach 2019](https://www.youtube.com/watch?v=x2-rSnhpw0g)
+- [Structurizr C4 Model series](https://www.youtube.com/playlist?list=PLLET0MJVt0Uc0Nek7yck8FG2fNnv9H32v)
 
 ## Architectural Style
 
@@ -149,6 +155,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [https://github.com/techtribesje/techtribesje](https://github.com/techtribesje/techtribesje)
 - [https://github.com/kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd)
 - [https://github.com/hgraca/explicit-architecture-php](https://github.com/hgraca/explicit-architecture-php)
+- [https://github.com/Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
 
 ### Videos
 - [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE&feature=emb_title&ab_channel=GOTOConferences)
@@ -157,6 +164,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Modular monoliths by Simon Brown](https://www.youtube.com/watch?v=kbKxmEeuvc4)
 - [Munich .NET Meetup: Modular Monolith Architecture - One to rule them all](https://www.youtube.com/watch?v=njDSXUWeik0)
 - [Majestic Modular Monoliths by Axel Fontaine](https://www.youtube.com/watch?v=BOvxJaklcr0)
+
 ### Traditional N-Layer Architecture
 
 #### 📝 Articles
@@ -165,6 +173,10 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Traditional "N-Layer" architecture applications](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures#traditional-n-layer-architecture-applications)
 - [What is N-Tier Architecture? How It Works, Examples, Tutorials, and More](https://stackify.com/n-tier-architecture/)
 - [Layered Architecture](https://herbertograca.com/2017/08/03/layered-architecture/) - Herberto Graca
+
+#### Videos
+
+- [Layered/n-Tier Architectural pattern](https://www.youtube.com/watch?v=BCXcIllT7Lc)
 
 ### Clean Architecture
 
@@ -204,13 +216,16 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Clean Architecture with ASP.NET Core with Steve "Ardalis" Smith (2020-06-01)](https://www.youtube.com/watch?v=joNTQy-KXiU&t=1719s) - Steve Smith
 - [SLC.NET Presents: Steve Smith (@Ardalis) - Clean Architecture with ASP.NET Core](https://www.youtube.com/watch?v=tYoqmL6e4oY) - Steve Smith
 - [Tour of Microsoft's Reference ASP NET Core App eShopOnWeb](https://www.youtube.com/watch?v=rSpF1s8wcyA) - Steve Smith
-- [An Overview of eShopOnWeb, an ASP.NET Core Reference Application - 2020](https://www.youtube.com/watch?v=vRZ8ucGac8M&ab_channel=Ardalis) - Steve Smith
+- [An Overview of eShopOnWeb, an ASP.NET Core Reference Application](https://www.youtube.com/watch?v=vRZ8ucGac8M&ab_channel=Ardalis) - Steve Smith
 - [Clean Architecture S02](https://www.youtube.com/playlist?list=PLY9iz4il6pyO46KZN-xQtZZMtdpBO9AoR) - Ivan Paulovich
 - [Robert C Martin - Clean Architecture](https://www.youtube.com/watch?v=Nltqi7ODZTM&feature=youtu.be) - Uncle Bob
 - [Gill CLEEREN: Clean architecture with ASP.NET Core | UCP2019](https://www.youtube.com/watch?v=BxtHt7tsX-c&t=2582s)
 
 #### 🔖 Samples
 
+- [https://github.com/Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
+	> Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
+	
 - [https://github.com/JacobsDataSolutions/OrgManager](https://github.com/JacobsDataSolutions/OrgManager) - Jacobs Data
     > CQRS and Clean Domain-Driven Design concepts on the ASP.NET Core stack. Demo application for a fictional corporate organization management tool.
     
@@ -297,7 +312,6 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Distributed Onion Architecture - Fort Worth .Net User Group 8/20/2013 - Jeffrey Palermo](https://www.youtube.com/watch?v=uuCaXu_kl0U)
 
 #### 🔖 Samples
-
 - [https://github.com/Amitpnk/Onion-architecture-ASP.NET-Core](https://github.com/Amitpnk/Onion-architecture-ASP.NET-Core)
 	> WhiteApp API solution template which is built on Onion Architecture with all essential feature using .NET Core!
 	
@@ -331,6 +345,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Hexagonal, Onion, and Explicit Architecture with Elixir - Part 1](https://www.youtube.com/watch?v=iGTCZt9Z8A8)
 
 #### 🔖 Samples
+- [https://github.com/Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
+	> Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
+	
 - [https://github.com/ivanpaulovich/hexagonal-architecture-acerola](https://github.com/ivanpaulovich/hexagonal-architecture-acerola) - Ivan Paulovich
 	> An Hexagonal Architecture service template with DDD, CQRS, TDD and SOLID using .NET Core 2.0. All small features are testable and could be mocked. Adapters could be mocked or exchanged.
 
@@ -351,6 +368,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Architecting for maintainability through Vertical Slices ](https://www.ghyston.com/insights/architecting-for-maintainability-through-vertical-slices/)
 - [Package by component and architecturally-aligned testing](http://www.codingthearchitecture.com/2015/03/08/package_by_component_and_architecturally_aligned_testing.html)
 - [Vertical Slices Application Design with MediatR: Part 1](https://www.ojdevelops.com/2017/08/vertical-slices-with-mediatr.html)
+- [Vertical Slices Application Design with MediatR: Part 2](https://www.ojdevelops.com/2017/09/vertical-slices-with-mediatr-part2.html)
 - [Organizing Code by Feature using Vertical Slices](https://codeopinion.com/organizing-code-by-feature-using-vertical-slices/) - CodeOpinion
 - [Vertical slices in ASP.NET MVC](https://www.kenneth-truyers.net/2016/02/02/vertical-slices-in-asp-net-mvc/)
 - [Coding: Packaging by vertical slice](https://markhneedham.com/blog/2012/02/20/coding-packaging-by-vertical-slice/)
@@ -374,11 +392,16 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Journey to Event Driven – Part 4: Four Pillars of Event Streaming Microservices](https://www.confluent.io/blog/journey-to-event-driven-part-4-four-pillars-of-event-streaming-microservices/)
 - [Event Driven Systems](https://medium.com/omarelgabrys-blog/event-driven-systems-cdbe5a4b3d04)
 
+#### Videos
+- [Event-Driven Architecture | EDA | Software Architectural Patterns](https://www.youtube.com/watch?v=gIL8rW_eyww&t=0s) - The TechCave
+
 ### Service Oriented Architecture
 
 #### 📝 Articles
 - [Service Oriented Architecture (SOA)](https://herbertograca.com/2017/11/09/service-oriented-architecture-soa/)
 
+#### Videos
+- [Service-Oriented Architecture - SOA | Software/Web Application Architecture](https://www.youtube.com/watch?v=jNiEMmoTDoE&t=0s) - The TechCave
 
 ## Architectural Design Principles
 
@@ -390,6 +413,16 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [10 OOP Design Principles Every Programmer Should Know](https://hackernoon.com/10-oop-design-principles-every-programmer-should-know-f187436caf65)
 - [Design Principles](https://java-design-patterns.com/principles/) - java-design-patterns.com
 - [Principles](http://principles-wiki.net/principles:start) - principles-wiki.net
+
+### Dependency Inversion
+
+#### Videos
+- [The refactoring test (1) - Dependency Inversion & Unit tests | Cracking the .NET interview](https://www.youtube.com/watch?v=U3QvTaw224o)
+
+### Open/Closed Principles
+
+#### Videos
+- [The refactoring test (2) - Open-Closed, Single Responsibility | Cracking the .NET interview](https://www.youtube.com/watch?v=Yd4GnWeEkIY)
 
 ### Cross Cutting Concerns
 
@@ -468,6 +501,13 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [No need for repositories and unit of work with Entity Framework Core](https://gunnarpeipman.com/ef-core-repository-unit-of-work/) - Gunnar Peipman
 - [Repository and unit of work ARE useful](https://dotnetfalcon.com/repository-and-unit-of-work-are-useful/) - Akos Nagy
 - [The generic repository is just a lazy anti-pattern](https://www.ben-morris.com/why-the-generic-repository-is-just-a-lazy-anti-pattern/)
+- [The Repository Pattern isn’t an Anti-Pattern; You’re just doing it wrong.](https://brianbu.com/2019/09/25/the-repository-pattern-isnt-an-anti-pattern-youre-just-doing-it-wrong/)
+- [The Generic Repository Is An Anti-Pattern](https://blog.sapiensworks.com/post/2012/03/05/The-Generic-Repository-Is-An-Anti-Pattern.aspx)
+- [Repository Pattern in .Net Core](https://www.programmingwithwolfgang.com/repository-pattern-net-core/)
+- [DDD: The Generic Repository](http://codebetter.com/gregyoung/2009/01/16/ddd-the-generic-repository/)
+- [Creating A Generic Repository](https://medium.com/@morgankenyon/tinroll-4-creating-a-generic-repository-9846c72e11ec)
+- [Repository is Dead: Long Live Repository](http://codebetter.com/gregyoung/2009/04/23/repository-is-dead-long-live-repository/)
+- [More on Repository](http://codebetter.com/gregyoung/2009/04/24/more-on-repository/)
 
 ## Cloud Design Patterns
 
@@ -520,6 +560,12 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 
 ## Architectural Patterns
+
+### Resources
+
+### 📹 Videos
+- [Software Architecture | Architectural patterns | Architecture vs Design pattern](https://www.youtube.com/watch?v=lTkL1oIMiaU&t=769s)
+
 
 ### DDD
 
@@ -665,6 +711,12 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 - [https://github.com/tpierrain/CQRS](https://github.com/tpierrain/CQRS)
 	> A simple project to explain CQRS during a live coding session at MS experiences'16
+
+### Data Driven Design (CRUD)
+
+#### Articles
+- [Creating a simple data-driven CRUD microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/data-driven-crud-microservice)
+
 ### Event Sourcing
 
 #### 📝 Articles 
@@ -678,18 +730,23 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 - [https://github.com/PacktPublishing/Hands-On-Domain-Driven-Design-with-.NET-Core](https://github.com/PacktPublishing/Hands-On-Domain-Driven-Design-with-.NET-Core) - Alexey Zimarev
 
-### Microservices
+### Microservices Architectural Pattern
 
 #### Resources
 - [Awesome Microservices .NET Core](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - A collection of awesome training series, Articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core
 - [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/) - Microsoft
 
 #### 📝 Articles
+- [Design a microservice-oriented application](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/microservice-application-design)
+- [Creating a simple data-driven CRUD microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/data-driven-crud-microservice)
 - [Microservices architecture: What the gurus say about it](https://herbertograca.com/2017/01/26/microservices-architecture/)
 - [Microservices architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices)
 - [Securing Microservices with IdentityServer4, OAuth2 and OpenID Connect fronted by Ocelot API Gateway](https://medium.com/aspnetrun/securing-microservices-with-identityserver4-with-oauth2-and-openid-connect-fronted-by-ocelot-api-49ea44a0cf9e)
 - [Saga Pattern: how to manage distributed transactions with microservices](https://www.cncf.io/blog/2021/02/12/saga-pattern-how-to-manage-distributed-transactions-with-microservices)
-- [CAP Theorem, PACELC, and Microservices](https://ardalis.com/cap-pacelc-and-microservices/)
+
+#### Videos
+
+- [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) - The TechCave
 
 #### 📦 Tools
 
@@ -722,6 +779,19 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [https://github.com/aspnetrun/run-aspnet-grpc](https://github.com/aspnetrun/run-aspnet-grpc) - AspNetRun
 	> Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5. See gRPC Microservices and Step by Step Implementation on .NET Course w/ discount->
 
+
+## Serverless Architectural Pattern
+
+### Videos
+- [Serverless Computing](https://www.youtube.com/watch?v=RzsaM6kL1FU&t=0s) - The TechCave
+
+
+## MicroKernel Architectural Pattern
+
+### Videos
+- [Microkernel Architectural Pattern | Software Architecture](https://www.youtube.com/watch?v=h3icQDMRLd8&t=0s) - The TechCave
+
+
 ## Object Oriented Design
 
 ## Distributed Systems Design
@@ -742,6 +812,8 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ### 📝 Articles
 - [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
 
+### Videos
+- [Distributed Computing](https://www.youtube.com/watch?v=ajjOEltiZm4&t=0s) - The TechCave
 
 ## Scalable Software Architecture
 
@@ -798,6 +870,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [MonolithFirst](https://martinfowler.com/bliki/MonolithFirst.html)
 - [My experience of using the Clean Code architecture with a Modular Monolith](https://www.thereformedprogrammer.net/my-experience-of-using-the-clean-code-architecture-with-a-modular-monolith/)
 - [My experience of using modular monolith and DDD architectures](https://www.thereformedprogrammer.net/my-experience-of-using-modular-monolith-and-ddd-architectures/)
+- [Modular programming: Beyond the spaghetti mess](https://www.tiny.cloud/blog/modular-programming-principle/)
 
 ### 🔖 Samples
 
