@@ -15,6 +15,13 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-software-arc
 
 Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https://www.linkedin.com/in/mehdihadeli/) or [Twitter](https://twitter.com/mehdi_hadeli)!
 
+
+## Give a Star! ⭐️
+My primary focus in this repository is on quality. Creating a good quality of resources. It takes a lot of time. If you like this, learned something or you are using it in your applications, please give it a star ⭐. This is the best motivation for me to continue this work. Thanks!
+
+## Share It
+If you think this repository makes a difference and is worth it, please share it with your friends and on social networks. I will be extremely grateful.
+
 ## Contents
 - [Software Architecture](#software-architecture)
 - [Architectural Style](#architectural-style)
@@ -59,6 +66,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
   - [Repository Pattern](#repository-pattern)
 - [Cloud Design Patterns](#cloud-design-patterns)
   - [Anti-Corruption Layer Pattern](#anti-corruption-layer-pattern)
+  - [Gateway Pattern](#gateway-pattern)
   - [Asynchronous Request-Reply pattern](#anti-corruption-layer-pattern)
   - [Cache-Aside](#cache-aside)
   - [Command and Query Responsibility Segregation (CQRS)](#command-and-query-responsibility-segregation-(cqrs))
@@ -528,6 +536,17 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 #### Articles
 - [Anti-Corruption Layer pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/anti-corruption-layer)
 - [Gateway](https://martinfowler.com/eaaCatalog/gateway.html)
+- [The Anti-Corruption Layer Pattern](https://dev.to/asarnaout/the-anti-corruption-layer-pattern-pcd)
+- [Anti-Corruption Layer: How to Keep Legacy Support from Breaking New Systems](https://www.cloudbees.com/blog/anti-corruption-layer-how-keep-legacy-support-breaking-new-systems)
+
+#### Videos
+- [The Anti-corruption layer, Gateway Aggregation / Routing patterns | Cloud with Chris](https://www.youtube.com/watch?v=gGDu4FdUk7I)
+
+### Gateway Pattern
+
+#### Articles
+- [Gateway Aggregation pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/gateway-aggregation)
+- [Gateway Offloading pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/gateway-offloading)
 
 ###  Asynchronous Request-Reply pattern
 
