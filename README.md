@@ -25,6 +25,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
   - [Vertical Slice Architecture](#vertical-slice-architecture)
   - [Event Driven Architecture](#event-driven-architecture)
   - [Service Oriented Architecture](#service-oriented-architecture)
+  - [Component Based Architecture](#component-based-architecture)
 - [Architectural Design Principles](#architectural-design-principles)
   - [Crosscutting Concerns](#crosscutting-concerns)
   - [Encapsulation](#encapsulation)
@@ -44,9 +45,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
   - [Persistence Ignorance](#persistence-ignorance)
   - [GRASP](#grasp)
 - [Architectural Patterns](#architectural-patterns)
-  - [DDD](#ddd)
+  - [Domain Driven Design - Domain Centric](#domain-driven-design---domain-centric)
+  - [Data Driven Design - Data Centric](#data-driven-design---data-centric)
   - [CQRS](#cqrs)
-  - [Data Driven Design - (CRUD)](#data-driven-design---(crud))
   - [MVC](#mvc)
   - [Event Sourcing](#event-sourcing)
   - [Microservices Architectural Pattern](#microservices-architectural-pattern)
@@ -212,6 +213,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Component Based Architecture](https://medium.com/omarelgabrys-blog/component-based-architecture-3c3c23c7e348)
 - [Multiple ways of defining Clean Architecture layers](https://proandroiddev.com/multiple-ways-of-defining-clean-architecture-layers-bbb70afa5d4a)
 - [Adoption of Clean Architecture layers with modules](https://medium.com/@anil.gudigar/adoption-of-clean-architecture-layers-with-modules-a0b5b9b4e716)
+- [Clean Architecture : Part 2 – The Clean Architecture](https://crosp.net/blog/software-architecture/clean-architecture-part-2-the-clean-architecture/)
 
 #### 📹 Videos
 - [Clean Testing - Clean Architecture with .NET Core - Jason Taylor - NDC Oslo 2020](https://www.youtube.com/watch?v=T6NRcX1vnz8) - Jason Taylor
@@ -523,6 +525,10 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
  
 ###  Anti-Corruption Layer Pattern
 
+#### Articles
+- [Anti-Corruption Layer pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/anti-corruption-layer)
+- [Gateway](https://martinfowler.com/eaaCatalog/gateway.html)
+
 ###  Asynchronous Request-Reply pattern
 
 ###  Cache-Aside
@@ -573,11 +579,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Software Architecture | Architectural patterns | Architecture vs Design pattern](https://www.youtube.com/watch?v=lTkL1oIMiaU&t=769s)
 
 
-### DDD
+### Domain Driven Design - Domain Centric 
 
-#### Core Concepts
-
-##### 📝 Articles
+#### 📝 Articles
 - [Design a DDD-oriented microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice) - Microsoft
 - [PPPDDD.1 – What is Domain Driven Design?](https://herbertograca.com/2016/08/15/pppddd-1-what-is-domain-driven-design/) - Herberto Graca
 - [PPPDDD.2 – Distilling the Problem Domain](https://herbertograca.com/2016/08/22/pppddd-2-distilling-the-problem-domain/) - Herberto Graca
@@ -595,6 +599,12 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [Data Points - Coding for Domain-Driven Design: Tips for Data-Focused Devs](https://docs.microsoft.com/en-us/archive/msdn-magazine/2013/august/data-points-coding-for-domain-driven-design-tips-for-data-focused-devs)
 - [Data Points - Coding for Domain-Driven Design: Tips for Data-Focused Devs, Part 2](https://docs.microsoft.com/en-us/archive/msdn-magazine/2013/september/data-points-coding-for-domain-driven-design-tips-for-data-focused-devs-part-2)
 - [Data Points - Coding for Domain-Driven Design: Tips for Data-Focused Devs, Part 3](https://docs.microsoft.com/en-us/archive/msdn-magazine/2013/october/data-points-coding-for-domain-driven-design-tips-for-data-focused-devs-part-3)
+- [Domain-centric Architectures are Cool, but Why ?](https://blog.cancobanoglu.net/2017/05/11/domain-centric-architectures-are-cool-but-why/)
+- [Clean Architecture : Part 1 – Database vs Domain](https://crosp.net/blog/software-architecture/clean-architecture-part-1-databse-vs-domain/)
+- [Domain Centric Architecture ve Domain Driven Design](http://cagataykiziltan.net/tr/domain-centric-architecture-ve-domain-driven-design/)
+
+#### 📹 Videos
+- [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
 
 #### Value Objects
 
@@ -625,7 +635,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ##### 📝 Articles
 - [Context is King: Finding Service Boundaries](https://codeopinion.com/context-is-king-finding-service-boundaries/)
 - [Defining Service Boundaries by Splitting Entities](https://codeopinion.com/defining-service-boundaries-by-splitting-entities/)
-
+- [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
 ##### 📹 Videos
 - [Context is King | Finding Service Boundaries Talk](https://www.youtube.com/watch?v=dnhshUdRW70)
 - [Defining Service Boundaries by Splitting Entities](https://www.youtube.com/watch?v=lGvYHmvXiyk)
@@ -698,6 +708,20 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
     > CQRS and Clean Domain-Driven Design concepts on the ASP.NET Core stack. Demo application for a fictional corporate organization management tool.
 
 - [https://github.com/anjoy8/ChristDDD](https://github.com/anjoy8/ChristDDD)
+
+### Data Driven Design (Data Centric)
+
+#### Articles
+- [Creating a simple data-driven CRUD microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/data-driven-crud-microservice)
+- [Domain-centric Architectures are Cool, but Why ?](https://blog.cancobanoglu.net/2017/05/11/domain-centric-architectures-are-cool-but-why/)
+- [Domain-centric vs data-centric approaches to software development](https://enterprisecraftsmanship.com/posts/domain-centric-vs-data-centric-approaches/)
+- [Clean Architecture : Part 1 – Database vs Domain](https://crosp.net/blog/software-architecture/clean-architecture-part-1-databse-vs-domain/)
+- [Domain Centric Architecture ve Domain Driven Design](http://cagataykiziltan.net/tr/domain-centric-architecture-ve-domain-driven-design/)
+
+#### Videos
+- [Creating N-Tier Applications in C#, Part 1](https://www.pluralsight.com/courses/n-tier-apps-part1)
+- [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture)
+
 ### CQRS
 
 #### 📝 Articles
@@ -709,6 +733,9 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [From CQS to CQRS](https://herbertograca.com/2017/10/19/from-cqs-to-cqrs/)
 - [Building a robust CQRS database with EF Core and Cosmos DB](https://www.thereformedprogrammer.net/building-a-robust-cqrs-database-with-ef-core-and-cosmos-db/)
 - [EF Core – Combining SQL and NoSQL databases for better performance](https://www.thereformedprogrammer.net/ef-core-combining-sql-and-nosql-databases-for-better-performance/)
+
+#### 📹 Videos
+- [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
 
 #### 🔖 Samples
 
@@ -722,10 +749,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 	> A simple project to explain CQRS during a live coding session at MS experiences'16
 	
 - [https://github.com/anjoy8/ChristDDD](https://github.com/anjoy8/ChristDDD)
-### Data Driven Design (CRUD)
 
-#### Articles
-- [Creating a simple data-driven CRUD microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/data-driven-crud-microservice)
 
 ### Event Sourcing
 
