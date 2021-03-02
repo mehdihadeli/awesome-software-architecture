@@ -129,7 +129,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Layers, hexagons, features and components](http://www.codingthearchitecture.com/2016/04/25/layers_hexagons_features_and_components.html)
 - [Architectural Drivers: Building Blocks for Decision Making](https://www.neverletdown.net/2014/10/architectural-drivers.html)
 
-### Videos
+### 📹 Videos
 - [DevTernity 2016: Simon Brown - The Art of Visualising Software Architecture](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=oDpdaXt0HQI&ab_channel=Devoxx)
 - [GOTO 2018 • Modular Monoliths • Simon Brown](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=5OjqD-ow8GE&feature=emb_title&ab_channel=GOTOConferences)
 - [GOTO 2014 • Software Architecture vs. Code • Simon Brown](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=GAFZcYlO5S0)
@@ -164,13 +164,13 @@ If you think this repository makes a difference and is worth it, please share it
 - [Modular Monolith: A Primer](https://www.kamilgrzybek.com/design/modular-monolith-primer/)
 - [Layers, hexagons, features and components](http://www.codingthearchitecture.com/2016/04/25/layers_hexagons_features_and_components.html)
 
-### Samples
+### 🔖 Samples
 - [https://github.com/techtribesje/techtribesje](https://github.com/techtribesje/techtribesje)
 - [https://github.com/kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd)
 - [https://github.com/hgraca/explicit-architecture-php](https://github.com/hgraca/explicit-architecture-php)
 - [https://github.com/Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
 
-### Videos
+### 📹 Videos
 - [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE&feature=emb_title&ab_channel=GOTOConferences)
 - [GOTO 2014 • Software Architecture vs. Code • Simon Brown](https://www.youtube.com/watch?v=GAFZcYlO5S0)
 - [Modular monoliths (Simon Brown) - 2016](https://www.youtube.com/watch?v=h_rBDIC51C4)
@@ -187,7 +187,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [What is N-Tier Architecture? How It Works, Examples, Tutorials, and More](https://stackify.com/n-tier-architecture/)
 - [Layered Architecture](https://herbertograca.com/2017/08/03/layered-architecture/) - Herberto Graca
 
-#### Videos
+#### 📹 Videos
 
 - [Layered/n-Tier Architectural pattern](https://www.youtube.com/watch?v=BCXcIllT7Lc)
 
@@ -416,7 +416,7 @@ If you think this repository makes a difference and is worth it, please share it
 #### 📝 Articles
 - [Service Oriented Architecture (SOA)](https://herbertograca.com/2017/11/09/service-oriented-architecture-soa/)
 
-#### Videos
+#### 📹 Videos
 - [Service-Oriented Architecture - SOA | Software/Web Application Architecture](https://www.youtube.com/watch?v=jNiEMmoTDoE&t=0s) - The TechCave
 
 ## Architectural Design Principles
@@ -432,12 +432,12 @@ If you think this repository makes a difference and is worth it, please share it
 
 ### Dependency Inversion
 
-#### Videos
+#### 📹 Videos
 - [The refactoring test (1) - Dependency Inversion & Unit tests | Cracking the .NET interview](https://www.youtube.com/watch?v=U3QvTaw224o)
 
 ### Open/Closed Principles
 
-#### Videos
+#### 📹 Videos
 - [The refactoring test (2) - Open-Closed, Single Responsibility | Cracking the .NET interview](https://www.youtube.com/watch?v=Yd4GnWeEkIY)
 
 ### Cross Cutting Concerns
@@ -489,10 +489,9 @@ If you think this repository makes a difference and is worth it, please share it
 
 ### Service Locator
 
-#### Articles
-
+#### 📝 Articles
 - [Service Locator is an Anti-Pattern](https://blog.ploeh.dk/2010/02/03/ServiceLocatorisanAnti-Pattern/)
-
+- [The Service Locator Anti-Pattern](https://freecontent.manning.com/the-service-locator-anti-pattern/)
 ### Resources 
 
 - [https://github.com/abishekaditya/DesignPatterns](https://github.com/abishekaditya/DesignPatterns)
@@ -533,13 +532,13 @@ If you think this repository makes a difference and is worth it, please share it
  
 ###  Anti-Corruption Layer Pattern
 
-#### Articles
+#### 📝 Articles
 - [Anti-Corruption Layer pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/anti-corruption-layer)
 - [Gateway](https://martinfowler.com/eaaCatalog/gateway.html)
 - [The Anti-Corruption Layer Pattern](https://dev.to/asarnaout/the-anti-corruption-layer-pattern-pcd)
 - [Anti-Corruption Layer: How to Keep Legacy Support from Breaking New Systems](https://www.cloudbees.com/blog/anti-corruption-layer-how-keep-legacy-support-breaking-new-systems)
 
-#### Videos
+#### 📹 Videos
 - [The Anti-corruption layer, Gateway Aggregation / Routing patterns | Cloud with Chris](https://www.youtube.com/watch?v=gGDu4FdUk7I)
 
 ### Gateway Pattern
@@ -644,6 +643,8 @@ If you think this repository makes a difference and is worth it, please share it
 - [Implement a microservice domain model with .NET](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/net-core-microservice-domain-model) - Microsoft
 - [Domain Command Patterns - Validation](https://jimmybogard.com/domain-command-patterns-validation/) - Jimmy Bogard
 - [Domain Command Patterns - Handlers](https://jimmybogard.com/domain-command-patterns-handlers/) - Jimmy Bogard
+- [Attributes of Clean Domain Model](https://www.kamilgrzybek.com/design/clean-domain-model-attributes/)
+
 
 ##### 📹 Videos
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU) - CodeOpinion
@@ -730,14 +731,14 @@ If you think this repository makes a difference and is worth it, please share it
 
 ### Data Driven Design (Data Centric)
 
-#### Articles
+#### 📝 Articles
 - [Creating a simple data-driven CRUD microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/data-driven-crud-microservice)
 - [Domain-centric Architectures are Cool, but Why ?](https://blog.cancobanoglu.net/2017/05/11/domain-centric-architectures-are-cool-but-why/)
 - [Domain-centric vs data-centric approaches to software development](https://enterprisecraftsmanship.com/posts/domain-centric-vs-data-centric-approaches/)
 - [Clean Architecture : Part 1 – Database vs Domain](https://crosp.net/blog/software-architecture/clean-architecture-part-1-databse-vs-domain/)
 - [Domain Centric Architecture ve Domain Driven Design](http://cagataykiziltan.net/tr/domain-centric-architecture-ve-domain-driven-design/)
 
-#### Videos
+#### 📹 Videos
 - [Creating N-Tier Applications in C#, Part 1](https://www.pluralsight.com/courses/n-tier-apps-part1)
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture)
 
@@ -798,7 +799,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Saga Pattern: how to manage distributed transactions with microservices](https://www.cncf.io/blog/2021/02/12/saga-pattern-how-to-manage-distributed-transactions-with-microservices)
 - [Use NoSQL databases as a persistence infrastructure](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/nosql-database-persistence-infrastructure)
 
-#### Videos
+#### 📹 Videos
 - [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) - The TechCave
 - [On .NET Live - Microservice applications with DAPR and .NET](https://www.youtube.com/watch?v=kIfmwmJHNMs)
 #### 📦 Tools
@@ -834,13 +835,13 @@ If you think this repository makes a difference and is worth it, please share it
 
 ## Serverless Architectural Pattern
 
-### Videos
+### 📹 Videos
 - [Serverless Computing](https://www.youtube.com/watch?v=RzsaM6kL1FU&t=0s) - The TechCave
 
 
 ## MicroKernel Architectural Pattern
 
-### Videos
+### 📹 Videos
 - [Microkernel Architectural Pattern | Software Architecture](https://www.youtube.com/watch?v=h3icQDMRLd8&t=0s) - The TechCave
 
 
@@ -864,7 +865,7 @@ If you think this repository makes a difference and is worth it, please share it
 ### 📝 Articles
 - [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
 
-### Videos
+### 📹 Videos
 - [Distributed Computing](https://www.youtube.com/watch?v=ajjOEltiZm4&t=0s) - The TechCave
 
 ## Scalable Software Architecture
@@ -879,7 +880,7 @@ If you think this repository makes a difference and is worth it, please share it
 
 - [10 common broken rules of clean code](http://www.kamilgrzybek.com/clean-code/10-common-broken-clean-code-rules/)
 
-### Videos
+### 📹 Videos
 - [9 "rules" for cleaner code | Object Calisthenics](https://www.youtube.com/watch?v=gyrSiY4SHxI)
 
 ### Resources
@@ -941,7 +942,7 @@ If you think this repository makes a difference and is worth it, please share it
 
 - [https://github.com/dcomartin/LooselyCoupledMonolith](https://github.com/dcomartin/LooselyCoupledMonolith)
 
-### Videos
+### 📹 Videos
 - [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE)
 - [Modular monoliths (Simon Brown) - 2016](https://www.youtube.com/watch?v=kbKxmEeuvc4)
 - [Modular monoliths by Simon Brown](https://www.youtube.com/watch?v=h_rBDIC51C4)
@@ -976,7 +977,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [System Design Interview – An insider's guide, Second Edition](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
 - [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647/)
 - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
-- []()
+
 
 ## Other Resources
 
