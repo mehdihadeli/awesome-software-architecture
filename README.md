@@ -94,6 +94,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Asynchronous Patterns](#asynchronous-patterns)
 - [Modular Monolith](#modular-monolith)
 - [Packaging](#packaging)
+- [Azure Application Architecture](azure-application-architecture)
 - [Books](#books)
 - [Other Resources](#other-resources)
 
@@ -102,6 +103,7 @@ If you think this repository makes a difference and is worth it, please share it
 ## Resources
 - [Modular Monolith](https://files.gotocon.com/uploads/slides/conference_12/515/original/gotoberlin2018-modular-monoliths.pdf)
 - [Visualising Software Architecture](http://static.codingthearchitecture.com/visualising-software-architecture.pdf)
+- [.NET Architecture Guides](https://dotnet.microsoft.com/learn/dotnet/architecture-guides)
 
 ### 📝 Articles
 - [The Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
@@ -756,7 +758,7 @@ If you think this repository makes a difference and is worth it, please share it
 
 #### 📹 Videos
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
-
+- [Decomposing CRUD to a Task Based UI](https://www.youtube.com/watch?v=DjZepWrAKzM)
 #### 🔖 Samples
 
 - [https://github.com/kgrzybek/sample-dotnet-core-cqrs-api](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - Kamil Grzybek
@@ -774,19 +776,23 @@ If you think this repository makes a difference and is worth it, please share it
 ### Event Sourcing
 
 #### 📝 Articles 
-
 - [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) - Martin Fowler
 - [About event sourcing](https://eventuate.io/whyeventsourcing.html) - eventuate.io
 - [Event Sourcing pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing) - Microsoft
 - [Event Sourcing Example & Explained in plain English](https://codeopinion.com/event-sourcing-example-explained-in-plain-english/?utm_source=feedly&utm_medium=rss&utm_campaign=event-sourcing-example-explained-in-plain-english) - CodeOpinion
 
-#### Samples
+#### Videos
+- [Event Sourcing: Rehydrating Aggregates with Snapshots](https://www.youtube.com/watch?v=eAIkomEid1Y)
 
+#### Samples
 - [https://github.com/PacktPublishing/Hands-On-Domain-Driven-Design-with-.NET-Core](https://github.com/PacktPublishing/Hands-On-Domain-Driven-Design-with-.NET-Core) - Alexey Zimarev
+
+
 
 ### Microservices Architectural Pattern
 
 #### Resources
+- [.NET Microservices Architecture Guidance](https://dotnet.microsoft.com/learn/aspnet/microservices-architecture)
 - [Awesome Microservices .NET Core](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - A collection of awesome training series, Articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core
 - [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/) - Microsoft
 
@@ -802,6 +808,8 @@ If you think this repository makes a difference and is worth it, please share it
 #### 📹 Videos
 - [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) - The TechCave
 - [On .NET Live - Microservice applications with DAPR and .NET](https://www.youtube.com/watch?v=kIfmwmJHNMs)
+- [Microservices Architecture and Implementation on .NET 5](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/?couponCode=FA24745CC57592AB612A)
+
 #### 📦 Tools
 - [https://github.com/dotnet/tye](https://github.com/dotnet/tye)
     > Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
@@ -882,7 +890,7 @@ If you think this repository makes a difference and is worth it, please share it
 
 ### 📹 Videos
 - [9 "rules" for cleaner code | Object Calisthenics](https://www.youtube.com/watch?v=gyrSiY4SHxI)
-
+- [Is clean code actually slower?](https://www.youtube.com/watch?v=zVLuQAnNue8)
 ### Resources
 
 - [https://github.com/thangchung/clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet) - Thang Chung 
@@ -953,6 +961,11 @@ If you think this repository makes a difference and is worth it, please share it
 ### 📝 Articles
 - [Package by component and architecturally-aligned testing](http://www.codingthearchitecture.com/2015/03/08/package_by_component_and_architecturally_aligned_testing.html) - Simon Brown
 - [Schools of Package Architecture - An Illustration](http://codemanship.co.uk/parlezuml/blog/?postid=539)
+
+## Azure Application Architecture
+
+### Resources
+- [https://dotnet.microsoft.com/learn/azure/architecture](https://dotnet.microsoft.com/learn/azure/architecture)
 
 ## Books
 - [Microsoft Application Architecture Guide, 2nd Edition](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ff650706(v=pandp.10))
