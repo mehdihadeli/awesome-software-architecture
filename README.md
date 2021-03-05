@@ -95,6 +95,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Modular Monolith](#modular-monolith)
 - [Packaging](#packaging)
 - [Azure Application Architecture](azure-application-architecture)
+- [Engineering Blogs](#engineering-blogs)
 - [Books](#books)
 - [Other Resources](#other-resources)
 
@@ -755,6 +756,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [From CQS to CQRS](https://herbertograca.com/2017/10/19/from-cqs-to-cqrs/)
 - [Building a robust CQRS database with EF Core and Cosmos DB](https://www.thereformedprogrammer.net/building-a-robust-cqrs-database-with-ef-core-and-cosmos-db/)
 - [EF Core – Combining SQL and NoSQL databases for better performance](https://www.thereformedprogrammer.net/ef-core-combining-sql-and-nosql-databases-for-better-performance/)
+- [CQRS facts and myths explained](https://event-driven.io/en/cqrs_facts_and_myths_explained/) - Oskar Dudycz
 
 #### 📹 Videos
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
@@ -780,9 +782,11 @@ If you think this repository makes a difference and is worth it, please share it
 - [About event sourcing](https://eventuate.io/whyeventsourcing.html) - eventuate.io
 - [Event Sourcing pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing) - Microsoft
 - [Event Sourcing Example & Explained in plain English](https://codeopinion.com/event-sourcing-example-explained-in-plain-english/?utm_source=feedly&utm_medium=rss&utm_campaign=event-sourcing-example-explained-in-plain-english) - CodeOpinion
+- [Event Sourcing with Azure SQL and Entity Framework Core](https://daniel-krzyczkowski.github.io/Event-Sourcing-With-Azure-SQL-And-Entity-Framework-Core/)
 
 #### Videos
 - [Event Sourcing: Rehydrating Aggregates with Snapshots](https://www.youtube.com/watch?v=eAIkomEid1Y)
+- [Event Sourcing with Azure SQL and Entity Framework Core](https://www.youtube.com/watch?v=-BhDW3GeSqg)
 
 #### Samples
 - [https://github.com/PacktPublishing/Hands-On-Domain-Driven-Design-with-.NET-Core](https://github.com/PacktPublishing/Hands-On-Domain-Driven-Design-with-.NET-Core) - Alexey Zimarev
@@ -858,17 +862,18 @@ If you think this repository makes a difference and is worth it, please share it
 ## Distributed Systems Design
 
 ### Resources
-- [System Design](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/playlist?list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV) - Tech Dummies Narendra L
-- [Coding and System Design Interview Questions](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/playlist?list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka) - Success in Tech
-- [System Design](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) - Gaurav Sen
-- [Basics of System Design](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u) - Coding Simplified
-- [System Design Primer Course](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a) - sudoCODE
-- [System Design And Interview](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/c/interviewingio/videos) - interviewing.io
-- [System Design](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/playlist?list=PLhgw50vUymyckXl3D1IlXoVl94wknJfUC) - codeKarle
+- [System Design](https://www.youtube.com/playlist?list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV) - Tech Dummies Narendra L
+- [Coding and System Design Interview Questions](https://www.youtube.com/playlist?list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka) - Success in Tech
+- [System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) - Gaurav Sen
+- [Basics of System Design](https://www.youtube.com/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u) - Coding Simplified
+- [System Design Primer Course](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a) - sudoCODE
+- [System Design And Interview](https://www.youtube.com/c/interviewingio/videos) - interviewing.io
+- [System Design](https://www.youtube.com/playlist?list=PLhgw50vUymyckXl3D1IlXoVl94wknJfUC) - codeKarle
 - [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Donne Martin
 - [https://github.com/checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - Zach
 - [https://github.com/shashank88/system_design](https://github.com/shashank88/system_design) - shashank khare
 - [https://github.com/lei-hsia/grokking-system-design](https://github.com/lei-hsia/grokking-system-design) - LEI XIA
+- [https://github.com/kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
 
 ### 📝 Articles
 - [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
@@ -956,6 +961,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Modular monoliths by Simon Brown](https://www.youtube.com/watch?v=h_rBDIC51C4)
 - [Munich .NET Meetup: Modular Monolith Architecture - One to rule them all](https://www.youtube.com/watch?v=tpeOWlif1l4)
 - [Majestic Modular Monoliths by Axel Fontaine](https://www.youtube.com/watch?v=BOvxJaklcr0)
+
 ## Packaging
 
 ### 📝 Articles
@@ -966,6 +972,59 @@ If you think this repository makes a difference and is worth it, please share it
 
 ### Resources
 - [https://dotnet.microsoft.com/learn/azure/architecture](https://dotnet.microsoft.com/learn/azure/architecture)
+
+### 📝 Articles
+- [Cars Island Car Rental on the Azure cloud - part 1](https://daniel-krzyczkowski.github.io/Cars-Island-Car-Rental-On-Azure-Cloud/)
+
+### 🔖 Samples
+- [https://github.com/Daniel-Krzyczkowski/MicrosoftAzure](https://github.com/Daniel-Krzyczkowski/MicrosoftAzure)
+	> Microsoft Azure code samples.
+	
+### Azure Active Directory (Azure AD)
+
+#### 📝 Articles
+- [Automate Azure AD B2C policies release with GitHub Actions](https://daniel-krzyczkowski.github.io/Automate-Azure-AD-B2C-policies-release-with-GitHub-Actions/)
+- [Manage guest user access with Azure AD External Identities](https://daniel-krzyczkowski.github.io/Manage-Guest-User-Access-with-Azure-Ad-External-Identities/)
+- [Azure AD B2C with external authorization store](https://daniel-krzyczkowski.github.io/Azure-AD-B2C-With-External-Authorization-Store/)
+
+#### 📹 Videos
+- [Automate Azure AD B2C custom policies release with GitHub Actions](https://www.youtube.com/watch?v=h25h-fxL_K4)
+- [Azure AD B2C with external authorization store](https://www.youtube.com/watch?v=_umcCiSOFv0)
+- [How to provide access to application for different types of users with Azure AD and Azure AD B2C](https://www.youtube.com/watch?v=NrkbWPDFGzI)
+- [Introduction to the Microsoft Identity Platform](https://www.youtube.com/watch?v=_JhftCwwZqs)
+- [How to secure solution with Azure Active Directory B2C (Azure AD B2C)](https://www.youtube.com/watch?v=LDh1bJOihBg)
+### Azure Service Bus
+
+#### 📝 Articles
+- [Asynchronous messaging with Azure Service Bus](https://daniel-krzyczkowski.github.io/Asynchronous-Messaging-With-Azure-Service-Bus/)
+
+#### Videos
+- [Asynchronous messaging with Azure Service Bus](https://www.youtube.com/watch?v=aJn5CDhWvJQ)
+
+### Azure Functions
+
+#### 📝 Articles
+- [Build event-driven solutions with Azure Functions and Cosmos DB](https://www.youtube.com/watch?v=8WMjRIw6QzQ)
+
+### Azure Template
+- [Be more efficient developer with Azure Developer Starter Pack](https://daniel-krzyczkowski.github.io/Be-More-Efficient-Developer-With-Azure-Developer-Starter-Pack/)
+#### 📝 Articles
+
+#### 📹 Videos
+- [Be more efficient developer with Azure Developer Starter Pack](https://www.youtube.com/watch?v=8XJQLaWAPro)
+
+#### 🔖 Samples
+- [https://github.com/Daniel-Krzyczkowski/AzureDeveloperTemplates](https://github.com/Daniel-Krzyczkowski/AzureDeveloperTemplates)
+	> This repository contains helpful code templates for Azure cloud developers.
+	
+## Engineering Blogs
+- [Uber](https://eng.uber.com)
+- [Twitter](https://blog.twitter.com/engineering/en_us.html)
+- [Netflix Engineering Blog](https://netflixtechblog.com/?gi=133ebc0bdafe)
+- [Netflix Architecture Blog](https://netflixtechblog.com/tagged/architecture)
+- [Amazon](https://aws.amazon.com/blogs/aws/)
+- [Amazon Architecture blog](https://aws.amazon.com/blogs/architecture/)
+- [https://github.com/kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
 
 ## Books
 - [Microsoft Application Architecture Guide, 2nd Edition](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ff650706(v=pandp.10))
