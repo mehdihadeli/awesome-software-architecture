@@ -95,6 +95,9 @@ If you think this repository makes a difference and is worth it, please share it
 - [Modular Monolith](#modular-monolith)
 - [Packaging](#packaging)
 - [Azure Application Architecture](azure-application-architecture)
+- [Modeling](#modeling)
+  - [Conceptual Model](#conceptual-model)
+  - [Data Modeling](#data-modeling)
 - [Engineering Blogs](#engineering-blogs)
 - [Books](#books)
 - [Other Resources](#other-resources)
@@ -254,6 +257,9 @@ If you think this repository makes a difference and is worth it, please share it
 
 - [https://github.com/ardalis/cleanarchitecture](https://github.com/ardalis/cleanarchitecture) - Steve Smith
     > A starting point for Clean Architecture with ASP.NET Core - [Project Template (visual studio extension)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.CleanArchitecture)
+
+- [https://github.com/pereiren/dotnet-template-onion](https://github.com/pereiren/dotnet-template-onion)
+	> Onion Architecture with .NET 5/.NET Core and CQRS/Event Sourcing following a DDD approach
 	
 - [https://github.com/dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - Steve Smith
     > Sample ASP.NET Core 5.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.
@@ -308,6 +314,11 @@ If you think this repository makes a difference and is worth it, please share it
 	
 - [https://github.com/techtribesje/techtribesje](https://github.com/techtribesje/techtribesje)
 
+- [https://github.com/thombergs/buckpal](https://github.com/thombergs/buckpal)
+	> An example approach for implementing a Clean/Hexagonal Architecture
+
+#### Books
+- [Get Your Hands Dirty on Clean Architecture](https://www.packtpub.com/product/get-your-hands-dirty-on-clean-architecture/9781839211966)
 
 ### Onion Architecture
 
@@ -332,6 +343,8 @@ If you think this repository makes a difference and is worth it, please share it
 - [https://github.com/Amitpnk/Onion-architecture-ASP.NET-Core](https://github.com/Amitpnk/Onion-architecture-ASP.NET-Core)
 	> WhiteApp API solution template which is built on Onion Architecture with all essential feature using .NET Core!
 	
+- [https://github.com/pereiren/dotnet-template-onion](https://github.com/pereiren/dotnet-template-onion)
+	> Onion Architecture with .NET 5/.NET Core and CQRS/Event Sourcing following a DDD approach	
 	
 ### Ports And Adapters Architecture (Hexagonal Architecture)
 
@@ -410,9 +423,11 @@ If you think this repository makes a difference and is worth it, please share it
 - [Journey to Event Driven – Part 3: The Affinity Between Events, Streams and Serverless](https://www.confluent.io/blog/journey-to-event-driven-part-3-affinity-between-events-streams-serverless/)
 - [Journey to Event Driven – Part 4: Four Pillars of Event Streaming Microservices](https://www.confluent.io/blog/journey-to-event-driven-part-4-four-pillars-of-event-streaming-microservices/)
 - [Event Driven Systems](https://medium.com/omarelgabrys-blog/event-driven-systems-cdbe5a4b3d04)
+- [Events on the outside, on the inside and at the core](https://chrisrichardson.net/post/microservices/2021/02/21/events-are-the-core.html)
 
 #### Videos
 - [Event-Driven Architecture | EDA | Software Architectural Patterns](https://www.youtube.com/watch?v=gIL8rW_eyww&t=0s) - The TechCave
+- [Events on the outside, on the inside and at the core](https://www.youtube.com/watch?v=rP-InttAbVY)
 
 ### Service Oriented Architecture
 
@@ -647,7 +662,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Domain Command Patterns - Validation](https://jimmybogard.com/domain-command-patterns-validation/) - Jimmy Bogard
 - [Domain Command Patterns - Handlers](https://jimmybogard.com/domain-command-patterns-handlers/) - Jimmy Bogard
 - [Attributes of Clean Domain Model](https://www.kamilgrzybek.com/design/clean-domain-model-attributes/)
-
+- [Domain Model Encapsulation and PI with Entity Framework 2.2](https://www.kamilgrzybek.com/design/domain-model-encapsulation-and-pi-with-entity-framework-2-2/) - Kamil Grzybek
 
 ##### 📹 Videos
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU) - CodeOpinion
@@ -679,6 +694,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [How to publish and handle Domain Events](http://www.kamilgrzybek.com/design/how-to-publish-and-handle-domain-events/) - Kamil Grzybek
 - [Handling Domain Events: Missing Part](http://www.kamilgrzybek.com/design/handling-domain-events-missing-part/) - Kamil Grzybek
 - [Domain events: design and implementation](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/domain-events-design-implementation) - Microsoft
+- [Events on the outside, on the inside and at the core](https://chrisrichardson.net/post/microservices/2021/02/21/events-are-the-core.html)
 
 #### Infrastructure
 
@@ -732,6 +748,9 @@ If you think this repository makes a difference and is worth it, please share it
 
 - [https://github.com/anjoy8/ChristDDD](https://github.com/anjoy8/ChristDDD)
 
+- [https://github.com/ddd-by-examples/library](https://github.com/ddd-by-examples/library)
+	> A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
+	
 ### Data Driven Design (Data Centric)
 
 #### 📝 Articles
@@ -808,11 +827,17 @@ If you think this repository makes a difference and is worth it, please share it
 - [Securing Microservices with IdentityServer4, OAuth2 and OpenID Connect fronted by Ocelot API Gateway](https://medium.com/aspnetrun/securing-microservices-with-identityserver4-with-oauth2-and-openid-connect-fronted-by-ocelot-api-49ea44a0cf9e)
 - [Saga Pattern: how to manage distributed transactions with microservices](https://www.cncf.io/blog/2021/02/12/saga-pattern-how-to-manage-distributed-transactions-with-microservices)
 - [Use NoSQL databases as a persistence infrastructure](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/nosql-database-persistence-infrastructure)
+- [When to use the microservice architecture: part 1 - the need to deliver software rapidly, frequently, and reliably](https://chrisrichardson.net/post/microservices/2020/02/18/why-microservices-part-1.html)
+- [Why microservices: part 2 - the need for sustainable development](https://chrisrichardson.net/post/microservices/2020/03/30/why-microservices-part-2.html)
+- [Why microservices - part 3: two thirds of the success triangle - process and organization](https://chrisrichardson.net/post/microservices/2020/04/11/why-microservices-part-3.html)
+- [Why microservices - part 4: the last third of the success triangle: architectural requirements for rapid, frequent, reliable and sustainable development](https://chrisrichardson.net/post/microservices/2020/05/21/why-microservices-part-4.html)
+- [When to use the microservice architecture: part 5 - the monolithic architecture and rapid, frequent, reliable and sustainable software delivery](https://chrisrichardson.net/post/microservices/2021/02/14/why-microservices-part-5-monolith.html)
 
 #### 📹 Videos
 - [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) - The TechCave
 - [On .NET Live - Microservice applications with DAPR and .NET](https://www.youtube.com/watch?v=kIfmwmJHNMs)
 - [Microservices Architecture and Implementation on .NET 5](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/?couponCode=FA24745CC57592AB612A)
+- [Designing Loosely Coupled Microservices](https://skillsmatter.com/skillscasts/14926-designing-loosely-coupled-microservices)
 
 #### 📦 Tools
 - [https://github.com/dotnet/tye](https://github.com/dotnet/tye)
@@ -844,7 +869,11 @@ If you think this repository makes a difference and is worth it, please share it
 - [https://github.com/aspnetrun/run-aspnet-grpc](https://github.com/aspnetrun/run-aspnet-grpc) - AspNetRun
 	> Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5. See gRPC Microservices and Step by Step Implementation on .NET Course w/ discount->
 
+- [https://github.com/jbossdemocentral/coolstore-microservice](https://github.com/jbossdemocentral/coolstore-microservice)
 
+- [https://github.com/thangchung/practical-clean-ddd](https://github.com/thangchung/practical-clean-ddd)
+	> A simplified and effortless approach to get started with Domain-driven Design, Clean Architecture, CQRS, and Microservices patterns
+	
 ## Serverless Architectural Pattern
 
 ### 📹 Videos
@@ -869,18 +898,27 @@ If you think this repository makes a difference and is worth it, please share it
 - [System Design Primer Course](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a) - sudoCODE
 - [System Design And Interview](https://www.youtube.com/c/interviewingio/videos) - interviewing.io
 - [System Design](https://www.youtube.com/playlist?list=PLhgw50vUymyckXl3D1IlXoVl94wknJfUC) - codeKarle
+- [Grokking the System Design Interview](https://www.youtube.com/playlist?list=PL73KFetZlkJSZ9vTDSJ1swZhe6CIYkqTL)
 - [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Donne Martin
 - [https://github.com/checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - Zach
 - [https://github.com/shashank88/system_design](https://github.com/shashank88/system_design) - shashank khare
 - [https://github.com/lei-hsia/grokking-system-design](https://github.com/lei-hsia/grokking-system-design) - LEI XIA
 - [https://github.com/kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
-
+- [Preparing for the Systems Design and Coding Interview](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/)
+- [System Design Interview](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ)
+- [http://highscalability.com/all-time-favorites/](http://highscalability.com/all-time-favorites/)
+- [systeminterview](https://courses.systeminterview.com/courses/system-design-interview-an-insider-s-guide?ref=c89a35)
 ### 📝 Articles
 - [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
-
+- [YouTube Architecture](http://highscalability.com/youtube-architecture)
 ### 📹 Videos
 - [Distributed Computing](https://www.youtube.com/watch?v=ajjOEltiZm4&t=0s) - The TechCave
 
+### Books
+- [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
+- [System Design Interview – An insider's guide, Second Edition](https://www.amazon.com/dp/B08CMF2CQF/ref=tsm_1_fb_lk)
+- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+- [Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/)
 ## Scalable Software Architecture
 
 ### Resources
@@ -941,7 +979,8 @@ If you think this repository makes a difference and is worth it, please share it
 - [My experience of using modular monolith and DDD architectures](https://www.thereformedprogrammer.net/my-experience-of-using-modular-monolith-and-ddd-architectures/)
 - [Modular programming: Beyond the spaghetti mess](https://www.tiny.cloud/blog/modular-programming-principle/)
 - [Migrating Monoliths to Microservices with Decomposition and Incremental Changes](https://www.infoq.com/articles/migrating-monoliths-to-microservices-with-decomposition/)
-
+- [Decompose your monolith: Ten principles for refactoring a monolith to microservices](https://chrisrichardson.net/post/refactoring/2020/08/21/ten-principles-for-refactoring-to-microservices.html)
+- [Decompose Your Monolith: Strategies for Migrating to Microservices](https://chrisrichardson.net/post/refactoring/2019/10/09/refactoring-to-microservices.html)
 ### 🔖 Samples
 
 - [https://github.com/kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Kamil Grzybek
@@ -955,13 +994,22 @@ If you think this repository makes a difference and is worth it, please share it
 
 - [https://github.com/dcomartin/LooselyCoupledMonolith](https://github.com/dcomartin/LooselyCoupledMonolith)
 
+- [https://github.com/trueai-org/module-shop](https://github.com/trueai-org/module-shop)
+
+- [https://github.com/thangchung/coolstore-moduliths](https://github.com/thangchung/coolstore-moduliths)
+
+- [https://github.com/thangchung/blog-core](https://github.com/thangchung/blog-core)
+	> Modular blog using Blazor with clean domain-driven design patterns
+
+- [https://github.com/ddd-by-examples/library](https://github.com/ddd-by-examples/library)
+	> A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
 ### 📹 Videos
 - [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE)
 - [Modular monoliths (Simon Brown) - 2016](https://www.youtube.com/watch?v=kbKxmEeuvc4)
 - [Modular monoliths by Simon Brown](https://www.youtube.com/watch?v=h_rBDIC51C4)
 - [Munich .NET Meetup: Modular Monolith Architecture - One to rule them all](https://www.youtube.com/watch?v=tpeOWlif1l4)
 - [Majestic Modular Monoliths by Axel Fontaine](https://www.youtube.com/watch?v=BOvxJaklcr0)
-
+- [Decompose your monolith-  when and how to incrementally refactor to microservices](https://vimeo.com/442842127/543b578f38)
 ## Packaging
 
 ### 📝 Articles
@@ -1017,6 +1065,76 @@ If you think this repository makes a difference and is worth it, please share it
 - [https://github.com/Daniel-Krzyczkowski/AzureDeveloperTemplates](https://github.com/Daniel-Krzyczkowski/AzureDeveloperTemplates)
 	> This repository contains helpful code templates for Azure cloud developers.
 	
+## Modeling
+
+## Relationships
+
+- [What is the difference between IS -A relationship and HAS-A relationship in Java? [duplicate]](https://stackoverflow.com/questions/36162714/what-is-the-difference-between-is-a-relationship-and-has-a-relationship-in-java)
+- [Types Of Relationships In Object Oriented Programming (OOP)](https://www.linkedin.com/pulse/types-relationships-object-oriented-programming-oop-sarah-el-dawody/)
+- [Common types of OOP relationships and their UML representation](https://dev.to/tommyc/common-types-of-oop-relationships-and-their-uml-representation-5b27)
+- [Association, aggregation, and composition in OOP explained](https://www.infoworld.com/article/3029325/exploring-association-aggregation-and-composition-in-oop.html)
+## ER Diagrams
+
+#### 📝 Articles
+- [What to Look for in Your ER Diagram Tool](https://vertabelo.com/blog/selecting-er-diagram-tool/)
+- [Why Do You Need an ER Diagram?](https://vertabelo.com/blog/why-need-an-er-diagram/)
+- [Getting Started with ER Diagrams in Vertabelo](https://vertabelo.com/blog/start-online-data-modeling/)
+- [What Is an ER Diagram?](https://vertabelo.com/blog/entity-relationship-diagram/)
+- [Explaining an ER Diagram, With Steps and Use Cases](https://vertabelo.com/blog/how-to-use-er-diagram/)
+- [A Database Model for a Hotel Reservation Booking App and Channel Manager](https://vertabelo.com/blog/a-database-model-for-a-hotel-reservation-booking-app-and-channel-manager/)
+- [A Data Model for Online Concert Ticket Sales](https://vertabelo.com/blog/a-data-model-for-online-concert-ticket-sales/)
+- [What Are the Symbols Used in an ER Diagram?](https://vertabelo.com/blog/symbol-in-erd-diagram/)
+- [ER Diagram: Entity Relationship Diagram Model | DBMS Example](https://www.guru99.com/er-diagram-tutorial-dbms.html)
+- [What is an Entity Relationship Diagram (ERD)?](https://www.lucidchart.com/pages/er-diagrams)
+- [Entity Data Model Key Concepts](https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/entity-data-model-key-concepts?redirectedfrom=MSDN)
+- [A Data Model for an Online Musical Equipment Shop](https://vertabelo.com/blog/a-data-model-for-an-online-musical-equipment-shop/)
+- [A Data Model for a Wine Store](https://vertabelo.com/blog/a-data-model-for-a-wine-store/)
+- [Automobile Repair Shop Data Model](https://vertabelo.com/blog/automobile-repair-shop-data-model/)
+- [A Data Model for a Freelancers Collective](https://vertabelo.com/blog/a-data-model-for-a-freelancers-collective/)
+- [Samples](https://vertabelo.com/blog/example_er_diagrams)
+
+#### 📹 Videos
+- [Creating Entity Relationship Diagrams using Draw.io](https://www.youtube.com/watch?v=lAtCySGDD48)
+- [Entity Relationship Diagram (ERD) Tutorial - Part 1](https://www.youtube.com/watch?v=QpdhBUYk7Kk)
+- [Entity Relationship Diagram (ERD) Tutorial - Part 2](https://www.youtube.com/watch?v=-CuY5ADwn24)
+### Conceptual Modeling
+
+#### 📝 Articles
+- [Data Modelling: Conceptual, Logical, Physical Data Model Types](https://www.guru99.com/data-modelling-conceptual-logical.html)
+- [Conceptual Model](https://www.visual-paradigm.com/support/documents/vpuserguide/3563/3564/85378_conceptual,l.html)
+- [How to Implement a Conceptual, Logical, and Physical Data Model in Vertabelo](https://vertabelo.com/blog/conceptual-logical-and-physical-data-model/)
+- [What Are Conceptual, Logical, and Physical Data Models?](https://vertabelo.com/blog/conceptual-logical-physical-data-model/)
+- [5 Examples of Conceptual Data Models](https://vertabelo.com/blog/conceptual-data-model/)
+
+#### 📹 Videos
+- [Conceptual Data Modeling with Diagrams.Net](https://www.youtube.com/watch?v=7lGFx-qYmhU)
+- [Get a Head Start with Entity Framework Core 5.0 with EF Core Power Tools](https://www.youtube.com/watch?v=uph-AGyOd8c)
+
+#### Tools
+- [https://www.diagrams.net](https://www.diagrams.net)
+- [https://my.vertabelo.com](https://my.vertabelo.com)
+- [https://github.com/ErikEJ/EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools)
+- [Reverse engineering - vertabelo](https://vertabelo.com/documentation/physical-model/reverse-engineering-doc/)
+- [Top 7 Entity Relationship (ER) Diagram Online Tools](https://vertabelo.com/blog/er-diagram-tools/)
+- [lucidchart](https://www.lucidchart.com/pages/)
+### Logical Model
+
+#### 📝 Articles
+- [How to Implement a Conceptual, Logical, and Physical Data Model in Vertabelo](https://vertabelo.com/blog/conceptual-logical-and-physical-data-model/)
+- [What Are Conceptual, Logical, and Physical Data Models?](https://vertabelo.com/blog/conceptual-logical-physical-data-model/)
+- [Vertabelo Features: Logical Diagrams](https://vertabelo.com/blog/logical-diagrams/)
+
+#### 📹 Videos 
+- [Logical Data Modeling with Diagrams.Net](https://www.youtube.com/watch?v=CmjW3HyazRA)
+
+### Physical Model
+
+#### 📝 Articles
+- [How to Implement a Conceptual, Logical, and Physical Data Model in Vertabelo](https://vertabelo.com/blog/conceptual-logical-and-physical-data-model/)
+- [What Are Conceptual, Logical, and Physical Data Models?](https://vertabelo.com/blog/conceptual-logical-physical-data-model/)
+- [How to Create Physical Diagrams in Vertabelo](https://vertabelo.com/blog/create-physical-diagrams-in-vertabelo/)
+- [Reverse Engineering With Vertabelo](https://vertabelo.com/blog/reverse-engineering-with-vertabelo/)
+
 ## Engineering Blogs
 - [Uber](https://eng.uber.com)
 - [Twitter](https://blog.twitter.com/engineering/en_us.html)
