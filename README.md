@@ -1082,7 +1082,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Types Of Relationships In Object Oriented Programming (OOP)](https://www.linkedin.com/pulse/types-relationships-object-oriented-programming-oop-sarah-el-dawody/)
 - [Common types of OOP relationships and their UML representation](https://dev.to/tommyc/common-types-of-oop-relationships-and-their-uml-representation-5b27)
 - [Association, aggregation, and composition in OOP explained](https://www.infoworld.com/article/3029325/exploring-association-aggregation-and-composition-in-oop.html)
-
+- [UML Notation](https://www.vertabelo.com/blog/uml-notation/)
 ### Use Case Diagram
 
 #### 📝 Articles
@@ -1152,14 +1152,11 @@ If you think this repository makes a difference and is worth it, please share it
 - [Reverse Engineering With Vertabelo](https://vertabelo.com/blog/reverse-engineering-with-vertabelo/)
 
 ### Tools
-- [https://www.diagrams.net](https://www.diagrams.net)
-- [https://my.vertabelo.com](https://my.vertabelo.com)
-- [https://github.com/ErikEJ/EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools)
+- [Diagrams.Net](https://www.diagrams.net)
+- [Vertabelo](https://vertabelo.com)
 - [Reverse engineering - vertabelo](https://vertabelo.com/documentation/physical-model/reverse-engineering-doc/)
-- [Top 7 Entity Relationship (ER) Diagram Online Tools](https://vertabelo.com/blog/er-diagram-tools/)
 - [LucidChart](https://www.lucidchart.com/pages/)
-
-
+- [Top 7 Entity Relationship (ER) Diagram Online Tools](https://vertabelo.com/blog/er-diagram-tools/)
 
 ## Engineering Blogs
 - [Uber](https://eng.uber.com)
