@@ -1075,25 +1075,27 @@ If you think this repository makes a difference and is worth it, please share it
 	
 ## Modeling
 
-## Relationships
+### Relationships
+
+#### 📝 Articles
 - [What is the difference between IS -A relationship and HAS-A relationship in Java? [duplicate]](https://stackoverflow.com/questions/36162714/what-is-the-difference-between-is-a-relationship-and-has-a-relationship-in-java)
 - [Types Of Relationships In Object Oriented Programming (OOP)](https://www.linkedin.com/pulse/types-relationships-object-oriented-programming-oop-sarah-el-dawody/)
 - [Common types of OOP relationships and their UML representation](https://dev.to/tommyc/common-types-of-oop-relationships-and-their-uml-representation-5b27)
 - [Association, aggregation, and composition in OOP explained](https://www.infoworld.com/article/3029325/exploring-association-aggregation-and-composition-in-oop.html)
 
-## Use Case Diagram
+### Use Case Diagram
 
-### 📝 Articles
+#### 📝 Articles
 - [UML Use Case Diagram: Tutorial with EXAMPLE](https://www.guru99.com/use-case-diagrams-example.html)
 
 
 ### Class Diagram
 
-### 📝 Articles
+#### 📝 Articles
 - [UML Class Diagram Tutorial with Examples](https://www.guru99.com/uml-class-diagram.html)
 - [What is Class Diagram?](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-class-diagram/)
 
-## ER Diagrams
+### ER Diagrams
 
 #### 📝 Articles
 - [What to Look for in Your ER Diagram Tool](https://vertabelo.com/blog/selecting-er-diagram-tool/)
@@ -1131,14 +1133,6 @@ If you think this repository makes a difference and is worth it, please share it
 - [Conceptual Data Modeling with Diagrams.Net](https://www.youtube.com/watch?v=7lGFx-qYmhU)
 - [Get a Head Start with Entity Framework Core 5.0 with EF Core Power Tools](https://www.youtube.com/watch?v=uph-AGyOd8c)
 
-#### Tools
-- [https://www.diagrams.net](https://www.diagrams.net)
-- [https://my.vertabelo.com](https://my.vertabelo.com)
-- [https://github.com/ErikEJ/EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools)
-- [Reverse engineering - vertabelo](https://vertabelo.com/documentation/physical-model/reverse-engineering-doc/)
-- [Top 7 Entity Relationship (ER) Diagram Online Tools](https://vertabelo.com/blog/er-diagram-tools/)
-- [LucidChart](https://www.lucidchart.com/pages/)
-
 ### Logical Modeling
 
 #### 📝 Articles
@@ -1156,6 +1150,16 @@ If you think this repository makes a difference and is worth it, please share it
 - [What Are Conceptual, Logical, and Physical Data Models?](https://vertabelo.com/blog/conceptual-logical-physical-data-model/)
 - [How to Create Physical Diagrams in Vertabelo](https://vertabelo.com/blog/create-physical-diagrams-in-vertabelo/)
 - [Reverse Engineering With Vertabelo](https://vertabelo.com/blog/reverse-engineering-with-vertabelo/)
+
+### Tools
+- [https://www.diagrams.net](https://www.diagrams.net)
+- [https://my.vertabelo.com](https://my.vertabelo.com)
+- [https://github.com/ErikEJ/EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools)
+- [Reverse engineering - vertabelo](https://vertabelo.com/documentation/physical-model/reverse-engineering-doc/)
+- [Top 7 Entity Relationship (ER) Diagram Online Tools](https://vertabelo.com/blog/er-diagram-tools/)
+- [LucidChart](https://www.lucidchart.com/pages/)
+
+
 
 ## Engineering Blogs
 - [Uber](https://eng.uber.com)
