@@ -98,8 +98,9 @@ If you think this repository makes a difference and is worth it, please share it
 - [Modeling](#modeling)
   - [Relationships](#relationships)
   - [Use Case Diagram](#use-case-diagram)
-  - [Class Diagram](#class-diagram)
-  - [ER Diagrams](#er-diagrams)
+  - [Class Diagram (Class Modeling)](#class-diagram-(class-modeling))
+  - [ER Diagrams (Data Modeling)](#er-diagrams-(data-modeling))
+  - [Data Model Notations](#data-model-notations)
   - [Conceptual Model](#conceptual-model)
   - [Logical Modeling](#logical-modeling)
   - [Physical Modeling](#physical-modeling)
@@ -114,7 +115,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Modular Monolith](https://files.gotocon.com/uploads/slides/conference_12/515/original/gotoberlin2018-modular-monoliths.pdf)
 - [Visualising Software Architecture](http://static.codingthearchitecture.com/visualising-software-architecture.pdf)
 - [.NET Architecture Guides](https://dotnet.microsoft.com/learn/dotnet/architecture-guides)
-
+- [Open Agile Architecture](https://pubs.opengroup.org/architecture/o-aa-standard/#_open_agile_architecture)
 ### 📝 Articles
 - [The Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
 - [Software Architecture Premises](https://herbertograca.com/2017/07/05/software-architecture-premises/) - Herberto Graca
@@ -645,10 +646,11 @@ If you think this repository makes a difference and is worth it, please share it
 - [Domain-centric Architectures are Cool, but Why ?](https://blog.cancobanoglu.net/2017/05/11/domain-centric-architectures-are-cool-but-why/)
 - [Clean Architecture : Part 1 – Database vs Domain](https://crosp.net/blog/software-architecture/clean-architecture-part-1-databse-vs-domain/)
 - [Domain Centric Architecture ve Domain Driven Design](http://cagataykiziltan.net/tr/domain-centric-architecture-ve-domain-driven-design/)
+- [AVOID Entity Services by Focusing on Capabilities](https://codeopinion.com/avoid-entity-services-by-focusing-on-capabilities/)
 
 #### 📹 Videos
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
-
+- [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU)
 #### Value Objects
 
 ##### 📝 Articles
@@ -766,11 +768,12 @@ If you think this repository makes a difference and is worth it, please share it
 - [Domain-centric vs data-centric approaches to software development](https://enterprisecraftsmanship.com/posts/domain-centric-vs-data-centric-approaches/)
 - [Clean Architecture : Part 1 – Database vs Domain](https://crosp.net/blog/software-architecture/clean-architecture-part-1-databse-vs-domain/)
 - [Domain Centric Architecture ve Domain Driven Design](http://cagataykiziltan.net/tr/domain-centric-architecture-ve-domain-driven-design/)
-
+- [AVOID Entity Services by Focusing on Capabilities](https://codeopinion.com/avoid-entity-services-by-focusing-on-capabilities/)
 #### 📹 Videos
 - [Creating N-Tier Applications in C#, Part 1](https://www.pluralsight.com/courses/n-tier-apps-part1)
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture)
-
+- [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU)
+- [Decomposing CRUD to a Task Based UI](https://www.youtube.com/watch?v=DjZepWrAKzM)
 ### CQRS
 
 #### 📝 Articles
@@ -809,15 +812,16 @@ If you think this repository makes a difference and is worth it, please share it
 - [Event Sourcing pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing) - Microsoft
 - [Event Sourcing Example & Explained in plain English](https://codeopinion.com/event-sourcing-example-explained-in-plain-english/?utm_source=feedly&utm_medium=rss&utm_campaign=event-sourcing-example-explained-in-plain-english) - CodeOpinion
 - [Event Sourcing with Azure SQL and Entity Framework Core](https://daniel-krzyczkowski.github.io/Event-Sourcing-With-Azure-SQL-And-Entity-Framework-Core/)
+- [Projections in Event Sourcing: Build ANY model you want!](https://codeopinion.com/projections-in-event-sourcing-build-any-model-you-want)
 
 #### Videos
+- [Event Sourcing Example & Explained in plain English](https://www.youtube.com/watch?v=AUj4M-st3ic)
+- [Projections in Event Sourcing: Build ANY model you want!](https://www.youtube.com/watch?v=bTRjO6JK4Ws)
 - [Event Sourcing: Rehydrating Aggregates with Snapshots](https://www.youtube.com/watch?v=eAIkomEid1Y)
 - [Event Sourcing with Azure SQL and Entity Framework Core](https://www.youtube.com/watch?v=-BhDW3GeSqg)
 
 #### Samples
 - [https://github.com/PacktPublishing/Hands-On-Domain-Driven-Design-with-.NET-Core](https://github.com/PacktPublishing/Hands-On-Domain-Driven-Design-with-.NET-Core) - Alexey Zimarev
-
-
 
 ### Microservices Architectural Pattern
 
@@ -1083,22 +1087,33 @@ If you think this repository makes a difference and is worth it, please share it
 - [Types Of Relationships In Object Oriented Programming (OOP)](https://www.linkedin.com/pulse/types-relationships-object-oriented-programming-oop-sarah-el-dawody/)
 - [Common types of OOP relationships and their UML representation](https://dev.to/tommyc/common-types-of-oop-relationships-and-their-uml-representation-5b27)
 - [Association, aggregation, and composition in OOP explained](https://www.infoworld.com/article/3029325/exploring-association-aggregation-and-composition-in-oop.html)
+- [Data Modeling 101](http://www.agiledata.org/essays/dataModeling101.html)
 - [UML Notation](https://www.vertabelo.com/blog/uml-notation/)
-### Use Case Diagram
+- [UML Association vs Aggregation vs Composition](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-aggregation-vs-composition/)
+
+### Use Case Diagram 
 
 #### 📝 Articles
 - [UML Use Case Diagram: Tutorial with EXAMPLE](https://www.guru99.com/use-case-diagrams-example.html)
+- [UML 2 Use Case Diagramming Guidelines](http://agilemodeling.com/style/useCaseDiagram.htm)
 
-
-### Class Diagram
+### Class Diagram (Class Modeling)
 
 #### 📝 Articles
 - [UML Class Diagram Tutorial with Examples](https://www.guru99.com/uml-class-diagram.html)
 - [What is Class Diagram?](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-class-diagram/)
+- [Data Modeling 101](http://www.agiledata.org/essays/dataModeling101.html)
+- [UML 2 Class Diagramming Guidelines](http://agilemodeling.com/style/classDiagram.htm)
 
-### ER Diagrams
+###  Component Diagram
 
 #### 📝 Articles
+- [UML 2 Component Diagramming Guidelines](http://agilemodeling.com/style/componentDiagram.htm)
+
+### ER Diagrams (Data Modeling)
+
+#### 📝 Articles
+- [Data Modeling 101](http://www.agiledata.org/essays/dataModeling101.html)
 - [What to Look for in Your ER Diagram Tool](https://vertabelo.com/blog/selecting-er-diagram-tool/)
 - [Why Do You Need an ER Diagram?](https://vertabelo.com/blog/why-need-an-er-diagram/)
 - [Getting Started with ER Diagrams in Vertabelo](https://vertabelo.com/blog/start-online-data-modeling/)
@@ -1114,21 +1129,36 @@ If you think this repository makes a difference and is worth it, please share it
 - [A Data Model for a Wine Store](https://vertabelo.com/blog/a-data-model-for-a-wine-store/)
 - [Automobile Repair Shop Data Model](https://vertabelo.com/blog/automobile-repair-shop-data-model/)
 - [A Data Model for a Freelancers Collective](https://vertabelo.com/blog/a-data-model-for-a-freelancers-collective/)
-- [Samples](https://vertabelo.com/blog/example_er_diagrams)
+- [What is the difference between 'class diagrams' and 'data models' in UML?](https://stackoverflow.com/questions/8926519/what-is-the-difference-between-class-diagrams-and-data-models-in-uml)
+- [A Comparison of Data Modeling Techniques](https://www.essentialstrategies.com/publications/modeling/compare.htm)
 
 #### 📹 Videos
 - [Creating Entity Relationship Diagrams using Draw.io](https://www.youtube.com/watch?v=lAtCySGDD48)
 - [Entity Relationship Diagram (ERD) Tutorial - Part 1](https://www.youtube.com/watch?v=QpdhBUYk7Kk)
 - [Entity Relationship Diagram (ERD) Tutorial - Part 2](https://www.youtube.com/watch?v=-CuY5ADwn24)
 
+### Data Model Notations
+
+#### 📝 Articles
+- [A Comparison of Data Modeling Techniques](https://www.essentialstrategies.com/publications/modeling/compare.htm)
+- [IDEF1X Data Model Notation](https://www.essentialstrategies.com/publications/modeling/idef1x.htm)
+- [Richard Barker Data Model Notation](https://www.essentialstrategies.com/publications/modeling/barker.htm)
+- [Information Engineering Data Model Notation](https://www.essentialstrategies.com/publications/modeling/infoeng.htm)
+- [Crow’s Foot Notation](https://vertabelo.com/blog/crow-s-foot-notation/)
+- [Chen Notation](https://vertabelo.com/blog/chen-erd-notation/)
+- [Barker’s Notation](https://vertabelo.com/blog/barkers-erd-notation/)
+- [UML Notation](https://vertabelo.com/blog/uml-notation/)
+
 ### Conceptual Modeling
 
 #### 📝 Articles
 - [Data Modelling: Conceptual, Logical, Physical Data Model Types](https://www.guru99.com/data-modelling-conceptual-logical.html)
+- [Data Modeling - Conceptual Data Model](https://sparxsystems.com/resources/gallery/diagrams/software/sw-data_modeling_-conceptual_data_model.html)
 - [Conceptual Model](https://www.visual-paradigm.com/support/documents/vpuserguide/3563/3564/85378_conceptual,l.html)
 - [How to Implement a Conceptual, Logical, and Physical Data Model in Vertabelo](https://vertabelo.com/blog/conceptual-logical-and-physical-data-model/)
 - [What Are Conceptual, Logical, and Physical Data Models?](https://vertabelo.com/blog/conceptual-logical-physical-data-model/)
 - [5 Examples of Conceptual Data Models](https://vertabelo.com/blog/conceptual-data-model/)
+- [Data Modeling 101](http://www.agiledata.org/essays/dataModeling101.html)
 
 #### 📹 Videos
 - [Conceptual Data Modeling with Diagrams.Net](https://www.youtube.com/watch?v=7lGFx-qYmhU)
