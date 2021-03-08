@@ -96,8 +96,14 @@ If you think this repository makes a difference and is worth it, please share it
 - [Packaging](#packaging)
 - [Azure Application Architecture](azure-application-architecture)
 - [Modeling](#modeling)
+  - [Relationships](#relationships)
+  - [Use Case Diagram](#use-case-diagram)
+  - [Class Diagram](#class-diagram)
+  - [ER Diagrams](#er-diagrams)
   - [Conceptual Model](#conceptual-model)
   - [Data Modeling](#data-modeling)
+  - [Logical Modeling](#logical-modeling)
+  - [Physical Modeling](#physical-modeling)
 - [Engineering Blogs](#engineering-blogs)
 - [Books](#books)
 - [Other Resources](#other-resources)
@@ -1003,6 +1009,7 @@ If you think this repository makes a difference and is worth it, please share it
 
 - [https://github.com/ddd-by-examples/library](https://github.com/ddd-by-examples/library)
 	> A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
+	
 ### 📹 Videos
 - [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE)
 - [Modular monoliths (Simon Brown) - 2016](https://www.youtube.com/watch?v=kbKxmEeuvc4)
@@ -1010,6 +1017,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Munich .NET Meetup: Modular Monolith Architecture - One to rule them all](https://www.youtube.com/watch?v=tpeOWlif1l4)
 - [Majestic Modular Monoliths by Axel Fontaine](https://www.youtube.com/watch?v=BOvxJaklcr0)
 - [Decompose your monolith-  when and how to incrementally refactor to microservices](https://vimeo.com/442842127/543b578f38)
+
 ## Packaging
 
 ### 📝 Articles
@@ -1068,11 +1076,23 @@ If you think this repository makes a difference and is worth it, please share it
 ## Modeling
 
 ## Relationships
-
 - [What is the difference between IS -A relationship and HAS-A relationship in Java? [duplicate]](https://stackoverflow.com/questions/36162714/what-is-the-difference-between-is-a-relationship-and-has-a-relationship-in-java)
 - [Types Of Relationships In Object Oriented Programming (OOP)](https://www.linkedin.com/pulse/types-relationships-object-oriented-programming-oop-sarah-el-dawody/)
 - [Common types of OOP relationships and their UML representation](https://dev.to/tommyc/common-types-of-oop-relationships-and-their-uml-representation-5b27)
 - [Association, aggregation, and composition in OOP explained](https://www.infoworld.com/article/3029325/exploring-association-aggregation-and-composition-in-oop.html)
+
+## Use Case Diagram
+
+### 📝 Articles
+- [UML Use Case Diagram: Tutorial with EXAMPLE](https://www.guru99.com/use-case-diagrams-example.html)
+
+
+### Class Diagram
+
+### 📝 Articles
+- [UML Class Diagram Tutorial with Examples](https://www.guru99.com/uml-class-diagram.html)
+- [What is Class Diagram?](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-class-diagram/)
+
 ## ER Diagrams
 
 #### 📝 Articles
@@ -1097,6 +1117,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Creating Entity Relationship Diagrams using Draw.io](https://www.youtube.com/watch?v=lAtCySGDD48)
 - [Entity Relationship Diagram (ERD) Tutorial - Part 1](https://www.youtube.com/watch?v=QpdhBUYk7Kk)
 - [Entity Relationship Diagram (ERD) Tutorial - Part 2](https://www.youtube.com/watch?v=-CuY5ADwn24)
+
 ### Conceptual Modeling
 
 #### 📝 Articles
@@ -1116,8 +1137,9 @@ If you think this repository makes a difference and is worth it, please share it
 - [https://github.com/ErikEJ/EFCorePowerTools](https://github.com/ErikEJ/EFCorePowerTools)
 - [Reverse engineering - vertabelo](https://vertabelo.com/documentation/physical-model/reverse-engineering-doc/)
 - [Top 7 Entity Relationship (ER) Diagram Online Tools](https://vertabelo.com/blog/er-diagram-tools/)
-- [lucidchart](https://www.lucidchart.com/pages/)
-### Logical Model
+- [LucidChart](https://www.lucidchart.com/pages/)
+
+### Logical Modeling
 
 #### 📝 Articles
 - [How to Implement a Conceptual, Logical, and Physical Data Model in Vertabelo](https://vertabelo.com/blog/conceptual-logical-and-physical-data-model/)
@@ -1127,7 +1149,7 @@ If you think this repository makes a difference and is worth it, please share it
 #### 📹 Videos 
 - [Logical Data Modeling with Diagrams.Net](https://www.youtube.com/watch?v=CmjW3HyazRA)
 
-### Physical Model
+### Physical Modeling
 
 #### 📝 Articles
 - [How to Implement a Conceptual, Logical, and Physical Data Model in Vertabelo](https://vertabelo.com/blog/conceptual-logical-and-physical-data-model/)
