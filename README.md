@@ -7,7 +7,7 @@
 
 ![](./banner.png)
 
-> Collection of useful Articles and resources to learning and practicing about software architecture, patterns and principles. this repository will be updated continuously, keep yourself up to date 
+> Collection of useful Articles and resources to learn and practice about software architecture, patterns and principles. this repository will be updated continuously, keep yourself up to date 
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-software-architecture/blob/master/contributing.md) pages first.
 
@@ -436,6 +436,7 @@ If you think this repository makes a difference and is worth it, please share it
 #### Videos
 - [Event-Driven Architecture | EDA | Software Architectural Patterns](https://www.youtube.com/watch?v=gIL8rW_eyww&t=0s) - The TechCave
 - [Events on the outside, on the inside and at the core](https://www.youtube.com/watch?v=rP-InttAbVY)
+- [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
 
 ### Service Oriented Architecture
 
@@ -786,10 +787,16 @@ If you think this repository makes a difference and is worth it, please share it
 - [Building a robust CQRS database with EF Core and Cosmos DB](https://www.thereformedprogrammer.net/building-a-robust-cqrs-database-with-ef-core-and-cosmos-db/)
 - [EF Core – Combining SQL and NoSQL databases for better performance](https://www.thereformedprogrammer.net/ef-core-combining-sql-and-nosql-databases-for-better-performance/)
 - [CQRS facts and myths explained](https://event-driven.io/en/cqrs_facts_and_myths_explained/) - Oskar Dudycz
-
+- [CQRS](https://web.archive.org/web/20160729165044/https://goodenoughsoftware.net/2012/03/02/cqrs/) - Greg Young
+- [CQRS, Task Based UIs, Event Sourcing agh!](http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh/) - Greg Young
+- [Command Query Separation?](http://codebetter.com/gregyoung/2009/08/13/command-query-separation/) - Greg Young
+- [What is CQRS?](http://cqrs.nu/Faq/command-query-responsibility-segregation)
+- [Task-Based UI](https://cqrs.wordpress.com/documents/task-based-ui/)
 #### 📹 Videos
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
 - [Decomposing CRUD to a Task Based UI](https://www.youtube.com/watch?v=DjZepWrAKzM)
+- [CQRS Myths | 3 Most Common Misconceptions](https://www.youtube.com/watch?v=O9qpcZt6jW0&t=77s)
+
 #### 🔖 Samples
 
 - [https://github.com/kgrzybek/sample-dotnet-core-cqrs-api](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - Kamil Grzybek
@@ -885,6 +892,8 @@ If you think this repository makes a difference and is worth it, please share it
 - [https://github.com/thangchung/practical-clean-ddd](https://github.com/thangchung/practical-clean-ddd)
 	> A simplified and effortless approach to get started with Domain-driven Design, Clean Architecture, CQRS, and Microservices patterns
 	
+- [https://github.com/thangchung/shopping-cart-k8s](https://github.com/thangchung/shopping-cart-k8s)
+	> Service Mesh patterns for Microservices
 ## Serverless Architectural Pattern
 
 ### 📹 Videos
@@ -977,7 +986,6 @@ If you think this repository makes a difference and is worth it, please share it
 ## Modular Monolith
 
 ### Resources
-
 - [modular-monoliths](https://files.gotocon.com/uploads/slides/conference_12/515/original/gotoberlin2018-modular-monoliths.pdf)
 
 ### 📝 Articles
@@ -992,8 +1000,8 @@ If you think this repository makes a difference and is worth it, please share it
 - [Migrating Monoliths to Microservices with Decomposition and Incremental Changes](https://www.infoq.com/articles/migrating-monoliths-to-microservices-with-decomposition/)
 - [Decompose your monolith: Ten principles for refactoring a monolith to microservices](https://chrisrichardson.net/post/refactoring/2020/08/21/ten-principles-for-refactoring-to-microservices.html)
 - [Decompose Your Monolith: Strategies for Migrating to Microservices](https://chrisrichardson.net/post/refactoring/2019/10/09/refactoring-to-microservices.html)
-### 🔖 Samples
 
+### 🔖 Samples
 - [https://github.com/kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Kamil Grzybek
     > Full Modular Monolith application with Domain-Driven Design approach.
 
@@ -1015,6 +1023,17 @@ If you think this repository makes a difference and is worth it, please share it
 - [https://github.com/ddd-by-examples/library](https://github.com/ddd-by-examples/library)
 	> A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
 	
+- [https://github.com/simplcommerce/SimplCommerce](https://github.com/simplcommerce/SimplCommerce)
+	> A simple, cross platform, modularized ecommerce system built on .NET Core
+	
+- [https://github.com/spetz/NPost](https://github.com/spetz/NPost)
+	> Modular Monolith sample
+
+- [https://github.com/devmentors/Cine](https://github.com/devmentors/Cine)
+	> Modular monolith in .NET Core
+	
+- [https://github.com/devmentors/Trill-modular-monolith](https://github.com/devmentors/Trill-modular-monolith)
+
 ### 📹 Videos
 - [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE)
 - [Modular monoliths (Simon Brown) - 2016](https://www.youtube.com/watch?v=kbKxmEeuvc4)
