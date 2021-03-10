@@ -61,9 +61,10 @@ If you think this repository makes a difference and is worth it, please share it
   - [Serverless Architectural Pattern](#serverless-architectural-pattern)
   - [MicroKernel Architectural Pattern](microKernel-architectural-pattern)
 - [Design Patterns](#design-patterns)
-  - [Decorator](#decorator)
+  - [Decorator Pattern](#decorator-pattern)
   - [Specification Pattern](#specification-pattern)
   - [Repository Pattern](#repository-pattern)
+  - [Query Object Pattern]()
 - [Cloud Design Patterns](#cloud-design-patterns)
   - [Anti-Corruption Layer Pattern](#anti-corruption-layer-pattern)
   - [Gateway Pattern](#gateway-pattern)
@@ -88,9 +89,12 @@ If you think this repository makes a difference and is worth it, please share it
 - [Distributed Systems Design](#distributed-systems-design)
 - [Scalable Software Architecture](#scalable-software-architecture)
 - [Clean Code](#clean-code)
+- [Design Best Practices](#good-best-practices)
+   - [Thin Controllers](#thin-controllers)
 - [Anti Patterns](#anti-patterns)
   - [Anemic Domain Model](#anemic-domain-model)
   - [Code Smells](#code-smells)
+- [Eventual Consistency](#eventual-consistency)
 - [Asynchronous Patterns](#asynchronous-patterns)
 - [Modular Monolith](#modular-monolith)
 - [Packaging](#packaging)
@@ -105,6 +109,7 @@ If you think this repository makes a difference and is worth it, please share it
   - [Logical Modeling](#logical-modeling)
   - [Physical Modeling](#physical-modeling)
   - [Tools](#tools)
+- [Event Storming](#event-storming)
 - [Engineering Blogs](#engineering-blogs)
 - [Books](#books)
 - [Other Resources](#other-resources)
@@ -116,6 +121,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Visualising Software Architecture](http://static.codingthearchitecture.com/visualising-software-architecture.pdf)
 - [.NET Architecture Guides](https://dotnet.microsoft.com/learn/dotnet/architecture-guides)
 - [Open Agile Architecture](https://pubs.opengroup.org/architecture/o-aa-standard/#_open_agile_architecture)
+
 ### 📝 Articles
 - [The Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
 - [Software Architecture Premises](https://herbertograca.com/2017/07/05/software-architecture-premises/) - Herberto Graca
@@ -269,6 +275,9 @@ If you think this repository makes a difference and is worth it, please share it
 - [https://github.com/pereiren/dotnet-template-onion](https://github.com/pereiren/dotnet-template-onion)
 	> Onion Architecture with .NET 5/.NET Core and CQRS/Event Sourcing following a DDD approach
 	
+- [https://github.com/INNVTV/NetCore-Clean-Architecture](https://github.com/INNVTV/NetCore-Clean-Architecture) - INNVTV
+	> .Net Core starter project for clean architecture showcasing use of the CQRS pattern, MediatR and custom Middleware for cross-cutting concerns, micro-service communications with REST/OpenAPI, Swagger, Webhooks and gRPC endpoints, CosmosDB for data and Serilog for logging.
+	
 - [https://github.com/dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - Steve Smith
     > Sample ASP.NET Core 5.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.
 
@@ -412,7 +421,13 @@ If you think this repository makes a difference and is worth it, please share it
 - [Organizing Code by Feature using Vertical Slices](https://codeopinion.com/organizing-code-by-feature-using-vertical-slices/) - CodeOpinion
 - [Vertical slices in ASP.NET MVC](https://www.kenneth-truyers.net/2016/02/02/vertical-slices-in-asp-net-mvc/)
 - [Coding: Packaging by vertical slice](https://markhneedham.com/blog/2012/02/20/coding-packaging-by-vertical-slice/)
-
+- [FEATURE FOLDERS IN ASP.NET MVC](https://timgthomas.com/2013/10/feature-folders-in-asp-net-mvc/)
+- [Evolutionary Project Structure](https://lostechies.com/jimmybogard/2012/08/30/evolutionary-project-structure/) - Jimmy Bogard
+- [Vertical Slice Example Updated to .NET 5](https://lostechies.com/external/?guid=urn:uuid:cac73d2f-ce70-1e57-8eff-5fd747af25f6) - Jimmy Bogard
+- [Feature Folders](http://www.kamilgrzybek.com/design/feature-folders/) - Kamil Grzybek
+- [Put your controllers on a diet: GETs and queries](https://lostechies.com/jimmybogard/2013/10/29/put-your-controllers-on-a-diet-gets-and-queries/) - Jimmy Bogard
+- [Put your controllers on a diet: POSTs and commands](https://lostechies.com/jimmybogard/2013/12/19/put-your-controllers-on-a-diet-posts-and-commands/) - Jimmy Bogard
+ 
 #### 📹 Videos
 - [Vertical Slice Architecture - Jimmy Bogard](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=5kOzZz2vj2o) - Jimmy Bogard
 - [SOLID Architecture in Slices not Layers](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=wTd-VcJCs_M) - Jimmy Bogard
@@ -421,6 +436,8 @@ If you think this repository makes a difference and is worth it, please share it
 #### Samples
 - [https://github.com/jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages) - Jimmy Bogard
 - [https://github.com/dcomartin/MusicStore](https://github.com/dcomartin/MusicStore) - CodeOpinion
+
+
 ### Event Driven Architecture
 
 #### 📝 Articles
@@ -514,11 +531,6 @@ If you think this repository makes a difference and is worth it, please share it
 
 ## Design Patterns
 
-### Service Locator
-
-#### 📝 Articles
-- [Service Locator is an Anti-Pattern](https://blog.ploeh.dk/2010/02/03/ServiceLocatorisanAnti-Pattern/)
-- [The Service Locator Anti-Pattern](https://freecontent.manning.com/the-service-locator-anti-pattern/)
 ### Resources 
 
 - [https://github.com/abishekaditya/DesignPatterns](https://github.com/abishekaditya/DesignPatterns)
@@ -529,6 +541,12 @@ If you think this repository makes a difference and is worth it, please share it
 	
 - [https://github.com/nemanjarogic/DesignPatternsLibrary](https://github.com/nemanjarogic/DesignPatternsLibrary)
 	> A comprehensive design patterns library implemented in C#, which covers various design patterns from the most commonly used ones to the lesser-known ones. Get familiar with and learn design patterns through moderately realistic examples.
+
+### Service Locator
+
+#### 📝 Articles
+- [Service Locator is an Anti-Pattern](https://blog.ploeh.dk/2010/02/03/ServiceLocatorisanAnti-Pattern/)
+- [The Service Locator Anti-Pattern](https://freecontent.manning.com/the-service-locator-anti-pattern/)
 
 ### Specification Pattern
 
@@ -550,6 +568,16 @@ If you think this repository makes a difference and is worth it, please share it
 - [Creating A Generic Repository](https://medium.com/@morgankenyon/tinroll-4-creating-a-generic-repository-9846c72e11ec)
 - [Repository is Dead: Long Live Repository](http://codebetter.com/gregyoung/2009/04/23/repository-is-dead-long-live-repository/)
 - [More on Repository](http://codebetter.com/gregyoung/2009/04/24/more-on-repository/)
+
+### Query Object Pattern
+
+#### 📝 Articles
+
+
+### Decorator Pattern
+
+#### 📝 Articles
+
 
 ## Cloud Design Patterns
 
@@ -770,11 +798,13 @@ If you think this repository makes a difference and is worth it, please share it
 - [Clean Architecture : Part 1 – Database vs Domain](https://crosp.net/blog/software-architecture/clean-architecture-part-1-databse-vs-domain/)
 - [Domain Centric Architecture ve Domain Driven Design](http://cagataykiziltan.net/tr/domain-centric-architecture-ve-domain-driven-design/)
 - [AVOID Entity Services by Focusing on Capabilities](https://codeopinion.com/avoid-entity-services-by-focusing-on-capabilities/)
+
 #### 📹 Videos
 - [Creating N-Tier Applications in C#, Part 1](https://www.pluralsight.com/courses/n-tier-apps-part1)
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture)
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU)
 - [Decomposing CRUD to a Task Based UI](https://www.youtube.com/watch?v=DjZepWrAKzM)
+
 ### CQRS
 
 #### 📝 Articles
@@ -790,8 +820,10 @@ If you think this repository makes a difference and is worth it, please share it
 - [CQRS](https://web.archive.org/web/20160729165044/https://goodenoughsoftware.net/2012/03/02/cqrs/) - Greg Young
 - [CQRS, Task Based UIs, Event Sourcing agh!](http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh/) - Greg Young
 - [Command Query Separation?](http://codebetter.com/gregyoung/2009/08/13/command-query-separation/) - Greg Young
+- [Processing multiple aggregates – transactional vs eventual consistency](http://www.kamilgrzybek.com/design/processing-multiple-aggregates-transactional-vs-eventual-consistency/)
 - [What is CQRS?](http://cqrs.nu/Faq/command-query-responsibility-segregation)
 - [Task-Based UI](https://cqrs.wordpress.com/documents/task-based-ui/)
+- [Put your controllers on a diet: GETs and queries](https://lostechies.com/jimmybogard/2013/10/29/put-your-controllers-on-a-diet-gets-and-queries/)
 #### 📹 Videos
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
 - [Decomposing CRUD to a Task Based UI](https://www.youtube.com/watch?v=DjZepWrAKzM)
@@ -958,7 +990,15 @@ If you think this repository makes a difference and is worth it, please share it
 
 - [https://github.com/thangchung/clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet) - Thang Chung 
 	> 🛁 Clean Code concepts and tools adapted for .NET
-	
+
+## Design Best Practices
+
+### Thin Controllers
+
+### 📝 Articles
+- [Put your controllers on a diet: GETs and queries](https://lostechies.com/jimmybogard/2013/10/29/put-your-controllers-on-a-diet-gets-and-queries/)
+- [Put your controllers on a diet: POSTs and commands](https://lostechies.com/jimmybogard/2013/12/19/put-your-controllers-on-a-diet-posts-and-commands/) - Jimmy Bogard
+
 ## Anti Patterns
 
 ### Resources
@@ -982,6 +1022,11 @@ If you think this repository makes a difference and is worth it, please share it
 - [Communication in a microservice architecture](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/communication-in-microservice-architecture) - Microsoft
 - [Asynchronous message-based communication](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/asynchronous-message-based-communication) - Microsoft
 - [Modular Monolith: Integration Styles](http://www.kamilgrzybek.com/tag/messaging/) - Kamil Grzybek
+
+## Eventual Consistency
+
+### 📝 Articles
+- [Processing multiple aggregates – transactional vs eventual consistency](http://www.kamilgrzybek.com/design/processing-multiple-aggregates-transactional-vs-eventual-consistency/)
 
 ## Modular Monolith
 
@@ -1207,6 +1252,44 @@ If you think this repository makes a difference and is worth it, please share it
 - [Reverse engineering - vertabelo](https://vertabelo.com/documentation/physical-model/reverse-engineering-doc/)
 - [LucidChart](https://www.lucidchart.com/pages/)
 - [Top 7 Entity Relationship (ER) Diagram Online Tools](https://vertabelo.com/blog/er-diagram-tools/)
+- [Visual Paradigm](https://www.visual-paradigm.com)
+- [Creately](https://creately.com)
+
+## Event Storming
+
+### Resources
+- [https://github.com/ddd-crew/eventstorming-glossary-cheat-sheet](https://github.com/ddd-crew/eventstorming-glossary-cheat-sheet)
+- [https://github.com/wwerner/event-storming-cheatsheet](https://github.com/wwerner/event-storming-cheatsheet)
+
+### 📝 Articles
+- [More Efficient Domain Modeling with EventStorming](https://buildplease.com/pages/modeling-better/)
+- [Modelling Reactive Systems with Event Storming and Domain-Driven Design](https://blog.redelastic.com/corporate-arts-crafts-modelling-reactive-systems-with-event-storming-73c6236f5dd7)
+- [Detailed agenda for a DDD Design-Level Event Storming - part 1](https://philippe.bourgau.net/detailed-agenda-for-a-ddd-design-level-event-storming-part-1/)
+- [Detailed agenda for a DDD Design-Level Event Storming - part 2](https://philippe.bourgau.net/detailed-agenda-for-a-ddd-design-level-event-storming-part-2/)
+- [Why should we use Design Level Event Storming for DDD?](https://philippe.bourgau.net/why-should-we-use-design-level-event-storming-for-ddd/)
+- [7 tactics that will make your DDD Design-Level Event Storming pay-off](https://philippe.bourgau.net/7-tactics-that-will-make-your-ddd-design-level-event-storming-pay-off/)
+- [EventStorming; Core concepts, glossary and legend](https://baasie.com/2020/07/16/eventstorming-core-concepts-glossary-and-legend/)
+- [A step by step guide to Event Storming – our experience](https://www.boldare.com/blog/event-storming-guide/)
+### 📹 Videos 
+- [Scoping and Organizing .NET Microservices Using Event Storming](https://www.pluralsight.com/courses/dotnet-microservices-scoping-organizing)
+- [GOTO 2018 • 50.000 Orange Stickies Later • Alberto Brandolini](https://www.youtube.com/watch?v=NGXl1D-KwRI)
+
+### Samples
+- [https://github.com/RagDhiman/M4-Organizing-Your-.NET-Microservices-MegaService](https://github.com/RagDhiman/M4-Organizing-Your-.NET-Microservices-MegaService)
+	> Scoping and Organizing .NET Microservices Using Event Storming
+
+- [https://github.com/RagDhiman/M4-Organizing-Your-.NET-Microservices-Organized](https://github.com/RagDhiman/M4-Organizing-Your-.NET-Microservices-Organized)
+	> Scoping and Organizing .NET Microservices Using Event Storming
+	
+- [https://github.com/RagDhiman/Miro-Event-Storming-Steps-JPEGs](https://github.com/RagDhiman/Miro-Event-Storming-Steps-JPEGs)
+	> Scoping and Organizing .NET Microservices Using Event Storming
+
+- [https://github.com/RagDhiman/Miro-Event-Storming-Steps](https://github.com/RagDhiman/Miro-Event-Storming-Steps)	
+	> Scoping and Organizing .NET Microservices Using Event Storming
+	
+	
+### Books
+- [Introducing EventStorming](https://leanpub.com/introducing_eventstorming) - Alberto Brandolini
 
 ## Engineering Blogs
 - [Uber](https://eng.uber.com)
