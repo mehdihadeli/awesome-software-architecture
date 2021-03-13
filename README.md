@@ -58,6 +58,7 @@ If you think this repository makes a difference and is worth it, please share it
   - [MVC](#mvc)
   - [Event Sourcing](#event-sourcing)
   - [Microservices Architectural Pattern](#microservices-architectural-pattern)
+	- [Tye](#tye)
   - [Serverless Architectural Pattern](#serverless-architectural-pattern)
   - [MicroKernel Architectural Pattern](microKernel-architectural-pattern)
 - [Design Patterns](#design-patterns)
@@ -427,16 +428,21 @@ If you think this repository makes a difference and is worth it, please share it
 - [Feature Folders](http://www.kamilgrzybek.com/design/feature-folders/) - Kamil Grzybek
 - [Put your controllers on a diet: GETs and queries](https://lostechies.com/jimmybogard/2013/10/29/put-your-controllers-on-a-diet-gets-and-queries/) - Jimmy Bogard
 - [Put your controllers on a diet: POSTs and commands](https://lostechies.com/jimmybogard/2013/12/19/put-your-controllers-on-a-diet-posts-and-commands/) - Jimmy Bogard
- 
+- [The life-changing (and time-saving!) magic of Feature Focused code organisation.](https://builtwithdot.net/blog/changing-how-your-code-is-organized-could-speed-development-from-weeks-to-days)
+- [Migrating Contoso University Example to Razor Pages](https://jimmybogard.com/migrating-contoso-university-example-to-razor-pages/) - Jimmy Bogard
+- [API Feature Folders](https://ardalis.com/api-feature-folders/) - Steve Smith
+- [Feature Slices for ASP.NET Core MVC](https://docs.microsoft.com/en-us/archive/msdn-magazine/2016/september/asp-net-core-feature-slices-for-asp-net-core-mvc)
+- [MSDN – Feature Slices for ASPNET Core MVC](https://ardalis.com/msdn-–-feature-slices-for-aspnet-core-mvc/)
 #### 📹 Videos
-- [Vertical Slice Architecture - Jimmy Bogard](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=5kOzZz2vj2o) - Jimmy Bogard
-- [SOLID Architecture in Slices not Layers](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=wTd-VcJCs_M) - Jimmy Bogard
-- [DevTernity 2019: Jimmy Bogard – Vertical Slice Architecture](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=T6nglsEDaqA) - Jimmy Bogard
+- [Vertical Slice Architecture - Jimmy Bogard](https://www.youtube.com/watch?v=5kOzZz2vj2o) - Jimmy Bogard
+- [SOLID Architecture in Slices not Layers](https://www.youtube.com/watch?v=wTd-VcJCs_M) - Jimmy Bogard
+- [DevTernity 2019: Jimmy Bogard – Vertical Slice Architecture](https://www.youtube.com/watch?v=T6nglsEDaqA) - Jimmy Bogard
 
 #### Samples
+- [https://github.com/jbogard/ContosoUniversityDotNetCore](https://github.com/jbogard/ContosoUniversityDotNetCore) - Jimmy Bogard
 - [https://github.com/jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages) - Jimmy Bogard
 - [https://github.com/dcomartin/MusicStore](https://github.com/dcomartin/MusicStore) - CodeOpinion
-
+- [https://github.com/ardalis/OrganizingAspNetCore](https://github.com/ardalis/OrganizingAspNetCore)
 
 ### Event Driven Architecture
 
@@ -824,10 +830,18 @@ If you think this repository makes a difference and is worth it, please share it
 - [What is CQRS?](http://cqrs.nu/Faq/command-query-responsibility-segregation)
 - [Task-Based UI](https://cqrs.wordpress.com/documents/task-based-ui/)
 - [Put your controllers on a diet: GETs and queries](https://lostechies.com/jimmybogard/2013/10/29/put-your-controllers-on-a-diet-gets-and-queries/)
+- [Exposing IQueryable in a CQRS Query Stack](https://buildplease.com/pages/lets-iqueryable/)
+- [Reactive in practice, Unit 3: Translate the domain model to service APIs](https://developer.ibm.com/tutorials/reactive-in-practice-3/)
+- [Reactive in practice, Unit 6: CQRS, Part 1 – Write side](https://developer.ibm.com/tutorials/reactive-in-practice-6/)
+- [Reactive in practice, Unit 7: CQRS, Part 2 – ReadSideProcessor for queries and views](https://developer.ibm.com/tutorials/reactive-in-practice-7/)
+- [Reactive in practice, Unit 8: CQRS, Part 3 – ReadSideProcessor for transactions](https://developer.ibm.com/tutorials/reactive-in-practice-8/)
+- [CQRS with MediatR and AutoMapper](https://lostechies.com/jimmybogard/2015/05/05/cqrs-with-mediatr-and-automapper/)
+
 #### 📹 Videos
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
 - [Decomposing CRUD to a Task Based UI](https://www.youtube.com/watch?v=DjZepWrAKzM)
 - [CQRS Myths | 3 Most Common Misconceptions](https://www.youtube.com/watch?v=O9qpcZt6jW0&t=77s)
+- [Is a REST API with CQRS Possible?](https://www.youtube.com/watch?v=6XO6vSiioWE)
 
 #### 🔖 Samples
 
@@ -852,15 +866,16 @@ If you think this repository makes a difference and is worth it, please share it
 - [Event Sourcing Example & Explained in plain English](https://codeopinion.com/event-sourcing-example-explained-in-plain-english/?utm_source=feedly&utm_medium=rss&utm_campaign=event-sourcing-example-explained-in-plain-english) - CodeOpinion
 - [Event Sourcing with Azure SQL and Entity Framework Core](https://daniel-krzyczkowski.github.io/Event-Sourcing-With-Azure-SQL-And-Entity-Framework-Core/)
 - [Projections in Event Sourcing: Build ANY model you want!](https://codeopinion.com/projections-in-event-sourcing-build-any-model-you-want)
-
+- [Reactive in practice, Unit 5: Event sourcing](https://developer.ibm.com/tutorials/reactive-in-practice-5/)
+- [Reactive in practice, Unit 7: CQRS, Part 2 – ReadSideProcessor for queries and views](https://developer.ibm.com/tutorials/reactive-in-practice-7/)
 #### Videos
 - [Event Sourcing Example & Explained in plain English](https://www.youtube.com/watch?v=AUj4M-st3ic)
 - [Projections in Event Sourcing: Build ANY model you want!](https://www.youtube.com/watch?v=bTRjO6JK4Ws)
 - [Event Sourcing: Rehydrating Aggregates with Snapshots](https://www.youtube.com/watch?v=eAIkomEid1Y)
 - [Event Sourcing with Azure SQL and Entity Framework Core](https://www.youtube.com/watch?v=-BhDW3GeSqg)
-
 #### Samples
 - [https://github.com/PacktPublishing/Hands-On-Domain-Driven-Design-with-.NET-Core](https://github.com/PacktPublishing/Hands-On-Domain-Driven-Design-with-.NET-Core) - Alexey Zimarev
+
 
 ### Microservices Architectural Pattern
 
@@ -926,6 +941,15 @@ If you think this repository makes a difference and is worth it, please share it
 	
 - [https://github.com/thangchung/shopping-cart-k8s](https://github.com/thangchung/shopping-cart-k8s)
 	> Service Mesh patterns for Microservices
+	
+
+### Tye
+
+#### 📝 Articles
+
+#### 📹 Videos
+- [Building microservices with Tye](https://www.youtube.com/watch?v=m4VsOdIT1O4)
+
 ## Serverless Architectural Pattern
 
 ### 📹 Videos
@@ -998,6 +1022,7 @@ If you think this repository makes a difference and is worth it, please share it
 ### 📝 Articles
 - [Put your controllers on a diet: GETs and queries](https://lostechies.com/jimmybogard/2013/10/29/put-your-controllers-on-a-diet-gets-and-queries/)
 - [Put your controllers on a diet: POSTs and commands](https://lostechies.com/jimmybogard/2013/12/19/put-your-controllers-on-a-diet-posts-and-commands/) - Jimmy Bogard
+- [CQRS with MediatR and AutoMapper](https://lostechies.com/jimmybogard/2015/05/05/cqrs-with-mediatr-and-automapper/)
 
 ## Anti Patterns
 
@@ -1258,10 +1283,17 @@ If you think this repository makes a difference and is worth it, please share it
 ## Event Storming
 
 ### Resources
+- [https://github.com/mariuszgil/awesome-eventstorming](https://github.com/mariuszgil/awesome-eventstorming)
 - [https://github.com/ddd-crew/eventstorming-glossary-cheat-sheet](https://github.com/ddd-crew/eventstorming-glossary-cheat-sheet)
 - [https://github.com/wwerner/event-storming-cheatsheet](https://github.com/wwerner/event-storming-cheatsheet)
 
 ### 📝 Articles
+- [Reactive in practice, Unit 1: Event storming the stock trader domain](https://developer.ibm.com/technologies/java/tutorials/reactive-in-practice-1/)
+- [Event Storming](https://ibm-cloud-architecture.github.io/refarch-eda/methodology/event-storming/)
+- [Event storming analysis](https://ibm-cloud-architecture.github.io/refarch-kc/implementation/event-storming-analysis/)
+- [Detailed Agenda of a DDD Big Picture Event Storming - Part 1](https://philippe.bourgau.net/detailed-agenda-of-a-ddd-big-picture-event-storming-part-1/)
+- [Detailed Agenda of a DDD Big Picture Event Storming - Part 2](https://philippe.bourgau.net/detailed-agenda-of-a-ddd-big-picture-event-storming-part-2/)
+- [Detailed Agenda of a DDD Big Picture Event Storming - Part 3](https://philippe.bourgau.net/detailed-agenda-of-a-ddd-big-picture-event-storming-part-3/)
 - [More Efficient Domain Modeling with EventStorming](https://buildplease.com/pages/modeling-better/)
 - [Modelling Reactive Systems with Event Storming and Domain-Driven Design](https://blog.redelastic.com/corporate-arts-crafts-modelling-reactive-systems-with-event-storming-73c6236f5dd7)
 - [Detailed agenda for a DDD Design-Level Event Storming - part 1](https://philippe.bourgau.net/detailed-agenda-for-a-ddd-design-level-event-storming-part-1/)
@@ -1270,11 +1302,28 @@ If you think this repository makes a difference and is worth it, please share it
 - [7 tactics that will make your DDD Design-Level Event Storming pay-off](https://philippe.bourgau.net/7-tactics-that-will-make-your-ddd-design-level-event-storming-pay-off/)
 - [EventStorming; Core concepts, glossary and legend](https://baasie.com/2020/07/16/eventstorming-core-concepts-glossary-and-legend/)
 - [A step by step guide to Event Storming – our experience](https://www.boldare.com/blog/event-storming-guide/)
+- [EventStorming – From Big Picture to Software Design](https://www.agilepartner.net/en/eventstorming-from-big-picture-to-software-design/)
+- [What is EventStorming?](https://medium.com/techlabs-emag/what-is-event-storming-ed1a0e519fad)
+- [The introduction to Big Picture Eventstorming.v1](https://locastic.com/blog/intro-to-big-picture-eventstorming/)
+- [The introduction to Big Picture Eventstorming.v2](https://locastic.com/blog/the-introduction-to-big-picture-eventstorming-v2/)
+- [Event Storming: How It Will Improve Your Business Processes?](https://selleo.com/blog/event-storming-how-it-will-improve-your-business-processes-)
+- [Remote EventStorming](https://blog.avanscoperta.it/2020/03/26/remote-eventstorming/)
+- [EventStorming cheat sheet](https://baasie.com/2019/07/29/eventstorming-cheat-sheet/)
+- [EventStorming tools, what is in my flight case!](https://baasie.com/2019/05/08/eventstorming-tools-what-is-in-my-flight-case/)
+- [Discovering complex domain with Event Storming](https://solidstudio.io/blog/discovering-domain-with-event-storming)
+- [Decomposing the Monolith with Event Storming](https://medium.com/capital-one-tech/event-storming-decomposing-the-monolith-to-kick-start-your-microservice-architecture-acb8695a6e61)
+- [Big Picture Event Storming](https://medium.com/@chatuev/big-picture-event-storming-7a1fe18ffabb)
 ### 📹 Videos 
 - [Scoping and Organizing .NET Microservices Using Event Storming](https://www.pluralsight.com/courses/dotnet-microservices-scoping-organizing)
 - [GOTO 2018 • 50.000 Orange Stickies Later • Alberto Brandolini](https://www.youtube.com/watch?v=NGXl1D-KwRI)
-
+- [Crunching 'real-life stories' with DDD & Event Storming - Kenny Baas-Schwegler - KanDDDinsky 201](https://www.youtube.com/watch?v=WvkBKvMnyuc)
+- [Event Storming demo & discussion](https://www.youtube.com/watch?v=xIB_VQVVWKk)
 ### Samples
+
+- [Event Storming](https://miro.com/app/board/o9J_kt3rZb4=/?fromEmbed=1)
+
+- [Decomposing the Monolith with Event Storming](https://medium.com/capital-one-tech/event-storming-decomposing-the-monolith-to-kick-start-your-microservice-architecture-acb8695a6e61)
+
 - [https://github.com/RagDhiman/M4-Organizing-Your-.NET-Microservices-MegaService](https://github.com/RagDhiman/M4-Organizing-Your-.NET-Microservices-MegaService)
 	> Scoping and Organizing .NET Microservices Using Event Storming
 
