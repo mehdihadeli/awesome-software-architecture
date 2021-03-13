@@ -58,7 +58,8 @@ If you think this repository makes a difference and is worth it, please share it
   - [MVC](#mvc)
   - [Event Sourcing](#event-sourcing)
   - [Microservices Architectural Pattern](#microservices-architectural-pattern)
-	- [Tye](#tye)
+	- [Dapr](#dapr)
+    - [Tye](#tye)
   - [Serverless Architectural Pattern](#serverless-architectural-pattern)
   - [MicroKernel Architectural Pattern](microKernel-architectural-pattern)
 - [Design Patterns](#design-patterns)
@@ -900,7 +901,6 @@ If you think this repository makes a difference and is worth it, please share it
 
 #### 📹 Videos
 - [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) - The TechCave
-- [On .NET Live - Microservice applications with DAPR and .NET](https://www.youtube.com/watch?v=kIfmwmJHNMs)
 - [Microservices Architecture and Implementation on .NET 5](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/?couponCode=FA24745CC57592AB612A)
 - [Designing Loosely Coupled Microservices](https://skillsmatter.com/skillscasts/14926-designing-loosely-coupled-microservices)
 
@@ -942,6 +942,27 @@ If you think this repository makes a difference and is worth it, please share it
 - [https://github.com/thangchung/shopping-cart-k8s](https://github.com/thangchung/shopping-cart-k8s)
 	> Service Mesh patterns for Microservices
 	
+### Dapr
+
+#### 📝 Articles
+
+#### 📹 Videos
+- [On .NET Live - Microservice applications with DAPR and .NET](https://www.youtube.com/watch?v=kIfmwmJHNMs)
+
+#### Samples
+
+- [https://github.com/vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - Thang Chung
+    > A full-stack .NET microservices build on Dapr and Tye
+
+- [https://github.com/thangchung/practical-dapr](https://github.com/thangchung/practical-dapr) - Thang Chung
+    > A full-stack .NET microservices build on Dapr and Tye
+
+- [https://github.com/kimcu-on-thenet/dapr-tye-simple-microservices](https://github.com/kimcu-on-thenet/dapr-tye-simple-microservices)
+    > An example of building .NET Core microservices with Dapr and Tye
+
+- [https://github.com/alugili/ModernArchitectureShop](https://github.com/alugili/ModernArchitectureShop) - Bassam Alugili
+	> The Microservices Online Shop is an application with a modern software architecture that is cleanly designed and based on.NET lightweight technologies. The shop has two build variations. The first variant is the classic Microservices Architectural Style. The second one is with Dapr. Dapr has a comprehensive infrastructure 
+    
 
 ### Tye
 
