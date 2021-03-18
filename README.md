@@ -72,6 +72,7 @@ If you think this repository makes a difference and is worth it, please share it
   - [Gateway Pattern](#gateway-pattern)
   - [Asynchronous Request-Reply pattern](#anti-corruption-layer-pattern)
   - [Cache-Aside](#cache-aside)
+  - [Bulkhead Pattern](#bulkhead-pattern)
   - [Command and Query Responsibility Segregation (CQRS)](#command-and-query-responsibility-segregation-(cqrs))
   - [Circuit Breaker](#circuit-breaker)
   - [Gateway Aggregation](#gateway-aggregation)
@@ -87,6 +88,8 @@ If you think this repository makes a difference and is worth it, please share it
   - [Valet Key](#valet-key)
   - [At-least-Once Delivery (Outbox Pattern)](#at-least-once-delivery-(outbox-pattern))
   - [Exactly-Once Delivery](#exactly-once-delivery)
+- [Microservices Anti Pattern](#microservices-anti-pattern)
+  - []()
 - [Object Oriented Design](#object-oriented-design)
 - [Distributed Systems Design](#distributed-systems-design)
 - [Scalable Software Architecture](#scalable-software-architecture)
@@ -98,6 +101,7 @@ If you think this repository makes a difference and is worth it, please share it
   - [Code Smells](#code-smells)
 - [Eventual Consistency](#eventual-consistency)
 - [Asynchronous Patterns](#asynchronous-patterns)
+- [Distributed Transactions](#distributed-transactions)
 - [Modular Monolith](#modular-monolith)
 - [Packaging](#packaging)
 - [Azure Application Architecture](azure-application-architecture)
@@ -163,7 +167,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [How to build software architecture diagrams](https://www.youtube.com/watch?v=_I0U1sZ9RJ8)
 - [Visualising software architecture with the C4 model - Simon Brown, Agile on the Beach 2019](https://www.youtube.com/watch?v=x2-rSnhpw0g)
 - [Structurizr C4 Model series](https://www.youtube.com/playlist?list=PLLET0MJVt0Uc0Nek7yck8FG2fNnv9H32v)
-
+- [Software Architecture vs Code](https://www.youtube.com/watch?v=ehH3UGdSwPo)
 ## Architectural Style
 
 ### Resources
@@ -184,7 +188,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Multiple ways of defining Clean Architecture layers](https://proandroiddev.com/multiple-ways-of-defining-clean-architecture-layers-bbb70afa5d4a)
 - [Modular Monolith: A Primer](https://www.kamilgrzybek.com/design/modular-monolith-primer/)
 - [Layers, hexagons, features and components](http://www.codingthearchitecture.com/2016/04/25/layers_hexagons_features_and_components.html)
-
+- [Software Architecture vs Code](https://www.youtube.com/watch?v=ehH3UGdSwPo)
 ### 🔖 Samples
 - [https://github.com/techtribesje/techtribesje](https://github.com/techtribesje/techtribesje)
 - [https://github.com/kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd)
@@ -204,6 +208,7 @@ If you think this repository makes a difference and is worth it, please share it
 #### 📝 Articles
 
 - [N-tier architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier)
+- [The Tyranny of Horizontal Architectures (and How You Might Escape): Part 1](https://www.ojdevelops.com/2018/07/the-tyranny-of-horizontal-architectures.html)
 - [Traditional "N-Layer" architecture applications](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures#traditional-n-layer-architecture-applications)
 - [What is N-Tier Architecture? How It Works, Examples, Tutorials, and More](https://stackify.com/n-tier-architecture/)
 - [Layered Architecture](https://herbertograca.com/2017/08/03/layered-architecture/) - Herberto Graca
@@ -414,12 +419,18 @@ If you think this repository makes a difference and is worth it, please share it
 ### Vertical Slice Architecture
 
 #### 📝 Articles
+- [How Vertical Slice Architecture fulfills Clean Architecture’s broken promises](https://headspring.com/2020/08/18/how-vertical-slice-architecture-fulfills-clean-architectures-broken-promises/) - Jimmy Bogard
+- [Why vertical slice architecture is better—if you know these few things](https://headspring.com/2019/11/05/why-vertical-slice-architecture-is-better/) - Jimmy Bogard
 - [Vertical Slice Architecture](https://jimmybogard.com/vertical-slice-architecture/) - Jimmy Bogard
-- [Why vertical slice architecture is better—if you know these few things](https://headspring.com/2019/11/05/why-vertical-slice-architecture-is-better/)
+- [Package by component and architecturally-aligned testing](http://www.codingthearchitecture.com/2015/03/08/package_by_component_and_architecturally_aligned_testing.html) - Simon Brown
+- [An architecturally-evident coding style](http://www.codingthearchitecture.com/2014/06/01/an_architecturally_evident_coding_style.html) - Simon Brown
+- [Package by Component with Clean Modules in Java](https://blog.ttulka.com/package-by-component-with-clean-modules-in-java) - Tomas Tulka
+- [Schools of Package Architecture - An Illustration](http://codemanship.co.uk/parlezuml/blog/?postid=539)
 - [Architecting for maintainability through Vertical Slices ](https://www.ghyston.com/insights/architecting-for-maintainability-through-vertical-slices/)
 - [Package by component and architecturally-aligned testing](http://www.codingthearchitecture.com/2015/03/08/package_by_component_and_architecturally_aligned_testing.html)
 - [Vertical Slices Application Design with MediatR: Part 1](https://www.ojdevelops.com/2017/08/vertical-slices-with-mediatr.html)
 - [Vertical Slices Application Design with MediatR: Part 2](https://www.ojdevelops.com/2017/09/vertical-slices-with-mediatr-part2.html)
+- [The Tyranny of Horizontal Architectures (and How You Might Escape): Part 2](https://www.ojdevelops.com/2018/07/the-tyranny-of-horizontal-architectures2.html)
 - [Organizing Code by Feature using Vertical Slices](https://codeopinion.com/organizing-code-by-feature-using-vertical-slices/) - CodeOpinion
 - [Vertical slices in ASP.NET MVC](https://www.kenneth-truyers.net/2016/02/02/vertical-slices-in-asp-net-mvc/)
 - [Coding: Packaging by vertical slice](https://markhneedham.com/blog/2012/02/20/coding-packaging-by-vertical-slice/)
@@ -432,19 +443,27 @@ If you think this repository makes a difference and is worth it, please share it
 - [The life-changing (and time-saving!) magic of Feature Focused code organisation.](https://builtwithdot.net/blog/changing-how-your-code-is-organized-could-speed-development-from-weeks-to-days)
 - [Migrating Contoso University Example to Razor Pages](https://jimmybogard.com/migrating-contoso-university-example-to-razor-pages/) - Jimmy Bogard
 - [API Feature Folders](https://ardalis.com/api-feature-folders/) - Steve Smith
-- [Feature Slices for ASP.NET Core MVC](https://docs.microsoft.com/en-us/archive/msdn-magazine/2016/september/asp-net-core-feature-slices-for-asp-net-core-mvc)
-- [MSDN – Feature Slices for ASPNET Core MVC](https://ardalis.com/msdn-–-feature-slices-for-aspnet-core-mvc/)
+- [Feature Slices for ASP.NET Core MVC](https://docs.microsoft.com/en-us/archive/msdn-magazine/2016/september/asp-net-core-feature-slices-for-asp-net-core-mvc) - Steve Smith
+- [Simpler ASP.NET MVC Apps with Razor Pages](https://docs.microsoft.com/en-us/archive/msdn-magazine/2017/september/asp-net-core-simpler-asp-net-mvc-apps-with-razor-pages) - Steve Smith
+- [Moving from Controllers and Actions to Endpoints with MediatR](https://ardalis.com/moving-from-controllers-and-actions-to-endpoints-with-mediatr/) - Steve Smith
+- [MVC Controllers are Dinosaurs - Embrace API Endpoints](https://ardalis.com/mvc-controllers-are-dinosaurs-embrace-api-endpoints/) - Steve Smith
+- [Out with the Onion, in with Vertical Slices](https://medium.com/@jacobcunningham/out-with-the-onion-in-with-vertical-slices-c3edfdafe118)
+- [No Abstractions in Vertical Slice Architecture?](https://www.reddit.com/r/dotnet/comments/m1t6g3/no_abstractions_in_vertical_slice_architecture/)
+- [Encountering "Vertical Slice Architecture"... Is it incompatible with Clean Architecture?](https://jeremiahflaga.github.io/2019/05/20/vertical-slice-architecture-is-it-incompatible-with-clean-architecture/)
+- [Vertical Slices](https://deviq.com/practices/vertical-slices) - DevIQ
+
 #### 📹 Videos
 - [Vertical Slice Architecture - Jimmy Bogard](https://www.youtube.com/watch?v=5kOzZz2vj2o) - Jimmy Bogard
 - [SOLID Architecture in Slices not Layers](https://www.youtube.com/watch?v=wTd-VcJCs_M) - Jimmy Bogard
 - [DevTernity 2019: Jimmy Bogard – Vertical Slice Architecture](https://www.youtube.com/watch?v=T6nglsEDaqA) - Jimmy Bogard
-
+- [Vertical Slice Architecture - Jimmy Bogard](https://www.youtube.com/watch?v=SUiWfhAhgQw&lc=UgzDmpq_2SHwmuSgIL54AaABAg)
 #### Samples
 - [https://github.com/jbogard/ContosoUniversityDotNetCore](https://github.com/jbogard/ContosoUniversityDotNetCore) - Jimmy Bogard
 - [https://github.com/jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages) - Jimmy Bogard
 - [https://github.com/dcomartin/MusicStore](https://github.com/dcomartin/MusicStore) - CodeOpinion
-- [https://github.com/ardalis/OrganizingAspNetCore](https://github.com/ardalis/OrganizingAspNetCore)
-
+- [https://github.com/ardalis/OrganizingAspNetCore](https://github.com/ardalis/OrganizingAspNetCore) - Steve Smith
+- [https://github.com/dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - Steve Smith
+- [https://github.com/ardalis/ApiEndpoints/tree/master/sample](https://github.com/ardalis/ApiEndpoints/tree/master/sample) - Steve Smith
 ### Event Driven Architecture
 
 #### 📝 Articles
@@ -504,7 +523,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Crosscutting Concerns](https://oncodedesign.com/crosscutting-concerns/)
 - [Using the Decorator Pattern to handle cross-cutting concerns](https://www.davideguida.com/using-decorators-to-handle-cross-cutting-concerns/)
 - [Chain of Responsibility pattern for handling cross-cutting concerns](https://arturkrajewski.silvrback.com/chain-of-responsibility-pattern-for-handling-cross-cutting-concerns)
-
+- [Applying cross-cutting concerns in ASP.NET Core with MediatR using behaviors](https://lurumad.github.io/cross-cutting-concerns-in-asp-net-core-with-meaditr)
 ### KISS
 
 #### 📝 Articles
@@ -561,6 +580,15 @@ If you think this repository makes a difference and is worth it, please share it
 - [Specification pattern: C# implementation](https://enterprisecraftsmanship.com/posts/specification-pattern-c-implementation/) - Vladimir Khorikove
 - [Implementing Query Specification pattern in Entity Framework Core](https://gunnarpeipman.com/ef-core-query-specification/) - Gunnar Peipman
 - [Using the Specification pattern with Repository and Unit of work](https://dotnetfalcon.com/using-the-specification-pattern-with-repository-and-unit-of-work/) - Akos Nagy
+- [Specification](https://ardalis.github.io/Specification/)
+
+#### Videos
+- [Reviewing the Specification Pattern and NuGet package](https://www.youtube.com/watch?v=BgWWbBUWyig)
+- [What's new in v5 of Ardalis.Specification](https://www.youtube.com/watch?v=gT72mWdD4Qo)
+
+#### Samples
+- [https://github.com/ardalis/Specification](https://github.com/ardalis/Specification)
+- [https://github.com/dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb)
 
 ### Repository Pattern
 
@@ -579,7 +607,8 @@ If you think this repository makes a difference and is worth it, please share it
 ### Query Object Pattern
 
 #### 📝 Articles
-
+- [Query Objects instead of Repositories](https://codeopinion.com/query-objects-instead-of-repositories/)
+- [Query Objects with a Mediator](https://codeopinion.com/query-objects-with-a-mediator/)
 
 ### Decorator Pattern
 
@@ -592,6 +621,13 @@ If you think this repository makes a difference and is worth it, please share it
  - [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/index-patterns) - Microsoft
  - [Cloud Computing Patterns](https://www.cloudcomputingpatterns.org) - CloudComputingPatterns
  
+### Samples
+- [https://github.com/mspnp/cloud-design-patterns](https://github.com/mspnp/cloud-design-patterns) 
+	> Prescriptive Architecture Guidance for Cloud Applications
+
+### Books 
+- [Cloud Design Patterns: Prescriptive Architecture Guidance for Cloud Applications (Microsoft patterns & practices)](https://www.amazon.com/Cloud-Design-Patterns-Prescriptive-Architecture-ebook/dp/B00ITGHBBS)
+- [Cloud Architecture Patterns: Using Microsoft Azure](https://www.amazon.com/Cloud-Architecture-Patterns-Using-Microsoft/dp/1449319777)
 ###  Anti-Corruption Layer Pattern
 
 #### 📝 Articles
@@ -606,18 +642,34 @@ If you think this repository makes a difference and is worth it, please share it
 ### Gateway Pattern
 
 #### Articles
+- [MICROSERVICES ARCHITECTURE GATEWAY PATTERN - DOS AND DON'TS](https://akfpartners.com/growth-blog/microservices-architecture-gateway-pattern-dos-and-donts)
 - [Gateway Aggregation pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/gateway-aggregation)
 - [Gateway Offloading pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/gateway-offloading)
+
+### Ambassador pattern
+
+#### Articles
+- [Ambassador pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/ambassador)
 
 ###  Asynchronous Request-Reply pattern
 
 ###  Cache-Aside
+
+###  Bulkhead Pattern
+
+#### Articles
+
+- [MICROSERVICE BULKHEAD PATTERN - DOS AND DON'TS](https://akfpartners.com/growth-blog/bulkhead-pattern)
 
 ###  Command and Query Responsibility Segregation (CQRS)
 
 ###  Circuit Breaker
 
 ###  Gateway Aggregation
+
+#### Articles
+- [MICROSERVICE AGGREGATOR PATTERN](https://akfpartners.com/growth-blog/microservice-aggregator-pattern)
+- [Gateway Aggregation pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/gateway-aggregation)
 
 ###  Gateway Offloading
 
@@ -630,7 +682,8 @@ If you think this repository makes a difference and is worth it, please share it
 ###  Retry
 
 ###  Saga
-
+- [A MICROSERVICES SAGA CHOREOGRAPHY EXAMPLE](https://akfpartners.com/growth-blog/a-microservices-saga-choreography-example)
+- [MICROSERVICES SAGA PATTERN](https://akfpartners.com/growth-blog/microservices-saga-pattern)
 ###  Sharding
 
 ###  Sidecar
@@ -651,13 +704,13 @@ If you think this repository makes a difference and is worth it, please share it
 - [Exactly-once Delivery](https://www.cloudcomputingpatterns.org/exactly_once_delivery/) - cloudcomputingpatterns.org
 
 
+
 ## Architectural Patterns
 
 ### Resources
 
 ### 📹 Videos
 - [Software Architecture | Architectural patterns | Architecture vs Design pattern](https://www.youtube.com/watch?v=lTkL1oIMiaU&t=769s)
-
 
 ### Domain Driven Design - Domain Centric 
 
@@ -708,7 +761,10 @@ If you think this repository makes a difference and is worth it, please share it
 - [Domain Command Patterns - Handlers](https://jimmybogard.com/domain-command-patterns-handlers/) - Jimmy Bogard
 - [Attributes of Clean Domain Model](https://www.kamilgrzybek.com/design/clean-domain-model-attributes/)
 - [Domain Model Encapsulation and PI with Entity Framework 2.2](https://www.kamilgrzybek.com/design/domain-model-encapsulation-and-pi-with-entity-framework-2-2/) - Kamil Grzybek
-
+- [Strengthening your domain: a primer](https://lostechies.com/jimmybogard/2010/02/04/strengthening-your-domain-a-primer/)
+- [Persistence model and domain anemia](https://lostechies.com/blogs/jimmy_bogard/archive/2009/12/03/persistence-model-and-domain-anemia.aspx)
+- [The Anemic Domain Model Pattern](http://codebetter.com/gregyoung/2009/07/15/the-anemic-domain-model-pattern/)
+- [Strengthening your domain: Aggregate Construction](https://lostechies.com/jimmybogard/2010/02/24/strengthening-your-domain-aggregate-construction/)
 ##### 📹 Videos
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU) - CodeOpinion
 
@@ -740,6 +796,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Handling Domain Events: Missing Part](http://www.kamilgrzybek.com/design/handling-domain-events-missing-part/) - Kamil Grzybek
 - [Domain events: design and implementation](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/domain-events-design-implementation) - Microsoft
 - [Events on the outside, on the inside and at the core](https://chrisrichardson.net/post/microservices/2021/02/21/events-are-the-core.html)
+- [Strengthening your domain: Domain Events](https://lostechies.com/jimmybogard/2010/04/08/strengthening-your-domain-domain-events/)
 
 #### Infrastructure
 
@@ -752,7 +809,7 @@ If you think this repository makes a difference and is worth it, please share it
 ##### 📝 Articles
 - [Processing multiple aggregates – transactional vs eventual consistency](https://www.kamilgrzybek.com/design/processing-multiple-aggregates-transactional-vs-eventual-consistency/) - Kamil Grzybek
 - [Aggregate (Root) Design: Behavior & Data](https://codeopinion.com/aggregate-root-design-behavior-data/?utm_source=feedly&utm_medium=rss&utm_campaign=aggregate-root-design-behavior-data) - CodeOpinion
-
+- [Strengthening your domain: Aggregate Construction](https://lostechies.com/jimmybogard/2010/02/24/strengthening-your-domain-aggregate-construction/)
 ##### 📹 Videos
 - [Aggregate (Root) Design: Separate Behavior & Data for Persistence](https://www.youtube.com/watch?v=GtWVGJp061A) - CodeOpinion
 
@@ -817,6 +874,8 @@ If you think this repository makes a difference and is worth it, please share it
 #### 📝 Articles
 - [Command and Query Responsibility Segregation (CQRS) pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs) - Microsoft
 - [Simple CQRS implementation with raw SQL and DDD](http://www.kamilgrzybek.com/design/simple-cqrs-implementation-with-raw-sql-and-ddd/) - Kamil Grzybek
+- [CQRS/MediatR implementation patterns](https://lostechies.com/jimmybogard/2016/10/27/cqrsmediatr-implementation-patterns/) - Jimmy Bogard
+- [Dealing with Duplication in MediatR Handlers](https://lostechies.com/jimmybogard/2016/12/12/dealing-with-duplication-in-mediatr-handlers/)
 - [Implement reads/queries in a CQRS microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/cqrs-microservice-reads) - Microsoft
 - [Some thoughts on using CQRS without Event Sourcing](https://medium.com/@mbue/some-thoughts-on-using-cqrs-without-event-sourcing-938b878166a2)
 - [Tackling Complexity in CQRS](https://vladikk.com/2017/03/20/tackling-complexity-in-cqrs/) - Vladik Khononov
@@ -837,6 +896,10 @@ If you think this repository makes a difference and is worth it, please share it
 - [Reactive in practice, Unit 7: CQRS, Part 2 – ReadSideProcessor for queries and views](https://developer.ibm.com/tutorials/reactive-in-practice-7/)
 - [Reactive in practice, Unit 8: CQRS, Part 3 – ReadSideProcessor for transactions](https://developer.ibm.com/tutorials/reactive-in-practice-8/)
 - [CQRS with MediatR and AutoMapper](https://lostechies.com/jimmybogard/2015/05/05/cqrs-with-mediatr-and-automapper/)
+- [Meanwhile... on the command side of my architecture](https://blogs.cuttingedge.it/steven/posts/2011/meanwhile-on-the-command-side-of-my-architecture/)
+- [Meanwhile... on the query side of my architecture](https://blogs.cuttingedge.it/steven/posts/2011/meanwhile-on-the-query-side-of-my-architecture/)
+- [MVC Controllers are Dinosaurs - Embrace API Endpoints](https://ardalis.com/mvc-controllers-are-dinosaurs-embrace-api-endpoints/) - Steve Smith
+- [Moving from Controllers and Actions to Endpoints with MediatR](https://ardalis.com/moving-from-controllers-and-actions-to-endpoints-with-mediatr/) - Steve Smith
 
 #### 📹 Videos
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
@@ -869,6 +932,8 @@ If you think this repository makes a difference and is worth it, please share it
 - [Projections in Event Sourcing: Build ANY model you want!](https://codeopinion.com/projections-in-event-sourcing-build-any-model-you-want)
 - [Reactive in practice, Unit 5: Event sourcing](https://developer.ibm.com/tutorials/reactive-in-practice-5/)
 - [Reactive in practice, Unit 7: CQRS, Part 2 – ReadSideProcessor for queries and views](https://developer.ibm.com/tutorials/reactive-in-practice-7/)
+- [EVENT SOURCING MICROSERVICES PATTERN](https://akfpartners.com/growth-blog/event-sourcing-microservices-pattern)
+
 #### Videos
 - [Event Sourcing Example & Explained in plain English](https://www.youtube.com/watch?v=AUj4M-st3ic)
 - [Projections in Event Sourcing: Build ANY model you want!](https://www.youtube.com/watch?v=bTRjO6JK4Ws)
@@ -898,7 +963,8 @@ If you think this repository makes a difference and is worth it, please share it
 - [Why microservices - part 3: two thirds of the success triangle - process and organization](https://chrisrichardson.net/post/microservices/2020/04/11/why-microservices-part-3.html)
 - [Why microservices - part 4: the last third of the success triangle: architectural requirements for rapid, frequent, reliable and sustainable development](https://chrisrichardson.net/post/microservices/2020/05/21/why-microservices-part-4.html)
 - [When to use the microservice architecture: part 5 - the monolithic architecture and rapid, frequent, reliable and sustainable software delivery](https://chrisrichardson.net/post/microservices/2021/02/14/why-microservices-part-5-monolith.html)
-
+- [Communication in a microservice architecture](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/communication-in-microservice-architecture)
+- [Asynchronous message-based communication](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/asynchronous-message-based-communication)
 #### 📹 Videos
 - [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) - The TechCave
 - [Microservices Architecture and Implementation on .NET 5](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/?couponCode=FA24745CC57592AB612A)
@@ -1016,6 +1082,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [System Design Interview – An insider's guide, Second Edition](https://www.amazon.com/dp/B08CMF2CQF/ref=tsm_1_fb_lk)
 - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 - [Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/)
+
 ## Scalable Software Architecture
 
 ### Resources
@@ -1068,6 +1135,12 @@ If you think this repository makes a difference and is worth it, please share it
 - [Communication in a microservice architecture](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/communication-in-microservice-architecture) - Microsoft
 - [Asynchronous message-based communication](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/asynchronous-message-based-communication) - Microsoft
 - [Modular Monolith: Integration Styles](http://www.kamilgrzybek.com/tag/messaging/) - Kamil Grzybek
+- [Marrying RESTful HTTP with Asynchronous and Event-Driven Services](https://sookocheff.com/post/api/marrying-restful-http-with-asynchronous-design/)
+## Distributed Transactions
+
+### 📝 Articles
+- [Life Beyond Distributed Transactions: An Apostate's Implementation - A Primer](https://jimmybogard.com/life-beyond-transactions-implementation-primer/)
+
 
 ## Eventual Consistency
 
@@ -1091,7 +1164,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Migrating Monoliths to Microservices with Decomposition and Incremental Changes](https://www.infoq.com/articles/migrating-monoliths-to-microservices-with-decomposition/)
 - [Decompose your monolith: Ten principles for refactoring a monolith to microservices](https://chrisrichardson.net/post/refactoring/2020/08/21/ten-principles-for-refactoring-to-microservices.html)
 - [Decompose Your Monolith: Strategies for Migrating to Microservices](https://chrisrichardson.net/post/refactoring/2019/10/09/refactoring-to-microservices.html)
-
+- [Making Modular Monoliths Work](https://sookocheff.com/post/architecture/making-modular-monoliths-work/)
 ### 🔖 Samples
 - [https://github.com/kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Kamil Grzybek
     > Full Modular Monolith application with Domain-Driven Design approach.
@@ -1393,7 +1466,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [System Design Interview – An insider's guide, Second Edition](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF)
 - [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647/)
 - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
-
+- [Software Architecture with C# 9 and .NET 5 - Second Edition](https://www.packtpub.com/product/software-architecture-with-c-9-and-net-5-second-edition/9781800566040)
 
 ## Other Resources
 
