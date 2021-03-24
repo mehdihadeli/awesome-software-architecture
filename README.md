@@ -89,18 +89,18 @@ If you think this repository makes a difference and is worth it, please share it
   - [At-least-Once Delivery (Outbox Pattern)](#at-least-once-delivery-(outbox-pattern))
   - [Exactly-Once Delivery](#exactly-once-delivery)
 - [Microservices Anti Pattern](#microservices-anti-pattern)
-  - []()
 - [Object Oriented Design](#object-oriented-design)
 - [Distributed Systems Design](#distributed-systems-design)
 - [Scalable Software Architecture](#scalable-software-architecture)
 - [Clean Code](#clean-code)
 - [Design Best Practices](#good-best-practices)
    - [Thin Controllers](#thin-controllers)
+   - [Strongly Typed Ids](#strongly-typed-ids)
 - [Anti Patterns](#anti-patterns)
   - [Anemic Domain Model](#anemic-domain-model)
   - [Code Smells](#code-smells)
 - [Eventual Consistency](#eventual-consistency)
-- [Asynchronous Patterns](#asynchronous-patterns)
+- [Messaging Patterns](#messaging-patterns)
 - [Distributed Transactions](#distributed-transactions)
 - [Modular Monolith](#modular-monolith)
 - [Packaging](#packaging)
@@ -155,7 +155,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Architectural Drivers: Building Blocks for Decision Making](https://www.neverletdown.net/2014/10/architectural-drivers.html)
 
 ### 📹 Videos
-- [DevTernity 2016: Simon Brown - The Art of Visualising Software Architecture](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=oDpdaXt0HQI&ab_channel=Devoxx)
+- [DevTernity 2016: Simon Brown - The Art of Visualising Software Architecture](https://www.youtube.com/watch?v=zcmU-OE452k)
 - [GOTO 2018 • Modular Monoliths • Simon Brown](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=5OjqD-ow8GE&feature=emb_title&ab_channel=GOTOConferences)
 - [GOTO 2014 • Software Architecture vs. Code • Simon Brown](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=GAFZcYlO5S0)
 - [Modular monoliths (Simon Brown) - 2016](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=h_rBDIC51C4)
@@ -168,6 +168,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Visualising software architecture with the C4 model - Simon Brown, Agile on the Beach 2019](https://www.youtube.com/watch?v=x2-rSnhpw0g)
 - [Structurizr C4 Model series](https://www.youtube.com/playlist?list=PLLET0MJVt0Uc0Nek7yck8FG2fNnv9H32v)
 - [Software Architecture vs Code](https://www.youtube.com/watch?v=ehH3UGdSwPo)
+
 ## Architectural Style
 
 ### Resources
@@ -249,7 +250,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Multiple ways of defining Clean Architecture layers](https://proandroiddev.com/multiple-ways-of-defining-clean-architecture-layers-bbb70afa5d4a)
 - [Adoption of Clean Architecture layers with modules](https://medium.com/@anil.gudigar/adoption-of-clean-architecture-layers-with-modules-a0b5b9b4e716)
 - [Clean Architecture : Part 2 – The Clean Architecture](https://crosp.net/blog/software-architecture/clean-architecture-part-2-the-clean-architecture/)
-
+- [Clean Architecture for ASP.NET Core Solution: A Case Study](https://blog.ndepend.com/clean-architecture-for-asp-net-core-solution/) - NDepend
 #### 📹 Videos
 - [Clean Testing - Clean Architecture with .NET Core - Jason Taylor - NDC Oslo 2020](https://www.youtube.com/watch?v=T6NRcX1vnz8) - Jason Taylor
 - [Clean Architecture with ASP.NET Core 3.0 - Jason Taylor](https://www.youtube.com/watch?v=5OtUm1BLmG0) - Jason Taylor
@@ -341,6 +342,12 @@ If you think this repository makes a difference and is worth it, please share it
 - [https://github.com/thombergs/buckpal](https://github.com/thombergs/buckpal)
 	> An example approach for implementing a Clean/Hexagonal Architecture
 
+- [https://github.com/proudmonkey/ApiBoilerPlate](https://github.com/proudmonkey/ApiBoilerPlate)
+	> A simple yet organized project template for building ASP.NET Core APIs in .NET Core 3.1
+
+- [https://github.com/blazorhero/CleanArchitecture](https://github.com/blazorhero/CleanArchitecture)
+	> Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
+	
 #### Books
 - [Get Your Hands Dirty on Clean Architecture](https://www.packtpub.com/product/get-your-hands-dirty-on-clean-architecture/9781839211966)
 
@@ -428,8 +435,6 @@ If you think this repository makes a difference and is worth it, please share it
 - [Schools of Package Architecture - An Illustration](http://codemanship.co.uk/parlezuml/blog/?postid=539)
 - [Architecting for maintainability through Vertical Slices ](https://www.ghyston.com/insights/architecting-for-maintainability-through-vertical-slices/)
 - [Package by component and architecturally-aligned testing](http://www.codingthearchitecture.com/2015/03/08/package_by_component_and_architecturally_aligned_testing.html)
-- [Vertical Slices Application Design with MediatR: Part 1](https://www.ojdevelops.com/2017/08/vertical-slices-with-mediatr.html)
-- [Vertical Slices Application Design with MediatR: Part 2](https://www.ojdevelops.com/2017/09/vertical-slices-with-mediatr-part2.html)
 - [The Tyranny of Horizontal Architectures (and How You Might Escape): Part 2](https://www.ojdevelops.com/2018/07/the-tyranny-of-horizontal-architectures2.html)
 - [Organizing Code by Feature using Vertical Slices](https://codeopinion.com/organizing-code-by-feature-using-vertical-slices/) - CodeOpinion
 - [Vertical slices in ASP.NET MVC](https://www.kenneth-truyers.net/2016/02/02/vertical-slices-in-asp-net-mvc/)
@@ -451,12 +456,15 @@ If you think this repository makes a difference and is worth it, please share it
 - [No Abstractions in Vertical Slice Architecture?](https://www.reddit.com/r/dotnet/comments/m1t6g3/no_abstractions_in_vertical_slice_architecture/)
 - [Encountering "Vertical Slice Architecture"... Is it incompatible with Clean Architecture?](https://jeremiahflaga.github.io/2019/05/20/vertical-slice-architecture-is-it-incompatible-with-clean-architecture/)
 - [Vertical Slices](https://deviq.com/practices/vertical-slices) - DevIQ
+- [What Are Your Thoughts On The Vertical Slice Architecture?](https://www.reddit.com/r/dotnet/comments/gej15i/what_are_your_thoughts_on_the_vertical_slice/)
 
 #### 📹 Videos
+- [SOLID Architecture in Slices not Layers - Jimmy Bogard](https://vimeo.com/131633177)
 - [Vertical Slice Architecture - Jimmy Bogard](https://www.youtube.com/watch?v=5kOzZz2vj2o) - Jimmy Bogard
 - [SOLID Architecture in Slices not Layers](https://www.youtube.com/watch?v=wTd-VcJCs_M) - Jimmy Bogard
 - [DevTernity 2019: Jimmy Bogard – Vertical Slice Architecture](https://www.youtube.com/watch?v=T6nglsEDaqA) - Jimmy Bogard
 - [Vertical Slice Architecture - Jimmy Bogard](https://www.youtube.com/watch?v=SUiWfhAhgQw&lc=UgzDmpq_2SHwmuSgIL54AaABAg)
+
 #### Samples
 - [https://github.com/jbogard/ContosoUniversityDotNetCore](https://github.com/jbogard/ContosoUniversityDotNetCore) - Jimmy Bogard
 - [https://github.com/jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages) - Jimmy Bogard
@@ -464,6 +472,11 @@ If you think this repository makes a difference and is worth it, please share it
 - [https://github.com/ardalis/OrganizingAspNetCore](https://github.com/ardalis/OrganizingAspNetCore) - Steve Smith
 - [https://github.com/dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - Steve Smith
 - [https://github.com/ardalis/ApiEndpoints/tree/master/sample](https://github.com/ardalis/ApiEndpoints/tree/master/sample) - Steve Smith
+- [https://github.com/PacktPublishing/ASP.NET-Core-5-Design-Patterns/tree/main/C15/Vertical%20Slice%20Architecture](https://github.com/PacktPublishing/ASP.NET-Core-5-Design-Patterns/tree/main/C15/Vertical%20Slice%20Architecture)
+
+#### Books
+- [An Atypical ASP.NET Core 5 Design Patterns Guide](https://www.packtpub.com/product/an-atypical-asp-net-core-5-design-patterns-guide/9781789346091)
+
 ### Event Driven Architecture
 
 #### 📝 Articles
@@ -475,6 +488,8 @@ If you think this repository makes a difference and is worth it, please share it
 - [Journey to Event Driven – Part 4: Four Pillars of Event Streaming Microservices](https://www.confluent.io/blog/journey-to-event-driven-part-4-four-pillars-of-event-streaming-microservices/)
 - [Event Driven Systems](https://medium.com/omarelgabrys-blog/event-driven-systems-cdbe5a4b3d04)
 - [Events on the outside, on the inside and at the core](https://chrisrichardson.net/post/microservices/2021/02/21/events-are-the-core.html)
+- [Implementing event-based communication between microservices (integration events)](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/integration-event-based-microservice-communications) - Microsoft
+- [Domain events: design and implementation](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/domain-events-design-implementation) - Microsoft
 
 #### Videos
 - [Event-Driven Architecture | EDA | Software Architectural Patterns](https://www.youtube.com/watch?v=gIL8rW_eyww&t=0s) - The TechCave
@@ -548,8 +563,8 @@ If you think this repository makes a difference and is worth it, please share it
 #### 📝 Articles
 - [Persistence Ignorance](https://deviq.com/principles/persistence-ignorance) - DevIQ
 - [Understanding Persistence Ignorance Principle](http://techxposer.com/2018/12/29/understanding-persistence-ignorance-principle/)
-- [ Infrastructure Ignorance](https://ayende.com/blog/3137/infrastructure-ignorance) - Ayende
-
+- [Infrastructure Ignorance](https://ayende.com/blog/3137/infrastructure-ignorance) - Ayende
+- [Persistence Ignorance](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice#the-domain-model-layer) - Microsoft
 ### GRASP
 
 #### 📝 Articles
@@ -697,6 +712,7 @@ If you think this repository makes a difference and is worth it, please share it
 #### 📝 Articles
 - [At-least-once Delivery](https://www.cloudcomputingpatterns.org/at_least_once_delivery/) - cloudcomputingpatterns.org
 - [The Outbox Pattern](http://www.kamilgrzybek.com/design/the-outbox-pattern/) - Kamil Grzybek
+
 ### Exactly-Once Delivery
 
 #### 📝 Articles
@@ -740,84 +756,6 @@ If you think this repository makes a difference and is worth it, please share it
 #### 📹 Videos
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU)
-#### Value Objects
-
-##### 📝 Articles
-- [Treating Primitive Obsession with ValueObjects | DDD in .NET](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=h4uldNA1JUE)
-- [Implement value objects](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/implement-value-objects)
-
-#### Domain 
-
-##### 📝 Articles
-- [Always-Valid Domain Model](https://enterprisecraftsmanship.com/posts/always-valid-domain-model/) - Vladimir Khorikove
-- [Domain Model Encapsulation and PI with Entity Framework 2.2](http://www.kamilgrzybek.com/design/domain-model-encapsulation-and-pi-with-entity-framework-2-2/) - Kamil Grzybek
-- [Attributes of Clean Domain Model](http://www.kamilgrzybek.com/design/clean-domain-model-attributes/) - Kamil Grzybek
-- [Are CQRS commands part of the domain model?](https://enterprisecraftsmanship.com/2019/01/31/cqrs-commands-part-domain-model/) - Vladimir Khorikove
-- [Domain model purity vs. domain model completeness](https://enterprisecraftsmanship.com/posts/domain-model-purity-completeness/) - Vladimir Khorikove
-- [Design validations in the domain model layer](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/domain-model-layer-validations) - Microsoft
-- [Seedwork (reusable base classes and interfaces for your domain model)](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/seedwork-domain-model-base-classes-interfaces) -Microsoft
-- [Implement a microservice domain model with .NET](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/net-core-microservice-domain-model) - Microsoft
-- [Domain Command Patterns - Validation](https://jimmybogard.com/domain-command-patterns-validation/) - Jimmy Bogard
-- [Domain Command Patterns - Handlers](https://jimmybogard.com/domain-command-patterns-handlers/) - Jimmy Bogard
-- [Attributes of Clean Domain Model](https://www.kamilgrzybek.com/design/clean-domain-model-attributes/)
-- [Domain Model Encapsulation and PI with Entity Framework 2.2](https://www.kamilgrzybek.com/design/domain-model-encapsulation-and-pi-with-entity-framework-2-2/) - Kamil Grzybek
-- [Strengthening your domain: a primer](https://lostechies.com/jimmybogard/2010/02/04/strengthening-your-domain-a-primer/)
-- [Persistence model and domain anemia](https://lostechies.com/blogs/jimmy_bogard/archive/2009/12/03/persistence-model-and-domain-anemia.aspx)
-- [The Anemic Domain Model Pattern](http://codebetter.com/gregyoung/2009/07/15/the-anemic-domain-model-pattern/)
-- [Strengthening your domain: Aggregate Construction](https://lostechies.com/jimmybogard/2010/02/24/strengthening-your-domain-aggregate-construction/)
-##### 📹 Videos
-- [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU) - CodeOpinion
-
-
-#### Bounded Context
-
-##### 📝 Articles
-- [Context is King: Finding Service Boundaries](https://codeopinion.com/context-is-king-finding-service-boundaries/)
-- [Defining Service Boundaries by Splitting Entities](https://codeopinion.com/defining-service-boundaries-by-splitting-entities/)
-- [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
-##### 📹 Videos
-- [Context is King | Finding Service Boundaries Talk](https://www.youtube.com/watch?v=dnhshUdRW70)
-- [Defining Service Boundaries by Splitting Entities](https://www.youtube.com/watch?v=lGvYHmvXiyk)
-
-#### Domain Service
-
-##### 📝 Articles
-
-#### Application Service
-
-##### 📝 Articles
-- [Domain services vs Application services](https://enterprisecraftsmanship.com/2016/09/08/domain-services-vs-application-services/) - Vladimir Khorikove
-- [Implement the microservice application layer using the Web API](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/microservice-application-layer-implementation-web-api) - Microsoft
-
-#### Domain Events
-
-##### 📝 Articles
-- [How to publish and handle Domain Events](http://www.kamilgrzybek.com/design/how-to-publish-and-handle-domain-events/) - Kamil Grzybek
-- [Handling Domain Events: Missing Part](http://www.kamilgrzybek.com/design/handling-domain-events-missing-part/) - Kamil Grzybek
-- [Domain events: design and implementation](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/domain-events-design-implementation) - Microsoft
-- [Events on the outside, on the inside and at the core](https://chrisrichardson.net/post/microservices/2021/02/21/events-are-the-core.html)
-- [Strengthening your domain: Domain Events](https://lostechies.com/jimmybogard/2010/04/08/strengthening-your-domain-domain-events/)
-
-#### Infrastructure
-
-- [Design the infrastructure persistence layer](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-design) - Microsoft
-- [Implement the infrastructure persistence layer with Entity Framework Core](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-implementation-entity-framework-core) - Microsoft
-- [Use NoSQL databases as a persistence infrastructure](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/nosql-database-persistence-infrastructure) - Microsoft
-
-#### Aggregation
-
-##### 📝 Articles
-- [Processing multiple aggregates – transactional vs eventual consistency](https://www.kamilgrzybek.com/design/processing-multiple-aggregates-transactional-vs-eventual-consistency/) - Kamil Grzybek
-- [Aggregate (Root) Design: Behavior & Data](https://codeopinion.com/aggregate-root-design-behavior-data/?utm_source=feedly&utm_medium=rss&utm_campaign=aggregate-root-design-behavior-data) - CodeOpinion
-- [Strengthening your domain: Aggregate Construction](https://lostechies.com/jimmybogard/2010/02/24/strengthening-your-domain-aggregate-construction/)
-##### 📹 Videos
-- [Aggregate (Root) Design: Separate Behavior & Data for Persistence](https://www.youtube.com/watch?v=GtWVGJp061A) - CodeOpinion
-
-#### Domain Primitives
-
-##### 📝 Articles
-- [My Take On Domain Primitives](https://svenhuebner-it.com/my-take-on-domain-primitives/) - Sven Hübner
-- [Domain Primitives I: easily declaring domain primitives](https://svenhuebner-it.com/domain-primitives-i-easily-declaring-domain-primitives/) - Sven Hübner 
 
 #### 🔖 Samples
 
@@ -852,6 +790,101 @@ If you think this repository makes a difference and is worth it, please share it
 
 - [https://github.com/ddd-by-examples/library](https://github.com/ddd-by-examples/library)
 	> A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
+
+#### Value Objects
+
+##### 📝 Articles
+- [Treating Primitive Obsession with ValueObjects | DDD in .NET](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=h4uldNA1JUE)
+- [Implement value objects](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/implement-value-objects)
+
+#### Domain 
+
+##### 📝 Articles
+- [Always-Valid Domain Model](https://enterprisecraftsmanship.com/posts/always-valid-domain-model/) - Vladimir Khorikove
+- [Domain Model Encapsulation and PI with Entity Framework 2.2](http://www.kamilgrzybek.com/design/domain-model-encapsulation-and-pi-with-entity-framework-2-2/) - Kamil Grzybek
+- [Attributes of Clean Domain Model](http://www.kamilgrzybek.com/design/clean-domain-model-attributes/) - Kamil Grzybek
+- [Are CQRS commands part of the domain model?](https://enterprisecraftsmanship.com/2019/01/31/cqrs-commands-part-domain-model/) - Vladimir Khorikove
+- [Domain model purity vs. domain model completeness](https://enterprisecraftsmanship.com/posts/domain-model-purity-completeness/) - Vladimir Khorikove
+- [Design validations in the domain model layer](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/domain-model-layer-validations) - Microsoft
+- [Seedwork (reusable base classes and interfaces for your domain model)](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/seedwork-domain-model-base-classes-interfaces) -Microsoft
+- [Implement a microservice domain model with .NET](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/net-core-microservice-domain-model) - Microsoft
+- [Domain Command Patterns - Validation](https://jimmybogard.com/domain-command-patterns-validation/) - Jimmy Bogard
+- [Domain Command Patterns - Handlers](https://jimmybogard.com/domain-command-patterns-handlers/) - Jimmy Bogard
+- [Attributes of Clean Domain Model](https://www.kamilgrzybek.com/design/clean-domain-model-attributes/)
+- [Domain Model Encapsulation and PI with Entity Framework 2.2](https://www.kamilgrzybek.com/design/domain-model-encapsulation-and-pi-with-entity-framework-2-2/) - Kamil Grzybek
+- [Strengthening your domain: a primer](https://lostechies.com/jimmybogard/2010/02/04/strengthening-your-domain-a-primer/)
+- [Persistence model and domain anemia](https://lostechies.com/blogs/jimmy_bogard/archive/2009/12/03/persistence-model-and-domain-anemia.aspx)
+- [The Anemic Domain Model Pattern](http://codebetter.com/gregyoung/2009/07/15/the-anemic-domain-model-pattern/)
+- [Strengthening your domain: Aggregate Construction](https://lostechies.com/jimmybogard/2010/02/24/strengthening-your-domain-aggregate-construction/)
+- [How to create fully encapsulated Domain Models](https://udidahan.com/2008/02/29/how-to-create-fully-encapsulated-domain-models/)
+
+##### 📹 Videos
+- [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU) - CodeOpinion
+
+
+#### Bounded Context
+
+##### 📝 Articles
+- [Context is King: Finding Service Boundaries](https://codeopinion.com/context-is-king-finding-service-boundaries/)
+- [Defining Service Boundaries by Splitting Entities](https://codeopinion.com/defining-service-boundaries-by-splitting-entities/)
+- [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
+
+##### 📹 Videos
+- [Context is King | Finding Service Boundaries Talk](https://www.youtube.com/watch?v=dnhshUdRW70)
+- [Defining Service Boundaries by Splitting Entities](https://www.youtube.com/watch?v=lGvYHmvXiyk)
+
+#### Domain Service
+
+##### 📝 Articles
+
+#### Application Service
+
+##### 📝 Articles
+- [Domain services vs Application services](https://enterprisecraftsmanship.com/2016/09/08/domain-services-vs-application-services/) - Vladimir Khorikove
+- [Implement the microservice application layer using the Web API](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/microservice-application-layer-implementation-web-api) - Microsoft
+
+#### Domain Events
+
+##### 📝 Articles
+- [How to publish and handle Domain Events](http://www.kamilgrzybek.com/design/how-to-publish-and-handle-domain-events/) - Kamil Grzybek
+- [Handling Domain Events: Missing Part](http://www.kamilgrzybek.com/design/handling-domain-events-missing-part/) - Kamil Grzybek
+- [The Outbox Pattern](http://www.kamilgrzybek.com/design/the-outbox-pattern/) - Kamil Grzybek
+- [Domain Events – Salvation](https://udidahan.com/2009/06/14/domain-events-salvation/)
+- [Domain events: design and implementation](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/domain-events-design-implementation) - Microsoft
+- [Events on the outside, on the inside and at the core](https://chrisrichardson.net/post/microservices/2021/02/21/events-are-the-core.html)
+- [Strengthening your domain: Domain Events](https://lostechies.com/jimmybogard/2010/04/08/strengthening-your-domain-domain-events/)
+- [Don't publish Domain Events, return them!](https://blog.jayway.com/2013/06/20/dont-publish-domain-events-return-them/)
+- [A better domain events pattern](https://lostechies.com/jimmybogard/2014/05/13/a-better-domain-events-pattern/) - Jimmy Bogard
+- [Implementing event-based communication between microservices (integration events)](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/integration-event-based-microservice-communications)
+- [DDD and Messaging Architectures](https://verraes.net/2019/05/ddd-msg-arch/) - Mathias Verraes
+- [Domain events: simple and reliable solution](https://enterprisecraftsmanship.com/posts/domain-events-simple-reliable-solution/)
+
+### Validation
+
+##### 📝 Articles
+- [Design validations in the domain model layer](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/domain-model-layer-validations)
+
+#### Infrastructure
+- [Design the infrastructure persistence layer](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-design) - Microsoft
+- [Implement the infrastructure persistence layer with Entity Framework Core](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-implementation-entity-framework-core) - Microsoft
+- [Use NoSQL databases as a persistence infrastructure](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/nosql-database-persistence-infrastructure) - Microsoft
+
+#### Aggregation
+
+##### 📝 Articles
+- [Processing multiple aggregates – transactional vs eventual consistency](https://www.kamilgrzybek.com/design/processing-multiple-aggregates-transactional-vs-eventual-consistency/) - Kamil Grzybek
+- [Aggregate (Root) Design: Behavior & Data](https://codeopinion.com/aggregate-root-design-behavior-data/?utm_source=feedly&utm_medium=rss&utm_campaign=aggregate-root-design-behavior-data) - CodeOpinion
+- [Strengthening your domain: Aggregate Construction](https://lostechies.com/jimmybogard/2010/02/24/strengthening-your-domain-aggregate-construction/)
+
+##### 📹 Videos
+- [Aggregate (Root) Design: Separate Behavior & Data for Persistence](https://www.youtube.com/watch?v=GtWVGJp061A) - CodeOpinion
+
+#### Domain Primitives
+
+##### 📝 Articles
+- [My Take On Domain Primitives](https://svenhuebner-it.com/my-take-on-domain-primitives/) - Sven Hübner
+- [Domain Primitives I: easily declaring domain primitives](https://svenhuebner-it.com/domain-primitives-i-easily-declaring-domain-primitives/) - Sven Hübner 
+
 	
 ### Data Driven Design (Data Centric)
 
@@ -900,6 +933,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Meanwhile... on the query side of my architecture](https://blogs.cuttingedge.it/steven/posts/2011/meanwhile-on-the-query-side-of-my-architecture/)
 - [MVC Controllers are Dinosaurs - Embrace API Endpoints](https://ardalis.com/mvc-controllers-are-dinosaurs-embrace-api-endpoints/) - Steve Smith
 - [Moving from Controllers and Actions to Endpoints with MediatR](https://ardalis.com/moving-from-controllers-and-actions-to-endpoints-with-mediatr/) - Steve Smith
+- [CQRS snippets](https://cezarypiatek.github.io/post/cqrs-snippets/)
 
 #### 📹 Videos
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
@@ -1112,6 +1146,12 @@ If you think this repository makes a difference and is worth it, please share it
 - [Put your controllers on a diet: POSTs and commands](https://lostechies.com/jimmybogard/2013/12/19/put-your-controllers-on-a-diet-posts-and-commands/) - Jimmy Bogard
 - [CQRS with MediatR and AutoMapper](https://lostechies.com/jimmybogard/2015/05/05/cqrs-with-mediatr-and-automapper/)
 
+### Strongly Typed Ids
+
+### 📝 Articles
+- [Using C# 9 records as strongly-typed ids](https://thomaslevesque.com/series/using-c%23-9-records-as-strongly-typed-ids/)
+- [Series: Using strongly-typed entity IDs to avoid primitive obsession](https://andrewlock.net/series/using-strongly-typed-entity-ids-to-avoid-primitive-obsession/)
+
 ## Anti Patterns
 
 ### Resources
@@ -1129,13 +1169,21 @@ If you think this repository makes a difference and is worth it, please share it
 #### 📝 Articles
 - [Code Smells](https://deviq.com/antipatterns/code-smells) - DevIQ
 
-## Asynchronous Patterns
+## Messaging Patterns
 
 ### 📝 Articles
+- [Messaging patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/category/messaging) - Microsoft
 - [Communication in a microservice architecture](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/communication-in-microservice-architecture) - Microsoft
 - [Asynchronous message-based communication](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/asynchronous-message-based-communication) - Microsoft
 - [Modular Monolith: Integration Styles](http://www.kamilgrzybek.com/tag/messaging/) - Kamil Grzybek
 - [Marrying RESTful HTTP with Asynchronous and Event-Driven Services](https://sookocheff.com/post/api/marrying-restful-http-with-asynchronous-design/)
+- [DDD and Messaging Architectures](https://verraes.net/2019/05/ddd-msg-arch/) - Mathias Verraes
+- [Asynchronous Messaging Patterns](https://blogs.mulesoft.com/api-integration/patterns/asynchronous-messaging-patterns/)
+- [Messaging Patterns Overview](https://www.enterpriseintegrationpatterns.com/patterns/messaging/)
+
+### Books
+- [Enterprise Integration Patterns](https://amazon.com/o/asin/0321200683/ref=nosim/enterpriseint-20)
+
 ## Distributed Transactions
 
 ### 📝 Articles
@@ -1198,6 +1246,8 @@ If you think this repository makes a difference and is worth it, please share it
 	
 - [https://github.com/devmentors/Trill-modular-monolith](https://github.com/devmentors/Trill-modular-monolith)
 
+- [https://github.com/spetz/Confab-training](https://github.com/spetz/Confab-training)
+
 ### 📹 Videos
 - [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE)
 - [Modular monoliths (Simon Brown) - 2016](https://www.youtube.com/watch?v=kbKxmEeuvc4)
@@ -1244,6 +1294,10 @@ If you think this repository makes a difference and is worth it, please share it
 
 #### Videos
 - [Asynchronous messaging with Azure Service Bus](https://www.youtube.com/watch?v=aJn5CDhWvJQ)
+- [On .NET Live - Messaging Patterns for .NET Developers](https://www.youtube.com/watch?v=ef1DK76rseM)
+#### Samples
+- [https://github.com/Azure/azure-service-bus/tree/master/samples](https://github.com/Azure/azure-service-bus/tree/master/samples)
+
 
 ### Azure Functions
 
@@ -1467,6 +1521,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services](https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms/dp/1491983647/)
 - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 - [Software Architecture with C# 9 and .NET 5 - Second Edition](https://www.packtpub.com/product/software-architecture-with-c-9-and-net-5-second-edition/9781800566040)
+- [An Atypical ASP.NET Core 5 Design Patterns Guide](https://www.packtpub.com/product/an-atypical-asp-net-core-5-design-patterns-guide/9781789346091)
 
 ## Other Resources
 
