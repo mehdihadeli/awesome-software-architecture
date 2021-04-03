@@ -816,7 +816,13 @@ If you think this repository makes a difference and is worth it, please share it
 
 - [modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd)
 	> Full Modular Monolith application with Domain-Driven Design approach.
-	
+
+- [Trill-modular-monolith](https://github.com/devmentors/Trill-modular-monolith)
+
+- [Confab-training](https://github.com/spetz/Confab-training)
+
+- [coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices)
+	> A full-stack .NET microservices build on Dapr and Tye
 #### Library
 - [https://contextmapper.org](https://contextmapper.org)
 
@@ -824,11 +830,16 @@ If you think this repository makes a difference and is worth it, please share it
 #### Value Objects
 
 ##### 📝 Articles
-- [Treating Primitive Obsession with ValueObjects | DDD in .NET](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=h4uldNA1JUE)
 - [Implement value objects](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/implement-value-objects)
 - [The hidden value of the Value Object](https://dev.to/rafalpienkowski/the-hidden-value-of-the-value-object-1hga)
 - [DDD Value Objects With Entity Framework Core](https://www.edgesidesolutions.com/ddd-value-objects-with-entity-framework-core/)
 - [Value Object: a better implementation](https://enterprisecraftsmanship.com/posts/value-object-better-implementation/)
+- [C# 9 Records as DDD Value Objects](https://enterprisecraftsmanship.com/posts/csharp-records-value-objects/)
+- [Entities, Value Objects, Aggregates and Roots](https://lostechies.com/jimmybogard/2008/05/21/entities-value-objects-aggregates-and-roots/)
+
+##### Videos
+- [Treating Primitive Obsession with ValueObjects | DDD in .NET](https://www.youtube.com/watch?v=h4uldNA1JUE)
+
 ##### Library
 - [Value](https://github.com/tpierrain/Value)
 	> a pico library (or code snippets shed) to help you to easily implement Value Types in your C# projects without making errors nor polluting your domain logic with boiler-plate code.
@@ -870,6 +881,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
 - [Strategic DDD — Bounded Contexts](https://afedyanin.wordpress.com/2016/05/18/bounded-contexts/)
 - [Bounded Context](https://thedomaindrivendesign.io/bounded-context/)
+
 ##### 📹 Videos
 - [Context is King | Finding Service Boundaries Talk](https://www.youtube.com/watch?v=dnhshUdRW70)
 - [Defining Service Boundaries by Splitting Entities](https://www.youtube.com/watch?v=lGvYHmvXiyk)
@@ -932,6 +944,23 @@ If you think this repository makes a difference and is worth it, please share it
 
 ##### 📹 Videos
 - [Aggregate (Root) Design: Separate Behavior & Data for Persistence](https://www.youtube.com/watch?v=GtWVGJp061A) - CodeOpinion
+
+
+#### Enums
+
+##### Articles
+
+- [Series: Enumeration Classes – DDD and beyond](https://ankitvijay.net/2020/06/12/series-enumeration-classes-ddd-and-beyond/)
+- [Enumeration classes](https://lostechies.com/jimmybogard/2008/08/12/enumeration-classes/)
+- [Use enumeration classes instead of enum types](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/enumeration-classes-over-enum-types)
+- [Introduction to Enumeration Classes](https://ankitvijay.net/2020/05/21/introduction-enumeration-class/)
+- [Enumeration class and JSON Serialization](https://ankitvijay.net/2020/06/01/enumeration-class-serialization/)
+- [Reference data as code](https://enterprisecraftsmanship.com/posts/reference-data-as-code/)
+- [Enum Alternatives in C#](https://ardalis.com/enum-alternatives-in-c/)
+- [Listing Strongly Typed Enum Options in C#](https://ardalis.com/listing-strongly-typed-enum-options-in-c/)
+
+##### Library
+- [SmartEnum](https://github.com/ardalis/SmartEnum)
 
 #### Anemic Domain Model
 
@@ -1838,9 +1867,18 @@ If you think this repository makes a difference and is worth it, please share it
 ## Other Resources
 
 - [How to Learn Software Design and Architecture | The Full-stack Software Design & Architecture Map](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/)
+
 - [https://github.com/simskij/awesome-software-architecture](https://github.com/simskij/awesome-software-architecture)
+
 - [https://github.com/Developer-Y/Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture)
+
 - [https://github.com/binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
+
 - [https://github.com/mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices)
+
 - [System Design](https://www.youtube.com/playlist?list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV) - Tech Dummies Narendra L
+
 - [Modular Monoliths](https://files.gotocon.com/uploads/slides/conference_12/515/original/gotoberlin2018-modular-monoliths.pdf)
+
+- [study-path](https://github.com/joebew42/study-path)
+	> An organized learning path about Clean Code, Test-Driven Development, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture
