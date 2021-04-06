@@ -79,11 +79,14 @@ If you think this repository makes a difference and is worth it, please share it
 - [Anti Patterns](#anti-patterns)
 - [Eventual Consistency](#eventual-consistency)
 - [Messaging Patterns](#messaging-patterns)
+  - [Kafka](#kafka)
+  - [RabbitMQ](#rabbitmq)
 - [Distributed Transactions](#distributed-transactions)
 - [Concurrency](#concurrency)
 - [Eventual Consistency](#eventual-consistency)
 - [Modular Monolith](#modular-monolith)
 - [RESTful API Design](#restful-api-design)
+- [Caching](#caching)
 - [Packaging](#packaging)
 - [Azure Application Architecture](azure-application-architecture)
 - [Modeling](#modeling)
@@ -467,6 +470,8 @@ If you think this repository makes a difference and is worth it, please share it
 - [Domain events: design and implementation](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/domain-events-design-implementation) - Microsoft
 - [DDD and Messaging Architectures](https://verraes.net/2019/05/ddd-msg-arch/)
 - [Developing a Successful End-to-End Complex Event Processing Strategy](https://blog.equinix.com/blog/2018/03/28/developing-a-successful-end-to-end-complex-event-processing-strategy/)
+- [Event-Driven Architecture with Apache Kafka for .NET Developers Part 1 - Event Producer](https://thecloudblog.net/post/event-driven-architecture-with-apache-kafka-for-net-developers-part-1-event-producer/)
+- [Event-Driven Architecture with Apache Kafka for .NET Developers Part 2 - Event Consumer](https://thecloudblog.net/post/event-driven-architecture-with-apache-kafka-for-.net-developers-part-2-event-consumer/)
 #### Videos
 - [Event-Driven Architecture | EDA | Software Architectural Patterns](https://www.youtube.com/watch?v=gIL8rW_eyww&t=0s) - The TechCave
 - [Events on the outside, on the inside and at the core](https://www.youtube.com/watch?v=rP-InttAbVY)
@@ -729,6 +734,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Domain Centric Architecture ve Domain Driven Design](http://cagataykiziltan.net/tr/domain-centric-architecture-ve-domain-driven-design/)
 - [AVOID Entity Services by Focusing on Capabilities](https://codeopinion.com/avoid-entity-services-by-focusing-on-capabilities/)
 - [Domains and Subdomains](https://thedomaindrivendesign.io/domains-and-subdomains/)
+
 #### 📹 Videos
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU)
@@ -790,6 +796,7 @@ If you think this repository makes a difference and is worth it, please share it
 
 - [coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices)
 	> A full-stack .NET microservices build on Dapr and Tye
+
 #### Library
 - [https://contextmapper.org](https://contextmapper.org)
 
@@ -836,9 +843,9 @@ If you think this repository makes a difference and is worth it, please share it
 - [How to create fully encapsulated Domain Models](https://udidahan.com/2008/02/29/how-to-create-fully-encapsulated-domain-models/)
 - [Strategic DDD — Distilling the problem domain](https://afedyanin.wordpress.com/2016/05/17/distilling-the-problem-domain/)
 - [Strategic DDD — Focusing on the Core Domain](https://afedyanin.wordpress.com/2016/05/18/focusing-on-the-core-domain/)
+
 ##### 📹 Videos
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU) - CodeOpinion
-
 
 #### Bounded Context
 
@@ -900,7 +907,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Design the infrastructure persistence layer](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-design) - Microsoft
 - [Implement the infrastructure persistence layer with Entity Framework Core](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-implementation-entity-framework-core) - Microsoft
 - [Use NoSQL databases as a persistence infrastructure](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/nosql-database-persistence-infrastructure) - Microsoft
-
+- [Scaffold Your Clean DDD Web Application - Part 3: Persistence, Tenancy, and the Data Model](https://blog.jacobsdata.com/2020/09/25/scaffold-your-clean-ddd-web-application-part-3-persistence-tenancy-and-the-data-model) - John Jacobs
 #### Aggregation
 
 ##### 📝 Articles
@@ -912,10 +919,14 @@ If you think this repository makes a difference and is worth it, please share it
 ##### 📹 Videos
 - [Aggregate (Root) Design: Separate Behavior & Data for Persistence](https://www.youtube.com/watch?v=GtWVGJp061A) - CodeOpinion
 
+#### Mapping
+
+##### 📝 Articles
+- [Scaffold Your Clean DDD Web Application - Part 5: Domain-Driven Design Entity Mapping Strategies](https://blog.jacobsdata.com/2021/03/22/scaffold-your-clean-ddd-web-application-part-5-domain-driven-design-entity-mapping-strategies) - John Jacobs
 
 #### Enums
 
-##### Articles
+##### 📝 Articles
 
 - [Series: Enumeration Classes – DDD and beyond](https://ankitvijay.net/2020/06/12/series-enumeration-classes-ddd-and-beyond/)
 - [Enumeration classes](https://lostechies.com/jimmybogard/2008/08/12/enumeration-classes/)
@@ -1011,13 +1022,14 @@ If you think this repository makes a difference and is worth it, please share it
 - [CQRS snippets](https://cezarypiatek.github.io/post/cqrs-snippets/)
 - [CQRS Simple Architecture](https://kariera.future-processing.pl/blog/cqrs-simple-architecture/)
 - [Brighter Commands](https://www.goparamore.io/command)
-- [](https://www.edgesidesolutions.com/cqrs-with-entity-framework-core/)
+- [CQRS with Entity Framework Core](https://www.edgesidesolutions.com/cqrs-with-entity-framework-core/)
+- [A .Net5 Sample Using CQRS(Command Query Responsibility Segregation) And MediatR Patterns](https://www.learmoreseekmore.com/2021/03/dotnet5-sample-cqrs-mediatr-pattern.html)
 #### 📹 Videos
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
 - [Decomposing CRUD to a Task Based UI](https://www.youtube.com/watch?v=DjZepWrAKzM)
 - [CQRS Myths | 3 Most Common Misconceptions](https://www.youtube.com/watch?v=O9qpcZt6jW0&t=77s)
 - [Is a REST API with CQRS Possible?](https://www.youtube.com/watch?v=6XO6vSiioWE)
-
+- [Organizing (Commands, Events & Handlers) in Microservices/SOA](https://www.youtube.com/watch?v=8j5ETvSSNpc)
 #### Library
 - [https://github.com/gautema/CQRSlite](https://github.com/gautema/CQRSlite)
 	> A lightweight framework to help creating CQRS and Eventsourcing applications in C#
@@ -1380,6 +1392,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Asynchronous Messaging Patterns](https://blogs.mulesoft.com/api-integration/patterns/asynchronous-messaging-patterns/)
 - [Messaging Patterns Overview](https://www.enterpriseintegrationpatterns.com/patterns/messaging/)
 - [Service Activator](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessagingAdapter.html)
+
 ### Library
 - [Enexure.MicroBus](https://github.com/Lavinski/Enexure.MicroBus)
 	> MicroBus is a simple in process Mediator for .NET
@@ -1414,7 +1427,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [MetroBus](https://github.com/GokGokalp/MetroBus)
 	> Lightweight messaging wrapper of 
 	
-- [abp](https://github.com/abpframework/abp/tree/15589f4c1fbd6323cc80a5ce597b1ebf32d9eb07/framework/src/Volo.Abp.EventBus)
+- [Abp](https://github.com/abpframework/abp/tree/15589f4c1fbd6323cc80a5ce597b1ebf32d9eb07/framework/src/Volo.Abp.EventBus)
 	> Open Source Web Application Framework for ASP.NET Core
 	
 - [OpenSleigh](https://github.com/mizrael/OpenSleigh)
@@ -1453,7 +1466,10 @@ If you think this repository makes a difference and is worth it, please share it
 - [Darker](https://github.com/BrighterCommand/Darker)
 	> The query-side counterpart of Brighter
 
-- [https://github.com/Raiffeisen-DGTL/ViennaNET](https://github.com/Raiffeisen-DGTL/ViennaNET)
+- [MassTransit](https://github.com/MassTransit/MassTransit)
+	> Distributed Application Framework for .NET
+	
+- [ViennaNET](https://github.com/Raiffeisen-DGTL/ViennaNET)
 	> Framework for quickly creating enterprise microservices on .NET Core
 	
 - [Fabrik.SimpleBus](https://github.com/benfoster/Fabrik.SimpleBus)
@@ -1461,8 +1477,20 @@ If you think this repository makes a difference and is worth it, please share it
 	
 - [MemBus](https://github.com/flq/MemBus/tree/master/MemBus)
 	> Pure In-Memory Publish/Subscribe .NET Bus
+	
 ### Books
 - [Enterprise Integration Patterns](https://amazon.com/o/asin/0321200683/ref=nosim/enterpriseint-20)
+
+### Kafka
+
+#### 📝 Articles
+- [Event-Driven Architecture with Apache Kafka for .NET Developers Part 1 - Event Producer](https://thecloudblog.net/post/event-driven-architecture-with-apache-kafka-for-net-developers-part-1-event-producer/)
+
+- [Event-Driven Architecture with Apache Kafka for .NET Developers Part 2 - Event Consumer](https://thecloudblog.net/post/event-driven-architecture-with-apache-kafka-for-.net-developers-part-2-event-consumer/)
+
+### RabbitMQ
+
+#### 📝 Articles
 
 ## Distributed Transactions
 
@@ -1561,6 +1589,11 @@ If you think this repository makes a difference and is worth it, please share it
 - [Design Guidelines](http://apistylebook.com/design/guidelines/)
 - [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.2.md)
 
+## Caching
+
+### Articles
+- [Where Is My Cache? Architectural Patterns for Caching Microservices](https://hazelcast.com/blog/architectural-patterns-for-caching-microservices/)
+- [4 ways to update your cache](https://vishnu.hashnode.dev/4-ways-to-update-your-cache-ckn4c0jae0dq8efs152eu8hmq)
 ## Packaging
 
 ### 📝 Articles
