@@ -75,7 +75,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Distributed Systems Design](#distributed-systems-design)
 - [Scalable Software Architecture](#scalable-software-architecture)
 - [Clean Code](#clean-code)
-- [Design Best Practices](#good-best-practices)
+- [Design Best Practices](#design-best-practices)
 - [Anti Patterns](#anti-patterns)
 - [Eventual Consistency](#eventual-consistency)
 - [Messaging Patterns](#messaging-patterns)
@@ -724,6 +724,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [A Template for Clean Domain-Driven Design Architecture](https://blog.jacobsdata.com/2020/03/02/a-clean-domain-driven-design-architectural-template) - Jacobs Data
 - [Tackling Complexity in the Heart of DDD](https://vladikk.com/2016/04/05/tackling-complexity-ddd/) - Vladik Khononov
 - [Strategic Domain-Driven Design](https://vaadin.com/learn/tutorials/ddd/strategic_domain_driven_design)
+- [Domain Driven Design re-distilled](https://yoan-thirion.medium.com/domain-driven-design-re-distilled-685e75595a60)
 - [A Basic Intro to Domain-Driven Design](https://medium.com/software-alchemy/a-basic-intro-to-domain-driven-design-bca832c09e9d)
 - [DDD and avoiding CRUD](https://stackoverflow.com/questions/23970567/ddd-and-avoiding-crud)
 - [Domain-centric vs data-centric approaches to software development](https://enterprisecraftsmanship.com/posts/domain-centric-vs-data-centric-approaches/)
@@ -906,6 +907,11 @@ If you think this repository makes a difference and is worth it, please share it
 - [Validation and DDD](https://enterprisecraftsmanship.com/posts/validation-and-ddd/) - Vladimir Khorikove
 - [C# code contracts vs input validation](https://enterprisecraftsmanship.com/posts/code-contracts-vs-input-validation/) - Vladimir Khorikove
 - [The fallacy of the always-valid entity](https://jeffreypalermo.com/2009/05/the-fallacy-of-the-always-valid-entity/) - Jeffrey Palermo
+
+##### Library
+- [GuardClauses](https://github.com/ardalis/GuardClauses)
+	> A simple package with guard clause extensions.
+
 
 #### Infrastructure
 - [Design the infrastructure persistence layer](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-design) - Microsoft
@@ -1106,6 +1112,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Awesome Microservices .NET Core](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - Mohammad Ebrahimi 
 - [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/) - Microsoft
 - [Cloud-Native learning resources for .NET developers](https://devblogs.microsoft.com/dotnet/cloud-native-learning-resources-for-net-developers/)
+
 #### 📝 Articles
 - [Design a microservice-oriented application](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/microservice-application-design)
 - [Creating a simple data-driven CRUD microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/data-driven-crud-microservice)
@@ -1133,6 +1140,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) - The TechCave
 - [Microservices Architecture and Implementation on .NET 5](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/?couponCode=FA24745CC57592AB612A)
 - [Designing Loosely Coupled Microservices](https://skillsmatter.com/skillscasts/14926-designing-loosely-coupled-microservices)
+- [https://www.youtube.com/watch?v=vpU04uGz19U&ab_channel=Hazelcast](Architectural Patterns for High-Performance Microservices in Kubernetes)
 
 #### 📦 Library
 - [tye](https://github.com/dotnet/tye)
@@ -1360,18 +1368,29 @@ If you think this repository makes a difference and is worth it, please share it
 
 ## Design Best Practices
 
+### Articles
+- [Static methods considered evil?](https://enterprisecraftsmanship.com/posts/static-methods-evil/)
+
 ### Thin Controllers
 
-### 📝 Articles
+#### 📝 Articles
 - [Put your controllers on a diet: GETs and queries](https://lostechies.com/jimmybogard/2013/10/29/put-your-controllers-on-a-diet-gets-and-queries/)
 - [Put your controllers on a diet: POSTs and commands](https://lostechies.com/jimmybogard/2013/12/19/put-your-controllers-on-a-diet-posts-and-commands/) - Jimmy Bogard
 - [CQRS with MediatR and AutoMapper](https://lostechies.com/jimmybogard/2015/05/05/cqrs-with-mediatr-and-automapper/)
 
 ### Strongly Typed Ids
 
-### 📝 Articles
+#### 📝 Articles
 - [Using C# 9 records as strongly-typed ids](https://thomaslevesque.com/series/using-c%23-9-records-as-strongly-typed-ids/)
 - [Series: Using strongly-typed entity IDs to avoid primitive obsession](https://andrewlock.net/series/using-strongly-typed-entity-ids-to-avoid-primitive-obsession/)
+
+### 12 Factor
+
+#### 📝 Articles
+- [The Twelve-Factor App](https://12factor.net/)
+
+#### Videos
+ - [ASP.NET Community Standup - The 12 Factor App](https://www.youtube.com/watch?v=xRlDuXJ3t08&t=894s&ab_channel=dotNET)
 
 ## Anti Patterns
 
@@ -1638,7 +1657,7 @@ If you think this repository makes a difference and is worth it, please share it
 
 #### 📝 Articles
 - [Asynchronous messaging with Azure Service Bus](https://daniel-krzyczkowski.github.io/Asynchronous-Messaging-With-Azure-Service-Bus/)
-
+- [Local Development with Azure Service Bus](https://jimmybogard.com/local-development-with-azure-service-bus/)
 #### Videos
 - [Asynchronous messaging with Azure Service Bus](https://www.youtube.com/watch?v=aJn5CDhWvJQ)
 - [On .NET Live - Messaging Patterns for .NET Developers](https://www.youtube.com/watch?v=ef1DK76rseM)
