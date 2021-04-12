@@ -68,7 +68,9 @@ If you think this repository makes a difference and is worth it, please share it
   - [Decorator Pattern](#decorator-pattern)
   - [Specification Pattern](#specification-pattern)
   - [Repository Pattern](#repository-pattern)
-  - [Query Object Pattern]()
+  - [Query Object Pattern](#query-object-pattern)
+  - [Factory Pattern](#factory-pattern)
+  - [Strategy Pattern](#strategy-pattern)
 - [Cloud Design Patterns](#cloud-design-patterns)
 - [Microservices Anti Pattern](#microservices-anti-pattern)
 - [Object Oriented Design](#object-oriented-design)
@@ -564,12 +566,30 @@ If you think this repository makes a difference and is worth it, please share it
 	
 - [https://github.com/nemanjarogic/DesignPatternsLibrary](https://github.com/nemanjarogic/DesignPatternsLibrary)
 	> A comprehensive design patterns library implemented in C#, which covers various design patterns from the most commonly used ones to the lesser-known ones. Get familiar with and learn design patterns through moderately realistic examples.
+	
+- [DesignPatterns](https://github.com/beginor/DesignPatterns)
+
+- [DesignPattern.Samples.CSharp](https://github.com/EdisonChou/DesignPattern.Samples.CSharp)
+
+- [DesignPattern](https://github.com/TengXiaoDai/DesignPattern)
+
+- [DesignPatterns](https://github.com/rafaelfgx/DesignPatterns)
+
+- [DesignPatterns](https://github.com/exceptionnotfound/DesignPatterns)
+
+- [csharp-design-patterns-for-humans-examples](https://github.com/anupavanm/csharp-design-patterns-for-humans-examples)
+
+- [design-patterns-explained-with-food](https://github.com/wesdoyle/design-patterns-explained-with-food)
 
 ### Service Locator
 
 #### 📝 Articles
 - [Service Locator is an Anti-Pattern](https://blog.ploeh.dk/2010/02/03/ServiceLocatorisanAnti-Pattern/)
 - [The Service Locator Anti-Pattern](https://freecontent.manning.com/the-service-locator-anti-pattern/)
+
+#### Samples
+- [SlimMessageBus](https://github.com/zarusz/SlimMessageBus/blob/d335afcf232e9a2207ae1c5a49dccd2aa50dbaee/src/SlimMessageBus.Host.ServiceLocator/ServiceLocatorMessageBusDependencyResolver.cs)
+
 
 ### Specification Pattern
 
@@ -611,6 +631,37 @@ If you think this repository makes a difference and is worth it, please share it
 
 #### 📝 Articles
 
+
+### Factory Pattern
+
+#### 📝 Articles
+ 
+- [The Factory Pattern In .NET Core](https://dotnetcoretutorials.com/2019/10/15/the-factory-pattern-in-net-core/) - DotnetCoreTutorials
+
+### Strategy Pattern
+
+#### 📝 Articles
+- [ASP.NET Core and the Strategy Pattern](https://adamstorr.azurewebsites.net/blog/aspnetcore-and-the-strategy-pattern)
+
+- [6 Ways To Implement The Strategy Pattern In C# (Basic To Advanced)](https://www.blog.jamesmichaelhickey.com/strategy-pattern-implementations)
+
+- [Strategy Pattern C#](https://codewithshadman.com/strategy-pattern-csharp)
+
+- [C# Design Patterns – Strategy Design Pattern](https://code-maze.com/strategy/)
+
+- [The Strategy Pattern in C#](https://www.exceptionnotfound.net/strategy-pattern-in-csharp/)
+
+- [Implement Custom Logic for Clients using the Strategy and Factory Design Patterns](https://www.codebyamir.com/blog/implement-custom-logic-for-clients-using-strategy-and-factory-design-patterns)
+
+- [Design Pattern Combination – Strategy with Factory Method](
+https://blog.e-zest.com/design-pattern-combination-strategy-with-factory-method/)
+
+
+#### Samples
+
+- [StrategyPatternExample](https://github.com/WestDiscGolf/StrategyPatternExample)
+- [strategy-pattern-dotnetcore](
+https://github.com/Dashell/strategy-pattern-dotnetcore)
 
 ## Cloud Design Patterns
 
@@ -1201,6 +1252,12 @@ If you think this repository makes a difference and is worth it, please share it
 - [Darker](https://github.com/BrighterCommand/Darker)
 	> The query-side counterpart of Brighter
 
+- [surging](https://github.com/fanliang11/surging)
+	> Surging is a micro-service engine that provides a lightweight, high-performance, modular RPC request pipeline. The service engine supports http, TCP, WS,Grpc, Thrift,Mqtt, UDP, and DNS protocols. It uses ZooKeeper and Consul as a registry, and integrates it. Hash, random, polling, Fair Polling as a load balancing algorithm,
+
+- [FamilyBucket](https://github.com/q315523275/FamilyBucket)
+	> 集合.net core、ocelot、consul、netty、rpc、eventbus、configserver、tracing、sqlsugar、vue-admin、基础管理平台等构建的微服务一条龙应用
+
 #### Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
 
@@ -1280,7 +1337,27 @@ If you think this repository makes a difference and is worth it, please share it
 
 - [https://github.com/alugili/ModernArchitectureShop](https://github.com/alugili/ModernArchitectureShop) - Bassam Alugili
 	> The Microservices Online Shop is an application with a modern software architecture that is cleanly designed and based on.NET lightweight technologies. The shop has two build variations. The first variant is the classic Microservices Architectural Style. The second one is with Dapr. Dapr has a comprehensive infrastructure 
-    
+ 
+### Service Discovey
+
+#### Consul
+
+##### 📝 Articles
+
+##### 📹 Videos
+ 
+#### Samples
+ - [surging](https://github.com/fanliang11/surging)
+	> Surging is a micro-service engine that provides a lightweight, high-performance, modular RPC request pipeline. The service engine supports http, TCP, WS,Grpc, Thrift,Mqtt, UDP, and DNS protocols. It uses ZooKeeper and Consul as a registry, and integrates it. Hash, random, polling, Fair Polling as a load balancing algorithm,
+
+- [FamilyBucket](https://github.com/q315523275/FamilyBucket)
+	> 集合.net core、ocelot、consul、netty、rpc、eventbus、configserver、tracing、sqlsugar、vue-admin、基础管理平台等构建的微服务一条龙应用
+
+- [GrpcConsul](https://github.com/pchalamet/GrpcConsul)
+	> Sample for GRPC + Consul + dynamic endpoint for .net
+
+- [Kit.ServiceDiscovery](https://github.com/Chatham/Kit.ServiceDiscovery)
+	> Service discovery kit for .NET microservices
 ### Tye 
 
 #### 📝 Articles
