@@ -1,0 +1,25 @@
+name: Check URL Validity
+on:
+  push:
+  pull_request:
+  schedule:
+    # Run monthly
+    - cron: "0 0 1 * *"
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: lychee Link Checker
+        id: lychee
+        uses: lycheeverse/lychee-action@v1.0.6
+      - name: Comment on failure
+        uses: peter-evans/create-or-update-comment@v1
+        if:  ${{ failure() }}
+        with:
+          issue-number: 73
+          body: |
+            A link check [failed](https://github.com/mehdihadeli/awesome-software-architecture/actions/runs/${{ github.run_id }}).
+      - name: Fail if there were link errors
+        run: exit ${{ steps.lychee.outputs.exit_code }}
