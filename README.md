@@ -88,6 +88,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [RESTful API Design](#restful-api-design)
 - [Caching](#caching)
 - [Packaging](#packaging)
+- [Refactoring](#refactoring)
 - [Azure Application Architecture](azure-application-architecture)
 - [Modeling](#modeling)
 - [Event Storming](#event-storming)
@@ -818,7 +819,7 @@ If you think this repository makes a difference and is worth it, please share it
 
 ##### Videos
 - [Treating Primitive Obsession with ValueObjects | DDD in .NET](https://www.youtube.com/watch?v=h4uldNA1JUE)
-
+- [The Power of Value - Power Use of Value Objects in Domain Driven Design - Dan Bergh Johnsson](https://www.youtube.com/watch?v=vh-LT1mkIz4)
 ##### Library
 - [Value](https://github.com/tpierrain/Value)
 	> a pico library (or code snippets shed) to help you to easily implement Value Types in your C# projects without making errors nor polluting your domain logic with boiler-plate code.
@@ -1617,11 +1618,21 @@ If you think this repository makes a difference and is worth it, please share it
 ### Articles
 - [Where Is My Cache? Architectural Patterns for Caching Microservices](https://hazelcast.com/blog/architectural-patterns-for-caching-microservices/)
 - [4 ways to update your cache](https://vishnu.hashnode.dev/4-ways-to-update-your-cache-ckn4c0jae0dq8efs152eu8hmq)
+
+
 ## Packaging
 
 ### 📝 Articles
 - [Package by component and architecturally-aligned testing](http://www.codingthearchitecture.com/2015/03/08/package_by_component_and_architecturally_aligned_testing.html) - Simon Brown
 - [Schools of Package Architecture - An Illustration](http://codemanship.co.uk/parlezuml/blog/?postid=539)
+
+## Refactoring
+
+### Articles
+
+### Videos
+- [The refactoring test (1) - Dependency Inversion & Unit tests | Cracking the .NET interview](https://www.youtube.com/watch?v=U3QvTaw224o)
+- [The refactoring test (2) - Open-Closed, Single Responsibility | Cracking the .NET interview](https://www.youtube.com/watch?v=Yd4GnWeEkIY&list=LL&index=10&t=1662s&ab_channel=NickChapsas)
 
 ## Azure Application Architecture
 
