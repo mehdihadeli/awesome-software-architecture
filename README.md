@@ -630,13 +630,17 @@ If you think this repository makes a difference and is worth it, please share it
 ### Decorator Pattern
 
 #### 📝 Articles
-
-
+- [Decorator Pattern in .NET Core 3.1](https://www.programmingwithwolfgang.com/decorator-pattern-in-net-core-3-1/)
+- [Beyond Basics - ASP.Net Core Using the Decorator Pattern](https://adamstorr.azurewebsites.net/blog/beyond-basics-aspnetcore-using-the-decorator-pattern)
+- [Decorator pattern with C# and DotNet Core](https://ranjeet.dev/decorator-pattern-with-csharp/)
 ### Factory Pattern
 
 #### 📝 Articles
  
 - [The Factory Pattern In .NET Core](https://dotnetcoretutorials.com/2019/10/15/the-factory-pattern-in-net-core/) - DotnetCoreTutorials
+
+#### Videos
+- [SOLID Principles for C# Developers](https://www.pluralsight.com/courses/csharp-solid-principles)
 
 ### Strategy Pattern
 
@@ -656,12 +660,16 @@ If you think this repository makes a difference and is worth it, please share it
 - [Design Pattern Combination – Strategy with Factory Method](
 https://blog.e-zest.com/design-pattern-combination-strategy-with-factory-method/)
 
+#### Videos
+- [SOLID Principles for C# Developers](https://www.pluralsight.com/courses/csharp-solid-principles)
 
 #### Samples
 
 - [StrategyPatternExample](https://github.com/WestDiscGolf/StrategyPatternExample)
 - [strategy-pattern-dotnetcore](
 https://github.com/Dashell/strategy-pattern-dotnetcore)
+- [Sttrategy](https://github.com/mehdihadeli/design-pattern-samples/tree/main/Patterns/Specific/Sttrategy)
+
 
 ## Cloud Design Patterns
 
@@ -1695,7 +1703,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ### Articles
 - [Where Is My Cache? Architectural Patterns for Caching Microservices](https://hazelcast.com/blog/architectural-patterns-for-caching-microservices/)
 - [4 ways to update your cache](https://vishnu.hashnode.dev/4-ways-to-update-your-cache-ckn4c0jae0dq8efs152eu8hmq)
-
+- [Simple In-Memory Caching in .Net Core with IMemoryCache](https://sahansera.dev/in-memory-caching-aspcore-dotnet/)
 
 ## Packaging
 
