@@ -1990,6 +1990,8 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [Solutions Architect's Handbook: Kick-start your solutions architect career by learning architecture design principles and strategies](https://www.amazon.com/Solutions-Architects-Handbook-Kick-start-architecture-ebook/dp/B0855XQZ44)
 ## Other Resources
 
+- [Software architect roadmap](https://github.com/AlaaAttya/software-architect-roadmap)
+	
 - [How to Learn Software Design and Architecture | The Full-stack Software Design & Architecture Map](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/)
 
 - [https://github.com/simskij/awesome-software-architecture](https://github.com/simskij/awesome-software-architecture)
