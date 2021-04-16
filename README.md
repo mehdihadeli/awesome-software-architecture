@@ -2334,6 +2334,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 </div>
 
 ### Tools
+
 - [Diagrams.Net](https://www.diagrams.net)
 - [Vertabelo](https://vertabelo.com)
 - [Reverse engineering - vertabelo](https://vertabelo.com/documentation/physical-model/reverse-engineering-doc/)
@@ -2456,6 +2457,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
 ## Other Resources
 
 - [Software architect roadmap](https://github.com/AlaaAttya/software-architect-roadmap)
