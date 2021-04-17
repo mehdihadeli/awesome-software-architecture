@@ -140,7 +140,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Visualising software architecture with the C4 model - Simon Brown, Agile on the Beach 2019](https://www.youtube.com/watch?v=x2-rSnhpw0g)
 - [Structurizr C4 Model series](https://www.youtube.com/playlist?list=PLLET0MJVt0Uc0Nek7yck8FG2fNnv9H32v)
 - [Software Architecture vs Code](https://www.youtube.com/watch?v=ehH3UGdSwPo)
-
+- [GOTO 2021 • Software Architecture for Developers Part 2/2 • Simon Brown & Stefan Tilkov](https://www.youtube.com/watch?v=gDlE4q3mozY)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -511,6 +511,9 @@ If you think this repository makes a difference and is worth it, please share it
 - [Events on the outside, on the inside and at the core](https://www.youtube.com/watch?v=rP-InttAbVY)
 - [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
 - [Event Driven Collaboration](https://skillsmatter.com/skillscasts/13645-event-driven-colloboration) - Lan Cooper
+- [Event-Driven Architecture | Event-Driven VS Request-Driven Architecture, When Not To Use Events](https://www.youtube.com/watch?v=U-U3bpljZd0)
+- [What are the benefits of event-driven architecture? | Example of Stripe Checkout payment fulfillment](https://www.youtube.com/watch?v=9GuAR5gltcE)
+- [GOTO 2020 • The Power of Event-Driven Systems without Burning your Hands or Budgets • Allard Buijze](https://www.youtube.com/watch?v=Fso2OyguRuQ)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -1030,6 +1033,19 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices)
 	> A full-stack .NET microservices build on Dapr and Tye
 
+- [grandnode/grandnode](https://github.com/grandnode/grandnode)
+	> Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB
+
+- [smartstore/SmartStoreNET](https://github.com/smartstore/SmartStoreNET)
+	> Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution
+
+- [VirtoCommerce/vc-storefront](https://github.com/VirtoCommerce/vc-storefront)	
+	> VirtoCommerce Storefront for ASP.NET Core 3.1 repository
+	
+- [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce)
+	> The most popular open-source eCommerce shopping cart solution based on ASP.NET Core
+	
+- [trueai-org/module-shop](https://github.com/trueai-org/module-shop)
 #### Library
 - [https://contextmapper.org](https://contextmapper.org)
 
@@ -1368,6 +1384,20 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [Reddnet](https://github.com/moritz-mm/Reddnet)
 	> A mini Reddit written in ASP.NET Core 5.0
 
+- [grandnode/grandnode](https://github.com/grandnode/grandnode)
+	> Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB
+
+- [smartstore/SmartStoreNET](https://github.com/smartstore/SmartStoreNET)
+	> Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution
+
+- [VirtoCommerce/vc-storefront](https://github.com/VirtoCommerce/vc-storefront)	
+	> VirtoCommerce Storefront for ASP.NET Core 3.1 repository
+	
+- [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce)
+	> The most popular open-source eCommerce shopping cart solution based on ASP.NET Core
+	
+- [trueai-org/module-shop](https://github.com/trueai-org/module-shop)
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -1457,6 +1487,12 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [Designing Loosely Coupled Microservices](https://skillsmatter.com/skillscasts/14926-designing-loosely-coupled-microservices)
 - [Architectural Patterns for High-Performance Microservices in Kubernetes](https://www.youtube.com/watch?v=vpU04uGz19U&ab_channel=Hazelcast)
 - [GOTO 2020 • When To Use Microservices (And When Not To!) • Sam Newman & Martin Fowler](https://www.youtube.com/watch?v=GBTdnfD6s5Q&t=825s)
+- [GOTO 2021 • The Problem with Microservices • Dave Farley](https://www.youtube.com/watch?v=V3NQt5KP7EM)
+- [GOTO 2019 • 3 Common Pitfalls in Microservice Integration & How to Avoid Them • Bernd Rücker](https://www.youtube.com/watch?v=7uvK4WInq6k)
+- [GOTO 2015 • Challenges in Implementing Microservices • Fred George](https://www.youtube.com/watch?v=yPf5MfOZPY0)
+- [GOTO 2020 • Beyond Microservices: Streams, State and Scalability • Gwen Shapira](https://www.youtube.com/watch?v=H0LUi51aCP8)
+- [GOTO 2020 • Why GraphQL Between Microservices Is the Worst & Best Idea • Uri Goldshtein](https://www.youtube.com/watch?v=T0zpPO7Ub_s)
+- [GOTO 2019 • Event-Driven Microservices, the Sense, the Non-sense and a Way Forward • Allard Buijze](https://www.youtube.com/watch?v=jrbWIS7BH70)
 #### 📦 Library
 - [tye](https://github.com/dotnet/tye)
     > Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
@@ -1994,7 +2030,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 
 ### 📝 Articles
 - [Processing multiple aggregates – transactional vs eventual consistency](http://www.kamilgrzybek.com/design/processing-multiple-aggregates-transactional-vs-eventual-consistency/)
-
+- [Eventual Consistency for Mere Mortals](https://ralfw.de/eventual-consistency-for-mere-mortals/)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -2056,6 +2092,17 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [https://github.com/anton-liauchuk/educational-platform](https://github.com/anton-liauchuk/educational-platform)
 	> Modular Monolith Java application with DDD
 
+- [VirtoCommerce/vc-storefront](https://github.com/VirtoCommerce/vc-storefront)
+	> VirtoCommerce Storefront for ASP.NET Core 3.1 repository
+
+- [grandnode/grandnode](https://github.com/grandnode/grandnode)
+	> Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB
+
+- [smartstore/SmartStoreNET](https://github.com/smartstore/SmartStoreNET)
+	> Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution
+
+- [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce)
+	> The most popular open-source eCommerce shopping cart solution based on ASP.NET Core
 ### 📹 Videos
 - [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE)
 - [Modular monoliths (Simon Brown) - 2016](https://www.youtube.com/watch?v=kbKxmEeuvc4)
@@ -2063,6 +2110,8 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [Munich .NET Meetup: Modular Monolith Architecture - One to rule them all](https://www.youtube.com/watch?v=tpeOWlif1l4)
 - [Majestic Modular Monoliths by Axel Fontaine](https://www.youtube.com/watch?v=BOvxJaklcr0)
 - [Decompose your monolith-  when and how to incrementally refactor to microservices](https://vimeo.com/442842127/543b578f38)
+- [GOTO 2019 • Monolith Decomposition Patterns • Sam Newman](https://www.youtube.com/watch?v=9I9GdSQ1bbM)
+- [GOTO 2016 • From Monolith to Microservices at Zalando • Rodrigue Schaefer](https://www.youtube.com/watch?v=gEeHZwjwehs)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
