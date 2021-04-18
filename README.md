@@ -61,6 +61,7 @@ If you think this repository makes a difference and is worth it, please share it
   - [Serverless Architectural Pattern](#serverless-architectural-pattern)
   - [MicroKernel Architectural Pattern](microKernel-architectural-pattern)
 - [Design Patterns](#design-patterns)
+  - [Singleton](#singleton)
   - [Decorator Pattern](#decorator-pattern)
   - [Specification Pattern](#specification-pattern)
   - [Repository Pattern](#repository-pattern)
@@ -548,6 +549,9 @@ If you think this repository makes a difference and is worth it, please share it
 
 ### Dependency Inversion
 
+#### Articles
+- [Singleton vs Dependency Injection](https://enterprisecraftsmanship.com/posts/singleton-vs-dependency-injection/)
+
 #### 📹 Videos
 - [The refactoring test (1) - Dependency Inversion & Unit tests | Cracking the .NET interview](https://www.youtube.com/watch?v=U3QvTaw224o)
 
@@ -665,6 +669,12 @@ If you think this repository makes a difference and is worth it, please share it
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
+### Singleton
+
+#### 📝 Articles
+
+- [Singleton vs Dependency Injection](https://enterprisecraftsmanship.com/posts/singleton-vs-dependency-injection/)
 
 ### Service Locator
 
