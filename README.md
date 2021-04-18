@@ -514,7 +514,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Event-Driven Architecture | Event-Driven VS Request-Driven Architecture, When Not To Use Events](https://www.youtube.com/watch?v=U-U3bpljZd0)
 - [What are the benefits of event-driven architecture? | Example of Stripe Checkout payment fulfillment](https://www.youtube.com/watch?v=9GuAR5gltcE)
 - [GOTO 2020 • The Power of Event-Driven Systems without Burning your Hands or Budgets • Allard Buijze](https://www.youtube.com/watch?v=Fso2OyguRuQ)
-
+- [Core Decisions in Event-Driven Architecture - Duana Stanley](https://www.youtube.com/watch?v=SKXS2h3MdPM)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -969,7 +969,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [Domain Centric Architecture ve Domain Driven Design](http://cagataykiziltan.net/tr/domain-centric-architecture-ve-domain-driven-design/)
 - [AVOID Entity Services by Focusing on Capabilities](https://codeopinion.com/avoid-entity-services-by-focusing-on-capabilities/)
 - [Domains and Subdomains](https://thedomaindrivendesign.io/domains-and-subdomains/)
-
+- [Scaffold Your Clean DDD Web Application - Part 6: Domain-Driven Design Workflow Patterns](https://blog.jacobsdata.com/2021/04/11/scaffold-your-clean-ddd-web-application-part-6-domain-driven-design-workflow-patterns)
 
 #### 📹 Videos
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
@@ -1039,6 +1039,9 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [smartstore/SmartStoreNET](https://github.com/smartstore/SmartStoreNET)
 	> Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution
 
+- [smartstore/Smartstore](https://github.com/smartstore/Smartstore)
+	> Open Source ASP.NET Core Enterprise eCommerce Shopping Cart Solution
+	
 - [VirtoCommerce/vc-storefront](https://github.com/VirtoCommerce/vc-storefront)	
 	> VirtoCommerce Storefront for ASP.NET Core 3.1 repository
 	
@@ -1772,7 +1775,9 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ### 📝 Articles
 
 - [10 common broken rules of clean code](http://www.kamilgrzybek.com/clean-code/10-common-broken-clean-code-rules/)
-
+- [Coding standards](https://docs.nopcommerce.com/en/developer/tutorials/coding-standards.html)
+- [justinamiller/Coding-Standards](https://github.com/justinamiller/Coding-Standards)
+- [C# Coding Standards and Naming Conventions](https://github.com/ktaranov/naming-convention/blob/master/C%23%20Coding%20Standards%20and%20Naming%20Conventions.md)
 ### 📹 Videos
 - [9 "rules" for cleaner code | Object Calisthenics](https://www.youtube.com/watch?v=gyrSiY4SHxI)
 - [Is clean code actually slower?](https://www.youtube.com/watch?v=zVLuQAnNue8)
