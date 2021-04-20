@@ -506,6 +506,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Developing a Successful End-to-End Complex Event Processing Strategy](https://blog.equinix.com/blog/2018/03/28/developing-a-successful-end-to-end-complex-event-processing-strategy/)
 - [Event-Driven Architecture with Apache Kafka for .NET Developers Part 1 - Event Producer](https://thecloudblog.net/post/event-driven-architecture-with-apache-kafka-for-net-developers-part-1-event-producer/)
 - [Event-Driven Architecture with Apache Kafka for .NET Developers Part 2 - Event Consumer](https://thecloudblog.net/post/event-driven-architecture-with-apache-kafka-for-.net-developers-part-2-event-consumer/)
+- [Event-Driven Architecture with Apache Kafka for .NET Developers Part 3 - Azure Event Hubs](https://thecloudblog.net/post/event-driven-architecture-with-apache-kafka-for-net-developers-part-3-azure-event-hubs/)
 - [What do you mean by “Event-Driven”?](https://martinfowler.com/articles/201701-event-driven.html)
 
 #### Videos
@@ -517,11 +518,9 @@ If you think this repository makes a difference and is worth it, please share it
 - [What are the benefits of event-driven architecture? | Example of Stripe Checkout payment fulfillment](https://www.youtube.com/watch?v=9GuAR5gltcE)
 - [GOTO 2020 • The Power of Event-Driven Systems without Burning your Hands or Budgets • Allard Buijze](https://www.youtube.com/watch?v=Fso2OyguRuQ)
 - [Core Decisions in Event-Driven Architecture - Duana Stanley](https://www.youtube.com/watch?v=SKXS2h3MdPM)
-<<<<<<< HEAD
 - [Creating event-driven microservices: the why, how and what by Andrew Schofield](https://www.youtube.com/watch?v=ksRCq0BJef8)
-=======
 - [What's an Event Driven System?](https://www.youtube.com/watch?v=rJHTK2TfZ1I)
->>>>>>> dd1081ba263a307bdea15de783eb56da5ed3d8c3
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -1867,6 +1866,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ### Resources
 - [Messaging](https://www.youtube.com/playlist?list=PLThyvG1mlMzm2FyVpKDiU2c7VtrB2Zezg)
 - [DDD and Messaging Architectures](https://verraes.net/2019/05/ddd-msg-arch/)
+
 ### 📝 Articles
 - [Messaging patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/category/messaging) - Microsoft
 - [Communication in a microservice architecture](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/communication-in-microservice-architecture) - Microsoft
@@ -1904,6 +1904,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [Fat vs thin domain events](https://adrian-philipp.com/notes/fat-vs-thin-domain-events)
 - [Putting your events on a diet](https://particular.net/blog/putting-your-events-on-a-diet)
 - [What do you mean by “Event-Driven”?](https://martinfowler.com/articles/201701-event-driven.html)
+
 ### Videos
 - [Handling Concurrency with Message-IDs | Event Driven Architecture](https://www.youtube.com/watch?v=wefvl2ohiQc)
 - [Message Naming Guidelines | Event Driven Architecture](https://www.youtube.com/watch?v=EmtOB2XexJI)
@@ -1916,6 +1917,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [Thin or Fat Events? Are your boundaries right?](https://www.youtube.com/watch?v=vDtK-ccQWkw)
 - [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
 - [On .NET Live - Messaging Patterns for .NET Developers](https://www.youtube.com/watch?v=ef1DK76rseM)
+
 ### Library
 - [Enexure.MicroBus](https://github.com/Lavinski/Enexure.MicroBus)
 	> MicroBus is a simple in process Mediator for .NET
@@ -2011,10 +2013,10 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ### Kafka
 
 #### 📝 Articles
+
 - [Event-Driven Architecture with Apache Kafka for .NET Developers Part 1 - Event Producer](https://thecloudblog.net/post/event-driven-architecture-with-apache-kafka-for-net-developers-part-1-event-producer/)
-
 - [Event-Driven Architecture with Apache Kafka for .NET Developers Part 2 - Event Consumer](https://thecloudblog.net/post/event-driven-architecture-with-apache-kafka-for-.net-developers-part-2-event-consumer/)
-
+- [Event-Driven Architecture with Apache Kafka for .NET Developers Part 3 - Azure Event Hubs](https://thecloudblog.net/post/event-driven-architecture-with-apache-kafka-for-net-developers-part-3-azure-event-hubs/)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
