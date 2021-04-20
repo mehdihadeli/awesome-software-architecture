@@ -517,7 +517,11 @@ If you think this repository makes a difference and is worth it, please share it
 - [What are the benefits of event-driven architecture? | Example of Stripe Checkout payment fulfillment](https://www.youtube.com/watch?v=9GuAR5gltcE)
 - [GOTO 2020 • The Power of Event-Driven Systems without Burning your Hands or Budgets • Allard Buijze](https://www.youtube.com/watch?v=Fso2OyguRuQ)
 - [Core Decisions in Event-Driven Architecture - Duana Stanley](https://www.youtube.com/watch?v=SKXS2h3MdPM)
+<<<<<<< HEAD
 - [Creating event-driven microservices: the why, how and what by Andrew Schofield](https://www.youtube.com/watch?v=ksRCq0BJef8)
+=======
+- [What's an Event Driven System?](https://www.youtube.com/watch?v=rJHTK2TfZ1I)
+>>>>>>> dd1081ba263a307bdea15de783eb56da5ed3d8c3
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -1437,7 +1441,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [Projections in Event Sourcing: Build ANY model you want!](https://www.youtube.com/watch?v=bTRjO6JK4Ws)
 - [Event Sourcing: Rehydrating Aggregates with Snapshots](https://www.youtube.com/watch?v=eAIkomEid1Y)
 - [Event Sourcing with Azure SQL and Entity Framework Core](https://www.youtube.com/watch?v=-BhDW3GeSqg)
-
+- [What's an Event Driven System?](https://www.youtube.com/watch?v=rJHTK2TfZ1I)
 ### Library
 - [EventFlow](https://github.com/eventflow/EventFlow)
 	> Async/await first CQRS+ES and DDD framework for .NET
@@ -1911,6 +1915,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [CAP: Event Bus & Outbox Pattern](https://www.youtube.com/watch?v=dnhPzILvgeo&t=50s)
 - [Thin or Fat Events? Are your boundaries right?](https://www.youtube.com/watch?v=vDtK-ccQWkw)
 - [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
+- [On .NET Live - Messaging Patterns for .NET Developers](https://www.youtube.com/watch?v=ef1DK76rseM)
 ### Library
 - [Enexure.MicroBus](https://github.com/Lavinski/Enexure.MicroBus)
 	> MicroBus is a simple in process Mediator for .NET
