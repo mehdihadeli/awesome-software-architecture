@@ -252,6 +252,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Robert C Martin - Clean Architecture](https://www.youtube.com/watch?v=Nltqi7ODZTM&feature=youtu.be) - Uncle Bob
 - [Gill CLEEREN: Clean architecture with ASP.NET Core | UCP2019](https://www.youtube.com/watch?v=BxtHt7tsX-c&t=2582s) - Gill CLEEREN
 - [Adding Aggregate Example to Clean Architecture solution template](https://www.youtube.com/watch?v=kxuGtgOimGA) - Steve Smith
+- [Adding Aggregate Example to Clean Architecture solution template](https://www.youtube.com/watch?v=dkj-WwxrgyI) - Steve Smith
 
 #### 🔖 Samples
 
@@ -516,6 +517,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [What are the benefits of event-driven architecture? | Example of Stripe Checkout payment fulfillment](https://www.youtube.com/watch?v=9GuAR5gltcE)
 - [GOTO 2020 • The Power of Event-Driven Systems without Burning your Hands or Budgets • Allard Buijze](https://www.youtube.com/watch?v=Fso2OyguRuQ)
 - [Core Decisions in Event-Driven Architecture - Duana Stanley](https://www.youtube.com/watch?v=SKXS2h3MdPM)
+- [Creating event-driven microservices: the why, how and what by Andrew Schofield](https://www.youtube.com/watch?v=ksRCq0BJef8)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -1082,6 +1084,8 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [Value Object: a better implementation](https://enterprisecraftsmanship.com/posts/value-object-better-implementation/)
 - [C# 9 Records as DDD Value Objects](https://enterprisecraftsmanship.com/posts/csharp-records-value-objects/)
 - [Entities, Value Objects, Aggregates and Roots](https://lostechies.com/jimmybogard/2008/05/21/entities-value-objects-aggregates-and-roots/)
+- [Listing Strongly Typed Enum Options in C#](https://ardalis.com/listing-strongly-typed-enum-options-in-c/)
+- [Enum Alternatives in C#](https://ardalis.com/enum-alternatives-in-c/)
 
 ##### Videos
 - [Treating Primitive Obsession with ValueObjects | DDD in .NET](https://www.youtube.com/watch?v=h4uldNA1JUE)
