@@ -556,7 +556,7 @@ If you think this repository makes a difference and is worth it, please share it
 
 #### Articles
 - [Singleton vs Dependency Injection](https://enterprisecraftsmanship.com/posts/singleton-vs-dependency-injection/)
-
+- [Don’t Call Constructors Unless You Have No Choice, And You Always Have a Choice](https://scotthannen.org/blog/2018/04/03/tame-your-dependency-injection-registration.html)
 #### 📹 Videos
 - [The refactoring test (1) - Dependency Inversion & Unit tests | Cracking the .NET interview](https://www.youtube.com/watch?v=U3QvTaw224o)
 
@@ -1089,10 +1089,17 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [Entities, Value Objects, Aggregates and Roots](https://lostechies.com/jimmybogard/2008/05/21/entities-value-objects-aggregates-and-roots/)
 - [Listing Strongly Typed Enum Options in C#](https://ardalis.com/listing-strongly-typed-enum-options-in-c/)
 - [Enum Alternatives in C#](https://ardalis.com/enum-alternatives-in-c/)
-
+- [Improved Support for Value Objects with EF Core 2.2](https://www.nankov.com/posts/improved-support-value-objects-ef-core-22)
+- [Value Object](https://jonatandragon.com/value-object)
+- [Owned Entity Types](https://docs.microsoft.com/en-us/ef/core/modeling/owned-entities)
 ##### Videos
 - [Treating Primitive Obsession with ValueObjects | DDD in .NET](https://www.youtube.com/watch?v=h4uldNA1JUE)
 - [The Power of Value - Power Use of Value Objects in Domain Driven Design - Dan Bergh Johnsson](https://www.youtube.com/watch?v=vh-LT1mkIz4)
+
+##### Samples
+- [milannankov/EfCoreValueObjects](https://github.com/milannankov/EfCoreValueObjects)
+	> Illustrates support for value object with Entity Framework Core 2.2
+	
 ##### Library
 - [Value](https://github.com/tpierrain/Value)
 	> a pico library (or code snippets shed) to help you to easily implement Value Types in your C# projects without making errors nor polluting your domain logic with boiler-plate code.
@@ -1849,6 +1856,9 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ### Resources
 - [Anti Patterns](https://deviq.com/antipatterns/antipatterns-overview) - DevIQ
 
+#### Articles
+- [Don't POOP - The Partial/Optional Object Population Anti-Pattern](https://scotthannen.org/blog/2021/04/19/partial-optional-object-population.html)
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -2146,17 +2156,16 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ## RESTful API Design
 
 ### 📝 Articles
-- [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
-- [Richardson Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html)
+- [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
+- [Design Guidelines](http://apistylebook.com/design/guidelines/)
 - [Web API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+- [Richardson Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html)
 - [RESTful API Design: 13 Best Practices to Make Your Users Happy](https://florimond.dev/blog/articles/2018/08/restful-api-design-13-best-practices-to-make-your-users-happy/)
 - [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 - [Design Guidelines](http://apistylebook.com/design/guidelines/)
 - [The Web API Checklist -- 43 Things To Think About When Designing, Testing, and Releasing your API](https://mathieu.fenniak.net/the-api-checklist/)
 - [Design Topics](http://apistylebook.com/design/topics/)
-- [Design Guidelines](http://apistylebook.com/design/guidelines/)
 - [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.2.md)
-
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
