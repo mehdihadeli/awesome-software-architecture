@@ -520,7 +520,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Core Decisions in Event-Driven Architecture - Duana Stanley](https://www.youtube.com/watch?v=SKXS2h3MdPM)
 - [Creating event-driven microservices: the why, how and what by Andrew Schofield](https://www.youtube.com/watch?v=ksRCq0BJef8)
 - [What's an Event Driven System?](https://www.youtube.com/watch?v=rJHTK2TfZ1I)
-
+- [Event Based Architecture: What do you mean by EVENT?](https://www.youtube.com/watch?v=qKD2YUTJAXM)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -836,6 +836,18 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
+
+### Strangler Fig pattern
+
+#### Articles
+- [Strangler Fig pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/strangler-fig)
+
+#### Samples
+- [VisualReCode/Cocoon](https://github.com/VisualReCode/Cocoon)
+	> An implementation of the Strangler Fig pattern for ASP.NET Core
+
+
+
 ### Ambassador pattern
 
 #### Articles
@@ -985,7 +997,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [AVOID Entity Services by Focusing on Capabilities](https://codeopinion.com/avoid-entity-services-by-focusing-on-capabilities/)
 - [Domains and Subdomains](https://thedomaindrivendesign.io/domains-and-subdomains/)
 - [Scaffold Your Clean DDD Web Application - Part 6: Domain-Driven Design Workflow Patterns](https://blog.jacobsdata.com/2021/04/11/scaffold-your-clean-ddd-web-application-part-6-domain-driven-design-workflow-patterns)
-
+- [Domain-Driven Architecture Diagrams](https://medium.com/nick-tune-tech-strategy-blog/domain-driven-architecture-diagrams-139a75acb578)
 #### 📹 Videos
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU)
@@ -1059,6 +1071,9 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 	
 - [VirtoCommerce/vc-storefront](https://github.com/VirtoCommerce/vc-storefront)	
 	> VirtoCommerce Storefront for ASP.NET Core 3.1 repository
+
+- [VirtoCommerce/vc-module-customer](https://github.com/VirtoCommerce/vc-module-customer/)
+	> Contacts management module
 	
 - [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce)
 	> The most popular open-source eCommerce shopping cart solution based on ASP.NET Core
@@ -1845,8 +1860,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [The Twelve-Factor App](https://12factor.net/)
 
 #### Videos
- - [ASP.NET Community Standup - The 12 Factor App](https://www.youtube.com/watch?v=xRlDuXJ3t08&t=894s&ab_channel=dotNET)
-
+ - [ASP.NET Community Standup - The 12 Factor App](https://www.youtube.com/watch?v=xRlDuXJ3t08)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
