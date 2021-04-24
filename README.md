@@ -1068,6 +1068,9 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 
 - [smartstore/Smartstore](https://github.com/smartstore/Smartstore)
 	> Open Source ASP.NET Core Enterprise eCommerce Shopping Cart Solution
+
+- [VirtoCommerce/vc-platform](https://github.com/VirtoCommerce/vc-platform)	
+	> VirtoCommerce Platform repository
 	
 - [VirtoCommerce/vc-storefront](https://github.com/VirtoCommerce/vc-storefront)	
 	> VirtoCommerce Storefront for ASP.NET Core 3.1 repository
