@@ -7,7 +7,7 @@
 
 ![](./banner.png)
 
-> Collection of useful Articles and resources to learn and practice about software architecture, patterns and principles. this repository will be updated continuously, keep yourself up to date
+> Curated list of awesome articles and resources to learn and practice about software architecture, patterns and principles. this repository will be updated continuously, keep yourself up to date
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-software-architecture/blob/master/contributing.md) pages first.
 
