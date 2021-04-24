@@ -721,6 +721,7 @@ If you think this repository makes a difference and is worth it, please share it
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
 ### Repository Pattern
 
 #### 📝 Articles
@@ -739,6 +740,7 @@ If you think this repository makes a difference and is worth it, please share it
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
 ### Query Object Pattern
 
 #### 📝 Articles
@@ -749,6 +751,7 @@ If you think this repository makes a difference and is worth it, please share it
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
 ### Decorator Pattern
 
 #### 📝 Articles
@@ -770,6 +773,7 @@ If you think this repository makes a difference and is worth it, please share it
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
 ### Strategy Pattern
 
 #### 📝 Articles
@@ -913,6 +917,7 @@ If you think this repository makes a difference and is worth it, please share it
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
 ###  Gateway Routing
 
 <div align="right">
@@ -943,18 +948,23 @@ If you think this repository makes a difference and is worth it, please share it
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
 ###  Sidecar
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
 ###  Throttling
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
 ###  Valet Key
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
 ### At-least-Once Delivery (Outbox Pattern)
 
 #### 📝 Articles
@@ -1081,19 +1091,8 @@ If you think this repository makes a difference and is worth it, please share it
 
 - [smartstore/SmartStoreNET](https://github.com/smartstore/SmartStoreNET) > Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution
 
-<<<<<<< HEAD
-- [smartstore/Smartstore](https://github.com/smartstore/Smartstore)
-	> Open Source ASP.NET Core Enterprise eCommerce Shopping Cart Solution
-
-- [VirtoCommerce/vc-platform](https://github.com/VirtoCommerce/vc-platform)	
-	> VirtoCommerce Platform repository
-	
-- [VirtoCommerce/vc-storefront](https://github.com/VirtoCommerce/vc-storefront)	
-	> VirtoCommerce Storefront for ASP.NET Core 3.1 repository
-=======
 - [smartstore/Smartstore](https://github.com/smartstore/Smartstore) > Open Source ASP.NET Core Enterprise eCommerce Shopping Cart Solution
 - [VirtoCommerce/vc-storefront](https://github.com/VirtoCommerce/vc-storefront) > VirtoCommerce Storefront for ASP.NET Core 3.1 repository
->>>>>>> 22a68a9db05e38e4697bdea902ec638243900be7
 
 - [VirtoCommerce/vc-module-customer](https://github.com/VirtoCommerce/vc-module-customer/) > Contacts management module
 - [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce) > The most popular open-source eCommerce shopping cart solution based on ASP.NET Core
@@ -1180,6 +1179,7 @@ If you think this repository makes a difference and is worth it, please share it
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
 #### Bounded Context
 
 ##### 📝 Articles
@@ -1448,24 +1448,42 @@ If you think this repository makes a difference and is worth it, please share it
 
 #### Library
 
-- [https://github.com/gautema/CQRSlite](https://github.com/gautema/CQRSlite) > A lightweight framework to help creating CQRS and Eventsourcing applications in C#
+- [https://github.com/gautema/CQRSlite](https://github.com/gautema/CQRSlite) 
+  > A lightweight framework to help creating CQRS and Eventsourcing applications in C#
 
 #### 🔖 Samples
 
-- [sample-dotnet-core-cqrs-api](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - Kamil Grzybek > Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
-- [run-aspnetcore-cqrs](https://github.com/aspnetrun/run-aspnetcore-cqrs) - AspNetRun > Real world Enterprise CRM application example of ASP.NET Core + Angular web application. Implemented CQRS Design Pattern for ASP.NET Core + Angular reference application, demonstrating a layered application architecture with DDD
+- [sample-dotnet-core-cqrs-api](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - Kamil Grzybek 
+  > Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
+- [run-aspnetcore-cqrs](https://github.com/aspnetrun/run-aspnetcore-cqrs) - AspNetRun 
+  > Real world Enterprise CRM application example of ASP.NET Core + Angular web application. Implemented CQRS Design Pattern for ASP.NET Core + Angular reference application, demonstrating a layered application architecture with DDD
 
-- [CQRS](https://github.com/tpierrain/CQRS) > A simple project to explain CQRS during a live coding session at MS experiences'16
-- [ChristDDD](https://github.com/anjoy8/ChristDDD) > 🙌 ASP.NET Core 3.1 应用, 包含 DDD、CQRS、EDA 和 ES 事件回溯
+- [CQRS](https://github.com/tpierrain/CQRS) 
+  > A simple project to explain CQRS during a live coding session at MS experiences'16
+- [ChristDDD](https://github.com/anjoy8/ChristDDD) 
+  > 🙌 ASP.NET Core 3.1 应用, 包含 DDD、CQRS、EDA 和 ES 事件回溯
 
-- [Reddnet](https://github.com/moritz-mm/Reddnet) > A mini Reddit written in ASP.NET Core 5.0
+- [Reddnet](https://github.com/moritz-mm/Reddnet) 
+  > A mini Reddit written in ASP.NET Core 5.0
 
-- [grandnode/grandnode](https://github.com/grandnode/grandnode) > Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB
+- [grandnode/grandnode](https://github.com/grandnode/grandnode) 
+  > Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB
 
-- [smartstore/SmartStoreNET](https://github.com/smartstore/SmartStoreNET) > Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution
+- [smartstore/SmartStoreNET](https://github.com/smartstore/SmartStoreNET) 
+  > Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution
 
-- [VirtoCommerce/vc-storefront](https://github.com/VirtoCommerce/vc-storefront) > VirtoCommerce Storefront for ASP.NET Core 3.1 repository
-- [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce) > The most popular open-source eCommerce shopping cart solution based on ASP.NET Core
+- [VirtoCommerce/vc-storefront](https://github.com/VirtoCommerce/vc-storefront) 
+  > VirtoCommerce Storefront for ASP.NET Core 3.1 repository
+
+- [vc-platform](https://github.com/VirtoCommerce/vc-platform)
+  > VirtoCommerce Platform repository
+
+- [vc-module-customer](https://github.com/VirtoCommerce/vc-module-customer)
+  > Contacts management module
+
+- [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce) 
+  > The most popular open-source eCommerce shopping cart solution based on ASP.NET Core
+
 - [trueai-org/module-shop](https://github.com/trueai-org/module-shop)
 
 <div align="right">
@@ -1569,38 +1587,63 @@ If you think this repository makes a difference and is worth it, please share it
 
 - [tye](https://github.com/dotnet/tye)
   > Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
-- [Rebus](https://github.com/rebus-org/Rebus) > 🚌 Simple and lean service bus implementation for .NET
 
-- [confluent-kafka-dotnet](https://github.com/confluentinc/confluent-kafka-dotnet/) > Confluent's Apache Kafka .NET client
+- [Rebus](https://github.com/rebus-org/Rebus) 
+  > 🚌 Simple and lean service bus implementation for .NET
 
-- [CAP](https://github.com/dotnetcore/CAP) > Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
+- [confluent-kafka-dotnet](https://github.com/confluentinc/confluent-kafka-dotnet/) 
+  > Confluent's Apache Kafka .NET client
 
-- [MassTransit](https://github.com/MassTransit/MassTransit) > Distributed Application Framework for .NET
+- [CAP](https://github.com/dotnetcore/CAP) 
+  > Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
 
-- [Brighter](https://github.com/BrighterCommand/Brighter) > Command Dispatcher, Processor, and Distributed Task Queue
-- [reverse-proxy](https://github.com/microsoft/reverse-proxy) > YARP: A toolkit for developing high-performance HTTP reverse proxy applications.
+- [MassTransit](https://github.com/MassTransit/MassTransit) 
+  > Distributed Application Framework for .NET
 
-- [abp](https://github.com/abpframework/abp) > Open Source Web Application Framework for ASP.NET Core
+- [Brighter](https://github.com/BrighterCommand/Brighter) 
+  > Command Dispatcher, Processor, and Distributed Task Queue
 
-- [Kledex](https://github.com/lucabriguglia/Kledex) > .NET Standard framework to create simple and clean design. Advanced features for DDD, CQRS and Event Sourcing.
-- [microdot](https://github.com/gigya/microdot) > Microdot: An open source .NET microservices framework
-- [Steeltoe](https://github.com/SteeltoeOSS/Steeltoe) > Steeltoe .NET Core Components: CircuitBreaker, Configuration, Connectors, Discovery, Logging, Management, and Security
-- [Foundatio](https://github.com/FoundatioFx/Foundatio) > Pluggable foundation blocks for building distributed apps.
-- [Enbiso.NLib](https://github.com/enbiso/Enbiso.NLib) > .Net Standard Libraries for Microservices
+- [reverse-proxy](https://github.com/microsoft/reverse-proxy) 
+  > YARP: A toolkit for developing high-performance HTTP reverse proxy applications.
 
-- [knightbus](https://github.com/BookBeat/knightbus) > Fast multi-transport messaging framework
+- [abp](https://github.com/abpframework/abp) 
+  > Open Source Web Application Framework for ASP.NET Core
 
-- [Platibus](https://github.com/sweetlandj/Platibus) > Decentralized asynchronous messaging framework
+- [Kledex](https://github.com/lucabriguglia/Kledex) 
+  > .NET Standard framework to create simple and clean design. Advanced features for DDD, CQRS and Event Sourcing.
+
+- [microdot](https://github.com/gigya/microdot) 
+  > Microdot: An open source .NET microservices framework
+
+- [Steeltoe](https://github.com/SteeltoeOSS/Steeltoe) 
+  > Steeltoe .NET Core Components: CircuitBreaker, Configuration, Connectors, Discovery, Logging, Management, and Security
+
+- [Foundatio](https://github.com/FoundatioFx/Foundatio) 
+  > Pluggable foundation blocks for building distributed apps.
+
+- [Enbiso.NLib](https://github.com/enbiso/Enbiso.NLib) 
+  > .Net Standard Libraries for Microservices
+
+- [knightbus](https://github.com/BookBeat/knightbus) 
+  > Fast multi-transport messaging framework
+
+- [Platibus](https://github.com/sweetlandj/Platibus) 
+  > Decentralized asynchronous messaging framework
 - [MicroBus is a simple in process Mediator for .NET](https://github.com/daniellittledev/Enexure.MicroBus) > MicroBus is a simple in process Mediator for .NET
-- [Mediator.Net](https://github.com/mayuanyang/Mediator.Net) > A simple mediator for .Net for sending command, publishing event and request response with pipelines supported
+- [Mediator.Net](https://github.com/mayuanyang/Mediator.Net) 
+  > A simple mediator for .Net for sending command, publishing event and request response with pipelines supported
 
-- [Brighter](https://github.com/BrighterCommand/Brighter.git) > Command Dispatcher, Processor, and Distributed Task Queue
+- [Brighter](https://github.com/BrighterCommand/Brighter.git) 
+  > Command Dispatcher, Processor, and Distributed Task Queue
 
-- [Darker](https://github.com/BrighterCommand/Darker) > The query-side counterpart of Brighter
+- [Darker](https://github.com/BrighterCommand/Darker) 
+  > The query-side counterpart of Brighter
 
-- [surging](https://github.com/fanliang11/surging) > Surging is a micro-service engine that provides a lightweight, high-performance, modular RPC request pipeline. The service engine supports http, TCP, WS,Grpc, Thrift,Mqtt, UDP, and DNS protocols. It uses ZooKeeper and Consul as a registry, and integrates it. Hash, random, polling, Fair Polling as a load balancing algorithm,
+- [surging](https://github.com/fanliang11/surging) 
+  > Surging is a micro-service engine that provides a lightweight, high-performance, modular RPC request pipeline. The service engine supports http, TCP, WS,Grpc, Thrift,Mqtt, UDP, and DNS protocols. It uses ZooKeeper and Consul as a registry, and integrates it. Hash, random, polling, Fair Polling as a load balancing algorithm,
 
-- [FamilyBucket](https://github.com/q315523275/FamilyBucket) > 集合.net core、ocelot、consul、netty、rpc、eventbus、configserver、tracing、sqlsugar、vue-admin、基础管理平台等构建的微服务一条龙应用
+- [FamilyBucket](https://github.com/q315523275/FamilyBucket) 
+  > 集合.net core、ocelot、consul、netty、rpc、eventbus、configserver、tracing、sqlsugar、vue-admin、基础管理平台等构建的微服务一条龙应用
 
 #### Books
 
@@ -1609,39 +1652,51 @@ If you think this repository makes a difference and is worth it, please share it
 #### 🔖 Samples
 
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers)
-
   > Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
 
 - [coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - Thang Chung
-
   > A full-stack .NET microservices build on Dapr and Tye
 
 - [practical-dapr](https://github.com/thangchung/practical-dapr) - Thang Chung
-
   > A full-stack .NET microservices build on Dapr and Tye
 
-- [eShopOnContainersDDD](https://github.com/charlessolar/eShopOnContainersDDD) > Fork of dotnet-architecture/eShopOnContainers in full DDD/CQRS design using my own patterns
-- [dapr-tye-simple-microservices](https://github.com/kimcu-on-thenet/dapr-tye-simple-microservices)
+- [eShopOnContainersDDD](https://github.com/charlessolar/eShopOnContainersDDD) 
+  > Fork of dotnet-architecture/eShopOnContainers in full DDD/CQRS design using my own patterns
 
+- [dapr-tye-simple-microservices](https://github.com/kimcu-on-thenet/dapr-tye-simple-microservices)
   > An example of building .NET Core microservices with Dapr and Tye
 
-- [run-aspnetcore-microservices](https://github.com/aspnetrun/run-aspnetcore-microservices) - AspNetRun > Microservices on .Net platforms which used Asp.Net Web API, Docker, RabbitMQ, Ocelot API Gateway, MongoDB, Redis, SqlServer, Entity Framework Core, CQRS and Clean Architecture implementation. See Microservices Architecture and Step by Step Implementation on .NET Course w/ discount
-- [run-aspnet-identityserver4](https://github.com/aspnetrun/run-aspnet-identityserver4) - AspNetRun > Secure microservices with using standalone Identity Server 4 and backing with Ocelot API Gateway. Protect our ASP.NET Web MVC and API applications with using OAuth 2 and OpenID Connect in IdentityServer4. Securing your web application and API with tokens, working with claims, authentication and authorization middlewares and applying policies.
-- [ModernArchitectureShop](https://github.com/alugili/ModernArchitectureShop) - Bassam Alugili > The Microservices Online Shop is an application with a modern software architecture that is cleanly designed and based on.NET lightweight technologies. The shop has two build variations. The first variant is the classic Microservices Architectural Style. The second one is with Dapr. Dapr has a comprehensive infrastructure
+- [run-aspnetcore-microservices](https://github.com/aspnetrun/run-aspnetcore-microservices) - AspNetRun 
+  > Microservices on .Net platforms which used Asp.Net Web API, Docker, RabbitMQ, Ocelot API Gateway, MongoDB, Redis, SqlServer, Entity Framework Core, CQRS and Clean Architecture implementation. See Microservices Architecture and Step by Step Implementation on .NET Course w/ discount
 
-- [run-aspnet-grpc](https://github.com/aspnetrun/run-aspnet-grpc) - AspNetRun > Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5. See gRPC Microservices and Step by Step Implementation on .NET Course w/ discount->
+- [run-aspnet-identityserver4](https://github.com/aspnetrun/run-aspnet-identityserver4) - AspNetRun 
+  > Secure microservices with using standalone Identity Server 4 and backing with Ocelot API Gateway. Protect our ASP.NET Web MVC and API applications with using OAuth 2 and OpenID Connect in IdentityServer4. Securing your web application and API with tokens, working with claims, authentication and authorization middlewares and applying policies.
+
+- [ModernArchitectureShop](https://github.com/alugili/ModernArchitectureShop) - Bassam Alugili 
+  > The Microservices Online Shop is an application with a modern software architecture that is cleanly designed and based on.NET lightweight technologies. The shop has two build variations. The first variant is the classic Microservices Architectural Style. The second one is with Dapr. Dapr has a comprehensive infrastructure
+
+- [run-aspnet-grpc](https://github.com/aspnetrun/run-aspnet-grpc) - AspNetRun 
+  > Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5. See gRPC Microservices and Step by Step Implementation on .NET Course w/ discount->
 
 - [coolstore-microservice](https://github.com/jbossdemocentral/coolstore-microservice)
 
-- [practical-clean-ddd](https://github.com/thangchung/practical-clean-ddd) > A simplified and effortless approach to get started with Domain-driven Design, Clean Architecture, CQRS, and Microservices patterns
-- [shopping-cart-k8s](https://github.com/thangchung/shopping-cart-k8s) > Service Mesh patterns for Microservices
+- [practical-clean-ddd](https://github.com/thangchung/practical-clean-ddd) 
+  > A simplified and effortless approach to get started with Domain-driven Design, Clean Architecture, CQRS, and Microservices patterns
 
-- [Aggregates.NET](https://github.com/charlessolar/Aggregates.NET) > .NET event sourced domain driven design model via NServiceBus and GetEventStore
+- [shopping-cart-k8s](https://github.com/thangchung/shopping-cart-k8s) 
+  > Service Mesh patterns for Microservices
 
-- [ViennaNET](https://github.com/Raiffeisen-DGTL/ViennaNET) > Framework for quickly creating enterprise microservices on .NET Core
+- [Aggregates.NET](https://github.com/charlessolar/Aggregates.NET) 
+  > .NET event sourced domain driven design model via NServiceBus and GetEventStore
 
-- [MicroCouriers](https://github.com/ImranMA/MicroCouriers) > Microservices ASP.NET Core + Event Bus + Kubernetes + Design Patterns
-- [book-fast-service-fabric](https://github.com/dzimchuk/book-fast-service-fabric) > A sample demonstrating how to implement a multitenant facility management and accommodation booking application as native Azure Service Fabric reliable services.
+- [ViennaNET](https://github.com/Raiffeisen-DGTL/ViennaNET) 
+  > Framework for quickly creating enterprise microservices on .NET Core
+
+- [MicroCouriers](https://github.com/ImranMA/MicroCouriers) 
+  > Microservices ASP.NET Core + Event Bus + Kubernetes + Design Patterns
+
+- [book-fast-service-fabric](https://github.com/dzimchuk/book-fast-service-fabric) 
+  > A sample demonstrating how to implement a multitenant facility management and accommodation booking application as native Azure Service Fabric reliable services.
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -1683,7 +1738,8 @@ If you think this repository makes a difference and is worth it, please share it
 
   > An example of building .NET Core microservices with Dapr and Tye
 
-- [https://github.com/alugili/ModernArchitectureShop](https://github.com/alugili/ModernArchitectureShop) - Bassam Alugili > The Microservices Online Shop is an application with a modern software architecture that is cleanly designed and based on.NET lightweight technologies. The shop has two build variations. The first variant is the classic Microservices Architectural Style. The second one is with Dapr. Dapr has a comprehensive infrastructure
+- [https://github.com/alugili/ModernArchitectureShop](https://github.com/alugili/ModernArchitectureShop) - Bassam Alugili 
+  > The Microservices Online Shop is an application with a modern software architecture that is cleanly designed and based on.NET lightweight technologies. The shop has two build variations. The first variant is the classic Microservices Architectural Style. The second one is with Dapr. Dapr has a comprehensive infrastructure
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -1699,13 +1755,17 @@ If you think this repository makes a difference and is worth it, please share it
 
 #### Samples
 
-- [surging](https://github.com/fanliang11/surging) > Surging is a micro-service engine that provides a lightweight, high-performance, modular RPC request pipeline. The service engine supports http, TCP, WS,Grpc, Thrift,Mqtt, UDP, and DNS protocols. It uses ZooKeeper and Consul as a registry, and integrates it. Hash, random, polling, Fair Polling as a load balancing algorithm,
+- [surging](https://github.com/fanliang11/surging) 
+  > Surging is a micro-service engine that provides a lightweight, high-performance, modular RPC request pipeline. The service engine supports http, TCP, WS,Grpc, Thrift,Mqtt, UDP, and DNS protocols. It uses ZooKeeper and Consul as a registry, and integrates it. Hash, random, polling, Fair Polling as a load balancing algorithm,
 
-- [FamilyBucket](https://github.com/q315523275/FamilyBucket) > 集合.net core、ocelot、consul、netty、rpc、eventbus、configserver、tracing、sqlsugar、vue-admin、基础管理平台等构建的微服务一条龙应用
+- [FamilyBucket](https://github.com/q315523275/FamilyBucket) 
+  > .net core、ocelot、consul、netty、rpc、eventbus、configserver、tracing、sqlsugar、vue-admin
 
-- [GrpcConsul](https://github.com/pchalamet/GrpcConsul) > Sample for GRPC + Consul + dynamic endpoint for .net
+- [GrpcConsul](https://github.com/pchalamet/GrpcConsul) 
+  > Sample for GRPC + Consul + dynamic endpoint for .net
 
-- [Kit.ServiceDiscovery](https://github.com/Chatham/Kit.ServiceDiscovery) > Service discovery kit for .NET microservices
+- [Kit.ServiceDiscovery](https://github.com/Chatham/Kit.ServiceDiscovery)
+   > Service discovery kit for .NET microservices
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -1816,6 +1876,7 @@ If you think this repository makes a difference and is worth it, please share it
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
 ## Clean Code
 
 ### 📝 Articles
@@ -1832,7 +1893,8 @@ If you think this repository makes a difference and is worth it, please share it
 
 ### Resources
 
-- [https://github.com/thangchung/clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet) - Thang Chung > 🛁 Clean Code concepts and tools adapted for .NET
+- [https://github.com/thangchung/clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet) - Thang Chung 
+  > 🛁 Clean Code concepts and tools adapted for .NET
   <div align="right">
     <b><a href="#contents">↥ Back To Top</a></b>
   </div>
@@ -1859,6 +1921,7 @@ If you think this repository makes a difference and is worth it, please share it
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
 ### Strongly Typed Ids
 
 #### 📝 Articles
@@ -1892,6 +1955,7 @@ If you think this repository makes a difference and is worth it, please share it
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
 ### Code Smells
 
 #### 📝 Articles
@@ -1964,43 +2028,88 @@ If you think this repository makes a difference and is worth it, please share it
 
 ### Library
 
-- [Enexure.MicroBus](https://github.com/Lavinski/Enexure.MicroBus) > MicroBus is a simple in process Mediator for .NET
+- [Enexure.MicroBus](https://github.com/Lavinski/Enexure.MicroBus) 
+  > MicroBus is a simple in process Mediator for .NET
 
-- [Foundatio](https://github.com/exceptionless/Foundatio) > A common interface with in memory, redis and azure implementations.
-- [Kledex](https://github.com/lucabriguglia/Kledex) > .NET Standard framework to create simple and clean design. Advanced features for DDD, CQRS and Event Sourcing.
-- [Mediator.Net](https://github.com/mayuanyang/Mediator.Net) > A simple mediator for .Net for sending command, publishing event and request response with pipelines supported.
-- [MQTTnet](https://github.com/chkr1011/MQTTnet) > TTnet is a high performance .NET library for MQTT based communication.
-- [OpenCQRS](https://github.com/OpenCQRS/OpenCQRS) > .NET Core library for DDD, CQRS and Event Sourcing with Azure Service Bus integration. Supported database providers for the Command and the Event stores are: DocumentDB, MongoDB, SQL Server, MySQL, PostgreSQL and SQLite.
-- [Rebus](https://github.com/rebus-org/Rebus) > Simple and lean service bus implementation for .NET.
-- [RestBus](https://github.com/tenor/RestBus) > Messaging library for RabbitMq.
-- [tossit](https://github.com/turgayozgur/tossit) > Simple, easy to use library for distributed job/worker logic. Distributed messages handled by built in RabbitMQ implementation.
-- [Steeltoe](https://github.com/SteeltoeOSS/Steeltoe) > Steeltoe .NET Core Components: CircuitBreaker, Configuration, Connectors, Discovery, Logging, Management, and Security
-- [MetroBus](https://github.com/GokGokalp/MetroBus) > Lightweight messaging wrapper of
-- [Abp](https://github.com/abpframework/abp/tree/15589f4c1fbd6323cc80a5ce597b1ebf32d9eb07/framework/src/Volo.Abp.EventBus) > Open Source Web Application Framework for ASP.NET Core
-- [OpenSleigh](https://github.com/mizrael/OpenSleigh) > OpenSleigh is a Saga management library for .NET Core.
+- [Foundatio](https://github.com/exceptionless/Foundatio) 
+  > A common interface with in memory, redis and azure implementations.
 
-- [knightbus](https://github.com/BookBeat/knightbus) > Fast multi-transport messaging framework
+- [Kledex](https://github.com/lucabriguglia/Kledex) 
+  > .NET Standard framework to create simple and clean design. Advanced features for DDD, CQRS and Event Sourcing.
 
-- [SlimMessageBus](https://github.com/zarusz/SlimMessageBus) > Lightweight message bus interface for .NET (pub/sub and request-response) with transport plugins for popular message brokers.
-- [silverback](https://github.com/BEagle1984/silverback) > Silverback is a simple but feature-rich framework to build reactive/event-driven applications or microservices with .net core.
-- [Obvs](https://github.com/christopherread/Obvs) > An observable microservice bus library for .NET, that wraps the underlying message transports in simple Rx based interfaces.
-- [Platibus](https://github.com/sweetlandj/Platibus) > Decentralized asynchronous messaging framework
+- [Mediator.Net](https://github.com/mayuanyang/Mediator.Net) 
+  > A simple mediator for .Net for sending command, publishing event and request response with pipelines supported.
 
-- [EventBus](https://github.com/jacqueskang/EventBus) > A .NET Core ultra lightweight in-memory event bus implementation.
-- [Enbiso.NLib](https://github.com/enbiso/Enbiso.NLib) > .Net Standard Libraries for Microservices
+- [MQTTnet](https://github.com/chkr1011/MQTTnet) 
+  > TTnet is a high performance .NET library for MQTT based communication.
 
-- [eventbus](https://github.com/tinglesoftware/eventbus) > A simple Event Bus abstraction layer for working with events in .NET.
+- [OpenCQRS](https://github.com/OpenCQRS/OpenCQRS) 
+  > .NET Core library for DDD, CQRS and Event Sourcing with Azure Service Bus integration. Supported database providers for the Command and the Event stores are: DocumentDB, MongoDB, SQL Server, MySQL, PostgreSQL and SQLite.
 
-- [AzureFromTheTrenches.Commanding](https://github.com/JamesRandall/AzureFromTheTrenches.Commanding) > A configuration based commanding and mediator framework that supports command dispatch and execution in-process, over HTTP or over Azure Storage Queues. Written to .NET Standard 2.0 and supports many popular runtimes including .NET Core and .NET 4.6.x.
+- [Rebus](https://github.com/rebus-org/Rebus) 
+  > Simple and lean service bus implementation for .NET.
 
-- [Brighter](https://github.com/BrighterCommand/Brighter.git) > Command Dispatcher, Processor, and Distributed Task Queue
+- [RestBus](https://github.com/tenor/RestBus) 
+  > Messaging library for RabbitMq.
 
-- [Darker](https://github.com/BrighterCommand/Darker) > The query-side counterpart of Brighter
+- [tossit](https://github.com/turgayozgur/tossit) 
+  > Simple, easy to use library for distributed job/worker logic. Distributed messages handled by built in RabbitMQ implementation.
+
+- [Steeltoe](https://github.com/SteeltoeOSS/Steeltoe) 
+  > Steeltoe .NET Core Components: CircuitBreaker, Configuration, Connectors, Discovery, Logging, Management, and Security
+
+- [MetroBus](https://github.com/GokGokalp/MetroBus) 
+  > Lightweight messaging wrapper of
+
+- [Abp](https://github.com/abpframework/abp/tree/15589f4c1fbd6323cc80a5ce597b1ebf32d9eb07/framework/src/Volo.Abp.EventBus) 
+  > Open Source Web Application Framework for ASP.NET Core
+
+- [OpenSleigh](https://github.com/mizrael/OpenSleigh) 
+  > OpenSleigh is a Saga management library for .NET Core.
+
+- [knightbus](https://github.com/BookBeat/knightbus) 
+  > Fast multi-transport messaging framework
+
+- [SlimMessageBus](https://github.com/zarusz/SlimMessageBus) 
+  > Lightweight message bus interface for .NET (pub/sub and request-response) with transport plugins for popular message brokers.
+
+- [silverback](https://github.com/BEagle1984/silverback) 
+  > Silverback is a simple but feature-rich framework to build reactive/event-driven applications or microservices with .net core.
+
+- [Obvs](https://github.com/christopherread/Obvs) 
+  > An observable microservice bus library for .NET, that wraps the underlying message transports in simple Rx based interfaces.
+
+- [Platibus](https://github.com/sweetlandj/Platibus) 
+  > Decentralized asynchronous messaging framework
+
+- [EventBus](https://github.com/jacqueskang/EventBus) 
+  > A .NET Core ultra lightweight in-memory event bus implementation.
+
+- [Enbiso.NLib](https://github.com/enbiso/Enbiso.NLib) 
+  > .Net Standard Libraries for Microservices
+
+- [eventbus](https://github.com/tinglesoftware/eventbus) 
+  > A simple Event Bus abstraction layer for working with events in .NET.
+
+- [AzureFromTheTrenches.Commanding](https://github.com/JamesRandall/AzureFromTheTrenches.Commanding) 
+  > A configuration based commanding and mediator framework that supports command dispatch and execution in-process, over HTTP or over Azure Storage Queues. Written to .NET Standard 2.0 and supports many popular runtimes including .NET Core and .NET 4.6.x.
+
+- [Brighter](https://github.com/BrighterCommand/Brighter.git) 
+  > Command Dispatcher, Processor, and Distributed Task Queue
+
+- [Darker](https://github.com/BrighterCommand/Darker) 
+  > The query-side counterpart of Brighter
 
 - [MassTransit](https://github.com/MassTransit/MassTransit) > Distributed Application Framework for .NET
-- [ViennaNET](https://github.com/Raiffeisen-DGTL/ViennaNET) > Framework for quickly creating enterprise microservices on .NET Core
-- [Fabrik.SimpleBus](https://github.com/benfoster/Fabrik.SimpleBus) > A simple In-Process Message Bus for .NET
-- [MemBus](https://github.com/flq/MemBus/tree/master/MemBus) > Pure In-Memory Publish/Subscribe .NET Bus
+
+- [ViennaNET](https://github.com/Raiffeisen-DGTL/ViennaNET) 
+   > Framework for quickly creating enterprise microservices on .NET Core
+
+- [Fabrik.SimpleBus](https://github.com/benfoster/Fabrik.SimpleBus) 
+  > A simple In-Process Message Bus for .NET
+
+- [MemBus](https://github.com/flq/MemBus/tree/master/MemBus) 
+  > Pure In-Memory Publish/Subscribe .NET Bus
 
 ### Books
 
