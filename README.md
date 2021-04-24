@@ -266,77 +266,89 @@ If you think this repository makes a difference and is worth it, please share it
 
 #### 🔖 Samples
 
-- [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) > Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
+- [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) 
+	> Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
+	
 - [acobsDataSolutions/OrgManager](https://github.com/JacobsDataSolutions/OrgManager) - Jacobs Data
-  > CQRS and Clean Domain-Driven Design concepts on the ASP.NET Core stack. Demo application for a fictional corporate organization management tool.
+	> CQRS and Clean Domain-Driven Design concepts on the ASP.NET Core stack. Demo application for a fictional corporate organization management tool.
+	
 - [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Jason Taylor
-
-  > Clean Architecture Solution Template for Angular 10 and .NET 5 - [Project Template (nuget package)](https://www.nuget.org/packages/Clean.Architecture.Solution.Template)
+	> Clean Architecture Solution Template for Angular 10 and .NET 5 - [Project Template (nuget package)](https://www.nuget.org/packages/Clean.Architecture.Solution.Template)
 
 - [EduardoPires/EquinoxProject](https://github.com/EduardoPires/EquinoxProject) - Eduardo Pires
-
   > Full ASP.NET Core 3.1 application with DDD, CQRS and Event Sourcing concepts
 
 - [ardalis/cleanarchitecture](https://github.com/ardalis/cleanarchitecture) - Steve Smith
-
   > A starting point for Clean Architecture with ASP.NET Core - [Project Template (visual studio extension)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.CleanArchitecture)
 
-- [pereiren/dotnet-template-onion](https://github.com/pereiren/dotnet-template-onion) > Onion Architecture with .NET 5/.NET Core and CQRS/Event Sourcing following a DDD approach
-- [NNVTV/NetCore-Clean-Architecture](https://github.com/INNVTV/NetCore-Clean-Architecture) - INNVTV > .Net Core starter project for clean architecture showcasing use of the CQRS pattern, MediatR and custom Middleware for cross-cutting concerns, micro-service communications with REST/OpenAPI, Swagger, Webhooks and gRPC endpoints, CosmosDB for data and Serilog for logging.
-- [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - Steve Smith
+- [pereiren/dotnet-template-onion](https://github.com/pereiren/dotnet-template-onion) 
+  > Onion Architecture with .NET 5/.NET Core and CQRS/Event Sourcing following a DDD approach
+- [NNVTV/NetCore-Clean-Architecture](https://github.com/INNVTV/NetCore-Clean-Architecture) - INNVTV 
+  > .Net Core starter project for clean architecture showcasing use of the CQRS pattern, MediatR and custom Middleware for cross-cutting concerns, micro-service communications with REST/OpenAPI, Swagger, Webhooks and gRPC endpoints, CosmosDB for data and Serilog for logging.
 
+- [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - Steve Smith
   > Sample ASP.NET Core 5.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.
 
 - [matthewrenze/clean-architecture-demo](https://github.com/matthewrenze/clean-architecture-demo) - Matthew Renze
-
   > A sample app for my presentation on Clean Architecture: Patterns, Practices, and Principles
 
 - [jasontaylordev/NorthwindTraders](https://github.com/jasontaylordev/NorthwindTraders) - Jason Taylor
-
   > Northwind Traders is a sample application built using ASP.NET Core and Entity Framework Core.
 
-- [hgraca/explicit-architecture-php](https://github.com/hgraca/explicit-architecture-php) - Herberto Graca > This repository is a demo of Explicit Architecture, using the Symfony Demo Application.
-- [mmacneil/CleanAspNetCoreWebApi](https://github.com/mmacneil/CleanAspNetCoreWebApi) - Mark Macneil
+- [hgraca/explicit-architecture-php](https://github.com/hgraca/explicit-architecture-php) - Herberto Graca 
+  > This repository is a demo of Explicit Architecture, using the Symfony Demo Application.
 
+- [mmacneil/CleanAspNetCoreWebApi](https://github.com/mmacneil/CleanAspNetCoreWebApi) - Mark Macneil
   > Starter project for creating APIs built on ASP.NET Core using clean architecture.
 
 - [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) - Ivan Paulovich
-
   > Clean Architecture with .NET5, C#9 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks
 
 - [Daniel-Krzyczkowski/CleanArchitectureWithDevSecOps](https://github.com/Daniel-Krzyczkowski/CleanArchitectureWithDevSecOps) - Daniel Krzyczkowski
-
   > This repository contains code samples related with clean software architecture and DevSecOps.
 
 - [aspnetcorehero/Boilerplate](https://github.com/aspnetcorehero/Boilerplate) - Mukesh Murugan
-
   > Clean Architecture Solution Template for ASP.NET Core 5.0. Built with Onion/Hexagonal Architecture and incorporates the most essential Packages your projects will ever need. Includes both WebApi and Web(MVC) Projects.
 
-- [fals/cqrs-clean-eventual-consistency](https://github.com/fals/cqrs-clean-eventual-consistency) - Filipe Augusto > CQRS, using Clean Architecture, multiple databases and Eventual Consistency
+- [fals/cqrs-clean-eventual-consistency](https://github.com/fals/cqrs-clean-eventual-consistency) - Filipe Augusto 
+  > CQRS, using Clean Architecture, multiple databases and Eventual Consistency
 
-- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - Rafael Garcia > Architecture .NET 5, ASP.NET Core 5, Entity Framework Core 5, C# 9, Angular 11, Clean Code, SOLID, DDD.
+- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - Rafael Garcia 
+  > Architecture .NET 5, ASP.NET Core 5, Entity Framework Core 5, C# 9, Angular 11, Clean Code, SOLID, DDD.
 
-- [kgrzybek/sample-dotnet-core-cqrs-api](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - Kamil Grzybek > Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
+- [kgrzybek/sample-dotnet-core-cqrs-api](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - Kamil Grzybek 
+  > Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
 
-- [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) > Asp.Net Core 5 Clean Architecture (Microservices, Modular Monolith, Monolith) samples (+Blazor, Angular 11, React 17, Vue 2.6), Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium E2E Testing, SignalR Notification, Hangfire Tasks Scheduling
+- [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) 
+  > Asp.Net Core 5 Clean Architecture (Microservices, Modular Monolith, Monolith) samples (+Blazor, Angular 11, React 17, Vue 2.6), Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium E2E Testing, SignalR Notification, Hangfire Tasks Scheduling
 
-- [aspnetrun/run-aspnetcore](https://github.com/aspnetrun/run-aspnetcore) - AspNetRun > A starter kit for your next ASP.NET Core web application. Boilerplate for ASP.NET Core reference application, demonstrating a layered application architecture with applying Clean Architecture and DDD
-- [aspnetrun/run-aspnetcore-cqrs](https://github.com/aspnetrun/run-aspnetcore-cqrs) - AspNetRun > Real world Enterprise CRM application example of ASP.NET Core + Angular web application. Implemented CQRS Design Pattern for ASP.NET Core + Angular reference application, demonstrating a layered application architecture with DDD
+- [aspnetrun/run-aspnetcore](https://github.com/aspnetrun/run-aspnetcore) - AspNetRun 
+  > A starter kit for your next ASP.NET Core web application. Boilerplate for ASP.NET Core reference application, demonstrating a layered application architecture with applying Clean Architecture and DDD
 
-- [aspnetrun/run-aspnetcore-realworld](https://github.com/aspnetrun/run-aspnetcore-realworld) - AspNetRun > E-Commerce real world example of run-aspnetcore ASP.NET Core web application. Implemented e-commerce domain with clean architecture for ASP.NET Core reference application, demonstrating a layered application architecture with DDD best practices.
+- [aspnetrun/run-aspnetcore-cqrs](https://github.com/aspnetrun/run-aspnetcore-cqrs) - AspNetRun 
+  > Real world Enterprise CRM application example of ASP.NET Core + Angular web application. Implemented CQRS Design Pattern for ASP.NET Core + Angular reference application, demonstrating a layered application architecture with DDD
 
-- [jacobduijzer/CleanArchitectureTemplate](https://github.com/jacobduijzer/CleanArchitectureTemplate) > A template for a dotnet core api / mvc "clean architecture" project.
+- [aspnetrun/run-aspnetcore-realworld](https://github.com/aspnetrun/run-aspnetcore-realworld) - AspNetRun 
+  > E-Commerce real world example of run-aspnetcore ASP.NET Core web application. Implemented e-commerce domain with clean architecture for ASP.NET Core reference application, demonstrating a layered application architecture with DDD best practices.
 
-- [CanerPatir/aspnet-core-clean-arch](https://github.com/CanerPatir/aspnet-core-clean-arch) > It is a clean architecture project template which is based on hexagonal-architecture principles built with .Net core.
+- [jacobduijzer/CleanArchitectureTemplate](https://github.com/jacobduijzer/CleanArchitectureTemplate) 
+  > A template for a dotnet core api / mvc "clean architecture" project.
+
+- [CanerPatir/aspnet-core-clean-arch](https://github.com/CanerPatir/aspnet-core-clean-arch) 
+  > It is a clean architecture project template which is based on hexagonal-architecture principles built with .Net core.
 - [techtribesje/techtribesje](https://github.com/techtribesje/techtribesje)
 
-- [thombergs/buckpal](https://github.com/thombergs/buckpal) > An example approach for implementing a Clean/Hexagonal Architecture
+- [thombergs/buckpal](https://github.com/thombergs/buckpal) 
+  > An example approach for implementing a Clean/Hexagonal Architecture
 
-- [proudmonkey/ApiBoilerPlate](https://github.com/proudmonkey/ApiBoilerPlate) > A simple yet organized project template for building ASP.NET Core APIs in .NET Core 3.1
+- [proudmonkey/ApiBoilerPlate](https://github.com/proudmonkey/ApiBoilerPlate) 
+  > A simple yet organized project template for building ASP.NET Core APIs in .NET Core 3.1
 
-- [blazorhero/CleanArchitecture](https://github.com/blazorhero/CleanArchitecture) > Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
+- [blazorhero/CleanArchitecture](https://github.com/blazorhero/CleanArchitecture) 
+  > Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
 
-- [Reddnet](https://github.com/moritz-mm/Reddnet) > A mini Reddit written in ASP.NET Core 5.0
+- [Reddnet](https://github.com/moritz-mm/Reddnet) 
+  > A mini Reddit written in ASP.NET Core 5.0
 
 #### Books
 
@@ -367,8 +379,11 @@ If you think this repository makes a difference and is worth it, please share it
 
 #### 🔖 Samples
 
-- [https://github.com/Amitpnk/Onion-architecture-ASP.NET-Core](https://github.com/Amitpnk/Onion-architecture-ASP.NET-Core) > WhiteApp API solution template which is built on Onion Architecture with all essential feature using .NET Core!
-- [https://github.com/pereiren/dotnet-template-onion](https://github.com/pereiren/dotnet-template-onion) > Onion Architecture with .NET 5/.NET Core and CQRS/Event Sourcing following a DDD approach
+- [https://github.com/Amitpnk/Onion-architecture-ASP.NET-Core](https://github.com/Amitpnk/Onion-architecture-ASP.NET-Core) 
+  > WhiteApp API solution template which is built on Onion Architecture with all essential feature using .NET Core!
+
+- [https://github.com/pereiren/dotnet-template-onion](https://github.com/pereiren/dotnet-template-onion) 
+  > Onion Architecture with .NET 5/.NET Core and CQRS/Event Sourcing following a DDD approach
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
