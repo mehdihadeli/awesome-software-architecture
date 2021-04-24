@@ -1,13 +1,13 @@
 # Awesome Software Architecture [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-![Twitter URL](https://img.shields.io/badge/-@mehdi_hadeli-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff) 
+![Twitter URL](https://img.shields.io/badge/-@mehdi_hadeli-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)
 [![blog](https://img.shields.io/badge/blog-dotnetuniversity.com-brightgreen?style=flat-square)](https://dotnetuniversity.com/)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](./contributing.md)
 ![Twitter URL](https://img.shields.io/twitter/url?label=Tweet&url=https%3A%2F%2Fgithub.com%2Fmehdihadeli%2Fawesome-software-architecture)
 
 ![](./banner.png)
 
-> Collection of useful Articles and resources to learn and practice about software architecture, patterns and principles. this repository will be updated continuously, keep yourself up to date 
+> Curated list of awesome articles and resources to learn and practice about software architecture, patterns and principles. this repository will be updated continuously, keep yourself up to date
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-software-architecture/blob/master/contributing.md) pages first.
 
@@ -15,14 +15,16 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-software-arc
 
 Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https://www.linkedin.com/in/mehdihadeli/) or [Twitter](https://twitter.com/mehdi_hadeli)!
 
-
 ## Give a Star! ⭐️
+
 My primary focus in this repository is on quality. Creating a good quality of resources. It takes a lot of time. If you like this, learned something or you are using it in your applications, please give it a star ⭐. This is the best motivation for me to continue this work. Thanks!
 
 ## Share It
+
 If you think this repository makes a difference and is worth it, please share it with your friends and on social networks. I will be extremely grateful.
 
 ## Contents
+
 - [Software Architecture](#software-architecture)
 - [Architectural Style](#architectural-style)
   - [Traditional N-Layer Architecture](traditional-n-layer-architecture)
@@ -47,8 +49,8 @@ If you think this repository makes a difference and is worth it, please share it
   - [DRY](#dry)
   - [KISS](#kiss)
   - [YAGNI](#yagni)
-  - [Minimize Coupling](#minimize-coupling) 
-  - [Maximize Cohesion](#maximize-cohesion) 
+  - [Minimize Coupling](#minimize-coupling)
+  - [Maximize Cohesion](#maximize-cohesion)
   - [Persistence Ignorance](#persistence-ignorance)
   - [GRASP](#grasp)
 - [Architectural Patterns](#architectural-patterns)
@@ -96,12 +98,14 @@ If you think this repository makes a difference and is worth it, please share it
 ## Software Architecture
 
 ## Resources
+
 - [Modular Monolith](https://files.gotocon.com/uploads/slides/conference_12/515/original/gotoberlin2018-modular-monoliths.pdf)
 - [Visualising Software Architecture](http://static.codingthearchitecture.com/visualising-software-architecture.pdf)
 - [.NET Architecture Guides](https://dotnet.microsoft.com/learn/dotnet/architecture-guides)
 - [Open Agile Architecture](https://pubs.opengroup.org/architecture/o-aa-standard/#_open_agile_architecture)
 
 ### 📝 Articles
+
 - [The Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
 - [Software Architecture Premises](https://herbertograca.com/2017/07/05/software-architecture-premises/) - Herberto Graca
 - [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/) - Herberto Graca
@@ -117,17 +121,17 @@ If you think this repository makes a difference and is worth it, please share it
 - [Mapping software architecture to code](http://www.codingthearchitecture.com/2013/04/08/mapping_software_architecture_to_code.html)
 - [Components vs classes](http://www.codingthearchitecture.com/2015/03/31/components_vs_classes.html)
 - [Simple Sketches for Diagramming your Software Architecture](http://www.methodsandtools.com/archive/softwarearchitecturesketches.php)
-- [Architectural Patterns and Styles](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ee658117(v=pandp.10))
+- [Architectural Patterns and Styles](<https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ee658117(v=pandp.10)>)
 - [Monolithic Architecture](https://herbertograca.com/2017/07/31/monolithic-architecture/)
 - [techtribes.je - context](http://www.codingthearchitecture.com/2013/07/09/techtribes_je_context.html)
 - [Aligning software architecture and code](http://www.codingthearchitecture.com/2013/07/03/aligning_software_architecture_and_code.html)
 - [Component Based Architecture](https://medium.com/omarelgabrys-blog/component-based-architecture-3c3c23c7e348)
 - [Layers, hexagons, features and components](https://www.codingthearchitecture.com/2016/04/25/layers_hexagons_features_and_components.html)
 - [PresentationDomainDataLayering](https://martinfowler.com/bliki/PresentationDomainDataLayering.html)
-- [Layers, hexagons, features and components](http://www.codingthearchitecture.com/2016/04/25/layers_hexagons_features_and_components.html)
 - [Architectural Drivers: Building Blocks for Decision Making](https://www.neverletdown.net/2014/10/architectural-drivers.html)
 
 ### 📹 Videos
+
 - [DevTernity 2016: Simon Brown - The Art of Visualising Software Architecture](https://www.youtube.com/watch?v=zcmU-OE452k)
 - [GOTO 2018 • Modular Monoliths • Simon Brown](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=5OjqD-ow8GE&feature=emb_title&ab_channel=GOTOConferences)
 - [GOTO 2014 • Software Architecture vs. Code • Simon Brown](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=GAFZcYlO5S0)
@@ -142,14 +146,15 @@ If you think this repository makes a difference and is worth it, please share it
 - [Structurizr C4 Model series](https://www.youtube.com/playlist?list=PLLET0MJVt0Uc0Nek7yck8FG2fNnv9H32v)
 - [Software Architecture vs Code](https://www.youtube.com/watch?v=ehH3UGdSwPo)
 - [GOTO 2021 • Software Architecture for Developers Part 2/2 • Simon Brown & Stefan Tilkov](https://www.youtube.com/watch?v=gDlE4q3mozY)
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+  <div align="right">
+    <b><a href="#contents">↥ Back To Top</a></b>
+  </div>
 
 ## Architectural Style
 
 ### Resources
-- [Architectural Patterns and Styles](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ee658117(v=pandp.10)) - Microsoft
+
+- [Architectural Patterns and Styles](<https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ee658117(v=pandp.10)>) - Microsoft
 - [The Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/) - Herberto Graca
 - [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/) - Herberto Graca
 - [Reflecting architecture and domain in code](https://herbertograca.com/2019/06/05/reflecting-architecture-and-domain-in-code/) - Herberto Graca
@@ -167,13 +172,16 @@ If you think this repository makes a difference and is worth it, please share it
 - [Modular Monolith: A Primer](https://www.kamilgrzybek.com/design/modular-monolith-primer/)
 - [Layers, hexagons, features and components](http://www.codingthearchitecture.com/2016/04/25/layers_hexagons_features_and_components.html)
 - [Software Architecture vs Code](https://www.youtube.com/watch?v=ehH3UGdSwPo)
+
 ### 🔖 Samples
+
 - [https://github.com/techtribesje/techtribesje](https://github.com/techtribesje/techtribesje)
 - [https://github.com/kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd)
 - [https://github.com/hgraca/explicit-architecture-php](https://github.com/hgraca/explicit-architecture-php)
 - [https://github.com/Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
 
 ### 📹 Videos
+
 - [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE&feature=emb_title&ab_channel=GOTOConferences)
 - [GOTO 2014 • Software Architecture vs. Code • Simon Brown](https://www.youtube.com/watch?v=GAFZcYlO5S0)
 - [Modular monoliths (Simon Brown) - 2016](https://www.youtube.com/watch?v=h_rBDIC51C4)
@@ -206,6 +214,7 @@ If you think this repository makes a difference and is worth it, please share it
 ### Clean Architecture
 
 #### 📝 Articles
+
 - [Clean architecture](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures#clean-architecture) - Microsoft
 - [Layers in DDD microservices](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice#layers-in-ddd-microservices) - Microsoft
 - [Clean architecture](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures#clean-architecture) - Microsoft
@@ -241,6 +250,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Implementing Clean Architecture - Make it scream](http://www.plainionist.net/Implementing-Clean-Architecture-Scream/)
 
 #### 📹 Videos
+
 - [Clean Testing - Clean Architecture with .NET Core - Jason Taylor - NDC Oslo 2020](https://www.youtube.com/watch?v=T6NRcX1vnz8) - Jason Taylor
 - [Clean Architecture with ASP.NET Core 3.0 - Jason Taylor](https://www.youtube.com/watch?v=5OtUm1BLmG0) - Jason Taylor
 - [Clean Architecture with ASP.NET Core 2.1](https://www.youtube.com/watch?v=_lwCVE_XgqI&feature=youtu.be) - Jason Taylor
@@ -256,94 +266,80 @@ If you think this repository makes a difference and is worth it, please share it
 
 #### 🔖 Samples
 
-- [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
-	> Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
-	
+- [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) > Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
 - [acobsDataSolutions/OrgManager](https://github.com/JacobsDataSolutions/OrgManager) - Jacobs Data
-    > CQRS and Clean Domain-Driven Design concepts on the ASP.NET Core stack. Demo application for a fictional corporate organization management tool.
-    
+  > CQRS and Clean Domain-Driven Design concepts on the ASP.NET Core stack. Demo application for a fictional corporate organization management tool.
 - [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Jason Taylor
-    > Clean Architecture Solution Template for Angular 10 and .NET 5 - [Project Template (nuget package)](https://www.nuget.org/packages/Clean.Architecture.Solution.Template)
+
+  > Clean Architecture Solution Template for Angular 10 and .NET 5 - [Project Template (nuget package)](https://www.nuget.org/packages/Clean.Architecture.Solution.Template)
 
 - [EduardoPires/EquinoxProject](https://github.com/EduardoPires/EquinoxProject) - Eduardo Pires
-    > Full ASP.NET Core 3.1 application with DDD, CQRS and Event Sourcing concepts
+
+  > Full ASP.NET Core 3.1 application with DDD, CQRS and Event Sourcing concepts
 
 - [ardalis/cleanarchitecture](https://github.com/ardalis/cleanarchitecture) - Steve Smith
-    > A starting point for Clean Architecture with ASP.NET Core - [Project Template (visual studio extension)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.CleanArchitecture)
 
-- [pereiren/dotnet-template-onion](https://github.com/pereiren/dotnet-template-onion)
-	> Onion Architecture with .NET 5/.NET Core and CQRS/Event Sourcing following a DDD approach
-	
-- [NNVTV/NetCore-Clean-Architecture](https://github.com/INNVTV/NetCore-Clean-Architecture) - INNVTV
-	> .Net Core starter project for clean architecture showcasing use of the CQRS pattern, MediatR and custom Middleware for cross-cutting concerns, micro-service communications with REST/OpenAPI, Swagger, Webhooks and gRPC endpoints, CosmosDB for data and Serilog for logging.
-	
+  > A starting point for Clean Architecture with ASP.NET Core - [Project Template (visual studio extension)](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.CleanArchitecture)
+
+- [pereiren/dotnet-template-onion](https://github.com/pereiren/dotnet-template-onion) > Onion Architecture with .NET 5/.NET Core and CQRS/Event Sourcing following a DDD approach
+- [NNVTV/NetCore-Clean-Architecture](https://github.com/INNVTV/NetCore-Clean-Architecture) - INNVTV > .Net Core starter project for clean architecture showcasing use of the CQRS pattern, MediatR and custom Middleware for cross-cutting concerns, micro-service communications with REST/OpenAPI, Swagger, Webhooks and gRPC endpoints, CosmosDB for data and Serilog for logging.
 - [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - Steve Smith
-    > Sample ASP.NET Core 5.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.
+
+  > Sample ASP.NET Core 5.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.
 
 - [matthewrenze/clean-architecture-demo](https://github.com/matthewrenze/clean-architecture-demo) - Matthew Renze
-    > A sample app for my presentation on Clean Architecture: Patterns, Practices, and Principles
+
+  > A sample app for my presentation on Clean Architecture: Patterns, Practices, and Principles
 
 - [jasontaylordev/NorthwindTraders](https://github.com/jasontaylordev/NorthwindTraders) - Jason Taylor
-    > Northwind Traders is a sample application built using ASP.NET Core and Entity Framework Core.
 
-- [hgraca/explicit-architecture-php](https://github.com/hgraca/explicit-architecture-php) - Herberto Graca
-	> This repository is a demo of Explicit Architecture, using the Symfony Demo Application.
-	
+  > Northwind Traders is a sample application built using ASP.NET Core and Entity Framework Core.
+
+- [hgraca/explicit-architecture-php](https://github.com/hgraca/explicit-architecture-php) - Herberto Graca > This repository is a demo of Explicit Architecture, using the Symfony Demo Application.
 - [mmacneil/CleanAspNetCoreWebApi](https://github.com/mmacneil/CleanAspNetCoreWebApi) - Mark Macneil
-    > Starter project for creating APIs built on ASP.NET Core using clean architecture.
+
+  > Starter project for creating APIs built on ASP.NET Core using clean architecture.
 
 - [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) - Ivan Paulovich
-    > Clean Architecture with .NET5, C#9 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks
+
+  > Clean Architecture with .NET5, C#9 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks
 
 - [Daniel-Krzyczkowski/CleanArchitectureWithDevSecOps](https://github.com/Daniel-Krzyczkowski/CleanArchitectureWithDevSecOps) - Daniel Krzyczkowski
-    > This repository contains code samples related with clean software architecture and DevSecOps.
+
+  > This repository contains code samples related with clean software architecture and DevSecOps.
 
 - [aspnetcorehero/Boilerplate](https://github.com/aspnetcorehero/Boilerplate) - Mukesh Murugan
-    > Clean Architecture Solution Template for ASP.NET Core 5.0. Built with Onion/Hexagonal Architecture and incorporates the most essential Packages your projects will ever need. Includes both WebApi and Web(MVC) Projects.
 
-- [fals/cqrs-clean-eventual-consistency](https://github.com/fals/cqrs-clean-eventual-consistency) - Filipe Augusto
-	> CQRS, using Clean Architecture, multiple databases and Eventual Consistency
+  > Clean Architecture Solution Template for ASP.NET Core 5.0. Built with Onion/Hexagonal Architecture and incorporates the most essential Packages your projects will ever need. Includes both WebApi and Web(MVC) Projects.
 
-- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - Rafael Garcia
-	> Architecture .NET 5, ASP.NET Core 5, Entity Framework Core 5, C# 9, Angular 11, Clean Code, SOLID, DDD.
+- [fals/cqrs-clean-eventual-consistency](https://github.com/fals/cqrs-clean-eventual-consistency) - Filipe Augusto > CQRS, using Clean Architecture, multiple databases and Eventual Consistency
 
-- [kgrzybek/sample-dotnet-core-cqrs-api](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - Kamil Grzybek
-	> Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
+- [rafaelfgx/Architecture](https://github.com/rafaelfgx/Architecture) - Rafael Garcia > Architecture .NET 5, ASP.NET Core 5, Entity Framework Core 5, C# 9, Angular 11, Clean Code, SOLID, DDD.
 
-- [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture)
-	> Asp.Net Core 5 Clean Architecture (Microservices, Modular Monolith, Monolith) samples (+Blazor, Angular 11, React 17, Vue 2.6), Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium E2E Testing, SignalR Notification, Hangfire Tasks Scheduling
+- [kgrzybek/sample-dotnet-core-cqrs-api](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - Kamil Grzybek > Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
 
-- [aspnetrun/run-aspnetcore](https://github.com/aspnetrun/run-aspnetcore) - AspNetRun
-	> A starter kit for your next ASP.NET Core web application. Boilerplate for ASP.NET Core reference application, demonstrating a layered application architecture with applying Clean Architecture and DDD
-	
-- [aspnetrun/run-aspnetcore-cqrs](https://github.com/aspnetrun/run-aspnetcore-cqrs) - AspNetRun
-	> Real world Enterprise CRM application example of ASP.NET Core + Angular web application. Implemented CQRS Design Pattern for ASP.NET Core + Angular reference application, demonstrating a layered application architecture with DDD
+- [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) > Asp.Net Core 5 Clean Architecture (Microservices, Modular Monolith, Monolith) samples (+Blazor, Angular 11, React 17, Vue 2.6), Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium E2E Testing, SignalR Notification, Hangfire Tasks Scheduling
 
-- [aspnetrun/run-aspnetcore-realworld](https://github.com/aspnetrun/run-aspnetcore-realworld) - AspNetRun
-	> E-Commerce real world example of run-aspnetcore ASP.NET Core web application. Implemented e-commerce domain with clean architecture for ASP.NET Core reference application, demonstrating a layered application architecture with DDD best practices.
+- [aspnetrun/run-aspnetcore](https://github.com/aspnetrun/run-aspnetcore) - AspNetRun > A starter kit for your next ASP.NET Core web application. Boilerplate for ASP.NET Core reference application, demonstrating a layered application architecture with applying Clean Architecture and DDD
+- [aspnetrun/run-aspnetcore-cqrs](https://github.com/aspnetrun/run-aspnetcore-cqrs) - AspNetRun > Real world Enterprise CRM application example of ASP.NET Core + Angular web application. Implemented CQRS Design Pattern for ASP.NET Core + Angular reference application, demonstrating a layered application architecture with DDD
 
-- [jacobduijzer/CleanArchitectureTemplate](https://github.com/jacobduijzer/CleanArchitectureTemplate)
-	> A template for a dotnet core api / mvc "clean architecture" project.
+- [aspnetrun/run-aspnetcore-realworld](https://github.com/aspnetrun/run-aspnetcore-realworld) - AspNetRun > E-Commerce real world example of run-aspnetcore ASP.NET Core web application. Implemented e-commerce domain with clean architecture for ASP.NET Core reference application, demonstrating a layered application architecture with DDD best practices.
 
-- [CanerPatir/aspnet-core-clean-arch](https://github.com/CanerPatir/aspnet-core-clean-arch)
-	> It is a clean architecture project template which is based on hexagonal-architecture principles built with .Net core.
-	
+- [jacobduijzer/CleanArchitectureTemplate](https://github.com/jacobduijzer/CleanArchitectureTemplate) > A template for a dotnet core api / mvc "clean architecture" project.
+
+- [CanerPatir/aspnet-core-clean-arch](https://github.com/CanerPatir/aspnet-core-clean-arch) > It is a clean architecture project template which is based on hexagonal-architecture principles built with .Net core.
 - [techtribesje/techtribesje](https://github.com/techtribesje/techtribesje)
 
-- [thombergs/buckpal](https://github.com/thombergs/buckpal)
-	> An example approach for implementing a Clean/Hexagonal Architecture
+- [thombergs/buckpal](https://github.com/thombergs/buckpal) > An example approach for implementing a Clean/Hexagonal Architecture
 
-- [proudmonkey/ApiBoilerPlate](https://github.com/proudmonkey/ApiBoilerPlate)
-	> A simple yet organized project template for building ASP.NET Core APIs in .NET Core 3.1
+- [proudmonkey/ApiBoilerPlate](https://github.com/proudmonkey/ApiBoilerPlate) > A simple yet organized project template for building ASP.NET Core APIs in .NET Core 3.1
 
-- [blazorhero/CleanArchitecture](https://github.com/blazorhero/CleanArchitecture)
-	> Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
+- [blazorhero/CleanArchitecture](https://github.com/blazorhero/CleanArchitecture) > Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.
 
-- [Reddnet](https://github.com/moritz-mm/Reddnet)	
-	> A mini Reddit written in ASP.NET Core 5.0
-	
+- [Reddnet](https://github.com/moritz-mm/Reddnet) > A mini Reddit written in ASP.NET Core 5.0
 
 #### Books
+
 - [Get Your Hands Dirty on Clean Architecture](https://www.packtpub.com/product/get-your-hands-dirty-on-clean-architecture/9781839211966)
 
 <div align="right">
@@ -370,11 +366,9 @@ If you think this repository makes a difference and is worth it, please share it
 - [Distributed Onion Architecture - Fort Worth .Net User Group 8/20/2013 - Jeffrey Palermo](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=uuCaXu_kl0U)
 
 #### 🔖 Samples
-- [https://github.com/Amitpnk/Onion-architecture-ASP.NET-Core](https://github.com/Amitpnk/Onion-architecture-ASP.NET-Core)
-	> WhiteApp API solution template which is built on Onion Architecture with all essential feature using .NET Core!
-	
-- [https://github.com/pereiren/dotnet-template-onion](https://github.com/pereiren/dotnet-template-onion)
-	> Onion Architecture with .NET 5/.NET Core and CQRS/Event Sourcing following a DDD approach	
+
+- [https://github.com/Amitpnk/Onion-architecture-ASP.NET-Core](https://github.com/Amitpnk/Onion-architecture-ASP.NET-Core) > WhiteApp API solution template which is built on Onion Architecture with all essential feature using .NET Core!
+- [https://github.com/pereiren/dotnet-template-onion](https://github.com/pereiren/dotnet-template-onion) > Onion Architecture with .NET 5/.NET Core and CQRS/Event Sourcing following a DDD approach
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -391,6 +385,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Hexagonal Architecture: the practical guide for a clean architecture](https://beyondxscratch.com/2017/08/19/hexagonal-architecture-the-practical-guide-for-a-clean-architecture/) - Beyond x Scratch
 - [Hexagonal Architecture Example: digging a Spring Boot implementation](https://beyondxscratch.com/2020/08/23/hexagonal-architecture-example-digging-a-spring-boot-implementation/) - Beyond x Scratch
 - [Hexagonal architecture: don't get lost on your right-side](http://tpierrain.blogspot.com/2020/03/hexagonal-architecture-dont-get-lost-on.html) - Thomas PIERRAIN
+- [Ports and Adapters Pattern(Hexagonal Architecture)](https://jmgarridopaz.github.io/content/hexagonalarchitecture.html)
 - [HEXAGONAL ARCHITECTURE](https://www.qwan.eu/2020/08/20/hexagonal-architecture.html) - qwan
 - [SLICING YOUR CAKE - STRUCTURING YOUR HEXAGONS](https://www.qwan.eu/2021/02/15/slicing-your-cake.html) - qwan
 - [Hexagonal Architecture demystified](https://madewithlove.com/blog/software-engineering/hexagonal-architecture-demystified/)
@@ -406,26 +401,21 @@ If you think this repository makes a difference and is worth it, please share it
 - [Hexagonal != Layers](https://tpierrain.blogspot.com/2016/04/hexagonal-layers.html)
 - [Domain-Driven Design and the Hexagonal Architecture](https://vaadin.com/learn/tutorials/ddd/ddd_and_hexagonal) - Vaadin
 - [Hexagonal Architecture by example - a hands-on introduction](https://blog.allegro.tech/2020/05/hexagonal-architecture-by-example.html)
+
 #### 📹 Videos
 
 - [Chris Fidao - Hexagonal Architecture](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=6SBjKOwVq0o)
 - [Hexagonal, Onion, and Explicit Architecture with Elixir - Part 1](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=iGTCZt9Z8A8)
 
 #### 🔖 Samples
-- [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
-	> Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
-	
-- [ivanpaulovich/hexagonal-architecture-acerola](https://github.com/ivanpaulovich/hexagonal-architecture-acerola) - Ivan Paulovich
-	> An Hexagonal Architecture service template with DDD, CQRS, TDD and SOLID using .NET Core 2.0. All small features are testable and could be mocked. Adapters could be mocked or exchanged.
 
-- [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) - Ivan Paulovich
-	> Clean Architecture with .NET5, C#9 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks
+- [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) > Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
+- [ivanpaulovich/hexagonal-architecture-acerola](https://github.com/ivanpaulovich/hexagonal-architecture-acerola) - Ivan Paulovich > An Hexagonal Architecture service template with DDD, CQRS, TDD and SOLID using .NET Core 2.0. All small features are testable and could be mocked. Adapters could be mocked or exchanged.
 
-- [CanerPatir/aspnet-core-clean-arch](https://github.com/CanerPatir/aspnet-core-clean-arch)
-	> It is a clean architecture project template which is based on hexagonal-architecture principles built with .Net core.
-	
-- [Lunch-box/SimpleOrderRouting](https://github.com/Lunch-box/SimpleOrderRouting)
-	> Prototype of a Smart Order Routing system (finance). The opportunity for a mob of Lunch-boxers, to explore various technical approaches in reactive programming.
+- [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) - Ivan Paulovich > Clean Architecture with .NET5, C#9 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks
+
+- [CanerPatir/aspnet-core-clean-arch](https://github.com/CanerPatir/aspnet-core-clean-arch) > It is a clean architecture project template which is based on hexagonal-architecture principles built with .Net core.
+- [Lunch-box/SimpleOrderRouting](https://github.com/Lunch-box/SimpleOrderRouting) > Prototype of a Smart Order Routing system (finance). The opportunity for a mob of Lunch-boxers, to explore various technical approaches in reactive programming.
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -434,6 +424,7 @@ If you think this repository makes a difference and is worth it, please share it
 ### Vertical Slice Architecture
 
 #### 📝 Articles
+
 - [How Vertical Slice Architecture fulfills Clean Architecture’s broken promises](https://headspring.com/2020/08/18/how-vertical-slice-architecture-fulfills-clean-architectures-broken-promises/) - Jimmy Bogard
 - [Why vertical slice architecture is better—if you know these few things](https://headspring.com/2019/11/05/why-vertical-slice-architecture-is-better/) - Jimmy Bogard
 - [Vertical Slice Architecture](https://jimmybogard.com/vertical-slice-architecture/) - Jimmy Bogard
@@ -467,6 +458,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [What Are Your Thoughts On The Vertical Slice Architecture?](https://www.reddit.com/r/dotnet/comments/gej15i/what_are_your_thoughts_on_the_vertical_slice/)
 
 #### 📹 Videos
+
 - [SOLID Architecture in Slices not Layers - Jimmy Bogard](https://vimeo.com/131633177)
 - [Vertical Slice Architecture - Jimmy Bogard](https://www.youtube.com/watch?v=5kOzZz2vj2o) - Jimmy Bogard
 - [SOLID Architecture in Slices not Layers](https://www.youtube.com/watch?v=wTd-VcJCs_M) - Jimmy Bogard
@@ -474,6 +466,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Vertical Slice Architecture - Jimmy Bogard](https://www.youtube.com/watch?v=SUiWfhAhgQw&lc=UgzDmpq_2SHwmuSgIL54AaABAg)
 
 #### Samples
+
 - [jbogard/ContosoUniversityDotNetCore](https://github.com/jbogard/ContosoUniversityDotNetCore) - Jimmy Bogard
 - [jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages) - Jimmy Bogard
 - [dcomartin/MusicStore](https://github.com/dcomartin/MusicStore) - CodeOpinion
@@ -483,6 +476,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [PacktPublishing/ASP.NET-Core-5-Design-Patterns/tree/main/C15/Vertical%20Slice%20Architecture](https://github.com/PacktPublishing/ASP.NET-Core-5-Design-Patterns/tree/main/C15/Vertical%20Slice%20Architecture)
 
 #### Books
+
 - [An Atypical ASP.NET Core 5 Design Patterns Guide](https://www.packtpub.com/product/an-atypical-asp-net-core-5-design-patterns-guide/9781789346091)
 
 <div align="right">
@@ -492,6 +486,7 @@ If you think this repository makes a difference and is worth it, please share it
 ### Event Driven Architecture
 
 #### 📝 Articles
+
 - [Event-driven architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/event-driven)
 - [Event-Driven Architecture](https://herbertograca.com/2017/10/05/event-driven-architecture/) - Herberto Graca
 - [Journey to Event Driven – Part 1: Why Event-First Programming Changes Everything](https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything/)
@@ -510,6 +505,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [What do you mean by “Event-Driven”?](https://martinfowler.com/articles/201701-event-driven.html)
 
 #### Videos
+
 - [Event-Driven Architecture | EDA | Software Architectural Patterns](https://www.youtube.com/watch?v=gIL8rW_eyww&t=0s) - The TechCave
 - [Events on the outside, on the inside and at the core](https://www.youtube.com/watch?v=rP-InttAbVY)
 - [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
@@ -521,16 +517,18 @@ If you think this repository makes a difference and is worth it, please share it
 - [Creating event-driven microservices: the why, how and what by Andrew Schofield](https://www.youtube.com/watch?v=ksRCq0BJef8)
 - [What's an Event Driven System?](https://www.youtube.com/watch?v=rJHTK2TfZ1I)
 - [Event Based Architecture: What do you mean by EVENT?](https://www.youtube.com/watch?v=qKD2YUTJAXM)
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+  <div align="right">
+    <b><a href="#contents">↥ Back To Top</a></b>
+  </div>
 
 ### Service Oriented Architecture
 
 #### 📝 Articles
+
 - [Service Oriented Architecture (SOA)](https://herbertograca.com/2017/11/09/service-oriented-architecture-soa/)
 
 #### 📹 Videos
+
 - [Service-Oriented Architecture - SOA | Software/Web Application Architecture](https://www.youtube.com/watch?v=jNiEMmoTDoE&t=0s) - The TechCave
 
 <div align="right">
@@ -540,6 +538,7 @@ If you think this repository makes a difference and is worth it, please share it
 ## Architectural Design Principles
 
 ### Resources
+
 - [Architectural Styles vs. Architectural Patterns vs. Design Patterns](https://herbertograca.com/2017/07/28/architectural-styles-vs-architectural-patterns-vs-design-patterns/)
 - [Architectural principles](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/architectural-principles) - Microsoft
 - [Principles](https://deviq.com/principles/principles-overview) - DevIQ
@@ -555,9 +554,12 @@ If you think this repository makes a difference and is worth it, please share it
 ### Dependency Inversion
 
 #### Articles
+
 - [Singleton vs Dependency Injection](https://enterprisecraftsmanship.com/posts/singleton-vs-dependency-injection/)
 - [Don’t Call Constructors Unless You Have No Choice, And You Always Have a Choice](https://scotthannen.org/blog/2018/04/03/tame-your-dependency-injection-registration.html)
+
 #### 📹 Videos
+
 - [The refactoring test (1) - Dependency Inversion & Unit tests | Cracking the .NET interview](https://www.youtube.com/watch?v=U3QvTaw224o)
 
 <div align="right">
@@ -567,6 +569,7 @@ If you think this repository makes a difference and is worth it, please share it
 ### Open/Closed Principles
 
 #### 📹 Videos
+
 - [The refactoring test (2) - Open-Closed, Single Responsibility | Cracking the .NET interview](https://www.youtube.com/watch?v=Yd4GnWeEkIY)
 
 <div align="right">
@@ -576,7 +579,8 @@ If you think this repository makes a difference and is worth it, please share it
 ### Cross Cutting Concerns
 
 #### 📝 Articles
-- [Crosscutting Concerns](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ee658105(v=pandp.10)) - Microsoft
+
+- [Crosscutting Concerns](<https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ee658105(v=pandp.10)>) - Microsoft
 - [A Brief Intro to Clean Architecture, Clean DDD, and CQRS](https://blog.jacobsdata.com/2020/02/19/a-brief-intro-to-clean-architecture-clean-ddd-and-cqrs) - Jacobs Data
 - [Managing Cross Cutting Concerns – Logging](https://www.cshandler.com/2015/10/managing-cross-cutting-concerns-logging.html)
 - [Cross cutting concern example](https://stackoverflow.com/questions/23700540/cross-cutting-concern-example)
@@ -595,7 +599,8 @@ If you think this repository makes a difference and is worth it, please share it
 ### KISS
 
 #### 📝 Articles
-- [KISS](https://java-design-patterns.com/principles/#kiss)  - java-design-patterns
+
+- [KISS](https://java-design-patterns.com/principles/#kiss) - java-design-patterns
 - [Principles of Good Programming](https://www.artima.com/weblogs/viewpost.jsp?thread=331531)
 - [Keep It Simple Stupid (KISS)](http://principles-wiki.net/principles:keep_it_simple_stupid) - principles-wiki
 - [Keep It Simple](https://deviq.com/principles/keep-it-simple) - DevIQ
@@ -607,6 +612,7 @@ If you think this repository makes a difference and is worth it, please share it
 ### YAGNI
 
 #### 📝 Articles
+
 - [YAGNI](https://deviq.com/principles/yagni) - DevIQ
 - [YAGNI](https://java-design-patterns.com/principles/#yagni) - java-design-patterns
 
@@ -617,6 +623,7 @@ If you think this repository makes a difference and is worth it, please share it
 ### Minimize Coupling
 
 #### 📝 Articles
+
 - [Why is loose coupling between services so important?](https://www.ben-morris.com/why-is-loose-coupling-between-services-so-important/) - Ben Morris
 
 <div align="right">
@@ -626,6 +633,7 @@ If you think this repository makes a difference and is worth it, please share it
 ### Persistence Ignorance
 
 #### 📝 Articles
+
 - [Persistence Ignorance](https://deviq.com/principles/persistence-ignorance) - DevIQ
 - [Understanding Persistence Ignorance Principle](http://techxposer.com/2018/12/29/understanding-persistence-ignorance-principle/)
 - [Infrastructure Ignorance](https://ayende.com/blog/3137/infrastructure-ignorance) - Ayende
@@ -638,6 +646,7 @@ If you think this repository makes a difference and is worth it, please share it
 ### GRASP
 
 #### 📝 Articles
+
 - [GRASP – General Responsibility Assignment Software Patterns Explained](https://www.kamilgrzybek.com/design/grasp-explained/)
 
 <div align="right">
@@ -646,17 +655,11 @@ If you think this repository makes a difference and is worth it, please share it
 
 ## Design Patterns
 
-### Resources 
+### Resources
 
-- [DesignPatterns](https://github.com/abishekaditya/DesignPatterns)
-	> Project : Design Patterns Examples in C#
-	
-- [anupavanm/csharp-design-patterns-for-humans](https://github.com/anupavanm/csharp-design-patterns-for-humans)
-	> Design Patterns for Humans™ - An ultra-simplified explanation - C# Examples
-	
-- [nemanjarogic/DesignPatternsLibrary](https://github.com/nemanjarogic/DesignPatternsLibrary)
-	> A comprehensive design patterns library implemented in C#, which covers various design patterns from the most commonly used ones to the lesser-known ones. Get familiar with and learn design patterns through moderately realistic examples.
-	
+- [DesignPatterns](https://github.com/abishekaditya/DesignPatterns) > Project : Design Patterns Examples in C#
+- [anupavanm/csharp-design-patterns-for-humans](https://github.com/anupavanm/csharp-design-patterns-for-humans) > Design Patterns for Humans™ - An ultra-simplified explanation - C# Examples
+- [nemanjarogic/DesignPatternsLibrary](https://github.com/nemanjarogic/DesignPatternsLibrary) > A comprehensive design patterns library implemented in C#, which covers various design patterns from the most commonly used ones to the lesser-known ones. Get familiar with and learn design patterns through moderately realistic examples.
 - [beginor/DesignPatterns](https://github.com/beginor/DesignPatterns)
 
 - [EdisonChou/DesignPattern.Samples.CSharp](https://github.com/EdisonChou/DesignPattern.Samples.CSharp)
@@ -684,12 +687,13 @@ If you think this repository makes a difference and is worth it, please share it
 ### Service Locator
 
 #### 📝 Articles
+
 - [Service Locator is an Anti-Pattern](https://blog.ploeh.dk/2010/02/03/ServiceLocatorisanAnti-Pattern/)
 - [The Service Locator Anti-Pattern](https://freecontent.manning.com/the-service-locator-anti-pattern/)
 
 #### Samples
-- [SlimMessageBus](https://github.com/zarusz/SlimMessageBus/blob/d335afcf232e9a2207ae1c5a49dccd2aa50dbaee/src/SlimMessageBus.Host.ServiceLocator/ServiceLocatorMessageBusDependencyResolver.cs)
 
+- [SlimMessageBus](https://github.com/zarusz/SlimMessageBus/blob/d335afcf232e9a2207ae1c5a49dccd2aa50dbaee/src/SlimMessageBus.Host.ServiceLocator/ServiceLocatorMessageBusDependencyResolver.cs)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -698,19 +702,21 @@ If you think this repository makes a difference and is worth it, please share it
 ### Specification Pattern
 
 #### 📝 Articles
+
 - [Specification pattern: C# implementation](https://enterprisecraftsmanship.com/posts/specification-pattern-c-implementation/) - Vladimir Khorikove
 - [Implementing Query Specification pattern in Entity Framework Core](https://gunnarpeipman.com/ef-core-query-specification/) - Gunnar Peipman
 - [Using the Specification pattern with Repository and Unit of work](https://dotnetfalcon.com/using-the-specification-pattern-with-repository-and-unit-of-work/) - Akos Nagy
 - [Specification](https://ardalis.github.io/Specification/)
 
 #### Videos
+
 - [Reviewing the Specification Pattern and NuGet package](https://www.youtube.com/watch?v=BgWWbBUWyig)
 - [What's new in v5 of Ardalis.Specification](https://www.youtube.com/watch?v=gT72mWdD4Qo)
 
 #### Samples
+
 - [https://github.com/ardalis/Specification](https://github.com/ardalis/Specification)
 - [https://github.com/dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb)
-
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -718,6 +724,7 @@ If you think this repository makes a difference and is worth it, please share it
 ### Repository Pattern
 
 #### 📝 Articles
+
 - [No need for repositories and unit of work with Entity Framework Core](https://gunnarpeipman.com/ef-core-repository-unit-of-work/) - Gunnar Peipman
 - [Repository and unit of work ARE useful](https://dotnetfalcon.com/repository-and-unit-of-work-are-useful/) - Akos Nagy
 - [The generic repository is just a lazy anti-pattern](https://www.ben-morris.com/why-the-generic-repository-is-just-a-lazy-anti-pattern/)
@@ -729,16 +736,15 @@ If you think this repository makes a difference and is worth it, please share it
 - [Repository is Dead: Long Live Repository](http://codebetter.com/gregyoung/2009/04/23/repository-is-dead-long-live-repository/)
 - [More on Repository](http://codebetter.com/gregyoung/2009/04/24/more-on-repository/)
 
-
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 ### Query Object Pattern
 
 #### 📝 Articles
+
 - [Query Objects instead of Repositories](https://codeopinion.com/query-objects-instead-of-repositories/)
 - [Query Objects with a Mediator](https://codeopinion.com/query-objects-with-a-mediator/)
-
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -746,18 +752,20 @@ If you think this repository makes a difference and is worth it, please share it
 ### Decorator Pattern
 
 #### 📝 Articles
+
 - [Decorator Pattern in .NET Core 3.1](https://www.programmingwithwolfgang.com/decorator-pattern-in-net-core-3-1/)
 - [Beyond Basics - ASP.Net Core Using the Decorator Pattern](https://adamstorr.azurewebsites.net/blog/beyond-basics-aspnetcore-using-the-decorator-pattern)
 - [Decorator pattern with C# and DotNet Core](https://ranjeet.dev/decorator-pattern-with-csharp/)
+
 ### Factory Pattern
 
 #### 📝 Articles
- 
+
 - [The Factory Pattern In .NET Core](https://dotnetcoretutorials.com/2019/10/15/the-factory-pattern-in-net-core/) - DotnetCoreTutorials
 
 #### Videos
-- [SOLID Principles for C# Developers](https://www.pluralsight.com/courses/csharp-solid-principles)
 
+- [SOLID Principles for C# Developers](https://www.pluralsight.com/courses/csharp-solid-principles)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -765,6 +773,7 @@ If you think this repository makes a difference and is worth it, please share it
 ### Strategy Pattern
 
 #### 📝 Articles
+
 - [ASP.NET Core and the Strategy Pattern](https://adamstorr.azurewebsites.net/blog/aspnetcore-and-the-strategy-pattern)
 
 - [6 Ways To Implement The Strategy Pattern In C# (Basic To Advanced)](https://www.blog.jamesmichaelhickey.com/strategy-pattern-implementations)
@@ -777,17 +786,16 @@ If you think this repository makes a difference and is worth it, please share it
 
 - [Implement Custom Logic for Clients using the Strategy and Factory Design Patterns](https://www.codebyamir.com/blog/implement-custom-logic-for-clients-using-strategy-and-factory-design-patterns)
 
-- [Design Pattern Combination – Strategy with Factory Method](
-https://blog.e-zest.com/design-pattern-combination-strategy-with-factory-method/)
+- [Design Pattern Combination – Strategy with Factory Method](https://blog.e-zest.com/design-pattern-combination-strategy-with-factory-method/)
 
 #### Videos
+
 - [SOLID Principles for C# Developers](https://www.pluralsight.com/courses/csharp-solid-principles)
 
 #### Samples
 
 - [WestDiscGolf/StrategyPatternExample](https://github.com/WestDiscGolf/StrategyPatternExample)
-- [Dashell/strategy-pattern-dotnetcore](
-https://github.com/Dashell/strategy-pattern-dotnetcore)
+- [Dashell/strategy-pattern-dotnetcore](https://github.com/Dashell/strategy-pattern-dotnetcore)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -796,14 +804,16 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ## Cloud Design Patterns
 
 ### Resources
- - [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/index-patterns) - Microsoft
- - [Cloud Computing Patterns](https://www.cloudcomputingpatterns.org) - CloudComputingPatterns
- 
-### Samples
-- [https://github.com/mspnp/cloud-design-patterns](https://github.com/mspnp/cloud-design-patterns) 
-	> Prescriptive Architecture Guidance for Cloud Applications
 
-### Books 
+- [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/index-patterns) - Microsoft
+- [Cloud Computing Patterns](https://www.cloudcomputingpatterns.org) - CloudComputingPatterns
+
+### Samples
+
+- [https://github.com/mspnp/cloud-design-patterns](https://github.com/mspnp/cloud-design-patterns) > Prescriptive Architecture Guidance for Cloud Applications
+
+### Books
+
 - [Cloud Design Patterns: Prescriptive Architecture Guidance for Cloud Applications (Microsoft patterns & practices)](https://www.amazon.com/Cloud-Design-Patterns-Prescriptive-Architecture-ebook/dp/B00ITGHBBS)
 - [Cloud Architecture Patterns: Using Microsoft Azure](https://www.amazon.com/Cloud-Architecture-Patterns-Using-Microsoft/dp/1449319777)
 
@@ -813,12 +823,14 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ###  Anti-Corruption Layer Pattern
 
 #### 📝 Articles
+
 - [Anti-Corruption Layer pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/anti-corruption-layer)
 - [Gateway](https://martinfowler.com/eaaCatalog/gateway.html)
 - [The Anti-Corruption Layer Pattern](https://dev.to/asarnaout/the-anti-corruption-layer-pattern-pcd)
 - [Anti-Corruption Layer: How to Keep Legacy Support from Breaking New Systems](https://www.cloudbees.com/blog/anti-corruption-layer-how-keep-legacy-support-breaking-new-systems)
 
 #### 📹 Videos
+
 - [The Anti-corruption layer, Gateway Aggregation / Routing patterns | Cloud with Chris](https://www.youtube.com/watch?v=gGDu4FdUk7I)
 
 <div align="right">
@@ -828,6 +840,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ### Gateway Pattern
 
 #### Articles
+
 - [MICROSERVICES ARCHITECTURE GATEWAY PATTERN - DOS AND DON'TS](https://akfpartners.com/growth-blog/microservices-architecture-gateway-pattern-dos-and-donts)
 - [Gateway Aggregation pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/gateway-aggregation)
 - [Gateway Offloading pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/gateway-offloading)
@@ -836,21 +849,20 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-
 ### Strangler Fig pattern
 
 #### Articles
+
 - [Strangler Fig pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/strangler-fig)
 
 #### Samples
-- [VisualReCode/Cocoon](https://github.com/VisualReCode/Cocoon)
-	> An implementation of the Strangler Fig pattern for ASP.NET Core
 
-
+- [VisualReCode/Cocoon](https://github.com/VisualReCode/Cocoon) > An implementation of the Strangler Fig pattern for ASP.NET Core
 
 ### Ambassador pattern
 
 #### Articles
+
 - [Ambassador pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/ambassador)
 
 <div align="right">
@@ -862,13 +874,13 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-###  Cache-Aside
+### Cache-Aside
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-###  Bulkhead Pattern
+### Bulkhead Pattern
 
 #### Articles
 
@@ -878,7 +890,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-###  Command and Query Responsibility Segregation (CQRS)
+### Command and Query Responsibility Segregation (CQRS)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -889,13 +901,14 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-###  Gateway Aggregation
+### Gateway Aggregation
 
 #### Articles
+
 - [MICROSERVICE AGGREGATOR PATTERN](https://akfpartners.com/growth-blog/microservice-aggregator-pattern)
 - [Gateway Aggregation pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/gateway-aggregation)
 
-###  Gateway Offloading
+### Gateway Offloading
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -906,23 +919,27 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-###  Priority Queue
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
-
-###  Publisher/Subscriber
+### Priority Queue
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-###  Retry
+### Publisher/Subscriber
 
-###  Saga
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
+
+### Retry
+
+### Saga
+
 - [A MICROSERVICES SAGA CHOREOGRAPHY EXAMPLE](https://akfpartners.com/growth-blog/a-microservices-saga-choreography-example)
 - [MICROSERVICES SAGA PATTERN](https://akfpartners.com/growth-blog/microservices-saga-pattern)
-###  Sharding
+
+### Sharding
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -941,11 +958,13 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ### At-least-Once Delivery (Outbox Pattern)
 
 #### 📝 Articles
+
 - [At-least-once Delivery](https://www.cloudcomputingpatterns.org/at_least_once_delivery/) - cloudcomputingpatterns.org
 - [The Outbox Pattern](http://www.kamilgrzybek.com/design/the-outbox-pattern/) - Kamil Grzybek
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+  <div align="right">
+    <b><a href="#contents">↥ Back To Top</a></b>
+  </div>
+
 ### Exactly-Once Delivery
 
 #### 📝 Articles
@@ -961,18 +980,21 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ### Resources
 
 ### 📹 Videos
+
 - [Software Architecture | Architectural patterns | Architecture vs Design pattern](https://www.youtube.com/watch?v=lTkL1oIMiaU&t=769s)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-### Domain Driven Design - Domain Centric 
+### Domain Driven Design - Domain Centric
 
 #### Resources
+
 - [Domain-Driven Design Starter Modelling Process](https://github.com/ddd-crew/ddd-starter-modelling-process) - ddd-crew
 
 #### 📝 Articles
+
 - [Design a DDD-oriented microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice) - Microsoft
 - [PPPDDD.1 – What is Domain Driven Design?](https://herbertograca.com/2016/08/15/pppddd-1-what-is-domain-driven-design/) - Herberto Graca
 - [PPPDDD.2 – Distilling the Problem Domain](https://herbertograca.com/2016/08/22/pppddd-2-distilling-the-problem-domain/) - Herberto Graca
@@ -998,74 +1020,68 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [Domains and Subdomains](https://thedomaindrivendesign.io/domains-and-subdomains/)
 - [Scaffold Your Clean DDD Web Application - Part 6: Domain-Driven Design Workflow Patterns](https://blog.jacobsdata.com/2021/04/11/scaffold-your-clean-ddd-web-application-part-6-domain-driven-design-workflow-patterns)
 - [Domain-Driven Architecture Diagrams](https://medium.com/nick-tune-tech-strategy-blog/domain-driven-architecture-diagrams-139a75acb578)
+
 #### 📹 Videos
+
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU)
 
 #### 🔖 Samples
 
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers)
-    > Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
+
+  > Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
 
 - [kimcu-on-thenet/ddd-net-ef-core](https://github.com/kimcu-on-thenet/ddd-net-ef-core)
-    > Self study: DDD, .net core, entity framework core
+
+  > Self study: DDD, .net core, entity framework core
 
 - [blog-core](https://github.com/thangchung/blog-core) - Thang Chung
-    > Modular blog using Blazor with clean domain-driven design patterns
+
+  > Modular blog using Blazor with clean domain-driven design patterns
 
 - [practical-clean-ddd](https://github.com/thangchung/practical-clean-ddd) Thang Chung
-    > The repository uses the eCommerce business domain to demonstrate how to apply Domain Driven Design, Clean Architecture, and Microservice Architecture patterns.
+
+  > The repository uses the eCommerce business domain to demonstrate how to apply Domain Driven Design, Clean Architecture, and Microservice Architecture patterns.
 
 - [ddd-guestbook](https://github.com/ardalis/ddd-guestbook) - Steve Smith
-    > A DDD guestbook example written for ASP.NET Core
-	
-- [run-aspnetcore](https://github.com/aspnetrun/run-aspnetcore) - AspNetRun
-	> A starter kit for your next ASP.NET Core web application. Boilerplate for ASP.NET Core reference application, demonstrating a layered application architecture with applying Clean Architecture and DDD
+  > A DDD guestbook example written for ASP.NET Core
+- [run-aspnetcore](https://github.com/aspnetrun/run-aspnetcore) - AspNetRun > A starter kit for your next ASP.NET Core web application. Boilerplate for ASP.NET Core reference application, demonstrating a layered application architecture with applying Clean Architecture and DDD
 
-- [run-aspnetcore-realworld](https://github.com/aspnetrun/run-aspnetcore-realworld) - AspNetRun
-	> E-Commerce real world example of run-aspnetcore ASP.NET Core web application. Implemented e-commerce domain with clean architecture for ASP.NET Core reference application, demonstrating a layered application architecture with DDD best practices.
+- [run-aspnetcore-realworld](https://github.com/aspnetrun/run-aspnetcore-realworld) - AspNetRun > E-Commerce real world example of run-aspnetcore ASP.NET Core web application. Implemented e-commerce domain with clean architecture for ASP.NET Core reference application, demonstrating a layered application architecture with DDD best practices.
 
-- [DDD-starter-dotnet](https://github.com/itlibrium/DDD-starter-dotnet)
-	> Sample implementation and comparison of various approaches to building DDD applications. Useful as a baseline to quickly start a DDD dot net project.
+- [DDD-starter-dotnet](https://github.com/itlibrium/DDD-starter-dotnet) > Sample implementation and comparison of various approaches to building DDD applications. Useful as a baseline to quickly start a DDD dot net project.
 
 - [hOrgManager](https://github.com/JacobsDataSolutions/OrgManager)
-    > CQRS and Clean Domain-Driven Design concepts on the ASP.NET Core stack. Demo application for a fictional corporate organization management tool.
+
+  > CQRS and Clean Domain-Driven Design concepts on the ASP.NET Core stack. Demo application for a fictional corporate organization management tool.
 
 - [ChristDDD](https://github.com/anjoy8/ChristDDD)
 
-- [library](https://github.com/ddd-by-examples/library)
-	> A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
+- [library](https://github.com/ddd-by-examples/library) > A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
 
-- [Aggregates.NET](https://github.com/charlessolar/Aggregates.NET)
-	> .NET event sourced domain driven design model via NServiceBus and GetEventStore
+- [Aggregates.NET](https://github.com/charlessolar/Aggregates.NET) > .NET event sourced domain driven design model via NServiceBus and GetEventStore
 
-- [eShopOnContainersDDD](https://github.com/charlessolar/eShopOnContainersDDD)
-	> Fork of dotnet-architecture/eShopOnContainers in full DDD/CQRS design using my own patterns
-	
-- [ddd-and-eventsourcing-example](https://github.com/eraydin/ddd-and-eventsourcing-example)	
+- [eShopOnContainersDDD](https://github.com/charlessolar/eShopOnContainersDDD) > Fork of dotnet-architecture/eShopOnContainers in full DDD/CQRS design using my own patterns
+- [ddd-and-eventsourcing-example](https://github.com/eraydin/ddd-and-eventsourcing-example)
 
-- [educational-platform](https://github.com/anton-liauchuk/educational-platform)
-	> Modular Monolith Java application with DDD
+- [educational-platform](https://github.com/anton-liauchuk/educational-platform) > Modular Monolith Java application with DDD
 
-- [coolstore-moduliths](https://github.com/thangchung/coolstore-moduliths)
-	> The coolstore website on modular monolith approach
+- [coolstore-moduliths](https://github.com/thangchung/coolstore-moduliths) > The coolstore website on modular monolith approach
 
-- [modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd)
-	> Full Modular Monolith application with Domain-Driven Design approach.
+- [modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) > Full Modular Monolith application with Domain-Driven Design approach.
 
 - [Trill-modular-monolith](https://github.com/devmentors/Trill-modular-monolith)
 
 - [Confab-training](https://github.com/spetz/Confab-training)
 
-- [coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices)
-	> A full-stack .NET microservices build on Dapr and Tye
+- [coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) > A full-stack .NET microservices build on Dapr and Tye
 
-- [grandnode/grandnode](https://github.com/grandnode/grandnode)
-	> Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB
+- [grandnode/grandnode](https://github.com/grandnode/grandnode) > Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB
 
-- [smartstore/SmartStoreNET](https://github.com/smartstore/SmartStoreNET)
-	> Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution
+- [smartstore/SmartStoreNET](https://github.com/smartstore/SmartStoreNET) > Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution
 
+<<<<<<< HEAD
 - [smartstore/Smartstore](https://github.com/smartstore/Smartstore)
 	> Open Source ASP.NET Core Enterprise eCommerce Shopping Cart Solution
 
@@ -1074,15 +1090,17 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 	
 - [VirtoCommerce/vc-storefront](https://github.com/VirtoCommerce/vc-storefront)	
 	> VirtoCommerce Storefront for ASP.NET Core 3.1 repository
+=======
+- [smartstore/Smartstore](https://github.com/smartstore/Smartstore) > Open Source ASP.NET Core Enterprise eCommerce Shopping Cart Solution
+- [VirtoCommerce/vc-storefront](https://github.com/VirtoCommerce/vc-storefront) > VirtoCommerce Storefront for ASP.NET Core 3.1 repository
+>>>>>>> 22a68a9db05e38e4697bdea902ec638243900be7
 
-- [VirtoCommerce/vc-module-customer](https://github.com/VirtoCommerce/vc-module-customer/)
-	> Contacts management module
-	
-- [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce)
-	> The most popular open-source eCommerce shopping cart solution based on ASP.NET Core
-	
+- [VirtoCommerce/vc-module-customer](https://github.com/VirtoCommerce/vc-module-customer/) > Contacts management module
+- [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce) > The most popular open-source eCommerce shopping cart solution based on ASP.NET Core
 - [trueai-org/module-shop](https://github.com/trueai-org/module-shop)
+
 #### Library
+
 - [https://contextmapper.org](https://contextmapper.org)
 
 <div align="right">
@@ -1090,6 +1108,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 </div>
 
 #### Exceptions
+
 - [Prefer Custom Exceptions to Framework Exceptions](https://ardalis.com/prefer-custom-exceptions-to-framework-exceptions/)
 
 <div align="right">
@@ -1099,6 +1118,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 #### Value Objects
 
 ##### 📝 Articles
+
 - [Implement value objects](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/implement-value-objects)
 - [The hidden value of the Value Object](https://dev.to/rafalpienkowski/the-hidden-value-of-the-value-object-1hga)
 - [DDD Value Objects With Entity Framework Core](https://www.edgesidesolutions.com/ddd-value-objects-with-entity-framework-core/)
@@ -1110,28 +1130,29 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [Improved Support for Value Objects with EF Core 2.2](https://www.nankov.com/posts/improved-support-value-objects-ef-core-22)
 - [Value Object](https://jonatandragon.com/value-object)
 - [Owned Entity Types](https://docs.microsoft.com/en-us/ef/core/modeling/owned-entities)
+
 ##### Videos
+
 - [Treating Primitive Obsession with ValueObjects | DDD in .NET](https://www.youtube.com/watch?v=h4uldNA1JUE)
 - [The Power of Value - Power Use of Value Objects in Domain Driven Design - Dan Bergh Johnsson](https://www.youtube.com/watch?v=vh-LT1mkIz4)
 
 ##### Samples
-- [milannankov/EfCoreValueObjects](https://github.com/milannankov/EfCoreValueObjects)
-	> Illustrates support for value object with Entity Framework Core 2.2
-	
+
+- [milannankov/EfCoreValueObjects](https://github.com/milannankov/EfCoreValueObjects) > Illustrates support for value object with Entity Framework Core 2.2
+
 ##### Library
-- [Value](https://github.com/tpierrain/Value)
-	> a pico library (or code snippets shed) to help you to easily implement Value Types in your C# projects without making errors nor polluting your domain logic with boiler-plate code.
-	
-- [ValueOf](https://github.com/mcintyre321/ValueOf)
-	> Deal with Primitive Obsession - define ValueObjects in a single line (of C#).
+
+- [Value](https://github.com/tpierrain/Value) > a pico library (or code snippets shed) to help you to easily implement Value Types in your C# projects without making errors nor polluting your domain logic with boiler-plate code.
+- [ValueOf](https://github.com/mcintyre321/ValueOf) > Deal with Primitive Obsession - define ValueObjects in a single line (of C#).
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 	
-#### Domain 
+#### Domain
 
 ##### 📝 Articles
+
 - [Always-Valid Domain Model](https://enterprisecraftsmanship.com/posts/always-valid-domain-model/) - Vladimir Khorikove
 - [Domain Model Encapsulation and PI with Entity Framework 2.2](http://www.kamilgrzybek.com/design/domain-model-encapsulation-and-pi-with-entity-framework-2-2/) - Kamil Grzybek
 - [Attributes of Clean Domain Model](http://www.kamilgrzybek.com/design/clean-domain-model-attributes/) - Kamil Grzybek
@@ -1153,6 +1174,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [Strategic DDD — Focusing on the Core Domain](https://afedyanin.wordpress.com/2016/05/18/focusing-on-the-core-domain/)
 
 ##### 📹 Videos
+
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU) - CodeOpinion
 
 <div align="right">
@@ -1161,6 +1183,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 #### Bounded Context
 
 ##### 📝 Articles
+
 - [Context is King: Finding Service Boundaries](https://codeopinion.com/context-is-king-finding-service-boundaries/)
 - [Defining Service Boundaries by Splitting Entities](https://codeopinion.com/defining-service-boundaries-by-splitting-entities/)
 - [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
@@ -1168,6 +1191,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [Bounded Context](https://thedomaindrivendesign.io/bounded-context/)
 
 ##### 📹 Videos
+
 - [Context is King | Finding Service Boundaries Talk](https://www.youtube.com/watch?v=dnhshUdRW70)
 - [Defining Service Boundaries by Splitting Entities](https://www.youtube.com/watch?v=lGvYHmvXiyk)
 
@@ -1186,9 +1210,10 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 #### Application Service
 
 ##### 📝 Articles
+
 - [Domain services vs Application services](https://enterprisecraftsmanship.com/2016/09/08/domain-services-vs-application-services/) - Vladimir Khorikove
 - [Implement the microservice application layer using the Web API](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/microservice-application-layer-implementation-web-api) - Microsoft
-- [Simple CQRS implementation with raw SQL and DDD](http://www.kamilgrzybek.com/design/simple-cqrs-implementation-with-raw-sql-and-ddd/) - Kamil Grzybek 
+- [Simple CQRS implementation with raw SQL and DDD](http://www.kamilgrzybek.com/design/simple-cqrs-implementation-with-raw-sql-and-ddd/) - Kamil Grzybek
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -1196,6 +1221,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 #### Domain Events
 
 ##### 📝 Articles
+
 - [How to publish and handle Domain Events](http://www.kamilgrzybek.com/design/how-to-publish-and-handle-domain-events/) - Kamil Grzybek
 - [Handling Domain Events: Missing Part](http://www.kamilgrzybek.com/design/handling-domain-events-missing-part/) - Kamil Grzybek
 - [The Outbox Pattern](http://www.kamilgrzybek.com/design/the-outbox-pattern/) - Kamil Grzybek
@@ -1217,6 +1243,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ### Validation
 
 ##### 📝 Articles
+
 - [Design validations in the domain model layer](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/domain-model-layer-validations) - Microsoft
 - [REST API Data Validation](http://www.kamilgrzybek.com/design/rest-api-data-validation/) - Kamil Grzybek
 - [Domain Model Validation](http://www.kamilgrzybek.com/design/domain-model-validation/) - Kamil Grzybek
@@ -1227,16 +1254,16 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [The fallacy of the always-valid entity](https://jeffreypalermo.com/2009/05/the-fallacy-of-the-always-valid-entity/) - Jeffrey Palermo
 
 ##### Library
-- [GuardClauses](https://github.com/ardalis/GuardClauses)
-	> A simple package with guard clause extensions.
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
 
+- [GuardClauses](https://github.com/ardalis/GuardClauses) > A simple package with guard clause extensions.
+  <div align="right">
+    <b><a href="#contents">↥ Back To Top</a></b>
+  </div>
 
 #### Infrastructure
 
 ##### 📝 Articles
+
 - [Design the infrastructure persistence layer](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-design) - Microsoft
 - [Implement the infrastructure persistence layer with Entity Framework Core](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-implementation-entity-framework-core) - Microsoft
 - [Use NoSQL databases as a persistence infrastructure](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/nosql-database-persistence-infrastructure) - Microsoft
@@ -1249,22 +1276,26 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 #### Aggregation
 
 ##### 📝 Articles
+
 - [Processing multiple aggregates – transactional vs eventual consistency](https://www.kamilgrzybek.com/design/processing-multiple-aggregates-transactional-vs-eventual-consistency/) - Kamil Grzybek
 - [Handling concurrency – Aggregate Pattern and EF Core](http://www.kamilgrzybek.com/design/handling-concurrency-aggregate-pattern-and-ef-core/) - Kamil Grzybek
 - [Aggregate (Root) Design: Behavior & Data](https://codeopinion.com/aggregate-root-design-behavior-data/?utm_source=feedly&utm_medium=rss&utm_campaign=aggregate-root-design-behavior-data) - CodeOpinion
 - [Strengthening your domain: Aggregate Construction](https://lostechies.com/jimmybogard/2010/02/24/strengthening-your-domain-aggregate-construction/)
 - [Idempotent Aggregates](https://codeopinion.com/idempotent-aggregates/)
+
 ##### 📹 Videos
+
 - [Aggregate (Root) Design: Separate Behavior & Data for Persistence](https://www.youtube.com/watch?v=GtWVGJp061A) - CodeOpinion
 - [Adding Aggregate Example to Clean Architecture solution template](https://www.youtube.com/watch?v=kxuGtgOimGA) - Steve Smith
 - [Aggregate Design: Using Invariants as a Guide](https://www.youtube.com/watch?v=64ngP-aUYPc) - CodeOpinion
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+  <div align="right">
+    <b><a href="#contents">↥ Back To Top</a></b>
+  </div>
 
 #### Mapping
 
 ##### 📝 Articles
+
 - [Scaffold Your Clean DDD Web Application - Part 5: Domain-Driven Design Entity Mapping Strategies](https://blog.jacobsdata.com/2021/03/22/scaffold-your-clean-ddd-web-application-part-5-domain-driven-design-entity-mapping-strategies) - John Jacobs
 
 <div align="right">
@@ -1285,6 +1316,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [Listing Strongly Typed Enum Options in C#](https://ardalis.com/listing-strongly-typed-enum-options-in-c/)
 
 ##### Library
+
 - [SmartEnum](https://github.com/ardalis/SmartEnum)
 
 <div align="right">
@@ -1307,8 +1339,9 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 #### Domain Primitives
 
 ##### 📝 Articles
+
 - [My Take On Domain Primitives](https://svenhuebner-it.com/my-take-on-domain-primitives/) - Sven Hübner
-- [Domain Primitives I: easily declaring domain primitives](https://svenhuebner-it.com/domain-primitives-i-easily-declaring-domain-primitives/) - Sven Hübner 
+- [Domain Primitives I: easily declaring domain primitives](https://svenhuebner-it.com/domain-primitives-i-easily-declaring-domain-primitives/) - Sven Hübner
 - [Domain Primitives: what they are and how you can use them to make more secure software](https://freecontent.manning.com/domain-primitives-what-they-are-and-how-you-can-use-them-to-make-more-secure-software/)
 
 <div align="right">
@@ -1318,9 +1351,10 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 #### Tactical Design Patterns
 
 ##### 📝 Articles
+
 - [Tactical Domain-Driven Design](https://vaadin.com/learn/tutorials/ddd/tactical_domain_driven_design) - Vaadin
 - [DDD — Tactical Design Patterns](https://afedyanin.wordpress.com/2016/04/27/ddd-tactical-design-patterns/)
-- [What is Tactical Design ?](https://thedomaindrivendesign.io/what-is-tactical-design/)	
+- [What is Tactical Design ?](https://thedomaindrivendesign.io/what-is-tactical-design/)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -1329,6 +1363,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 #### Strategic Design Patterns
 
 ##### 📝 Articles
+
 - [Strategic Domain-Driven Design](https://vaadin.com/learn/tutorials/ddd/strategic_domain_driven_design) - Vaadin
 - [What is Strategic Design ?](https://thedomaindrivendesign.io/what-is-strategic-design/)
 - [Strategic DDD — Distilling the problem domain](https://afedyanin.wordpress.com/2016/05/17/distilling-the-problem-domain/)
@@ -1342,6 +1377,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ### Data Driven Design (Data Centric)
 
 #### 📝 Articles
+
 - [Creating a simple data-driven CRUD microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/data-driven-crud-microservice)
 - [Domain-centric Architectures are Cool, but Why ?](https://blog.cancobanoglu.net/2017/05/11/domain-centric-architectures-are-cool-but-why/)
 - [Domain-centric vs data-centric approaches to software development](https://enterprisecraftsmanship.com/posts/domain-centric-vs-data-centric-approaches/)
@@ -1350,6 +1386,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [AVOID Entity Services by Focusing on Capabilities](https://codeopinion.com/avoid-entity-services-by-focusing-on-capabilities/)
 
 #### 📹 Videos
+
 - [Creating N-Tier Applications in C#, Part 1](https://www.pluralsight.com/courses/n-tier-apps-part1)
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture)
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU)
@@ -1362,6 +1399,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ### CQRS
 
 #### 📝 Articles
+
 - [Command and Query Responsibility Segregation (CQRS) pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs) - Microsoft
 - [Simple CQRS implementation with raw SQL and DDD](http://www.kamilgrzybek.com/design/simple-cqrs-implementation-with-raw-sql-and-ddd/) - Kamil Grzybek
 - [CQRS/MediatR implementation patterns](https://lostechies.com/jimmybogard/2016/10/27/cqrsmediatr-implementation-patterns/) - Jimmy Bogard
@@ -1399,8 +1437,8 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [CQRS with MediatR and AutoMapper](https://lostechies.com/jimmybogard/2015/05/05/cqrs-with-mediatr-and-automapper/)
 - [Thin Controllers with CQRS and MediatR](https://codeopinion.com/thin-controllers-cqrs-mediatr/)
 
-
 #### 📹 Videos
+
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
 - [Decomposing CRUD to a Task Based UI](https://www.youtube.com/watch?v=DjZepWrAKzM)
 - [CQRS Myths | 3 Most Common Misconceptions](https://www.youtube.com/watch?v=O9qpcZt6jW0&t=77s)
@@ -1409,38 +1447,25 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [CQRS Myths | 3 Most Common Misconceptions](https://www.youtube.com/watch?v=O9qpcZt6jW0)
 
 #### Library
-- [https://github.com/gautema/CQRSlite](https://github.com/gautema/CQRSlite)
-	> A lightweight framework to help creating CQRS and Eventsourcing applications in C#
+
+- [https://github.com/gautema/CQRSlite](https://github.com/gautema/CQRSlite) > A lightweight framework to help creating CQRS and Eventsourcing applications in C#
 
 #### 🔖 Samples
 
-- [sample-dotnet-core-cqrs-api](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - Kamil Grzybek
-	> Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
-	
-- [run-aspnetcore-cqrs](https://github.com/aspnetrun/run-aspnetcore-cqrs) - AspNetRun
-	> Real world Enterprise CRM application example of ASP.NET Core + Angular web application. Implemented CQRS Design Pattern for ASP.NET Core + Angular reference application, demonstrating a layered application architecture with DDD
+- [sample-dotnet-core-cqrs-api](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - Kamil Grzybek > Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
+- [run-aspnetcore-cqrs](https://github.com/aspnetrun/run-aspnetcore-cqrs) - AspNetRun > Real world Enterprise CRM application example of ASP.NET Core + Angular web application. Implemented CQRS Design Pattern for ASP.NET Core + Angular reference application, demonstrating a layered application architecture with DDD
 
-- [CQRS](https://github.com/tpierrain/CQRS)
-	> A simple project to explain CQRS during a live coding session at MS experiences'16
-	
-- [ChristDDD](https://github.com/anjoy8/ChristDDD)
-	> 🙌 ASP.NET Core 3.1 应用, 包含 DDD、CQRS、EDA 和ES事件回溯
+- [CQRS](https://github.com/tpierrain/CQRS) > A simple project to explain CQRS during a live coding session at MS experiences'16
+- [ChristDDD](https://github.com/anjoy8/ChristDDD) > 🙌 ASP.NET Core 3.1 应用, 包含 DDD、CQRS、EDA 和 ES 事件回溯
 
-- [Reddnet](https://github.com/moritz-mm/Reddnet)
-	> A mini Reddit written in ASP.NET Core 5.0
+- [Reddnet](https://github.com/moritz-mm/Reddnet) > A mini Reddit written in ASP.NET Core 5.0
 
-- [grandnode/grandnode](https://github.com/grandnode/grandnode)
-	> Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB
+- [grandnode/grandnode](https://github.com/grandnode/grandnode) > Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB
 
-- [smartstore/SmartStoreNET](https://github.com/smartstore/SmartStoreNET)
-	> Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution
+- [smartstore/SmartStoreNET](https://github.com/smartstore/SmartStoreNET) > Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution
 
-- [VirtoCommerce/vc-storefront](https://github.com/VirtoCommerce/vc-storefront)	
-	> VirtoCommerce Storefront for ASP.NET Core 3.1 repository
-	
-- [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce)
-	> The most popular open-source eCommerce shopping cart solution based on ASP.NET Core
-	
+- [VirtoCommerce/vc-storefront](https://github.com/VirtoCommerce/vc-storefront) > VirtoCommerce Storefront for ASP.NET Core 3.1 repository
+- [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce) > The most popular open-source eCommerce shopping cart solution based on ASP.NET Core
 - [trueai-org/module-shop](https://github.com/trueai-org/module-shop)
 
 <div align="right">
@@ -1449,7 +1474,8 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 	
 ### Event Sourcing
 
-#### 📝 Articles 
+#### 📝 Articles
+
 - [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) - Martin Fowler
 - [About event sourcing](https://eventuate.io/whyeventsourcing.html) - eventuate.io
 - [Event Sourcing pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing) - Microsoft
@@ -1461,48 +1487,47 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [EVENT SOURCING MICROSERVICES PATTERN](https://akfpartners.com/growth-blog/event-sourcing-microservices-pattern)
 
 #### Videos
+
 - [Event Sourcing Example & Explained in plain English](https://www.youtube.com/watch?v=AUj4M-st3ic)
 - [Projections in Event Sourcing: Build ANY model you want!](https://www.youtube.com/watch?v=bTRjO6JK4Ws)
 - [Event Sourcing: Rehydrating Aggregates with Snapshots](https://www.youtube.com/watch?v=eAIkomEid1Y)
 - [Event Sourcing with Azure SQL and Entity Framework Core](https://www.youtube.com/watch?v=-BhDW3GeSqg)
 - [What's an Event Driven System?](https://www.youtube.com/watch?v=rJHTK2TfZ1I)
-### Library
-- [EventFlow](https://github.com/eventflow/EventFlow)
-	> Async/await first CQRS+ES and DDD framework for .NET
 
-- [AggregateSource](https://github.com/yreynhout/AggregateSource)
-	> Lightweight infrastructure for doing eventsourcing using aggregates
-	
-- [Projac](https://github.com/BitTacklr/Projac)
-	> A set of .NET projection libraries
-	
+### Library
+
+- [EventFlow](https://github.com/eventflow/EventFlow) > Async/await first CQRS+ES and DDD framework for .NET
+
+- [AggregateSource](https://github.com/yreynhout/AggregateSource) > Lightweight infrastructure for doing eventsourcing using aggregates
+- [Projac](https://github.com/BitTacklr/Projac) > A set of .NET projection libraries
+
 #### Samples
+
 - [Hands-On-Domain-Driven-Design-with-.NET-Core](https://github.com/PacktPublishing/Hands-On-Domain-Driven-Design-with-.NET-Core) - Alexey Zimarev
 
-- [Aggregates.NET](https://github.com/charlessolar/Aggregates.NET)
-	> .NET event sourced domain driven design model via NServiceBus and GetEventStore
+- [Aggregates.NET](https://github.com/charlessolar/Aggregates.NET) > .NET event sourced domain driven design model via NServiceBus and GetEventStore
 
-- [eShopOnContainersDDD](https://github.com/charlessolar/eShopOnContainersDDD)
-	> Fork of dotnet-architecture/eShopOnContainers in full DDD/CQRS design using my own patterns
+- [eShopOnContainersDDD](https://github.com/charlessolar/eShopOnContainersDDD) > Fork of dotnet-architecture/eShopOnContainers in full DDD/CQRS design using my own patterns
 
-- [ProductContext-EventSourcing](https://github.com/osoykan/ProductContext-EventSourcing)
-	> A practical/experimental Event Sourcing application on Product Bounded Context in an e-commerce
+- [ProductContext-EventSourcing](https://github.com/osoykan/ProductContext-EventSourcing) > A practical/experimental Event Sourcing application on Product Bounded Context in an e-commerce
 
-- [ddd-and-eventsourcing-example](https://github.com/eraydin/ddd-and-eventsourcing-example)	
+- [ddd-and-eventsourcing-example](https://github.com/eraydin/ddd-and-eventsourcing-example)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-### Microservices  
+### Microservices
 
 #### Resources
+
 - [.NET Microservices Architecture Guidance](https://dotnet.microsoft.com/learn/aspnet/microservices-architecture) - Microsoft
-- [Awesome Microservices .NET Core](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - Mohammad Ebrahimi 
+- [Awesome Microservices .NET Core](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - Mohammad Ebrahimi
 - [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/) - Microsoft
 - [Cloud-Native learning resources for .NET developers](https://devblogs.microsoft.com/dotnet/cloud-native-learning-resources-for-net-developers/)
 
 #### 📝 Articles
+
 - [Design a microservice-oriented application](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/microservice-application-design)
 - [Creating a simple data-driven CRUD microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/data-driven-crud-microservice)
 - [Microservices architecture: What the gurus say about it](https://herbertograca.com/2017/01/26/microservices-architecture/)
@@ -1527,6 +1552,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [Best Practices for Building a Microservice Architecture](https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture)
 
 #### 📹 Videos
+
 - [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) - The TechCave
 - [Microservices Architecture and Implementation on .NET 5](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/?couponCode=FA24745CC57592AB612A)
 - [Designing Loosely Coupled Microservices](https://skillsmatter.com/skillscasts/14926-designing-loosely-coupled-microservices)
@@ -1538,121 +1564,84 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [GOTO 2020 • Beyond Microservices: Streams, State and Scalability • Gwen Shapira](https://www.youtube.com/watch?v=H0LUi51aCP8)
 - [GOTO 2020 • Why GraphQL Between Microservices Is the Worst & Best Idea • Uri Goldshtein](https://www.youtube.com/watch?v=T0zpPO7Ub_s)
 - [GOTO 2019 • Event-Driven Microservices, the Sense, the Non-sense and a Way Forward • Allard Buijze](https://www.youtube.com/watch?v=jrbWIS7BH70)
+
 #### 📦 Library
+
 - [tye](https://github.com/dotnet/tye)
-    > Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
-	
-- [Rebus](https://github.com/rebus-org/Rebus)
-	> 🚌 Simple and lean service bus implementation for .NET
+  > Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
+- [Rebus](https://github.com/rebus-org/Rebus) > 🚌 Simple and lean service bus implementation for .NET
 
-- [confluent-kafka-dotnet](https://github.com/confluentinc/confluent-kafka-dotnet/)
-	> Confluent's Apache Kafka .NET client
+- [confluent-kafka-dotnet](https://github.com/confluentinc/confluent-kafka-dotnet/) > Confluent's Apache Kafka .NET client
 
-- [CAP](https://github.com/dotnetcore/CAP)
-	> Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
+- [CAP](https://github.com/dotnetcore/CAP) > Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
 
-- [MassTransit](https://github.com/MassTransit/MassTransit)
-	> Distributed Application Framework for .NET
+- [MassTransit](https://github.com/MassTransit/MassTransit) > Distributed Application Framework for .NET
 
-- [Brighter](https://github.com/BrighterCommand/Brighter)
-	> Command Dispatcher, Processor, and Distributed Task Queue
-	
-- [reverse-proxy](https://github.com/microsoft/reverse-proxy)
-	> YARP: A toolkit for developing high-performance HTTP reverse proxy applications.
+- [Brighter](https://github.com/BrighterCommand/Brighter) > Command Dispatcher, Processor, and Distributed Task Queue
+- [reverse-proxy](https://github.com/microsoft/reverse-proxy) > YARP: A toolkit for developing high-performance HTTP reverse proxy applications.
 
-- [abp](https://github.com/abpframework/abp)	
-	> Open Source Web Application Framework for ASP.NET Core
+- [abp](https://github.com/abpframework/abp) > Open Source Web Application Framework for ASP.NET Core
 
-- [Kledex](https://github.com/lucabriguglia/Kledex)
-	> .NET Standard framework to create simple and clean design. Advanced features for DDD, CQRS and Event Sourcing.
-	
-- [microdot](https://github.com/gigya/microdot)
-	> Microdot: An open source .NET microservices framework
-	
-- [Steeltoe](https://github.com/SteeltoeOSS/Steeltoe)	
-	> Steeltoe .NET Core Components: CircuitBreaker, Configuration, Connectors, Discovery, Logging, Management, and Security
-	
-- [Foundatio](https://github.com/FoundatioFx/Foundatio)
-	> Pluggable foundation blocks for building distributed apps.
-	
-- [Enbiso.NLib](https://github.com/enbiso/Enbiso.NLib)
-	> .Net Standard Libraries for Microservices
+- [Kledex](https://github.com/lucabriguglia/Kledex) > .NET Standard framework to create simple and clean design. Advanced features for DDD, CQRS and Event Sourcing.
+- [microdot](https://github.com/gigya/microdot) > Microdot: An open source .NET microservices framework
+- [Steeltoe](https://github.com/SteeltoeOSS/Steeltoe) > Steeltoe .NET Core Components: CircuitBreaker, Configuration, Connectors, Discovery, Logging, Management, and Security
+- [Foundatio](https://github.com/FoundatioFx/Foundatio) > Pluggable foundation blocks for building distributed apps.
+- [Enbiso.NLib](https://github.com/enbiso/Enbiso.NLib) > .Net Standard Libraries for Microservices
 
-- [knightbus](https://github.com/BookBeat/knightbus)
-	> Fast multi-transport messaging framework
+- [knightbus](https://github.com/BookBeat/knightbus) > Fast multi-transport messaging framework
 
-- [Platibus](https://github.com/sweetlandj/Platibus)	
-	> Decentralized asynchronous messaging framework
-	
-- [MicroBus is a simple in process Mediator for .NET](https://github.com/daniellittledev/Enexure.MicroBus)
-	> MicroBus is a simple in process Mediator for .NET
-	
-- [Mediator.Net](https://github.com/mayuanyang/Mediator.Net)
-	> A simple mediator for .Net for sending command, publishing event and request response with pipelines supported
+- [Platibus](https://github.com/sweetlandj/Platibus) > Decentralized asynchronous messaging framework
+- [MicroBus is a simple in process Mediator for .NET](https://github.com/daniellittledev/Enexure.MicroBus) > MicroBus is a simple in process Mediator for .NET
+- [Mediator.Net](https://github.com/mayuanyang/Mediator.Net) > A simple mediator for .Net for sending command, publishing event and request response with pipelines supported
 
-- [Brighter](https://github.com/BrighterCommand/Brighter.git)
-	> Command Dispatcher, Processor, and Distributed Task Queue
+- [Brighter](https://github.com/BrighterCommand/Brighter.git) > Command Dispatcher, Processor, and Distributed Task Queue
 
-- [Darker](https://github.com/BrighterCommand/Darker)
-	> The query-side counterpart of Brighter
+- [Darker](https://github.com/BrighterCommand/Darker) > The query-side counterpart of Brighter
 
-- [surging](https://github.com/fanliang11/surging)
-	> Surging is a micro-service engine that provides a lightweight, high-performance, modular RPC request pipeline. The service engine supports http, TCP, WS,Grpc, Thrift,Mqtt, UDP, and DNS protocols. It uses ZooKeeper and Consul as a registry, and integrates it. Hash, random, polling, Fair Polling as a load balancing algorithm,
+- [surging](https://github.com/fanliang11/surging) > Surging is a micro-service engine that provides a lightweight, high-performance, modular RPC request pipeline. The service engine supports http, TCP, WS,Grpc, Thrift,Mqtt, UDP, and DNS protocols. It uses ZooKeeper and Consul as a registry, and integrates it. Hash, random, polling, Fair Polling as a load balancing algorithm,
 
-- [FamilyBucket](https://github.com/q315523275/FamilyBucket)
-	> 集合.net core、ocelot、consul、netty、rpc、eventbus、configserver、tracing、sqlsugar、vue-admin、基础管理平台等构建的微服务一条龙应用
+- [FamilyBucket](https://github.com/q315523275/FamilyBucket) > 集合.net core、ocelot、consul、netty、rpc、eventbus、configserver、tracing、sqlsugar、vue-admin、基础管理平台等构建的微服务一条龙应用
 
 #### Books
+
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
 
 #### 🔖 Samples
 
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers)
-    > Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
+
+  > Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
 
 - [coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - Thang Chung
-    > A full-stack .NET microservices build on Dapr and Tye
+
+  > A full-stack .NET microservices build on Dapr and Tye
 
 - [practical-dapr](https://github.com/thangchung/practical-dapr) - Thang Chung
-    > A full-stack .NET microservices build on Dapr and Tye
 
-- [eShopOnContainersDDD](https://github.com/charlessolar/eShopOnContainersDDD)
-	> Fork of dotnet-architecture/eShopOnContainers in full DDD/CQRS design using my own patterns
-	
+  > A full-stack .NET microservices build on Dapr and Tye
+
+- [eShopOnContainersDDD](https://github.com/charlessolar/eShopOnContainersDDD) > Fork of dotnet-architecture/eShopOnContainers in full DDD/CQRS design using my own patterns
 - [dapr-tye-simple-microservices](https://github.com/kimcu-on-thenet/dapr-tye-simple-microservices)
-    > An example of building .NET Core microservices with Dapr and Tye
 
-- [run-aspnetcore-microservices](https://github.com/aspnetrun/run-aspnetcore-microservices) - AspNetRun
-	> Microservices on .Net platforms which used Asp.Net Web API, Docker, RabbitMQ, Ocelot API Gateway, MongoDB, Redis, SqlServer, Entity Framework Core, CQRS and Clean Architecture implementation. See Microservices Architecture and Step by Step Implementation on .NET Course w/ discount
-	
-- [run-aspnet-identityserver4](https://github.com/aspnetrun/run-aspnet-identityserver4) - AspNetRun
-	> Secure microservices with using standalone Identity Server 4 and backing with Ocelot API Gateway. Protect our ASP.NET Web MVC and API applications with using OAuth 2 and OpenID Connect in IdentityServer4. Securing your web application and API with tokens, working with claims, authentication and authorization middlewares and applying policies.
-	
-- [ModernArchitectureShop](https://github.com/alugili/ModernArchitectureShop) - Bassam Alugili
-	> The Microservices Online Shop is an application with a modern software architecture that is cleanly designed and based on.NET lightweight technologies. The shop has two build variations. The first variant is the classic Microservices Architectural Style. The second one is with Dapr. Dapr has a comprehensive infrastructure  
-	
-- [run-aspnet-grpc](https://github.com/aspnetrun/run-aspnet-grpc) - AspNetRun
-	> Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5. See gRPC Microservices and Step by Step Implementation on .NET Course w/ discount->
+  > An example of building .NET Core microservices with Dapr and Tye
+
+- [run-aspnetcore-microservices](https://github.com/aspnetrun/run-aspnetcore-microservices) - AspNetRun > Microservices on .Net platforms which used Asp.Net Web API, Docker, RabbitMQ, Ocelot API Gateway, MongoDB, Redis, SqlServer, Entity Framework Core, CQRS and Clean Architecture implementation. See Microservices Architecture and Step by Step Implementation on .NET Course w/ discount
+- [run-aspnet-identityserver4](https://github.com/aspnetrun/run-aspnet-identityserver4) - AspNetRun > Secure microservices with using standalone Identity Server 4 and backing with Ocelot API Gateway. Protect our ASP.NET Web MVC and API applications with using OAuth 2 and OpenID Connect in IdentityServer4. Securing your web application and API with tokens, working with claims, authentication and authorization middlewares and applying policies.
+- [ModernArchitectureShop](https://github.com/alugili/ModernArchitectureShop) - Bassam Alugili > The Microservices Online Shop is an application with a modern software architecture that is cleanly designed and based on.NET lightweight technologies. The shop has two build variations. The first variant is the classic Microservices Architectural Style. The second one is with Dapr. Dapr has a comprehensive infrastructure
+
+- [run-aspnet-grpc](https://github.com/aspnetrun/run-aspnet-grpc) - AspNetRun > Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5. See gRPC Microservices and Step by Step Implementation on .NET Course w/ discount->
 
 - [coolstore-microservice](https://github.com/jbossdemocentral/coolstore-microservice)
 
-- [practical-clean-ddd](https://github.com/thangchung/practical-clean-ddd)
-	> A simplified and effortless approach to get started with Domain-driven Design, Clean Architecture, CQRS, and Microservices patterns
-	
-- [shopping-cart-k8s](https://github.com/thangchung/shopping-cart-k8s)
-	> Service Mesh patterns for Microservices
+- [practical-clean-ddd](https://github.com/thangchung/practical-clean-ddd) > A simplified and effortless approach to get started with Domain-driven Design, Clean Architecture, CQRS, and Microservices patterns
+- [shopping-cart-k8s](https://github.com/thangchung/shopping-cart-k8s) > Service Mesh patterns for Microservices
 
-- [Aggregates.NET](https://github.com/charlessolar/Aggregates.NET)
-	> .NET event sourced domain driven design model via NServiceBus and GetEventStore
+- [Aggregates.NET](https://github.com/charlessolar/Aggregates.NET) > .NET event sourced domain driven design model via NServiceBus and GetEventStore
 
-- [ViennaNET](https://github.com/Raiffeisen-DGTL/ViennaNET)
-	> Framework for quickly creating enterprise microservices on .NET Core
+- [ViennaNET](https://github.com/Raiffeisen-DGTL/ViennaNET) > Framework for quickly creating enterprise microservices on .NET Core
 
-- [MicroCouriers](https://github.com/ImranMA/MicroCouriers)
-	> Microservices ASP.NET Core + Event Bus + Kubernetes + Design Patterns
-	
-- [book-fast-service-fabric](https://github.com/dzimchuk/book-fast-service-fabric)
-	> A sample demonstrating how to implement a multitenant facility management and accommodation booking application as native Azure Service Fabric reliable services.
+- [MicroCouriers](https://github.com/ImranMA/MicroCouriers) > Microservices ASP.NET Core + Event Bus + Kubernetes + Design Patterns
+- [book-fast-service-fabric](https://github.com/dzimchuk/book-fast-service-fabric) > A sample demonstrating how to implement a multitenant facility management and accommodation booking application as native Azure Service Fabric reliable services.
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -1661,11 +1650,13 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ### Observibility
 
 #### Articles
+
 - [Monitoring and Observability in Cloud-Native ASP.NET Core apps](https://devblogs.microsoft.com/aspnet/monitoring-and-observability-in-cloud-native-asp-net-core-apps/)
 
 #### 📹 Videos
+
 - [On .NET Live - Cloud Native Patterns for .NET Developers](https://www.youtube.com/watch?v=PDdHa0ushJ0)
-	
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -1675,20 +1666,24 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 #### 📝 Articles
 
 #### 📹 Videos
+
 - [On .NET Live - Microservice applications with DAPR and .NET](https://www.youtube.com/watch?v=kIfmwmJHNMs)
 
 #### Samples
+
 - [https://github.com/vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - Thang Chung
-    > A full-stack .NET microservices build on Dapr and Tye
+
+  > A full-stack .NET microservices build on Dapr and Tye
 
 - [https://github.com/thangchung/practical-dapr](https://github.com/thangchung/practical-dapr) - Thang Chung
-    > A full-stack .NET microservices build on Dapr and Tye
+
+  > A full-stack .NET microservices build on Dapr and Tye
 
 - [https://github.com/kimcu-on-thenet/dapr-tye-simple-microservices](https://github.com/kimcu-on-thenet/dapr-tye-simple-microservices)
-    > An example of building .NET Core microservices with Dapr and Tye
 
-- [https://github.com/alugili/ModernArchitectureShop](https://github.com/alugili/ModernArchitectureShop) - Bassam Alugili
-	> The Microservices Online Shop is an application with a modern software architecture that is cleanly designed and based on.NET lightweight technologies. The shop has two build variations. The first variant is the classic Microservices Architectural Style. The second one is with Dapr. Dapr has a comprehensive infrastructure 
+  > An example of building .NET Core microservices with Dapr and Tye
+
+- [https://github.com/alugili/ModernArchitectureShop](https://github.com/alugili/ModernArchitectureShop) - Bassam Alugili > The Microservices Online Shop is an application with a modern software architecture that is cleanly designed and based on.NET lightweight technologies. The shop has two build variations. The first variant is the classic Microservices Architectural Style. The second one is with Dapr. Dapr has a comprehensive infrastructure
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -1701,29 +1696,27 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ##### 📝 Articles
 
 ##### 📹 Videos
- 
+
 #### Samples
- - [surging](https://github.com/fanliang11/surging)
-	> Surging is a micro-service engine that provides a lightweight, high-performance, modular RPC request pipeline. The service engine supports http, TCP, WS,Grpc, Thrift,Mqtt, UDP, and DNS protocols. It uses ZooKeeper and Consul as a registry, and integrates it. Hash, random, polling, Fair Polling as a load balancing algorithm,
 
-- [FamilyBucket](https://github.com/q315523275/FamilyBucket)
-	> 集合.net core、ocelot、consul、netty、rpc、eventbus、configserver、tracing、sqlsugar、vue-admin、基础管理平台等构建的微服务一条龙应用
+- [surging](https://github.com/fanliang11/surging) > Surging is a micro-service engine that provides a lightweight, high-performance, modular RPC request pipeline. The service engine supports http, TCP, WS,Grpc, Thrift,Mqtt, UDP, and DNS protocols. It uses ZooKeeper and Consul as a registry, and integrates it. Hash, random, polling, Fair Polling as a load balancing algorithm,
 
-- [GrpcConsul](https://github.com/pchalamet/GrpcConsul)
-	> Sample for GRPC + Consul + dynamic endpoint for .net
+- [FamilyBucket](https://github.com/q315523275/FamilyBucket) > 集合.net core、ocelot、consul、netty、rpc、eventbus、configserver、tracing、sqlsugar、vue-admin、基础管理平台等构建的微服务一条龙应用
 
-- [Kit.ServiceDiscovery](https://github.com/Chatham/Kit.ServiceDiscovery)
-	> Service discovery kit for .NET microservices
-	
+- [GrpcConsul](https://github.com/pchalamet/GrpcConsul) > Sample for GRPC + Consul + dynamic endpoint for .net
+
+- [Kit.ServiceDiscovery](https://github.com/Chatham/Kit.ServiceDiscovery) > Service discovery kit for .NET microservices
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-### Tye 
+### Tye
 
 #### 📝 Articles
 
 #### 📹 Videos
+
 - [Building microservices with Tye](https://www.youtube.com/watch?v=m4VsOdIT1O4)
 
 <div align="right">
@@ -1733,14 +1726,17 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ### Steeltoe
 
 #### Resources
+
 - [Steeltoe](https://github.com/SteeltoeOSS/Steeltoe)
 - [Steeltoe.io](https://steeltoe.io)
 
 #### 📹 Videos
+
 - [.NET Microservices with Steeltoe](https://channel9.msdn.com/Shows/On-NET/NET-Microservices-with-Steeltoe)
 - [Steeltoe: Develop .NET Microservices Without Cloud Platform Lock-In](https://www.youtube.com/watch?v=Lg1VieZk-5c)
 
 #### Samples
+
 - [Samples](https://github.com/SteeltoeOSS/Samples)
 
 <div align="right">
@@ -1750,6 +1746,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ## Serverless Architectural Pattern
 
 ### 📹 Videos
+
 - [Serverless Computing](https://www.youtube.com/watch?v=RzsaM6kL1FU&t=0s) - The TechCave
 
 <div align="right">
@@ -1759,6 +1756,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ## MicroKernel Architectural Pattern
 
 ### 📹 Videos
+
 - [Microkernel Architectural Pattern | Software Architecture](https://www.youtube.com/watch?v=h3icQDMRLd8&t=0s) - The TechCave
 
 <div align="right">
@@ -1770,6 +1768,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ## Distributed Systems Design
 
 ### Resources
+
 - [System Design](https://www.youtube.com/playlist?list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV) - Tech Dummies Narendra L
 - [Coding and System Design Interview Questions](https://www.youtube.com/playlist?list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka) - Success in Tech
 - [System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) - Gaurav Sen
@@ -1787,13 +1786,18 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [System Design Interview](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ)
 - [http://highscalability.com/all-time-favorites/](http://highscalability.com/all-time-favorites/)
 - [systeminterview](https://courses.systeminterview.com/courses/system-design-interview-an-insider-s-guide?ref=c89a35)
+
 ### 📝 Articles
+
 - [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
 - [YouTube Architecture](http://highscalability.com/youtube-architecture)
+
 ### 📹 Videos
+
 - [Distributed Computing](https://www.youtube.com/watch?v=ajjOEltiZm4&t=0s) - The TechCave
 
 ### Books
+
 - [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
 - [System Design Interview – An insider's guide, Second Edition](https://www.amazon.com/dp/B08CMF2CQF/ref=tsm_1_fb_lk)
 - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
@@ -1820,20 +1824,23 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [Coding standards](https://docs.nopcommerce.com/en/developer/tutorials/coding-standards.html)
 - [justinamiller/Coding-Standards](https://github.com/justinamiller/Coding-Standards)
 - [C# Coding Standards and Naming Conventions](https://github.com/ktaranov/naming-convention/blob/master/C%23%20Coding%20Standards%20and%20Naming%20Conventions.md)
+
 ### 📹 Videos
+
 - [9 "rules" for cleaner code | Object Calisthenics](https://www.youtube.com/watch?v=gyrSiY4SHxI)
 - [Is clean code actually slower?](https://www.youtube.com/watch?v=zVLuQAnNue8)
+
 ### Resources
 
-- [https://github.com/thangchung/clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet) - Thang Chung 
-	> 🛁 Clean Code concepts and tools adapted for .NET
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+- [https://github.com/thangchung/clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet) - Thang Chung > 🛁 Clean Code concepts and tools adapted for .NET
+  <div align="right">
+    <b><a href="#contents">↥ Back To Top</a></b>
+  </div>
 
 ## Design Best Practices
 
 ### Articles
+
 - [Static methods considered evil?](https://enterprisecraftsmanship.com/posts/static-methods-evil/)
 
 <div align="right">
@@ -1843,6 +1850,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ### Thin Controllers
 
 #### 📝 Articles
+
 - [Put your controllers on a diet: GETs and queries](https://lostechies.com/jimmybogard/2013/10/29/put-your-controllers-on-a-diet-gets-and-queries/)
 - [Put your controllers on a diet: POSTs and commands](https://lostechies.com/jimmybogard/2013/12/19/put-your-controllers-on-a-diet-posts-and-commands/) - Jimmy Bogard
 - [CQRS with MediatR and AutoMapper](https://lostechies.com/jimmybogard/2015/05/05/cqrs-with-mediatr-and-automapper/)
@@ -1854,26 +1862,31 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ### Strongly Typed Ids
 
 #### 📝 Articles
+
 - [Using C# 9 records as strongly-typed ids](https://thomaslevesque.com/series/using-c%23-9-records-as-strongly-typed-ids/)
 - [Series: Using strongly-typed entity IDs to avoid primitive obsession](https://andrewlock.net/series/using-strongly-typed-entity-ids-to-avoid-primitive-obsession/)
 
 ### 12 Factor
 
 #### 📝 Articles
+
 - [The Twelve-Factor App](https://12factor.net/)
 
 #### Videos
- - [ASP.NET Community Standup - The 12 Factor App](https://www.youtube.com/watch?v=xRlDuXJ3t08)
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+
+- [ASP.NET Community Standup - The 12 Factor App](https://www.youtube.com/watch?v=xRlDuXJ3t08)
+  <div align="right">
+    <b><a href="#contents">↥ Back To Top</a></b>
+  </div>
 
 ## Anti Patterns
 
 ### Resources
+
 - [Anti Patterns](https://deviq.com/antipatterns/antipatterns-overview) - DevIQ
 
 #### Articles
+
 - [Don't POOP - The Partial/Optional Object Population Anti-Pattern](https://scotthannen.org/blog/2021/04/19/partial-optional-object-population.html)
 
 <div align="right">
@@ -1882,6 +1895,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ### Code Smells
 
 #### 📝 Articles
+
 - [Code Smells](https://deviq.com/antipatterns/code-smells) - DevIQ
 
 <div align="right">
@@ -1891,10 +1905,12 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ## Messaging Patterns
 
 ### Resources
+
 - [Messaging](https://www.youtube.com/playlist?list=PLThyvG1mlMzm2FyVpKDiU2c7VtrB2Zezg)
 - [DDD and Messaging Architectures](https://verraes.net/2019/05/ddd-msg-arch/)
 
 ### 📝 Articles
+
 - [Messaging patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/category/messaging) - Microsoft
 - [Communication in a microservice architecture](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/communication-in-microservice-architecture) - Microsoft
 - [Asynchronous message-based communication](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/asynchronous-message-based-communication) - Microsoft
@@ -1933,6 +1949,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [What do you mean by “Event-Driven”?](https://martinfowler.com/articles/201701-event-driven.html)
 
 ### Videos
+
 - [Handling Concurrency with Message-IDs | Event Driven Architecture](https://www.youtube.com/watch?v=wefvl2ohiQc)
 - [Message Naming Guidelines | Event Driven Architecture](https://www.youtube.com/watch?v=EmtOB2XexJI)
 - [Event Versioning Guidelines](https://www.youtube.com/watch?v=L8eH1XaRnPw&list=PLThyvG1mlMzm2FyVpKDiU2c7VtrB2Zezg)
@@ -1946,91 +1963,47 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [On .NET Live - Messaging Patterns for .NET Developers](https://www.youtube.com/watch?v=ef1DK76rseM)
 
 ### Library
-- [Enexure.MicroBus](https://github.com/Lavinski/Enexure.MicroBus)
-	> MicroBus is a simple in process Mediator for .NET
 
-- [Foundatio](https://github.com/exceptionless/Foundatio)
-	> A common interface with in memory, redis and azure implementations.
-	
-- [Kledex](https://github.com/lucabriguglia/Kledex)
-	> .NET Standard framework to create simple and clean design. Advanced features for DDD, CQRS and Event Sourcing.
-	
-- [Mediator.Net](https://github.com/mayuanyang/Mediator.Net)
-	> A simple mediator for .Net for sending command, publishing event and request response with pipelines supported.
-	
-- [MQTTnet](https://github.com/chkr1011/MQTTnet)
-	> TTnet is a high performance .NET library for MQTT based communication.
-	
-- [OpenCQRS](https://github.com/OpenCQRS/OpenCQRS)
-	>  .NET Core library for DDD, CQRS and Event Sourcing with Azure Service Bus integration. Supported database providers for the Command and the Event stores are: DocumentDB, MongoDB, SQL Server, MySQL, PostgreSQL and SQLite.
-	
-- [Rebus](https://github.com/rebus-org/Rebus)
-	>  Simple and lean service bus implementation for .NET.
-	
-- [RestBus](https://github.com/tenor/RestBus)
-	>  Messaging library for RabbitMq.
-	
-- [tossit](https://github.com/turgayozgur/tossit)
-	> Simple, easy to use library for distributed job/worker logic. Distributed messages handled by built in RabbitMQ implementation.
-	
-- [Steeltoe](https://github.com/SteeltoeOSS/Steeltoe)
-	> Steeltoe .NET Core Components: CircuitBreaker, Configuration, Connectors, Discovery, Logging, Management, and Security
-	
-- [MetroBus](https://github.com/GokGokalp/MetroBus)
-	> Lightweight messaging wrapper of 
-	
-- [Abp](https://github.com/abpframework/abp/tree/15589f4c1fbd6323cc80a5ce597b1ebf32d9eb07/framework/src/Volo.Abp.EventBus)
-	> Open Source Web Application Framework for ASP.NET Core
-	
-- [OpenSleigh](https://github.com/mizrael/OpenSleigh)
-	> OpenSleigh is a Saga management library for .NET Core.
+- [Enexure.MicroBus](https://github.com/Lavinski/Enexure.MicroBus) > MicroBus is a simple in process Mediator for .NET
 
-- [knightbus](https://github.com/BookBeat/knightbus)
-	> Fast multi-transport messaging framework
+- [Foundatio](https://github.com/exceptionless/Foundatio) > A common interface with in memory, redis and azure implementations.
+- [Kledex](https://github.com/lucabriguglia/Kledex) > .NET Standard framework to create simple and clean design. Advanced features for DDD, CQRS and Event Sourcing.
+- [Mediator.Net](https://github.com/mayuanyang/Mediator.Net) > A simple mediator for .Net for sending command, publishing event and request response with pipelines supported.
+- [MQTTnet](https://github.com/chkr1011/MQTTnet) > TTnet is a high performance .NET library for MQTT based communication.
+- [OpenCQRS](https://github.com/OpenCQRS/OpenCQRS) > .NET Core library for DDD, CQRS and Event Sourcing with Azure Service Bus integration. Supported database providers for the Command and the Event stores are: DocumentDB, MongoDB, SQL Server, MySQL, PostgreSQL and SQLite.
+- [Rebus](https://github.com/rebus-org/Rebus) > Simple and lean service bus implementation for .NET.
+- [RestBus](https://github.com/tenor/RestBus) > Messaging library for RabbitMq.
+- [tossit](https://github.com/turgayozgur/tossit) > Simple, easy to use library for distributed job/worker logic. Distributed messages handled by built in RabbitMQ implementation.
+- [Steeltoe](https://github.com/SteeltoeOSS/Steeltoe) > Steeltoe .NET Core Components: CircuitBreaker, Configuration, Connectors, Discovery, Logging, Management, and Security
+- [MetroBus](https://github.com/GokGokalp/MetroBus) > Lightweight messaging wrapper of
+- [Abp](https://github.com/abpframework/abp/tree/15589f4c1fbd6323cc80a5ce597b1ebf32d9eb07/framework/src/Volo.Abp.EventBus) > Open Source Web Application Framework for ASP.NET Core
+- [OpenSleigh](https://github.com/mizrael/OpenSleigh) > OpenSleigh is a Saga management library for .NET Core.
 
-- [SlimMessageBus](https://github.com/zarusz/SlimMessageBus)
-	> Lightweight message bus interface for .NET (pub/sub and request-response) with transport plugins for popular message brokers.
-	
-- [silverback](https://github.com/BEagle1984/silverback)
-	> Silverback is a simple but feature-rich framework to build reactive/event-driven applications or microservices with .net core.
-	
-- [Obvs](https://github.com/christopherread/Obvs)
-	> An observable microservice bus library for .NET, that wraps the underlying message transports in simple Rx based interfaces.
-	
-- [Platibus](https://github.com/sweetlandj/Platibus)
-	> Decentralized asynchronous messaging framework
+- [knightbus](https://github.com/BookBeat/knightbus) > Fast multi-transport messaging framework
 
-- [EventBus](https://github.com/jacqueskang/EventBus)
-	> A .NET Core ultra lightweight in-memory event bus implementation.
-	
-- [Enbiso.NLib](https://github.com/enbiso/Enbiso.NLib)
-	> .Net Standard Libraries for Microservices
+- [SlimMessageBus](https://github.com/zarusz/SlimMessageBus) > Lightweight message bus interface for .NET (pub/sub and request-response) with transport plugins for popular message brokers.
+- [silverback](https://github.com/BEagle1984/silverback) > Silverback is a simple but feature-rich framework to build reactive/event-driven applications or microservices with .net core.
+- [Obvs](https://github.com/christopherread/Obvs) > An observable microservice bus library for .NET, that wraps the underlying message transports in simple Rx based interfaces.
+- [Platibus](https://github.com/sweetlandj/Platibus) > Decentralized asynchronous messaging framework
 
-- [eventbus](https://github.com/tinglesoftware/eventbus)
-	> A simple Event Bus abstraction layer for working with events in .NET.
+- [EventBus](https://github.com/jacqueskang/EventBus) > A .NET Core ultra lightweight in-memory event bus implementation.
+- [Enbiso.NLib](https://github.com/enbiso/Enbiso.NLib) > .Net Standard Libraries for Microservices
 
-- [AzureFromTheTrenches.Commanding](https://github.com/JamesRandall/AzureFromTheTrenches.Commanding)	
-	> A configuration based commanding and mediator framework that supports command dispatch and execution in-process, over HTTP or over Azure Storage Queues. Written to .NET Standard 2.0 and supports many popular runtimes including .NET Core and .NET 4.6.x.
+- [eventbus](https://github.com/tinglesoftware/eventbus) > A simple Event Bus abstraction layer for working with events in .NET.
 
-- [Brighter](https://github.com/BrighterCommand/Brighter.git)
-	> Command Dispatcher, Processor, and Distributed Task Queue
+- [AzureFromTheTrenches.Commanding](https://github.com/JamesRandall/AzureFromTheTrenches.Commanding) > A configuration based commanding and mediator framework that supports command dispatch and execution in-process, over HTTP or over Azure Storage Queues. Written to .NET Standard 2.0 and supports many popular runtimes including .NET Core and .NET 4.6.x.
 
-- [Darker](https://github.com/BrighterCommand/Darker)
-	> The query-side counterpart of Brighter
+- [Brighter](https://github.com/BrighterCommand/Brighter.git) > Command Dispatcher, Processor, and Distributed Task Queue
 
-- [MassTransit](https://github.com/MassTransit/MassTransit)
-	> Distributed Application Framework for .NET
-	
-- [ViennaNET](https://github.com/Raiffeisen-DGTL/ViennaNET)
-	> Framework for quickly creating enterprise microservices on .NET Core
-	
-- [Fabrik.SimpleBus](https://github.com/benfoster/Fabrik.SimpleBus)
-	> A simple In-Process Message Bus for .NET
-	
-- [MemBus](https://github.com/flq/MemBus/tree/master/MemBus)
-	> Pure In-Memory Publish/Subscribe .NET Bus
-	
+- [Darker](https://github.com/BrighterCommand/Darker) > The query-side counterpart of Brighter
+
+- [MassTransit](https://github.com/MassTransit/MassTransit) > Distributed Application Framework for .NET
+- [ViennaNET](https://github.com/Raiffeisen-DGTL/ViennaNET) > Framework for quickly creating enterprise microservices on .NET Core
+- [Fabrik.SimpleBus](https://github.com/benfoster/Fabrik.SimpleBus) > A simple In-Process Message Bus for .NET
+- [MemBus](https://github.com/flq/MemBus/tree/master/MemBus) > Pure In-Memory Publish/Subscribe .NET Bus
+
 ### Books
+
 - [Enterprise Integration Patterns](https://amazon.com/o/asin/0321200683/ref=nosim/enterpriseint-20)
 
 <div align="right">
@@ -2044,9 +2017,9 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [Event-Driven Architecture with Apache Kafka for .NET Developers Part 1 - Event Producer](https://thecloudblog.net/post/event-driven-architecture-with-apache-kafka-for-net-developers-part-1-event-producer/)
 - [Event-Driven Architecture with Apache Kafka for .NET Developers Part 2 - Event Consumer](https://thecloudblog.net/post/event-driven-architecture-with-apache-kafka-for-.net-developers-part-2-event-consumer/)
 - [Event-Driven Architecture with Apache Kafka for .NET Developers Part 3 - Azure Event Hubs](https://thecloudblog.net/post/event-driven-architecture-with-apache-kafka-for-net-developers-part-3-azure-event-hubs/)
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+  <div align="right">
+    <b><a href="#contents">↥ Back To Top</a></b>
+  </div>
 
 ### RabbitMQ
 
@@ -2056,10 +2029,10 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-
 ## Distributed Transactions
 
 ### 📝 Articles
+
 - [Life Beyond Distributed Transactions: An Apostate's Implementation - A Primer](https://jimmybogard.com/life-beyond-transactions-implementation-primer/)
 
 <div align="right">
@@ -2069,11 +2042,12 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ## Concurrency
 
 ### 📝 Articles
+
 - [Handling concurrency – Aggregate Pattern and EF Core](http://www.kamilgrzybek.com/design/handling-concurrency-aggregate-pattern-and-ef-core/)
 
 ### Samples
-- [https://github.com/kgrzybek/efcore-concurrency-handling](https://github.com/kgrzybek/efcore-concurrency-handling)
-	> A repository showing how to handle concurrent conflicts using EntityFramework Core and DDD Aggregates
+
+- [https://github.com/kgrzybek/efcore-concurrency-handling](https://github.com/kgrzybek/efcore-concurrency-handling) > A repository showing how to handle concurrent conflicts using EntityFramework Core and DDD Aggregates
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -2082,18 +2056,21 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ## Eventual Consistency
 
 ### 📝 Articles
+
 - [Processing multiple aggregates – transactional vs eventual consistency](http://www.kamilgrzybek.com/design/processing-multiple-aggregates-transactional-vs-eventual-consistency/)
 - [Eventual Consistency for Mere Mortals](https://ralfw.de/eventual-consistency-for-mere-mortals/)
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+  <div align="right">
+    <b><a href="#contents">↥ Back To Top</a></b>
+  </div>
 
 ## Modular Monolith
 
 ### Resources
+
 - [modular-monoliths](https://files.gotocon.com/uploads/slides/conference_12/515/original/gotoberlin2018-modular-monoliths.pdf)
 
 ### 📝 Articles
+
 - [Modular Monolith: A Primer](http://www.kamilgrzybek.com/design/modular-monolith-primer/)
 - [My experience of using modular monolith and DDD architectures](https://www.thereformedprogrammer.net/my-experience-of-using-modular-monolith-and-ddd-architectures/)
 - [Modular Monolith: Architectural Drivers](http://www.kamilgrzybek.com/design/modular-monolith-architectural-drivers/)
@@ -2107,15 +2084,16 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [Decompose Your Monolith: Strategies for Migrating to Microservices](https://chrisrichardson.net/post/refactoring/2019/10/09/refactoring-to-microservices.html)
 - [Making Modular Monoliths Work](https://sookocheff.com/post/architecture/making-modular-monoliths-work/)
 - [Loosely Coupled Monolith Overview](https://codeopinion.com/loosely-coupled-monolith/)
+
 ### 🔖 Samples
+
 - [https://github.com/kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Kamil Grzybek
-    > Full Modular Monolith application with Domain-Driven Design approach.
+
+  > Full Modular Monolith application with Domain-Driven Design approach.
 
 - [https://github.com/kgrzybek/modular-monolith-with-ddd-fe-react](https://github.com/kgrzybek/modular-monolith-with-ddd-fe-react) - Kamil Grzybek
-    > FrontEnd React application for Modular Monolith With DDD repository and system
-	
-- [https://github.com/phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture)
-	> Asp.Net Core 5 Clean Architecture (Microservices, Modular Monolith, Monolith) samples (+Blazor, Angular 11, React 17, Vue 2.6), Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium E2E Testing, SignalR Notification, Hangfire Tasks Scheduling
+  > FrontEnd React application for Modular Monolith With DDD repository and system
+- [https://github.com/phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) > Asp.Net Core 5 Clean Architecture (Microservices, Modular Monolith, Monolith) samples (+Blazor, Angular 11, React 17, Vue 2.6), Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium E2E Testing, SignalR Notification, Hangfire Tasks Scheduling
 
 - [https://github.com/dcomartin/LooselyCoupledMonolith](https://github.com/dcomartin/LooselyCoupledMonolith)
 
@@ -2123,46 +2101,35 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 
 - [https://github.com/thangchung/coolstore-moduliths](https://github.com/thangchung/coolstore-moduliths)
 
-- [https://github.com/thangchung/blog-core](https://github.com/thangchung/blog-core)
-	> Modular blog using Blazor with clean domain-driven design patterns
+- [https://github.com/thangchung/blog-core](https://github.com/thangchung/blog-core) > Modular blog using Blazor with clean domain-driven design patterns
 
-- [https://github.com/ddd-by-examples/library](https://github.com/ddd-by-examples/library)
-	> A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
-	
-- [https://github.com/simplcommerce/SimplCommerce](https://github.com/simplcommerce/SimplCommerce)
-	> A simple, cross platform, modularized ecommerce system built on .NET Core
-	
-- [https://github.com/spetz/NPost](https://github.com/spetz/NPost)
-	> Modular Monolith sample
+- [https://github.com/ddd-by-examples/library](https://github.com/ddd-by-examples/library) > A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
+- [https://github.com/simplcommerce/SimplCommerce](https://github.com/simplcommerce/SimplCommerce) > A simple, cross platform, modularized ecommerce system built on .NET Core
+- [https://github.com/spetz/NPost](https://github.com/spetz/NPost) > Modular Monolith sample
 
-- [https://github.com/devmentors/Cine](https://github.com/devmentors/Cine)
-	> Modular monolith in .NET Core
-	
+- [https://github.com/devmentors/Cine](https://github.com/devmentors/Cine) > Modular monolith in .NET Core
 - [https://github.com/devmentors/Trill-modular-monolith](https://github.com/devmentors/Trill-modular-monolith)
 
 - [https://github.com/spetz/Confab-training](https://github.com/spetz/Confab-training)
 
-- [https://github.com/anton-liauchuk/educational-platform](https://github.com/anton-liauchuk/educational-platform)
-	> Modular Monolith Java application with DDD
+- [https://github.com/anton-liauchuk/educational-platform](https://github.com/anton-liauchuk/educational-platform) > Modular Monolith Java application with DDD
 
-- [VirtoCommerce/vc-storefront](https://github.com/VirtoCommerce/vc-storefront)
-	> VirtoCommerce Storefront for ASP.NET Core 3.1 repository
+- [VirtoCommerce/vc-storefront](https://github.com/VirtoCommerce/vc-storefront) > VirtoCommerce Storefront for ASP.NET Core 3.1 repository
 
-- [grandnode/grandnode](https://github.com/grandnode/grandnode)
-	> Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB
+- [grandnode/grandnode](https://github.com/grandnode/grandnode) > Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB
 
-- [smartstore/SmartStoreNET](https://github.com/smartstore/SmartStoreNET)
-	> Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution
+- [smartstore/SmartStoreNET](https://github.com/smartstore/SmartStoreNET) > Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution
 
-- [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce)
-	> The most popular open-source eCommerce shopping cart solution based on ASP.NET Core
+- [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce) > The most popular open-source eCommerce shopping cart solution based on ASP.NET Core
+
 ### 📹 Videos
+
 - [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE)
 - [Modular monoliths (Simon Brown) - 2016](https://www.youtube.com/watch?v=kbKxmEeuvc4)
 - [Modular monoliths by Simon Brown](https://www.youtube.com/watch?v=h_rBDIC51C4)
 - [Munich .NET Meetup: Modular Monolith Architecture - One to rule them all](https://www.youtube.com/watch?v=tpeOWlif1l4)
 - [Majestic Modular Monoliths by Axel Fontaine](https://www.youtube.com/watch?v=BOvxJaklcr0)
-- [Decompose your monolith-  when and how to incrementally refactor to microservices](https://vimeo.com/442842127/543b578f38)
+- [Decompose your monolith- when and how to incrementally refactor to microservices](https://vimeo.com/442842127/543b578f38)
 - [GOTO 2019 • Monolith Decomposition Patterns • Sam Newman](https://www.youtube.com/watch?v=9I9GdSQ1bbM)
 - [GOTO 2016 • From Monolith to Microservices at Zalando • Rodrigue Schaefer](https://www.youtube.com/watch?v=gEeHZwjwehs)
 
@@ -2173,6 +2140,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ## RESTful API Design
 
 ### 📝 Articles
+
 - [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
 - [Design Guidelines](http://apistylebook.com/design/guidelines/)
 - [Web API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
@@ -2183,13 +2151,14 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [The Web API Checklist -- 43 Things To Think About When Designing, Testing, and Releasing your API](https://mathieu.fenniak.net/the-api-checklist/)
 - [Design Topics](http://apistylebook.com/design/topics/)
 - [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.2.md)
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+  <div align="right">
+    <b><a href="#contents">↥ Back To Top</a></b>
+  </div>
 
 ## Caching
 
 ### Articles
+
 - [Where Is My Cache? Architectural Patterns for Caching Microservices](https://hazelcast.com/blog/architectural-patterns-for-caching-microservices/)
 - [4 ways to update your cache](https://vishnu.hashnode.dev/4-ways-to-update-your-cache-ckn4c0jae0dq8efs152eu8hmq)
 - [Simple In-Memory Caching in .Net Core with IMemoryCache](https://sahansera.dev/in-memory-caching-aspcore-dotnet/)
@@ -2201,6 +2170,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ## Packaging
 
 ### 📝 Articles
+
 - [Package by component and architecturally-aligned testing](http://www.codingthearchitecture.com/2015/03/08/package_by_component_and_architecturally_aligned_testing.html) - Simon Brown
 - [Schools of Package Architecture - An Illustration](http://codemanship.co.uk/parlezuml/blog/?postid=539)
 
@@ -2213,6 +2183,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ### Articles
 
 ### Videos
+
 - [The refactoring test (1) - Dependency Inversion & Unit tests | Cracking the .NET interview](https://www.youtube.com/watch?v=U3QvTaw224o)
 - [The refactoring test (2) - Open-Closed, Single Responsibility | Cracking the .NET interview](https://www.youtube.com/watch?v=Yd4GnWeEkIY&list=LL&index=10&t=1662s&ab_channel=NickChapsas)
 
@@ -2223,6 +2194,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ## Azure Application Architecture
 
 ### Resources
+
 - [https://dotnet.microsoft.com/learn/azure/architecture](https://dotnet.microsoft.com/learn/azure/architecture)
 - [The Azure Kubernetes Service (AKS) Architecture Map](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/the-azure-kubernetes-service-aks-architecture-map/ba-p/1078714)
 - [The Cloud-native Azure Application Architect Map](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/the-cloud-native-azure-application-architect-map/ba-p/812242)
@@ -2231,11 +2203,12 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [The Azure Security Architect Map](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/the-azure-security-architect-map/ba-p/714091)
 
 ### 📝 Articles
+
 - [Cars Island Car Rental on the Azure cloud - part 1](https://daniel-krzyczkowski.github.io/Cars-Island-Car-Rental-On-Azure-Cloud/)
 
 ### 🔖 Samples
-- [https://github.com/Daniel-Krzyczkowski/MicrosoftAzure](https://github.com/Daniel-Krzyczkowski/MicrosoftAzure)
-	> Microsoft Azure code samples.
+
+- [https://github.com/Daniel-Krzyczkowski/MicrosoftAzure](https://github.com/Daniel-Krzyczkowski/MicrosoftAzure) > Microsoft Azure code samples.
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -2244,11 +2217,13 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ### Azure Active Directory (Azure AD)
 
 #### 📝 Articles
+
 - [Automate Azure AD B2C policies release with GitHub Actions](https://daniel-krzyczkowski.github.io/Automate-Azure-AD-B2C-policies-release-with-GitHub-Actions/)
 - [Manage guest user access with Azure AD External Identities](https://daniel-krzyczkowski.github.io/Manage-Guest-User-Access-with-Azure-Ad-External-Identities/)
 - [Azure AD B2C with external authorization store](https://daniel-krzyczkowski.github.io/Azure-AD-B2C-With-External-Authorization-Store/)
 
 #### 📹 Videos
+
 - [Automate Azure AD B2C custom policies release with GitHub Actions](https://www.youtube.com/watch?v=h25h-fxL_K4)
 - [Azure AD B2C with external authorization store](https://www.youtube.com/watch?v=_umcCiSOFv0)
 - [How to provide access to application for different types of users with Azure AD and Azure AD B2C](https://www.youtube.com/watch?v=NrkbWPDFGzI)
@@ -2262,12 +2237,17 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ### Azure Service Bus
 
 #### 📝 Articles
+
 - [Asynchronous messaging with Azure Service Bus](https://daniel-krzyczkowski.github.io/Asynchronous-Messaging-With-Azure-Service-Bus/)
 - [Local Development with Azure Service Bus](https://jimmybogard.com/local-development-with-azure-service-bus/)
+
 #### Videos
+
 - [Asynchronous messaging with Azure Service Bus](https://www.youtube.com/watch?v=aJn5CDhWvJQ)
 - [On .NET Live - Messaging Patterns for .NET Developers](https://www.youtube.com/watch?v=ef1DK76rseM)
+
 #### Samples
+
 - [https://github.com/Azure/azure-service-bus/tree/master/samples](https://github.com/Azure/azure-service-bus/tree/master/samples)
 
 <div align="right">
@@ -2277,6 +2257,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ### Azure Functions
 
 #### 📝 Articles
+
 - [Build event-driven solutions with Azure Functions and Cosmos DB](https://www.youtube.com/watch?v=8WMjRIw6QzQ)
 
 <div align="right">
@@ -2284,15 +2265,18 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 </div>
 
 ### Azure Template
+
 - [Be more efficient developer with Azure Developer Starter Pack](https://daniel-krzyczkowski.github.io/Be-More-Efficient-Developer-With-Azure-Developer-Starter-Pack/)
+
 #### 📝 Articles
 
 #### 📹 Videos
+
 - [Be more efficient developer with Azure Developer Starter Pack](https://www.youtube.com/watch?v=8XJQLaWAPro)
 
 #### 🔖 Samples
-- [https://github.com/Daniel-Krzyczkowski/AzureDeveloperTemplates](https://github.com/Daniel-Krzyczkowski/AzureDeveloperTemplates)
-	> This repository contains helpful code templates for Azure cloud developers.
+
+- [https://github.com/Daniel-Krzyczkowski/AzureDeveloperTemplates](https://github.com/Daniel-Krzyczkowski/AzureDeveloperTemplates) > This repository contains helpful code templates for Azure cloud developers.
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -2303,6 +2287,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ### Relationships
 
 #### 📝 Articles
+
 - [What is the difference between IS -A relationship and HAS-A relationship in Java? [duplicate]](https://stackoverflow.com/questions/36162714/what-is-the-difference-between-is-a-relationship-and-has-a-relationship-in-java)
 - [Types Of Relationships In Object Oriented Programming (OOP)](https://www.linkedin.com/pulse/types-relationships-object-oriented-programming-oop-sarah-el-dawody/)
 - [Common types of OOP relationships and their UML representation](https://dev.to/tommyc/common-types-of-oop-relationships-and-their-uml-representation-5b27)
@@ -2315,9 +2300,10 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-### Use Case Diagram 
+### Use Case Diagram
 
 #### 📝 Articles
+
 - [UML Use Case Diagram: Tutorial with EXAMPLE](https://www.guru99.com/use-case-diagrams-example.html)
 - [UML 2 Use Case Diagramming Guidelines](http://agilemodeling.com/style/useCaseDiagram.htm)
 
@@ -2328,14 +2314,16 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ### Class Diagram (Class Modeling)
 
 #### 📝 Articles
+
 - [UML Class Diagram Tutorial with Examples](https://www.guru99.com/uml-class-diagram.html)
 - [What is Class Diagram?](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-class-diagram/)
 - [Data Modeling 101](http://www.agiledata.org/essays/dataModeling101.html)
 - [UML 2 Class Diagramming Guidelines](http://agilemodeling.com/style/classDiagram.htm)
 
-###  Component Diagram
+### Component Diagram
 
 #### 📝 Articles
+
 - [UML 2 Component Diagramming Guidelines](http://agilemodeling.com/style/componentDiagram.htm)
 
 <div align="right">
@@ -2345,6 +2333,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ### ER Diagrams (Data Modeling)
 
 #### 📝 Articles
+
 - [Data Modeling 101](http://www.agiledata.org/essays/dataModeling101.html)
 - [What to Look for in Your ER Diagram Tool](https://vertabelo.com/blog/selecting-er-diagram-tool/)
 - [Why Do You Need an ER Diagram?](https://vertabelo.com/blog/why-need-an-er-diagram/)
@@ -2365,6 +2354,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [A Comparison of Data Modeling Techniques](https://www.essentialstrategies.com/publications/modeling/compare.htm)
 
 #### 📹 Videos
+
 - [Creating Entity Relationship Diagrams using Draw.io](https://www.youtube.com/watch?v=lAtCySGDD48)
 - [Entity Relationship Diagram (ERD) Tutorial - Part 1](https://www.youtube.com/watch?v=QpdhBUYk7Kk)
 - [Entity Relationship Diagram (ERD) Tutorial - Part 2](https://www.youtube.com/watch?v=-CuY5ADwn24)
@@ -2376,6 +2366,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ### Data Model Notations
 
 #### 📝 Articles
+
 - [A Comparison of Data Modeling Techniques](https://www.essentialstrategies.com/publications/modeling/compare.htm)
 - [IDEF1X Data Model Notation](https://www.essentialstrategies.com/publications/modeling/idef1x.htm)
 - [Richard Barker Data Model Notation](https://www.essentialstrategies.com/publications/modeling/barker.htm)
@@ -2392,6 +2383,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ### Conceptual Modeling
 
 #### 📝 Articles
+
 - [Data Modelling: Conceptual, Logical, Physical Data Model Types](https://www.guru99.com/data-modelling-conceptual-logical.html)
 - [Data Modeling - Conceptual Data Model](https://sparxsystems.com/resources/gallery/diagrams/software/sw-data_modeling_-conceptual_data_model.html)
 - [Conceptual Model](https://www.visual-paradigm.com/support/documents/vpuserguide/3563/3564/85378_conceptual,l.html)
@@ -2401,6 +2393,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [Data Modeling 101](http://www.agiledata.org/essays/dataModeling101.html)
 
 #### 📹 Videos
+
 - [Conceptual Data Modeling with Diagrams.Net](https://www.youtube.com/watch?v=7lGFx-qYmhU)
 - [Get a Head Start with Entity Framework Core 5.0 with EF Core Power Tools](https://www.youtube.com/watch?v=uph-AGyOd8c)
 
@@ -2411,11 +2404,13 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ### Logical Modeling
 
 #### 📝 Articles
+
 - [How to Implement a Conceptual, Logical, and Physical Data Model in Vertabelo](https://vertabelo.com/blog/conceptual-logical-and-physical-data-model/)
 - [What Are Conceptual, Logical, and Physical Data Models?](https://vertabelo.com/blog/conceptual-logical-physical-data-model/)
 - [Vertabelo Features: Logical Diagrams](https://vertabelo.com/blog/logical-diagrams/)
 
-#### 📹 Videos 
+#### 📹 Videos
+
 - [Logical Data Modeling with Diagrams.Net](https://www.youtube.com/watch?v=CmjW3HyazRA)
 
 <div align="right">
@@ -2425,6 +2420,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ### Physical Modeling
 
 #### 📝 Articles
+
 - [How to Implement a Conceptual, Logical, and Physical Data Model in Vertabelo](https://vertabelo.com/blog/conceptual-logical-and-physical-data-model/)
 - [What Are Conceptual, Logical, and Physical Data Models?](https://vertabelo.com/blog/conceptual-logical-physical-data-model/)
 - [How to Create Physical Diagrams in Vertabelo](https://vertabelo.com/blog/create-physical-diagrams-in-vertabelo/)
@@ -2451,11 +2447,13 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ## Event Storming
 
 ### Resources
+
 - [https://github.com/mariuszgil/awesome-eventstorming](https://github.com/mariuszgil/awesome-eventstorming)
 - [https://github.com/ddd-crew/eventstorming-glossary-cheat-sheet](https://github.com/ddd-crew/eventstorming-glossary-cheat-sheet)
 - [https://github.com/wwerner/event-storming-cheatsheet](https://github.com/wwerner/event-storming-cheatsheet)
 
 ### 📝 Articles
+
 - [Reactive in practice, Unit 1: Event storming the stock trader domain](https://developer.ibm.com/technologies/java/tutorials/reactive-in-practice-1/)
 - [Event Storming](https://ibm-cloud-architecture.github.io/refarch-eda/methodology/event-storming/)
 - [Event storming analysis](https://ibm-cloud-architecture.github.io/refarch-kc/implementation/event-storming-analysis/)
@@ -2482,31 +2480,29 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 - [Decomposing the Monolith with Event Storming](https://medium.com/capital-one-tech/event-storming-decomposing-the-monolith-to-kick-start-your-microservice-architecture-acb8695a6e61)
 - [Big Picture Event Storming](https://medium.com/@chatuev/big-picture-event-storming-7a1fe18ffabb)
 - [EventStorming cheat sheet](https://xebia.com/blog/eventstorming-cheat-sheet/)
-### 📹 Videos 
+
+### 📹 Videos
+
 - [Scoping and Organizing .NET Microservices Using Event Storming](https://www.pluralsight.com/courses/dotnet-microservices-scoping-organizing)
 - [GOTO 2018 • 50.000 Orange Stickies Later • Alberto Brandolini](https://www.youtube.com/watch?v=NGXl1D-KwRI)
 - [Crunching 'real-life stories' with DDD & Event Storming - Kenny Baas-Schwegler - KanDDDinsky 201](https://www.youtube.com/watch?v=WvkBKvMnyuc)
 - [Event Storming demo & discussion](https://www.youtube.com/watch?v=xIB_VQVVWKk)
+
 ### Samples
 
 - [Event Storming](https://miro.com/app/board/o9J_kt3rZb4=/?fromEmbed=1)
 
 - [Decomposing the Monolith with Event Storming](https://medium.com/capital-one-tech/event-storming-decomposing-the-monolith-to-kick-start-your-microservice-architecture-acb8695a6e61)
 
-- [https://github.com/RagDhiman/M4-Organizing-Your-.NET-Microservices-MegaService](https://github.com/RagDhiman/M4-Organizing-Your-.NET-Microservices-MegaService)
-	> Scoping and Organizing .NET Microservices Using Event Storming
+- [https://github.com/RagDhiman/M4-Organizing-Your-.NET-Microservices-MegaService](https://github.com/RagDhiman/M4-Organizing-Your-.NET-Microservices-MegaService) > Scoping and Organizing .NET Microservices Using Event Storming
 
-- [https://github.com/RagDhiman/M4-Organizing-Your-.NET-Microservices-Organized](https://github.com/RagDhiman/M4-Organizing-Your-.NET-Microservices-Organized)
-	> Scoping and Organizing .NET Microservices Using Event Storming
-	
-- [https://github.com/RagDhiman/Miro-Event-Storming-Steps-JPEGs](https://github.com/RagDhiman/Miro-Event-Storming-Steps-JPEGs)
-	> Scoping and Organizing .NET Microservices Using Event Storming
+- [https://github.com/RagDhiman/M4-Organizing-Your-.NET-Microservices-Organized](https://github.com/RagDhiman/M4-Organizing-Your-.NET-Microservices-Organized) > Scoping and Organizing .NET Microservices Using Event Storming
+- [https://github.com/RagDhiman/Miro-Event-Storming-Steps-JPEGs](https://github.com/RagDhiman/Miro-Event-Storming-Steps-JPEGs) > Scoping and Organizing .NET Microservices Using Event Storming
 
-- [https://github.com/RagDhiman/Miro-Event-Storming-Steps](https://github.com/RagDhiman/Miro-Event-Storming-Steps)	
-	> Scoping and Organizing .NET Microservices Using Event Storming
-	
-	
+- [https://github.com/RagDhiman/Miro-Event-Storming-Steps](https://github.com/RagDhiman/Miro-Event-Storming-Steps) > Scoping and Organizing .NET Microservices Using Event Storming
+
 ### Books
+
 - [Introducing EventStorming](https://leanpub.com/introducing_eventstorming) - Alberto Brandolini
 
 <div align="right">
@@ -2514,6 +2510,7 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 </div>
 
 ## Engineering Blogs
+
 - [Uber](https://eng.uber.com)
 - [Twitter](https://blog.twitter.com/engineering/en_us.html)
 - [Netflix Engineering Blog](https://netflixtechblog.com/?gi=133ebc0bdafe)
@@ -2527,7 +2524,8 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 </div>
 
 ## Books
-- [Microsoft Application Architecture Guide, 2nd Edition](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ff650706(v=pandp.10))
+
+- [Microsoft Application Architecture Guide, 2nd Edition](<https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ff650706(v=pandp.10)>)
 - [Lean Architecture: for Agile Software Development Paperback – Illustrated, 13 July 2010](https://www.amazon.co.uk/Lean-Architecture-Agile-Software-Development/dp/0470684208)
 - [Patterns of Enterprise Application Architecture](https://www.amazon.co.uk/Enterprise-Application-Architecture-Addison-Wesley-Signature/dp/0321127420/)
 - [Documenting Software Architectures: Views and Beyond](https://www.amazon.co.uk/dp/0321552687)
@@ -2562,7 +2560,6 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 ## Other Resources
 
 - [Software architect roadmap](https://github.com/AlaaAttya/software-architect-roadmap)
-	
 - [How to Learn Software Design and Architecture | The Full-stack Software Design & Architecture Map](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/)
 
 - [https://github.com/simskij/awesome-software-architecture](https://github.com/simskij/awesome-software-architecture)
@@ -2577,9 +2574,8 @@ https://github.com/Dashell/strategy-pattern-dotnetcore)
 
 - [Modular Monoliths](https://files.gotocon.com/uploads/slides/conference_12/515/original/gotoberlin2018-modular-monoliths.pdf)
 
-- [study-path](https://github.com/joebew42/study-path)
-	> An organized learning path about Clean Code, Test-Driven Development, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture
-	
+- [study-path](https://github.com/joebew42/study-path) > An organized learning path about Clean Code, Test-Driven Development, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
