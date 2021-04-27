@@ -289,6 +289,9 @@ If you think this repository makes a difference and is worth it, please share it
 - [pdevito3/craftsman](https://github.com/pdevito3/craftsman)
 	> Craftsman is the workhorse behind the Wrapt framework and provides a suite of CLI commands for quickly scaffolding out new files and projects for your .NET Web APIs with simple CLI commands and configuration files.
 	
+- [gothinkster/aspnetcore-realworld-example-app](https://github.com/gothinkster/aspnetcore-realworld-example-app)	
+	> ASP.NET Core backend implementation for RealWorld
+
 - [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - Steve Smith
   > Sample ASP.NET Core 5.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.
 
@@ -487,6 +490,8 @@ If you think this repository makes a difference and is worth it, please share it
 
 - [jbogard/ContosoUniversityDotNetCore](https://github.com/jbogard/ContosoUniversityDotNetCore) - Jimmy Bogard
 - [jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages) - Jimmy Bogard
+- [gothinkster/aspnetcore-realworld-example-app](https://github.com/gothinkster/aspnetcore-realworld-example-app)
+	> ASP.NET Core backend implementation for RealWorld
 - [dcomartin/MusicStore](https://github.com/dcomartin/MusicStore) - CodeOpinion
 - [ardalis/OrganizingAspNetCore](https://github.com/ardalis/OrganizingAspNetCore) - Steve Smith
 - [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - Steve Smith
@@ -725,7 +730,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Implementing Query Specification pattern in Entity Framework Core](https://gunnarpeipman.com/ef-core-query-specification/) - Gunnar Peipman
 - [Using the Specification pattern with Repository and Unit of work](https://dotnetfalcon.com/using-the-specification-pattern-with-repository-and-unit-of-work/) - Akos Nagy
 - [Specification](https://ardalis.github.io/Specification/)
-
+- [Specification Pattern in ASP.NET Core – Enhancing Generic Repository Pattern](https://codewithmukesh.com/blog/specification-pattern-in-aspnet-core/)
 #### Videos
 
 - [Reviewing the Specification Pattern and NuGet package](https://www.youtube.com/watch?v=BgWWbBUWyig)
@@ -1077,6 +1082,9 @@ If you think this repository makes a difference and is worth it, please share it
 - [run-aspnetcore-realworld](https://github.com/aspnetrun/run-aspnetcore-realworld) - AspNetRun 
 	> E-Commerce real world example of run-aspnetcore ASP.NET Core web application. Implemented e-commerce domain with clean architecture for ASP.NET Core reference application, demonstrating a layered application architecture with DDD best practices.
 
+- [gothinkster/aspnetcore-realworld-example-app](https://github.com/gothinkster/aspnetcore-realworld-example-app)	
+	> ASP.NET Core backend implementation for RealWorld
+	
 - [DDD-starter-dotnet](https://github.com/itlibrium/DDD-starter-dotnet) 
 	> Sample implementation and comparison of various approaches to building DDD applications. Useful as a baseline to quickly start a DDD dot net project.
 
@@ -1139,9 +1147,17 @@ If you think this repository makes a difference and is worth it, please share it
 
 - [pdevito3/craftsman](https://github.com/pdevito3/craftsman)
 	> Craftsman is the workhorse behind the Wrapt framework and provides a suite of CLI commands for quickly scaffolding out new files and projects for your .NET Web APIs with simple CLI commands and configuration files.
+	
+- [nguyentrucxinh/AspNetCore-DDD](https://github.com/nguyentrucxinh/AspNetCore-DDD)
+	> Full ASP.NET Core 3.1 LTS application with DDD, CQRS and Event Sourcing
+	
+	
 #### Library
 
 - [https://contextmapper.org](https://contextmapper.org)
+
+- [eventflow/EventFlow](https://github.com/eventflow/EventFlow)
+	> Async/await first CQRS+ES and DDD framework for .NET
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -1489,9 +1505,11 @@ If you think this repository makes a difference and is worth it, please share it
 
 #### Library
 
-- [https://github.com/gautema/CQRSlite](https://github.com/gautema/CQRSlite) 
+- [gautema/CQRSlite](https://github.com/gautema/CQRSlite) 
   > A lightweight framework to help creating CQRS and Eventsourcing applications in C#
 
+- [eventflow/EventFlow](https://github.com/eventflow/EventFlow)
+	> Async/await first CQRS+ES and DDD framework for .NET
 #### 🔖 Samples
 
 - [sample-dotnet-core-cqrs-api](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - Kamil Grzybek 
@@ -1527,6 +1545,10 @@ If you think this repository makes a difference and is worth it, please share it
 
 - [trueai-org/module-shop](https://github.com/trueai-org/module-shop)
 
+- [gothinkster/aspnetcore-realworld-example-app](https://github.com/gothinkster/aspnetcore-realworld-example-app)	
+	> ASP.NET Core backend implementation for RealWorld
+
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -1556,7 +1578,6 @@ If you think this repository makes a difference and is worth it, please share it
 ### Library
 
 - [EventFlow](https://github.com/eventflow/EventFlow) > Async/await first CQRS+ES and DDD framework for .NET
-
 - [AggregateSource](https://github.com/yreynhout/AggregateSource) > Lightweight infrastructure for doing eventsourcing using aggregates
 - [Projac](https://github.com/BitTacklr/Projac) > A set of .NET projection libraries
 
@@ -1686,6 +1707,11 @@ If you think this repository makes a difference and is worth it, please share it
 - [FamilyBucket](https://github.com/q315523275/FamilyBucket) 
   > 集合.net core、ocelot、consul、netty、rpc、eventbus、configserver、tracing、sqlsugar、vue-admin、基础管理平台等构建的微服务一条龙应用
 
+- [Cysharp/MagicOnion](https://github.com/Cysharp/MagicOnion)
+	> Unified Realtime/API framework for .NET platform and Unity.
+	
+- [eventflow/EventFlow](https://github.com/eventflow/EventFlow)
+	> Async/await first CQRS+ES and DDD framework for .NET
 #### Books
 
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
@@ -1701,6 +1727,9 @@ If you think this repository makes a difference and is worth it, please share it
 - [practical-dapr](https://github.com/thangchung/practical-dapr) - Thang Chung
   > A full-stack .NET microservices build on Dapr and Tye
 
+- [twzhangyang/RestAirline](https://github.com/twzhangyang/RestAirline)
+  > DDD+CQRS+EventSourcing+Hypermedia API+ASP.NET Core 3.1+Masstransit+terraform+docker+k8s
+	
 - [eShopOnContainersDDD](https://github.com/charlessolar/eShopOnContainersDDD) 
   > Fork of dotnet-architecture/eShopOnContainers in full DDD/CQRS design using my own patterns
 
@@ -1739,6 +1768,8 @@ If you think this repository makes a difference and is worth it, please share it
 - [book-fast-service-fabric](https://github.com/dzimchuk/book-fast-service-fabric) 
   > A sample demonstrating how to implement a multitenant facility management and accommodation booking application as native Azure Service Fabric reliable services.
 
+- [profjordanov/realworld-microservices](https://github.com/profjordanov/realworld-microservices)
+	> Microservices based .NET Core backend implementation for RealWorld
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -2152,6 +2183,11 @@ If you think this repository makes a difference and is worth it, please share it
 - [MemBus](https://github.com/flq/MemBus/tree/master/MemBus) 
   > Pure In-Memory Publish/Subscribe .NET Bus
 
+- [Cysharp/MagicOnion](https://github.com/Cysharp/MagicOnion)
+	> Unified Realtime/API framework for .NET platform and Unity.
+	
+- [eventflow/EventFlow](https://github.com/eventflow/EventFlow)
+	> Async/await first CQRS+ES and DDD framework for .NET
 ### Books
 
 - [Enterprise Integration Patterns](https://amazon.com/o/asin/0321200683/ref=nosim/enterpriseint-20)
