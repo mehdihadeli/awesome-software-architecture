@@ -477,7 +477,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Encountering "Vertical Slice Architecture"... Is it incompatible with Clean Architecture?](https://jeremiahflaga.github.io/2019/05/20/vertical-slice-architecture-is-it-incompatible-with-clean-architecture/)
 - [Vertical Slices](https://deviq.com/practices/vertical-slices) - DevIQ
 - [What Are Your Thoughts On The Vertical Slice Architecture?](https://www.reddit.com/r/dotnet/comments/gej15i/what_are_your_thoughts_on_the_vertical_slice/)
-
+- [Why I Recommend a Feature-Driven Approach to Software Design](https://khalilstemmler.com/articles/software-design-architecture/feature-driven/)
 #### 📹 Videos
 
 - [SOLID Architecture in Slices not Layers - Jimmy Bogard](https://vimeo.com/131633177)
@@ -526,7 +526,8 @@ If you think this repository makes a difference and is worth it, please share it
 - [Event-Driven Architecture with Apache Kafka for .NET Developers Part 2 - Event Consumer](https://thecloudblog.net/post/event-driven-architecture-with-apache-kafka-for-.net-developers-part-2-event-consumer/)
 - [Event-Driven Architecture with Apache Kafka for .NET Developers Part 3 - Azure Event Hubs](https://thecloudblog.net/post/event-driven-architecture-with-apache-kafka-for-net-developers-part-3-azure-event-hubs/)
 - [What do you mean by “Event-Driven”?](https://martinfowler.com/articles/201701-event-driven.html)
-
+- [6 Event-Driven Architecture Patterns — Part 1](https://medium.com/wix-engineering/6-event-driven-architecture-patterns-part-1-93758b253f47)
+- [6 Event Driven Architecture Patterns — Part 2](https://medium.com/wix-engineering/6-event-driven-architecture-patterns-part-2-455cc73b22e1)
 #### Videos
 
 - [Event-Driven Architecture | EDA | Software Architectural Patterns](https://www.youtube.com/watch?v=gIL8rW_eyww&t=0s) - The TechCave
@@ -1791,6 +1792,7 @@ If you think this repository makes a difference and is worth it, please share it
 ### Dapr
 
 #### 📝 Articles
+- [Make microservices fun again with Dapr](https://daveabrock.com/2021/04/29/meet-dapr)
 
 #### 📹 Videos
 
@@ -2348,7 +2350,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Where Is My Cache? Architectural Patterns for Caching Microservices](https://hazelcast.com/blog/architectural-patterns-for-caching-microservices/)
 - [4 ways to update your cache](https://vishnu.hashnode.dev/4-ways-to-update-your-cache-ckn4c0jae0dq8efs152eu8hmq)
 - [Simple In-Memory Caching in .Net Core with IMemoryCache](https://sahansera.dev/in-memory-caching-aspcore-dotnet/)
-
+- [4 Microservices Caching Patterns at Wix](https://medium.com/wix-engineering/4-microservices-caching-patterns-at-wix-b4dfee1ae22f)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
