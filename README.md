@@ -1164,14 +1164,6 @@ If you think this repository makes a difference and is worth it, please share it
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-#### Exceptions
-
-- [Prefer Custom Exceptions to Framework Exceptions](https://ardalis.com/prefer-custom-exceptions-to-framework-exceptions/)
-
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
-
 #### Value Objects
 
 ##### 📝 Articles
@@ -1187,7 +1179,8 @@ If you think this repository makes a difference and is worth it, please share it
 - [Improved Support for Value Objects with EF Core 2.2](https://www.nankov.com/posts/improved-support-value-objects-ef-core-22)
 - [Value Object](https://jonatandragon.com/value-object)
 - [Owned Entity Types](https://docs.microsoft.com/en-us/ef/core/modeling/owned-entities)
-
+- [DTO vs Value Object vs POCO](https://enterprisecraftsmanship.com/posts/dto-vs-value-object-vs-poco/)
+- [Value Objects explained](https://enterprisecraftsmanship.com/posts/value-objects-explained/)
 ##### Videos
 
 - [Treating Primitive Obsession with ValueObjects | DDD in .NET](https://www.youtube.com/watch?v=h4uldNA1JUE)
@@ -1292,13 +1285,14 @@ If you think this repository makes a difference and is worth it, please share it
 - [Implementing event-based communication between microservices (integration events)](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/integration-event-based-microservice-communications) - Microsoft
 - [DDD and Messaging Architectures](https://verraes.net/2019/05/ddd-msg-arch/) - Mathias Verraes
 - [Domain events: simple and reliable solution](https://enterprisecraftsmanship.com/posts/domain-events-simple-reliable-solution/) - Vladimir Khorikove
-- [Domain Events Pattern Example](https://tonytruong.net/domain-events-pattern-example
+- [Domain Events Pattern Example](https://tonytruong.net/domain-events-pattern-example)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-### Validation
+### Exceptions & Validation
+
 
 ##### 📝 Articles
 
@@ -1310,7 +1304,16 @@ If you think this repository makes a difference and is worth it, please share it
 - [Validation and DDD](https://enterprisecraftsmanship.com/posts/validation-and-ddd/) - Vladimir Khorikove
 - [C# code contracts vs input validation](https://enterprisecraftsmanship.com/posts/code-contracts-vs-input-validation/) - Vladimir Khorikove
 - [The fallacy of the always-valid entity](https://jeffreypalermo.com/2009/05/the-fallacy-of-the-always-valid-entity/) - Jeffrey Palermo
-
+- [When to validate commands in CQRS?](https://enterprisecraftsmanship.com/2019/02/20/validate-commands-cqrs/) - Vladimir Khorikove
+- [Exceptions for flow control in C#](https://enterprisecraftsmanship.com/posts/exceptions-for-flow-control/) - Vladimir Khorikove
+- [Fail Fast principle](https://enterprisecraftsmanship.com/posts/fail-fast-principle/) - Vladimir Khorikove
+- [REST API response codes: 400 vs 500](https://enterprisecraftsmanship.com/posts/rest-api-response-codes-400-vs-500/) - Vladimir Khorikove
+- [Functional C# Handling failures, input errors](https://enterprisecraftsmanship.com/posts/functional-c-handling-failures-input-errors/) - Vladimir Khorikov
+- [Prefer Custom Exceptions to Framework Exceptions](https://ardalis.com/prefer-custom-exceptions-to-framework-exceptions/)
+- [CQRS and exception handling](https://enterprisecraftsmanship.com/2019/04/15/cqrs-exception-handling/) - Vladimir Khorikove
+- [Error handling: Exception or Result?](https://enterprisecraftsmanship.com/posts/error-handling-exception-or-result/) - Vladimir Khorikove
+- [What is an exceptional situation in code?](https://enterprisecraftsmanship.com/posts/what-is-exceptional-situation/) - Vladimir Khorikove
+- [Validation and DDD](https://enterprisecraftsmanship.com/2016/09/13/validation-and-ddd/)
 ##### Library
 
 - [GuardClauses](https://github.com/ardalis/GuardClauses) > A simple package with guard clause extensions.
@@ -1494,6 +1497,10 @@ If you think this repository makes a difference and is worth it, please share it
 - [A .Net5 Sample Using CQRS(Command Query Responsibility Segregation) And MediatR Patterns](https://www.learmoreseekmore.com/2021/03/dotnet5-sample-cqrs-mediatr-pattern.html)
 - [CQRS with MediatR and AutoMapper](https://lostechies.com/jimmybogard/2015/05/05/cqrs-with-mediatr-and-automapper/)
 - [Thin Controllers with CQRS and MediatR](https://codeopinion.com/thin-controllers-cqrs-mediatr/)
+- [Are CQRS commands part of the domain model?](https://enterprisecraftsmanship.com/posts/cqrs-commands-part-domain-model/)
+- [CQS with Database-Generated Ids](https://enterprisecraftsmanship.com/posts/cqs-with-database-generated-ids/)
+- [CQRS and exception handling](https://enterprisecraftsmanship.com/2019/04/15/cqrs-exception-handling/)
+- [When to validate commands in CQRS?](https://enterprisecraftsmanship.com/2019/02/20/validate-commands-cqrs/)
 
 #### 📹 Videos
 
@@ -2085,7 +2092,8 @@ If you think this repository makes a difference and is worth it, please share it
 - [Fat vs thin domain events](https://adrian-philipp.com/notes/fat-vs-thin-domain-events)
 - [Putting your events on a diet](https://particular.net/blog/putting-your-events-on-a-diet)
 - [What do you mean by “Event-Driven”?](https://martinfowler.com/articles/201701-event-driven.html)
-
+- [Are CQRS commands part of the domain model?](https://enterprisecraftsmanship.com/posts/cqrs-commands-part-domain-model/)
+- [DTO vs Value Object vs POCO](https://enterprisecraftsmanship.com/posts/dto-vs-value-object-vs-poco/)
 ### Videos
 
 - [Handling Concurrency with Message-IDs | Event Driven Architecture](https://www.youtube.com/watch?v=wefvl2ohiQc)
