@@ -356,6 +356,8 @@ If you think this repository makes a difference and is worth it, please share it
 - [Reddnet](https://github.com/moritz-mm/Reddnet) 
   > A mini Reddit written in ASP.NET Core 5.0
 
+- [DevBetterCom/DevBetterWeb](https://github.com/DevBetterCom/DevBetterWeb)
+	> A simple web application for devBetter
 #### Books
 
 - [Get Your Hands Dirty on Clean Architecture](https://www.packtpub.com/product/get-your-hands-dirty-on-clean-architecture/9781839211966)
@@ -682,8 +684,13 @@ If you think this repository makes a difference and is worth it, please share it
 ### Resources
 
 - [DesignPatterns](https://github.com/abishekaditya/DesignPatterns) > Project : Design Patterns Examples in C#
-- [anupavanm/csharp-design-patterns-for-humans](https://github.com/anupavanm/csharp-design-patterns-for-humans) > Design Patterns for Humans™ - An ultra-simplified explanation - C# Examples
-- [nemanjarogic/DesignPatternsLibrary](https://github.com/nemanjarogic/DesignPatternsLibrary) > A comprehensive design patterns library implemented in C#, which covers various design patterns from the most commonly used ones to the lesser-known ones. Get familiar with and learn design patterns through moderately realistic examples.
+
+- [anupavanm/csharp-design-patterns-for-humans](https://github.com/anupavanm/csharp-design-patterns-for-humans) 
+> Design Patterns for Humans™ - An ultra-simplified explanation - C# Examples
+
+- [nemanjarogic/DesignPatternsLibrary](https://github.com/nemanjarogic/DesignPatternsLibrary) 
+> A comprehensive design patterns library implemented in C#, which covers various design patterns from the most commonly used ones to the lesser-known ones. Get familiar with and learn design patterns through moderately realistic examples.
+
 - [beginor/DesignPatterns](https://github.com/beginor/DesignPatterns)
 
 - [EdisonChou/DesignPattern.Samples.CSharp](https://github.com/EdisonChou/DesignPattern.Samples.CSharp)
@@ -697,6 +704,8 @@ If you think this repository makes a difference and is worth it, please share it
 - [anupavanm/csharp-design-patterns-for-humans-examples](https://github.com/anupavanm/csharp-design-patterns-for-humans-examples)
 
 - [wesdoyle/design-patterns-explained-with-food](https://github.com/wesdoyle/design-patterns-explained-with-food)
+
+- [ardalis/DesignPatternsInCSharp](https://github.com/ardalis/DesignPatternsInCSharp)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
@@ -848,6 +857,7 @@ If you think this repository makes a difference and is worth it, please share it
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
 ###  Anti-Corruption Layer Pattern
 
 #### 📝 Articles
@@ -887,7 +897,7 @@ If you think this repository makes a difference and is worth it, please share it
 
 - [VisualReCode/Cocoon](https://github.com/VisualReCode/Cocoon) > An implementation of the Strangler Fig pattern for ASP.NET Core
 
-### Ambassador pattern
+### Ambassador Pattern
 
 #### Articles
 
@@ -896,6 +906,7 @@ If you think this repository makes a difference and is worth it, please share it
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
+
 ###  Asynchronous Request-Reply pattern
 
 <div align="right">
@@ -918,11 +929,6 @@ If you think this repository makes a difference and is worth it, please share it
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
 
-### Command and Query Responsibility Segregation (CQRS)
-
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
 ###  Circuit Breaker
 
 <div align="right">
@@ -1054,7 +1060,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Domains and Subdomains](https://thedomaindrivendesign.io/domains-and-subdomains/)
 - [Scaffold Your Clean DDD Web Application - Part 6: Domain-Driven Design Workflow Patterns](https://blog.jacobsdata.com/2021/04/11/scaffold-your-clean-ddd-web-application-part-6-domain-driven-design-workflow-patterns)
 - [Domain-Driven Architecture Diagrams](https://medium.com/nick-tune-tech-strategy-blog/domain-driven-architecture-diagrams-139a75acb578)
-
+- [3 things that will make or break your project](https://enterprisecraftsmanship.com/posts/3-things-that-will-make-or-break-your-project/)
 #### 📹 Videos
 
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
@@ -1152,7 +1158,11 @@ If you think this repository makes a difference and is worth it, please share it
 - [nguyentrucxinh/AspNetCore-DDD](https://github.com/nguyentrucxinh/AspNetCore-DDD)
 	> Full ASP.NET Core 3.1 LTS application with DDD, CQRS and Event Sourcing
 	
+- [falberthen/EcommerceDDD](https://github.com/falberthen/EcommerceDDD)
+	> A lightweight ASP.NET Core SPA (Angular) showcase of Domain-Driven Design, CQRS, and Event Sourcing.
 	
+- [DevBetterCom/DevBetterWeb](https://github.com/DevBetterCom/DevBetterWeb)
+	> A simple web application for devBetter
 #### Library
 
 - [https://contextmapper.org](https://contextmapper.org)
@@ -1185,6 +1195,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Nesting a Value Object inside an Entity](https://enterprisecraftsmanship.com/posts/nesting-value-object-inside-entity/) - Vladimir Khorikov
 - [Representing a collection as a Value Object](https://enterprisecraftsmanship.com/posts/representing-collection-as-value-object/) - Vladimir Khorikov
 - [Entity vs Value Object: the ultimate list of differences](https://enterprisecraftsmanship.com/posts/entity-vs-value-object-the-ultimate-list-of-differences/) - Vladimir Khorikov
+
 ##### Videos
 
 - [Treating Primitive Obsession with ValueObjects | DDD in .NET](https://www.youtube.com/watch?v=h4uldNA1JUE)
@@ -1196,9 +1207,14 @@ If you think this repository makes a difference and is worth it, please share it
 
 ##### Library
 
-- [Value](https://github.com/tpierrain/Value) > a pico library (or code snippets shed) to help you to easily implement Value Types in your C# projects without making errors nor polluting your domain logic with boiler-plate code.
-- [ValueOf](https://github.com/mcintyre321/ValueOf) > Deal with Primitive Obsession - define ValueObjects in a single line (of C#).
-
+- [Value](https://github.com/tpierrain/Value) 
+	> a pico library (or code snippets shed) to help you to easily implement Value Types in your C# projects without making errors nor polluting your domain logic with boiler-plate code.
+- [ValueOf](https://github.com/mcintyre321/ValueOf) 
+	> Deal with Primitive Obsession - define ValueObjects in a single line (of C#).
+- [WrapperValueObject](https://github.com/martinothamar/WrapperValueObject)
+	> A .NET source generator for creating simple value objects wrapping primitive types.
+- [Qowaiv](https://github.com/Qowaiv/Qowaiv)
+	> Qowaiv is a Single Value Object library
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -1586,6 +1602,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Event Sourcing: Rehydrating Aggregates with Snapshots](https://www.youtube.com/watch?v=eAIkomEid1Y)
 - [Event Sourcing with Azure SQL and Entity Framework Core](https://www.youtube.com/watch?v=-BhDW3GeSqg)
 - [What's an Event Driven System?](https://www.youtube.com/watch?v=rJHTK2TfZ1I)
+- [eventstore webinars](https://www.eventstore.com/webinars)
 
 ### Library
 
@@ -1605,6 +1622,7 @@ If you think this repository makes a difference and is worth it, please share it
 
 - [ddd-and-eventsourcing-example](https://github.com/eraydin/ddd-and-eventsourcing-example)
 
+- [EventStore/Webinars](https://github.com/EventStore/Webinars)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -1642,7 +1660,8 @@ If you think this repository makes a difference and is worth it, please share it
 - [What are Microservices? Advantages and Disadvantages of Microservices Architecture](https://www.dotnettricks.com/learn/microservices/architecture-example-advantages)
 - [Microservices Architecture on .NET with applying CQRS, Clean Architecture and Event-Driven Communication](https://medium.com/aspnetrun/microservices-architecture-on-net-3b4865eea03f)
 - [Best Practices for Building a Microservice Architecture](https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture)
-
+- [Building microservices through Event Driven Architecture part1 : application specific business rules](https://logcorner.com/building-microservices-through-event-driven-architecture-part1-application-specific-business-rules/)
+- [A Design Analysis of Cloud-based Microservices Architecture at Netflix](https://medium.com/swlh/a-design-analysis-of-cloud-based-microservices-architecture-at-netflix-98836b2da45f)
 #### 📹 Videos
 
 - [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) - The TechCave
@@ -2357,12 +2376,24 @@ If you think this repository makes a difference and is worth it, please share it
 
 ## Caching
 
+### Resources
+
 ### Articles
 
 - [Where Is My Cache? Architectural Patterns for Caching Microservices](https://hazelcast.com/blog/architectural-patterns-for-caching-microservices/)
 - [4 ways to update your cache](https://vishnu.hashnode.dev/4-ways-to-update-your-cache-ckn4c0jae0dq8efs152eu8hmq)
 - [Simple In-Memory Caching in .Net Core with IMemoryCache](https://sahansera.dev/in-memory-caching-aspcore-dotnet/)
-- [4 Microservices Caching Patterns at Wix](https://medium.com/wix-engineering/4-microservices-caching-patterns-at-wix-b4dfee1ae22f)
+- [4 Microservices Caching Patterns at Wix](https://medium.com/wix-engineering/4-microservices-caching-patterns-at-wix-b4dfee1ae22f
+- [REDIS VS MEMCACHED: WHICH ONE TO CHOOSE?](https://www.imaginarycloud.com/blog/redis-vs-memcached)
+- [Redis vs. Memcached: In-Memory Data Storage Systems](https://alibaba-cloud.medium.com/redis-vs-memcached-in-memory-data-storage-systems-3395279b0941)
+- [Difference Between Redis vs Memcached](https://www.educba.com/redis-vs-memcached/)
+- [Caching Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/caching)
+- [How to Improve ASP.NET App Performance in Web Farm with Caching](https://www.toptal.com/dot-net/caching-in-a-distributed-web-farm-using-asp-net)
+- [Redis as Backplane to scale your Blazor applications](https://blexin.com/en/blog-en/redis-as-backplane-to-scale-your-blazor-applications/)
+- [“Red(e)isign” Publish/Subscribe with Redis](https://blexin.com/en/blog-en/redeisign-publish-subscribe-with-redis/)
+- [Hybrid Caching](https://github.com/dotnetcore/EasyCaching/blob/master/docs/Hybrid.md)
+### Videos
+- [Real-Time Delivery Architecture at Twitter](https://www.infoq.com/presentations/Real-Time-Delivery-Twitter/)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
@@ -2715,6 +2746,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Twitter](https://blog.twitter.com/engineering/en_us.html)
 - [Netflix Engineering Blog](https://netflixtechblog.com/?gi=133ebc0bdafe)
 - [Netflix Architecture Blog](https://netflixtechblog.com/tagged/architecture)
+- [Spotify Engineering Blog](https://engineering.atspotify.com)
 - [Amazon](https://aws.amazon.com/blogs/aws/)
 - [Amazon Architecture blog](https://aws.amazon.com/blogs/architecture/)
 - [https://github.com/kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
@@ -2760,6 +2792,7 @@ If you think this repository makes a difference and is worth it, please share it
 ## Other Resources
 
 - [Software architect roadmap](https://github.com/AlaaAttya/software-architect-roadmap)
+
 - [How to Learn Software Design and Architecture | The Full-stack Software Design & Architecture Map](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/)
 
 - [https://github.com/simskij/awesome-software-architecture](https://github.com/simskij/awesome-software-architecture)
@@ -2774,7 +2807,8 @@ If you think this repository makes a difference and is worth it, please share it
 
 - [Modular Monoliths](https://files.gotocon.com/uploads/slides/conference_12/515/original/gotoberlin2018-modular-monoliths.pdf)
 
-- [study-path](https://github.com/joebew42/study-path) > An organized learning path about Clean Code, Test-Driven Development, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture
+- [joebew42/study-path](https://github.com/joebew42/study-path) 
+> An organized learning path about Clean Code, Test-Driven Development, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
