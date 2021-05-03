@@ -48,6 +48,9 @@ markdown_extensions:
       permalink: true
       #baselevel: 2
 
+nav:
+  - Home: docs/index.md
+
 copyright: 2021 <a href="https://github.com/mehdihadeli">Mehdi Hadeli</a>.
 #remote_branch: gh-pages 
 #remote_name: origin
