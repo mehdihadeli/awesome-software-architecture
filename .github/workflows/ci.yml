@@ -1,0 +1,21 @@
+name: CI
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: Deploy docs
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout master
+        uses: actions/checkout@v2
+      - name: Make executeable
+        run: chmod +x ./docs/static/moveFiles.sh
+      - name: move md files
+        run:  ./docs/static/moveFiles.sh
+      - name: Deploy MkDocs
+        uses: mhausenblas/mkdocs-deploy-gh-pages@1.12
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
