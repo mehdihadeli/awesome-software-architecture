@@ -51,7 +51,7 @@
 - [Gill CLEEREN: Clean architecture with ASP.NET Core | UCP2019](https://www.youtube.com/watch?v=BxtHt7tsX-c&t=2582s) - Gill CLEEREN
 - [Adding Aggregate Example to Clean Architecture solution template](https://www.youtube.com/watch?v=kxuGtgOimGA) - Steve Smith
 - [Adding Aggregate Example to Clean Architecture solution template](https://www.youtube.com/watch?v=dkj-WwxrgyI) - Steve Smith
-
+- [How Do You Structure Your Go Apps? by Kat Zień. GoWayFest 2018 Minsk](https://www.youtube.com/watch?v=Qtk9FFOoT5M&t=11s)
 #### 🔖 Samples
 
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) 
@@ -146,6 +146,9 @@
 
 - [DevBetterCom/DevBetterWeb](https://github.com/DevBetterCom/DevBetterWeb)
 	> A simple web application for devBetter
+	
+- [katzien/go-structure-examples](https://github.com/katzien/go-structure-examples)
+	> Examples for my talk on structuring go apps
 #### Books
 
 - [Get Your Hands Dirty on Clean Architecture](https://www.packtpub.com/product/get-your-hands-dirty-on-clean-architecture/9781839211966)

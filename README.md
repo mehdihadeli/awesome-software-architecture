@@ -1662,6 +1662,7 @@ If you think this repository makes a difference and is worth it, please share it
 - [Best Practices for Building a Microservice Architecture](https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture)
 - [Building microservices through Event Driven Architecture part1 : application specific business rules](https://logcorner.com/building-microservices-through-event-driven-architecture-part1-application-specific-business-rules/)
 - [A Design Analysis of Cloud-based Microservices Architecture at Netflix](https://medium.com/swlh/a-design-analysis-of-cloud-based-microservices-architecture-at-netflix-98836b2da45f)
+
 #### 📹 Videos
 
 - [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) - The TechCave
@@ -1801,6 +1802,9 @@ If you think this repository makes a difference and is worth it, please share it
 
 - [profjordanov/realworld-microservices](https://github.com/profjordanov/realworld-microservices)
 	> Microservices based .NET Core backend implementation for RealWorld
+	
+- [mspnp/microservices-reference-implementation](https://github.com/mspnp/microservices-reference-implementation)
+	> A reference implementation demonstrating microservices architecture and best practices for Microsoft Azure
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
