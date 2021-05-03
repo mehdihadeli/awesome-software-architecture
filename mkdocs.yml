@@ -1,0 +1,155 @@
+site_name: Awesome .Net Core Educations
+site_url: https://mehdihadeli.github.io/awesome-dotnet-core-education/
+site_description: A curated list of awesome articles and resources for learning and practicing about .Net Core and its related technologies.
+docs_dir: docs/
+repo_name: 'GitHub'
+repo_url: https://github.com/mehdihadeli/awesome-dotnet-core-education
+theme: 
+  name: material 
+  prev_next_buttons_location: both
+  navigation_depth: 4
+  titles_only: False
+  sticky_navigation: True
+extra_css:
+  - static/extra.css
+extra_javascript:
+  - js/extra.js
+markdown_extensions:
+  - smarty
+  - sane_lists
+  - fenced_code
+  - meta
+  - admonition
+  - attr_list
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  #- pymdownx.emoji:
+  #    emoji_index: !!python/name:pymdownx.emoji.twemoji
+  #    emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  #- pymdownx.emoji:
+  #    emoji_index: !!python/name:materialx.emoji.twemoji
+  #    emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed
+  - pymdownx.tilde
+  - codehilite
+  - footnotes
+  - toc:
+      permalink: true
+      #baselevel: 2
+nav:
+  - .Net:
+    - .Net : dotnet/dotnet.md
+    - .Net Core: dotnet/dotnet-core.md
+    - .Net Standard: dotnet/dotnet-standard.md
+    - .Net 5: dotnet/dotnet5.md
+    - .Net 6: dotnet/dotnet6.md
+  - .Net CLI: 
+    - .Net CLI: dotnet-cli/dotnet-cli.md
+    - .Net Template: dotnet-cli/dotnet-template.md
+  - .Net Tools: dotnet-tools.md
+  - .Net Core Tips: dotnet-core-tips.md
+  - MetaPack: metapack.md
+  - C#:
+    - C# 7: c/7.md
+    - C# 8: c/8.md
+    - C# 9: c/9.md
+  - MAUI: maui.md
+  - Source Generators: source-generators.md
+  - Performance: performance.md
+  - Serialization: serialization.md
+  - Generic Host And Web Host: generic-host.md
+  - .Net Core Architecture: dotnet-core-architecture.md
+  - Hosting: hosting.md
+  - Kestrel: kestrel.md
+  - Feature Flags: feature-flags.md
+  - Middleware: middleware.md
+  - Action Filters: action-filters.md
+  - Configuration: configuration.md
+  - HttContextAccessor: httpcontext-accessor.md
+  - Options Pattern: options-pattern.md
+  - gRPC: grpc.md
+  - WebSockets: web-sockets.md
+  - SignalR: signalr.md
+  - HttpClient: httpclient.md
+  - WEB API: web-api.md
+  - Background Tasks: background-tasks.md
+  - Validation: validation.md
+  - Razor Pages: razor-pages.md
+  - GraphQL: graphql.md
+  - NoSQL: 
+    - NoSQL: nosql/nosql.md
+    - CosmosDB: nosql/cosmosdb.md
+    - PostgreSQL: nosql/postgrsql.md
+    - MongoDB: nosql/mongodb.md
+    - RavenDB: nosql/ravendb.md
+  - Docker: docker.md
+  - API Versioning: api-versioning.md
+  - Hosted Service: hosted-service.md
+  - Routing: routing.md
+  - Dependency Injection: dependency-injection.md
+  - Security: 
+    - Security: security/security.md
+    - Encryption And Data Protection: security/encryption.md
+    - .Net Core Identity: security/dotnet-identity.md
+    - Identity Server: security/identity-server.md
+    - MSAL: security/msal.md
+    - Authentication: security/authentication.md
+    - Authorization: security/authorization.md
+  - Logging And Auditing: logging.md
+  - Tracing: tracing.md
+  - Testing: 
+    - Testing: testing/testing.md
+    - Unit Testing: testing/unit-testing.md
+    - Integration Testing: testing/integration-testing.md
+    - End-To-End Testing: testing/end-to-end-testing.md
+    - Acceptance Testing: testing/acceptance-testing.md
+    - Load Testing: testing/load-testing.md
+    - Architectural Testing: testing/architectural-testing.md
+    - Test Host And WebApplicationFactory: testing/test-host.md
+    - Mocking: testing/mocking.md
+    - TDD: testing/tdd.md
+    - BDD: testing/bdd.md
+  - Exception Handling: exception-handling.md
+  - EF Core: 
+    - EF Core: ef-core/ef-core.md
+    - EF Core 5: ef-core/ef-core-5.md
+    - Expression Tree: ef-core/expression-tree.md
+  - Environment: environment.md
+  - MediatR: mediatr.md
+  - Mapping: mapping.md
+  - Caching: caching.md
+  - Benchmarking: benchmarking.md
+  - Package Versioning: package-versioning.md
+  - Orleans: orleans.md
+  - CI/CD: 
+    - Azure Devops: ci-cd/azure-devops.md
+    - GitHub Actions: ci-cd/gitHub-actions.md
+  - PaaS:
+    - Heroku: paas/heroku.md
+    - Netlify: paas/netlify.md
+  - Roslyn: roslyn.md
+  - Others: others.md
+
+
+copyright: 2021 <a href="https://github.com/mehdihadeli">Mehdi Hadeli</a>.
+#remote_branch: gh-pages 
+#remote_name: origin
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/mehdi_hadeli
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/mehdihadeli
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/mehdihadeli
