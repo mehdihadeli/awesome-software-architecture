@@ -1,7 +1,7 @@
 site_name: Awesome Software Architecture
 site_url: https://mehdihadeli.github.io/awesome-software-architecture/
 site_description: Curated list of awesome articles and resources to learn and practice about software architecture, patterns and principles.
-docs_dir: docs/
+docs_dir: 
 repo_name: 'GitHub'
 repo_url: https://github.com/mehdihadeli/awesome-software-architecture
 theme: 
@@ -49,139 +49,139 @@ markdown_extensions:
       #baselevel: 2
 
 nav:
-- Software Architecture: docs/software-architecture.md
+- Software Architecture: software-architecture.md
 - Architectural Style: 
-  - Architectural Style: docs/architectural-style.md
-  - Traditional N-Layer Architecture: docs/architectural-style/nlayer-architecture.md
-  - Clean Architecture: docs/architectural-style/clean-architecture.md
-  - Onion Architecture: docs/architectural-style/onion-architecture.md
-  - Ports And Adapters Architecture (Hexagonal Architecture): docs/architectural-style/hexagonal-architecture.md
-  - Vertical Slice Architecture: docs/architectural-style/vertical-slice-architecture.md
-  - Event Driven Architecture: docs/architectural-style/event-driven-architecture.md
-  - Service Oriented Architecture: docs/architectural-style/service-oriented-architecture.md
-  - Component Based Architecture: docs/architectural-style/component-based-architecture.md
+  - Architectural Style: architectural-style.md
+  - Traditional N-Layer Architecture: architectural-style/nlayer-architecture.md
+  - Clean Architecture: architectural-style/clean-architecture.md
+  - Onion Architecture: architectural-style/onion-architecture.md
+  - Ports And Adapters Architecture (Hexagonal Architecture): architectural-style/hexagonal-architecture.md
+  - Vertical Slice Architecture: architectural-style/vertical-slice-architecture.md
+  - Event Driven Architecture: architectural-style/event-driven-architecture.md
+  - Service Oriented Architecture: architectural-style/service-oriented-architecture.md
+  - Component Based Architecture: architectural-style/component-based-architecture.md
 - Architectural Design Principles: 
-  - Architectural Design Principles: docs/architectural-design-principles.md
-  - Crosscutting Concerns: docs/architectural-design-principles/crosscutting-concerns.md
-  - Encapsulation: docs/architectural-design-principles/encapsulation.md
-  - Dependency Inversion: docs/architectural-design-principles/dependency-inversion.md
-  - Interface Segregation Principle: docs/architectural-design-principles/interface-segregation-principle.md
-  - Single Responsibility: docs/architectural-design-principles/single-responsibility-principle.md
-  - Open/Closed Principle: docs/architectural-design-principles/open-closed-principle.md
-  - Command Query Separation: docs/architectural-design-principles/cqs.md
-  - Favor Composition over Inheritance: docs/architectural-design-principles/favor-composition-over-inheritance.md
-  - DRY: docs/architectural-design-principles/dry.md
-  - KISS: docs/architectural-design-principles/kiss.md
-  - YAGNI: docs/architectural-design-principles/yagni.md
-  - Minimize Coupling: docs/architectural-design-principles/minimize-coupling.md
-  - Maximize Cohesion: docs/architectural-design-principles/maximize-cohesion.md
-  - Persistence Ignorance: docs/architectural-design-principles/persistence-ignorance.md
-  - GRASP: docs/architectural-design-principles/grasp.md
+  - Architectural Design Principles: architectural-design-principles.md
+  - Crosscutting Concerns: architectural-design-principles/crosscutting-concerns.md
+  - Encapsulation: architectural-design-principles/encapsulation.md
+  - Dependency Inversion: architectural-design-principles/dependency-inversion.md
+  - Interface Segregation Principle: architectural-design-principles/interface-segregation-principle.md
+  - Single Responsibility: architectural-design-principles/single-responsibility-principle.md
+  - Open/Closed Principle: architectural-design-principles/open-closed-principle.md
+  - Command Query Separation: architectural-design-principles/cqs.md
+  - Favor Composition over Inheritance: architectural-design-principles/favor-composition-over-inheritance.md
+  - DRY: architectural-design-principles/dry.md
+  - KISS: architectural-design-principles/kiss.md
+  - YAGNI: architectural-design-principles/yagni.md
+  - Minimize Coupling: architectural-design-principles/minimize-coupling.md
+  - Maximize Cohesion: architectural-design-principles/maximize-cohesion.md
+  - Persistence Ignorance: architectural-design-principles/persistence-ignorance.md
+  - GRASP: architectural-design-principles/grasp.md
 - Architectural Patterns: 
-  - Architectural Patterns: docs/architectural-patterns.md
+  - Architectural Patterns: architectural-patterns.md
   - Domain Driven Design - Domain Centric: 
-    - Domain Driven Design - Domain Centric: docs/architectural-patterns/domain-driven-design/domain-driven-design.md
-    - Aggregation: docs/architectural-patterns/domain-driven-design/aggregation.md
-    - Anemic Domain Model: docs/architectural-patterns/domain-driven-design/anemic-domain-model.md
-    - Application Service: docs/architectural-patterns/domain-driven-design/application-service.md
-    - Bounded Context: docs/architectural-patterns/domain-driven-design/bounded-context.md
-    - Domain Events: docs/architectural-patterns/domain-driven-design/domain-events.md
-    - Domain Primitives: docs/architectural-patterns/domain-driven-design/domain-primitives.md
-    - Domain Service: docs/architectural-patterns/domain-driven-design/domain-service.md
-    - Enums: docs/architectural-patterns/domain-driven-design/enums.md
-    - Exception And Validation: docs/architectural-patterns/domain-driven-design/exception-and-validation.md
-    - Infrastructure: docs/architectural-patterns/domain-driven-design/infrastructure.md
-    - Mapping: docs/architectural-patterns/domain-driven-design/mapping.md
-    - Strategic Design Patterns: docs/architectural-patterns/domain-driven-design/strategic-design-patterns.md
-    - Tactical Design Patterns: docs/architectural-patterns/domain-driven-design/tactical-design-patterns.md
-    - Value Objects: docs/architectural-patterns/domain-driven-design/value-objects.md
-  - Data Driven Design - Data Centric: docs/architectural-patterns/data-driven-design.md
-  - CQRS: docs/architectural-patterns/cqrs.md
-  - Event Sourcing: docs/architectural-patterns/event-sourcing.md
+    - Domain Driven Design - Domain Centric: architectural-patterns/domain-driven-design/domain-driven-design.md
+    - Aggregation: architectural-patterns/domain-driven-design/aggregation.md
+    - Anemic Domain Model: architectural-patterns/domain-driven-design/anemic-domain-model.md
+    - Application Service: architectural-patterns/domain-driven-design/application-service.md
+    - Bounded Context: architectural-patterns/domain-driven-design/bounded-context.md
+    - Domain Events: architectural-patterns/domain-driven-design/domain-events.md
+    - Domain Primitives: architectural-patterns/domain-driven-design/domain-primitives.md
+    - Domain Service: architectural-patterns/domain-driven-design/domain-service.md
+    - Enums: architectural-patterns/domain-driven-design/enums.md
+    - Exception And Validation: architectural-patterns/domain-driven-design/exception-and-validation.md
+    - Infrastructure: architectural-patterns/domain-driven-design/infrastructure.md
+    - Mapping: architectural-patterns/domain-driven-design/mapping.md
+    - Strategic Design Patterns: architectural-patterns/domain-driven-design/strategic-design-patterns.md
+    - Tactical Design Patterns: architectural-patterns/domain-driven-design/tactical-design-patterns.md
+    - Value Objects: architectural-patterns/domain-driven-design/value-objects.md
+  - Data Driven Design - Data Centric: architectural-patterns/data-driven-design.md
+  - CQRS: architectural-patterns/cqrs.md
+  - Event Sourcing: architectural-patterns/event-sourcing.md
   - Microservices: 
-    - Microservices: docs/architectural-patterns/microservices/microservices.md
+    - Microservices: architectural-patterns/microservices/microservices.md
     - Reverse Proxy:
-      - Reverse Proxy: docs/architectural-patterns/microservices/reverse-proxy/revers-proxy.md
-      - YARP: docs/architectural-patterns/microservices/reverse-proxy/yarp.md
+      - Reverse Proxy: architectural-patterns/microservices/reverse-proxy/revers-proxy.md
+      - YARP: architectural-patterns/microservices/reverse-proxy/yarp.md
     - Service Discovery:
-      - Service Discovery: docs/architectural-patterns/microservices/service-discovery/service-discovery.md
-      - Consul: docs/architectural-patterns/microservices/service-discovery/consul.md
+      - Service Discovery: architectural-patterns/microservices/service-discovery/service-discovery.md
+      - Consul: architectural-patterns/microservices/service-discovery/consul.md
     - Tools: 
-      - Tools: docs/architectural-patterns/microservices/tools/tools.md
-      - Dapr: docs/architectural-patterns/microservices/tools/dapr.md
-      - SteelToe: docs/architectural-patterns/microservices/tools/steeltoe.md
-      - Tye: docs/architectural-patterns/microservices/tools/tye.md
-  - Serverless Architectural Pattern: docs/architectural-patterns/serverless.md
-  - MicroKernel Architectural Pattern: docs/architectural-patterns/micro-kernel.md
-  - Modular Monolith: docs/architectural-patterns/modular-monolith.md
+      - Tools: architectural-patterns/microservices/tools/tools.md
+      - Dapr: architectural-patterns/microservices/tools/dapr.md
+      - SteelToe: architectural-patterns/microservices/tools/steeltoe.md
+      - Tye: architectural-patterns/microservices/tools/tye.md
+  - Serverless Architectural Pattern: architectural-patterns/serverless.md
+  - MicroKernel Architectural Pattern: architectural-patterns/micro-kernel.md
+  - Modular Monolith: architectural-patterns/modular-monolith.md
 - Design Patterns: 
-  - Design Patterns: docs/design-patterns/design-patterns.md
-  - Singleton: docs/design-patterns/singleton.md
-  - Decorator Pattern: docs/design-patterns/decorator-pattern.md
-  - Specification Pattern: docs/design-patterns/specification-pattern.md
-  - Repository Pattern: docs/design-patterns/repository-pattern.md
-  - Query Object Pattern: docs/design-patterns/query-object-pattern.md
-  - Factory Pattern: docs/design-patterns/factory-pattern.md
-  - Strategy Pattern: docs/design-patterns/strategy-pattern.md
+  - Design Patterns: design-patterns/design-patterns.md
+  - Singleton: design-patterns/singleton.md
+  - Decorator Pattern: design-patterns/decorator-pattern.md
+  - Specification Pattern: design-patterns/specification-pattern.md
+  - Repository Pattern: design-patterns/repository-pattern.md
+  - Query Object Pattern: design-patterns/query-object-pattern.md
+  - Factory Pattern: design-patterns/factory-pattern.md
+  - Strategy Pattern: design-patterns/strategy-pattern.md
 - Cloud Design Patterns: 
-  - Cloud Design Patterns: docs/cloud-design-patterns/cloud-design-patterns.md
-  - Ambassador Pattern: docs/cloud-design-patterns/ambassador-pattern.md
-  - Anti Corruption Layer Pattern: docs/cloud-design-patterns/anti-corruption-layer-pattern.md
-  - Bulkhead Pattern: docs/cloud-design-patterns/bulkhead-pattern.md
-  - Circuit Breaker Pattern: docs/cloud-design-patterns/circuit-breaker.md
-  - Exactly One Delivery: docs/cloud-design-patterns/exactly-one-delivery.md
-  - Gateway Aggregation: docs/cloud-design-patterns/gateway-aggregation.md
-  - Gateway Pattern: docs/cloud-design-patterns/gateway-pattern.md
-  - Outbox Pattern: docs/cloud-design-patterns/outbox-pattern.md
-  - Saga Pattern: docs/cloud-design-patterns/saga.md
-  - Strangler Fig Pattern: docs/cloud-design-patterns/strangler-fig-pattern.md
-- Object Oriented Design: docs/object-oriented-design.md
-- Distributed Systems Design: docs/distributed-systems-design.md
-- Scalable Software Architecture: docs/scalable-software-architecture.md
-- Clean Code: docs/clean-code.md
+  - Cloud Design Patterns: cloud-design-patterns/cloud-design-patterns.md
+  - Ambassador Pattern: cloud-design-patterns/ambassador-pattern.md
+  - Anti Corruption Layer Pattern: cloud-design-patterns/anti-corruption-layer-pattern.md
+  - Bulkhead Pattern: cloud-design-patterns/bulkhead-pattern.md
+  - Circuit Breaker Pattern: cloud-design-patterns/circuit-breaker.md
+  - Exactly One Delivery: cloud-design-patterns/exactly-one-delivery.md
+  - Gateway Aggregation: cloud-design-patterns/gateway-aggregation.md
+  - Gateway Pattern: cloud-design-patterns/gateway-pattern.md
+  - Outbox Pattern: cloud-design-patterns/outbox-pattern.md
+  - Saga Pattern: cloud-design-patterns/saga.md
+  - Strangler Fig Pattern: cloud-design-patterns/strangler-fig-pattern.md
+- Object Oriented Design: object-oriented-design.md
+- Distributed Systems Design: distributed-systems-design.md
+- Scalable Software Architecture: scalable-software-architecture.md
+- Clean Code: clean-code.md
 - Design Best Practices: 
-  - Design Best Practices: docs/design-best-practices/design-best-practices.md
-  - 12 Factor: docs/design-best-practices/12-factor.md
-  - Strongly Type Ids: docs/design-best-practices/strongly-type-ids.md
-  - Thin Controllers: docs/design-best-practices/thin-controllers.md
+  - Design Best Practices: design-best-practices/design-best-practices.md
+  - 12 Factor: design-best-practices/12-factor.md
+  - Strongly Type Ids: design-best-practices/strongly-type-ids.md
+  - Thin Controllers: design-best-practices/thin-controllers.md
 - Anti Patterns: 
-  - Anti Patterns: docs/anti-patterns/anti-patterns.md
-  - Code Smells: docs/anti-patterns/code-smells.md
-- Eventual Consistency: docs/eventual-consistency.md
+  - Anti Patterns: anti-patterns/anti-patterns.md
+  - Code Smells: anti-patterns/code-smells.md
+- Eventual Consistency: eventual-consistency.md
 - Messaging Patterns:
-  - Messaging Patterns: docs/messaging/messaging.md
-  - Kafka: docs/messaging/kafka.md
-  - RabbitMQ: docs/messaging/rabbitmq.md
-- Distributed Transactions: docs/distributed-transactions.md
-- Concurrency: docs/concurrency.md
-- Eventual Consistency: docs/eventual-consistency.md
-- RESTful API Design: docs/rest.md
-- Caching: docs/caching.md
-- Packaging: docs/packaging.md
-- Refactoring: docs/refactoring.md
+  - Messaging Patterns: messaging/messaging.md
+  - Kafka: messaging/kafka.md
+  - RabbitMQ: messaging/rabbitmq.md
+- Distributed Transactions: distributed-transactions.md
+- Concurrency: concurrency.md
+- Eventual Consistency: eventual-consistency.md
+- RESTful API Design: rest.md
+- Caching: caching.md
+- Packaging: packaging.md
+- Refactoring: refactoring.md
 - Azure Application Architecture: 
-  - Azure Application Architecture: docs/azure/azure-application-architecture.md
-  - Azure Active Directory: docs/azure/azure-active-directory.md
-  - Azure Functions: docs/azure/azure-functions.md
-  - Azure Service Bus: docs/azure/azure-service-bus.md
-  - Azure Template: docs/azure/azure-template.md
-  - Azure Identity: docs/azure/azure-identity.md
+  - Azure Application Architecture: azure/azure-application-architecture.md
+  - Azure Active Directory: azure/azure-active-directory.md
+  - Azure Functions: azure/azure-functions.md
+  - Azure Service Bus: azure/azure-service-bus.md
+  - Azure Template: azure/azure-template.md
+  - Azure Identity: azure/azure-identity.md
 - Modeling: 
-  - Modeling: docs/modeling/modeling.md
-  - Class Diagram: docs/modeling/class-diagram.md
-  - Component Diagram: docs/modeling/component-diagram.md
-  - Conceptual Diagram: docs/modeling/conceptual-diagram.md
-  - Conceptual Modeling: docs/modeling/conceptual-modeling.md
-  - Data Modeling Notations: docs/modeling/data-modeling-notations.md
-  - ER Diagrams: docs/modeling/er-diagrams.md
-  - Logical Modeling: docs/modeling/logical-modeling.md
-  - Physical Modeling: docs/modeling/physical-modeling.md
-  - Relationship: docs/modeling/relationship.md
-  - Tools: docs/modeling/tools.md
-  - Use Case Diagram: docs/modeling/use-case-diagram.md
-- Event Storming: docs/event-storming.md
-- Engineering Blogs: docs/engineering-blogs.md
-- Other: docs/other.md
+  - Modeling: modeling/modeling.md
+  - Class Diagram: modeling/class-diagram.md
+  - Component Diagram: modeling/component-diagram.md
+  - Conceptual Diagram: modeling/conceptual-diagram.md
+  - Conceptual Modeling: modeling/conceptual-modeling.md
+  - Data Modeling Notations: modeling/data-modeling-notations.md
+  - ER Diagrams: modeling/er-diagrams.md
+  - Logical Modeling: modeling/logical-modeling.md
+  - Physical Modeling: modeling/physical-modeling.md
+  - Relationship: modeling/relationship.md
+  - Tools: modeling/tools.md
+  - Use Case Diagram: modeling/use-case-diagram.md
+- Event Storming: event-storming.md
+- Engineering Blogs: engineering-blogs.md
+- Other: other.md
 
 
 copyright: 2021 <a href="https://github.com/mehdihadeli">Mehdi Hadeli</a>.
