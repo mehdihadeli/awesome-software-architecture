@@ -21,10 +21,10 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-software-arc
 
 - [Software Architecture](docs/software-architecture.md)
 - [Architectural Style](docs/architectural-style.md)
-  - [Traditional N-Layer Architecture](docs/architectural-style/nlayer-architecture.md)
+  - [NLayer Architecture](docs/architectural-style/nlayer-architecture.md)
   - [Clean Architecture](docs/architectural-style/clean-architecture.md)
   - [Onion Architecture](docs/architectural-style/onion-architecture.md)
-  - [Ports And Adapters Architecture (Hexagonal Architecture)](docs/architectural-style/hexagonal-architecture.md)
+  - [Hexagonal Architecture](docs/architectural-style/hexagonal-architecture.md)
   - [Vertical Slice Architecture](docs/architectural-style/vertical-slice-architecture.md)
   - [Event Driven Architecture](docs/architectural-style/event-driven-architecture.md)
   - [Service Oriented Architecture](docs/architectural-style/service-oriented-architecture.md)
