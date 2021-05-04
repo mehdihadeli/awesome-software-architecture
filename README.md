@@ -4,7 +4,7 @@
 [![Linkedin Url URL](https://img.shields.io/badge/-mehdihadeli-blue?style=flat-square&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mehdihadeli/)
 [![blog](https://img.shields.io/badge/blog-dotnetuniversity.com-brightgreen?style=flat-square)](https://dotnetuniversity.com/)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-brightgreen.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![Atom](https://img.shields.io/badge/Feed-Atom-orange)](https://github.com/mehdihadeli/awesome-software-architecture/releases.atom)
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)][tweet]
 
 ![](./banner.png)
 
@@ -139,10 +139,14 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-software-arc
 - [Other](docs/other.md)
 
 
-## Give a Star! ⭐️
+## Support ⭐
+If you like my work, feel free to:
 
-My primary focus in this repository is on quality. Creating a good quality of resources. It takes a lot of time. If you like this, learned something or you are using it in your applications, please give it a star ⭐. This is the best motivation for me to continue this work. Thanks!
+- ⭐ this repository. And we will be happy together :)
+- [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)][tweet] about Awesome Software Architecture
 
-## Share It
 
-If you think this repository makes a difference and is worth it, please share it with your friends and on social networks. I will be extremely grateful.
+Thanks a bunch for supporting me!
+
+[tweet]: https://twitter.com/intent/tweet?url=https://github.com/mehdihadeli/awesome-software-architecture&text=A%20curated%20list%20of%20awesome%20articles%20and%20resources%20to%20learn%20and%20practice%20about%20software%20architecture%2C%20patterns%2C%20and%20principles&hashtags=dotnetcore,dotnet,csharp,microservices,netcore,aspnetcore,ddd,cqrs,softwarearchitecture,designpatterns,modularmonolith
+
