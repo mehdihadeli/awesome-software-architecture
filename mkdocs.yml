@@ -52,10 +52,10 @@ nav:
 - Software Architecture: software-architecture.md
 - Architectural Style: 
   - Architectural Style: architectural-style.md
-  - Traditional N-Layer Architecture: architectural-style/nlayer-architecture.md
+  - N-Layer Architecture: architectural-style/nlayer-architecture.md
   - Clean Architecture: architectural-style/clean-architecture.md
   - Onion Architecture: architectural-style/onion-architecture.md
-  - Ports And Adapters Architecture (Hexagonal Architecture): architectural-style/hexagonal-architecture.md
+  - Hexagonal Architecture: architectural-style/hexagonal-architecture.md
   - Vertical Slice Architecture: architectural-style/vertical-slice-architecture.md
   - Event Driven Architecture: architectural-style/event-driven-architecture.md
   - Service Oriented Architecture: architectural-style/service-oriented-architecture.md
