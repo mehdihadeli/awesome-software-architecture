@@ -121,6 +121,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-software-arc
   - [Azure Functions](docs/azure/azure-functions.md)
   - [Azure Service Bus](docs/azure/azure-service-bus.md)
   - [Azure Template](docs/azure/azure-template.md)
+  - [Azure Identity](docs/azure/azure-identity.md)
 - [Modeling](docs/modeling/modeling.md)
   - [Class Diagram](docs/modeling/class-diagram.md)
   - [Component Diagram](docs/modeling/component-diagram.md)
