@@ -20,22 +20,30 @@
 - [Event Sourcing with Azure SQL and Entity Framework Core](https://www.youtube.com/watch?v=-BhDW3GeSqg)
 - [What's an Event Driven System?](https://www.youtube.com/watch?v=rJHTK2TfZ1I)
 - [eventstore webinars](https://www.eventstore.com/webinars)
-
+- [Testing Aggregate with Event Sourcing made SIMPLE](https://www.youtube.com/watch?v=rGlNhYOqKZk)
 ## Library
 
-- [EventFlow](https://github.com/eventflow/EventFlow) > Async/await first CQRS+ES and DDD framework for .NET
-- [AggregateSource](https://github.com/yreynhout/AggregateSource) > Lightweight infrastructure for doing eventsourcing using aggregates
-- [Projac](https://github.com/BitTacklr/Projac) > A set of .NET projection libraries
+- [EventFlow](https://github.com/eventflow/EventFlow) 
+> Async/await first CQRS+ES and DDD framework for .NET
+
+- [AggregateSource](https://github.com/yreynhout/AggregateSource) 
+> Lightweight infrastructure for doing eventsourcing using aggregates
+
+- [Projac](https://github.com/BitTacklr/Projac) 
+> A set of .NET projection libraries
 
 ## Samples
 
 - [Hands-On-Domain-Driven-Design-with-.NET-Core](https://github.com/PacktPublishing/Hands-On-Domain-Driven-Design-with-.NET-Core) - Alexey Zimarev
 
-- [Aggregates.NET](https://github.com/charlessolar/Aggregates.NET) > .NET event sourced domain driven design model via NServiceBus and GetEventStore
+- [Aggregates.NET](https://github.com/charlessolar/Aggregates.NET) 
+> .NET event sourced domain driven design model via NServiceBus and GetEventStore
 
-- [eShopOnContainersDDD](https://github.com/charlessolar/eShopOnContainersDDD) > Fork of dotnet-architecture/eShopOnContainers in full DDD/CQRS design using my own patterns
+- [eShopOnContainersDDD](https://github.com/charlessolar/eShopOnContainersDDD) 
+> Fork of dotnet-architecture/eShopOnContainers in full DDD/CQRS design using my own patterns
 
-- [ProductContext-EventSourcing](https://github.com/osoykan/ProductContext-EventSourcing) > A practical/experimental Event Sourcing application on Product Bounded Context in an e-commerce
+- [ProductContext-EventSourcing](https://github.com/osoykan/ProductContext-EventSourcing) 
+> A practical/experimental Event Sourcing application on Product Bounded Context in an e-commerce
 
 - [ddd-and-eventsourcing-example](https://github.com/eraydin/ddd-and-eventsourcing-example)
 

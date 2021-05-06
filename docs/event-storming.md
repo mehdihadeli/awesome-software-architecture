@@ -45,6 +45,7 @@
 - [GOTO 2018 • 50.000 Orange Stickies Later • Alberto Brandolini](https://www.youtube.com/watch?v=NGXl1D-KwRI)
 - [Crunching 'real-life stories' with DDD & Event Storming - Kenny Baas-Schwegler - KanDDDinsky 201](https://www.youtube.com/watch?v=WvkBKvMnyuc)
 - [Event Storming demo & discussion](https://www.youtube.com/watch?v=xIB_VQVVWKk)
+- ["Domain Modelling in a Remote World" with Marco Heimeshoff (Thursday's Matter)](https://www.youtube.com/watch?v=jdU_iTBP2Qs)
 
 ## Samples
 
@@ -52,13 +53,19 @@
 
 - [Decomposing the Monolith with Event Storming](https://medium.com/capital-one-tech/event-storming-decomposing-the-monolith-to-kick-start-your-microservice-architecture-acb8695a6e61)
 
-- [https://github.com/RagDhiman/M4-Organizing-Your-.NET-Microservices-MegaService](https://github.com/RagDhiman/M4-Organizing-Your-.NET-Microservices-MegaService) > Scoping and Organizing .NET Microservices Using Event Storming
+- [https://github.com/RagDhiman/M4-Organizing-Your-.NET-Microservices-MegaService](https://github.com/RagDhiman/M4-Organizing-Your-.NET-Microservices-MegaService) 
+> Scoping and Organizing .NET Microservices Using Event Storming
 
-- [https://github.com/RagDhiman/M4-Organizing-Your-.NET-Microservices-Organized](https://github.com/RagDhiman/M4-Organizing-Your-.NET-Microservices-Organized) > Scoping and Organizing .NET Microservices Using Event Storming
-- [https://github.com/RagDhiman/Miro-Event-Storming-Steps-JPEGs](https://github.com/RagDhiman/Miro-Event-Storming-Steps-JPEGs) > Scoping and Organizing .NET Microservices Using Event Storming
+- [https://github.com/RagDhiman/M4-Organizing-Your-.NET-Microservices-Organized](https://github.com/RagDhiman/M4-Organizing-Your-.NET-Microservices-Organized) 
+> Scoping and Organizing .NET Microservices Using Event Storming
 
-- [https://github.com/RagDhiman/Miro-Event-Storming-Steps](https://github.com/RagDhiman/Miro-Event-Storming-Steps) > Scoping and Organizing .NET Microservices Using Event Storming
+- [https://github.com/RagDhiman/Miro-Event-Storming-Steps-JPEGs](https://github.com/RagDhiman/Miro-Event-Storming-Steps-JPEGs) 
+> Scoping and Organizing .NET Microservices Using Event Storming
 
+- [https://github.com/RagDhiman/Miro-Event-Storming-Steps](https://github.com/RagDhiman/Miro-Event-Storming-Steps) 
+> Scoping and Organizing .NET Microservices Using Event Storming
+
+- ["Domain Modelling in a Remote World" with Marco Heimeshoff](https://miro.com/app/board/o9J_lSf4hpY=/)
 ## Books
 
 - [Introducing EventStorming](https://leanpub.com/introducing_eventstorming) - Alberto Brandolini

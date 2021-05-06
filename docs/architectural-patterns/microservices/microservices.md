@@ -7,7 +7,7 @@
 - [Awesome Microservices .NET Core](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - Mohammad Ebrahimi
 - [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/) - Microsoft
 - [Cloud-Native learning resources for .NET developers](https://devblogs.microsoft.com/dotnet/cloud-native-learning-resources-for-net-developers/)
-
+- [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices)
 ## 📝 Articles
 
 - [Design a microservice-oriented application](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/microservice-application-design)

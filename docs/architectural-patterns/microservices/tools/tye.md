@@ -1,5 +1,9 @@
 # Tye
 
+
+## Resources
+- [dotnet/tye](https://github.com/dotnet/tye)
+
 ## 📝 Articles
 
 ## 📹 Videos
