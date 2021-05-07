@@ -105,7 +105,6 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-software-arc
   - [Thin Controllers](docs/design-best-practices/thin-controllers.md)
 - [Anti Patterns](docs/anti-patterns/anti-patterns.md)
   - [Code Smells](docs/anti-patterns/code-smells.md)
-- [Eventual Consistency](docs/eventual-consistency.md)
 - [Messaging Patterns](docs/messaging/messaging.md)
   - [Kafka](docs/messaging/kafka.md)
   - [RabbitMQ](docs/messaging/rabbitmq.md)

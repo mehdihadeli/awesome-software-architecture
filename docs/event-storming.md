@@ -39,6 +39,7 @@
 - [Remote Workshops Using Miro: What I’ve Learned So Far](https://medium.com/nick-tune-tech-strategy-blog/remote-workshops-using-miro-what-ive-learned-so-far-849391f0412b)
 - [Remote Team Flow EventStorming for Retrospectives](https://medium.com/nick-tune-tech-strategy-blog/remote-team-flow-eventstorming-for-retrospectives-a8ea33cdb277)
 - [EventStorming Modelling Tips to Facilitate Microservice Design](https://medium.com/nick-tune-tech-strategy-blog/eventstorming-modelling-tips-to-facilitate-microservice-design-1b1b0b838efc)
+- [Outside-in Domain Landscape Discovery](https://medium.com/nick-tune-tech-strategy-blog/outside-in-domain-landscape-discovery-3ec88aeb70db)
 ## 📹 Videos
 
 - [Scoping and Organizing .NET Microservices Using Event Storming](https://www.pluralsight.com/courses/dotnet-microservices-scoping-organizing)
