@@ -16,7 +16,8 @@
 
 ## 🔖 Samples
 
-- [https://github.com/Daniel-Krzyczkowski/MicrosoftAzure](https://github.com/Daniel-Krzyczkowski/MicrosoftAzure) > Microsoft Azure code samples.
+- [https://github.com/Daniel-Krzyczkowski/MicrosoftAzure](https://github.com/Daniel-Krzyczkowski/MicrosoftAzure) 
+  > Microsoft Azure code samples.
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>

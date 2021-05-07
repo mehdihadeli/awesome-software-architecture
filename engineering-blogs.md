@@ -8,7 +8,7 @@
 - [Spotify Engineering Blog](https://engineering.atspotify.com)
 - [Amazon](https://aws.amazon.com/blogs/aws/)
 - [Amazon Architecture blog](https://aws.amazon.com/blogs/architecture/)
-- [https://github.com/kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
+- [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>

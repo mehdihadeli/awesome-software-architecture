@@ -2,7 +2,7 @@
 
 ## Resources
 
-- [Anti Patterns](https://deviq.com/antipatterns/antipatterns-overview) - DevIQ
+- [Anti Patterns](https://deviq.com/antipatterns/antipatterns-overview) 
 
 ## Articles
 

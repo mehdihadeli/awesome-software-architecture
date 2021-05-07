@@ -2,9 +2,9 @@
 
 ## 📝 Articles
 
-- [Specification pattern: C# implementation](https://enterprisecraftsmanship.com/posts/specification-pattern-c-implementation/) - Vladimir Khorikove
-- [Implementing Query Specification pattern in Entity Framework Core](https://gunnarpeipman.com/ef-core-query-specification/) - Gunnar Peipman
-- [Using the Specification pattern with Repository and Unit of work](https://dotnetfalcon.com/using-the-specification-pattern-with-repository-and-unit-of-work/) - Akos Nagy
+- [Specification pattern: C# implementation](https://enterprisecraftsmanship.com/posts/specification-pattern-c-implementation/)
+- [Implementing Query Specification pattern in Entity Framework Core](https://gunnarpeipman.com/ef-core-query-specification/) 
+- [Using the Specification pattern with Repository and Unit of work](https://dotnetfalcon.com/using-the-specification-pattern-with-repository-and-unit-of-work/)
 - [Specification](https://ardalis.github.io/Specification/)
 - [Specification Pattern in ASP.NET Core – Enhancing Generic Repository Pattern](https://codewithmukesh.com/blog/specification-pattern-in-aspnet-core/)
 ## Videos

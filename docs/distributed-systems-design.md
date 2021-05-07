@@ -3,19 +3,18 @@
 
 ## Resources
 
-- [System Design](https://www.youtube.com/playlist?list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV) - Tech Dummies Narendra L
-- [Coding and System Design Interview Questions](https://www.youtube.com/playlist?list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka) - Success in Tech
-- [System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) - Gaurav Sen
-- [Basics of System Design](https://www.youtube.com/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u) - Coding Simplified
-- [System Design Primer Course](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a) - sudoCODE
-- [System Design And Interview](https://www.youtube.com/c/interviewingio/videos) - interviewing.io
-- [System Design](https://www.youtube.com/playlist?list=PLhgw50vUymyckXl3D1IlXoVl94wknJfUC) - codeKarle
+- [System Design](https://www.youtube.com/playlist?list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV) - You will learn all the essential questions asked in many system design interviews or software architecture design rounds.
+- [Coding and System Design Interview Questions](https://www.youtube.com/playlist?list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka) 
+- [System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) - This series touches key areas in system design, which are used to design real world systems and interview questions.
+- [Basics of System Design](https://www.youtube.com/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u) - Learn basics of System Design. Learn internal working of System Design components.
+- [System Design Primer Course](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a) 
+- [System Design And Interview](https://www.youtube.com/c/interviewingio/videos) 
+- [System Design](https://www.youtube.com/playlist?list=PLhgw50vUymyckXl3D1IlXoVl94wknJfUC) 
 - [Grokking the System Design Interview](https://www.youtube.com/playlist?list=PL73KFetZlkJSZ9vTDSJ1swZhe6CIYkqTL)
-- [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Donne Martin
-- [https://github.com/checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - Zach
-- [https://github.com/shashank88/system_design](https://github.com/shashank88/system_design) - shashank khare
-- [https://github.com/lei-hsia/grokking-system-design](https://github.com/lei-hsia/grokking-system-design) - LEI XIA
-- [https://github.com/kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs)
+- [https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [https://github.com/checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies
+- [https://github.com/shashank88/system_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions
+- [https://github.com/kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 - [Preparing for the Systems Design and Coding Interview](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/)
 - [System Design Interview](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ)
 - [http://highscalability.com/all-time-favorites/](http://highscalability.com/all-time-favorites/)
@@ -31,7 +30,7 @@
 
 ## 📹 Videos
 
-- [Distributed Computing](https://www.youtube.com/watch?v=ajjOEltiZm4&t=0s) - The TechCave
+- [Distributed Computing](https://www.youtube.com/watch?v=ajjOEltiZm4&t=0s) 
 
 ## Books
 

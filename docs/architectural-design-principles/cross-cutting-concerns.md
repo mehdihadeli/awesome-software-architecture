@@ -3,8 +3,8 @@
 
 ## 📝 Articles
 
-- [Crosscutting Concerns](<https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ee658105(v=pandp.10)>) - Microsoft
-- [A Brief Intro to Clean Architecture, Clean DDD, and CQRS](https://blog.jacobsdata.com/2020/02/19/a-brief-intro-to-clean-architecture-clean-ddd-and-cqrs) - Jacobs Data
+- [Crosscutting Concerns](<https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ee658105(v=pandp.10)>) 
+- [A Brief Intro to Clean Architecture, Clean DDD, and CQRS](https://blog.jacobsdata.com/2020/02/19/a-brief-intro-to-clean-architecture-clean-ddd-and-cqrs) 
 - [Managing Cross Cutting Concerns – Logging](https://www.cshandler.com/2015/10/managing-cross-cutting-concerns-logging.html)
 - [Cross cutting concern example](https://stackoverflow.com/questions/23700540/cross-cutting-concern-example)
 - [cross cutting concern](https://medium.com/anatta-design/cross-cutting-concern-aadf4f51a5c1)

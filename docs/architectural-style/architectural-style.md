@@ -2,11 +2,11 @@
 
 ## Resources
 
-- [Architectural Patterns and Styles](<https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ee658117(v=pandp.10)>) - Microsoft
-- [The Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/) - Herberto Graca
-- [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/) - Herberto Graca
-- [Reflecting architecture and domain in code](https://herbertograca.com/2019/06/05/reflecting-architecture-and-domain-in-code/) - Herberto Graca
-- [More than concentric layers](https://herbertograca.com/2018/07/07/more-than-concentric-layers/) - Herberto Graca
+- [Architectural Patterns and Styles](<https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ee658117(v=pandp.10)>)
+- [The Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
+- [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
+- [Reflecting architecture and domain in code](https://herbertograca.com/2019/06/05/reflecting-architecture-and-domain-in-code/) 
+- [More than concentric layers](https://herbertograca.com/2018/07/07/more-than-concentric-layers/) 
 - [Architectural Styles vs. Architectural Patterns vs. Design Patterns](https://herbertograca.com/2017/07/28/architectural-styles-vs-architectural-patterns-vs-design-patterns/)
 - [Component Based Architecture](https://medium.com/omarelgabrys-blog/component-based-architecture-3c3c23c7e348)
 - [Package by component and architecturally-aligned testing](http://www.codingthearchitecture.com/2015/03/08/package_by_component_and_architecturally_aligned_testing.html)

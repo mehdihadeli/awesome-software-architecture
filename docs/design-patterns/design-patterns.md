@@ -2,13 +2,14 @@
 
 ## Resources
 
-- [DesignPatterns](https://github.com/abishekaditya/DesignPatterns) > Project : Design Patterns Examples in C#
+- [DesignPatterns](https://github.com/abishekaditya/DesignPatterns) 
+  > Project : Design Patterns Examples in C#
 
 - [anupavanm/csharp-design-patterns-for-humans](https://github.com/anupavanm/csharp-design-patterns-for-humans) 
-> Design Patterns for Humans™ - An ultra-simplified explanation - C# Examples
+  > Design Patterns for Humans™ - An ultra-simplified explanation - C# Examples
 
 - [nemanjarogic/DesignPatternsLibrary](https://github.com/nemanjarogic/DesignPatternsLibrary) 
-> A comprehensive design patterns library implemented in C#, which covers various design patterns from the most commonly used ones to the lesser-known ones. Get familiar with and learn design patterns through moderately realistic examples.
+  > A comprehensive design patterns library implemented in C#, which covers various design patterns from the most commonly used ones to the lesser-known ones. Get familiar with and learn design patterns through moderately realistic examples.
 
 - [beginor/DesignPatterns](https://github.com/beginor/DesignPatterns)
 

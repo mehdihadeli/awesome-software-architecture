@@ -3,21 +3,21 @@
 
 ## 📝 Articles
 
-- [Command and Query Responsibility Segregation (CQRS) pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs) - Microsoft
-- [Simple CQRS implementation with raw SQL and DDD](http://www.kamilgrzybek.com/design/simple-cqrs-implementation-with-raw-sql-and-ddd/) - Kamil Grzybek
-- [CQRS/MediatR implementation patterns](https://lostechies.com/jimmybogard/2016/10/27/cqrsmediatr-implementation-patterns/) - Jimmy Bogard
-- [CQRS Myths: 3 Most Common Misconceptions](https://codeopinion.com/cqrs-myths-3-most-common-misconceptions/) - CodeOpinion
+- [Command and Query Responsibility Segregation (CQRS) pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs) 
+- [Simple CQRS implementation with raw SQL and DDD](http://www.kamilgrzybek.com/design/simple-cqrs-implementation-with-raw-sql-and-ddd/) 
+- [CQRS/MediatR implementation patterns](https://lostechies.com/jimmybogard/2016/10/27/cqrsmediatr-implementation-patterns/) 
+- [CQRS Myths: 3 Most Common Misconceptions](https://codeopinion.com/cqrs-myths-3-most-common-misconceptions/) 
 - [Dealing with Duplication in MediatR Handlers](https://lostechies.com/jimmybogard/2016/12/12/dealing-with-duplication-in-mediatr-handlers/)
-- [Implement reads/queries in a CQRS microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/cqrs-microservice-reads) - Microsoft
+- [Implement reads/queries in a CQRS microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/cqrs-microservice-reads) 
 - [Some thoughts on using CQRS without Event Sourcing](https://medium.com/@mbue/some-thoughts-on-using-cqrs-without-event-sourcing-938b878166a2)
-- [Tackling Complexity in CQRS](https://vladikk.com/2017/03/20/tackling-complexity-in-cqrs/) - Vladik Khononov
+- [Tackling Complexity in CQRS](https://vladikk.com/2017/03/20/tackling-complexity-in-cqrs/) 
 - [From CQS to CQRS](https://herbertograca.com/2017/10/19/from-cqs-to-cqrs/)
 - [Building a robust CQRS database with EF Core and Cosmos DB](https://www.thereformedprogrammer.net/building-a-robust-cqrs-database-with-ef-core-and-cosmos-db/)
 - [EF Core – Combining SQL and NoSQL databases for better performance](https://www.thereformedprogrammer.net/ef-core-combining-sql-and-nosql-databases-for-better-performance/)
-- [CQRS facts and myths explained](https://event-driven.io/en/cqrs_facts_and_myths_explained/) - Oskar Dudycz
-- [CQRS](https://web.archive.org/web/20160729165044/https://goodenoughsoftware.net/2012/03/02/cqrs/) - Greg Young
-- [CQRS, Task Based UIs, Event Sourcing agh!](http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh/) - Greg Young
-- [Command Query Separation?](http://codebetter.com/gregyoung/2009/08/13/command-query-separation/) - Greg Young
+- [CQRS facts and myths explained](https://event-driven.io/en/cqrs_facts_and_myths_explained/) 
+- [CQRS](https://web.archive.org/web/20160729165044/https://goodenoughsoftware.net/2012/03/02/cqrs/) 
+- [CQRS, Task Based UIs, Event Sourcing agh!](http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh/) 
+- [Command Query Separation?](http://codebetter.com/gregyoung/2009/08/13/command-query-separation/) 
 - [Processing multiple aggregates – transactional vs eventual consistency](http://www.kamilgrzybek.com/design/processing-multiple-aggregates-transactional-vs-eventual-consistency/)
 - [What is CQRS?](http://cqrs.nu/Faq/command-query-responsibility-segregation)
 - [Task-Based UI](https://cqrs.wordpress.com/documents/task-based-ui/)
@@ -30,8 +30,8 @@
 - [CQRS with MediatR and AutoMapper](https://lostechies.com/jimmybogard/2015/05/05/cqrs-with-mediatr-and-automapper/)
 - [Meanwhile... on the command side of my architecture](https://blogs.cuttingedge.it/steven/posts/2011/meanwhile-on-the-command-side-of-my-architecture/)
 - [Meanwhile... on the query side of my architecture](https://blogs.cuttingedge.it/steven/posts/2011/meanwhile-on-the-query-side-of-my-architecture/)
-- [MVC Controllers are Dinosaurs - Embrace API Endpoints](https://ardalis.com/mvc-controllers-are-dinosaurs-embrace-api-endpoints/) - Steve Smith
-- [Moving from Controllers and Actions to Endpoints with MediatR](https://ardalis.com/moving-from-controllers-and-actions-to-endpoints-with-mediatr/) - Steve Smith
+- [MVC Controllers are Dinosaurs - Embrace API Endpoints](https://ardalis.com/mvc-controllers-are-dinosaurs-embrace-api-endpoints/) 
+- [Moving from Controllers and Actions to Endpoints with MediatR](https://ardalis.com/moving-from-controllers-and-actions-to-endpoints-with-mediatr/) 
 - [CQRS snippets](https://cezarypiatek.github.io/post/cqrs-snippets/)
 - [CQRS Simple Architecture](https://kariera.future-processing.pl/blog/cqrs-simple-architecture/)
 - [Brighter Commands](https://www.goparamore.io/command)

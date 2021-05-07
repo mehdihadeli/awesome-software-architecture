@@ -6,4 +6,5 @@
 
 ## Samples
 
-- [VisualReCode/Cocoon](https://github.com/VisualReCode/Cocoon) > An implementation of the Strangler Fig pattern for ASP.NET Core
+- [VisualReCode/Cocoon](https://github.com/VisualReCode/Cocoon) 
+    > An implementation of the Strangler Fig pattern for ASP.NET Core

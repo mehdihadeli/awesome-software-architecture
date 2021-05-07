@@ -23,40 +23,54 @@
 
 ## 🔖 Samples
 
-- [https://github.com/kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Kamil Grzybek
-
+- [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) 
   > Full Modular Monolith application with Domain-Driven Design approach.
 
-- [https://github.com/kgrzybek/modular-monolith-with-ddd-fe-react](https://github.com/kgrzybek/modular-monolith-with-ddd-fe-react) - Kamil Grzybek
+- [kgrzybek/modular-monolith-with-ddd-fe-react](https://github.com/kgrzybek/modular-monolith-with-ddd-fe-react)
+
   > FrontEnd React application for Modular Monolith With DDD repository and system
-- [https://github.com/phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) > Asp.Net Core 5 Clean Architecture (Microservices, Modular Monolith, Monolith) samples (+Blazor, Angular 11, React 17, Vue 2.6), Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium E2E Testing, SignalR Notification, Hangfire Tasks Scheduling
+- [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) 
+  > Asp.Net Core 5 Clean Architecture (Microservices, Modular Monolith, Monolith) samples (+Blazor, Angular 11, React 17, Vue 2.6), Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium E2E Testing, SignalR Notification, Hangfire Tasks Scheduling
 
-- [https://github.com/dcomartin/LooselyCoupledMonolith](https://github.com/dcomartin/LooselyCoupledMonolith)
+- [dcomartin/LooselyCoupledMonolith](https://github.com/dcomartin/LooselyCoupledMonolith)
 
-- [https://github.com/trueai-org/module-shop](https://github.com/trueai-org/module-shop)
+- [trueai-org/module-shop](https://github.com/trueai-org/module-shop)
 
-- [https://github.com/thangchung/coolstore-moduliths](https://github.com/thangchung/coolstore-moduliths)
+- [thangchung/coolstore-moduliths](https://github.com/thangchung/coolstore-moduliths)
 
-- [https://github.com/thangchung/blog-core](https://github.com/thangchung/blog-core) > Modular blog using Blazor with clean domain-driven design patterns
+- [thangchung/blog-core](https://github.com/thangchung/blog-core) 
+  > Modular blog using Blazor with clean domain-driven design patterns
 
-- [https://github.com/ddd-by-examples/library](https://github.com/ddd-by-examples/library) > A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
-- [https://github.com/simplcommerce/SimplCommerce](https://github.com/simplcommerce/SimplCommerce) > A simple, cross platform, modularized ecommerce system built on .NET Core
-- [https://github.com/spetz/NPost](https://github.com/spetz/NPost) > Modular Monolith sample
+- [ddd-by-examples/library](https://github.com/ddd-by-examples/library) 
+  > A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
 
-- [https://github.com/devmentors/Cine](https://github.com/devmentors/Cine) > Modular monolith in .NET Core
-- [https://github.com/devmentors/Trill-modular-monolith](https://github.com/devmentors/Trill-modular-monolith)
+- [simplcommerce/SimplCommerce](https://github.com/simplcommerce/SimplCommerce) 
+  > A simple, cross platform, modularized ecommerce system built on .NET Core
 
-- [https://github.com/spetz/Confab-training](https://github.com/spetz/Confab-training)
+- [spetz/NPost](https://github.com/spetz/NPost) 
+  > Modular Monolith sample
 
-- [https://github.com/anton-liauchuk/educational-platform](https://github.com/anton-liauchuk/educational-platform) > Modular Monolith Java application with DDD
+- [devmentors/Cine](https://github.com/devmentors/Cine) 
+  > Modular monolith in .NET Core
 
-- [VirtoCommerce/vc-storefront](https://github.com/VirtoCommerce/vc-storefront) > VirtoCommerce Storefront for ASP.NET Core 3.1 repository
+- [Trill-modular-monolith](https://github.com/devmentors/Trill-modular-monolith)
 
-- [grandnode/grandnode](https://github.com/grandnode/grandnode) > Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB
+- [spetz/Confab-training](https://github.com/spetz/Confab-training)
 
-- [smartstore/SmartStoreNET](https://github.com/smartstore/SmartStoreNET) > Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution
+- [anton-liauchuk/educational-platform](https://github.com/anton-liauchuk/educational-platform) 
+  > Modular Monolith Java application with DDD
 
-- [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce) > The most popular open-source eCommerce shopping cart solution based on ASP.NET Core
+- [VirtoCommerce/vc-storefront](https://github.com/VirtoCommerce/vc-storefront) 
+  > VirtoCommerce Storefront for ASP.NET Core 3.1 repository
+
+- [grandnode/grandnode](https://github.com/grandnode/grandnode) 
+  > Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB
+
+- [smartstore/SmartStoreNET](https://github.com/smartstore/SmartStoreNET) 
+  > Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution
+
+- [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce) 
+  > The most popular open-source eCommerce shopping cart solution based on ASP.NET Core
 
 ## 📹 Videos
 

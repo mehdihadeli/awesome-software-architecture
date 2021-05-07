@@ -6,7 +6,8 @@
 
 ## Samples
 
-- [https://github.com/kgrzybek/efcore-concurrency-handling](https://github.com/kgrzybek/efcore-concurrency-handling) > A repository showing how to handle concurrent conflicts using EntityFramework Core and DDD Aggregates
+- [https://github.com/kgrzybek/efcore-concurrency-handling](https://github.com/kgrzybek/efcore-concurrency-handling) 
+  > A repository showing how to handle concurrent conflicts using EntityFramework Core and DDD Aggregates
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>

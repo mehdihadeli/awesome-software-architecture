@@ -54,22 +54,22 @@
 
 - [Decomposing the Monolith with Event Storming](https://medium.com/capital-one-tech/event-storming-decomposing-the-monolith-to-kick-start-your-microservice-architecture-acb8695a6e61)
 
-- [https://github.com/RagDhiman/M4-Organizing-Your-.NET-Microservices-MegaService](https://github.com/RagDhiman/M4-Organizing-Your-.NET-Microservices-MegaService) 
-> Scoping and Organizing .NET Microservices Using Event Storming
+- [RagDhiman/M4-Organizing-Your-.NET-Microservices-MegaService](https://github.com/RagDhiman/M4-Organizing-Your-.NET-Microservices-MegaService) 
+  > Scoping and Organizing .NET Microservices Using Event Storming
 
-- [https://github.com/RagDhiman/M4-Organizing-Your-.NET-Microservices-Organized](https://github.com/RagDhiman/M4-Organizing-Your-.NET-Microservices-Organized) 
-> Scoping and Organizing .NET Microservices Using Event Storming
+- [RagDhiman/M4-Organizing-Your-.NET-Microservices-Organized](https://github.com/RagDhiman/M4-Organizing-Your-.NET-Microservices-Organized) 
+  > Scoping and Organizing .NET Microservices Using Event Storming
 
-- [https://github.com/RagDhiman/Miro-Event-Storming-Steps-JPEGs](https://github.com/RagDhiman/Miro-Event-Storming-Steps-JPEGs) 
-> Scoping and Organizing .NET Microservices Using Event Storming
+- [RagDhiman/Miro-Event-Storming-Steps-JPEGs](https://github.com/RagDhiman/Miro-Event-Storming-Steps-JPEGs) 
+  > Scoping and Organizing .NET Microservices Using Event Storming
 
-- [https://github.com/RagDhiman/Miro-Event-Storming-Steps](https://github.com/RagDhiman/Miro-Event-Storming-Steps) 
-> Scoping and Organizing .NET Microservices Using Event Storming
+- [RagDhiman/Miro-Event-Storming-Steps](https://github.com/RagDhiman/Miro-Event-Storming-Steps) 
+  > Scoping and Organizing .NET Microservices Using Event Storming
 
 - ["Domain Modelling in a Remote World" with Marco Heimeshoff](https://miro.com/app/board/o9J_lSf4hpY=/)
 ## Books
 
-- [Introducing EventStorming](https://leanpub.com/introducing_eventstorming) - Alberto Brandolini
+- [Introducing EventStorming - Alberto Brandolini](https://leanpub.com/introducing_eventstorming) 
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>

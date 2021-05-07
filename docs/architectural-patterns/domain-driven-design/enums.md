@@ -16,6 +16,7 @@
 ## Library
 
 - [SmartEnum](https://github.com/ardalis/SmartEnum)
+  > A base class for quickly and easily creating strongly typed enum replacements in C#.
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>

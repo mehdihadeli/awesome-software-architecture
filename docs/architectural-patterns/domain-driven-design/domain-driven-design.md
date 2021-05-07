@@ -3,18 +3,18 @@
 
 ## Resources
 
-- [Domain-Driven Design Starter Modelling Process](https://github.com/ddd-crew/ddd-starter-modelling-process) - ddd-crew
+- [Domain-Driven Design Starter Modelling Process](https://github.com/ddd-crew/ddd-starter-modelling-process) 
 - [ddd-crew/free-ddd-learning-resources](https://github.com/ddd-crew/free-ddd-learning-resources#tactical-ddd--domain-as-code)
 ## 📝 Articles
 
-- [Design a DDD-oriented microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice) - Microsoft
-- [PPPDDD.1 – What is Domain Driven Design?](https://herbertograca.com/2016/08/15/pppddd-1-what-is-domain-driven-design/) - Herberto Graca
-- [PPPDDD.2 – Distilling the Problem Domain](https://herbertograca.com/2016/08/22/pppddd-2-distilling-the-problem-domain/) - Herberto Graca
-- [PPPDDD.3 – Focusing on the Core Domain](https://herbertograca.com/2016/10/03/pppddd-3-focusing-on-the-core-domain/) - Herberto Graca
-- [A Brief Intro to Clean Architecture, Clean DDD, and CQRS](https://blog.jacobsdata.com/2020/02/19/a-brief-intro-to-clean-architecture-clean-ddd-and-cqrs) - Jacobs Data
-- [A Basic Intro to Domain-Driven Design](https://blog.jacobsdata.com/2020/02/10/a-basic-intro-to-domain-driven-design) - Jacobs Data
-- [A Template for Clean Domain-Driven Design Architecture](https://blog.jacobsdata.com/2020/03/02/a-clean-domain-driven-design-architectural-template) - Jacobs Data
-- [Tackling Complexity in the Heart of DDD](https://vladikk.com/2016/04/05/tackling-complexity-ddd/) - Vladik Khononov
+- [Design a DDD-oriented microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice) 
+- [PPPDDD.1 – What is Domain Driven Design?](https://herbertograca.com/2016/08/15/pppddd-1-what-is-domain-driven-design/) 
+- [PPPDDD.2 – Distilling the Problem Domain](https://herbertograca.com/2016/08/22/pppddd-2-distilling-the-problem-domain/) 
+- [PPPDDD.3 – Focusing on the Core Domain](https://herbertograca.com/2016/10/03/pppddd-3-focusing-on-the-core-domain/) 
+- [A Brief Intro to Clean Architecture, Clean DDD, and CQRS](https://blog.jacobsdata.com/2020/02/19/a-brief-intro-to-clean-architecture-clean-ddd-and-cqrs) 
+- [A Basic Intro to Domain-Driven Design](https://blog.jacobsdata.com/2020/02/10/a-basic-intro-to-domain-driven-design) 
+- [A Template for Clean Domain-Driven Design Architecture](https://blog.jacobsdata.com/2020/03/02/a-clean-domain-driven-design-architectural-template) 
+- [Tackling Complexity in the Heart of DDD](https://vladikk.com/2016/04/05/tackling-complexity-ddd/) 
 - [Strategic Domain-Driven Design](https://vaadin.com/learn/tutorials/ddd/strategic_domain_driven_design)
 - [Domain Driven Design re-distilled](https://yoan-thirion.medium.com/domain-driven-design-re-distilled-685e75595a60)
 - [A Basic Intro to Domain-Driven Design](https://medium.com/software-alchemy/a-basic-intro-to-domain-driven-design-bca832c09e9d)

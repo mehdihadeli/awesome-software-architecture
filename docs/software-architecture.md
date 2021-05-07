@@ -10,11 +10,11 @@
 ## 📝 Articles
 
 - [The Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
-- [Software Architecture Premises](https://herbertograca.com/2017/07/05/software-architecture-premises/) - Herberto Graca
-- [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/) - Herberto Graca
-- [Reflecting architecture and domain in code](https://herbertograca.com/2019/06/05/reflecting-architecture-and-domain-in-code/) - Herberto Graca
-- [More than concentric layers](https://herbertograca.com/2018/07/07/more-than-concentric-layers/) - Herberto Graca
-- [Documenting Software Architecture](https://herbertograca.com/2019/08/12/documenting-software-architecture/) - Herberto Graca
+- [Software Architecture Premises](https://herbertograca.com/2017/07/05/software-architecture-premises/) 
+- [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
+- [Reflecting architecture and domain in code](https://herbertograca.com/2019/06/05/reflecting-architecture-and-domain-in-code/) 
+- [More than concentric layers](https://herbertograca.com/2018/07/07/more-than-concentric-layers/) 
+- [Documenting Software Architecture](https://herbertograca.com/2019/08/12/documenting-software-architecture/) 
 - [Architectural Styles vs. Architectural Patterns vs. Design Patterns](https://herbertograca.com/2017/07/28/architectural-styles-vs-architectural-patterns-vs-design-patterns/)
 - [Package by component and architecturally-aligned testing](http://www.codingthearchitecture.com/2015/03/08/package_by_component_and_architecturally_aligned_testing.html)
 - [Schools of Package Architecture - An Illustration](http://codemanship.co.uk/parlezuml/blog/?postid=539)

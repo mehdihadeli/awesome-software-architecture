@@ -2,8 +2,8 @@
 
 ## 📝 Articles
 
-- [No need for repositories and unit of work with Entity Framework Core](https://gunnarpeipman.com/ef-core-repository-unit-of-work/) - Gunnar Peipman
-- [Repository and unit of work ARE useful](https://dotnetfalcon.com/repository-and-unit-of-work-are-useful/) - Akos Nagy
+- [No need for repositories and unit of work with Entity Framework Core](https://gunnarpeipman.com/ef-core-repository-unit-of-work/) 
+- [Repository and unit of work ARE useful](https://dotnetfalcon.com/repository-and-unit-of-work-are-useful/) 
 - [The generic repository is just a lazy anti-pattern](https://www.ben-morris.com/why-the-generic-repository-is-just-a-lazy-anti-pattern/)
 - [The Repository Pattern isn’t an Anti-Pattern; You’re just doing it wrong.](https://brianbu.com/2019/09/25/the-repository-pattern-isnt-an-anti-pattern-youre-just-doing-it-wrong/)
 - [The Generic Repository Is An Anti-Pattern](https://blog.sapiensworks.com/post/2012/03/05/The-Generic-Repository-Is-An-Anti-Pattern.aspx)

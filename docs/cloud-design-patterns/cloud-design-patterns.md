@@ -3,12 +3,13 @@
 
 ## Resources
 
-- [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/index-patterns) - Microsoft
-- [Cloud Computing Patterns](https://www.cloudcomputingpatterns.org) - CloudComputingPatterns
+- [Cloud Design Patterns - Microsoft](https://docs.microsoft.com/en-us/azure/architecture/patterns/index-patterns) 
+- [Cloud Computing Patterns - CloudComputingPatterns](https://www.cloudcomputingpatterns.org)
 
 ## Samples
 
-- [https://github.com/mspnp/cloud-design-patterns](https://github.com/mspnp/cloud-design-patterns) > Prescriptive Architecture Guidance for Cloud Applications
+- [https://github.com/mspnp/cloud-design-patterns](https://github.com/mspnp/cloud-design-patterns) 
+  > Prescriptive Architecture Guidance for Cloud Applications
 
 ## Books
 

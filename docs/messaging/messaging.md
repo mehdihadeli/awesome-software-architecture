@@ -8,12 +8,12 @@
 
 ## 📝 Articles
 
-- [Messaging patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/category/messaging) - Microsoft
-- [Communication in a microservice architecture](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/communication-in-microservice-architecture) - Microsoft
-- [Asynchronous message-based communication](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/asynchronous-message-based-communication) - Microsoft
-- [Modular Monolith: Integration Styles](http://www.kamilgrzybek.com/tag/messaging/) - Kamil Grzybek
+- [Messaging patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/category/messaging) 
+- [Communication in a microservice architecture](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/communication-in-microservice-architecture) 
+- [Asynchronous message-based communication](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/asynchronous-message-based-communication) 
+- [Modular Monolith: Integration Styles](http://www.kamilgrzybek.com/tag/messaging/) 
 - [Marrying RESTful HTTP with Asynchronous and Event-Driven Services](https://sookocheff.com/post/api/marrying-restful-http-with-asynchronous-design/)
-- [DDD and Messaging Architectures](https://verraes.net/2019/05/ddd-msg-arch/) - Mathias Verraes
+- [DDD and Messaging Architectures](https://verraes.net/2019/05/ddd-msg-arch/) 
 - [Asynchronous Messaging Patterns](https://blogs.mulesoft.com/api-integration/patterns/asynchronous-messaging-patterns/)
 - [Messaging Patterns Overview](https://www.enterpriseintegrationpatterns.com/patterns/messaging/)
 - [Service Activator](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessagingAdapter.html)
@@ -28,7 +28,7 @@
 - [Message-IDs for Handling Concurrency](https://codeopinion.com/message-ids-for-handling-concurrency/)
 - [CAP: Event Bus & Outbox Pattern](https://codeopinion.com/cap-event-bus-outbox-pattern/)
 - [Message Queue Overload from High Processing Latency](https://codeopinion.com/message-queue-overload-from-high-processing-latency/)
-- [Processing commands with Hangfire and MediatR](http://www.kamilgrzybek.com/design/processing-commands-with-hangfire-and-mediatr/) - Kamil Grzybek
+- [Processing commands with Hangfire and MediatR](http://www.kamilgrzybek.com/design/processing-commands-with-hangfire-and-mediatr/)
 - [Using Hangfire and MediatR as a Message Dispatcher](https://codeopinion.com/using-hangfire-and-mediatr-as-a-message-dispatcher/)
 - [Idempotent Aggregates](https://codeopinion.com/idempotent-aggregates/)
 - [Identify Commands & Events](https://codeopinion.com/identify-commands-events/)

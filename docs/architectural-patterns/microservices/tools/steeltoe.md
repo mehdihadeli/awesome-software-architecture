@@ -2,8 +2,8 @@
 
 ## Resources
 
-- [Steeltoe](https://github.com/SteeltoeOSS/Steeltoe)
-- [Steeltoe.io](https://steeltoe.io)
+- [SteeltoeOSS/Steeltoe](https://github.com/SteeltoeOSS/Steeltoe)
+  > Steeltoe .NET Core Components: CircuitBreaker, Configuration, Connectors, Discovery, Logging, Management, and Security
 
 ## 📹 Videos
 
@@ -12,7 +12,8 @@
 
 ## Samples
 
-- [Samples](https://github.com/SteeltoeOSS/Samples)
+- [SteeltoeOSS/Samples](https://github.com/SteeltoeOSS/Samples)
+  > Steeltoe samples and reference application collection
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>

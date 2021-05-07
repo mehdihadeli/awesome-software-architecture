@@ -12,16 +12,16 @@
 
 ## Samples
 
-- [https://github.com/vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - Thang Chung
+- [https://github.com/vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) -
   > A full-stack .NET microservices build on Dapr and Tye
 
-- [https://github.com/thangchung/practical-dapr](https://github.com/thangchung/practical-dapr) - Thang Chung
+- [https://github.com/thangchung/practical-dapr](https://github.com/thangchung/practical-dapr) 
   > A full-stack .NET microservices build on Dapr and Tye
 
 - [https://github.com/kimcu-on-thenet/dapr-tye-simple-microservices](https://github.com/kimcu-on-thenet/dapr-tye-simple-microservices)
   > An example of building .NET Core microservices with Dapr and Tye
 
-- [https://github.com/alugili/ModernArchitectureShop](https://github.com/alugili/ModernArchitectureShop) - Bassam Alugili 
+- [https://github.com/alugili/ModernArchitectureShop](https://github.com/alugili/ModernArchitectureShop) 
   > The Microservices Online Shop is an application with a modern software architecture that is cleanly designed and based on.NET lightweight technologies. The shop has two build variations. The first variant is the classic Microservices Architectural Style. The second one is with Dapr. Dapr has a comprehensive infrastructure
 
 <div align="right">

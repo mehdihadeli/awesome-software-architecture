@@ -3,9 +3,9 @@
 
 ## Resources
 
-- [.NET Microservices Architecture Guidance](https://dotnet.microsoft.com/learn/aspnet/microservices-architecture) - Microsoft
-- [Awesome Microservices .NET Core](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - Mohammad Ebrahimi
-- [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/) - Microsoft
+- [.NET Microservices Architecture Guidance](https://dotnet.microsoft.com/learn/aspnet/microservices-architecture) 
+- [Awesome Microservices .NET Core](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) -
+- [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/)
 - [Cloud-Native learning resources for .NET developers](https://devblogs.microsoft.com/dotnet/cloud-native-learning-resources-for-net-developers/)
 - [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices)
 ## 📝 Articles
@@ -25,10 +25,10 @@
 - [Communication in a microservice architecture](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/communication-in-microservice-architecture)
 - [Asynchronous message-based communication](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/asynchronous-message-based-communication)
 - [A Microservices implementation journey — Part 1](https://koukia.ca/a-microservices-implementation-journey-part-1-9f6471fe917)
-- [Microservices and Docker with .Net Core and Azure Service Fabric - Part One](https://elvanydev.com/Microservices-part1/) - ElvanyDev
-- [Microservices and Docker with .Net Core and Azure Service Fabric - Part two](http://elvanydev.com/Microservices-part2/) - ElvanyDev
-- [Microservices and Docker with .Net Core and Azure Service Fabric - Part three](http://elvanydev.com/Microservices-part3/) - ElvanyDev
-- [Microservices and Docker with .Net Core and Azure Service Fabric - Part four](http://elvanydev.com/Microservices-part4/) - ElvanyDev
+- [Microservices and Docker with .Net Core and Azure Service Fabric - Part One](https://elvanydev.com/Microservices-part1/) 
+- [Microservices and Docker with .Net Core and Azure Service Fabric - Part two](http://elvanydev.com/Microservices-part2/) 
+- [Microservices and Docker with .Net Core and Azure Service Fabric - Part three](http://elvanydev.com/Microservices-part3/) 
+- [Microservices and Docker with .Net Core and Azure Service Fabric - Part four](http://elvanydev.com/Microservices-part4/) 
 - [What are Microservices? Advantages and Disadvantages of Microservices Architecture](https://www.dotnettricks.com/learn/microservices/architecture-example-advantages)
 - [Microservices Architecture on .NET with applying CQRS, Clean Architecture and Event-Driven Communication](https://medium.com/aspnetrun/microservices-architecture-on-net-3b4865eea03f)
 - [Best Practices for Building a Microservice Architecture](https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture)
@@ -37,7 +37,7 @@
 
 ## 📹 Videos
 
-- [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) - The TechCave
+- [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) 
 - [Microservices Architecture and Implementation on .NET 5](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/?couponCode=FA24745CC57592AB612A)
 - [Designing Loosely Coupled Microservices](https://skillsmatter.com/skillscasts/14926-designing-loosely-coupled-microservices)
 - [Architectural Patterns for High-Performance Microservices in Kubernetes](https://www.youtube.com/watch?v=vpU04uGz19U&ab_channel=Hazelcast)

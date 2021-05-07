@@ -2,24 +2,19 @@
 
 ## Resources
 
-- [Software architect roadmap](https://github.com/AlaaAttya/software-architect-roadmap)
+- [Software architect roadmap](https://github.com/AlaaAttya/software-architect-roadmap) - Software architect roadmap
 
 - [How to Learn Software Design and Architecture | The Full-stack Software Design & Architecture Map](https://khalilstemmler.com/articles/software-design-architecture/full-stack-software-design/)
 
-- [simskij/awesome-software-architecture](https://github.com/simskij/awesome-software-architecture)
+- [simskij/awesome-software-architecture](https://github.com/simskij/awesome-software-architecture) - A curated list of resources on software architecture
 
-- [Developer-Y/Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture)
+- [Developer-Y/Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture) - Collection of tech talks, papers and web links on Distributed Systems, Scalability and System Design.
 
-- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
+- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 
-- [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices)
+- [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
 
-- [System Design](https://www.youtube.com/playlist?list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV) - Tech Dummies Narendra L
-
-- [Modular Monoliths](https://files.gotocon.com/uploads/slides/conference_12/515/original/gotoberlin2018-modular-monoliths.pdf)
-
-- [joebew42/study-path](https://github.com/joebew42/study-path) 
-> An organized learning path about Clean Code, Test-Driven Development, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture
+- [joebew42/study-path](https://github.com/joebew42/study-path) - An organized learning path about Clean Code, Test-Driven Development, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture
 
 ## Books
 
@@ -32,7 +27,7 @@
 - [Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure](https://ardalis.com/architecture-ebook/)
 - [Agile Principles, Patterns, and Practices in C# ](https://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258)
 - [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/)
-- [Software Architecture for Developers](https://leanpub.com/software-architecture-for-developers) - Simon Brown
+- [Software Architecture for Developers](https://leanpub.com/software-architecture-for-developers) 
 - [Building Evolutionary Architectures: Support Constant](https://www.amazon.com/Building-Evolutionary-Architectures-Support-Constant/dp/1491986360)
 - [Fundamentals of Software Architecture: An Engineering Approach](https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451/ref=pd_lpo_14_t_0/137-5137322-0498527)
 - [Just Enough Software Architecture: A Risk-Driven Approach](https://www.amazon.com/Just-Enough-Software-Architecture-Risk-Driven/dp/0984618104)
