@@ -9,7 +9,8 @@
 - [The Azure Infrastructure Architect Map](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/the-azure-infrastructure-architect-map/ba-p/766268)
 - [The Azure Solution Architect Map](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/the-azure-solution-architect-map/ba-p/689700)
 - [The Azure Security Architect Map](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/the-azure-security-architect-map/ba-p/714091)
-
+- [microsoft/azuretipsandtricks](https://github.com/microsoft/azuretipsandtricks) - Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding tasks tomorrow.
+- [ddneves/awesome-azure-learning](https://github.com/ddneves/awesome-azure-learning)
 ## 📝 Articles
 
 - [Cars Island Car Rental on the Azure cloud - part 1](https://daniel-krzyczkowski.github.io/Cars-Island-Car-Rental-On-Azure-Cloud/)
