@@ -46,6 +46,7 @@
 - [What do you mean by “Event-Driven”?](https://martinfowler.com/articles/201701-event-driven.html)
 - [Are CQRS commands part of the domain model?](https://enterprisecraftsmanship.com/posts/cqrs-commands-part-domain-model/)
 - [DTO vs Value Object vs POCO](https://enterprisecraftsmanship.com/posts/dto-vs-value-object-vs-poco/)
+- [Event Based Architecture: What do you mean by EVENT?](https://codeopinion.com/event-based-architecture-what-do-you-mean-by-event/)
 ## Videos
 
 - [Handling Concurrency with Message-IDs | Event Driven Architecture](https://www.youtube.com/watch?v=wefvl2ohiQc)

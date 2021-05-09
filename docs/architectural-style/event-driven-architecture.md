@@ -21,7 +21,7 @@
 - [What do you mean by “Event-Driven”?](https://martinfowler.com/articles/201701-event-driven.html)
 - [6 Event-Driven Architecture Patterns — Part 1](https://medium.com/wix-engineering/6-event-driven-architecture-patterns-part-1-93758b253f47)
 - [6 Event Driven Architecture Patterns — Part 2](https://medium.com/wix-engineering/6-event-driven-architecture-patterns-part-2-455cc73b22e1)
-
+- [Event Based Architecture: What do you mean by EVENT?](https://codeopinion.com/event-based-architecture-what-do-you-mean-by-event/)
 ## Videos
 
 - [Event-Driven Architecture | EDA | Software Architectural Patterns](https://www.youtube.com/watch?v=gIL8rW_eyww&t=0s) 

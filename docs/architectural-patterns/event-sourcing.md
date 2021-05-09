@@ -11,7 +11,7 @@
 - [Reactive in practice, Unit 5: Event sourcing](https://developer.ibm.com/tutorials/reactive-in-practice-5/)
 - [Reactive in practice, Unit 7: CQRS, Part 2 – ReadSideProcessor for queries and views](https://developer.ibm.com/tutorials/reactive-in-practice-7/)
 - [EVENT SOURCING MICROSERVICES PATTERN](https://akfpartners.com/growth-blog/event-sourcing-microservices-pattern)
-
+- [Event Based Architecture: What do you mean by EVENT?](https://codeopinion.com/event-based-architecture-what-do-you-mean-by-event/)
 ## Videos
 
 - [Event Sourcing Example & Explained in plain English](https://www.youtube.com/watch?v=AUj4M-st3ic)
