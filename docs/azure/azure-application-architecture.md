@@ -14,6 +14,7 @@
 ## 📝 Articles
 
 - [Cars Island Car Rental on the Azure cloud - part 1](https://daniel-krzyczkowski.github.io/Cars-Island-Car-Rental-On-Azure-Cloud/)
+- [Modern application development](https://azure.microsoft.com/en-us/solutions/modern-application-development/)
 
 ## 🔖 Samples
 
