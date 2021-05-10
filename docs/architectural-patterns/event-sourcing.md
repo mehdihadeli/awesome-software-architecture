@@ -12,6 +12,9 @@
 - [Reactive in practice, Unit 7: CQRS, Part 2 – ReadSideProcessor for queries and views](https://developer.ibm.com/tutorials/reactive-in-practice-7/)
 - [EVENT SOURCING MICROSERVICES PATTERN](https://akfpartners.com/growth-blog/event-sourcing-microservices-pattern)
 - [Event Based Architecture: What do you mean by EVENT?](https://codeopinion.com/event-based-architecture-what-do-you-mean-by-event/)
+- [Event Sourcing in .NET Core – part 1: a gentle introduction](https://www.davidguida.net/event-sourcing-in-net-core-part-1-a-gentle-introduction/)
+- [Event Sourcing in .NET Core – part 2: storing events](https://www.davidguida.net/event-sourcing-in-net-core-part-2-storing-events/)
+- [Event Sourcing in .NET Core – part 3: broadcasting events](https://www.davidguida.net/event-sourcing-in-net-core-part-3-broadcasting-events/)
 ## Videos
 
 - [Event Sourcing Example & Explained in plain English](https://www.youtube.com/watch?v=AUj4M-st3ic)

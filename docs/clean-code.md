@@ -7,6 +7,7 @@
 - [Coding standards](https://docs.nopcommerce.com/en/developer/tutorials/coding-standards.html)
 - [justinamiller/Coding-Standards](https://github.com/justinamiller/Coding-Standards)
 - [C# Coding Standards and Naming Conventions](https://github.com/ktaranov/naming-convention/blob/master/C%23%20Coding%20Standards%20and%20Naming%20Conventions.md)
+- [Clean code tips - Tests](https://www.code4it.dev/blog/clean-code-tests)
 
 ## 📹 Videos
 
