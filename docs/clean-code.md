@@ -8,7 +8,10 @@
 - [justinamiller/Coding-Standards](https://github.com/justinamiller/Coding-Standards)
 - [C# Coding Standards and Naming Conventions](https://github.com/ktaranov/naming-convention/blob/master/C%23%20Coding%20Standards%20and%20Naming%20Conventions.md)
 - [Clean code tips - Tests](https://www.code4it.dev/blog/clean-code-tests)
-
+- [Clean code tips - Error handling](https://www.code4it.dev/blog/clean-code-error-handling)
+- [Clean code tips - Abstraction and objects](https://www.code4it.dev/blog/clean-code-abstraction-and-objects)
+- [Clean code tips - comments and formatting](https://www.code4it.dev/blog/clean-code-comments-and-formatting)
+- [Clean code tips - names and functions](https://www.code4it.dev/blog/clean-code-names-and-functions)
 ## 📹 Videos
 
 - [9 "rules" for cleaner code | Object Calisthenics](https://www.youtube.com/watch?v=gyrSiY4SHxI)

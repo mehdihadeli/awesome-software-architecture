@@ -12,6 +12,7 @@
 - [The Web API Checklist -- 43 Things To Think About When Designing, Testing, and Releasing your API](https://mathieu.fenniak.net/the-api-checklist/)
 - [Design Topics](http://apistylebook.com/design/topics/)
 - [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.2.md)
+- [REST lessons learned](https://blog.ploeh.dk/2013/04/29/rest-lessons-learned/)
   <div align="right">
     <b><a href="#contents">↥ Back To Top</a></b>
   </div>
