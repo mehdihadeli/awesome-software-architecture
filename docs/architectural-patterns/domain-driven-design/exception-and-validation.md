@@ -20,7 +20,7 @@
 - [Error handling: Exception or Result?](https://enterprisecraftsmanship.com/posts/error-handling-exception-or-result/) 
 - [What is an exceptional situation in code?](https://enterprisecraftsmanship.com/posts/what-is-exceptional-situation/)
 - [Validation and DDD](https://enterprisecraftsmanship.com/2016/09/13/validation-and-ddd/)
-
+- [Cool validation with FluentValidation](https://www.code4it.dev/blog/fluentvalidation)
 ## Library
 
 - [GuardClauses](https://github.com/ardalis/GuardClauses) 
