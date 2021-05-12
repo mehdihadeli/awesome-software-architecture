@@ -154,6 +154,9 @@
 	
 - [eventflow/EventFlow](https://github.com/eventflow/EventFlow)
 	> Async/await first CQRS+ES and DDD framework for .NET
+
+- [dasiths/SimpleMediator](https://github.com/dasiths/SimpleMediator)
+	> A .NET/C# implementation of the mediator pattern with support for queries, commands and events
 ## Books
 
 - [Enterprise Integration Patterns](https://amazon.com/o/asin/0321200683/ref=nosim/enterpriseint-20)
