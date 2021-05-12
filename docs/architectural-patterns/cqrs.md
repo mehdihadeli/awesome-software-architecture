@@ -43,7 +43,9 @@
 - [CQS with Database-Generated Ids](https://enterprisecraftsmanship.com/posts/cqs-with-database-generated-ids/)
 - [CQRS and exception handling](https://enterprisecraftsmanship.com/2019/04/15/cqrs-exception-handling/)
 - [When to validate commands in CQRS?](https://enterprisecraftsmanship.com/2019/02/20/validate-commands-cqrs/)
-
+- [Types of CQRS](https://enterprisecraftsmanship.com/posts/types-of-cqrs/)
+- [Message Naming Conventions](https://jimmybogard.com/message-naming-conventions/)
+- [CQRS - CodeWithShadman](https://codewithshadman.com/cqrs/)
 ## 📹 Videos
 
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)

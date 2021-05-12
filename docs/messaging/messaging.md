@@ -50,6 +50,7 @@
 - [What's the difference between a command and an event?](https://www.eventstore.com/blog/whats-the-difference-between-a-command-and-an-event)
 - [Outbox, Inbox patterns and delivery guarantees explained](https://event-driven.io/en/outbox_inbox_patterns_and_delivery_guarantees_explained/)
 - [Distributed State — Challenges and Options](https://medium.com/swlh/distributed-state-management-80c8100bb563)
+- [Message Naming Conventions](https://jimmybogard.com/message-naming-conventions/)
 ## Videos
 
 - [Handling Concurrency with Message-IDs | Event Driven Architecture](https://www.youtube.com/watch?v=wefvl2ohiQc)
