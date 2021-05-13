@@ -73,8 +73,8 @@ nav:
   - DRY: architectural-design-principles/dry.md
   - KISS: architectural-design-principles/kiss.md
   - YAGNI: architectural-design-principles/yagni.md
-  - Minimize Coupling: architectural-design-principles/minimize-coupling.md
-  - Maximize Cohesion: architectural-design-principles/maximize-cohesion.md
+  - Coupling: architectural-design-principles/coupling.md
+  - Cohesion: architectural-design-principles/cohesion.md
   - Persistence Ignorance: architectural-design-principles/persistence-ignorance.md
   - GRASP: architectural-design-principles/grasp.md
 - Architectural Patterns: 
@@ -168,6 +168,7 @@ nav:
   - Azure Identity: azure/azure-identity.md
 - Modeling: 
   - Modeling: modeling/modeling.md
+  - Architecture Diagram: modeling/architecture-diagram.md
   - Class Diagram: modeling/class-diagram.md
   - Component Diagram: modeling/component-diagram.md
   - Conceptual Diagram: modeling/conceptual-diagram.md

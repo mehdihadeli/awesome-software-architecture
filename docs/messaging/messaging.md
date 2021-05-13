@@ -158,6 +158,15 @@
 
 - [dasiths/SimpleMediator](https://github.com/dasiths/SimpleMediator)
 	> A .NET/C# implementation of the mediator pattern with support for queries, commands and events
+
+- [FoundatioFx/Foundatio](https://github.com/FoundatioFx/Foundatio)
+	> Pluggable foundation blocks for building distributed apps.
+
+- [AsynkronIT/protoactor-dotnet](https://github.com/AsynkronIT/protoactor-dotnet) 
+	> Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin
+	
+- [Abc-Arbitrage/Zebus](https://github.com/Abc-Arbitrage/Zebus)
+	> A lightweight Peer to Peer Service Bus
 ## Books
 
 - [Enterprise Integration Patterns](https://amazon.com/o/asin/0321200683/ref=nosim/enterpriseint-20)

@@ -150,6 +150,9 @@
 	
 - [katzien/go-structure-examples](https://github.com/katzien/go-structure-examples)
 	> Examples for my talk on structuring go apps
+
+- [Amitpnk/Clean-Architecture-ASP.NET-Core](https://github.com/Amitpnk/Clean-Architecture-ASP.NET-Core)
+	> Complete solution template which is built on Clean Architecture with all essential feature, CI/CD, best practice, testing Strategy using the testing pyramid and documentation using .NET 5!
 #### Books
 
 - [Get Your Hands Dirty on Clean Architecture](https://www.packtpub.com/product/get-your-hands-dirty-on-clean-architecture/9781839211966)

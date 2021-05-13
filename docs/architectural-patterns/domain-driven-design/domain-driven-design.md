@@ -138,10 +138,9 @@
 	
 #### Library
 
-- [https://contextmapper.org](https://contextmapper.org)
+- [xhafan/coreddd](https://github.com/xhafan/coreddd) - A set of open-source .NET libraries helping with domain-driven design (DDD) and CQRS
 
-- [eventflow/EventFlow](https://github.com/eventflow/EventFlow)
-	> Async/await first CQRS+ES and DDD framework for .NET
+- [eventflow/EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>

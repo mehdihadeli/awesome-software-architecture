@@ -25,7 +25,7 @@
 - [Hexagonal != Layers](https://tpierrain.blogspot.com/2016/04/hexagonal-layers.html)
 - [Domain-Driven Design and the Hexagonal Architecture](https://vaadin.com/learn/tutorials/ddd/ddd_and_hexagonal) 
 - [Hexagonal Architecture by example - a hands-on introduction](https://blog.allegro.tech/2020/05/hexagonal-architecture-by-example.html)
-
+- [Another story about microservices: Hexagonal Architecture](https://medium.com/sciforce/another-story-about-microservices-hexagonal-architecture-23db93fa52a2)
 ## 📹 Videos
 
 - [Chris Fidao - Hexagonal Architecture](https://www.youtube.com/watch?v=6SBjKOwVq0o)

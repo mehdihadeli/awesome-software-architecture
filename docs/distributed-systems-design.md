@@ -32,12 +32,19 @@
 
 - [Distributed Computing](https://www.youtube.com/watch?v=ajjOEltiZm4&t=0s) 
 
+## Library
+- [dotnet/orleans](https://github.com/dotnet/orleans) - Orleans is a cross-platform framework for building distributed applications with .NET
+- [FoundatioFx/Foundatio](https://github.com/FoundatioFx/Foundatio) - Pluggable foundation blocks for building distributed apps.
+- [AsynkronIT/protoactor-dotnet](https://github.com/AsynkronIT/protoactor-dotnet) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin
+- [Abc-Arbitrage/Zebus](https://github.com/Abc-Arbitrage/Zebus) - A lightweight Peer to Peer Service Bus
 ## Books
 
 - [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
 - [System Design Interview – An insider's guide, Second Edition](https://www.amazon.com/dp/B08CMF2CQF/ref=tsm_1_fb_lk)
 - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 - [Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/)
+
+
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>

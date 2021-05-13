@@ -56,12 +56,11 @@
 - [CQRS Myths | 3 Most Common Misconceptions](https://www.youtube.com/watch?v=O9qpcZt6jW0)
 
 ## Library
+- [eventflow/EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
 
-- [gautema/CQRSlite](https://github.com/gautema/CQRSlite) 
-  > A lightweight framework to help creating CQRS and Eventsourcing applications in C#
+- [gautema/CQRSlite](https://github.com/gautema/CQRSlite) - A lightweight framework to help creating CQRS and Eventsourcing applications in C#
 
-- [eventflow/EventFlow](https://github.com/eventflow/EventFlow)
-	> Async/await first CQRS+ES and DDD framework for .NET
+- [eventflow/EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
 ## 🔖 Samples
 
 - [sample-dotnet-core-cqrs-api](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - Kamil Grzybek 

@@ -13,6 +13,13 @@
 - [Repository is Dead: Long Live Repository](http://codebetter.com/gregyoung/2009/04/23/repository-is-dead-long-live-repository/)
 - [More on Repository](http://codebetter.com/gregyoung/2009/04/24/more-on-repository/)
 
+## Library
+- [FoundatioFx/Foundatio.Repositories](https://github.com/FoundatioFx/Foundatio.Repositories) - Generic repositories
+- [RobThree/MongoRepository](https://github.com/RobThree/MongoRepository) - Repository abstraction layer on top of Official MongoDB C# driver
+- [urfnet/URF.Core](https://github.com/urfnet/URF.Core) - Unit of Work & Repositories Framework - .NET Core, NET Standard, Entity Framework Core. 100% extensible & lightweight. Live demo: https://goo.gl/QpJVgd
+- [alexandre-spieser/mongodb-generic-repository](https://github.com/alexandre-spieser/mongodb-generic-repository) - An example of generic repository implementation using the MongoDB C# Sharp 2.0 driver (async)
+- [esendir/MongoRepository](https://github.com/esendir/MongoRepository) - Repository pattern for MongoDB with extended features
+- [WeihanLi/WeihanLi.EntityFramework](https://github.com/WeihanLi/WeihanLi.EntityFramework) - EntityFramework extensions
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

@@ -24,6 +24,7 @@
 - [What's an Event Driven System?](https://www.youtube.com/watch?v=rJHTK2TfZ1I)
 - [eventstore webinars](https://www.eventstore.com/webinars)
 - [Testing Aggregate with Event Sourcing made SIMPLE](https://www.youtube.com/watch?v=rGlNhYOqKZk)
+- [A practical introduction to DDD, CQRS & Event Sourcing - Dennis Doomen - KanDDDinsky 2019](https://www.youtube.com/watch?v=r26BuahD8aM)
 ## Library
 
 - [EventFlow](https://github.com/eventflow/EventFlow) 

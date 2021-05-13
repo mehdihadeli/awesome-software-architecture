@@ -20,10 +20,10 @@
 
 ## 🔖 Samples
 
-- [https://github.com/Amitpnk/Onion-architecture-ASP.NET-Core](https://github.com/Amitpnk/Onion-architecture-ASP.NET-Core) 
+- [Amitpnk/Onion-architecture-ASP.NET-Core](https://github.com/Amitpnk/Onion-architecture-ASP.NET-Core) 
   > WhiteApp API solution template which is built on Onion Architecture with all essential feature using .NET Core!
 
-- [https://github.com/pereiren/dotnet-template-onion](https://github.com/pereiren/dotnet-template-onion) 
+- [pereiren/dotnet-template-onion](https://github.com/pereiren/dotnet-template-onion) 
   > Onion Architecture with .NET 5/.NET Core and CQRS/Event Sourcing following a DDD approach
 
 <div align="right">

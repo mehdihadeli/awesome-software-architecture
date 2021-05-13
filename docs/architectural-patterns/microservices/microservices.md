@@ -53,6 +53,7 @@
 - [GOTO 2019 • Event-Driven Microservices, the Sense, the Non-sense and a Way Forward • Allard Buijze](https://www.youtube.com/watch?v=jrbWIS7BH70)
 - [GOTO 2021 • Scale, Flow and Microservices • James Lewis](https://www.youtube.com/watch?v=yJHvMabxVYU&list=PLEx5khR4g7PI89_ZS_wz5suqCoqFgv-gO)
 - [From a distributed monolith to a microservices solution - Jan de Vries](https://www.youtube.com/watch?v=0H68V2BzutA)
+- [Bounded Contexts, Microservices, and Everything In Between - Vladik Khononov - KanDDDinsky 2018](https://www.youtube.com/watch?v=dlnu5pSsg7k&t=604s)
 ## 📦 Library
 
 - [tye](https://github.com/dotnet/tye)
@@ -120,6 +121,12 @@
 	
 - [eventflow/EventFlow](https://github.com/eventflow/EventFlow)
 	> Async/await first CQRS+ES and DDD framework for .NET
+	
+- [FoundatioFx/Foundatio](https://github.com/FoundatioFx/Foundatio)
+	> Pluggable foundation blocks for building distributed apps.
+	
+- [Abc-Arbitrage/Zebus](https://github.com/Abc-Arbitrage/Zebus)
+	> A lightweight Peer to Peer Service Bus
 
 ## 🔖 Samples
 
