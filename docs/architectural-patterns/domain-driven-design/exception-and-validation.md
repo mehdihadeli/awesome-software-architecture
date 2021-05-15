@@ -22,6 +22,8 @@
 - [Validation and DDD](https://enterprisecraftsmanship.com/2016/09/13/validation-and-ddd/)
 - [Cool validation with FluentValidation](https://www.code4it.dev/blog/fluentvalidation)
 - [Validation inside or outside entities?](https://lostechies.com/jimmybogard/2016/04/29/validation-inside-or-outside-entities/)
+- [Custom Validation in ASP.NET Web API with FluentValidation](https://exceptionnotfound.net/custom-validation-in-asp-net-web-api-with-fluentvalidation/)
+- [Exception Handling in ASP.NET Web API - A Guided Tour](https://exceptionnotfound.net/the-asp-net-web-api-exception-handling-pipeline-a-guided-tour/)
 ## Library
 
 - [GuardClauses](https://github.com/ardalis/GuardClauses) 
