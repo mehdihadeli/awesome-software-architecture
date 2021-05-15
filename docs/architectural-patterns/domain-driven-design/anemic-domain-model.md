@@ -8,6 +8,9 @@
 - [Anemic Model x Rich Model](https://thedomaindrivendesign.io/anemic-model-x-rich-model/)
 - [Anemic Model](https://thedomaindrivendesign.io/anemic-model/)
 
+## Videos
+- [Domain-Driven Refactoring - Jimmy Bogard - NDC Oslo 2020](https://www.youtube.com/watch?v=_dQRAsVhCqA)
+- [Jimmy Bogard - Crafting Wicked Domain Models](https://vimeo.com/43598193)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

@@ -33,11 +33,21 @@
 - [Scaffold Your Clean DDD Web Application - Part 6: Domain-Driven Design Workflow Patterns](https://blog.jacobsdata.com/2021/04/11/scaffold-your-clean-ddd-web-application-part-6-domain-driven-design-workflow-patterns)
 - [Domain-Driven Architecture Diagrams](https://medium.com/nick-tune-tech-strategy-blog/domain-driven-architecture-diagrams-139a75acb578)
 - [3 things that will make or break your project](https://enterprisecraftsmanship.com/posts/3-things-that-will-make-or-break-your-project/)
+- [Strengthening your domain: a primer](https://lostechies.com/jimmybogard/2010/02/04/strengthening-your-domain-a-primer/)
+- [Strengthening your domain: Aggregate Construction](https://lostechies.com/jimmybogard/2010/02/24/strengthening-your-domain-aggregate-construction/)
+- [Strengthening your domain: Encapsulated collections](https://lostechies.com/jimmybogard/2010/03/10/strengthening-your-domain-encapsulated-collections/)
+- [Strengthening your domain: Encapsulating operations](https://lostechies.com/jimmybogard/2010/03/24/strengthening-your-domain-encapsulating-operations/)
+- [Strengthening your domain: Avoiding setters](https://lostechies.com/jimmybogard/2010/03/31/strengthening-your-domain-avoiding-setters/)
+- [Strengthening your domain: The double dispatch pattern](https://lostechies.com/jimmybogard/2010/03/30/strengthening-your-domain-the-double-dispatch-pattern/)
+- [10 Lessons from a Long Running DDD Project – Part 1](https://lostechies.com/jimmybogard/2016/06/13/10-lessons-from-a-long-running-ddd-project-part-1/)
+- [10 Lessons from a Long Running DDD Project – Part 2](https://lostechies.com/jimmybogard/2016/06/20/10-lessons-from-a-long-running-ddd-project-part-2/)
+- [DDD revisited](https://lostechies.com/gabrielschenker/2015/04/16/ddd-revisited/)
 ## 📹 Videos
 
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU)
-
+- [Domain-Driven Refactoring - Jimmy Bogard - NDC Oslo 2020](https://www.youtube.com/watch?v=_dQRAsVhCqA)
+- [Jimmy Bogard - Crafting Wicked Domain Models](https://vimeo.com/43598193)
 ## 🔖 Samples
 
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers)
