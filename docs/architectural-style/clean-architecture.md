@@ -36,7 +36,8 @@
 - [How to implement the Clean Architecture?](http://www.plainionist.net/Implementing-Clean-Architecture/)
 - [Implementing Clean Architecture - What is a use case?](http://www.plainionist.net/Implementing-Clean-Architecture-UseCases/)
 - [Implementing Clean Architecture - Make it scream](http://www.plainionist.net/Implementing-Clean-Architecture-Scream/)
-
+- [Clean Architecture with Xamarin Forms](https://fullstackmark.com/post/26/clean-architecture-with-xamarin-forms)
+- [Better Software Design with Clean Architecture](https://fullstackmark.com/post/11/better-software-design-with-clean-architecture)
 #### 📹 Videos
 
 - [Clean Testing - Clean Architecture with .NET Core - Jason Taylor - NDC Oslo 2020](https://www.youtube.com/watch?v=T6NRcX1vnz8) 
