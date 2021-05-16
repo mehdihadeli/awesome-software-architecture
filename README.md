@@ -113,6 +113,7 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-software-arc
 - [Eventual Consistency](docs/eventual-consistency.md)
 - [RESTful API Design](docs/rest.md)
 - [Caching](docs/caching.md)
+- [Aspect Oriented Programming](docs/aop.md)
 - [Packaging](docs/packaging.md)
 - [Refactoring](docs/refactoring.md)
 - [Azure Application Architecture](docs/azure/azure-application-architecture.md)

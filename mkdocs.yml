@@ -157,6 +157,7 @@ nav:
 - Eventual Consistency: eventual-consistency.md
 - RESTful API Design: rest.md
 - Caching: caching.md
+- Aspect Oriented Programming: aop.md
 - Packaging: packaging.md
 - Refactoring: refactoring.md
 - Azure Application Architecture: 
