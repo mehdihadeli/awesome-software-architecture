@@ -46,6 +46,7 @@
 - [Types of CQRS](https://enterprisecraftsmanship.com/posts/types-of-cqrs/)
 - [Message Naming Conventions](https://jimmybogard.com/message-naming-conventions/)
 - [CQRS - CodeWithShadman](https://codewithshadman.com/cqrs/)
+- [Mediator Pattern Implemented In .NET/C#](https://dasith.me/2019/01/07/mediator-pattern-implemented-in-net/)
 ## 📹 Videos
 
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
