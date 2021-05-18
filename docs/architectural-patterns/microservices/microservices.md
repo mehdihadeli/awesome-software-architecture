@@ -127,6 +127,8 @@
 	
 - [Abc-Arbitrage/Zebus](https://github.com/Abc-Arbitrage/Zebus)
 	> A lightweight Peer to Peer Service Bus
+	
+- [daxnet/apworks-core](https://github.com/daxnet/apworks-core) - Apworks framework supporting .NET Core
 
 ## 🔖 Samples
 
@@ -148,6 +150,9 @@
 - [dapr-tye-simple-microservices](https://github.com/kimcu-on-thenet/dapr-tye-simple-microservices)
   > An example of building .NET Core microservices with Dapr and Tye
 
+- [madslundt/NetCoreMicroservicesSample](https://github.com/madslundt/NetCoreMicroservicesSample)
+  > Sample using micro services in .NET Core 3.1 Focusing on clean code
+  
 - [run-aspnetcore-microservices](https://github.com/aspnetrun/run-aspnetcore-microservices) - AspNetRun 
   > Microservices on .Net platforms which used Asp.Net Web API, Docker, RabbitMQ, Ocelot API Gateway, MongoDB, Redis, SqlServer, Entity Framework Core, CQRS and Clean Architecture implementation. See Microservices Architecture and Step by Step Implementation on .NET Course w/ discount
 

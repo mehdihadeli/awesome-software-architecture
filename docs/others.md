@@ -16,6 +16,7 @@
 
 - [joebew42/study-path](https://github.com/joebew42/study-path) - An organized learning path about Clean Code, Test-Driven Development, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture
 
+- [unlight/solution-architecture](https://github.com/unlight/solution-architecture) - Solution Architecture links, articles, books, video lessons, etc.
 ## Books
 
 - [Microsoft Application Architecture Guide, 2nd Edition](<https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ff650706(v=pandp.10)>)

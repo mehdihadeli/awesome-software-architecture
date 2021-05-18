@@ -100,9 +100,12 @@ nav:
   - Event Sourcing: architectural-patterns/event-sourcing.md
   - Microservices: 
     - Microservices: architectural-patterns/microservices/microservices.md
+    - Distributed Tracing: architectural-patterns/microservices/distributed-tracing.md
+    - Observibility: architectural-patterns/microservices/observibility.md)
     - Reverse Proxy:
       - Reverse Proxy: architectural-patterns/microservices/reverse-proxy/revers-proxy.md
       - YARP: architectural-patterns/microservices/reverse-proxy/yarp.md
+      - Envoy: architectural-patterns/microservices/reverse-proxy/envoy.md
     - Service Discovery:
       - Service Discovery: architectural-patterns/microservices/service-discovery/service-discovery.md
       - Consul: architectural-patterns/microservices/service-discovery/consul.md
