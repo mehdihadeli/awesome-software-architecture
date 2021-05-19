@@ -155,6 +155,8 @@ nav:
   - Messaging Patterns: messaging/messaging.md
   - Kafka: messaging/kafka.md
   - RabbitMQ: messaging/rabbitmq.md
+  - Azure Service Bus: azure/azure-service-bus.md
+  - NATS: messaging/nats.md
 - Distributed Transactions: distributed-transactions.md
 - Concurrency: concurrency.md
 - Eventual Consistency: eventual-consistency.md
