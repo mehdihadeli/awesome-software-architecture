@@ -53,6 +53,7 @@
 - [Message Naming Conventions](https://jimmybogard.com/message-naming-conventions/)
 - [Building an Event Driven .NET Application: The Fundamentals](https://wrapt.dev/blog/building-an-event-driven-dotnet-application-the-fundamentals)
 - [Building an Event Driven .NET Application: Setting Up MassTransit and RabbitMQ](https://wrapt.dev/blog/building-an-event-driven-dotnet-application-setting-up-masstransit-and-rabbitmq)
+
 ## Videos
 
 - [Handling Concurrency with Message-IDs | Event Driven Architecture](https://www.youtube.com/watch?v=wefvl2ohiQc)
@@ -69,113 +70,44 @@
 
 ## Library
 
-- [Enexure.MicroBus](https://github.com/Lavinski/Enexure.MicroBus) 
-  > MicroBus is a simple in process Mediator for .NET
-
-- [Foundatio](https://github.com/exceptionless/Foundatio) 
-  > A common interface with in memory, redis and azure implementations.
-
-- [Kledex](https://github.com/lucabriguglia/Kledex) 
-  > .NET Standard framework to create simple and clean design. Advanced features for DDD, CQRS and Event Sourcing.
-
-- [Mediator.Net](https://github.com/mayuanyang/Mediator.Net) 
-  > A simple mediator for .Net for sending command, publishing event and request response with pipelines supported.
-
-- [MQTTnet](https://github.com/chkr1011/MQTTnet) 
-  > TTnet is a high performance .NET library for MQTT based communication.
-
-- [OpenCQRS](https://github.com/OpenCQRS/OpenCQRS) 
-  > .NET Core library for DDD, CQRS and Event Sourcing with Azure Service Bus integration. Supported database providers for the Command and the Event stores are: DocumentDB, MongoDB, SQL Server, MySQL, PostgreSQL and SQLite.
-
-- [Rebus](https://github.com/rebus-org/Rebus) 
-  > Simple and lean service bus implementation for .NET.
-
-- [RestBus](https://github.com/tenor/RestBus) 
-  > Messaging library for RabbitMq.
-
-- [tossit](https://github.com/turgayozgur/tossit) 
-  > Simple, easy to use library for distributed job/worker logic. Distributed messages handled by built in RabbitMQ implementation.
-
-- [Steeltoe](https://github.com/SteeltoeOSS/Steeltoe) 
-  > Steeltoe .NET Core Components: CircuitBreaker, Configuration, Connectors, Discovery, Logging, Management, and Security
-
-- [MetroBus](https://github.com/GokGokalp/MetroBus) 
-  > Lightweight messaging wrapper of
-
-- [Abp](https://github.com/abpframework/abp/tree/15589f4c1fbd6323cc80a5ce597b1ebf32d9eb07/framework/src/Volo.Abp.EventBus) 
-  > Open Source Web Application Framework for ASP.NET Core
-
-- [OpenSleigh](https://github.com/mizrael/OpenSleigh) 
-  > OpenSleigh is a Saga management library for .NET Core.
-
-- [knightbus](https://github.com/BookBeat/knightbus) 
-  > Fast multi-transport messaging framework
-
-- [SlimMessageBus](https://github.com/zarusz/SlimMessageBus) 
-  > Lightweight message bus interface for .NET (pub/sub and request-response) with transport plugins for popular message brokers.
-
-- [silverback](https://github.com/BEagle1984/silverback) 
-  > Silverback is a simple but feature-rich framework to build reactive/event-driven applications or microservices with .net core.
-
-- [Obvs](https://github.com/christopherread/Obvs) 
-  > An observable microservice bus library for .NET, that wraps the underlying message transports in simple Rx based interfaces.
-
-- [Platibus](https://github.com/sweetlandj/Platibus) 
-  > Decentralized asynchronous messaging framework
-
-- [EventBus](https://github.com/jacqueskang/EventBus) 
-  > A .NET Core ultra lightweight in-memory event bus implementation.
-
-- [Enbiso.NLib](https://github.com/enbiso/Enbiso.NLib) 
-  > .Net Standard Libraries for Microservices
-
-- [eventbus](https://github.com/tinglesoftware/eventbus) 
-  > A simple Event Bus abstraction layer for working with events in .NET.
-
-- [AzureFromTheTrenches.Commanding](https://github.com/JamesRandall/AzureFromTheTrenches.Commanding) 
-  > A configuration based commanding and mediator framework that supports command dispatch and execution in-process, over HTTP or over Azure Storage Queues. Written to .NET Standard 2.0 and supports many popular runtimes including .NET Core and .NET 4.6.x.
-
-- [Brighter](https://github.com/BrighterCommand/Brighter.git) 
-  > Command Dispatcher, Processor, and Distributed Task Queue
-
-- [Darker](https://github.com/BrighterCommand/Darker) 
-  > The query-side counterpart of Brighter
-
-- [MassTransit](https://github.com/MassTransit/MassTransit) > Distributed Application Framework for .NET
-
-- [ViennaNET](https://github.com/Raiffeisen-DGTL/ViennaNET) 
-   > Framework for quickly creating enterprise microservices on .NET Core
-
-- [Fabrik.SimpleBus](https://github.com/benfoster/Fabrik.SimpleBus) 
-  > A simple In-Process Message Bus for .NET
-
-- [MemBus](https://github.com/flq/MemBus/tree/master/MemBus) 
-  > Pure In-Memory Publish/Subscribe .NET Bus
-
-- [Cysharp/MagicOnion](https://github.com/Cysharp/MagicOnion)
-	> Unified Realtime/API framework for .NET platform and Unity.
-	
-- [eventflow/EventFlow](https://github.com/eventflow/EventFlow)
-	> Async/await first CQRS+ES and DDD framework for .NET
-
-- [dasiths/SimpleMediator](https://github.com/dasiths/SimpleMediator)
-	> A .NET/C# implementation of the mediator pattern with support for queries, commands and events
-
-- [FoundatioFx/Foundatio](https://github.com/FoundatioFx/Foundatio)
-	> Pluggable foundation blocks for building distributed apps.
-
-- [AsynkronIT/protoactor-dotnet](https://github.com/AsynkronIT/protoactor-dotnet) 
-	> Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin
-	
-- [Abc-Arbitrage/Zebus](https://github.com/Abc-Arbitrage/Zebus)
-	> A lightweight Peer to Peer Service Bus
-	
+- [Enexure.MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - MicroBus is a simple in process Mediator for .NET
+- [Foundatio](https://github.com/exceptionless/Foundatio) - A common interface with in memory, redis and azure implementations.
+- [Kledex](https://github.com/lucabriguglia/Kledex) - .NET Standard framework to create simple and clean design. Advanced features for DDD, CQRS and Event Sourcing.
+- [Mediator.Net](https://github.com/mayuanyang/Mediator.Net) - A simple mediator for .Net for sending command, publishing event and request response with pipelines supported.
+- [MQTTnet](https://github.com/chkr1011/MQTTnet) - Tnet is a high performance .NET library for MQTT based communication.
+- [OpenCQRS](https://github.com/OpenCQRS/OpenCQRS) - .NET Core library for DDD, CQRS and Event Sourcing with Azure Service Bus integration. Supported database providers for the Command and the Event stores are: DocumentDB, MongoDB, SQL Server, MySQL, PostgreSQL and SQLite.
+- [Rebus](https://github.com/rebus-org/Rebus) - Simple and lean service bus implementation for .NET.
+- [RestBus](https://github.com/tenor/RestBus) - Messaging library for RabbitMq.
+- [tossit](https://github.com/turgayozgur/tossit) - Simple, easy to use library for distributed job/worker logic. Distributed messages handled by built in RabbitMQ implementation.
+- [Steeltoe](https://github.com/SteeltoeOSS/Steeltoe) - Steeltoe .NET Core Components: CircuitBreaker, Configuration, Connectors, Discovery, Logging, Management, and Security
+- [MetroBus](https://github.com/GokGokalp/MetroBus) - Lightweight messaging wrapper of
+- [Abp](https://github.com/abpframework/abp/tree/15589f4c1fbd6323cc80a5ce597b1ebf32d9eb07/framework/src/Volo.Abp.EventBus) - Open Source Web Application Framework for ASP.NET Core
+- [OpenSleigh](https://github.com/mizrael/OpenSleigh) - OpenSleigh is a Saga management library for .NET Core.
+- [knightbus](https://github.com/BookBeat/knightbus) - Fast multi-transport messaging framework
+- [SlimMessageBus](https://github.com/zarusz/SlimMessageBus) - Lightweight message bus interface for .NET (pub/sub and request-response) with transport plugins for popular message brokers.
+- [silverback](https://github.com/BEagle1984/silverback) - Silverback is a simple but feature-rich framework to build reactive/event-driven applications or microservices with .net core.
+- [Obvs](https://github.com/christopherread/Obvs) - An observable microservice bus library for .NET, that wraps the underlying message transports in simple Rx based interfaces.
+- [Platibus](https://github.com/sweetlandj/Platibus) - Decentralized asynchronous messaging framework
+- [EventBus](https://github.com/jacqueskang/EventBus) - A .NET Core ultra lightweight in-memory event bus implementation.
+- [Enbiso.NLib](https://github.com/enbiso/Enbiso.NLib) - .Net Standard Libraries for Microservices
+- [eventbus](https://github.com/tinglesoftware/eventbus) - A simple Event Bus abstraction layer for working with events in .NET.
+- [AzureFromTheTrenches.Commanding](https://github.com/JamesRandall/AzureFromTheTrenches.Commanding) - A configuration based commanding and mediator framework that supports command dispatch and execution in-process, over HTTP or over Azure Storage Queues. Written to .NET Standard 2.0 and supports many popular runtimes including .NET Core and .NET 4.6.x.
+- [Brighter](https://github.com/BrighterCommand/Brighter) - Command Dispatcher, Processor, and Distributed Task Queue
+- [Darker](https://github.com/BrighterCommand/Darker) - The query-side counterpart of Brighter
+- [MassTransit](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET
+- [ViennaNET](https://github.com/Raiffeisen-DGTL/ViennaNET) - Framework for quickly creating enterprise microservices on .NET Core
+- [Fabrik.SimpleBus](https://github.com/benfoster/Fabrik.SimpleBus) - A simple In-Process Message Bus for .NET
+- [MemBus](https://github.com/flq/MemBus/tree/master/MemBus) - Pure In-Memory Publish/Subscribe .NET Bus
+- [Cysharp/MagicOnion](https://github.com/Cysharp/MagicOnion) - Unified Realtime/API framework for .NET platform and Unity.
+- [eventflow/EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
+- [dasiths/SimpleMediator](https://github.com/dasiths/SimpleMediator) - A .NET/C# implementation of the mediator pattern with support for queries, commands and events
+- [FoundatioFx/Foundatio](https://github.com/FoundatioFx/Foundatio) - Pluggable foundation blocks for building distributed apps.
+- [AsynkronIT/protoactor-dotnet](https://github.com/AsynkronIT/protoactor-dotnet) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin
+- [Abc-Arbitrage/Zebus](https://github.com/Abc-Arbitrage/Zebus) - A lightweight Peer to Peer Service Bus
 - [Shriek-Projects/shriek-fx](https://github.com/Shriek-Projects/shriek-fx) - An easy-to-use rapid development framework developed on the basis of.NET Core 2.0, following the constraints of domain Driven Design (DDD) specifications, combined with the CQRS architecture to provide the infrastructure for event-driven, event backtracking, responsiveness, and more. Let developers enjoy the true meaning of object-oriented
-
 - [daxnet/apworks-core](https://github.com/daxnet/apworks-core) - Apworks framework supporting .NET Core
+- [nats-io/nats.net](https://github.com/nats-io/nats.net) - The official C# Client for NATS
 
-- [nats-io/nats.net](https://github.com/nats-io/nats.net)
-	> The official C# Client for NATS
 ## Books
 
 - [Enterprise Integration Patterns](https://amazon.com/o/asin/0321200683/ref=nosim/enterpriseint-20)
