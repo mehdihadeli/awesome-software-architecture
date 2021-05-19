@@ -126,6 +126,7 @@ Thanks a bunch for supporting me!
   - [RabbitMQ](docs/messaging/rabbitmq.md)
   - [Azure Service Bus](docs/azure/azure-service-bus.md)
   - [NATS](docs/messaging/nats.md)
+  - [ZeroMQ](docs/messaging/zeromq.md)
 - [Distributed Transactions](docs/distributed-transactions.md)
 - [Concurrency](docs/concurrency.md)
 - [Eventual Consistency](docs/eventual-consistency.md)
