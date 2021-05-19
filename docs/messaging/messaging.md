@@ -51,6 +51,8 @@
 - [Outbox, Inbox patterns and delivery guarantees explained](https://event-driven.io/en/outbox_inbox_patterns_and_delivery_guarantees_explained/)
 - [Distributed State — Challenges and Options](https://medium.com/swlh/distributed-state-management-80c8100bb563)
 - [Message Naming Conventions](https://jimmybogard.com/message-naming-conventions/)
+- [Building an Event Driven .NET Application: The Fundamentals](https://wrapt.dev/blog/building-an-event-driven-dotnet-application-the-fundamentals)
+- [Building an Event Driven .NET Application: Setting Up MassTransit and RabbitMQ](https://wrapt.dev/blog/building-an-event-driven-dotnet-application-setting-up-masstransit-and-rabbitmq)
 ## Videos
 
 - [Handling Concurrency with Message-IDs | Event Driven Architecture](https://www.youtube.com/watch?v=wefvl2ohiQc)
