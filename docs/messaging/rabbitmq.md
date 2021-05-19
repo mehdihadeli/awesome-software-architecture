@@ -6,6 +6,10 @@
 - [CloudAMQP with .NET Getting started](https://www.cloudamqp.com/docs/dotnet.html)
 - [Introduction using in .NET](https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html)
 - [Introduction to RabbitMQ](https://www.tutlane.com/tutorial/rabbitmq/introduction-to-rabbitmq)
+
+## Videos
+- [What is RabbitMQ?](https://youtu.be/7rkeORD4jSw)
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
