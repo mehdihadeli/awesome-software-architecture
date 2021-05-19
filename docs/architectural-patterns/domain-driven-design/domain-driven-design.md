@@ -145,7 +145,9 @@
 	
 - [DevBetterCom/DevBetterWeb](https://github.com/DevBetterCom/DevBetterWeb)
 	> A simple web application for devBetter
-	
+
+- [baratgabor/MyWarehouse](https://github.com/baratgabor/MyWarehouse) 
+	> Clean Architecture and Domain Driven Design sample project based on C# 9 / .NET 5 / ASP.NET Core 5 / EF Core 5 & Angular 11 with Bootstrap.
 #### Library
 
 - [xhafan/coreddd](https://github.com/xhafan/coreddd) - A set of open-source .NET libraries helping with domain-driven design (DDD) and CQRS

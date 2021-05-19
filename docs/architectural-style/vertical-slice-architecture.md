@@ -8,6 +8,7 @@
 - [Vertical Slice Architecture](https://jimmybogard.com/vertical-slice-architecture/)
 - [Package by component and architecturally-aligned testing](http://www.codingthearchitecture.com/2015/03/08/package_by_component_and_architecturally_aligned_testing.html) 
 - [An architecturally-evident coding style](http://www.codingthearchitecture.com/2014/06/01/an_architecturally_evident_coding_style.html) 
+- [Exploring vertical slices in dotnet core](https://dev.to/htech/exploring-vertical-slices-in-dotnet-core-3mik)
 - [Package by Component with Clean Modules in Java](https://blog.ttulka.com/package-by-component-with-clean-modules-in-java) 
 - [Schools of Package Architecture - An Illustration](http://codemanship.co.uk/parlezuml/blog/?postid=539)
 - [Architecting for maintainability through Vertical Slices ](https://www.ghyston.com/insights/architecting-for-maintainability-through-vertical-slices/)
@@ -48,6 +49,10 @@
 - [jbogard/ContosoUniversityDotNetCore](https://github.com/jbogard/ContosoUniversityDotNetCore) 
 
 - [jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages) 
+
+- [dj-nitehawk/MongoWebApiStarter](https://github.com/dj-nitehawk/MongoWebApiStarter) - A full-featured starter template for `dotnet new` to quickly scaffold a .Net 5 Web-Api project with MongoDB as the data store.
+
+- [baratgabor/MyWarehouse](https://github.com/baratgabor/MyWarehouse) - Clean Architecture and Domain Driven Design sample project based on C# 9 / .NET 5 / ASP.NET Core 5 / EF Core 5 & Angular 11 with Bootstrap.
 
 - [gothinkster/aspnetcore-realworld-example-app](https://github.com/gothinkster/aspnetcore-realworld-example-app)
   > ASP.NET Core backend implementation for RealWorld

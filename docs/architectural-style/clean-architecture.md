@@ -154,6 +154,10 @@
 
 - [Amitpnk/Clean-Architecture-ASP.NET-Core](https://github.com/Amitpnk/Clean-Architecture-ASP.NET-Core)
 	> Complete solution template which is built on Clean Architecture with all essential feature, CI/CD, best practice, testing Strategy using the testing pyramid and documentation using .NET 5!
+	
+- [baratgabor/MyWarehouse](https://github.com/baratgabor/MyWarehouse) 
+	> Clean Architecture and Domain Driven Design sample project based on C# 9 / .NET 5 / ASP.NET Core 5 / EF Core 5 & Angular 11 with Bootstrap.
+
 #### Books
 
 - [Get Your Hands Dirty on Clean Architecture](https://www.packtpub.com/product/get-your-hands-dirty-on-clean-architecture/9781839211966)
