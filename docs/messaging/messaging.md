@@ -174,6 +174,8 @@
 
 - [daxnet/apworks-core](https://github.com/daxnet/apworks-core) - Apworks framework supporting .NET Core
 
+- [nats-io/nats.net](https://github.com/nats-io/nats.net)
+	> The official C# Client for NATS
 ## Books
 
 - [Enterprise Integration Patterns](https://amazon.com/o/asin/0321200683/ref=nosim/enterpriseint-20)

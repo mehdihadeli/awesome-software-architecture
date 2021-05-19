@@ -124,6 +124,7 @@ Thanks a bunch for supporting me!
 - [Messaging Patterns](docs/messaging/messaging.md)
   - [Kafka](docs/messaging/kafka.md)
   - [RabbitMQ](docs/messaging/rabbitmq.md)
+  - [NATS](docs/messaging/nats.md)
 - [Distributed Transactions](docs/distributed-transactions.md)
 - [Concurrency](docs/concurrency.md)
 - [Eventual Consistency](docs/eventual-consistency.md)
