@@ -9,6 +9,9 @@
 
 ## Videos
 - [What is RabbitMQ?](https://youtu.be/7rkeORD4jSw)
+- [RabbitMQ : Message Queues for beginners](https://youtu.be/hfUIWe1tK8E)
+- [RabbitMQ Explained - Use Cases](https://youtu.be/oq1fOr6Ryws)
+- [RabbitMQ Explained - Exchanges](https://youtu.be/o8eU5WiO8fw)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
