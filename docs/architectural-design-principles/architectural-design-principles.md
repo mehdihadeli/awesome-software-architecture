@@ -1,6 +1,3 @@
-
-# Architectural Design Principles
-
 ## Resources
 
 - [Architectural Styles vs. Architectural Patterns vs. Design Patterns](https://herbertograca.com/2017/07/28/architectural-styles-vs-architectural-patterns-vs-design-patterns/)

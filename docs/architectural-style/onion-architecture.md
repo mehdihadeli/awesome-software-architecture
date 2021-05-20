@@ -16,15 +16,12 @@
 
 ## 📹 Videos
 
-- [Distributed Onion Architecture - Fort Worth .Net User Group 8/20/2013 - Jeffrey Palermo](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=uuCaXu_kl0U)
+- [Distributed Onion Architecture - Fort Worth .Net User Group 8/20/2013 - Jeffrey Palermo](https://www.youtube.com/watch?v=uuCaXu_kl0U)
 
 ## 🔖 Samples
 
-- [Amitpnk/Onion-architecture-ASP.NET-Core](https://github.com/Amitpnk/Onion-architecture-ASP.NET-Core) 
-  > WhiteApp API solution template which is built on Onion Architecture with all essential feature using .NET Core!
-
-- [pereiren/dotnet-template-onion](https://github.com/pereiren/dotnet-template-onion) 
-  > Onion Architecture with .NET 5/.NET Core and CQRS/Event Sourcing following a DDD approach
+- [Amitpnk/Onion-architecture-ASP.NET-Core](https://github.com/Amitpnk/Onion-architecture-ASP.NET-Core) - WhiteApp API solution template which is built on Onion Architecture with all essential feature using .NET Core!
+- [pereiren/dotnet-template-onion](https://github.com/pereiren/dotnet-template-onion) - Onion Architecture with .NET 5/.NET Core and CQRS/Event Sourcing following a DDD approach
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>

@@ -1,0 +1,2 @@
+- [Anti Patterns](anti-patterns.md)
+  - [Code Smells](code-smells.md)

@@ -32,20 +32,11 @@
 
 ## 🔖 Samples
 
-- [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) 
-  > Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
-
-- [ivanpaulovich/hexagonal-architecture-acerola](https://github.com/ivanpaulovich/hexagonal-architecture-acerola) - Ivan Paulovich 
-  > An Hexagonal Architecture service template with DDD, CQRS, TDD and SOLID using .NET Core 2.0. All small features are testable and could be mocked. Adapters could be mocked or exchanged.
-
-- [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) - Ivan Paulovich 
-  > Clean Architecture with .NET5, C#9 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks
-
-- [CanerPatir/aspnet-core-clean-arch](https://github.com/CanerPatir/aspnet-core-clean-arch) 
-  > It is a clean architecture project template which is based on hexagonal-architecture principles built with .Net core.
-
-- [Lunch-box/SimpleOrderRouting](https://github.com/Lunch-box/SimpleOrderRouting) 
-  > Prototype of a Smart Order Routing system (finance). The opportunity for a mob of Lunch-boxers, to explore various technical approaches in reactive programming.
+- [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
+- [ivanpaulovich/hexagonal-architecture-acerola](https://github.com/ivanpaulovich/hexagonal-architecture-acerola) - An Hexagonal Architecture service template with DDD, CQRS, TDD and SOLID using .NET Core 2.0. All small features are testable and could be mocked. Adapters could be mocked or exchanged.
+- [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) - Clean Architecture with .NET5, C#9 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks
+- [CanerPatir/aspnet-core-clean-arch](https://github.com/CanerPatir/aspnet-core-clean-arch) - It is a clean architecture project template which is based on hexagonal-architecture principles built with .Net core.
+- [Lunch-box/SimpleOrderRouting](https://github.com/Lunch-box/SimpleOrderRouting) - Prototype of a Smart Order Routing system (finance). The opportunity for a mob of Lunch-boxers, to explore various technical approaches in reactive programming.
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
