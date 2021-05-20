@@ -1,7 +1,7 @@
 
-### KISS
+# KISS
 
-#### 📝 Articles
+## 📝 Articles
 
 - [KISS](https://java-design-patterns.com/principles/#kiss) 
 - [Principles of Good Programming](https://www.artima.com/weblogs/viewpost.jsp?thread=331531)
