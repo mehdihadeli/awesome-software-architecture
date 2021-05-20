@@ -1,4 +1,4 @@
-# Modular Monolith
+# Modular Monolith Architecture
 
 ## Resources
 
@@ -25,39 +25,22 @@
 ## 🔖 Samples
 
 - [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith application with Domain-Driven Design approach.
-
 - [kgrzybek/modular-monolith-with-ddd-fe-react](https://github.com/kgrzybek/modular-monolith-with-ddd-fe-react) - FrontEnd React application for Modular Monolith With DDD repository and system
-
 - [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 5 Clean Architecture (Microservices, Modular Monolith, Monolith) samples (+Blazor, Angular 11, React 17, Vue 2.6), Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium E2E Testing, SignalR Notification, Hangfire Tasks Scheduling
-
 - [dcomartin/LooselyCoupledMonolith](https://github.com/dcomartin/LooselyCoupledMonolith)
-
 - [trueai-org/module-shop](https://github.com/trueai-org/module-shop)
-
 - [thangchung/coolstore-moduliths](https://github.com/thangchung/coolstore-moduliths)
-
 - [thangchung/blog-core](https://github.com/thangchung/blog-core) - Modular blog using Blazor with clean domain-driven design patterns
-
 - [ddd-by-examples/library](https://github.com/ddd-by-examples/library) - A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
-
 - [simplcommerce/SimplCommerce](https://github.com/simplcommerce/SimplCommerce) - A simple, cross platform, modularized ecommerce system built on .NET Core
-
 - [spetz/NPost](https://github.com/spetz/NPost) - Modular Monolith sample
-
 - [devmentors/Cine](https://github.com/devmentors/Cine) - Modular monolith in .NET Core
-
 - [Trill-modular-monolith](https://github.com/devmentors/Trill-modular-monolith)
-
 - [spetz/Confab-training](https://github.com/spetz/Confab-training)
-
 - [anton-liauchuk/educational-platform](https://github.com/anton-liauchuk/educational-platform) - Modular Monolith Java application with DDD
-
 - [VirtoCommerce/vc-storefront](https://github.com/VirtoCommerce/vc-storefront) - VirtoCommerce Storefront for ASP.NET Core 3.1 repository
-
 - [grandnode/grandnode](https://github.com/grandnode/grandnode) - Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB
-
 - [smartstore/SmartStoreNET](https://github.com/smartstore/SmartStoreNET) - Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution
-
 - [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce) - The most popular open-source eCommerce shopping cart solution based on ASP.NET Core
 
 ## 📹 Videos

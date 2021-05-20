@@ -65,42 +65,19 @@
 - [daxnet/apworks-core](https://github.com/daxnet/apworks-core) - Apworks framework supporting .NET Core
 ## 🔖 Samples
 
-- [sample-dotnet-core-cqrs-api](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - Kamil Grzybek 
-  > Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
-  
-- [run-aspnetcore-cqrs](https://github.com/aspnetrun/run-aspnetcore-cqrs) - AspNetRun 
-  > Real world Enterprise CRM application example of ASP.NET Core + Angular web application. Implemented CQRS Design Pattern for ASP.NET Core + Angular reference application, demonstrating a layered application architecture with DDD
-
-- [CQRS](https://github.com/tpierrain/CQRS) 
-  > A simple project to explain CQRS during a live coding session at MS experiences'16
-- [ChristDDD](https://github.com/anjoy8/ChristDDD) 
-  > 🙌 ASP.NET Core 3.1 应用, 包含 DDD、CQRS、EDA 和 ES 事件回溯
-
-- [Reddnet](https://github.com/moritz-mm/Reddnet) 
-  > A mini Reddit written in ASP.NET Core 5.0
-
-- [grandnode/grandnode](https://github.com/grandnode/grandnode) 
-  > Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB
-
-- [smartstore/SmartStoreNET](https://github.com/smartstore/SmartStoreNET) 
-  > Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution
-
-- [VirtoCommerce/vc-storefront](https://github.com/VirtoCommerce/vc-storefront) 
-  > VirtoCommerce Storefront for ASP.NET Core 3.1 repository
-
-- [vc-platform](https://github.com/VirtoCommerce/vc-platform)
-  > VirtoCommerce Platform repository
-
-- [vc-module-customer](https://github.com/VirtoCommerce/vc-module-customer)
-  > Contacts management module
-
-- [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce) 
-  > The most popular open-source eCommerce shopping cart solution based on ASP.NET Core
-
+- [sample-dotnet-core-cqrs-api](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
+- [run-aspnetcore-cqrs](https://github.com/aspnetrun/run-aspnetcore-cqrs) - Real world Enterprise CRM application example of ASP.NET Core + Angular web application. Implemented CQRS Design Pattern for ASP.NET Core + Angular reference application, demonstrating a layered application architecture with DDD
+- [CQRS](https://github.com/tpierrain/CQRS) - A simple project to explain CQRS during a live coding session at MS experiences'16
+- [ChristDDD](https://github.com/anjoy8/ChristDDD) - 🙌 ASP.NET Core 3.1 应用, 包含 DDD、CQRS、EDA 和 ES 事件回溯
+- [Reddnet](https://github.com/moritz-mm/Reddnet) - A mini Reddit written in ASP.NET Core 5.0
+- [grandnode/grandnode](https://github.com/grandnode/grandnode) - Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB
+- [smartstore/SmartStoreNET](https://github.com/smartstore/SmartStoreNET) - Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution
+- [VirtoCommerce/vc-storefront](https://github.com/VirtoCommerce/vc-storefront) - VirtoCommerce Storefront for ASP.NET Core 3.1 repository
+- [vc-platform](https://github.com/VirtoCommerce/vc-platform) - VirtoCommerce Platform repository
+- [vc-module-customer](https://github.com/VirtoCommerce/vc-module-customer) - Contacts management module
+- [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce) - The most popular open-source eCommerce shopping cart solution based on ASP.NET Core
 - [trueai-org/module-shop](https://github.com/trueai-org/module-shop)
-
-- [gothinkster/aspnetcore-realworld-example-app](https://github.com/gothinkster/aspnetcore-realworld-example-app)	
-	> ASP.NET Core backend implementation for RealWorld
+- [gothinkster/aspnetcore-realworld-example-app](https://github.com/gothinkster/aspnetcore-realworld-example-app) - ASP.NET Core backend implementation for RealWorld
 
 
 <div align="right">
