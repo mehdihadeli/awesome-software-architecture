@@ -14,3 +14,9 @@
 
 ## 🚀 Samples
 - [NetMQ Samples](https://github.com/NetMQ/Samples)
+
+
+#### 📚 Books
+- [RabbitMQ in Action](https://www.manning.com/books/rabbitmq-in-action)
+- [RabbitMQ in Depth](https://www.manning.com/books/rabbitmq-in-depth)
+- [RabbitMQ Essentials - Second Edition](https://www.packtpub.com/product/rabbitmq-essentials-second-edition/9781789131666)
