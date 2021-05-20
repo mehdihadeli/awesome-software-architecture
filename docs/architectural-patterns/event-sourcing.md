@@ -45,7 +45,11 @@
 - [ProductContext-EventSourcing](https://github.com/osoykan/ProductContext-EventSourcing) - A practical/experimental Event Sourcing application on Product Bounded Context in an e-commerce
 - [ddd-and-eventsourcing-example](https://github.com/eraydin/ddd-and-eventsourcing-example)
 - [EventStore/Webinars](https://github.com/EventStore/Webinars)
-
+- [oskardudycz/EventSourcing.NetCore/Sample/BankAccounts](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/BankAccounts)
+- [oskardudycz/EventSourcing.NetCore/ECommerce](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/ECommerce)
+- [oskardudycz/EventSourcing.NetCore/Sample/Tickets](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/Tickets)
+- [oskardudycz/EventSourcing.NetCore/Sample/MeetingsManagement](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/MeetingsManagement)
+- [oskardudycz/EventSourcing.NetCore/Sample/Warehouse](https://github.com/oskardudycz/EventSourcing.NetCore/tree/cqrs_with_net5/Sample/Warehouse)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

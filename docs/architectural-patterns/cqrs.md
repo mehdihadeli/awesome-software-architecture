@@ -78,8 +78,11 @@
 - [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce) - The most popular open-source eCommerce shopping cart solution based on ASP.NET Core
 - [trueai-org/module-shop](https://github.com/trueai-org/module-shop)
 - [gothinkster/aspnetcore-realworld-example-app](https://github.com/gothinkster/aspnetcore-realworld-example-app) - ASP.NET Core backend implementation for RealWorld
-
-
+- [baratgabor/MyWarehouse](https://github.com/baratgabor/MyWarehouse) - Clean Architecture and Domain Driven Design sample project based on C# 9 / .NET 5 / ASP.NET Core 5 / EF Core 5 & Angular 11 with Bootstrap.
+- [oskardudycz/EventSourcing.NetCore/ECommerce](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/ECommerce)
+- [oskardudycz/EventSourcing.NetCore/Sample/Tickets](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/Tickets)
+- [oskardudycz/EventSourcing.NetCore/Sample/MeetingsManagement](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/MeetingsManagement)
+- [oskardudycz/EventSourcing.NetCore/Sample/Warehouse](https://github.com/oskardudycz/EventSourcing.NetCore/tree/cqrs_with_net5/Sample/Warehouse)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

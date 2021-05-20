@@ -56,7 +56,10 @@
 - [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) 
 - [ardalis/ApiEndpoints/tree/master/sample](https://github.com/ardalis/ApiEndpoints/tree/master/sample)
 - [PacktPublishing/ASP.NET-Core-5-Design-Patterns](https://github.com/PacktPublishing/ASP.NET-Core-5-Design-Patterns/tree/main/C15/Vertical%20Slice%20Architecture)
-
+- [oskardudycz/EventSourcing.NetCore/ECommerce](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/ECommerce)
+- [oskardudycz/EventSourcing.NetCore/Sample/Tickets](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/Tickets)
+- [oskardudycz/EventSourcing.NetCore/Sample/MeetingsManagement](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/MeetingsManagement)
+- [oskardudycz/EventSourcing.NetCore/Sample/Warehouse](https://github.com/oskardudycz/EventSourcing.NetCore/tree/cqrs_with_net5/Sample/Warehouse)
 ## 📚 Books
 
 - [An Atypical ASP.NET Core 5 Design Patterns Guide](https://www.packtpub.com/product/an-atypical-asp-net-core-5-design-patterns-guide/9781789346091)
