@@ -1,7 +1,7 @@
 
 # Scalable Software Architecture
 
-## Resources
+## 📘 Resources
 
 - [Developer-Y/Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture)
   > Collection of tech talks, papers and web links on Distributed Systems, Scalability and System Design.

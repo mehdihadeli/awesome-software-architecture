@@ -1,6 +1,6 @@
 # RESTful API Design
 
-## 📝 Articles
+## 📕 Articles
 
 - [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
 - [Design Guidelines](http://apistylebook.com/design/guidelines/)

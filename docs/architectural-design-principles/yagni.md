@@ -1,6 +1,6 @@
 # YAGNI
 
-## 📝 Articles
+## 📕 Articles
 
 - [YAGNI - DevIQ](https://deviq.com/principles/yagni) 
 - [YAGNI - java-design-patterns](https://java-design-patterns.com/principles/#yagni) 

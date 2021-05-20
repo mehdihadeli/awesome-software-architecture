@@ -1,7 +1,7 @@
 
 # Distributed Systems Design
 
-## Resources
+## 📘 Resources
 
 - [System Design](https://www.youtube.com/playlist?list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV) - You will learn all the essential questions asked in many system design interviews or software architecture design rounds.
 - [Coding and System Design Interview Questions](https://www.youtube.com/playlist?list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka) 
@@ -22,22 +22,24 @@
 - [codeKarle](https://www.youtube.com/channel/UCZEfiXy7PmtVTezYUvc4zZw)
 - [System Design (Real World Examples)](https://interviewdaemon.com/courses/design-real-world-examples)
 
-## 📝 Articles
+## � Articles
 
 - [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
 - [YouTube Architecture](http://highscalability.com/youtube-architecture)
 - [System Design: WhatsApp](https://interviewdaemon.medium.com/system-design-whatsapp-788705bd4fb0)
 
-## 📹 Videos
+## 📺 Videos
 
 - [Distributed Computing](https://www.youtube.com/watch?v=ajjOEltiZm4&t=0s) 
 
-## Library
+## 📦 Library
+
 - [dotnet/orleans](https://github.com/dotnet/orleans) - Orleans is a cross-platform framework for building distributed applications with .NET
 - [FoundatioFx/Foundatio](https://github.com/FoundatioFx/Foundatio) - Pluggable foundation blocks for building distributed apps.
 - [AsynkronIT/protoactor-dotnet](https://github.com/AsynkronIT/protoactor-dotnet) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin
 - [Abc-Arbitrage/Zebus](https://github.com/Abc-Arbitrage/Zebus) - A lightweight Peer to Peer Service Bus
-## Books
+
+## 📚 Books
 
 - [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
 - [System Design Interview – An insider's guide, Second Edition](https://www.amazon.com/dp/B08CMF2CQF/ref=tsm_1_fb_lk)

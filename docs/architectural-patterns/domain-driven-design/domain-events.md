@@ -1,7 +1,7 @@
 
 # Domain Events
 
-## 📝 Articles
+## 📕 Articles
 
 - [How to publish and handle Domain Events](http://www.kamilgrzybek.com/design/how-to-publish-and-handle-domain-events/)
 - [Handling Domain Events: Missing Part](http://www.kamilgrzybek.com/design/handling-domain-events-missing-part/)

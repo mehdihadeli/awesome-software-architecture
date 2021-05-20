@@ -1,7 +1,7 @@
 
 # Data Model Notations
 
-## 📝 Articles
+## 📕 Articles
 
 - [A Comparison of Data Modeling Techniques](https://www.essentialstrategies.com/publications/modeling/compare.htm)
 - [IDEF1X Data Model Notation](https://www.essentialstrategies.com/publications/modeling/idef1x.htm)

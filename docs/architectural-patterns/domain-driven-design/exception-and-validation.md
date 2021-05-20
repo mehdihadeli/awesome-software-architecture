@@ -1,6 +1,6 @@
 # Exceptions & Validation
 
-## 📝 Articles
+## 📕 Articles
 
 - [Design validations in the domain model layer](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/domain-model-layer-validations) 
 - [REST API Data Validation](http://www.kamilgrzybek.com/design/rest-api-data-validation/) 
@@ -24,7 +24,7 @@
 - [Validation inside or outside entities?](https://lostechies.com/jimmybogard/2016/04/29/validation-inside-or-outside-entities/)
 - [Custom Validation in ASP.NET Web API with FluentValidation](https://exceptionnotfound.net/custom-validation-in-asp-net-web-api-with-fluentvalidation/)
 - [Exception Handling in ASP.NET Web API - A Guided Tour](https://exceptionnotfound.net/the-asp-net-web-api-exception-handling-pipeline-a-guided-tour/)
-## Library
+## 📦 Library
 
 - [GuardClauses](https://github.com/ardalis/GuardClauses) 
   > A simple package with guard clause extensions.

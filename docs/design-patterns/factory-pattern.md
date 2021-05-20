@@ -1,10 +1,10 @@
 # Factory Pattern
 
-## 📝 Articles
+## 📕 Articles
 
 - [The Factory Pattern In .NET Core](https://dotnetcoretutorials.com/2019/10/15/the-factory-pattern-in-net-core/)
 
-## Videos
+## 📺 Videos
 
 - [SOLID Principles for C# Developers](https://www.pluralsight.com/courses/csharp-solid-principles)
 

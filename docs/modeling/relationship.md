@@ -1,6 +1,6 @@
 # Relationships
 
-## 📝 Articles
+## 📕 Articles
 
 - [What is the difference between IS -A relationship and HAS-A relationship in Java? [duplicate]](https://stackoverflow.com/questions/36162714/what-is-the-difference-between-is-a-relationship-and-has-a-relationship-in-java)
 - [Types Of Relationships In Object Oriented Programming (OOP)](https://www.linkedin.com/pulse/types-relationships-object-oriented-programming-oop-sarah-el-dawody/)

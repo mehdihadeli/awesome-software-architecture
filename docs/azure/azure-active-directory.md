@@ -1,13 +1,13 @@
 	
 # Azure Active Directory (Azure AD)
 
-## 📝 Articles
+## 📕 Articles
 
 - [Automate Azure AD B2C policies release with GitHub Actions](https://daniel-krzyczkowski.github.io/Automate-Azure-AD-B2C-policies-release-with-GitHub-Actions/)
 - [Manage guest user access with Azure AD External Identities](https://daniel-krzyczkowski.github.io/Manage-Guest-User-Access-with-Azure-Ad-External-Identities/)
 - [Azure AD B2C with external authorization store](https://daniel-krzyczkowski.github.io/Azure-AD-B2C-With-External-Authorization-Store/)
 
-## 📹 Videos
+## 📺 Videos
 
 - [Automate Azure AD B2C custom policies release with GitHub Actions](https://www.youtube.com/watch?v=h25h-fxL_K4)
 - [Azure AD B2C with external authorization store](https://www.youtube.com/watch?v=_umcCiSOFv0)

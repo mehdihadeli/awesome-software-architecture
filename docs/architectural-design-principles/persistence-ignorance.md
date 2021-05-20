@@ -1,7 +1,7 @@
 
 # Persistence Ignorance
 
-## 📝 Articles
+## 📕 Articles
 
 - [Persistence Ignorance](https://deviq.com/principles/persistence-ignorance) 
 - [Understanding Persistence Ignorance Principle](http://techxposer.com/2018/12/29/understanding-persistence-ignorance-principle/)

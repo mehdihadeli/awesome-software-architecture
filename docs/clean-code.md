@@ -1,7 +1,7 @@
 
 # Clean Code
 
-## 📝 Articles
+## 📕 Articles
 
 - [10 common broken rules of clean code](http://www.kamilgrzybek.com/clean-code/10-common-broken-clean-code-rules/)
 - [Coding standards](https://docs.nopcommerce.com/en/developer/tutorials/coding-standards.html)
@@ -12,12 +12,12 @@
 - [Clean code tips - Abstraction and objects](https://www.code4it.dev/blog/clean-code-abstraction-and-objects)
 - [Clean code tips - comments and formatting](https://www.code4it.dev/blog/clean-code-comments-and-formatting)
 - [Clean code tips - names and functions](https://www.code4it.dev/blog/clean-code-names-and-functions)
-## 📹 Videos
+## 📺 Videos
 
 - [9 "rules" for cleaner code | Object Calisthenics](https://www.youtube.com/watch?v=gyrSiY4SHxI)
 - [Is clean code actually slower?](https://www.youtube.com/watch?v=zVLuQAnNue8)
 
-## Resources
+## 📘 Resources
 
 - [https://github.com/thangchung/clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet) - Thang Chung 
   > 🛁 Clean Code concepts and tools adapted for .NET

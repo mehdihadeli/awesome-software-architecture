@@ -1,7 +1,7 @@
 
 # ER Diagrams (Data Modeling)
 
-## 📝 Articles
+## 📕 Articles
 
 - [Data Modeling 101](http://www.agiledata.org/essays/dataModeling101.html)
 - [What to Look for in Your ER Diagram Tool](https://vertabelo.com/blog/selecting-er-diagram-tool/)
@@ -22,7 +22,7 @@
 - [What is the difference between 'class diagrams' and 'data models' in UML?](https://stackoverflow.com/questions/8926519/what-is-the-difference-between-class-diagrams-and-data-models-in-uml)
 - [A Comparison of Data Modeling Techniques](https://www.essentialstrategies.com/publications/modeling/compare.htm)
 
-## 📹 Videos
+## 📺 Videos
 
 - [Creating Entity Relationship Diagrams using Draw.io](https://www.youtube.com/watch?v=lAtCySGDD48)
 - [Entity Relationship Diagram (ERD) Tutorial - Part 1](https://www.youtube.com/watch?v=QpdhBUYk7Kk)

@@ -1,12 +1,12 @@
 
 # Messaging Patterns
 
-## Resources
+## 📘 Resources
 
 - [Messaging](https://www.youtube.com/playlist?list=PLThyvG1mlMzm2FyVpKDiU2c7VtrB2Zezg)
 - [DDD and Messaging Architectures](https://verraes.net/2019/05/ddd-msg-arch/)
 
-## 📝 Articles
+## 📕 Articles
 
 - [Messaging patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/category/messaging) 
 - [Communication in a microservice architecture](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/communication-in-microservice-architecture) 
@@ -54,7 +54,7 @@
 - [Building an Event Driven .NET Application: The Fundamentals](https://wrapt.dev/blog/building-an-event-driven-dotnet-application-the-fundamentals)
 - [Building an Event Driven .NET Application: Setting Up MassTransit and RabbitMQ](https://wrapt.dev/blog/building-an-event-driven-dotnet-application-setting-up-masstransit-and-rabbitmq)
 
-## Videos
+## 📺 Videos
 
 - [Handling Concurrency with Message-IDs | Event Driven Architecture](https://www.youtube.com/watch?v=wefvl2ohiQc)
 - [Message Naming Guidelines | Event Driven Architecture](https://www.youtube.com/watch?v=EmtOB2XexJI)
@@ -67,8 +67,8 @@
 - [Thin or Fat Events? Are your boundaries right?](https://www.youtube.com/watch?v=vDtK-ccQWkw)
 - [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
 - [On .NET Live - Messaging Patterns for .NET Developers](https://www.youtube.com/watch?v=ef1DK76rseM)
-
-## Library
+- [Competing Consumers Pattern for Scalability | Message Queues](https://www.youtube.com/watch?v=xv6Ljbq6me8)
+## 📦 Library
 
 - [Enexure.MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - MicroBus is a simple in process Mediator for .NET
 - [Foundatio](https://github.com/exceptionless/Foundatio) - A common interface with in memory, redis and azure implementations.
@@ -110,7 +110,7 @@
 - [zeromq/netmq](https://github.com/zeromq/netmq) - A 100% native C# implementation of ZeroMQ for .NET
 - [zeromq/clrzmq4](https://github.com/zeromq/clrzmq4) - ZeroMQ C# namespace (.NET and mono, Windows, Linux and MacOSX, x86 and amd64)
 
-## Books
+## 📚 Books
 
 - [Enterprise Integration Patterns](https://amazon.com/o/asin/0321200683/ref=nosim/enterpriseint-20)
 

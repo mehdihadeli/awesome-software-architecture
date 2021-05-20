@@ -1,8 +1,8 @@
 # Caching
 
-## Resources
+## 📘 Resources
 
-## Articles
+## 📕 Articles
 
 - [Where Is My Cache? Architectural Patterns for Caching Microservices](https://hazelcast.com/blog/architectural-patterns-for-caching-microservices/)
 - [4 ways to update your cache](https://vishnu.hashnode.dev/4-ways-to-update-your-cache-ckn4c0jae0dq8efs152eu8hmq)
@@ -17,11 +17,11 @@
 - [“Red(e)isign” Publish/Subscribe with Redis](https://blexin.com/en/blog-en/redeisign-publish-subscribe-with-redis/)
 - [Hybrid Caching](https://github.com/dotnetcore/EasyCaching/blob/master/docs/Hybrid.md)
 
-## Videos
+## 📺 Videos
 - [Real-Time Delivery Architecture at Twitter](https://www.infoq.com/presentations/Real-Time-Delivery-Twitter/)
 
 
-## Library
+## 📦 Library
 - [Foundatio.Redis](https://github.com/FoundatioFx/Foundatio.Redis) - Foundatio Redis
 
 - [MichaCo/CacheManager](https://github.com/MichaCo/CacheManager) - CacheManager is an open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features.

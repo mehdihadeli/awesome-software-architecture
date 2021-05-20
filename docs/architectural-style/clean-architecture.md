@@ -1,7 +1,7 @@
 
 # Clean Architecture
 
-## 📝 Articles
+## 📕 Articles
 
 - [Clean architecture](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures#clean-architecture) 
 - [Layers in DDD microservices](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice#layers-in-ddd-microservices)
@@ -38,7 +38,7 @@
 - [Implementing Clean Architecture - Make it scream](http://www.plainionist.net/Implementing-Clean-Architecture-Scream/)
 - [Clean Architecture with Xamarin Forms](https://fullstackmark.com/post/26/clean-architecture-with-xamarin-forms)
 - [Better Software Design with Clean Architecture](https://fullstackmark.com/post/11/better-software-design-with-clean-architecture)
-## 📹 Videos
+## 📺 Videos
 
 - [Clean Testing - Clean Architecture with .NET Core - Jason Taylor - NDC Oslo 2020](https://www.youtube.com/watch?v=T6NRcX1vnz8) 
 - [Clean Architecture with ASP.NET Core 3.0 - Jason Taylor](https://www.youtube.com/watch?v=5OtUm1BLmG0) 
@@ -54,7 +54,7 @@
 - [Adding Aggregate Example to Clean Architecture solution template](https://www.youtube.com/watch?v=dkj-WwxrgyI) 
 - [How Do You Structure Your Go Apps? by Kat Zień. GoWayFest 2018 Minsk](https://www.youtube.com/watch?v=Qtk9FFOoT5M)
 
-## 🔖 Samples
+## 🚀 Samples
 
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
 - [acobsDataSolutions/OrgManager](https://github.com/JacobsDataSolutions/OrgManager) - CQRS and Clean Domain-Driven Design concepts on the ASP.NET Core stack. Demo application for a fictional corporate organization management tool.
@@ -93,7 +93,7 @@
 - [Amitpnk/Clean-Architecture-ASP.NET-Core](https://github.com/Amitpnk/Clean-Architecture-ASP.NET-Core) - Complete solution template which is built on Clean Architecture with all essential feature, CI/CD, best practice, testing Strategy using the testing pyramid and documentation using .NET 5!
 - [baratgabor/MyWarehouse](https://github.com/baratgabor/MyWarehouse) - Clean Architecture and Domain Driven Design sample project based on C# 9 / .NET 5 / ASP.NET Core 5 / EF Core 5 & Angular 11 with Bootstrap.
 
-#### Books
+#### 📚 Books
 
 - [Get Your Hands Dirty on Clean Architecture](https://www.packtpub.com/product/get-your-hands-dirty-on-clean-architecture/9781839211966)
 

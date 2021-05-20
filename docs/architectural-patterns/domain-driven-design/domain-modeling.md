@@ -1,6 +1,6 @@
 # Domain Modeling
 
-## Articles
+## 📕 Articles
 
 - [Legacy Architecture Modernisation With Strategic Domain-Driven Design](https://medium.com/nick-tune-tech-strategy-blog/legacy-architecture-modernisation-with-strategic-domain-driven-design-3e7c05bb383f)
 - [Remote Workshops Using Miro: What I’ve Learned So Far](https://medium.com/nick-tune-tech-strategy-blog/remote-workshops-using-miro-what-ive-learned-so-far-849391f0412b)
@@ -10,10 +10,10 @@
 - [Outside-in Domain Landscape Discovery](https://medium.com/nick-tune-tech-strategy-blog/outside-in-domain-landscape-discovery-3ec88aeb70db)
 
 
-## Videos
+## 📺 Videos
 - ["Domain Modelling in a Remote World" with Marco Heimeshoff (Thursday's Matter)](https://www.youtube.com/watch?v=jdU_iTBP2Qs)
 
-## Samples
+## 🚀 Samples
 
 - [ddd-crew/ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process)
 > If you're new to DDD and not sure where to start, this process will guide you step-by-step

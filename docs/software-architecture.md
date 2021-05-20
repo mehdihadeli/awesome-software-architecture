@@ -1,13 +1,13 @@
 # Software Architecture
 
-## Resources
+## 📘 Resources
 
 - [Modular Monolith](https://files.gotocon.com/uploads/slides/conference_12/515/original/gotoberlin2018-modular-monoliths.pdf)
 - [Visualising Software Architecture](http://static.codingthearchitecture.com/visualising-software-architecture.pdf)
 - [.NET Architecture Guides](https://dotnet.microsoft.com/learn/dotnet/architecture-guides)
 - [Open Agile Architecture](https://pubs.opengroup.org/architecture/o-aa-standard/#_open_agile_architecture)
 
-## 📝 Articles
+## 📕 Articles
 
 - [The Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
 - [Software Architecture Premises](https://herbertograca.com/2017/07/05/software-architecture-premises/) 
@@ -33,7 +33,7 @@
 - [PresentationDomainDataLayering](https://martinfowler.com/bliki/PresentationDomainDataLayering.html)
 - [Architectural Drivers: Building Blocks for Decision Making](https://www.neverletdown.net/2014/10/architectural-drivers.html)
 
-## 📹 Videos
+## 📺 Videos
 
 - [DevTernity 2016: Simon Brown - The Art of Visualising Software Architecture](https://www.youtube.com/watch?v=zcmU-OE452k)
 - [GOTO 2018 • Modular Monoliths • Simon Brown](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=5OjqD-ow8GE&feature=emb_title&ab_channel=GOTOConferences)

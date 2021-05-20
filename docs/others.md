@@ -1,6 +1,6 @@
 # Other 
 
-## Resources
+## 📘 Resources
 
 - [Software architect roadmap](https://github.com/AlaaAttya/software-architect-roadmap) - Software architect roadmap
 
@@ -17,7 +17,7 @@
 - [joebew42/study-path](https://github.com/joebew42/study-path) - An organized learning path about Clean Code, Test-Driven Development, Legacy Code, Refactoring, Domain-Driven Design and Microservice Architecture
 
 - [unlight/solution-architecture](https://github.com/unlight/solution-architecture) - Solution Architecture links, articles, books, video lessons, etc.
-## Books
+## 📚 Books
 
 - [Microsoft Application Architecture Guide, 2nd Edition](<https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ff650706(v=pandp.10)>)
 - [Lean Architecture: for Agile Software Development Paperback – Illustrated, 13 July 2010](https://www.amazon.co.uk/Lean-Architecture-Agile-Software-Development/dp/0470684208)

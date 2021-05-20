@@ -1,6 +1,6 @@
 # YARP
 
-## Resources
+## 📘 Resources
 - [microsoft/reverse-proxy](https://github.com/microsoft/reverse-proxy) - A toolkit for developing high-performance HTTP reverse proxy applications.
 
 <div align="right">

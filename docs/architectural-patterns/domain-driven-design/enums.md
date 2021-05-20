@@ -1,7 +1,7 @@
 
 # Enums
 
-## 📝 Articles
+## 📕 Articles
 
 - [Series: Enumeration Classes – DDD and beyond](https://ankitvijay.net/2020/06/12/series-enumeration-classes-ddd-and-beyond/)
 - [Enumeration classes](https://lostechies.com/jimmybogard/2008/08/12/enumeration-classes/)
@@ -13,7 +13,7 @@
 - [Listing Strongly Typed Enum Options in C#](https://ardalis.com/listing-strongly-typed-enum-options-in-c/)
 
 
-## Library
+## 📦 Library
 
 - [SmartEnum](https://github.com/ardalis/SmartEnum)
   > A base class for quickly and easily creating strongly typed enum replacements in C#.

@@ -1,6 +1,6 @@
 # Design Best Practices
 
-## Articles
+## 📕 Articles
 
 - [Static methods considered evil?](https://enterprisecraftsmanship.com/posts/static-methods-evil/)
 

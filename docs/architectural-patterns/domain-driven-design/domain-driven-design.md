@@ -1,11 +1,11 @@
 
 # Domain Driven Design - Domain Centric
 
-## Resources
+## 📘 Resources
 
 - [Domain-Driven Design Starter Modelling Process](https://github.com/ddd-crew/ddd-starter-modelling-process) 
 - [ddd-crew/free-ddd-learning-resources](https://github.com/ddd-crew/free-ddd-learning-resources#tactical-ddd--domain-as-code)
-## 📝 Articles
+## 📕 Articles
 
 - [Design a DDD-oriented microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice) 
 - [PPPDDD.1 – What is Domain Driven Design?](https://herbertograca.com/2016/08/15/pppddd-1-what-is-domain-driven-design/) 
@@ -42,13 +42,13 @@
 - [10 Lessons from a Long Running DDD Project – Part 1](https://lostechies.com/jimmybogard/2016/06/13/10-lessons-from-a-long-running-ddd-project-part-1/)
 - [10 Lessons from a Long Running DDD Project – Part 2](https://lostechies.com/jimmybogard/2016/06/20/10-lessons-from-a-long-running-ddd-project-part-2/)
 - [DDD revisited](https://lostechies.com/gabrielschenker/2015/04/16/ddd-revisited/)
-## 📹 Videos
+## 📺 Videos
 
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU)
 - [Domain-Driven Refactoring - Jimmy Bogard - NDC Oslo 2020](https://www.youtube.com/watch?v=_dQRAsVhCqA)
 - [Jimmy Bogard - Crafting Wicked Domain Models](https://vimeo.com/43598193)
-## 🔖 Samples
+## 🚀 Samples
 
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers)
   > Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
@@ -148,7 +148,7 @@
 
 - [baratgabor/MyWarehouse](https://github.com/baratgabor/MyWarehouse) 
 	> Clean Architecture and Domain Driven Design sample project based on C# 9 / .NET 5 / ASP.NET Core 5 / EF Core 5 & Angular 11 with Bootstrap.
-#### Library
+#### 📦 Library
 
 - [xhafan/coreddd](https://github.com/xhafan/coreddd) - A set of open-source .NET libraries helping with domain-driven design (DDD) and CQRS
 

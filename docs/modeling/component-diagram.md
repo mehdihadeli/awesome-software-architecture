@@ -1,6 +1,6 @@
 # Component Diagram
 
-## 📝 Articles
+## 📕 Articles
 
 - [UML 2 Component Diagramming Guidelines](http://agilemodeling.com/style/componentDiagram.htm)
 

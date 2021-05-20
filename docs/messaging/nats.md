@@ -1,11 +1,11 @@
 # NATS
 
-## Resources
+## 📘 Resources
 - [Official NATS Website](https://nats.io/)
 - [NATS Documents](https://docs.nats.io/)
 - [NATS Organization In Github](https://github.com/nats-io)
 
-## Videos
+## 📺 Videos
 - [How to use NATS and .NET Core for building distributed systems - Part 1](https://youtu.be/VPHGgJiQUHw)
 - [How to use NATS and .NET Core for building distributed systems - Part 2](https://youtu.be/2-KdyI1bC_s)
 

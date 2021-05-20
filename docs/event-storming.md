@@ -1,13 +1,13 @@
 
 # Event Storming
 
-## Resources
+## 📘 Resources
 
 - [https://github.com/mariuszgil/awesome-eventstorming](https://github.com/mariuszgil/awesome-eventstorming)
 - [https://github.com/ddd-crew/eventstorming-glossary-cheat-sheet](https://github.com/ddd-crew/eventstorming-glossary-cheat-sheet)
 - [https://github.com/wwerner/event-storming-cheatsheet](https://github.com/wwerner/event-storming-cheatsheet)
 
-## 📝 Articles
+## 📕 Articles
 
 - [Reactive in practice, Unit 1: Event storming the stock trader domain](https://developer.ibm.com/technologies/java/tutorials/reactive-in-practice-1/)
 - [Event Storming](https://ibm-cloud-architecture.github.io/refarch-eda/methodology/event-storming/)
@@ -40,7 +40,7 @@
 - [Remote Team Flow EventStorming for Retrospectives](https://medium.com/nick-tune-tech-strategy-blog/remote-team-flow-eventstorming-for-retrospectives-a8ea33cdb277)
 - [EventStorming Modelling Tips to Facilitate Microservice Design](https://medium.com/nick-tune-tech-strategy-blog/eventstorming-modelling-tips-to-facilitate-microservice-design-1b1b0b838efc)
 - [Outside-in Domain Landscape Discovery](https://medium.com/nick-tune-tech-strategy-blog/outside-in-domain-landscape-discovery-3ec88aeb70db)
-## 📹 Videos
+## 📺 Videos
 
 - [Scoping and Organizing .NET Microservices Using Event Storming](https://www.pluralsight.com/courses/dotnet-microservices-scoping-organizing)
 - [GOTO 2018 • 50.000 Orange Stickies Later • Alberto Brandolini](https://www.youtube.com/watch?v=NGXl1D-KwRI)
@@ -48,7 +48,7 @@
 - [Event Storming demo & discussion](https://www.youtube.com/watch?v=xIB_VQVVWKk)
 - ["Domain Modelling in a Remote World" with Marco Heimeshoff (Thursday's Matter)](https://www.youtube.com/watch?v=jdU_iTBP2Qs)
 
-## Samples
+## 🚀 Samples
 
 - [Event Storming](https://miro.com/app/board/o9J_kt3rZb4=/?fromEmbed=1)
 
@@ -67,7 +67,7 @@
   > Scoping and Organizing .NET Microservices Using Event Storming
 
 - ["Domain Modelling in a Remote World" with Marco Heimeshoff](https://miro.com/app/board/o9J_lSf4hpY=/)
-## Books
+## 📚 Books
 
 - [Introducing EventStorming - Alberto Brandolini](https://leanpub.com/introducing_eventstorming) 
 

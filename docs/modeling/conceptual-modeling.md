@@ -1,7 +1,7 @@
 
 # Conceptual Modeling
 
-## 📝 Articles
+## 📕 Articles
 
 - [Data Modelling: Conceptual, Logical, Physical Data Model Types](https://www.guru99.com/data-modelling-conceptual-logical.html)
 - [Data Modeling - Conceptual Data Model](https://sparxsystems.com/resources/gallery/diagrams/software/sw-data_modeling_-conceptual_data_model.html)
@@ -11,7 +11,7 @@
 - [5 Examples of Conceptual Data Models](https://vertabelo.com/blog/conceptual-data-model/)
 - [Data Modeling 101](http://www.agiledata.org/essays/dataModeling101.html)
 
-## 📹 Videos
+## 📺 Videos
 
 - [Conceptual Data Modeling with Diagrams.Net](https://www.youtube.com/watch?v=7lGFx-qYmhU)
 - [Get a Head Start with Entity Framework Core 5.0 with EF Core Power Tools](https://www.youtube.com/watch?v=uph-AGyOd8c)

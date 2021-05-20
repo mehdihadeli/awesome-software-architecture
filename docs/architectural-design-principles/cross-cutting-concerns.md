@@ -1,7 +1,7 @@
 
 # Cross Cutting Concerns
 
-## 📝 Articles
+## 📕 Articles
 
 - [Crosscutting Concerns](<https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ee658105(v=pandp.10)>) 
 - [A Brief Intro to Clean Architecture, Clean DDD, and CQRS](https://blog.jacobsdata.com/2020/02/19/a-brief-intro-to-clean-architecture-clean-ddd-and-cqrs) 

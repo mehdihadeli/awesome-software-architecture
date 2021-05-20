@@ -1,10 +1,10 @@
 # 12 Factor
 
-## 📝 Articles
+## 📕 Articles
 
 - [The Twelve-Factor App](https://12factor.net/)
 
-## Videos
+## 📺 Videos
 
 - [ASP.NET Community Standup - The 12 Factor App](https://www.youtube.com/watch?v=xRlDuXJ3t08)
   <div align="right">

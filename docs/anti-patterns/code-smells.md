@@ -1,6 +1,6 @@
 # Code Smells
 
-## 📝 Articles
+## 📕 Articles
 
 - [Code Smells](https://deviq.com/antipatterns/code-smells) 
 

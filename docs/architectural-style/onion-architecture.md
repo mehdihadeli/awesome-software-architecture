@@ -1,7 +1,7 @@
 
 # Onion Architecture
 
-## 📝 Articles
+## 📕 Articles
 
 - [Onion Architecture In ASP.NET Core With CQRS – Detailed](https://codewithmukesh.com/blog/onion-architecture-in-aspnet-core/) 
 - [Onion Architecture](https://herbertograca.com/2017/09/21/onion-architecture/) 
@@ -14,11 +14,11 @@
 - [A simple template for Onion Architecture with .NET 5](https://dev.to/pereiren/a-simple-template-for-onion-architecture-with-net-5-3gll) 
 - [Peeling Back the Onion Architecture](https://blog.tonysneed.com/2011/10/08/peeling-back-the-onion-architecture/) 
 
-## 📹 Videos
+## 📺 Videos
 
 - [Distributed Onion Architecture - Fort Worth .Net User Group 8/20/2013 - Jeffrey Palermo](https://www.youtube.com/watch?v=uuCaXu_kl0U)
 
-## 🔖 Samples
+## 🚀 Samples
 
 - [Amitpnk/Onion-architecture-ASP.NET-Core](https://github.com/Amitpnk/Onion-architecture-ASP.NET-Core) - WhiteApp API solution template which is built on Onion Architecture with all essential feature using .NET Core!
 - [pereiren/dotnet-template-onion](https://github.com/pereiren/dotnet-template-onion) - Onion Architecture with .NET 5/.NET Core and CQRS/Event Sourcing following a DDD approach

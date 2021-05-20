@@ -1,6 +1,6 @@
 # Event Sourcing
 
-## 📝 Articles
+## 📕 Articles
 
 - [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) 
 - [About event sourcing](https://eventuate.io/whyeventsourcing.html) 
@@ -18,7 +18,8 @@
 - [Event Sourcing Examined Part 1 of 3](https://dasith.me/2016/12/02/event-sourcing-examined-part-1-of-3)
 - [Event Sourcing Examined Part 2 Of 3](https://dasith.me/2016/12/31/event-sourcing-examined-part-2-of-3/)
 - [Event Sourcing Examined Part 3 Of 3](https://dasith.me/2017/08/02/event-sourcing-examined-part-3-of-3/)
-## Videos
+
+## 📺 Videos
 
 - [Event Sourcing Example & Explained in plain English](https://www.youtube.com/watch?v=AUj4M-st3ic)
 - [Projections in Event Sourcing: Build ANY model you want!](https://www.youtube.com/watch?v=bTRjO6JK4Ws)
@@ -28,29 +29,23 @@
 - [eventstore webinars](https://www.eventstore.com/webinars)
 - [Testing Aggregate with Event Sourcing made SIMPLE](https://www.youtube.com/watch?v=rGlNhYOqKZk)
 - [A practical introduction to DDD, CQRS & Event Sourcing - Dennis Doomen - KanDDDinsky 2019](https://www.youtube.com/watch?v=r26BuahD8aM)
-## Library
+
+## 📦 Library
 
 - [EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
-  
 - [oskardudycz/GoldenEye](https://github.com/oskardudycz/GoldenEye) - The CQRS flavoured framework that will speed up your WebAPI and Microservices development
-
 - [AggregateSource](https://github.com/yreynhout/AggregateSource) - Lightweight infrastructure for doing eventsourcing using aggregates
-
 - [Projac](https://github.com/BitTacklr/Projac) - A set of .NET projection libraries
 
-## Samples
+## 🚀 Samples
 
 - [Hands-On-Domain-Driven-Design-with-.NET-Core](https://github.com/PacktPublishing/Hands-On-Domain-Driven-Design-with-.NET-Core) 
-
 - [Aggregates.NET](https://github.com/charlessolar/Aggregates.NET) - .NET event sourced domain driven design model via NServiceBus and GetEventStore
-
 - [eShopOnContainersDDD](https://github.com/charlessolar/eShopOnContainersDDD) - Fork of dotnet-architecture/eShopOnContainers in full DDD/CQRS design using my own patterns
-
 - [ProductContext-EventSourcing](https://github.com/osoykan/ProductContext-EventSourcing) - A practical/experimental Event Sourcing application on Product Bounded Context in an e-commerce
-
 - [ddd-and-eventsourcing-example](https://github.com/eraydin/ddd-and-eventsourcing-example)
-
 - [EventStore/Webinars](https://github.com/EventStore/Webinars)
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

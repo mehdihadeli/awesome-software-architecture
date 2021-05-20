@@ -1,6 +1,6 @@
 # Value Objects
 
-## 📝 Articles
+## 📕 Articles
 
 - [Implement value objects](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/implement-value-objects)
 - [The hidden value of the Value Object](https://dev.to/rafalpienkowski/the-hidden-value-of-the-value-object-1hga)
@@ -21,16 +21,16 @@
 - [Entity vs Value Object: the ultimate list of differences](https://enterprisecraftsmanship.com/posts/entity-vs-value-object-the-ultimate-list-of-differences/)
 - [C# 9: Value Objects and Simpler Code](https://visualstudiomagazine.com/articles/2021/04/07/csharp-9.aspx)
 
-## Videos
+## 📺 Videos
 
 - [Treating Primitive Obsession with ValueObjects | DDD in .NET](https://www.youtube.com/watch?v=h4uldNA1JUE)
 - [The Power of Value - Power Use of Value Objects in Domain Driven Design - Dan Bergh Johnsson](https://www.youtube.com/watch?v=vh-LT1mkIz4)
 
-## Samples
+## 🚀 Samples
 
 - [milannankov/EfCoreValueObjects](https://github.com/milannankov/EfCoreValueObjects) - Illustrates support for value object with Entity Framework Core 2.2
 
-## Library
+## 📦 Library
 
 - [Value](https://github.com/tpierrain/Value) - A pico library (or code snippets shed) to help you to easily implement Value Types in your C# projects without making errors nor polluting your domain logic with boiler-plate code.
 - [ValueOf](https://github.com/mcintyre321/ValueOf) - Deal with Primitive Obsession - define ValueObjects in a single line (of C#).

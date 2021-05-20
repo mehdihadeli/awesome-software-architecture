@@ -1,11 +1,11 @@
 
 # Observibility
 
-## Articles
+## 📕 Articles
 
 - [Monitoring and Observability in Cloud-Native ASP.NET Core apps](https://devblogs.microsoft.com/aspnet/monitoring-and-observability-in-cloud-native-asp-net-core-apps/)
 
-## 📹 Videos
+## 📺 Videos
 
 - [On .NET Live - Cloud Native Patterns for .NET Developers](https://www.youtube.com/watch?v=PDdHa0ushJ0)
 

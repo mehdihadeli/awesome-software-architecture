@@ -1,6 +1,6 @@
 # Architectural Style
 
-## Resources
+## 📘 Resources
 
 - [Architectural Patterns and Styles](<https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ee658117(v=pandp.10)>)
 - [The Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
@@ -21,14 +21,14 @@
 - [Layers, hexagons, features and components](http://www.codingthearchitecture.com/2016/04/25/layers_hexagons_features_and_components.html)
 - [Software Architecture vs Code](https://www.youtube.com/watch?v=ehH3UGdSwPo)
 
-## 🔖 Samples
+## 🚀 Samples
 
 - [https://github.com/techtribesje/techtribesje](https://github.com/techtribesje/techtribesje)
 - [https://github.com/kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd)
 - [https://github.com/hgraca/explicit-architecture-php](https://github.com/hgraca/explicit-architecture-php)
 - [https://github.com/Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
 
-## 📹 Videos
+## 📺 Videos
 
 - [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE&feature=emb_title&ab_channel=GOTOConferences)
 - [GOTO 2014 • Software Architecture vs. Code • Simon Brown](https://www.youtube.com/watch?v=GAFZcYlO5S0)

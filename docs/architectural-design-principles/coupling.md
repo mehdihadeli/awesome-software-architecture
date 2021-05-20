@@ -1,6 +1,6 @@
 # Minimize Coupling
 
-## 📝 Articles
+## 📕 Articles
 
 - [Why is loose coupling between services so important?](https://www.ben-morris.com/why-is-loose-coupling-between-services-so-important/) 
 <div align="right">

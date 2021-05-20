@@ -1,6 +1,6 @@
 # Design Patterns
 
-## Resources
+## 📘 Resources
 
 - [DesignPatterns](https://github.com/abishekaditya/DesignPatterns) 
   > Project : Design Patterns Examples in C#

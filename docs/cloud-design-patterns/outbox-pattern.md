@@ -1,6 +1,6 @@
 # At-least-Once Delivery (Outbox Pattern)
 
-## 📝 Articles
+## 📕 Articles
 
 - [At-least-once Delivery](https://www.cloudcomputingpatterns.org/at_least_once_delivery/) - cloudcomputingpatterns.org
 - [The Outbox Pattern - Kamil Grzybek](http://www.kamilgrzybek.com/design/the-outbox-pattern/) 

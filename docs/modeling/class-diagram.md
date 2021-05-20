@@ -1,7 +1,7 @@
 
 # Class Diagram (Class Modeling)
 
-## 📝 Articles
+## 📕 Articles
 
 - [UML Class Diagram Tutorial with Examples](https://www.guru99.com/uml-class-diagram.html)
 - [What is Class Diagram?](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-class-diagram/)

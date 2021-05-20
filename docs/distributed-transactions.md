@@ -1,6 +1,6 @@
 # Distributed Transactions
 
-## 📝 Articles
+## 📕 Articles
 
 - [Life Beyond Distributed Transactions: An Apostate's Implementation - A Primer](https://jimmybogard.com/life-beyond-transactions-implementation-primer/)
 

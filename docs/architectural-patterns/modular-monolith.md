@@ -1,10 +1,10 @@
 # Modular Monolith Architecture
 
-## Resources
+## 📘 Resources
 
 - [modular-monoliths](https://files.gotocon.com/uploads/slides/conference_12/515/original/gotoberlin2018-modular-monoliths.pdf)
 
-## 📝 Articles
+## 📕 Articles
 
 - [Modular Monolith: A Primer](http://www.kamilgrzybek.com/design/modular-monolith-primer/)
 - [My experience of using modular monolith and DDD architectures](https://www.thereformedprogrammer.net/my-experience-of-using-modular-monolith-and-ddd-architectures/)
@@ -22,7 +22,7 @@
 - [Evolving modular monoliths: 1. An architecture for .NET](https://www.thereformedprogrammer.net/evolving-modular-monoliths-1-an-architecture-for-net/)
 - [Evolving modular monoliths: 2. Breaking up your app into multiple solutions](https://www.thereformedprogrammer.net/evolving-modular-monoliths-2-breaking-up-your-app-into-multiple-solutions/)
 
-## 🔖 Samples
+## 🚀 Samples
 
 - [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith application with Domain-Driven Design approach.
 - [kgrzybek/modular-monolith-with-ddd-fe-react](https://github.com/kgrzybek/modular-monolith-with-ddd-fe-react) - FrontEnd React application for Modular Monolith With DDD repository and system
@@ -43,7 +43,7 @@
 - [smartstore/SmartStoreNET](https://github.com/smartstore/SmartStoreNET) - Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution
 - [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce) - The most popular open-source eCommerce shopping cart solution based on ASP.NET Core
 
-## 📹 Videos
+## 📺 Videos
 
 - [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE)
 - [Modular monoliths (Simon Brown) - 2016](https://www.youtube.com/watch?v=kbKxmEeuvc4)

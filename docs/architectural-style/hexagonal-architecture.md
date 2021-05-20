@@ -1,6 +1,6 @@
 #  Hexagonal Architecture - (Ports And Adapters Architecture)
 
-## 📝 Articles
+## 📕 Articles
 
 - [Ports & Adapters Architecture](https://herbertograca.com/2017/09/14/ports-adapters-architecture/) 
 - [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/) 
@@ -26,11 +26,11 @@
 - [Domain-Driven Design and the Hexagonal Architecture](https://vaadin.com/learn/tutorials/ddd/ddd_and_hexagonal) 
 - [Hexagonal Architecture by example - a hands-on introduction](https://blog.allegro.tech/2020/05/hexagonal-architecture-by-example.html)
 - [Another story about microservices: Hexagonal Architecture](https://medium.com/sciforce/another-story-about-microservices-hexagonal-architecture-23db93fa52a2)
-## 📹 Videos
+## 📺 Videos
 
 - [Chris Fidao - Hexagonal Architecture](https://www.youtube.com/watch?v=6SBjKOwVq0o)
 
-## 🔖 Samples
+## 🚀 Samples
 
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
 - [ivanpaulovich/hexagonal-architecture-acerola](https://github.com/ivanpaulovich/hexagonal-architecture-acerola) - An Hexagonal Architecture service template with DDD, CQRS, TDD and SOLID using .NET Core 2.0. All small features are testable and could be mocked. Adapters could be mocked or exchanged.

@@ -1,6 +1,6 @@
 # Domain
 
-## 📝 Articles
+## 📕 Articles
 
 - [Always-Valid Domain Model](https://enterprisecraftsmanship.com/posts/always-valid-domain-model/) 
 - [Domain Model Encapsulation and PI with Entity Framework 2.2](http://www.kamilgrzybek.com/design/domain-model-encapsulation-and-pi-with-entity-framework-2-2/) 
@@ -26,7 +26,7 @@
 - [Strengthening your domain: Encapsulating operations](https://lostechies.com/jimmybogard/2010/03/24/strengthening-your-domain-encapsulating-operations/)
 - [How to know if your Domain model is properly isolated?](https://enterprisecraftsmanship.com/posts/immutable-architecture/)
 - [Domain model purity and lazy loading](https://enterprisecraftsmanship.com/posts/domain-model-purity-lazy-loading/)
-## 📹 Videos
+## 📺 Videos
 
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU) 
 
