@@ -68,7 +68,7 @@
 - [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
 - [On .NET Live - Messaging Patterns for .NET Developers](https://www.youtube.com/watch?v=ef1DK76rseM)
 - [Competing Consumers Pattern for Scalability | Message Queues](https://www.youtube.com/watch?v=xv6Ljbq6me8)
-## 📦 Library
+## 📦 Libraries
 
 - [Enexure.MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - MicroBus is a simple in process Mediator for .NET
 - [Foundatio](https://github.com/exceptionless/Foundatio) - A common interface with in memory, redis and azure implementations.
