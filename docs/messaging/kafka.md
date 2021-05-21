@@ -3,7 +3,7 @@
 ## 📘 Resources
 - [Apache Kafka Official Website](https://kafka.apache.org/)
 - [Apache Kafka Documentation](https://kafka.apache.org/documentation/)
-- [Apache Kafka Source Code](https://github.com/apache/kafka)
+- [Apache Kafka GitHub](https://github.com/apache/kafka)
 
 ## 📕 Articles
 
