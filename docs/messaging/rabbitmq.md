@@ -13,7 +13,7 @@
 - [RabbitMQ Explained - Use Cases](https://youtu.be/oq1fOr6Ryws)
 - [RabbitMQ Explained - Exchanges](https://youtu.be/o8eU5WiO8fw)
 
-#### 📚 Books
+## 📚 Books
 - [RabbitMQ in Action](https://www.manning.com/books/rabbitmq-in-action)
 - [RabbitMQ in Depth](https://www.manning.com/books/rabbitmq-in-depth)
 - [RabbitMQ Essentials - Second Edition](https://www.packtpub.com/product/rabbitmq-essentials-second-edition/9781789131666)
