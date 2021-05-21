@@ -12,10 +12,8 @@
 
 > **This awesome list is available here with better UI and searching feature: [https://mehdihadeli.github.io/awesome-software-architecture](https://mehdihadeli.github.io/awesome-software-architecture)**
 
-Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/contributing.md) pages first.
 
-Thanks to all [contributors](https://github.com/mehdihadeli/awesome-software-architecture/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
-
+If you are interested in .Net related resources feel free to follow [awesome-dotnet-core-education](https://github.com/mehdihadeli/awesome-dotnet-core-education) repository.
 
 ## Support ⭐
 
@@ -83,3 +81,8 @@ Thanks a bunch for supporting me!
 - [Engineering Blogs](docs/engineering-blogs.md)
 - [Other](docs/other.md)
 
+
+## Contribution
+Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/contributing.md) pages first.
+
+Thanks to all [contributors](https://github.com/mehdihadeli/awesome-software-architecture/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
