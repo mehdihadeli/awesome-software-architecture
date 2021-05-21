@@ -85,6 +85,7 @@
 - [Abc-Arbitrage/Zebus](https://github.com/Abc-Arbitrage/Zebus) - A lightweight Peer to Peer Service Bus
 - [daxnet/apworks-core](https://github.com/daxnet/apworks-core) - Apworks framework supporting .NET Core
 - [snatch-dev/Convey](https://github.com/snatch-dev/Convey) - A simple recipe for .NET Core microservices.
+- [moleculer](https://github.com/moleculerjs/moleculer) - Progressive microservices framework for Node.js.
 
 ## � Samples
 
