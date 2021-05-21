@@ -1,5 +1,10 @@
 # Kafka
 
+## 📘 Resources
+- [Apache Kafka Official Website](https://kafka.apache.org/)
+- [Apache Kafka Documentation](https://kafka.apache.org/documentation/)
+- [Apache Kafka Source Code](https://github.com/apache/kafka)
+
 ## 📕 Articles
 
 - [Event-Driven Architecture with Apache Kafka for .NET Developers Part 1 - Event Producer](https://thecloudblog.net/post/event-driven-architecture-with-apache-kafka-for-net-developers-part-1-event-producer/)
