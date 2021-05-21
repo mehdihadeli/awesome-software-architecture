@@ -31,7 +31,7 @@ Thanks a bunch for supporting me!
 
 ## Contents
 - [Software Architecture](docs/software-architecture.md)
-- [Architectural Styles](docs/architectural-style.md)
+- [Architectural Styles](docs/architectural-style/architectural-style.md)
   - [NLayer Architecture](docs/architectural-style/nlayer-architecture.md)
   - [Clean Architecture](docs/architectural-style/clean-architecture.md)
   - [Onion Architecture](docs/architectural-style/onion-architecture.md)

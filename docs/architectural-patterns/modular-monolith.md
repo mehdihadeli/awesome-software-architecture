@@ -2,7 +2,7 @@
 
 ## 📘 Resources
 
-- [modular-monoliths](https://files.gotocon.com/uploads/slides/conference_12/515/original/gotoberlin2018-modular-monoliths.pdf)
+- [Modular Monoliths - Simon Brown](https://files.gotocon.com/uploads/slides/conference_12/515/original/gotoberlin2018-modular-monoliths.pdf)
 
 ## 📕 Articles
 
