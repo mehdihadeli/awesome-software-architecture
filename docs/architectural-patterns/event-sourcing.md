@@ -31,11 +31,12 @@
 - [A practical introduction to DDD, CQRS & Event Sourcing - Dennis Doomen - KanDDDinsky 2019](https://www.youtube.com/watch?v=r26BuahD8aM)
 
 ## 📦 Library
-
+- [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
 - [oskardudycz/GoldenEye](https://github.com/oskardudycz/GoldenEye) - The CQRS flavoured framework that will speed up your WebAPI and Microservices development
 - [AggregateSource](https://github.com/yreynhout/AggregateSource) - Lightweight infrastructure for doing eventsourcing using aggregates
 - [Projac](https://github.com/BitTacklr/Projac) - A set of .NET projection libraries
+- [Aggregates.NET](https://github.com/charlessolar/Aggregates.NET) - .NET event sourced domain driven design model via NServiceBus and GetEventStore
 
 ## 🚀 Samples
 
