@@ -4,7 +4,7 @@
 - [ZeroMQ Offical Website](https://zeromq.org/)
 - [ZeroMQ Documentation](https://zeromq.org/get-started/)
 - [ZGuide](https://zguide.zeromq.org/docs)
-- [Organization In Github](https://github.com/zeromq)
+- [ZeroMQ Github](https://github.com/zeromq)
 - [NetMQ](https://netmq.readthedocs.io/en/latest/)
 
 ## 📺 Videos
