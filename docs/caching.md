@@ -21,7 +21,7 @@
 - [Real-Time Delivery Architecture at Twitter](https://www.infoq.com/presentations/Real-Time-Delivery-Twitter/)
 
 
-## 📦 Library
+## 📦 Libraries
 - [Foundatio.Redis](https://github.com/FoundatioFx/Foundatio.Redis) - Foundatio Redis
 
 - [MichaCo/CacheManager](https://github.com/MichaCo/CacheManager) - CacheManager is an open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features.

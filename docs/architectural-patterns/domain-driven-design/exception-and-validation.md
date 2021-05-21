@@ -24,7 +24,7 @@
 - [Validation inside or outside entities?](https://lostechies.com/jimmybogard/2016/04/29/validation-inside-or-outside-entities/)
 - [Custom Validation in ASP.NET Web API with FluentValidation](https://exceptionnotfound.net/custom-validation-in-asp-net-web-api-with-fluentvalidation/)
 - [Exception Handling in ASP.NET Web API - A Guided Tour](https://exceptionnotfound.net/the-asp-net-web-api-exception-handling-pipeline-a-guided-tour/)
-## 📦 Library
+## 📦 Libraries
 
 - [GuardClauses](https://github.com/ardalis/GuardClauses) 
   > A simple package with guard clause extensions.

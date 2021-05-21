@@ -30,7 +30,7 @@
 - [Testing Aggregate with Event Sourcing made SIMPLE](https://www.youtube.com/watch?v=rGlNhYOqKZk)
 - [A practical introduction to DDD, CQRS & Event Sourcing - Dennis Doomen - KanDDDinsky 2019](https://www.youtube.com/watch?v=r26BuahD8aM)
 
-## 📦 Library
+## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
 - [oskardudycz/GoldenEye](https://github.com/oskardudycz/GoldenEye) - The CQRS flavoured framework that will speed up your WebAPI and Microservices development

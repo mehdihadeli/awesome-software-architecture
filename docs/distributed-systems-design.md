@@ -32,7 +32,7 @@
 
 - [Distributed Computing](https://www.youtube.com/watch?v=ajjOEltiZm4&t=0s) 
 
-## 📦 Library
+## 📦 Libraries
 
 - [dotnet/orleans](https://github.com/dotnet/orleans) - Orleans is a cross-platform framework for building distributed applications with .NET
 - [FoundatioFx/Foundatio](https://github.com/FoundatioFx/Foundatio) - Pluggable foundation blocks for building distributed apps.

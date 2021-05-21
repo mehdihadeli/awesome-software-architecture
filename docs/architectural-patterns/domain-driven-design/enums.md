@@ -13,7 +13,7 @@
 - [Listing Strongly Typed Enum Options in C#](https://ardalis.com/listing-strongly-typed-enum-options-in-c/)
 
 
-## 📦 Library
+## 📦 Libraries
 
 - [SmartEnum](https://github.com/ardalis/SmartEnum)
   > A base class for quickly and easily creating strongly typed enum replacements in C#.
