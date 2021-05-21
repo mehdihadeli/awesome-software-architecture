@@ -99,7 +99,15 @@
   
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
-
+- [Building Microservices: Designing Fine-Grained Systems 1st Edition](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
+- [Microservices Patterns: With examples in Java 1st Edition](https://www.manning.com/books/microservices-patterns)
+- [Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith 1st Edition](https://www.amazon.com/Monolith-Microservices-Evolutionary-Patterns-Transform/dp/1492047848)
+- [Microservices in .NET Core, Second Edition](https://www.manning.com/books/microservices-in-net-core-second-edition)
+- [Microservices in Action](https://www.manning.com/books/microservices-in-action)
+- [Microservices Security in Action](https://www.manning.com/books/microservices-security-in-action?query=Microservices)
+- [Building Microservices with ASP.NET Core: Develop, Test, and Deploy Cross-Platform Services in the Cloud](https://www.amazon.com/Building-Microservices-ASP-NET-Core-Cross-Platform/dp/1491961732)
+- [Building Event-Driven Microservices: Leveraging Organizational Data at Scale](https://www.amazon.com/Building-Event-Driven-Microservices-Leveraging-Organizational/dp/1492057894)
+- [Practical Microservices with Dapr and .NET: A developer's guide to building cloud-native applications using the Dapr event-driven runtime](https://www.amazon.com/Practical-Microservices-Dapr-NET-cloud-native/dp/1800568371)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
