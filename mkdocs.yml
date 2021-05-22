@@ -49,9 +49,9 @@ markdown_extensions:
       #baselevel: 2
 
 nav:
-- Software Architecture: software-architecture.md
+- Software Architecture: docs/software-architecture.md
 - Architectural Style: 
-  - Architectural Style: architectural-style/architectural-style.md
+  - Architectural Style: docs/architectural-style/architectural-style.md
   - N-Layer Architecture: architectural-style/nlayer-architecture.md
   - Clean Architecture: architectural-style/clean-architecture.md
   - Onion Architecture: architectural-style/onion-architecture.md
