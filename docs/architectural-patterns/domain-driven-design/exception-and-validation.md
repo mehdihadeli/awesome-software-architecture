@@ -24,6 +24,7 @@
 - [Validation inside or outside entities?](https://lostechies.com/jimmybogard/2016/04/29/validation-inside-or-outside-entities/)
 - [Custom Validation in ASP.NET Web API with FluentValidation](https://exceptionnotfound.net/custom-validation-in-asp-net-web-api-with-fluentvalidation/)
 - [Exception Handling in ASP.NET Web API - A Guided Tour](https://exceptionnotfound.net/the-asp-net-web-api-exception-handling-pipeline-a-guided-tour/)
+- [Scaffold Your Clean DDD Web Application - Part 4: Global Exception Handling in ASP.NET Core and Angular](https://blog.jacobsdata.com/2020/11/12/scaffold-your-clean-ddd-web-application-part-4-global-exception-handling-in-aspnet-core-and-angular)
 ## 📦 Libraries
 
 - [GuardClauses](https://github.com/ardalis/GuardClauses) 

@@ -79,7 +79,7 @@ Thanks a bunch for supporting me!
 - [Modeling](docs/modeling/index.md)
 - [Event Storming](docs/event-storming.md)
 - [Engineering Blogs](docs/engineering-blogs.md)
-- [Other](docs/other.md)
+- [Others](docs/others.md)
 
 
 ## Contribution
