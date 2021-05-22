@@ -13,13 +13,10 @@
 - [Describing Kafka with AsyncAPI](https://dalelane.co.uk/blog/?p=4219)
 
 ## 📺 Videos
-- [1. Introduction | Apache Kafka® Fundamentals](https://youtu.be/-DyWhcX3Dpc)
-- [2. Motivations and Customer Use Cases | Apache Kafka® Fundamentals](https://youtu.be/BsojaA1XnpM)
-- [3. Apache Kafka Fundamentals | Apache Kafka® Fundamentals](https://youtu.be/B5j3uNBH8X4)
-- [4. How Kafka Works | Apache Kafka® Fundamentals](https://youtu.be/jY02MB-sz8I)
-- [5. Integrating Kafka into Your Environment | Apache Kafka® Fundamentals](https://youtu.be/3ttTvkjedKo)
-- [6. The Confluent Platform | Apache Kafka® Fundamentals](https://youtu.be/AMFiukoEyts)
-- [7. Conclusion | Apache Kafka® Fundamentals](https://youtu.be/H_9fLMW_WPg)
+- [Course | Apache Kafka® Fundamentals](https://www.youtube.com/playlist?list=PLa7VYi0yPIH2PelhRHoFR5iQgflg-y6JA)
+- [Apache Kafka® Tutorials | Kafka 101](https://www.youtube.com/playlist?list=PLa7VYi0yPIH0KbnJQcMv5N9iW8HkZHztH)
+- [Kafka Connect Tutorials | Kafka Connect 101](https://www.youtube.com/playlist?list=PLa7VYi0yPIH1MB2n2w8pMZguffCDu2L4Y)
+- [Streams API for Apache Kafka™ | Produced by Confluent](https://www.youtube.com/playlist?list=PLa7VYi0yPIH1vDclVOB49xUruBAWkOCZD)
 
   <div align="right">
     <b><a href="#contents">↥ Back To Top</a></b>
