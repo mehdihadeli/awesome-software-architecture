@@ -51,7 +51,7 @@ markdown_extensions:
 nav:
 - Software Architecture: software-architecture.md
 - Architectural Style: 
-  - Architectural Style: architectural-style.md
+  - Architectural Style: architectural-style/architectural-style.md
   - N-Layer Architecture: architectural-style/nlayer-architecture.md
   - Clean Architecture: architectural-style/clean-architecture.md
   - Onion Architecture: architectural-style/onion-architecture.md
@@ -61,7 +61,7 @@ nav:
   - Service Oriented Architecture: architectural-style/service-oriented-architecture.md
   - Component Based Architecture: architectural-style/component-based-architecture.md
 - Architectural Design Principles: 
-  - Architectural Design Principles: architectural-design-principles.md
+  - Architectural Design Principles: architectural-design-principles/architectural-design-principles.md
   - Crosscutting Concerns: architectural-design-principles/crosscutting-concerns.md
   - Encapsulation: architectural-design-principles/encapsulation.md
   - Dependency Inversion: architectural-design-principles/dependency-inversion.md
@@ -78,7 +78,7 @@ nav:
   - Persistence Ignorance: architectural-design-principles/persistence-ignorance.md
   - GRASP: architectural-design-principles/grasp.md
 - Architectural Patterns: 
-  - Architectural Patterns: architectural-patterns.md
+  - Architectural Patterns: architectural-patterns/architectural-patterns.md
   - Domain Driven Design - Domain Centric: 
     - Domain Driven Design - Domain Centric: architectural-patterns/domain-driven-design/domain-driven-design.md
     - Aggregation: architectural-patterns/domain-driven-design/aggregation.md
