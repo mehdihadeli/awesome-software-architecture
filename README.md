@@ -8,12 +8,10 @@
 
 ![](./banner.png)
 
-> Curated list of awesome articles and resources to learn and practice about software architecture, patterns and principles. this repository will be updated continuously, keep yourself up to date
+> Curated list of awesome articles and resources to learn and practice about software architecture, patterns and principles. this repository will be updated continuously, keep yourself up to date .
 
 **This awesome list is available here with better UI and searching feature: [https://mehdihadeli.github.io/awesome-software-architecture](https://mehdihadeli.github.io/awesome-software-architecture)**
 
-
-If you are interested in .Net related resources feel free to follow [awesome-dotnet-core-education](https://github.com/mehdihadeli/awesome-dotnet-core-education) repository.
 
 ## Support ⭐
 

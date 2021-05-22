@@ -3,9 +3,11 @@
 ## New entry format
 
 * Use the following format: **(LINK) | (LIBRARY) | (GitHub-UserName/GitHub-RepositoryName) - DESCRIPTION**
-* The link should be the name of the package or project or article
-* Keep descriptions concise, clear and simple
-* New categories, or improvements to the existing ones are also welcome
+* The link should be the name of the package or project or article.
+* Keep descriptions concise, clear and simple.
+* New categories, or improvements to the existing ones are also welcome.
+* Your links will check for ensuring quality.
+* For now for cleaner repository for samples and libraries sections I put only c# related samples and libraries.
 
 ## Pull requests workflow
 
