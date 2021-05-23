@@ -1,7 +1,7 @@
 # Repository Pattern
 
 ## 📕 Articles
-
+- [Repository - Martin Fowler](https://martinfowler.com/eaaCatalog/repository.html)
 - [No need for repositories and unit of work with Entity Framework Core](https://gunnarpeipman.com/ef-core-repository-unit-of-work/) 
 - [Repository and unit of work ARE useful](https://dotnetfalcon.com/repository-and-unit-of-work-are-useful/) 
 - [The generic repository is just a lazy anti-pattern](https://www.ben-morris.com/why-the-generic-repository-is-just-a-lazy-anti-pattern/)
@@ -12,6 +12,9 @@
 - [Creating A Generic Repository](https://medium.com/@morgankenyon/tinroll-4-creating-a-generic-repository-9846c72e11ec)
 - [Repository is Dead: Long Live Repository](http://codebetter.com/gregyoung/2009/04/23/repository-is-dead-long-live-repository/)
 - [More on Repository](http://codebetter.com/gregyoung/2009/04/24/more-on-repository/)
+
+## 📺 Videos
+- [Repository Pattern with C# and Entity Framework - Mosh Hamedani](https://www.youtube.com/watch?v=rtXpYpZdOzM)
 
 ## 📦 Libraries
 - [FoundatioFx/Foundatio.Repositories](https://github.com/FoundatioFx/Foundatio.Repositories) - Generic repositories

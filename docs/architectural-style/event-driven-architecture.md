@@ -12,6 +12,7 @@
 - [Event Driven Systems](https://medium.com/omarelgabrys-blog/event-driven-systems-cdbe5a4b3d04)
 - [Events on the outside, on the inside and at the core](https://chrisrichardson.net/post/microservices/2021/02/21/events-are-the-core.html)
 - [Implementing event-based communication between microservices (integration events)](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/integration-event-based-microservice-communications) 
+- [Subscribing to events](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/subscribe-events)
 - [Domain events: design and implementation](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/domain-events-design-implementation) 
 - [DDD and Messaging Architectures](https://verraes.net/2019/05/ddd-msg-arch/)
 - [Developing a Successful End-to-End Complex Event Processing Strategy](https://blog.equinix.com/blog/2018/03/28/developing-a-successful-end-to-end-complex-event-processing-strategy/)

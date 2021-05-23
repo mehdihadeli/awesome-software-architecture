@@ -36,6 +36,7 @@
 - [Vertical Slices](https://deviq.com/practices/vertical-slices)
 - [What Are Your Thoughts On The Vertical Slice Architecture?](https://www.reddit.com/r/dotnet/comments/gej15i/what_are_your_thoughts_on_the_vertical_slice/)
 - [Why I Recommend a Feature-Driven Approach to Software Design](https://khalilstemmler.com/articles/software-design-architecture/feature-driven/)
+- [Composite UIs for Microservices: Vertical Slice APIs](https://jimmybogard.com/composite-uis-for-microservices-vertical-slice-apis/)
 ## 📺 Videos
 
 - [SOLID Architecture in Slices not Layers - Jimmy Bogard](https://vimeo.com/131633177)
