@@ -2,7 +2,7 @@
 
 ## 📕 Articles
 
-- [Inside Out: Repository Pattern for Data Layer](https://medium.com/swlh/inside-out-repository-pattern-for-data-layer-5eca4dd0e7d4)
+- [Inside Out: Repository Pattern for Data Layer](https://medium.com/swlh/inside-out-repository-pattern-for-data-layer-5eca4dd0e7d4?sk=691398862d106f8deddf1187164ef0de)
 - [No need for repositories and unit of work with Entity Framework Core](https://gunnarpeipman.com/ef-core-repository-unit-of-work/) 
 - [Repository and unit of work ARE useful](https://dotnetfalcon.com/repository-and-unit-of-work-are-useful/) 
 - [The generic repository is just a lazy anti-pattern](https://www.ben-morris.com/why-the-generic-repository-is-just-a-lazy-anti-pattern/)
