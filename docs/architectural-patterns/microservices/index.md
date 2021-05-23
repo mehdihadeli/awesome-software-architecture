@@ -6,6 +6,8 @@
       - [Envoy](reverse-proxy/envoy.md)
     - [Service Discovery](service-discovery/service-discovery.md)
       - [Consul](service-discovery/consul.md)
+    - [API Gateway](api-gateway/api-gateway.md)
+      - [Ocelot](api-gateway/ocelot.md)
     - [Tools](tools/tools.md)
       - [Dapr](tools/dapr.md)
       - [SteelToe](tools/steeltoe.md)
