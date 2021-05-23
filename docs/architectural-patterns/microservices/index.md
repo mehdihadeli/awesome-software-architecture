@@ -6,6 +6,8 @@
       - [Envoy](reverse-proxy/envoy.md)
     - [Service Discovery](service-discovery/service-discovery.md)
       - [Consul](service-discovery/consul.md)
+    - [API Gateway](https://microservices.io/patterns/apigateway.html)
+      - [Ocelot](https://medium.com/aspnetrun/building-ocelot-api-gateway-microservices-with-asp-net-core-and-docker-container-13f96026e86c)
     - [Tools](tools/tools.md)
       - [Dapr](tools/dapr.md)
       - [SteelToe](tools/steeltoe.md)
