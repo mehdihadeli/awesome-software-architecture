@@ -14,7 +14,7 @@
 - [Why You Should be Paying Attention to OpenTracing](https://petabridge.com/blog/why-use-opentracing/)
 - [The Current State of OpenTelemetry in .NET](https://petabridge.com/blog/state-opentelemetry-dotnet/)
 - [Improvements in .NET Core 3.0 for troubleshooting and monitoring distributed apps](https://devblogs.microsoft.com/aspnet/improvements-in-net-core-3-0-for-troubleshooting-and-monitoring-distributed-apps/)
-## Videos
+## 📺 Videos
 - [#8 e-Meetup | Jimmy Bogard - Distributed Tracing Made Easy with .NET Core and OpenTelemetry](https://www.youtube.com/watch?v=s9UNr1oEMl4)
 
 ## Libraries

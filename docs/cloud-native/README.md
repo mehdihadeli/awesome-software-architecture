@@ -45,7 +45,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### Kubernetes
 
-#### Resources
+#### 📘 Resources
 - [https://github.com/kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 - [fhsinchy/kubernetes-handbook-projects](https://github.com/fhsinchy/kubernetes-handbook-projects)
 	> Project codes used in "The Kubernetes Handbook"
@@ -247,7 +247,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Service Mesh
 
-### Articles
+### 📕 Articles
 - [The Evolution of Distributed Systems on Kubernetes](https://www.infoq.com/articles/distributed-systems-kubernetes/)
 - [Service Meshes: Why Istio? An Introduction](https://dzone.com/articles/why-istio-intro)
 
@@ -345,7 +345,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ## Revers Proxy
 
-### Articles
+### 📕 Articles
 
 ### Library
 - [ProxyKit](https://github.com/ProxyKit/ProxyKit)
@@ -356,4 +356,4 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### Reverse-Proxy
 
-#### Articles
+#### 📕 Articles

@@ -1,7 +1,7 @@
 # Helm
 [Helm Website](https://helm.sh/)
 
-## Articles
+## 📕 Articles
 - [Helm Docs](https://helm.sh/docs/)
 - [Guide to Helm 3 With an Express.js Microservice](https://www.civo.com/learn/guide-to-helm-3-with-an-express-js-microservice)
 - [GitOps using Helm3 and Flux for a Node.js and Express.js Microservice](https://www.civo.com/learn/gitops-using-helm3-and-flux-for-an-node-js-and-express-js-microservice)

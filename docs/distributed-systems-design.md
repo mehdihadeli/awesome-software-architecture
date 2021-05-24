@@ -22,7 +22,7 @@
 - [codeKarle](https://www.youtube.com/channel/UCZEfiXy7PmtVTezYUvc4zZw)
 - [System Design (Real World Examples)](https://interviewdaemon.com/courses/design-real-world-examples)
 
-## � Articles
+## 📕 Articles
 
 - [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
 - [YouTube Architecture](http://highscalability.com/youtube-architecture)

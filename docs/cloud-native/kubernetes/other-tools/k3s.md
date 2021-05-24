@@ -2,7 +2,7 @@
 
 [K3s GitHub](https://github.com/k3s-io/k3s) - Lightweight Kubernetes. Production ready, easy to install, half the memory, all in a binary less than 100 MB.
 
-## Articles
+## 📕 Articles
 - [K3s with k3d and MetalLB](https://blog.kubernauts.io/k3s-with-k3d-and-metallb-on-mac-923a3255c36e)
 - [K3S with MetalLB on Multipass VMs](https://blog.kubernauts.io/k3s-with-metallb-on-multipass-vms-ac2b37298589)
 - [Running k3s with metallb on Vagrant](https://medium.com/@toja/running-k3s-with-metallb-on-vagrant-bd9603a5113b)

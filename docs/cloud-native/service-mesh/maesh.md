@@ -1,6 +1,6 @@
 # Maesh
 
-## Resources
+## 📘 Resources
 
 [Mesh GitHub](https://github.com/traefik/mesh) - Traefik Mesh - Simpler Service Mesh
 

@@ -1,5 +1,5 @@
 # Eureka
 
-## Articles
+## 📕 Articles
 
-## Videos
+## 📺 Videos

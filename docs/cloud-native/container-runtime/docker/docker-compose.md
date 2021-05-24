@@ -1,6 +1,6 @@
 # Docker Compose
 
-## Resources
+## 📘 Resources
 - [Docker Compose GitHub](https://github.com/docker/compose)
 
 ## 📝 Articles

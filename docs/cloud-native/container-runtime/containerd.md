@@ -1,8 +1,8 @@
 # Containerd
-## Resources
+## 📘 Resources
 - [Containerd GitHub](https://github.com/containerd/containerd) - An open and reliable container runtime
 
-## Articles
+## 📕 Articles
 - [containerd development with multipass](https://blog.alexellis.io/containerd-development-multipass/)
 
 <div align="right">
