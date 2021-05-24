@@ -100,7 +100,7 @@
 - [book-fast-service-fabric](https://github.com/dzimchuk/book-fast-service-fabric) - A sample demonstrating how to implement a multitenant facility management and accommodation booking application as native Azure Service Fabric reliable services
 - [profjordanov/realworld-microservices](https://github.com/profjordanov/realworld-microservices) - Microservices based .NET Core backend implementation for RealWorld
 - [mspnp/microservices-reference-implementation](https://github.com/mspnp/microservices-reference-implementation) - A reference implementation demonstrating microservices architecture and best practices for Microsoft Azure
-  - [patrikduch/netcore-microservices](https://github.com/patrikduch/netcore-microservices) - Advanced Microservices Architecture with NET5 framework
+- [patrikduch/netcore-microservices](https://github.com/patrikduch/netcore-microservices) - Advanced Microservices Architecture with NET5 framework
   
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
