@@ -1,4 +1,4 @@
-# Composite Uis
+# Composite UIs
 
 ## 📕 Articles
 - [Composite UIs for Microservices: Vertical Slice APIs](https://jimmybogard.com/composite-uis-for-microservices-vertical-slice-apis/)
