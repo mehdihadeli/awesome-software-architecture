@@ -79,6 +79,7 @@
 - [networknt/light-4j](https://github.com/networknt/light-4j) - A fast, lightweight and more productive microservices framework
 - [mehdihadeli/MicroBootstrap](https://github.com/mehdihadeli/MicroBootstrap) - MicroBootstrap is a framework with many features for quickly and conveniently creating microservices on .NET Core.
 - [Raiffeisen-DGTL/ViennaNET](https://github.com/Raiffeisen-DGTL/ViennaNET) - Framework for quickly creating enterprise microservices on .NET Core
+
 ## 🚀 Samples
 
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
@@ -99,6 +100,7 @@
 - [book-fast-service-fabric](https://github.com/dzimchuk/book-fast-service-fabric) - A sample demonstrating how to implement a multitenant facility management and accommodation booking application as native Azure Service Fabric reliable services
 - [profjordanov/realworld-microservices](https://github.com/profjordanov/realworld-microservices) - Microservices based .NET Core backend implementation for RealWorld
 - [mspnp/microservices-reference-implementation](https://github.com/mspnp/microservices-reference-implementation) - A reference implementation demonstrating microservices architecture and best practices for Microsoft Azure
+  - [patrikduch/netcore-microservices](https://github.com/patrikduch/netcore-microservices) - Advanced Microservices Architecture with NET5 framework
   
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
@@ -111,6 +113,7 @@
 - [Building Microservices with ASP.NET Core: Develop, Test, and Deploy Cross-Platform Services in the Cloud](https://www.amazon.com/Building-Microservices-ASP-NET-Core-Cross-Platform/dp/1491961732)
 - [Building Event-Driven Microservices: Leveraging Organizational Data at Scale](https://www.amazon.com/Building-Event-Driven-Microservices-Leveraging-Organizational/dp/1492057894)
 - [Practical Microservices with Dapr and .NET: A developer's guide to building cloud-native applications using the Dapr event-driven runtime](https://www.amazon.com/Practical-Microservices-Dapr-NET-cloud-native/dp/1800568371)
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
