@@ -1,6 +1,6 @@
 # Deployment Strategies
 
-## 📝 Articles
+## 📕 Articles
 
 - [Six Strategies for Application Deployment](https://thenewstack.io/deployment-strategies/)
 - [Kubernetes deployment strategies](https://blog.container-solutions.com/kubernetes-deployment-strategies)

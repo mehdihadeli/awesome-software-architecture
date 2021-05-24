@@ -49,7 +49,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [https://github.com/kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 - [fhsinchy/kubernetes-handbook-projects](https://github.com/fhsinchy/kubernetes-handbook-projects)
 	> Project codes used in "The Kubernetes Handbook"
-#### 📝 Articles
+#### 📕 Articles
 - [Kubernetes By Example](https://kubernetesbyexample.com/)
 - [Kubernetes & Traefik 101— When Simplicity Matters](https://medium.com/@geraldcroes/kubernetes-traefik-101-when-simplicity-matters-957eeede2cf8)
 - [Kubernetes on bare-metal in 10 minutes](https://blog.alexellis.io/kubernetes-in-10-minutes/)
@@ -76,7 +76,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ##### Deployment Strategies
 
-###### 📝 Articles
+###### 📕 Articles
 
 - [Six Strategies for Application Deployment](https://thenewstack.io/deployment-strategies/)
 - [Kubernetes deployment strategies](https://blog.container-solutions.com/kubernetes-deployment-strategies)
@@ -100,7 +100,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 > Lightweight Kubernetes. Production ready, easy to install, half the memory, all in a binary less than 100 MB.
 
-#### 📝 Articles
+#### 📕 Articles
 - [K3s with k3d and MetalLB](https://blog.kubernauts.io/k3s-with-k3d-and-metallb-on-mac-923a3255c36e)
 - [K3S with MetalLB on Multipass VMs](https://blog.kubernauts.io/k3s-with-metallb-on-multipass-vms-ac2b37298589)
 - [Running k3s with metallb on Vagrant](https://medium.com/@toja/running-k3s-with-metallb-on-vagrant-bd9603a5113b)
@@ -129,7 +129,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [https://github.com/kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
  > Kubernetes IN Docker - local clusters for testing Kubernetes
 
-#### 📝 Articles
+#### 📕 Articles
 - [KIND and Load Balancing with MetalLB on Mac](https://www.thehumblelab.com/kind-and-metallb-on-mac/)
 
 <div align="right">
@@ -138,7 +138,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### Tilt
 
-#### 📝 Articles
+#### 📕 Articles
 - [Local Kubernetes Development with Tilt](https://sookocheff.com/post/kubernetes/local-kubernetes-development-with-tilt/)
 
 <div align="right">
@@ -149,7 +149,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### Containerd
 
-#### 📝 Articles
+#### 📕 Articles
 - [containerd development with multipass](https://blog.alexellis.io/containerd-development-multipass/)
 
 <div align="right">
@@ -158,7 +158,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 ### Docker
 
-#### 📝 Articles
+#### 📕 Articles
 
 #### Library
 
@@ -171,7 +171,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 
 #### Docker Compose
 
-##### 📝 Articles
+##### 📕 Articles
 - [Speed Up Docker Compose with Parallel Builds](https://ardalis.com/speed-up-docker-compose-with-parallel-builds/)
 - [How to Use Docker Compose to Run Multiple Instances of a Service in Development](https://pspdfkit.com/blog/2018/how-to-use-docker-compose-to-run-multiple-instances-of-a-service-in-development/)
 - [Docker Compose scale with Dynamic Configuration - Part 1](https://tarunlalwani.com/post/docker-compose-scale-with-dynamic-configuration-part-1/)
@@ -196,7 +196,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 [rancher/rancher](https://github.com/rancher/rancher)
 	>  Complete container management platform.
 
-#### 📝 Articles
+#### 📕 Articles
 
 - [The Enterprise Grade Rancher Deployment Guide](https://blog.kubernauts.io/enterprise-grade-rancher-deployment-guide-ubuntu-fd261e00994c)
 - [Howto – Set up a highly available instance of Rancher](https://blog.ronnyvdb.net/2019/01/20/howto-set-up-a-highly-available-instance-of-rancher/)
@@ -216,7 +216,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 [https://github.com/metallb/metallb](https://github.com/metallb/metallb)
 > A network load-balancer implementation for Kubernetes using standard routing protocols
 
-#### 📝 Articles
+#### 📕 Articles
 - [Using MetalLB And Traefik Load Balancing For Your Bare Metal Kubernetes Cluster – Part 1](https://www.devtech101.com/2019/02/23/using-metallb-and-traefik-load-balancing-for-your-bare-metal-kubernetes-cluster-part-1/)
 - [Using Traefik As Your Ingress Controller Combined With MetalLB On Your Bare Metal Kubernetes Cluster – Part 2](https://www.devtech101.com/2019/03/02/using-traefik-as-your-ingress-controller-combined-with-metallb-on-your-bare-metal-kubernetes-cluster-part-2/)
 - [Running k3s with metallb on Vagrant](https://medium.com/@toja/running-k3s-with-metallb-on-vagrant-bd9603a5113b)
@@ -232,7 +232,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 [https://github.com/traefik/traefik](https://github.com/traefik/traefik)
 >  Træfik, a modern reverse proxy.
 
-#### 📝 Articles
+#### 📕 Articles
 - [Traefik 2.0](https://traefik.io/blog/traefik-2-0-6531ec5196c2/)
 - [Kubernetes & Traefik 101— When Simplicity Matters](https://medium.com/@geraldcroes/kubernetes-traefik-101-when-simplicity-matters-957eeede2cf8)
 - [Traefik 2.0 & Docker 101](https://traefik.io/blog/traefik-2-0-docker-101-fc2893944b9d/)
@@ -269,7 +269,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 - [ECS-M2: Service Mesh with Linkerd on Kubernetes](https://youtu.be/kH_ah8utAdM) - Elton Stoneman
 
 
-#### 📝 Articles
+#### 📕 Articles
 - [Traefik Mesh: Simpler Service Mesh](https://doc.traefik.io/traefik-mesh/)
 - [Announcing Maesh, a Lightweight and Simpler Service Mesh Made by the Traefik Team](https://traefik.io/blog/announcing-maesh-a-lightweight-and-simpler-service-mesh-made-by-the-traefik-team-cb866edc6f29/)
 
@@ -286,7 +286,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 [https://github.com/openfaas/faas](https://github.com/openfaas/faas)
 	> OpenFaaS - Serverless Functions Made Simple for Docker & Kubernetes.
 
-#### 📝 Articles
+#### 📕 Articles
 - [faas-containerd - serverless without Kubernetes](https://blog.alexellis.io/faas-containerd-serverless-without-kubernetes/)
 - [faasd - lightweight Serverless for your Raspberry Pi](https://blog.alexellis.io/faasd-for-lightweight-serverless/)
 - [Introducing the OpenFaaS Operator for Serverless on Kubernetes](https://blog.alexellis.io/introducing-the-openfaas-operator/)
@@ -313,7 +313,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 ### Helm
 [https://helm.sh/](https://helm.sh/)
 
-#### 📝 Articles
+#### 📕 Articles
 - [Helm Docs](https://helm.sh/docs/)
 - [Guide to Helm 3 With an Express.js Microservice](https://www.civo.com/learn/guide-to-helm-3-with-an-express-js-microservice)
 - [GitOps using Helm3 and Flux for a Node.js and Express.js Microservice](https://www.civo.com/learn/gitops-using-helm3-and-flux-for-an-node-js-and-express-js-microservice)
@@ -332,7 +332,7 @@ Check out my [blog](https://dotnetuniversity.com) or find me on [Linkedin](https
 [https://github.com/fluxcd/flux](https://github.com/fluxcd/flux)
 > A tool for turning container images into running Kubernetes services.
 
-#### 📝 Articles
+#### 📕 Articles
 
 - [GitOps using Helm3 and Flux for a Node.js and Express.js Microservice](https://www.civo.com/learn/gitops-using-helm3-and-flux-for-an-node-js-and-express-js-microservice)
 
