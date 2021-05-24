@@ -40,6 +40,7 @@
 
 ## 🚀 Samples
 
+- [mizrael/SuperSafeBank](https://github.com/mizrael/SuperSafeBank) - Sample Event Sourcing implementation with .NET Core
 - [Hands-On-Domain-Driven-Design-with-.NET-Core](https://github.com/PacktPublishing/Hands-On-Domain-Driven-Design-with-.NET-Core) 
 - [Aggregates.NET](https://github.com/charlessolar/Aggregates.NET) - .NET event sourced domain driven design model via NServiceBus and GetEventStore
 - [eShopOnContainersDDD](https://github.com/charlessolar/eShopOnContainersDDD) - Fork of dotnet-architecture/eShopOnContainers in full DDD/CQRS design using my own patterns

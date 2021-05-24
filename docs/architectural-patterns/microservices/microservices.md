@@ -40,7 +40,7 @@
 - [Microservices and Docker with .Net Core and Azure Service Fabric - Part two](http://elvanydev.com/Microservices-part2/)
 - [Microservices and Docker with .Net Core and Azure Service Fabric - Part three](http://elvanydev.com/Microservices-part3/)
 - [Microservices and Docker with .Net Core and Azure Service Fabric - Part four](http://elvanydev.com/Microservices-part4/)
-
+- [How to Build an Event-Driven ASP.NET Core Microservice Architecture](https://itnext.io/how-to-build-an-event-driven-asp-net-core-microservice-architecture-e0ef2976f33f)
 ## 📺 Videos
 
 - [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) 
@@ -57,7 +57,7 @@
 - [GOTO 2021 • Scale, Flow and Microservices • James Lewis](https://www.youtube.com/watch?v=yJHvMabxVYU&list=PLEx5khR4g7PI89_ZS_wz5suqCoqFgv-gO)
 - [From a distributed monolith to a microservices solution - Jan de Vries](https://www.youtube.com/watch?v=0H68V2BzutA)
 - [Bounded Contexts, Microservices, and Everything In Between - Vladik Khononov - KanDDDinsky 2018](https://www.youtube.com/watch?v=dlnu5pSsg7k&t=604s)
-
+- [Jimmy Bogard - Effective Microservice Communication and Conversation Patterns](https://www.youtube.com/watch?v=SuMF89Dc5XY)
 ## 📦 Libraries
 
 - [dotnet/tye](https://github.com/dotnet/tye) - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.

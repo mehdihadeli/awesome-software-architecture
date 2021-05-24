@@ -53,6 +53,7 @@
 - [Message Naming Conventions](https://jimmybogard.com/message-naming-conventions/)
 - [Building an Event Driven .NET Application: The Fundamentals](https://wrapt.dev/blog/building-an-event-driven-dotnet-application-the-fundamentals)
 - [Building an Event Driven .NET Application: Setting Up MassTransit and RabbitMQ](https://wrapt.dev/blog/building-an-event-driven-dotnet-application-setting-up-masstransit-and-rabbitmq)
+- [Kafka vs RabbitMQ vs AWS SNS/SQS: Which Broker to Choose?](https://www.aspecto.io/blog/kafka-vs-rabbitmq-vs-aws-sns-sqs-which-broker-to-choose/)
 
 ## 📺 Videos
 

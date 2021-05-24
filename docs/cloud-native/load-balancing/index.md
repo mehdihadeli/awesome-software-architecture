@@ -1,5 +1,6 @@
 - [Load Balancing](load-balancing.md)
   - [Fabio](fabio.md)
+  - [MetalLB](metallb.md)
   - [Nginx](nginx.md)
   - [Traefik](traefik.md)
   - [Fabio](fabio.md)

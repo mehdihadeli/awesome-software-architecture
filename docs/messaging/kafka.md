@@ -11,6 +11,7 @@
 - [Event-Driven Architecture with Apache Kafka for .NET Developers Part 2 - Event Consumer](https://thecloudblog.net/post/event-driven-architecture-with-apache-kafka-for-.net-developers-part-2-event-consumer/)
 - [Event-Driven Architecture with Apache Kafka for .NET Developers Part 3 - Azure Event Hubs](https://thecloudblog.net/post/event-driven-architecture-with-apache-kafka-for-net-developers-part-3-azure-event-hubs/)
 - [Describing Kafka with AsyncAPI](https://dalelane.co.uk/blog/?p=4219)
+- [Building Reliable Reprocessing and Dead Letter Queues with Apache Kafka - Uber Engineering Blog](https://eng.uber.com/reliable-reprocessing/)
 
 ## 📺 Videos
 - [Course | Apache Kafka® Fundamentals](https://www.youtube.com/playlist?list=PLa7VYi0yPIH2PelhRHoFR5iQgflg-y6JA)

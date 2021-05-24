@@ -16,11 +16,14 @@
 - [wesdoyle/design-patterns-explained-with-food](https://github.com/wesdoyle/design-patterns-explained-with-food) - GoF Design Patterns with "Real-World" examples involving Food-Related Businesses and mock dependencies
 - [ardalis/DesignPatternsInCSharp](https://github.com/ardalis/DesignPatternsInCSharp)
 
-# Videos
+## Videos
 - [Design Patterns Explained with Food](https://www.youtube.com/playlist?list=PL3_YUnRN3Uhi-__AdJ3yWgDB95_GYeX3x)
-- [design patterns (C# Examples)](https://www.youtube.com/playlist?list=PLOeFnOV9YBa4ary9fvCULLn7ohNKR6Ees)
-- [CodeWithMosh - The Ultimate Design Patterns](https://codewithmosh.com/p/design-patterns)
-- [Design Patterns in C# and .NET](https://www.udemy.com/course/design-patterns-csharp-dotnet/)
+- [design patterns (C# Examples) - Youtube Playlist](https://www.youtube.com/playlist?list=PLOeFnOV9YBa4ary9fvCULLn7ohNKR6Ees)
+
+## Course
+- [CodeWithMosh - The Ultimate Design Patterns - Mosh Hamedani Course](https://codewithmosh.com/p/design-patterns)
+- [Design Patterns in C# and .NET - Udemy Course](https://www.udemy.com/course/design-patterns-csharp-dotnet/)
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
