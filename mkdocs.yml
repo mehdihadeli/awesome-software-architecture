@@ -135,14 +135,6 @@ nav:
   - Outbox Pattern: cloud-design-patterns/outbox-pattern.md
   - Saga Pattern: cloud-design-patterns/saga.md
   - Strangler Fig Pattern: cloud-design-patterns/strangler-fig-pattern.md
-- Cloud Native: 
-  - API Gateway: cloud-native/api-gateway/index.md
-  - Container Runtime: cloud-native/container-runtime/index.md
-  - Kubernetes: cloud-native/kubernetes/index.md
-  - Load Balancing: cloud-native/load-balancing/index.md
-  - Reverse Proxy: cloud-native/reverse-proxy/index.md
-  - Service Discovery & Registry: cloud-native/service-discovery/index.md
-  - Service Mesh: cloud-native/service-mesh/index.md
 - Concurrency: concurrency.md
 - Design Best Practices: 
 - Design Patterns: 
@@ -184,7 +176,6 @@ nav:
 - RESTful API Design: rest.md
 - Scalable Software Architecture: scalable-software-architecture.md
 - Software Architecture: software-architecture.md
-
 
 copyright: 2021 <a href="https://github.com/mehdihadeli">Mehdi Hadeli</a>.
 #remote_branch: gh-pages 
