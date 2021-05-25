@@ -1,0 +1,6 @@
+- [Azure Application Architecture](azure-application-architecture.md)
+  - [Azure Active Directory](azure-active-directory.md)
+  - [Azure Functions](azure-functions.md)
+  - [Azure Service Bus](azure-service-bus.md)
+  - [Azure Template](azure-template.md)
+  - [Azure Identity](azure-identity.md)
