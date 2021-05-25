@@ -71,7 +71,6 @@ nav:
   - Cohesion: architectural-design-principles/cohesion.md
   - Persistence Ignorance: architectural-design-principles/persistence-ignorance.md
   - GRASP: architectural-design-principles/grasp.md
-- Software Architecture: software-architecture.md
 - Architectural Style: 
   - Architectural Style: architectural-style/architectural-style.md
   - N-Layer Architecture: architectural-style/nlayer-architecture.md
