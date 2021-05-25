@@ -151,7 +151,21 @@ nav:
     - Docker: 
       - Docker: cloud-native/container-runtime/docker/docker.md
       - Docker Compose: cloud-native/container-runtime/docker/docker-compose.md
-  - Kubernetes: cloud-native/kubernetes/index.md
+  - Kubernetes: 
+    - Kubernetes: cloud-native/kubernetes/kubernetes.md
+    - Deployment Strategies: cloud-native/kubernetes/deployment-strategies.md
+    - Deployment Tools: 
+      - Argo-CD: cloud-native/kubernetes/deployment-tools/argo-cd.md
+      - Helm: cloud-native/kubernetes/deployment-tools/helm.md
+      - Jenkins: cloud-native/kubernetes/deployment-tools/jenkins.md
+    - Ingress Controller: 
+      - Ingress Controller: cloud-native/kubernetes/ingress-controller.md
+      - Nginx Ingress: cloud-native/kubernetes/nginx-ingress.md
+      - Traefik Ingress: cloud-native/kubernetes/traefik-ingress.md
+    - Other Tools: 
+      - k3s: cloud-native/kubernetes/other-tools/k3s.md)
+      - kind: cloud-native/kubernetes/other-tools/kind.md)
+      - tilt: cloud-native/kubernetes/other-tools/tilt.md)
   - Load Balancing: cloud-native/load-balancing/index.md
   - Reverse Proxy: cloud-native/reverse-proxy/index.md
   - Service Discovery & Registry: cloud-native/service-discovery/index.md
