@@ -24,7 +24,6 @@ Thanks a bunch for supporting me!
 
 [tweet]: https://twitter.com/intent/tweet?url=https://github.com/mehdihadeli/awesome-software-architecture&text=A%20curated%20list%20of%20awesome%20articles%20and%20resources%20to%20learn%20and%20practice%20about%20software%20architecture%2C%20patterns%2C%20and%20principles&hashtags=dotnetcore,dotnet,csharp,microservices,netcore,aspnetcore,ddd,cqrs,softwarearchitecture,designpatterns,modularmonolith
 
-
 ## Contents
 - [Software Architecture](docs/software-architecture.md)
 - [Architectural Styles](docs/architectural-style/index.md)
