@@ -166,10 +166,32 @@ nav:
       - k3s: cloud-native/kubernetes/other-tools/k3s.md
       - kind: cloud-native/kubernetes/other-tools/kind.md
       - tilt: cloud-native/kubernetes/other-tools/tilt.md
-  - Load Balancing: cloud-native/load-balancing/index.md
-  - Reverse Proxy: cloud-native/reverse-proxy/index.md
-  - Service Discovery & Registry: cloud-native/service-discovery/index.md
-  - Service Mesh: cloud-native/service-mesh/index.md
+  - Load Balancing: 
+    - Load Balancing: cloud-native/load-balancing/load-balancing.md
+    - Fabio: cloud-native/load-balancing/fabio.md
+    - MetalLB: cloud-native/load-balancing/metallb.md
+    - Nginx: cloud-native/load-balancing/nginx.md
+    - Traefik: cloud-native/load-balancing/traefik.md
+    - Fabio: cloud-native/load-balancing/fabio.md
+  - Paas Manager :
+    - Paas Manager: cloud-native/paas-manager/index.md
+    - Rancher: cloud-native/paas-manager/rancher.md
+    - OpenShift: cloud-native/paas-manager/openshift.md
+  - Reverse Proxy:
+    - Reverse Proxy: cloud-native/reverse-proxy/reverse-proxy.md
+    - Envoy: cloud-native/reverse-proxy/envoy.md
+    - YARP: cloud-native/reverse-proxy/yarp.md
+    - HAProxy: cloud-native/reverse-proxy/haproxy.md
+  - Service Discovery & Registry: 
+    - Service Discovery & Registry: cloud-native/service-discovery/service-discovery.md
+    - Consul: cloud-native/service-discovery/consul.md
+    - Eureka: cloud-native/service-discovery/eureka.md
+  - Service Mesh: 
+    - Service Mesh: cloud-native/service-mesh/service-mesh.md
+    - Istio: cloud-native/service-mesh/istio.md
+    - Consul-Connect: cloud-native/service-mesh/consul-connect.md
+    - Maesh: cloud-native/service-mesh/maesh.md
+    - Linkerd: cloud-native/service-mesh/linkerd.md
 - Object Oriented Design: object-oriented-design.md
 - Distributed Systems Design: distributed-systems-design.md
 - Scalable Software Architecture: scalable-software-architecture.md
