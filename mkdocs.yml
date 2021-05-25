@@ -141,7 +141,11 @@ nav:
   - Saga Pattern: cloud-design-patterns/saga.md
   - Strangler Fig Pattern: cloud-design-patterns/strangler-fig-pattern.md
 - Cloud Native:
-  - API Gateway: cloud-native/api-gateway/index.md
+  - API Gateway: 
+    - API Gateway: cloud-native/api-gateway/api-gateway.md
+    - Ambassador: cloud-native/api-gateway/ambassador.md
+    - Kong: cloud-native/api-gateway/kong.md
+    - Ocelot: cloud-native/api-gateway/ocelot.md
   - Container Runtime: cloud-native/container-runtime/index.md
   - Kubernetes: cloud-native/kubernetes/index.md
   - Load Balancing: cloud-native/load-balancing/index.md
