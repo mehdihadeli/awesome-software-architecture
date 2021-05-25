@@ -47,7 +47,7 @@ markdown_extensions:
   - footnotes
   - toc:
       permalink: true
-      #baselevel: 2
+      baselevel: 3
 
 
 nav:
