@@ -6,7 +6,7 @@
 - [Getting started with Dapr for .NET Developers](https://laurentkempe.com/2021/03/09/getting-started-with-dapr-for-dotnet-developers/)
 - [Service to service invocation with Refit and Dapr .NET SDK](https://laurentkempe.com/2021/03/18/service-to-service-invocation-with-refit-and-dapr-dotnet-sdk/)
 - [Calling Dapr service with gRPC](https://laurentkempe.com/2021/03/25/calling-dapr-service-with-grpc/)
-
+- [Make microservices fun again with Dapr](https://www.daveabrock.com/2021/04/29/meet-dapr/)
 ## 📺 Videos
 - [On .NET Live - Microservice applications with DAPR and .NET](https://www.youtube.com/watch?v=kIfmwmJHNMs)
 
