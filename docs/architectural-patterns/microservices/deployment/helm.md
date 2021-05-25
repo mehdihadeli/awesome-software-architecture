@@ -1,5 +1,0 @@
-# Helm
-
-## 📕 Articles
-
-## 📺 Videos

@@ -1,5 +1,0 @@
-# Kubernetes
-
-## 📕 Articles
-
-## 📺 Videos

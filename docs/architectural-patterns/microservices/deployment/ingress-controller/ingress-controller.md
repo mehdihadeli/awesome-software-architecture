@@ -1,5 +1,0 @@
-# Ingress Controller
-
-## 📕 Articles
-
-## 📺 Videos
