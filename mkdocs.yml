@@ -4,6 +4,7 @@ site_description: Curated list of awesome articles and resources to learn and pr
 docs_dir: 
 repo_name: mehdihadeli/awesome-software-architecture
 repo_url: https://github.com/mehdihadeli/awesome-software-architecture
+edit_uri: edit/master/docs/
 theme: 
   name: material 
   prev_next_buttons_location: both
@@ -27,6 +28,12 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.critic
   - pymdownx.details
+  #- pymdownx.emoji:
+  #    emoji_index: !!python/name:pymdownx.emoji.twemoji
+  #    emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  #- pymdownx.emoji:
+  #    emoji_index: !!python/name:materialx.emoji.twemoji
+  #    emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.inlinehilite
   - pymdownx.magiclink
   - pymdownx.mark
@@ -43,9 +50,17 @@ markdown_extensions:
       #baselevel: 2
 
 nav:
-- Anti Patterns: 
-  - Anti Patterns: anti-patterns/anti-patterns.md
-  - Code Smells: anti-patterns/code-smells.md
+- Software Architecture: software-architecture.md
+- Architectural Style: 
+  - Architectural Style: architectural-style/architectural-style.md
+  - N-Layer Architecture: architectural-style/nlayer-architecture.md
+  - Clean Architecture: architectural-style/clean-architecture.md
+  - Onion Architecture: architectural-style/onion-architecture.md
+  - Hexagonal Architecture: architectural-style/hexagonal-architecture.md
+  - Vertical Slice Architecture: architectural-style/vertical-slice-architecture.md
+  - Event Driven Architecture: architectural-style/event-driven-architecture.md
+  - Service Oriented Architecture: architectural-style/service-oriented-architecture.md
+  - Component Based Architecture: architectural-style/component-based-architecture.md
 - Architectural Design Principles: 
   - Architectural Design Principles: architectural-design-principles/architectural-design-principles.md
   - Crosscutting Concerns: architectural-design-principles/crosscutting-concerns.md
@@ -63,17 +78,6 @@ nav:
   - Cohesion: architectural-design-principles/cohesion.md
   - Persistence Ignorance: architectural-design-principles/persistence-ignorance.md
   - GRASP: architectural-design-principles/grasp.md
-- Software Architecture: software-architecture.md
-- Architectural Style: 
-  - Architectural Style: architectural-style/architectural-style.md
-  - N-Layer Architecture: architectural-style/nlayer-architecture.md
-  - Clean Architecture: architectural-style/clean-architecture.md
-  - Onion Architecture: architectural-style/onion-architecture.md
-  - Hexagonal Architecture: architectural-style/hexagonal-architecture.md
-  - Vertical Slice Architecture: architectural-style/vertical-slice-architecture.md
-  - Event Driven Architecture: architectural-style/event-driven-architecture.md
-  - Service Oriented Architecture: architectural-style/service-oriented-architecture.md
-  - Component Based Architecture: architectural-style/component-based-architecture.md
 - Architectural Patterns: 
   - Architectural Patterns: architectural-patterns/architectural-patterns.md
   - Domain Driven Design - Domain Centric: 
@@ -114,15 +118,15 @@ nav:
   - Serverless Architectural Pattern: architectural-patterns/serverless.md
   - MicroKernel Architectural Pattern: architectural-patterns/micro-kernel.md
   - Modular Monolith: architectural-patterns/modular-monolith.md
-- Azure Application Architecture: 
-  - Azure Application Architecture: azure/azure-application-architecture.md
-  - Azure Active Directory: azure/azure-active-directory.md
-  - Azure Functions: azure/azure-functions.md
-  - Azure Service Bus: azure/azure-service-bus.md
-  - Azure Template: azure/azure-template.md
-  - Azure Identity: azure/azure-identity.md
-- Caching: caching.md
-- Clean Code: clean-code.md
+- Design Patterns: 
+  - Design Patterns: design-patterns/design-patterns.md
+  - Singleton: design-patterns/singleton.md
+  - Decorator Pattern: design-patterns/decorator-pattern.md
+  - Specification Pattern: design-patterns/specification-pattern.md
+  - Repository Pattern: design-patterns/repository-pattern.md
+  - Query Object Pattern: design-patterns/query-object-pattern.md
+  - Factory Pattern: design-patterns/factory-pattern.md
+  - Strategy Pattern: design-patterns/strategy-pattern.md
 - Cloud Design Patterns: 
   - Cloud Design Patterns: cloud-design-patterns/cloud-design-patterns.md
   - Ambassador Pattern: cloud-design-patterns/ambassador-pattern.md
@@ -135,20 +139,18 @@ nav:
   - Outbox Pattern: cloud-design-patterns/outbox-pattern.md
   - Saga Pattern: cloud-design-patterns/saga.md
   - Strangler Fig Pattern: cloud-design-patterns/strangler-fig-pattern.md
-- Concurrency: concurrency.md
-- Design Best Practices: 
-- Design Patterns: 
-  - Design Patterns: design-patterns/design-patterns.md
-  - Singleton: design-patterns/singleton.md
-  - Decorator Pattern: design-patterns/decorator-pattern.md
-  - Specification Pattern: design-patterns/specification-pattern.md
-  - Repository Pattern: design-patterns/repository-pattern.md
-  - Query Object Pattern: design-patterns/query-object-pattern.md
-  - Factory Pattern: design-patterns/factory-pattern.md
-  - Strategy Pattern: design-patterns/strategy-pattern.md
+- Object Oriented Design: object-oriented-design.md
 - Distributed Systems Design: distributed-systems-design.md
-- Distributed Transactions: distributed-transactions.md
-- Event Storming: event-storming.md
+- Scalable Software Architecture: scalable-software-architecture.md
+- Clean Code: clean-code.md
+- Design Best Practices: 
+  - Design Best Practices: design-best-practices/design-best-practices.md
+  - 12 Factor: design-best-practices/12-factor.md
+  - Strongly Type Ids: design-best-practices/strongly-type-ids.md
+  - Thin Controllers: design-best-practices/thin-controllers.md
+- Anti Patterns: 
+  - Anti Patterns: anti-patterns/anti-patterns.md
+  - Code Smells: anti-patterns/code-smells.md
 - Eventual Consistency: eventual-consistency.md
 - Messaging Patterns:
   - Messaging Patterns: messaging/messaging.md
@@ -156,6 +158,21 @@ nav:
   - RabbitMQ: messaging/rabbitmq.md
   - Azure Service Bus: azure/azure-service-bus.md
   - NATS: messaging/nats.md
+- Distributed Transactions: distributed-transactions.md
+- Concurrency: concurrency.md
+- Eventual Consistency: eventual-consistency.md
+- RESTful API Design: rest.md
+- Caching: caching.md
+- Aspect Oriented Programming: aop.md
+- Packaging: packaging.md
+- Refactoring: refactoring.md
+- Azure Application Architecture: 
+  - Azure Application Architecture: azure/azure-application-architecture.md
+  - Azure Active Directory: azure/azure-active-directory.md
+  - Azure Functions: azure/azure-functions.md
+  - Azure Service Bus: azure/azure-service-bus.md
+  - Azure Template: azure/azure-template.md
+  - Azure Identity: azure/azure-identity.md
 - Modeling: 
   - Modeling: modeling/modeling.md
   - Architecture Diagram: modeling/architecture-diagram.md
@@ -170,12 +187,10 @@ nav:
   - Relationship: modeling/relationship.md
   - Tools: modeling/tools.md
   - Use Case Diagram: modeling/use-case-diagram.md
-- Object Oriented Design: object-oriented-design.md
+- Event Storming: event-storming.md
+- Engineering Blogs: engineering-blogs.md
 - Others: others.md
-- Refactoring: refactoring.md
-- RESTful API Design: rest.md
-- Scalable Software Architecture: scalable-software-architecture.md
-- Software Architecture: software-architecture.md
+
 
 copyright: 2021 <a href="https://github.com/mehdihadeli">Mehdi Hadeli</a>.
 #remote_branch: gh-pages 
