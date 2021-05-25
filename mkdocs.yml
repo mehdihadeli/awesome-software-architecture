@@ -163,9 +163,9 @@ nav:
       - Nginx Ingress: cloud-native/kubernetes/nginx-ingress.md
       - Traefik Ingress: cloud-native/kubernetes/traefik-ingress.md
     - Other Tools: 
-      - k3s: cloud-native/kubernetes/other-tools/k3s.md)
-      - kind: cloud-native/kubernetes/other-tools/kind.md)
-      - tilt: cloud-native/kubernetes/other-tools/tilt.md)
+      - k3s: cloud-native/kubernetes/other-tools/k3s.md
+      - kind: cloud-native/kubernetes/other-tools/kind.md
+      - tilt: cloud-native/kubernetes/other-tools/tilt.md
   - Load Balancing: cloud-native/load-balancing/index.md
   - Reverse Proxy: cloud-native/reverse-proxy/index.md
   - Service Discovery & Registry: cloud-native/service-discovery/index.md
