@@ -47,8 +47,6 @@ markdown_extensions:
   - footnotes
   - toc:
       permalink: true
-      baselevel: 3
-
 
 nav:
 - Software Architecture: software-architecture.md
@@ -146,7 +144,13 @@ nav:
     - Ambassador: cloud-native/api-gateway/ambassador.md
     - Kong: cloud-native/api-gateway/kong.md
     - Ocelot: cloud-native/api-gateway/ocelot.md
-  - Container Runtime: cloud-native/container-runtime/index.md
+  - Container Runtime: 
+    - Container Runtime: cloud-native/container-runtime/container-runtime.md
+    - Containerd: cloud-native/container-runtime/containerd.md
+    - Cri-o: cloud-native/container-runtime/crio.md
+    - Docker: 
+      - Docker: cloud-native/container-runtime/docker/docker.md
+      - Docker Compose: cloud-native/container-runtime/docker/docker-compose.md
   - Kubernetes: cloud-native/kubernetes/index.md
   - Load Balancing: cloud-native/load-balancing/index.md
   - Reverse Proxy: cloud-native/reverse-proxy/index.md
