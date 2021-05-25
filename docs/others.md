@@ -40,6 +40,17 @@
 - [Software Architect’s Handbook: Become a successful software architect by implementing effective architecture concepts](https://www.amazon.com/Software-Architects-Handbook-implementing-architecture-ebook/dp/B07B3R2ZCX/)
 - [Solutions Architect's Handbook: Kick-start your solutions architect career by learning architecture design principles and strategies](https://www.amazon.com/Solutions-Architects-Handbook-Kick-start-architecture-ebook/dp/B0855XQZ44)
 
+## Engineering Blogs
+
+- [Uber](https://eng.uber.com)
+- [Twitter](https://blog.twitter.com/engineering/en_us.html)
+- [Netflix Engineering Blog](https://netflixtechblog.com/?gi=133ebc0bdafe)
+- [Netflix Architecture Blog](https://netflixtechblog.com/tagged/architecture)
+- [Spotify Engineering Blog](https://engineering.atspotify.com)
+- [Amazon](https://aws.amazon.com/blogs/aws/)
+- [Amazon Architecture blog](https://aws.amazon.com/blogs/architecture/)
+- [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
