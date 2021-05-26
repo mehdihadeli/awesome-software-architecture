@@ -26,6 +26,11 @@
 - [How to Build an Event-Driven ASP.NET Core Microservice Architecture](https://itnext.io/how-to-build-an-event-driven-asp-net-core-microservice-architecture-e0ef2976f33f)
 - [Building an Event Driven .NET Application: The Fundamentals](https://wrapt.dev/blog/building-an-event-driven-dotnet-application-the-fundamentals)
 - [Building an Event Driven .NET Application: Setting Up MassTransit and RabbitMQ](https://wrapt.dev/blog/building-an-event-driven-dotnet-application-setting-up-masstransit-and-rabbitmq)
+- [The Engineers Guide to Event-Driven Architectures: Benefits and Challenges](https://medium.com/swlh/the-engineers-guide-to-event-driven-architectures-benefits-and-challenges-3e96ded8568b)
+- [The event notification pattern](https://medium.com/geekculture/the-event-notification-pattern-a62d48519107)
+- [The 6 Things You Need to Know About Event-Driven Architectures](https://medium.com/swlh/the-6-things-you-need-to-know-about-event-driven-architectures-38e11fdcb5a)
+
+
 ## 📺 Videos
 
 - [Event-Driven Architecture | EDA | Software Architectural Patterns](https://www.youtube.com/watch?v=gIL8rW_eyww&t=0s) 

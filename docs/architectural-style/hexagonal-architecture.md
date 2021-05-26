@@ -31,6 +31,7 @@
 ## 📺 Videos
 
 - [Chris Fidao - Hexagonal Architecture](https://www.youtube.com/watch?v=6SBjKOwVq0o)
+- [Hexagonal Architecture in 10 min](https://www.youtube.com/watch?v=NmD82RAMZ68)
 
 ## 🚀 Samples
 
