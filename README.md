@@ -24,7 +24,7 @@ Thanks a bunch for supporting me!
 
 [tweet]: https://twitter.com/intent/tweet?url=https://github.com/mehdihadeli/awesome-software-architecture&text=A%20curated%20list%20of%20awesome%20articles%20and%20resources%20to%20learn%20and%20practice%20about%20software%20architecture%2C%20patterns%2C%20and%20principles&hashtags=dotnetcore,dotnet,csharp,microservices,netcore,aspnetcore,ddd,cqrs,softwarearchitecture,designpatterns,modularmonolith
 
-<!-- ## Contents
+## Contents
 
 - [Anti Patterns](docs/anti-patterns/index.md)
 - [Architectural Design Principles](docs/architectural-design-principles/index.md)
@@ -49,10 +49,10 @@ Thanks a bunch for supporting me!
 - [Refactoring](docs/refactoring.md)
 - [RESTful API Design](docs/rest.md)
 - [Scalable Software Architecture](docs/scalable-software-architecture.md)
-- [Software Architecture](docs/software-architecture.md) -->
-
+- [Software Architecture](docs/software-architecture.md)
 
 ## Contribution
+
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/contributing.md) pages first.
 
 Thanks to all [contributors](https://github.com/mehdihadeli/awesome-software-architecture/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
