@@ -27,6 +27,7 @@
 - [Hexagonal Architecture by example - a hands-on introduction](https://blog.allegro.tech/2020/05/hexagonal-architecture-by-example.html)
 - [Another story about microservices: Hexagonal Architecture](https://medium.com/sciforce/another-story-about-microservices-hexagonal-architecture-23db93fa52a2)
 - [A Color Coded Guide to Ports and Adapters](https://8thlight.com/blog/damon-kelley/2021/05/18/a-color-coded-guide-to-ports-and-adapters.html)
+- [Let’s learn Hexagonal Architecture!](https://sketchingdev.co.uk/blog/lets-learn-hexagonal-architecture.html)
 
 ## 📺 Videos
 
@@ -40,6 +41,7 @@
 - [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) - Clean Architecture with .NET5, C#9 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks
 - [CanerPatir/aspnet-core-clean-arch](https://github.com/CanerPatir/aspnet-core-clean-arch) - It is a clean architecture project template which is based on hexagonal-architecture principles built with .Net core.
 - [Lunch-box/SimpleOrderRouting](https://github.com/Lunch-box/SimpleOrderRouting) - Prototype of a Smart Order Routing system (finance). The opportunity for a mob of Lunch-boxers, to explore various technical approaches in reactive programming.
+- [SketchingDev/hexagonal-lambda](https://github.com/SketchingDev/hexagonal-lambda) - NodeJS project demonstrating an AWS Lambda using Hexagonal architecture.
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
