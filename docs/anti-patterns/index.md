@@ -1,4 +1,5 @@
 - [Anti Patterns](anti-patterns.md)
+  - [Anemic Domain Model](../../architectural-patterns/domain-driven-design/anemic-domain-model.md) 
   - [Big Ball of Mud](big-ball-of-mud.md)
   - [Code Smells](code-smells.md)
   - [God Object](god-object.md)
