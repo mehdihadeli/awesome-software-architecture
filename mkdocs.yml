@@ -62,21 +62,23 @@ nav:
   - Component Based Architecture: architectural-style/component-based-architecture.md
 - Architectural Design Principles: 
   - Architectural Design Principles: architectural-design-principles/architectural-design-principles.md
-  - Crosscutting Concerns: architectural-design-principles/crosscutting-concerns.md
-  - Encapsulation: architectural-design-principles/encapsulation.md
-  - Dependency Inversion: architectural-design-principles/dependency-inversion.md
-  - Interface Segregation Principle: architectural-design-principles/interface-segregation-principle.md
-  - Single Responsibility: architectural-design-principles/single-responsibility-principle.md
-  - Open/Closed Principle: architectural-design-principles/open-closed-principle.md
-  - Command Query Separation: architectural-design-principles/cqs.md
-  - Favor Composition over Inheritance: architectural-design-principles/favor-composition-over-inheritance.md
-  - DRY: architectural-design-principles/dry.md
-  - KISS: architectural-design-principles/kiss.md
-  - YAGNI: architectural-design-principles/yagni.md
-  - Coupling: architectural-design-principles/coupling.md
   - Cohesion: architectural-design-principles/cohesion.md
-  - Persistence Ignorance: architectural-design-principles/persistence-ignorance.md
+  - Command Query Separation - CQS: architectural-design-principles/cqs.md
+  - Coupling: architectural-design-principles/coupling.md
+  - Crosscutting Concerns: architectural-design-principles/crosscutting-concerns.md
+  - Dependency Inversion: architectural-design-principles/dependency-inversion.md
+  - Don't Repeat Yourself - DRY: architectural-design-principles/dry.md
+  - Encapsulation: architectural-design-principles/encapsulation.md
+  - Fail-Fast: architectural-design-principles/fail-fast.md
+  - Favor Composition over Inheritance: architectural-design-principles/favor-composition-over-inheritance.md
   - GRASP: architectural-design-principles/grasp.md
+  - Interface Segregation: architectural-design-principles/interface-segregation.md
+  - Keep It Simple - KISS: architectural-design-principles/kiss.md
+  - Open/Closed Principle: architectural-design-principles/open-closed-principle.md
+  - Persistence Ignorance: architectural-design-principles/persistence-ignorance.md
+  - Single Responsibility: architectural-design-principles/single-responsibility.md
+  - SOLID: architectural-design-principles/solid.md
+  - YAGNI: architectural-design-principles/yagni.md
 - Architectural Patterns: 
   - Architectural Patterns: architectural-patterns/architectural-patterns.md
   - Domain Driven Design - Domain Centric: 
@@ -84,6 +86,7 @@ nav:
     - Aggregation: architectural-patterns/domain-driven-design/aggregation.md
     - Anemic Domain Model: architectural-patterns/domain-driven-design/anemic-domain-model.md
     - Application Service: architectural-patterns/domain-driven-design/application-service.md
+    - Anti Corruption Layer: cloud-design-patterns/anti-corruption-layer-pattern.md
     - Bounded Context: architectural-patterns/domain-driven-design/bounded-context.md
     - Domain Events: architectural-patterns/domain-driven-design/domain-events.md
     - Domain Primitives: architectural-patterns/domain-driven-design/domain-primitives.md
@@ -92,6 +95,7 @@ nav:
     - Exception And Validation: architectural-patterns/domain-driven-design/exception-and-validation.md
     - Infrastructure: architectural-patterns/domain-driven-design/infrastructure.md
     - Mapping: architectural-patterns/domain-driven-design/mapping.md
+    - Persistence Ignorance: architectural-design-principles/persistence-ignorance.md
     - Strategic Design Patterns: architectural-patterns/domain-driven-design/strategic-design-patterns.md
     - Tactical Design Patterns: architectural-patterns/domain-driven-design/tactical-design-patterns.md
     - Value Objects: architectural-patterns/domain-driven-design/value-objects.md
@@ -203,7 +207,10 @@ nav:
   - Thin Controllers: design-best-practices/thin-controllers.md
 - Anti Patterns: 
   - Anti Patterns: anti-patterns/anti-patterns.md
+  - Big Ball of Mud: anti-patterns/big-ball-of-mud.md
   - Code Smells: anti-patterns/code-smells.md
+  - Partial/Optional Object: anti-patterns/partial-object.md
+  - Static Cling: anti-patterns/static-cling.md
 - Eventual Consistency: eventual-consistency.md
 - Messaging Patterns:
   - Messaging Patterns: messaging/messaging.md

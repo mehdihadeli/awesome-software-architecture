@@ -1,2 +1,5 @@
 - [Anti Patterns](anti-patterns.md)
+  - [Big Ball of Mud](big-ball-of-mud.md)
   - [Code Smells](code-smells.md)
+  - [Static Cling](static-cling.md)
+  - [Partial/Optional Object](partial-object.md)
