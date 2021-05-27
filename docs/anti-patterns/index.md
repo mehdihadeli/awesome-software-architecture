@@ -1,2 +1,3 @@
 - [Anti Patterns](anti-patterns.md)
   - [Code Smells](code-smells.md)
+  - [Anemic Domain Model](https://www.martinfowler.com/bliki/AnemicDomainModel.html)
