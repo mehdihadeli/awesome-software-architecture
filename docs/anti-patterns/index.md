@@ -1,3 +1,4 @@
 - [Anti Patterns](anti-patterns.md)
   - [Code Smells](code-smells.md)
   - [Anemic Domain Model](https://www.martinfowler.com/bliki/AnemicDomainModel.html)
+  - [God Class or God Object](https://medium.com/@carlos.ariel.mamani/the-god-object-or-god-class-anti-pattern-bfb8c15eb513)
