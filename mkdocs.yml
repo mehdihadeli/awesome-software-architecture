@@ -209,6 +209,7 @@ nav:
   - Big Ball of Mud: anti-patterns/big-ball-of-mud.md
   - Code Smells: anti-patterns/code-smells.md
   - Partial/Optional Object: anti-patterns/partial-object.md
+  - God Object: anti-patterns/god-object.md
   - Static Cling: anti-patterns/static-cling.md
 - Eventual Consistency: eventual-consistency.md
 - Messaging Patterns:
