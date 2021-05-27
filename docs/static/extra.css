@@ -3,7 +3,7 @@ selectors. */
 
 body {
   margin: 0px;
-  background-color:rgb(240,240,240;
+  background-color:rgb(240,240,240);
   font-family: arial, sans-serif;
   font-size: 14px;
 }
@@ -15,8 +15,20 @@ h1 {
   margin-top: 0px;
 }
 
+.md-content {
+  margin-left: 14.1rem;
+}
+
+.md-sidebar {
+  position: absolute;
+  width: 14.1rem;
+  padding: 1.2rem 0;
+  overflow: hidden;
+}
+
 /* Applies to all elements with <... class="someclass"> specified. */
 .someclass { color: red; }
 
 /* Applies to the element with <... id="someid"> specified. */
 #someid { color: green; }
+
