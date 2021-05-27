@@ -1,4 +1,4 @@
-#  Anti Corruption Layer Pattern
+#  Anti Corruption Layer 
 
 ## 📕 Articles
 
