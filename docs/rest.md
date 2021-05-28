@@ -4,6 +4,7 @@
 
 - [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
 - [Design Guidelines](http://apistylebook.com/design/guidelines/)
+- [REST API Naming Conventions](https://restfulapi.net/resource-naming/)
 - [Web API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 - [Richardson Maturity Model](https://martinfowler.com/articles/richardsonMaturityModel.html)
 - [RESTful API Design: 13 Best Practices to Make Your Users Happy](https://florimond.dev/blog/articles/2018/08/restful-api-design-13-best-practices-to-make-your-users-happy/)
