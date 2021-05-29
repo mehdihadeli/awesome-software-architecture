@@ -42,6 +42,7 @@ Thanks a bunch for supporting me!
 - [Distributed Transactions](docs/distributed-transactions.md)
 - [Event Storming](docs/event-storming.md)
 - [Eventual Consistency](docs/eventual-consistency.md)
+- [Infrastructure As a Code](docs/infrastructure-as-code/index.md)
 - [Messaging Patterns](docs/messaging/messaging.md)
 - [Modeling](docs/modeling/index.md)
 - [Object Oriented Design](docs/object-oriented-design.md)

@@ -80,7 +80,9 @@
 - [networknt/light-4j](https://github.com/networknt/light-4j) - A fast, lightweight and more productive microservices framework
 - [mehdihadeli/MicroBootstrap](https://github.com/mehdihadeli/MicroBootstrap) - MicroBootstrap is a framework with many features for quickly and conveniently creating microservices on .NET Core.
 - [Raiffeisen-DGTL/ViennaNET](https://github.com/Raiffeisen-DGTL/ViennaNET) - Framework for quickly creating enterprise microservices on .NET Core
-
+- [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
+- [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
+- [go-kratos/kratos](https://github.com/go-kratos/kratos) - A Go framework for microservices.
 ## 🚀 Samples
 
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
@@ -102,7 +104,8 @@
 - [profjordanov/realworld-microservices](https://github.com/profjordanov/realworld-microservices) - Microservices based .NET Core backend implementation for RealWorld
 - [mspnp/microservices-reference-implementation](https://github.com/mspnp/microservices-reference-implementation) - A reference implementation demonstrating microservices architecture and best practices for Microsoft Azure
 - [patrikduch/netcore-microservices](https://github.com/patrikduch/netcore-microservices) - Advanced Microservices Architecture with NET5 framework
-  
+- [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) - Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
+- [piomin/sample-spring-microservices-new](https://github.com/piomin/sample-spring-microservices-new) - Demo for Spring Boot 2 and Spring Cloud microservices with distributed configuration (Spring Cloud Config), service discovery (Eureka), API gateway (Spring Cloud Gateway, Zuul), Swagger2 API documentation, logs correlation using Spring Cloud Sleuth and many more
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
 - [Building Microservices: Designing Fine-Grained Systems 1st Edition](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)

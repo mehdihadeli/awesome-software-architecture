@@ -54,7 +54,8 @@
 - [Building an Event Driven .NET Application: The Fundamentals](https://wrapt.dev/blog/building-an-event-driven-dotnet-application-the-fundamentals)
 - [Building an Event Driven .NET Application: Setting Up MassTransit and RabbitMQ](https://wrapt.dev/blog/building-an-event-driven-dotnet-application-setting-up-masstransit-and-rabbitmq)
 - [Kafka vs RabbitMQ vs AWS SNS/SQS: Which Broker to Choose?](https://www.aspecto.io/blog/kafka-vs-rabbitmq-vs-aws-sns-sqs-which-broker-to-choose/)
-
+- [Event Pitfalls (and How to Avoid Them)](https://dev.to/peholmst/event-pitfalls-and-how-to-avoid-them-4d31)
+- [Designing Domain Events](https://medium.com/casaone-engineering/designing-domain-events-5efc6e25da52)
 ## 📺 Videos
 
 - [Handling Concurrency with Message-IDs | Event Driven Architecture](https://www.youtube.com/watch?v=wefvl2ohiQc)

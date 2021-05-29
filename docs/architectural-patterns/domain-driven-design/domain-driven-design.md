@@ -43,7 +43,7 @@
 - [10 Lessons from a Long Running DDD Project – Part 1](https://lostechies.com/jimmybogard/2016/06/13/10-lessons-from-a-long-running-ddd-project-part-1/)
 - [10 Lessons from a Long Running DDD Project – Part 2](https://lostechies.com/jimmybogard/2016/06/20/10-lessons-from-a-long-running-ddd-project-part-2/)
 - [DDD revisited](https://lostechies.com/gabrielschenker/2015/04/16/ddd-revisited/)
-
+- [Integrity of Collections in Domain-Driven Design](https://ankitvijay.net/2020/05/10/integrity-of-collections-in-domain-driven-design/)
 ## 📺 Videos
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU)

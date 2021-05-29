@@ -1,7 +1,10 @@
 # RESTful API Design
 
-## 📕 Articles
+## Resources
+- [https://restfulapi.net](https://restfulapi.net)
 
+## 📕 Articles
+- [What is REST](https://restfulapi.net)
 - [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
 - [Design Guidelines](http://apistylebook.com/design/guidelines/)
 - [REST API Naming Conventions](https://restfulapi.net/resource-naming/)
@@ -14,6 +17,20 @@
 - [Design Topics](http://apistylebook.com/design/topics/)
 - [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/3.0.2.md)
 - [REST lessons learned](https://blog.ploeh.dk/2013/04/29/rest-lessons-learned/)
+- [REST Architectural Constraints](https://restfulapi.net/rest-architectural-constraints/)
+- [Caching REST API Response](https://restfulapi.net/caching/)
+- [REST Resource Representation Compression](https://restfulapi.net/rest-resource-compression/)
+- [Content Negotiation in REST APIs](https://restfulapi.net/content-negotiation/)
+- [HATEOAS Driven REST APIs](https://restfulapi.net/hateoas/)
+- [Idempotent REST APIs](https://restfulapi.net/idempotent-rest-apis/)
+- [REST API Security Essentials](https://restfulapi.net/security-essentials/)
+- [REST API Versioning](https://restfulapi.net/versioning/)
+- [Statelessness in REST APIs](https://restfulapi.net/statelessness/)
+- [Comparing SOAP vs REST APIs](https://restfulapi.net/soap-vs-rest-apis/)
+- [HTTP Methods](https://restfulapi.net/http-methods/)
+- [HTTP Status Codes](https://restfulapi.net/http-status-codes/)
+- [What is an API?](https://restfulapi.net/what-is-an-api/)
+- [REST – PUT vs POST](https://restfulapi.net/rest-put-vs-post/)
   <div align="right">
     <b><a href="#contents">↥ Back To Top</a></b>
   </div>

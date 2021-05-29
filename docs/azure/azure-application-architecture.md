@@ -2,8 +2,8 @@
 # Azure Application Architecture
 
 ## 📘 Resources
-
-- [https://dotnet.microsoft.com/learn/azure/architecture](https://dotnet.microsoft.com/learn/azure/architecture)
+- [Azure Docs](docs.microsoft.com/en-us/azure)
+- [Azure Learn](https://dotnet.microsoft.com/learn/azure/architecture)
 - [The Azure Kubernetes Service (AKS) Architecture Map](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/the-azure-kubernetes-service-aks-architecture-map/ba-p/1078714)
 - [The Cloud-native Azure Application Architect Map](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/the-cloud-native-azure-application-architect-map/ba-p/812242)
 - [The Azure Infrastructure Architect Map](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/the-azure-infrastructure-architect-map/ba-p/766268)

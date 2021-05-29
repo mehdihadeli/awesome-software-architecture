@@ -248,6 +248,9 @@ nav:
   - Tools: modeling/tools.md
   - Use Case Diagram: modeling/use-case-diagram.md
 - Event Storming: event-storming.md
+- Infrastructure As a Code:
+  - Infrastructure As a Code: infrastructure-as-code/infrastructure-as-code.md
+  - Pulumi: infrastructure-as-code/pulumi.md
 - Engineering Blogs: engineering-blogs.md
 - Others: others.md
 
