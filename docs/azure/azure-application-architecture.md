@@ -18,9 +18,8 @@
 
 ## 🚀 Samples
 
-- [https://github.com/Daniel-Krzyczkowski/MicrosoftAzure](https://github.com/Daniel-Krzyczkowski/MicrosoftAzure) 
-  > Microsoft Azure code samples.
-
+- [https://github.com/Daniel-Krzyczkowski/MicrosoftAzure](https://github.com/Daniel-Krzyczkowski/MicrosoftAzure) - Microsoft Azure code samples.
+- [Daniel-Krzyczkowski/Cars-Island-On-Azure](https://github.com/Daniel-Krzyczkowski/Cars-Island-On-Azure) - Cars Island is a fake car rental company which used Microsoft Azure cloud services to implement the system for managing car renting.
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

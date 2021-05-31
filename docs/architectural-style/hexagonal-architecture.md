@@ -42,7 +42,7 @@
 - [CanerPatir/aspnet-core-clean-arch](https://github.com/CanerPatir/aspnet-core-clean-arch) - It is a clean architecture project template which is based on hexagonal-architecture principles built with .Net core.
 - [Lunch-box/SimpleOrderRouting](https://github.com/Lunch-box/SimpleOrderRouting) - Prototype of a Smart Order Routing system (finance). The opportunity for a mob of Lunch-boxers, to explore various technical approaches in reactive programming.
 - [SketchingDev/hexagonal-lambda](https://github.com/SketchingDev/hexagonal-lambda) - NodeJS project demonstrating an AWS Lambda using Hexagonal architecture.
-
+- [damonkelley/ports-and-adapters-examples](https://github.com/damonkelley/ports-and-adapters-examples) - Ports and Adapters Examples
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
