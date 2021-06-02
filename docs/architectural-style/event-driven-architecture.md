@@ -45,7 +45,7 @@
 - [Creating event-driven microservices: the why, how and what by Andrew Schofield](https://www.youtube.com/watch?v=ksRCq0BJef8)
 - [What's an Event Driven System?](https://www.youtube.com/watch?v=rJHTK2TfZ1I)
 - [Event Based Architecture: What do you mean by EVENT?](https://www.youtube.com/watch?v=qKD2YUTJAXM)
-
+- [Event Driven Architecture for Real-Time Web](https://www.youtube.com/watch?v=Tu1GEIhkIqU)
 
 
   <div align="right">

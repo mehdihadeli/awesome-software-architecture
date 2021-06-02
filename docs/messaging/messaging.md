@@ -70,6 +70,8 @@
 - [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
 - [On .NET Live - Messaging Patterns for .NET Developers](https://www.youtube.com/watch?v=ef1DK76rseM)
 - [Competing Consumers Pattern for Scalability | Message Queues](https://www.youtube.com/watch?v=xv6Ljbq6me8)
+- [Event Driven Architecture for Real-Time Web](https://www.youtube.com/watch?v=Tu1GEIhkIqU)
+- [Learnings from Running 1000s of Production RabbitMQ Clusters • Lovisa Johansson • RabbitMQ Summit](https://www.youtube.com/watch?v=nxQrpLfX3rs)
 ## 📦 Libraries
 
 - [Enexure.MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - MicroBus is a simple in process Mediator for .NET
