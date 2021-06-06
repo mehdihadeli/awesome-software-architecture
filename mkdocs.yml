@@ -229,7 +229,6 @@ nav:
 - Refactoring: refactoring.md
 - Azure Application Architecture:
   - Azure Application Architecture: azure/azure-application-architecture.md
-  - Azure Active Directory: azure/azure-active-directory.md
   - Azure API Management: azure/azure-api-management.md
   - Azure App Service: azure/azure-app-service.md
   - Azure Functions / Azure Serverless: azure/azure-functions.md
@@ -244,7 +243,6 @@ nav:
     - Azure Queue: azure/azure-queue.md
     - Azure Service Bus: azure/azure-service-bus.md
   - Azure Resource Manager (ARM): azure/azure-resource-manager.md
-  - Azure Service Bus: azure/azure-service-bus.md
   - Azure Sequrity: 
     - Azure Sequrity: azure/azure-security/azure-security.md
     - Azure Active Directory (Azure AD): azure/azure-active-directory.md
@@ -253,7 +251,6 @@ nav:
   - Azure SQL: azure/azure-sql.md
   - Azure Storage: azure/azure-storage.md
   - Azure Template: azure/azure-template.md
-  - Azure Identity: azure/azure-identity.md
 - Modeling: 
   - Modeling: modeling/modeling.md
   - Architecture Diagram: modeling/architecture-diagram.md

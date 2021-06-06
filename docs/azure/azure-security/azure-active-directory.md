@@ -1,7 +1,7 @@
 	
 # Azure Active Directory (Azure AD)
 
-## Resources
+## 📘 Resources
 - [AZ-104: Manage identities and governance in Azure](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-identities-governance/)
 - [Secure your cloud applications in Azure](https://docs.microsoft.com/en-us/learn/paths/secure-your-cloud-apps/)
 - [Manage identity and access in Azure Active Directory](https://docs.microsoft.com/en-us/learn/paths/manage-identity-and-access/)

@@ -1,7 +1,7 @@
 
 # Azure Resource Manager (ARM)
 
-## Resources
+## 📘 Resources
 - [Deploy and manage resources in Azure by using ARM templates](https://docs.microsoft.com/en-us/learn/paths/deploy-manage-resource-manager-templates/)
 - [Architect infrastructure operations in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-infrastructure-operations/)
 - [Implement resource management security in Azure](https://docs.microsoft.com/en-us/learn/paths/implement-resource-mgmt-security/)

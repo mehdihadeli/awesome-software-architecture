@@ -1,6 +1,6 @@
 # Load Balancing
 
-## Resources
+## 📘 Resources
 
 - [Improve application scalability and resiliency by using Azure Load Balancer](https://docs.microsoft.com/en-us/learn/modules/improve-app-scalability-resiliency-with-load-balancer/)
 - [Load balance your web service traffic with Application Gateway](https://docs.microsoft.com/en-us/learn/modules/load-balance-web-traffic-with-application-gateway/)

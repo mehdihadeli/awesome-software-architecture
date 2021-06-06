@@ -1,6 +1,6 @@
 # Azure App Service
 
-## Resources
+## 📘 Resources
 - [Deploy a website to Azure with Azure App Service](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-app-service/)
 - [Migrate ASP.NET Apps to Azure](https://docs.microsoft.com/en-us/learn/paths/migrate-dotnet-apps-azure/)
 - [Architect modern applications in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-modern-apps/)

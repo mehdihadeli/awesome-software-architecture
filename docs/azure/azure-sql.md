@@ -1,6 +1,6 @@
 # Azure SQL
 
-## Resources
+## 📘 Resources
 - [Azure SQL fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-sql-fundamentals/)
 - [Optimize query performance in SQL Server](https://docs.microsoft.com/en-us/learn/paths/optimize-query-performance-sql-server/)
 - [Azure Database for PostgreSQL](https://docs.microsoft.com/en-us/learn/paths/introduction-to-azure-postgres/)

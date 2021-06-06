@@ -1,6 +1,6 @@
 # Azure Security
 
-## Resources
+## 📘 Resources
 - [Secure your cloud data](https://docs.microsoft.com/en-us/learn/paths/secure-your-cloud-data/)
 - [Secure your cloud applications in Azure](https://docs.microsoft.com/en-us/learn/paths/secure-your-cloud-apps/)
 - [Manage security operations in Azure](https://docs.microsoft.com/en-us/learn/paths/manage-security-operations/)

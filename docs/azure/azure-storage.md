@@ -1,6 +1,6 @@
 # Azure Storage
 
-## Resources
+## 📘 Resources
 
 - [Store data in Azure](https://docs.microsoft.com/en-us/learn/paths/store-data-in-azure/)
 - [Architect storage infrastructure in Azure](https://docs.microsoft.com/en-us/learn/paths/architect-storage-infrastructure/)

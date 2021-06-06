@@ -1,5 +1,4 @@
 - [Azure Application Architecture](azure-application-architecture.md)
-  - [Azure Active Directory](azure-active-directory.md)
   - [Azure API Management](azure-api-management.md)
   - [Azure App Service](azure-app-service.md)
   - [Azure Functions / Azure Serverless](azure-functions.md)
@@ -13,7 +12,6 @@
 	- [Azure Queue](azure-queue.md)
 	- [Azure Service Bus](azure-service-bus.md)
   - [Azure Resource Manager (ARM)](azure-resource-manager.md)
-  - [Azure Service Bus](azure-service-bus.md)
   - [Azure Sequrity](azure-security/azure-security.md)
     - [Azure Active Directory (Azure AD)](azure-active-directory.md)
 	- [Azure Identity](azure-identity.md)
@@ -21,4 +19,3 @@
   - [Azure SQL](azure-sql.md)
   - [Azure Storage](azure-storage.md)
   - [Azure Template](azure-template.md)
-  - [Azure Identity](azure-identity.md)

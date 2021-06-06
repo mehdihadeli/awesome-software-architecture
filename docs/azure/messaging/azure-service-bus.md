@@ -1,7 +1,7 @@
 
 # Azure Service Bus
 
-## Resources
+## 📘 Resources
 - [Connect your services together](https://docs.microsoft.com/en-us/learn/paths/connect-your-services-together/)
 
 ## 📕 Articles

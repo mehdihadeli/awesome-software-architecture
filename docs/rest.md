@@ -1,6 +1,6 @@
 # RESTful API Design
 
-## Resources
+## 📘 Resources
 - [https://restfulapi.net](https://restfulapi.net)
 
 ## 📕 Articles

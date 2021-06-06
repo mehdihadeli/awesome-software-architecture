@@ -1,7 +1,7 @@
 
 # Azure Functions / Azure Serverless
 
-## Resources
+## 📘 Resources
 - [Create serverless applications](https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications/)
 
 ## 📕 Articles
