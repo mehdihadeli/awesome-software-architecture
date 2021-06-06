@@ -17,6 +17,6 @@
 ## 📺 Videos
 - [#8 e-Meetup | Jimmy Bogard - Distributed Tracing Made Easy with .NET Core and OpenTelemetry](https://www.youtube.com/watch?v=s9UNr1oEMl4)
 
-## Libraries
+## 📦 Libraries
 
 - [open-telemetry/opentelemetry-dotnet](https://github.com/open-telemetry/opentelemetry-dotnet) - The OpenTelemetry .NET Client

@@ -9,7 +9,7 @@
 - [Simplicity matters: Kubernetes 1.18.2 on your local machine with kubeadm and Multipass, Rancher k3s, RKE](https://blog.kubernauts.io/simplicity-matters-kubernetes-1-16-fffbf7e84944)
 - [Kubernetes multi-node cluster with k3s and multipass](https://levelup.gitconnected.com/kubernetes-cluster-with-k3s-and-multipass-7532361affa3)
 - [Bare-metal Kubernetes with K3s](https://blog.alexellis.io/bare-metal-kubernetes-with-k3s/)
-## Samples
+## 🚀 Samples
 
 - [arashkaffamanesh/bonsai](https://github.com/arashkaffamanesh/bonsai) - Rancher k3s and Rancher Server on Multipass VMs on your local machine and RKE cluster deployment through Rancher server running on k3s
 - [arashkaffamanesh/kubeadm-multipass](https://github.com/arashkaffamanesh/kubeadm-multipass) - Multi-Node Kubernetes 1.17.x with kubeadm on local multipass cloud with Docker, Containerd or CRI-O and Rancher Server on top
