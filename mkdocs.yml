@@ -103,7 +103,7 @@ nav:
   - Microservices: 
     - Microservices: architectural-patterns/microservices/microservices.md
     - Distributed Tracing: architectural-patterns/microservices/distributed-tracing.md
-    - Observibility: architectural-patterns/microservices/observibility.md)
+    - Observibility: architectural-patterns/microservices/observibility.md
     - Reverse Proxy:
       - Reverse Proxy: architectural-patterns/microservices/reverse-proxy/revers-proxy.md
       - YARP: architectural-patterns/microservices/reverse-proxy/yarp.md
@@ -111,6 +111,7 @@ nav:
     - Service Discovery:
       - Service Discovery: architectural-patterns/microservices/service-discovery/service-discovery.md
       - Consul: architectural-patterns/microservices/service-discovery/consul.md
+    - Testing: architectural-patterns/microservices/testing.md
     - Tools: 
       - Tools: architectural-patterns/microservices/tools/tools.md
       - Dapr: architectural-patterns/microservices/tools/dapr.md
@@ -205,7 +206,7 @@ nav:
   - Thin Controllers: design-best-practices/thin-controllers.md
 - Anti Patterns: 
   - Anti Patterns: anti-patterns/anti-patterns.md
-  - Anemic Domain Model: architectural-patterns/domain-driven-design/anemic-domain-model.md)
+  - Anemic Domain Model: architectural-patterns/domain-driven-design/anemic-domain-model.md
   - Big Ball of Mud: anti-patterns/big-ball-of-mud.md
   - Code Smells: anti-patterns/code-smells.md
   - Partial/Optional Object: anti-patterns/partial-object.md
@@ -226,11 +227,31 @@ nav:
 - Aspect Oriented Programming: aop.md
 - Packaging: packaging.md
 - Refactoring: refactoring.md
-- Azure Application Architecture: 
+- Azure Application Architecture:
   - Azure Application Architecture: azure/azure-application-architecture.md
   - Azure Active Directory: azure/azure-active-directory.md
-  - Azure Functions: azure/azure-functions.md
+  - Azure API Management: azure/azure-api-management.md
+  - Azure App Service: azure/azure-app-service.md
+  - Azure Functions / Azure Serverless: azure/azure-functions.md
+  - Azure Kubernetes Service (AKS): azure/aks.md
+  - Azure Load Balancing: azure/azure-load-balancing.md
+  - Azure Logic App: azure/azure-logic-app.md
+  - Azure No SQL: azure/azure-nosql.md
+  - Azure Messaging:
+    - Azure Messaging: azure/messaging/messaging.md
+    - Azure Event Grid: azure/azure-event-grid.md
+    - Azure Event Hub: azure/azure-event-hub.md
+    - Azure Queue: azure/azure-queue.md
+    - Azure Service Bus: azure/azure-service-bus.md
+  - Azure Resource Manager (ARM): azure/azure-resource-manager.md
   - Azure Service Bus: azure/azure-service-bus.md
+  - Azure Sequrity: 
+    - Azure Sequrity: azure/azure-security/azure-security.md
+    - Azure Active Directory (Azure AD): azure/azure-active-directory.md
+    - Azure Identity: azure/azure-identity.md
+    - Azure Key Vault: azure/azure-key-vault.md
+  - Azure SQL: azure/azure-sql.md
+  - Azure Storage: azure/azure-storage.md
   - Azure Template: azure/azure-template.md
   - Azure Identity: azure/azure-identity.md
 - Modeling: 

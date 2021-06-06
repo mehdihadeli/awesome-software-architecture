@@ -20,7 +20,7 @@
 - [Representing a collection as a Value Object](https://enterprisecraftsmanship.com/posts/representing-collection-as-value-object/)
 - [Entity vs Value Object: the ultimate list of differences](https://enterprisecraftsmanship.com/posts/entity-vs-value-object-the-ultimate-list-of-differences/)
 - [C# 9: Value Objects and Simpler Code](https://visualstudiomagazine.com/articles/2021/04/07/csharp-9.aspx)
-
+- [Nulls in Value Objects](https://enterprisecraftsmanship.com/posts/nulls-in-value-objects/)
 ## 📺 Videos
 
 - [Treating Primitive Obsession with ValueObjects | DDD in .NET](https://www.youtube.com/watch?v=h4uldNA1JUE)

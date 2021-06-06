@@ -1,6 +1,9 @@
 
 # Azure Service Bus
 
+## Resources
+- [Connect your services together](https://docs.microsoft.com/en-us/learn/paths/connect-your-services-together/)
+
 ## 📕 Articles
 
 - [Asynchronous messaging with Azure Service Bus](https://daniel-krzyczkowski.github.io/Asynchronous-Messaging-With-Azure-Service-Bus/)

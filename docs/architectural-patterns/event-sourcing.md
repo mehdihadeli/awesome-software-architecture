@@ -21,7 +21,7 @@
 - [Event Sourcing Examined Part 3 Of 3](https://dasith.me/2017/08/02/event-sourcing-examined-part-3-of-3/)
 - [Beginner's Guide to Event Sourcing | Event Store](https://www.eventstore.com/event-sourcing)
 - [Snapshots in Event Sourcing](https://www.eventstore.com/blog/snapshots-in-event-sourcing)
-
+- [Eventsourcing Patterns: Forgettable Payloads](https://verraes.net/2019/05/eventsourcing-patterns-forgettable-payloads/)
 ## 📺 Videos
 
 - [Event Sourcing Example & Explained in plain English](https://www.youtube.com/watch?v=AUj4M-st3ic)

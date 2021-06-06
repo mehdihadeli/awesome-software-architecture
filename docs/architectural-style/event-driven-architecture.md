@@ -46,7 +46,11 @@
 - [What's an Event Driven System?](https://www.youtube.com/watch?v=rJHTK2TfZ1I)
 - [Event Based Architecture: What do you mean by EVENT?](https://www.youtube.com/watch?v=qKD2YUTJAXM)
 - [Event Driven Architecture for Real-Time Web](https://www.youtube.com/watch?v=Tu1GEIhkIqU)
+- [What is Event Driven Architecture? (EDA - part 1)](https://www.youtube.com/watch?v=DQ5Cbt8DQbM)
+- [The Saga Pattern in Microservices (EDA - part 2)](https://www.youtube.com/watch?v=C0rGwyJkDTU)
 
+## Books
+- [Designing Event-Driven Systems](https://www.confluent.io/designing-event-driven-systems/)
 
   <div align="right">
     <b><a href="#contents">↥ Back To Top</a></b>

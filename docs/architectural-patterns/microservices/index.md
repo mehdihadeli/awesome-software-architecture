@@ -15,6 +15,7 @@
     - [Vault](security/vault.md)
   - [Service Discovery](../../cloud-native/service-discovery/service-discovery.md)
   - [Service Mesh](../../cloud-native/service-mesh/service-mesh.md)
+  - [Testing](testing.md)
   - [Tools](tools/tools.md)
     - [Dapr](tools/dapr.md)
     - [SteelToe](tools/steeltoe.md)

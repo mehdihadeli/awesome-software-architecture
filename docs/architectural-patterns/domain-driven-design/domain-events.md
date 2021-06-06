@@ -16,7 +16,11 @@
 - [DDD and Messaging Architectures](https://verraes.net/2019/05/ddd-msg-arch/) 
 - [Domain events: simple and reliable solution](https://enterprisecraftsmanship.com/posts/domain-events-simple-reliable-solution/) 
 - [Domain Events Pattern Example](https://tonytruong.net/domain-events-pattern-example)
+- [Domain Events](https://verraes.net/2014/11/domain-events/)
+- [Patterns for Decoupling in Distributed Systems: Explicit Public Events](http://verraes.net/2019/05/patterns-for-decoupling-distsys-explicit-public-events/)
 
+## Videos
+- [GOTO 2019 • Temporal Modelling • Mathias Verraes](https://www.youtube.com/watch?v=KNqOWT0lOYY)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

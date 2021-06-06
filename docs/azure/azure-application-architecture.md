@@ -2,6 +2,11 @@
 # Azure Application Architecture
 
 ## 📘 Resources
+- [Azure Fundamentals part 1: Describe core Azure concepts](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
+- [Azure Fundamentals part 2: Describe core Azure services](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-azure-services/)
+- [Azure Fundamentals part 3: Describe core solutions and management tools on Azure](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-solutions-management-tools-azure/)
+- [Azure Fundamentals part 4: Describe general security and network security features](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-general-security-network-security-features/)
+- [Azure Fundamentals part 5: Describe identity, governance, privacy, and compliance features](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-identity-governance-privacy-compliance-features/)
 - [Azure Docs](docs.microsoft.com/en-us/azure)
 - [Azure Learn](https://dotnet.microsoft.com/learn/azure/architecture)
 - [The Azure Kubernetes Service (AKS) Architecture Map](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/the-azure-kubernetes-service-aks-architecture-map/ba-p/1078714)
@@ -11,6 +16,8 @@
 - [The Azure Security Architect Map](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/the-azure-security-architect-map/ba-p/714091)
 - [microsoft/azuretipsandtricks](https://github.com/microsoft/azuretipsandtricks) - Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to become more productive with Azure. Star the repo now to shave hours off your coding tasks tomorrow.
 - [ddneves/awesome-azure-learning](https://github.com/ddneves/awesome-azure-learning)
+- [Microsoft Certified: Azure Developer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/)
+
 ## 📕 Articles
 
 - [Cars Island Car Rental on the Azure cloud - part 1](https://daniel-krzyczkowski.github.io/Cars-Island-Car-Rental-On-Azure-Cloud/)
@@ -18,8 +25,14 @@
 
 ## 🚀 Samples
 
-- [https://github.com/Daniel-Krzyczkowski/MicrosoftAzure](https://github.com/Daniel-Krzyczkowski/MicrosoftAzure) - Microsoft Azure code samples.
+- [Daniel-Krzyczkowski/MicrosoftAzure](https://github.com/Daniel-Krzyczkowski/MicrosoftAzure) - Microsoft Azure code samples.
 - [Daniel-Krzyczkowski/Cars-Island-On-Azure](https://github.com/Daniel-Krzyczkowski/Cars-Island-On-Azure) - Cars Island is a fake car rental company which used Microsoft Azure cloud services to implement the system for managing car renting.
+
+## Libraries
+- [Azure/azure-libraries-for-net](https://github.com/Azure/azure-libraries-for-net) - Azure libraries for .Net
+
+## Courses
+- [Developing Solutions for Microsoft Azure (AZ-204)](https://www.pluralsight.com/paths/developing-solutions-for-microsoft-azure-az-204)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

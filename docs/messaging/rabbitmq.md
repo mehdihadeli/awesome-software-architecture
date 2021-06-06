@@ -6,7 +6,7 @@
 - [CloudAMQP with .NET Getting started](https://www.cloudamqp.com/docs/dotnet.html)
 - [Introduction using in .NET](https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html)
 - [Introduction to RabbitMQ](https://www.tutlane.com/tutorial/rabbitmq/introduction-to-rabbitmq)
-
+- [RabbitMQ Use cases: Explaining message queues and when to use them](https://www.cloudamqp.com/blog/rabbitmq-use-cases-explaining-message-queues-and-when-to-use-them.html)
 ## 📺 Videos
 - [What is RabbitMQ?](https://youtu.be/7rkeORD4jSw)
 - [RabbitMQ : Message Queues for beginners](https://youtu.be/hfUIWe1tK8E)

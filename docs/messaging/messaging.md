@@ -56,6 +56,8 @@
 - [Kafka vs RabbitMQ vs AWS SNS/SQS: Which Broker to Choose?](https://www.aspecto.io/blog/kafka-vs-rabbitmq-vs-aws-sns-sqs-which-broker-to-choose/)
 - [Event Pitfalls (and How to Avoid Them)](https://dev.to/peholmst/event-pitfalls-and-how-to-avoid-them-4d31)
 - [Designing Domain Events](https://medium.com/casaone-engineering/designing-domain-events-5efc6e25da52)
+- [Competing Consumers Pattern for Scalability](https://codeopinion.com/competing-consumers-pattern-for-scalability/)
+- [Patterns for Decoupling in Distributed Systems: Explicit Public Events](http://verraes.net/2019/05/patterns-for-decoupling-distsys-explicit-public-events/)
 ## 📺 Videos
 
 - [Handling Concurrency with Message-IDs | Event Driven Architecture](https://www.youtube.com/watch?v=wefvl2ohiQc)
@@ -72,6 +74,9 @@
 - [Competing Consumers Pattern for Scalability | Message Queues](https://www.youtube.com/watch?v=xv6Ljbq6me8)
 - [Event Driven Architecture for Real-Time Web](https://www.youtube.com/watch?v=Tu1GEIhkIqU)
 - [Learnings from Running 1000s of Production RabbitMQ Clusters • Lovisa Johansson • RabbitMQ Summit](https://www.youtube.com/watch?v=nxQrpLfX3rs)
+- [What is Event Driven Architecture? (EDA - part 1)](https://www.youtube.com/watch?v=DQ5Cbt8DQbM)
+- [The Saga Pattern in Microservices (EDA - part 2)](https://www.youtube.com/watch?v=C0rGwyJkDTU)
+- [GOTO 2019 • Temporal Modelling • Mathias Verraes](https://www.youtube.com/watch?v=KNqOWT0lOYY)
 ## 📦 Libraries
 
 - [Enexure.MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - MicroBus is a simple in process Mediator for .NET
@@ -114,6 +119,8 @@
 - [zeromq/netmq](https://github.com/zeromq/netmq) - A 100% native C# implementation of ZeroMQ for .NET
 - [zeromq/clrzmq4](https://github.com/zeromq/clrzmq4) - ZeroMQ C# namespace (.NET and mono, Windows, Linux and MacOSX, x86 and amd64)
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
+- [Cysharp/MessagePipe](https://github.com/Cysharp/MessagePipe) - High performance in-memory/distributed messaging pipeline for .NET and Unity.
+- [cfrenzel/Eventfully](https://github.com/cfrenzel/Eventfully) - Lightweight Reliable Messaging Framework using Outbox Pattern / EFCore / AzureServiceBus
 ## 📚 Books
 
 - [Enterprise Integration Patterns](https://amazon.com/o/asin/0321200683/ref=nosim/enterpriseint-20)

@@ -45,6 +45,8 @@
 - [DDD revisited](https://lostechies.com/gabrielschenker/2015/04/16/ddd-revisited/)
 - [Integrity of Collections in Domain-Driven Design](https://ankitvijay.net/2020/05/10/integrity-of-collections-in-domain-driven-design/)
 - [Introduction to DDD Lite: When microservices in Go are not enough](https://threedots.tech/post/ddd-lite-in-go-introduction/)
+- [Domain-Driven Refactoring: Intro](https://jimmybogard.com/domain-driven-refactoring-intro/)
+- [Domain-Driven Design in ASP.NET Core applications](https://enlabsoftware.com/development/domain-driven-design-in-asp-net-core-applications.html)
 ## 📺 Videos
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU)

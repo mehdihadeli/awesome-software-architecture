@@ -31,6 +31,7 @@
 - [HTTP Status Codes](https://restfulapi.net/http-status-codes/)
 - [What is an API?](https://restfulapi.net/what-is-an-api/)
 - [REST – PUT vs POST](https://restfulapi.net/rest-put-vs-post/)
+- [HTTP Status Codes Cheatsheet](https://vishnuch.tech/http-status-codes-cheatsheet)
   <div align="right">
     <b><a href="#contents">↥ Back To Top</a></b>
   </div>
