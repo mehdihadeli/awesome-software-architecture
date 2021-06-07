@@ -45,6 +45,7 @@
 - [Why using Microservices or Monolith can be just a detail?](https://threedots.tech/post/microservices-or-monolith-its-detail/)
 - [Implementing Nanoservices in ASP.NET Core](https://auth0.com/blog/implementing-nanoservices-in-aspnet-core/)
 - [10 Microservices Best Practices for the Optimal Architecture Design](https://medium.com/capital-one-tech/10-microservices-best-practices-for-the-optimal-architecture-design-capital-one-de16abf2a232)
+- [Introduction to DDD Lite: When microservices in Go are not enough](https://threedots.tech/post/ddd-lite-in-go-introduction/)
 ## 📺 Videos
 
 - [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) 
