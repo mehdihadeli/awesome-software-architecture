@@ -58,6 +58,7 @@
 - [Designing Domain Events](https://medium.com/casaone-engineering/designing-domain-events-5efc6e25da52)
 - [Competing Consumers Pattern for Scalability](https://codeopinion.com/competing-consumers-pattern-for-scalability/)
 - [Patterns for Decoupling in Distributed Systems: Explicit Public Events](http://verraes.net/2019/05/patterns-for-decoupling-distsys-explicit-public-events/)
+- [Event immutability and dealing with change](https://www.eventstore.com/blog/event-immutability-and-dealing-with-change)
 ## 📺 Videos
 
 - [Handling Concurrency with Message-IDs | Event Driven Architecture](https://www.youtube.com/watch?v=wefvl2ohiQc)

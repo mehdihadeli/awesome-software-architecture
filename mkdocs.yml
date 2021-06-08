@@ -242,6 +242,7 @@ nav:
     - Azure Event Hub: azure/azure-event-hub.md
     - Azure Queue: azure/azure-queue.md
     - Azure Service Bus: azure/azure-service-bus.md
+    - Azure Web Pub/Sub: azure/azure-web-pub-sub.md
   - Azure Resource Manager (ARM): azure/azure-resource-manager.md
   - Azure Sequrity: 
     - Azure Sequrity: azure/azure-security/azure-security.md

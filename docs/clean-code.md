@@ -19,6 +19,7 @@
 - [Clean code tips - names and functions](https://www.code4it.dev/blog/clean-code-names-and-functions)
 - [101 Design Patterns & Tips for Developers](https://sourcemaking.com/design-patterns-and-tips)
 - [20 Important Tips To Write Clean C# Code – MUST SHARE](https://codewithmukesh.com/blog/write-clean-csharp-code/)
+- [Clean code tip: How to choose meaningful names?](https://www.code4it.dev/cleancodetips/01-choose-meaningful-names)
 ## 📺 Videos
 
 - [9 "rules" for cleaner code | Object Calisthenics](https://www.youtube.com/watch?v=gyrSiY4SHxI)

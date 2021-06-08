@@ -17,6 +17,9 @@
 - [Optimising .NET Core Docker images](https://benfoster.io/blog/optimising-dotnet-docker-images/)
 - [Defining your multi-container application with docker-compose.yml](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/multi-container-applications-docker-compose)
 - [Some useful Docker commands make your life easier](https://dev.to/moesmp/some-useful-docker-command-4ehi)
+- [Deploy a Docker based ASP.NET Core app to Azure](https://www.yogihosting.com/docker-aspnet-core-azure/)
+- [Create first ASP.NET Core App in a Docker Container](https://www.yogihosting.com/docker-aspnet-core-app/)
+- [Multi-Container ASP.NET Core App with Docker Compose](https://www.yogihosting.com/docker-compose-aspnet-core/)
 ## 📹 Videos
 - [Deploy a .NET Core API with Docker (Step-by-Step)](https://www.youtube.com/watch?v=f0lMGPB10bM)
 

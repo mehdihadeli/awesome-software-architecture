@@ -30,8 +30,8 @@
 - [The Engineers Guide to Event-Driven Architectures: Benefits and Challenges](https://medium.com/swlh/the-engineers-guide-to-event-driven-architectures-benefits-and-challenges-3e96ded8568b)
 - [The event notification pattern](https://medium.com/geekculture/the-event-notification-pattern-a62d48519107)
 - [The 6 Things You Need to Know About Event-Driven Architectures](https://medium.com/swlh/the-6-things-you-need-to-know-about-event-driven-architectures-38e11fdcb5a)
-
-
+- [Event-Driven on Azure: Part 1 – Why you should consider an event-driven architecture](https://techcommunity.microsoft.com/t5/apps-on-azure/event-driven-on-azure-part-1-why-you-should-consider-an-event/ba-p/2106983)
+- [Event-Driven on Azure: Part 2 – Architecting event driven applications](https://techcommunity.microsoft.com/t5/apps-on-azure/event-driven-on-azure-part-2-architecting-event-driven/ba-p/2414007)
 ## 📺 Videos
 
 - [Event-Driven Architecture | EDA | Software Architectural Patterns](https://www.youtube.com/watch?v=gIL8rW_eyww&t=0s) 

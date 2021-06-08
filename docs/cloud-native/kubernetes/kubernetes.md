@@ -11,7 +11,11 @@
 - [Kubernetes on bare-metal in 10 minutes](https://blog.alexellis.io/kubernetes-in-10-minutes/)
 - [A Guide to the Kubernetes Networking Model](https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/)
 - [Building Stateful Services with Kubernetes](https://sookocheff.com/post/kubernetes/building-stateful-services/)
-
+- [Kubernetes: Host Multi-Container ASP.NET Core app to Multiple Pods](https://www.yogihosting.com/aspnet-core-kubernetes-multi-pods/)
+- [Managing ASP.NET Core app hosted on Kubernetes](https://www.yogihosting.com/aspnet-core-kubernetes-manage/)
+- [Deploy ASP.NET Core App on Kubernetes](https://www.yogihosting.com/deploy-aspnet-core-app-kubernetes/)
+- [How to use Kubernetes Ingress on an ASP.NET Core app](https://www.yogihosting.com/kubernetes-ingress-aspnet-core/)
+- [Kubernetes: Host Multi-Container ASP.NET Core app to Single Pod](https://www.yogihosting.com/aspnet-core-kubernetes-multi-container-single-pod/)
 ## 📺 Videos
 - [Kubernetes Daemonsets explained | Tutorial | Kubernetes Guide](https://www.youtube.com/watch?v=RGSeeN-o-kQ)
 

@@ -3,6 +3,7 @@
 ## 📕 Articles
 
 - [Specification pattern: C# implementation](https://enterprisecraftsmanship.com/posts/specification-pattern-c-implementation/)
+- [CQRS vs Specification pattern](https://enterprisecraftsmanship.com/posts/cqrs-vs-specification-pattern/)
 - [Implementing Query Specification pattern in Entity Framework Core](https://gunnarpeipman.com/ef-core-query-specification/) 
 - [Using the Specification pattern with Repository and Unit of work](https://dotnetfalcon.com/using-the-specification-pattern-with-repository-and-unit-of-work/)
 - [Specification](https://ardalis.github.io/Specification/)

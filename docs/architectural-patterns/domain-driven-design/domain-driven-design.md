@@ -48,6 +48,7 @@
 - [Domain-Driven Refactoring: Intro](https://jimmybogard.com/domain-driven-refactoring-intro/)
 - [Domain-Driven Design in ASP.NET Core applications](https://enlabsoftware.com/development/domain-driven-design-in-asp-net-core-applications.html)
 - [Introduction to DDD Lite: When microservices in Go are not enough](https://threedots.tech/post/ddd-lite-in-go-introduction/)
+- [DDD and bulk operations](https://enterprisecraftsmanship.com/posts/ddd-bulk-operations/)
 ## 📺 Videos
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU)
