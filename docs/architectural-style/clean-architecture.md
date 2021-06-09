@@ -38,6 +38,7 @@
 - [Implementing Clean Architecture - Make it scream](http://www.plainionist.net/Implementing-Clean-Architecture-Scream/)
 - [Clean Architecture with Xamarin Forms](https://fullstackmark.com/post/26/clean-architecture-with-xamarin-forms)
 - [Better Software Design with Clean Architecture](https://fullstackmark.com/post/11/better-software-design-with-clean-architecture)
+- [Clean API Architecture](https://medium.com/perry-street-software-engineering/clean-api-architecture-2b57074084d5)
 ## 📺 Videos
 
 - [Clean Testing - Clean Architecture with .NET Core - Jason Taylor - NDC Oslo 2020](https://www.youtube.com/watch?v=T6NRcX1vnz8) 

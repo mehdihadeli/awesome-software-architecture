@@ -227,6 +227,13 @@ nav:
 - Aspect Oriented Programming: aop.md
 - Packaging: packaging.md
 - Refactoring: refactoring.md
+- NoSQL:
+  - NoSQL: nosql/nosql.md
+  - CosmosDB: nosql/cosmosdb.md
+  - DocumentDB: nosql/documentdb.md
+  - MongoDB: nosql/mongodb.md
+  - Postgresql: nosql/postgresql.md
+  - NoSQL: nosql/NoSQL.md
 - Azure Application Architecture:
   - Azure Application Architecture: azure/azure-application-architecture.md
   - Azure API Management: azure/azure-api-management.md
@@ -270,6 +277,7 @@ nav:
 - Infrastructure As a Code:
   - Infrastructure As a Code: infrastructure-as-code/infrastructure-as-code.md
   - Pulumi: infrastructure-as-code/pulumi.md
+  - Terraform: infrastructure-as-code/terraform.md
 - Engineering Blogs: engineering-blogs.md
 - Others: others.md
 
