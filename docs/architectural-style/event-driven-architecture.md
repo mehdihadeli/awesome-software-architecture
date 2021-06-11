@@ -49,7 +49,7 @@
 - [Event Driven Architecture for Real-Time Web](https://www.youtube.com/watch?v=Tu1GEIhkIqU)
 - [What is Event Driven Architecture? (EDA - part 1)](https://www.youtube.com/watch?v=DQ5Cbt8DQbM)
 - [The Saga Pattern in Microservices (EDA - part 2)](https://www.youtube.com/watch?v=C0rGwyJkDTU)
-
+- [What is Event Driven Architecture (EDA)?](https://www.youtube.com/watch?v=o2HJCGcYwoU)
 ## Books
 - [Designing Event-Driven Systems](https://www.confluent.io/designing-event-driven-systems/)
 

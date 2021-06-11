@@ -111,6 +111,7 @@ nav:
     - Service Discovery:
       - Service Discovery: architectural-patterns/microservices/service-discovery/service-discovery.md
       - Consul: architectural-patterns/microservices/service-discovery/consul.md
+    - Scaling: architectural-patterns/microservices/scaling.md
     - Testing: architectural-patterns/microservices/testing.md
     - Tools: 
       - Tools: architectural-patterns/microservices/tools/tools.md

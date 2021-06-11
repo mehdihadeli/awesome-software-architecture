@@ -59,6 +59,7 @@
 - [Competing Consumers Pattern for Scalability](https://codeopinion.com/competing-consumers-pattern-for-scalability/)
 - [Patterns for Decoupling in Distributed Systems: Explicit Public Events](http://verraes.net/2019/05/patterns-for-decoupling-distsys-explicit-public-events/)
 - [Event immutability and dealing with change](https://www.eventstore.com/blog/event-immutability-and-dealing-with-change)
+- [Transient fault handling](https://docs.microsoft.com/en-us/azure/architecture/best-practices/transient-faults)
 ## 📺 Videos
 
 - [Handling Concurrency with Message-IDs | Event Driven Architecture](https://www.youtube.com/watch?v=wefvl2ohiQc)
@@ -78,6 +79,7 @@
 - [What is Event Driven Architecture? (EDA - part 1)](https://www.youtube.com/watch?v=DQ5Cbt8DQbM)
 - [The Saga Pattern in Microservices (EDA - part 2)](https://www.youtube.com/watch?v=C0rGwyJkDTU)
 - [GOTO 2019 • Temporal Modelling • Mathias Verraes](https://www.youtube.com/watch?v=KNqOWT0lOYY)
+- [Handling Failures in Message Driven Architecture](https://www.youtube.com/watch?v=SesEYHGhlLQ)
 ## 📦 Libraries
 
 - [Enexure.MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - MicroBus is a simple in process Mediator for .NET

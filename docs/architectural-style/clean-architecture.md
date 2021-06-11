@@ -39,6 +39,7 @@
 - [Clean Architecture with Xamarin Forms](https://fullstackmark.com/post/26/clean-architecture-with-xamarin-forms)
 - [Better Software Design with Clean Architecture](https://fullstackmark.com/post/11/better-software-design-with-clean-architecture)
 - [Clean API Architecture](https://medium.com/perry-street-software-engineering/clean-api-architecture-2b57074084d5)
+- [How to make Dapr client works well with Refit and RestEase in 5 minutes](https://dev.to/thangchung/how-to-make-dapr-client-works-well-with-refit-and-restease-40m)
 ## 📺 Videos
 
 - [Clean Testing - Clean Architecture with .NET Core - Jason Taylor - NDC Oslo 2020](https://www.youtube.com/watch?v=T6NRcX1vnz8) 
@@ -94,6 +95,7 @@
 - [Amitpnk/Clean-Architecture-ASP.NET-Core](https://github.com/Amitpnk/Clean-Architecture-ASP.NET-Core) - Complete solution template which is built on Clean Architecture with all essential feature, CI/CD, best practice, testing Strategy using the testing pyramid and documentation using .NET 5!
 - [baratgabor/MyWarehouse](https://github.com/baratgabor/MyWarehouse) - Clean Architecture and Domain Driven Design sample project based on C# 9 / .NET 5 / ASP.NET Core 5 / EF Core 5 & Angular 11 with Bootstrap.
 - [roblaszczak/go-cleanarch](https://github.com/roblaszczak/go-cleanarch) - Clean architecture validator for go, like a The Dependency Rule and interaction between packages in your Go projects.
+- [https://github.com/thangchung/clean-architecture-dotnet](https://github.com/thangchung/clean-architecture-dotnet) - Dev: Apply Minimal Clean Architecture with DDD-lite, CQRS-lite, and just enough Cloud-native patterns on eCommerce sample business domain. 🍻 Ops: Use Tye with Dapr extension to deploy it to Kubernetes.
 ## 📚 Books
 
 - [Get Your Hands Dirty on Clean Architecture](https://www.packtpub.com/product/get-your-hands-dirty-on-clean-architecture/9781839211966)

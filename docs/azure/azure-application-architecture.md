@@ -31,7 +31,7 @@
 
 ## 📦 Libraries
 - [Azure/azure-libraries-for-net](https://github.com/Azure/azure-libraries-for-net) - Azure libraries for .Net
-
+- [Azure/Azurite](https://github.com/Azure/Azurite)
 ## Courses
 - [Developing Solutions for Microsoft Azure (AZ-204)](https://www.pluralsight.com/paths/developing-solutions-for-microsoft-azure-az-204)
 <div align="right">

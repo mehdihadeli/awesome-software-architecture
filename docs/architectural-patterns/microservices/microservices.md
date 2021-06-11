@@ -46,6 +46,9 @@
 - [Implementing Nanoservices in ASP.NET Core](https://auth0.com/blog/implementing-nanoservices-in-aspnet-core/)
 - [10 Microservices Best Practices for the Optimal Architecture Design](https://medium.com/capital-one-tech/10-microservices-best-practices-for-the-optimal-architecture-design-capital-one-de16abf2a232)
 - [Introduction to DDD Lite: When microservices in Go are not enough](https://threedots.tech/post/ddd-lite-in-go-introduction/)
+- [How to make Dapr client works well with Refit and RestEase in 5 minutes](https://dev.to/thangchung/how-to-make-dapr-client-works-well-with-refit-and-restease-40m)
+- [Debugging Dapr application using Tye tool](https://dev.to/thangchung/debugging-dapr-application-using-tye-tool-1djb)
+
 ## 📺 Videos
 
 - [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) 
@@ -64,6 +67,7 @@
 - [Bounded Contexts, Microservices, and Everything In Between - Vladik Khononov - KanDDDinsky 2018](https://www.youtube.com/watch?v=dlnu5pSsg7k&t=604s)
 - [Jimmy Bogard - Effective Microservice Communication and Conversation Patterns](https://www.youtube.com/watch?v=SuMF89Dc5XY)
 - [Creating MicroService with .Net 5](https://www.youtube.com/watch?v=1gPz0G6GZCU)
+- [How to design and code a scaleable solution (from monolith to microservices)](https://www.youtube.com/watch?v=rzjy2DDPwio)
 ## 📦 Libraries
 
 - [dotnet/tye](https://github.com/dotnet/tye) - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
@@ -89,6 +93,7 @@
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - A Go framework for microservices.
+
 ## 🚀 Samples
 
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
@@ -114,6 +119,7 @@
 - [piomin/sample-spring-microservices-new](https://github.com/piomin/sample-spring-microservices-new) - Demo for Spring Boot 2 and Spring Cloud microservices with distributed configuration (Spring Cloud Config), service discovery (Eureka), API gateway (Spring Cloud Gateway, Zuul), Swagger2 API documentation, logs correlation using Spring Cloud Sleuth and many more
 - [ThreeDotsLabs/monolith-microservice-shop](https://github.com/ThreeDotsLabs/monolith-microservice-shop) - Source code for https://threedots.tech/post/microservices-or-monolith-its-detail/ article.
 - [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture)
+- [thangchung/clean-architecture-dotnet](https://github.com/thangchung/clean-architecture-dotnet) - Dev: Apply Minimal Clean Architecture with DDD-lite, CQRS-lite, and just enough Cloud-native patterns on eCommerce sample business domain. 🍻 Ops: Use Tye with Dapr extension to deploy it to Kubernetes.
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
 - [Building Microservices: Designing Fine-Grained Systems 1st Edition](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
