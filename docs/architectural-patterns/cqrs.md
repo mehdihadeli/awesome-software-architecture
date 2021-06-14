@@ -50,6 +50,7 @@
 - [Getting Started with CQRS – Part 1](https://www.red-gate.com/simple-talk/dotnet/c-programming/getting-started-with-cqrs-part-1/)
 - [Getting Started with CQRS – Part 2](https://www.red-gate.com/simple-talk/dotnet/c-programming/getting-started-with-cqrs-part-2/)
 - [Getting Started with CQRS – Part 3](https://www.red-gate.com/simple-talk/dotnet/c-programming/getting-started-with-cqrs-part-3/)
+- [CQRS with MediatR in ASP.NET Core 3.1 – Ultimate Guide](https://codewithmukesh.com/blog/cqrs-in-aspnet-core-3-1/)
 ## 📺 Videos
 
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
