@@ -7,7 +7,7 @@
 ## 📕 Articles
 - [Static methods considered evil?](https://enterprisecraftsmanship.com/posts/static-methods-evil/)
 
-## Videos
+## 📺 Videos
 - [TS001.1: Common Questions About The Standard](https://www.youtube.com/watch?v=Au7G_y4BkbY)
 
 <div align="right">

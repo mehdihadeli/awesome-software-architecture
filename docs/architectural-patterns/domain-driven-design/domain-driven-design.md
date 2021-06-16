@@ -50,6 +50,19 @@
 - [Introduction to DDD Lite: When microservices in Go are not enough](https://threedots.tech/post/ddd-lite-in-go-introduction/)
 - [DDD and bulk operations](https://enterprisecraftsmanship.com/posts/ddd-bulk-operations/)
 - [STOP doing dogmatic Domain Driven Design](https://codeopinion.com/stop-doing-dogmatic-domain-driven-design/)
+- [Strategic Domain-Driven Design](https://dev.to/peholmst/strategic-domain-driven-design-3e87)
+- [Tactical Domain-Driven Design](https://dev.to/peholmst/tactical-domain-driven-design-17dp)
+- [Domain-Driven Design and the Hexagonal Architecture](https://dev.to/peholmst/domain-driven-design-and-the-hexagonal-architecture-2o87)
+- [Using Value Objects with JPA](https://dev.to/peholmst/using-value-objects-with-jpa-27mi)
+- [Building Aggregates with Spring Data](https://dev.to/peholmst/building-aggregates-with-spring-data-2iig)
+- [Building Repositories with Spring Data](https://dev.to/peholmst/building-repositories-with-spring-data-1mbd)
+- [Publishing Domain Events with Spring Data](https://dev.to/peholmst/publishing-domain-events-with-spring-data-53m2)
+- [DDD.1 – Crunching knowledge](https://herbertograca.com/2015/09/07/book-review-domain-driven-design-by-eric-evans-1-crunching-knowledge/)
+- [DDD.2 – Communication and the use of language](https://herbertograca.com/2015/09/12/domain-driven-design-by-eric-evans-chap-2-comunication-and-the-use-of-language/)
+- [DDD.3 – Binding model and implementation](https://herbertograca.com/2015/09/16/domain-driven-design-by-eric-evans-chap-3-binding-model-and-implementation/)
+- [DDD.4 – Isolating the domain](https://herbertograca.com/2015/09/18/domain-driven-design-by-eric-evans-chap-4-isolationg-the-domain/)
+- [DDD.5 – A model expressed in software](https://herbertograca.com/2015/09/29/domain-driven-design-by-eric-evans-chap-5-a-model-expressed-in-software/)
+- [DDD.6 – The lifecycle of a domain object](https://herbertograca.com/2015/10/04/domain-driven-design-by-eric-evans-chap-6-the-lifecycle-of-a-domain-object/)
 ## 📺 Videos
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU)
@@ -58,6 +71,7 @@
 - [Jimmy Bogard - Domain-Driven Refactoring](https://www.youtube.com/watch?v=WfG_WSQo0Fw)
 - [Jimmy Bogard - Domain Driven Design: The Good Parts](https://www.youtube.com/watch?v=L3SvIKdLt88)
 - [STOP "doing" Domain Driven Design](https://www.youtube.com/watch?v=8XmXhXH_q90)
+- [Webinar: Domain Driven Design](https://www.youtube.com/watch?v=dq7e_L4jIak)
 ## 🚀 Samples
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
 - [kimcu-on-thenet/ddd-net-ef-core](https://github.com/kimcu-on-thenet/ddd-net-ef-core) - Self study: DDD, .net core, entity framework core
@@ -98,6 +112,7 @@
 - [oskardudycz/EventSourcing.NetCore/Sample/MeetingsManagement](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/MeetingsManagement)
 - [oskardudycz/EventSourcing.NetCore/Sample/Warehouse](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/Warehouse)
 - [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example?utm_source=about-wild-workouts) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring of a Go project.
+- [peholmst/DDDExample](https://github.com/peholmst/DDDExample) - Example application for my TechLunch @ Vaadin about DDD and the Hexagonal Architecture
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [xhafan/coreddd](https://github.com/xhafan/coreddd) - A set of open-source .NET libraries helping with domain-driven design (DDD) and CQRS

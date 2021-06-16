@@ -3,10 +3,10 @@
 ## Resources
 - [MongoDB Docs](https://docs.mongodb.com/)
 
-## Articles
+## 📕 Articles
 - [How to integrate MongoDB with C#](https://www.code4it.dev/blog/mongodb-introduction-with-csharp)
 
-## Videos
+## 📺 Videos
 - [MongoDB In 30 Minutes](https://www.youtube.com/watch?v=pWbMrx5rVBE)
 
 ## Library

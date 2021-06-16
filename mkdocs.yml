@@ -11,8 +11,6 @@ theme:
   navigation_depth: 4
   titles_only: False
   sticky_navigation: True
-extra_css: [static/extra.css]
-extra_javascript: [js/extra.js]
 markdown_extensions:
   - smarty
   - sane_lists

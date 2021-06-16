@@ -16,11 +16,15 @@
 - [Redis as Backplane to scale your Blazor applications](https://blexin.com/en/blog-en/redis-as-backplane-to-scale-your-blazor-applications/)
 - [“Red(e)isign” Publish/Subscribe with Redis](https://blexin.com/en/blog-en/redeisign-publish-subscribe-with-redis/)
 - [Hybrid Caching](https://github.com/dotnetcore/EasyCaching/blob/master/docs/Hybrid.md)
-
+- [Horizontal scaling in/out techniques for redis cluster](https://iamvishalkhare.medium.com/horizontal-scaling-in-out-techniques-for-redis-cluster-dcd75c696c86)
+- [Creating a Redis Cluster](https://iamvishalkhare.medium.com/create-a-redis-cluster-faa89c5a6bb4)
 ## 📺 Videos
 - [Real-Time Delivery Architecture at Twitter](https://www.infoq.com/presentations/Real-Time-Delivery-Twitter/)
 - [Software Architecture Introduction (part 3): Cache explained](https://www.youtube.com/watch?v=QBMTGngjWdU)
-
+- [Scaling Redis PubSub with Shahar Mor - Redis Labs](https://www.youtube.com/watch?v=6G22a5Iooqk)
+- [Redis is Dead Long live Redis!](https://www.youtube.com/watch?v=NymIgA7Wa78)
+- [Scaling Your Redis Workloads with Redis Cluster - AWS Online Tech Talks](https://www.youtube.com/watch?v=3Ovx5vJ17ws)
+- [Scaling Redis To 1M Ops/Sec](https://www.youtube.com/watch?v=55TFuBMFWns)
 ## Use Cases
 
 - [Messaging](https://redislabs.com/solutions/use-cases/messaging/)

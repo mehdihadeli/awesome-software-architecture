@@ -2,7 +2,7 @@
 
 - [PostgreSQL - A powerful, open source object-relational database system](https://stackshare.io/postgresql) - StackShare
 
-## Articles
+## 📕 Articles
 
 - [PostgreSQL Vs. MongoDB](https://blog.panoply.io/postgresql-vs-mongodb)
 

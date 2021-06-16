@@ -3,13 +3,13 @@
 ## Resources
 - [Architecting Cloud Native .NET Applications for Azure](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/)
 
-## Articles
+## 📕 Articles
 - [Introduction to cloud-native applications](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/introduction)
 - [Defining cloud native](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/definition)
 - [Candidate apps for cloud native](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/candidate-apps)
 - [What is Cloud Native?](https://www.oracle.com/cloud/cloud-native/what-is-cloud-native/)
 - [6 Essential Things You Need to Know About Cloud Native Applications](https://www.weave.works/technologies/going-cloud-native-6-essential-things-you-need-to-know/)
-## Videos
+## 📺 Videos
 - [Cloud Native 101 Video](https://www.youtube.com/watch?v=9Ik96SBaIvs)
 - [What is Cloud Native?](https://www.youtube.com/watch?v=fp9_ubiKqFU&list=PLOspHqNVtKACSagAEeIY20NMVLNeQ1ZJx&index=2)
 - [Architecting a Cloud Native API Solution](https://www.youtube.com/watch?v=sKfep-UmZeM&list=PLOspHqNVtKACSagAEeIY20NMVLNeQ1ZJx&index=13)
