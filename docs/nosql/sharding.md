@@ -1,0 +1,35 @@
+# Sharding
+
+## Resources
+- [donnemartin/system-design-primer#sharding](https://github.com/donnemartin/system-design-primer#sharding)
+
+## Articles
+- [What Exactly Is Database Sharding?](https://betterprogramming.pub/what-exactly-is-database-sharding-ca618a2cbb9a)
+- [Introducing Consistent Hashing](https://itnext.io/introducing-consistent-hashing-9a289769052e)
+- [A Guide to Consistent Hashing](https://www.toptal.com/big-data/consistent-hashing)
+- [Scale your app better with Scaling Cube](https://itnext.io/scale-your-app-better-with-scaling-cube-1860930c4d57)
+- [How to use Database Sharding and Scale an ASP.NET Core Microservice Architecture](https://itnext.io/how-to-use-database-sharding-and-scale-an-asp-net-core-microservice-architecture-22c24916590f)
+- [An Unorthodox Approach To Database Design : The Coming Of The Shard](http://highscalability.com/blog/2009/8/6/an-unorthodox-approach-to-database-design-the-coming-of-the.html)
+- [Database Sharding](https://medium.com/system-design-blog/database-sharding-69f3f4bd96db)
+- [What Is Sharding?](https://hazelcast.com/glossary/sharding)
+- [Database Sharding Explained- 2021 Database Scaling Tutorial](https://dev.to/renaissanceengineer/database-sharding-explained-2021-database-scaling-tutorial-5cej)
+- [How Sharding Works](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6)
+## Videos
+- [What is Database Sharding?](https://www.youtube.com/watch?v=5faMjKuB9bc)
+- [What is Database Sharding?](https://www.youtube.com/watch?v=hdxdhCpgYo8)
+- [More Flexibility?! Sharding Gets Even Easier with MongoDB 4.4](https://www.youtube.com/watch?v=wGgMnJQunEc)
+- [Key based Sharding | Shard Key | Hash function | Advantages and disadvantages | 2021](https://www.youtube.com/watch?v=arUpleGFdt4&t=181s)
+- [Range based sharding | Advantages and disadvantages | Hotspots | Use Cases](https://www.youtube.com/watch?v=avepna2q9w0)
+- [What is Database Sharding, Logical and Physical Shards, Dynamic vs Algorithmic Sharding | 2021](https://www.youtube.com/watch?v=YCb-tDQWrXk)
+- [Directory based sharding](https://www.youtube.com/watch?v=62adurZ_Muw)
+- [Sharding & Database Partitioning | System Design Basics](https://www.youtube.com/watch?v=RynPj8C0BXA)
+- [When should you shard your database?](https://www.youtube.com/watch?v=iHNovZUZM3A)
+- [What is the difference between Partitioning and Sharding db tables?](https://www.youtube.com/watch?v=AxpsOLLQt3o)
+- [Best Practices Working with Billion-row Tables in Databases](https://www.youtube.com/watch?v=wj7KEMEkMUE)
+- [System Design - Sharding | Data Partitioning](https://www.youtube.com/watch?v=yNrVexoEnFM)
+- [Learn System design : Distributed datastores | RDBMS scaling problems | CAP theorem](https://www.youtube.com/watch?v=l9JSK9OBzA4)
+- [Introduction to Sharding](https://www.youtube.com/watch?v=4upppuW7lGE)
+- [Horizontal vs Vertical Database Partitioning](https://www.youtube.com/watch?v=QA25cMWp9Tk)
+- [Scaling Databases - Web Development](https://www.youtube.com/watch?v=dkhOZOmV7Fo)
+- [Python CRUD App hits 2 million rows, Should I Shard my Database?](https://www.youtube.com/watch?v=aXD4tWbkoJo)
+- [Database Sharding Explained | Database Partitioning | Database Scaling Tutorial](https://www.youtube.com/watch?v=VhsMXWb5Eew)

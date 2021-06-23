@@ -19,8 +19,11 @@
 - [Microsoft Certified: Azure Developer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/)
 - [Free azure training (70-533)](http://www.cloudranger.net/azure-training/)
 
+## Videos
+- [Azure Tutorials Playlist - Nick Chapsas](https://www.youtube.com/playlist?list=PLUOequmGnXxPPcrN0PFclBABXEckcPzYY)
+- [Microsoft Azure for Beginners - Introduction to Azure Services Playlist - Adam Marczak](https://www.youtube.com/playlist?list=PLGjZwEtPN7j96A9JNpA4ouI3bH-uWZ0Ht)
+- [Azure Playlist - Mohamad Lawand](https://www.youtube.com/playlist?list=PLcvTyQIWJ_ZrrcBn_tQ0Ny1VwJFpUIf5r)
 ## 📕 Articles
-
 - [Cars Island Car Rental on the Azure cloud - part 1](https://daniel-krzyczkowski.github.io/Cars-Island-Car-Rental-On-Azure-Cloud/)
 - [Modern application development](https://azure.microsoft.com/en-us/solutions/modern-application-development/)
 
@@ -32,6 +35,7 @@
 ## 📦 Libraries
 - [Azure/azure-libraries-for-net](https://github.com/Azure/azure-libraries-for-net) - Azure libraries for .Net
 - [Azure/Azurite](https://github.com/Azure/Azurite)
+
 ## Courses
 - [Developing Solutions for Microsoft Azure (AZ-204)](https://www.pluralsight.com/paths/developing-solutions-for-microsoft-azure-az-204)
 <div align="right">

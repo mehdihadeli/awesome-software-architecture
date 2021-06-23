@@ -20,7 +20,7 @@
 - [How to provide access to application for different types of users with Azure AD and Azure AD B2C](https://www.youtube.com/watch?v=NrkbWPDFGzI)
 - [Introduction to the Microsoft Identity Platform](https://www.youtube.com/watch?v=_JhftCwwZqs)
 - [How to secure solution with Azure Active Directory B2C (Azure AD B2C)](https://www.youtube.com/watch?v=LDh1bJOihBg)
-
+- [Working with Azure AD B2C in ASP.NET](https://www.youtube.com/watch?v=oG9GcYIuYQM)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

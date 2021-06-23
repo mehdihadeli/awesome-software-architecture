@@ -72,6 +72,7 @@
 - [Jimmy Bogard - Domain Driven Design: The Good Parts](https://www.youtube.com/watch?v=L3SvIKdLt88)
 - [STOP "doing" Domain Driven Design](https://www.youtube.com/watch?v=8XmXhXH_q90)
 - [Webinar: Domain Driven Design](https://www.youtube.com/watch?v=dq7e_L4jIak)
+- [The Intersection of Microservices, Domain-Driven Design and Entity Framework Core](https://www.youtube.com/watch?v=DG8Qe7TJiIE)
 ## 🚀 Samples
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
 - [kimcu-on-thenet/ddd-net-ef-core](https://github.com/kimcu-on-thenet/ddd-net-ef-core) - Self study: DDD, .net core, entity framework core
@@ -113,6 +114,7 @@
 - [oskardudycz/EventSourcing.NetCore/Sample/Warehouse](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/Warehouse)
 - [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example?utm_source=about-wild-workouts) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring of a Go project.
 - [peholmst/DDDExample](https://github.com/peholmst/DDDExample) - Example application for my TechLunch @ Vaadin about DDD and the Hexagonal Architecture
+- [EnLabSoftware/HRManagement](https://github.com/EnLabSoftware/HRManagement)
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [xhafan/coreddd](https://github.com/xhafan/coreddd) - A set of open-source .NET libraries helping with domain-driven design (DDD) and CQRS

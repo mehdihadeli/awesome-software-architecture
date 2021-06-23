@@ -40,7 +40,7 @@
 - [AggregateSource](https://github.com/yreynhout/AggregateSource) - Lightweight infrastructure for doing eventsourcing using aggregates
 - [Projac](https://github.com/BitTacklr/Projac) - A set of .NET projection libraries
 - [Aggregates.NET](https://github.com/charlessolar/Aggregates.NET) - .NET event sourced domain driven design model via NServiceBus and GetEventStore
-
+- [CanerPatir/Algorist.EventSourcing](https://github.com/CanerPatir/Algorist.EventSourcing) - An event sourcing building block for .net core
 ## 🚀 Samples
 
 - [mizrael/SuperSafeBank](https://github.com/mizrael/SuperSafeBank) - Sample Event Sourcing implementation with .NET Core

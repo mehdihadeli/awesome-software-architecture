@@ -46,6 +46,7 @@ markdown_extensions:
 
 nav:
 - Software Architecture: software-architecture.md
+- Algorithms: algorithm.md
 - Architectural Style: 
   - Architectural Style: architectural-style/architectural-style.md
   - N-Layer Architecture: architectural-style/nlayer-architecture.md
@@ -58,12 +59,13 @@ nav:
   - Component Based Architecture: architectural-style/component-based-architecture.md
 - Architectural Design Principles: 
   - Architectural Design Principles: architectural-design-principles/architectural-design-principles.md
+  - CAP Theorem: architectural-design-principles/cap.md
   - Cohesion: architectural-design-principles/cohesion.md
   - Command Query Separation - CQS: architectural-design-principles/cqs.md
   - Coupling: architectural-design-principles/coupling.md
   - Crosscutting Concerns: architectural-design-principles/crosscutting-concerns.md
   - Dependency Inversion: architectural-design-principles/dependency-inversion.md
-  - Don't Repeat Yourself - DRY: architectural-design-principles/dry.md
+  - Donot Repeat Yourself - DRY: architectural-design-principles/dry.md
   - Encapsulation: architectural-design-principles/encapsulation.md
   - Fail-Fast: architectural-design-principles/fail-fast.md
   - Favor Composition over Inheritance: architectural-design-principles/favor-composition-over-inheritance.md
@@ -195,8 +197,10 @@ nav:
     - Maesh: cloud-native/service-mesh/maesh.md
     - Linkerd: cloud-native/service-mesh/linkerd.md
 - Object Oriented Design: object-oriented-design.md
-- Distributed Systems Design: distributed-systems-design.md
-- Scalable Software Architecture: scalable-software-architecture.md
+- Systems Design: 
+  - Systems Design: systems-design/systems-design.md
+  - Consistent Hashing: systems-design/consistent-hash.md
+- Scaling: scaling.md
 - Clean Code: clean-code.md
 - Design Best Practices: 
   - Design Best Practices: design-best-practices/design-best-practices.md
@@ -232,6 +236,7 @@ nav:
   - DocumentDB: nosql/documentdb.md
   - MongoDB: nosql/mongodb.md
   - Postgresql: nosql/postgresql.md
+  - Sharding:(nosql/sharding.md)
   - NoSQL: nosql/NoSQL.md
 - Azure Application Architecture:
   - Azure Application Architecture: azure/azure-application-architecture.md

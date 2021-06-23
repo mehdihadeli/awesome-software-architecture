@@ -1,6 +1,9 @@
 
 # NoSQL
 
+## Resources
+- [donnemartin/system-design-primer#nosql](https://github.com/donnemartin/system-design-primer#nosql)
+
 ## 📺 Videos
 
 - [Google I/O 2012 - SQL vs NoSQL: Battle of the Backends](https://www.youtube.com/watch?v=rRoy6I4gKWU)
@@ -25,6 +28,8 @@
 
 - [NOSQL vs SQL. Key differences and when to choose each](https://pandorafms.com/blog/nosql-vs-sql-key-differences/)
 - [How to choose between SQL and NoSQL databases](https://www.red-gate.com/simple-talk/databases/nosql/how-to-choose-between-sql-and-nosql-databases/)
-- [What Exactly Is Database Sharding?](https://betterprogramming.pub/what-exactly-is-database-sharding-ca618a2cbb9a)
-- [Scale your app better with Scaling Cube](https://itnext.io/scale-your-app-better-with-scaling-cube-1860930c4d57)
-- [How to use Database Sharding and Scale an ASP.NET Core Microservice Architecture](https://itnext.io/how-to-use-database-sharding-and-scale-an-asp-net-core-microservice-architecture-22c24916590f)
+- [Scalability, Availability & Stability Patterns](https://slideshare.net/jboner/scalability-availability-stability-patterns/)
+- [Database Scalability](http://horicky.blogspot.com/2008/03/database-scalability.html)
+- [NOSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
+- [SQL vs NoSQL: The Differences](https://www.sitepoint.com/sql-vs-nosql-differences/)
+- [SQL & NOSQL: A BRIEF HISTORY](https://blog.grio.com/2015/11/sql-nosql-a-brief-history.html)

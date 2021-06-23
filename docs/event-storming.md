@@ -47,7 +47,7 @@
 - [Crunching 'real-life stories' with DDD & Event Storming - Kenny Baas-Schwegler - KanDDDinsky 201](https://www.youtube.com/watch?v=WvkBKvMnyuc)
 - [Event Storming demo & discussion](https://www.youtube.com/watch?v=xIB_VQVVWKk)
 - ["Domain Modelling in a Remote World" with Marco Heimeshoff (Thursday's Matter)](https://www.youtube.com/watch?v=jdU_iTBP2Qs)
-
+- [Webinar: Extreme Domain-Driven Design Modelling - Tech Talk by Nexten](https://www.youtube.com/watch?v=uJ4mPU1i6E0)
 ## 🚀 Samples
 
 - [Event Storming](https://miro.com/app/board/o9J_kt3rZb4=/?fromEmbed=1)

@@ -7,6 +7,9 @@
 - [Implement the microservice application layer using the Web API](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/microservice-application-layer-implementation-web-api) 
 - [Simple CQRS implementation with raw SQL and DDD](http://www.kamilgrzybek.com/design/simple-cqrs-implementation-with-raw-sql-and-ddd/)
 
+## Videos
+- [Introduction to Services Components](https://www.youtube.com/watch?v=Kr9di26CLek)
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

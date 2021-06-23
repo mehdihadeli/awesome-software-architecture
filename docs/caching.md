@@ -1,6 +1,7 @@
 # Caching
 
 ## 📘 Resources
+- [donnemartin/system-design-primer#cache](https://github.com/donnemartin/system-design-primer#cache)
 
 ## 📕 Articles
 
@@ -18,6 +19,10 @@
 - [Hybrid Caching](https://github.com/dotnetcore/EasyCaching/blob/master/docs/Hybrid.md)
 - [Horizontal scaling in/out techniques for redis cluster](https://iamvishalkhare.medium.com/horizontal-scaling-in-out-techniques-for-redis-cluster-dcd75c696c86)
 - [Creating a Redis Cluster](https://iamvishalkhare.medium.com/create-a-redis-cluster-faa89c5a6bb4)
+- [Introduction to architecting systems for scale.](https://lethain.com/introduction-to-architecting-systems-for-scale/)
+- [Scalability, Availability & Stability Patterns](https://slideshare.net/jboner/scalability-availability-stability-patterns/)
+- [Scalability for Dummies - Part 3: Cache](https://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache)
+- [What is Caching ?](https://medium.com/system-design-blog/what-is-caching-1492abb92143)
 ## 📺 Videos
 - [Real-Time Delivery Architecture at Twitter](https://www.infoq.com/presentations/Real-Time-Delivery-Twitter/)
 - [Software Architecture Introduction (part 3): Cache explained](https://www.youtube.com/watch?v=QBMTGngjWdU)
@@ -25,6 +30,7 @@
 - [Redis is Dead Long live Redis!](https://www.youtube.com/watch?v=NymIgA7Wa78)
 - [Scaling Your Redis Workloads with Redis Cluster - AWS Online Tech Talks](https://www.youtube.com/watch?v=3Ovx5vJ17ws)
 - [Scaling Redis To 1M Ops/Sec](https://www.youtube.com/watch?v=55TFuBMFWns)
+- [](https://www.youtube.com/watch?v=sVCZo5B8ghE&list=PLQnljOFTspQXjD0HOzN7P2tgzu7scWpl2&index=25)
 ## Use Cases
 
 - [Messaging](https://redislabs.com/solutions/use-cases/messaging/)

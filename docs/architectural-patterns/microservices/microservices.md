@@ -49,6 +49,7 @@
 - [How to make Dapr client works well with Refit and RestEase in 5 minutes](https://dev.to/thangchung/how-to-make-dapr-client-works-well-with-refit-and-restease-40m)
 - [Debugging Dapr application using Tye tool](https://dev.to/thangchung/debugging-dapr-application-using-tye-tool-1djb)
 - [Monolith or Microservices? Neither, Combine Both With Integrated Microservices](https://itnext.io/monolith-or-microservices-neither-combine-both-with-integrated-microservices-5265594c3d59)
+- [Prioritizing and Microservices](https://ardalis.com/prioritizing-and-microservices/)
 ## 📺 Videos
 
 - [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) 
@@ -64,10 +65,22 @@
 - [GOTO 2019 • Event-Driven Microservices, the Sense, the Non-sense and a Way Forward • Allard Buijze](https://www.youtube.com/watch?v=jrbWIS7BH70)
 - [GOTO 2021 • Scale, Flow and Microservices • James Lewis](https://www.youtube.com/watch?v=yJHvMabxVYU&list=PLEx5khR4g7PI89_ZS_wz5suqCoqFgv-gO)
 - [From a distributed monolith to a microservices solution - Jan de Vries](https://www.youtube.com/watch?v=0H68V2BzutA)
-- [Bounded Contexts, Microservices, and Everything In Between - Vladik Khononov - KanDDDinsky 2018](https://www.youtube.com/watch?v=dlnu5pSsg7k&t=604s)
+- [Microservices for system design interview preparation Playlist - Tech Dummies Narendra L](https://www.youtube.com/playlist?list=PLkQkbY7JNJuDqCFncFdTzGm6cRYCF-kZO)
+- [Bounded Contexts, Microservices, and Everything In Between - Vladik Khononov - KanDDDinsky 2018](https://www.youtube.com/watch?v=dlnu5pSsg7k)
 - [Jimmy Bogard - Effective Microservice Communication and Conversation Patterns](https://www.youtube.com/watch?v=SuMF89Dc5XY)
 - [Creating MicroService with .Net 5](https://www.youtube.com/watch?v=1gPz0G6GZCU)
 - [How to design and code a scaleable solution (from monolith to microservices)](https://www.youtube.com/watch?v=rzjy2DDPwio)
+- [Managing Data in Microservices](https://www.youtube.com/watch?v=E8-e-3fRHBw)
+- [Data in Microservices](https://www.youtube.com/watch?v=31AD6Nobt1o)
+- [7 Database Patterns for Microservices Architecture](https://www.youtube.com/watch?v=a_XMsSNdUQA)
+- [The hardest part of microservices is your data](https://www.youtube.com/watch?v=MrV0DqTqpFU)
+- [Data Consistency in Microservices Architecture (Grygoriy Gonchar)](https://www.youtube.com/watch?v=CFdPDfXy6Y0)
+- [MICROSERVICES ARCHITECTURE | INTER MICROSERVICES COMMUNICATION | PART - 7](https://www.youtube.com/watch?v=552Zf6ZE6GE)
+- [Data Design and Modeling for Microservices](https://www.youtube.com/watch?v=KPtLbSEFe6c)
+- [GOTO 2017 • Effective Microservices in a Data-Centric World • Randy Shoup](https://www.youtube.com/watch?v=whi0T1a4cWU)
+- [GOTO 2018 • 5 Reasons to use Reactive Programming if you are not eBay • Grygoriy Gonchar](https://www.youtube.com/watch?v=DIQ9aNkjKZ8)
+- [Building Reactive Microservices with .NET Core - Kevin Hoffman, Capital One](https://www.youtube.com/watch?v=bGdar01KNzg)
+- ["Reactive Microsystems - The Evolution of Microservices at Scale," with Jonas Bonér](https://www.youtube.com/watch?v=3hMtjPcU248)
 ## 📦 Libraries
 
 - [dotnet/tye](https://github.com/dotnet/tye) - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.

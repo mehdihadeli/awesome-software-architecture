@@ -1,6 +1,9 @@
 	
 # Dapr
 
+## Resources
+- [Dapr Youtube](https://www.youtube.com/channel/UCtpSQ9BLB_3EXdWAUQYwnRA/videos)
+
 ## 📕 Articles
 - [Make microservices fun again with Dapr](https://daveabrock.com/2021/04/29/meet-dapr)
 - [Getting started with Dapr for .NET Developers](https://laurentkempe.com/2021/03/09/getting-started-with-dapr-for-dotnet-developers/)
@@ -29,6 +32,7 @@
 - [Alex Thissen — Dapr for building distributed .NET Core applications](https://www.youtube.com/watch?v=FyFr5HzsQXE)
 - [Adding a Little DAPR to Your .NET Microservices](https://channel9.msdn.com/Events/dotnetConf/Focus-on-Microservices/Adding-a-Little-DAPR-to-Your-NET-Microservices)
 - [Postponing architectural choices and start developing first with Dapr - Michaël Hompus](https://www.youtube.com/watch?v=biT5-mQ2ekc)
+- [Ask the Expert: Microservices Made Easy With Dapr](https://www.youtube.com/watch?v=KOpKW11-mg8)
 ## 🚀 Samples
 - [dotnet-architecture/eShopOnDapr](https://github.com/dotnet-architecture/eShopOnDapr) - A sample .NET Core distributed application based on eShopOnContainers, powered by Dapr.
 - [vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - A full-stack .NET microservices build on Dapr and Tye

@@ -80,12 +80,12 @@
 - [The Saga Pattern in Microservices (EDA - part 2)](https://www.youtube.com/watch?v=C0rGwyJkDTU)
 - [GOTO 2019 • Temporal Modelling • Mathias Verraes](https://www.youtube.com/watch?v=KNqOWT0lOYY)
 - [Handling Failures in Message Driven Architecture](https://www.youtube.com/watch?v=SesEYHGhlLQ)
+- [Building a Mediator library in .NET from scratch](https://www.youtube.com/watch?v=4e83trumwcM)
 ## 📦 Libraries
 
 - [Enexure.MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - MicroBus is a simple in process Mediator for .NET
 - [Foundatio](https://github.com/exceptionless/Foundatio) - A common interface with in memory, redis and azure implementations.
 - [Kledex](https://github.com/lucabriguglia/Kledex) - .NET Standard framework to create simple and clean design. Advanced features for DDD, CQRS and Event Sourcing.
-- [Mediator.Net](https://github.com/mayuanyang/Mediator.Net) - A simple mediator for .Net for sending command, publishing event and request response with pipelines supported.
 - [MQTTnet](https://github.com/chkr1011/MQTTnet) - Tnet is a high performance .NET library for MQTT based communication.
 - [OpenCQRS](https://github.com/OpenCQRS/OpenCQRS) - .NET Core library for DDD, CQRS and Event Sourcing with Azure Service Bus integration. Supported database providers for the Command and the Event stores are: DocumentDB, MongoDB, SQL Server, MySQL, PostgreSQL and SQLite.
 - [Rebus](https://github.com/rebus-org/Rebus) - Simple and lean service bus implementation for .NET.
@@ -113,6 +113,7 @@
 - [Cysharp/MagicOnion](https://github.com/Cysharp/MagicOnion) - Unified Realtime/API framework for .NET platform and Unity.
 - [eventflow/EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
 - [dasiths/SimpleMediator](https://github.com/dasiths/SimpleMediator) - A .NET/C# implementation of the mediator pattern with support for queries, commands and events
+- [mayuanyang/Mediator.Net](https://github.com/mayuanyang/Mediator.Net) - A simple mediator for .Net for sending command, publishing event and request response with pipelines supported
 - [FoundatioFx/Foundatio](https://github.com/FoundatioFx/Foundatio) - Pluggable foundation blocks for building distributed apps.
 - [AsynkronIT/protoactor-dotnet](https://github.com/AsynkronIT/protoactor-dotnet) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin
 - [Abc-Arbitrage/Zebus](https://github.com/Abc-Arbitrage/Zebus) - A lightweight Peer to Peer Service Bus
@@ -124,6 +125,10 @@
 - [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) - Building event-driven applications the easy way in Go.
 - [Cysharp/MessagePipe](https://github.com/Cysharp/MessagePipe) - High performance in-memory/distributed messaging pipeline for .NET and Unity.
 - [cfrenzel/Eventfully](https://github.com/cfrenzel/Eventfully) - Lightweight Reliable Messaging Framework using Outbox Pattern / EFCore / AzureServiceBus
+- [daniellittledev/Enexure.MicroBus](https://github.com/daniellittledev/Enexure.MicroBus) - MicroBus is a simple in process Mediator for .NET
+- [simplesoft-pt/Mediator](https://github.com/simplesoft-pt/Mediator) - Small .NET library that helps with the implementation of mediator pattern for commands, events and queries
+- [gautema/CQRSlite](https://github.com/gautema/CQRSlite) - A lightweight framework to help creating CQRS and Eventsourcing applications in C#
+- [martinothamar/Mediator](https://github.com/martinothamar/Mediator) - A high performance implementation of Mediator pattern in .NET using source generators.
 ## 📚 Books
 
 - [Enterprise Integration Patterns](https://amazon.com/o/asin/0321200683/ref=nosim/enterpriseint-20)

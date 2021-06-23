@@ -11,3 +11,4 @@
 ## 📺 Videos
 - [Handling Failures in Message Driven Architecture](https://www.youtube.com/watch?v=SesEYHGhlLQ)
 - [Make your microservice resilient with Polly's Circuit Breaker | .NET Core](https://www.youtube.com/watch?v=JljTcjt798c)
+- [Managing Resiliency in Microservices || Full Stack Virtual Conference](https://www.youtube.com/watch?v=DTFvQqQBN2c)
