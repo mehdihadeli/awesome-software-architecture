@@ -81,6 +81,7 @@
 - [GOTO 2018 • 5 Reasons to use Reactive Programming if you are not eBay • Grygoriy Gonchar](https://www.youtube.com/watch?v=DIQ9aNkjKZ8)
 - [Building Reactive Microservices with .NET Core - Kevin Hoffman, Capital One](https://www.youtube.com/watch?v=bGdar01KNzg)
 - ["Reactive Microsystems - The Evolution of Microservices at Scale," with Jonas Bonér](https://www.youtube.com/watch?v=3hMtjPcU248)
+- [Does CAP Theorem apply to Microservices?](https://www.youtube.com/watch?v=PgHMtMmSn9s)
 ## 📦 Libraries
 
 - [dotnet/tye](https://github.com/dotnet/tye) - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.

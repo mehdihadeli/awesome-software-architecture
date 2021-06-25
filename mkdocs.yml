@@ -258,7 +258,6 @@ nav:
   - Azure Sequrity: 
     - Azure Sequrity: azure/azure-security/azure-security.md
     - Azure Active Directory (Azure AD): azure/azure-active-directory.md
-    - Azure Identity: azure/azure-identity.md
     - Azure Key Vault: azure/azure-key-vault.md
   - Azure SQL: azure/azure-sql.md
   - Azure Storage: azure/azure-storage.md

@@ -13,6 +13,9 @@
 - [Manage guest user access with Azure AD External Identities](https://daniel-krzyczkowski.github.io/Manage-Guest-User-Access-with-Azure-Ad-External-Identities/)
 - [Azure AD B2C with external authorization store](https://daniel-krzyczkowski.github.io/Azure-AD-B2C-With-External-Authorization-Store/)
 - [Azure Active Directory passwordless sign-in with FIDO2 Security Keys](https://daniel-krzyczkowski.github.io/Passwordless-Access-With-Azure-AD/)
+- [Lost in Azure cloud identity - part 1](https://daniel-krzyczkowski.github.io/Lost-In-Azure-Cloud-Identity-Series-Introduction/)
+- [Lost in Azure cloud identity - part 2](https://daniel-krzyczkowski.github.io/Lost-In-Azure-Cloud-Identity-Serie-Part2/)
+- [Lost in Azure cloud identity - part 3](https://daniel-krzyczkowski.github.io/Lost-In-Azure-Cloud-Identity-Serie-Part3/)
 ## 📺 Videos
 
 - [Automate Azure AD B2C custom policies release with GitHub Actions](https://www.youtube.com/watch?v=h25h-fxL_K4)
@@ -21,6 +24,7 @@
 - [Introduction to the Microsoft Identity Platform](https://www.youtube.com/watch?v=_JhftCwwZqs)
 - [How to secure solution with Azure Active Directory B2C (Azure AD B2C)](https://www.youtube.com/watch?v=LDh1bJOihBg)
 - [Working with Azure AD B2C in ASP.NET](https://www.youtube.com/watch?v=oG9GcYIuYQM)
+- [Getting Started with Azure Identity - Steve Smith](https://www.youtube.com/watch?v=GaUGxoNb_YE)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

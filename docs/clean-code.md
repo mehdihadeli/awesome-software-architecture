@@ -1,9 +1,7 @@
 
 # Clean Code
 
-
 ## 📘 Resources
-
 - [thangchung/clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet) - 🛁 Clean Code concepts and tools adapted for .NET
 
 ## 📕 Articles
@@ -20,12 +18,12 @@
 - [101 Design Patterns & Tips for Developers](https://sourcemaking.com/design-patterns-and-tips)
 - [20 Important Tips To Write Clean C# Code – MUST SHARE](https://codewithmukesh.com/blog/write-clean-csharp-code/)
 - [Clean code tip: How to choose meaningful names?](https://www.code4it.dev/cleancodetips/01-choose-meaningful-names)
-## 📺 Videos
+- [Improving Method and Function Clarity](https://ardalis.com/improving-method-function-clarity/)
 
+## 📺 Videos
 - [9 "rules" for cleaner code | Object Calisthenics](https://www.youtube.com/watch?v=gyrSiY4SHxI)
 - [Is clean code actually slower?](https://www.youtube.com/watch?v=zVLuQAnNue8)
 
-  > 🛁 Clean Code concepts and tools adapted for .NET
   <div align="right">
     <b><a href="#contents">↥ Back To Top</a></b>
   </div>

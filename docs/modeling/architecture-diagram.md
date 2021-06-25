@@ -7,6 +7,7 @@
 - [Structurizr quick tip: hiding descriptions](https://dev.to/simonbrown/structurizr-quick-tip-hiding-descriptions-324b)
 - [Modelling multiple relationships](https://dev.to/simonbrown/modelling-multiple-relationships-51bf)
 - [Cloud architecture diagrams](https://dev.to/simonbrown/cloud-architecture-diagrams-3pbm)
+- [Getting started with Structurizr Lite](https://dev.to/simonbrown/getting-started-with-structurizr-lite-27d0)
 ## Tools
 
 - [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML) - C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
