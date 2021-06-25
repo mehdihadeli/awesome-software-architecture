@@ -22,6 +22,7 @@
 - [Evolving modular monoliths: 1. An architecture for .NET](https://www.thereformedprogrammer.net/evolving-modular-monoliths-1-an-architecture-for-net/)
 - [Evolving modular monoliths: 2. Breaking up your app into multiple solutions](https://www.thereformedprogrammer.net/evolving-modular-monoliths-2-breaking-up-your-app-into-multiple-solutions/)
 - [Why using Microservices or Monolith can be just a detail?](https://threedots.tech/post/microservices-or-monolith-its-detail/)
+- [Majestic Modular Monoliths](https://lukashajdu.com/post/majestic-modular-monolith/)
 ## 🚀 Samples
 
 - [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith application with Domain-Driven Design approach.
