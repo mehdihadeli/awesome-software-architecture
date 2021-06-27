@@ -36,6 +36,7 @@
 - [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
 - [GOTO 2020 • Moving Fast at Scale • Randy Shoup](https://www.youtube.com/watch?v=R3rXXY6WZ50)
 - [GOTO 2018 • 5 Reasons to use Reactive Programming if you are not eBay • Grygoriy Gonchar](https://www.youtube.com/watch?v=DIQ9aNkjKZ8)
+- [Randy Shoup - Service Architectures at Scale Lessons from Google & eBay](https://www.youtube.com/watch?v=fhm4QnyWvUo)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

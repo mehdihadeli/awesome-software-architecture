@@ -27,8 +27,12 @@
 - [Passing correlation id across requests](https://ankitvijay.net/2020/11/24/passing-correlation-id-across-requests/)
 - [Correlation ID with ASP.NET Web API](https://mderriey.com/2016/11/18/correlation-id-with-asp-net-web-api/)
 - [ASP.NET 5 and Log Correlation by Request Id](https://www.tugberkugurlu.com/archive/asp-net-5-and-log-correlation-by-request-id)
+- [A consistent approach to track correlation IDs through microservices](https://theburningmonk.com/2015/05/a-consistent-approach-to-track-correlation-ids-through-microservices/)
+
 ## 📺 Videos
 - [Jimmy Bogard - Distributed Tracing Made Easy with .NET Core and OpenTelemetry](https://www.youtube.com/watch?v=s9UNr1oEMl4)
+- [On .NET Live - Cloud Native Patterns for .NET Developers](https://www.youtube.com/watch?v=PDdHa0ushJ0)
 - [Distributed Tracing Made Easy with .NET Core - Jimmy Bogard](https://www.youtube.com/watch?v=kfyCHtqk-Ts)
+
 ## 📦 Libraries
 - [open-telemetry/opentelemetry-dotnet](https://github.com/open-telemetry/opentelemetry-dotnet) - The OpenTelemetry .NET Client

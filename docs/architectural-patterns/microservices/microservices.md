@@ -50,6 +50,7 @@
 - [Debugging Dapr application using Tye tool](https://dev.to/thangchung/debugging-dapr-application-using-tye-tool-1djb)
 - [Monolith or Microservices? Neither, Combine Both With Integrated Microservices](https://itnext.io/monolith-or-microservices-neither-combine-both-with-integrated-microservices-5265594c3d59)
 - [Prioritizing and Microservices](https://ardalis.com/prioritizing-and-microservices/)
+- [How to build a NodeJS cinema microservice and deploy it with docker](https://medium.com/@cramirez92/build-a-nodejs-cinema-microservice-and-deploying-it-with-docker-part-1-7e28e25bfa8b)
 ## 📺 Videos
 
 - [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) 
@@ -134,6 +135,8 @@
 - [ThreeDotsLabs/monolith-microservice-shop](https://github.com/ThreeDotsLabs/monolith-microservice-shop) - Source code for https://threedots.tech/post/microservices-or-monolith-its-detail/ article.
 - [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture)
 - [thangchung/clean-architecture-dotnet](https://github.com/thangchung/clean-architecture-dotnet) - Dev: Apply Minimal Clean Architecture with DDD-lite, CQRS-lite, and just enough Cloud-native patterns on eCommerce sample business domain. 🍻 Ops: Use Tye with Dapr extension to deploy it to Kubernetes.
+- [Crizstian/cinema-microservice](https://github.com/Crizstian/cinema-microservice) - Example of a cinema microservice
+- [mmorejon/microservices-docker-go-mongodb](https://github.com/mmorejon/microservices-docker-go-mongodb) - Example of Microservices in Go with Docker, Kubernetes and MongoDB
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
 - [Building Microservices: Designing Fine-Grained Systems 1st Edition](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
