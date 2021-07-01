@@ -102,8 +102,15 @@ nav:
   - Event Sourcing: architectural-patterns/event-sourcing.md
   - Microservices: 
     - Microservices: architectural-patterns/microservices/microservices.md
-    - Distributed Tracing: architectural-patterns/microservices/distributed-tracing.md
-    - Observibility: architectural-patterns/microservices/observibility.md
+    - Design Patterns:
+      - Design Patterns: architectural-patterns/microservices/design-patterns/design-patterns.md
+      - BFF: architectural-patterns/microservices/design-patterns/bff.md
+    - Observibility: 
+      - Observibility: architectural-patterns/microservices/observability/observibility.md
+      - Distributed Tracing: architectural-patterns/microservices/observability/distributed-tracing.md
+      - Logging: architectural-patterns/microservices/observability/logging.md
+      - Observibility: architectural-patterns/microservices/observability/observibility.md
+      - monitoring: architectural-patterns/microservices/observability/monitoring.md    
     - Reverse Proxy:
       - Reverse Proxy: architectural-patterns/microservices/reverse-proxy/revers-proxy.md
       - YARP: architectural-patterns/microservices/reverse-proxy/yarp.md
@@ -111,6 +118,12 @@ nav:
     - Service Discovery:
       - Service Discovery: architectural-patterns/microservices/service-discovery/service-discovery.md
       - Consul: architectural-patterns/microservices/service-discovery/consul.md
+    - Service Mesh: 
+      - Service Mesh: architectural-patterns/microservices/service-mesh/service-mesh.md
+      - Maesh: architectural-patterns/microservices/service-mesh/maesh.md
+      - Linkerd: architectural-patterns/microservices/service-mesh/linkerd.md
+      - Istio: architectural-patterns/microservices/service-mesh/istio.md
+      - Consul Connect: architectural-patterns/microservices/service-mesh/consul-connect.md
     - Scaling: architectural-patterns/microservices/scaling.md
     - Testing: architectural-patterns/microservices/testing.md
     - Tools: 
@@ -161,6 +174,7 @@ nav:
     - Deployment Tools: 
       - Argo-CD: cloud-native/kubernetes/deployment-tools/argo-cd.md
       - Helm: cloud-native/kubernetes/deployment-tools/helm.md
+      - Kubernetes Operator: cloud-native/kubernetes/deployment-tools/kubernetes-operator.md
       - Jenkins: cloud-native/kubernetes/deployment-tools/jenkins.md
     - Ingress Controller: 
       - Ingress Controller: cloud-native/kubernetes/ingress-controller.md

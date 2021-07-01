@@ -12,6 +12,7 @@
 - [USING AZURE SERVICE BUS TOPICS IN ASP.NET CORE](https://damienbod.com/2019/04/24/using-azure-service-bus-topics-in-asp-net-core/)
 - [Azure Service Bus and C# - an introduction](https://www.code4it.dev/blog/azure-service-bus-introduction)
 - [Azure Service Bus: Queues vs Topics](https://www.code4it.dev/blog/azure-service-bus-queue-vs-topic)
+- [Handling Azure Service Bus errors with .NET](https://www.code4it.dev/blog/azure-service-bus-errors)
 ## 📺 Videos
 
 - [Asynchronous messaging with Azure Service Bus](https://www.youtube.com/watch?v=aJn5CDhWvJQ)

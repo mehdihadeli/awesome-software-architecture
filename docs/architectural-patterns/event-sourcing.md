@@ -22,6 +22,7 @@
 - [Beginner's Guide to Event Sourcing | Event Store](https://www.eventstore.com/event-sourcing)
 - [Snapshots in Event Sourcing](https://www.eventstore.com/blog/snapshots-in-event-sourcing)
 - [Eventsourcing Patterns: Forgettable Payloads](https://verraes.net/2019/05/eventsourcing-patterns-forgettable-payloads/)
+- [How to get the current entity state from events?](https://event-driven.io/en/how_to_get_the_current_entity_state_in_event_sourcing/)
 ## 📺 Videos
 
 - [Event Sourcing Example & Explained in plain English](https://www.youtube.com/watch?v=AUj4M-st3ic)

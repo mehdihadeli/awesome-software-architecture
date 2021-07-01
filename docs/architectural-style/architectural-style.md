@@ -18,7 +18,7 @@
 - [Modular Monolith: A Primer](https://www.kamilgrzybek.com/design/modular-monolith-primer/)
 - [Layers, hexagons, features and components](http://www.codingthearchitecture.com/2016/04/25/layers_hexagons_features_and_components.html)
 - [Software Architecture vs Code](https://www.youtube.com/watch?v=ehH3UGdSwPo)
-
+- [Software Architecture: The Most Important Architectural Patterns You Need to Know](https://levelup.gitconnected.com/software-architecture-the-important-architectural-patterns-you-need-to-know-a1f5ea7e4e3d)
 ## 📺 Videos
 
 - [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE&feature=emb_title&ab_channel=GOTOConferences)

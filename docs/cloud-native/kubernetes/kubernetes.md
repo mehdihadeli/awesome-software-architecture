@@ -17,8 +17,10 @@
 - [How to use Kubernetes Ingress on an ASP.NET Core app](https://www.yogihosting.com/kubernetes-ingress-aspnet-core/)
 - [Kubernetes: Host Multi-Container ASP.NET Core app to Single Pod](https://www.yogihosting.com/aspnet-core-kubernetes-multi-container-single-pod/)
 ## 📺 Videos
+- [Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]](https://www.youtube.com/watch?v=X48VuDVv0do)
 - [Kubernetes Daemonsets explained | Tutorial | Kubernetes Guide](https://www.youtube.com/watch?v=RGSeeN-o-kQ)
-- [Kubernetes Essentials](https://www.youtube.com/playlist?list=PLOspHqNVtKABAVX4azqPIu6UfsPzSu2YN)
+- [Kubernetes Essentials Playlist - IBM Cloud](https://www.youtube.com/playlist?list=PLOspHqNVtKABAVX4azqPIu6UfsPzSu2YN)
+- [Kubernetes 101 Playlist - Jeff Geerling](https://www.youtube.com/playlist?list=PL2_OBreMn7FoYmfx27iSwocotjiikS5BD)
 ## ## 🚀 Samples
 - [arashkaffamanesh/practical-kubernetes-problems](https://github.com/arashkaffamanesh/practical-kubernetes-problems) - For Kubernauts' Practical Kubernetes Trainings
 - [ContainerSolutions/kubernetes-examples](https://github.com/ContainerSolutions/kubernetes-examples) - Minimal self-contained examples of standard Kubernetes features and patterns in YAML

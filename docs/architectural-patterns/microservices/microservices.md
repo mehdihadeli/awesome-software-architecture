@@ -51,6 +51,10 @@
 - [Monolith or Microservices? Neither, Combine Both With Integrated Microservices](https://itnext.io/monolith-or-microservices-neither-combine-both-with-integrated-microservices-5265594c3d59)
 - [Prioritizing and Microservices](https://ardalis.com/prioritizing-and-microservices/)
 - [How to build a NodeJS cinema microservice and deploy it with docker](https://medium.com/@cramirez92/build-a-nodejs-cinema-microservice-and-deploying-it-with-docker-part-1-7e28e25bfa8b)
+- [Your Top .NET Microservices Questions Answered](https://devblogs.microsoft.com/aspnet/your-top-dotnet-microservices-questions-answered/)
+- [Querying Microservices with the CQRS and Materialized View Pattern](https://medium.com/event-driven-utopia/querying-microservices-with-the-cqrs-and-materialized-view-pattern-bdb8b17f95d1)
+- [How to Cache Aggregated Data with Redis and Lua Scripts for a Scaled Microservice Architecture](https://itnext.io/how-to-cache-aggregated-data-with-redis-and-lua-scripts-for-a-scaled-microservice-architecture-2b791289e911)
+- [Patterns to know before migrating your monolith to microservices](https://levelup.gitconnected.com/patterns-to-know-before-migrating-your-monolith-to-microservices-72fcbcc7846e)
 ## 📺 Videos
 
 - [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) 
@@ -83,6 +87,8 @@
 - [Building Reactive Microservices with .NET Core - Kevin Hoffman, Capital One](https://www.youtube.com/watch?v=bGdar01KNzg)
 - ["Reactive Microsystems - The Evolution of Microservices at Scale," with Jonas Bonér](https://www.youtube.com/watch?v=3hMtjPcU248)
 - [Does CAP Theorem apply to Microservices?](https://www.youtube.com/watch?v=PgHMtMmSn9s)
+- [Let's Learn .NET - Microservices](https://www.youtube.com/watch?v=sstOXCQ-EG0)
+- [8 Practical Use Cases of Change Data Capture](https://medium.com/event-driven-utopia/8-practical-use-cases-of-change-data-capture-8f059da4c3b7)
 ## 📦 Libraries
 
 - [dotnet/tye](https://github.com/dotnet/tye) - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.

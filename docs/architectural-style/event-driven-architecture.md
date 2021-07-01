@@ -33,6 +33,13 @@
 - [Event-Driven on Azure: Part 1 – Why you should consider an event-driven architecture](https://techcommunity.microsoft.com/t5/apps-on-azure/event-driven-on-azure-part-1-why-you-should-consider-an-event/ba-p/2106983)
 - [Event-Driven on Azure: Part 2 – Architecting event driven applications](https://techcommunity.microsoft.com/t5/apps-on-azure/event-driven-on-azure-part-2-architecting-event-driven/ba-p/2414007)
 - [Introduction to Event-Driven Architecture](https://medium.com/microservicegeeks/introduction-to-event-driven-architecture-e94ef442d824)
+- [A Visual Introduction to Debezium](https://medium.com/event-driven-utopia/a-visual-introduction-to-debezium-32563e23c6b8)
+- [A Gentle Introduction to Event-driven Change Data Capture](https://medium.com/event-driven-utopia/a-gentle-introduction-to-event-driven-change-data-capture-683297625f9b)
+- [Event-driven APIs — Understanding the Principles](https://medium.com/event-driven-utopia/event-driven-apis-understanding-the-principles-c3208308d4b2)
+- [Event-driven APIs in Microservice Architectures](https://github.com/wso2/reference-architecture/blob/master/event-driven-api-architecture.md)
+- [Event-driven vs REST API interactions](https://apifriends.com/api-management/event-driven-vs-rest-api-interactions/)
+- [5 Protocols For Event-Driven API Architectures](https://nordicapis.com/5-protocols-for-event-driven-api-architectures/)
+- [3 Specifications to Consider When Designing Event-Driven Applications](https://medium.com/event-driven-utopia/3-specifications-to-consider-when-designing-event-driven-applications-c12685efd7ad)
 ## 📺 Videos
 
 - [Event-Driven Architecture | EDA | Software Architectural Patterns](https://www.youtube.com/watch?v=gIL8rW_eyww&t=0s) 
@@ -50,6 +57,7 @@
 - [What is Event Driven Architecture? (EDA - part 1)](https://www.youtube.com/watch?v=DQ5Cbt8DQbM)
 - [The Saga Pattern in Microservices (EDA - part 2)](https://www.youtube.com/watch?v=C0rGwyJkDTU)
 - [What is Event Driven Architecture (EDA)?](https://www.youtube.com/watch?v=o2HJCGcYwoU)
+- [What is Event-driven Change Data Capture Process?](https://www.youtube.com/watch?v=-irkDCmHhKk)
 ## Books
 - [Designing Event-Driven Systems](https://www.confluent.io/designing-event-driven-systems/)
 

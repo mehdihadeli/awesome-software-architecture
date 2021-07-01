@@ -60,6 +60,7 @@
 - [Patterns for Decoupling in Distributed Systems: Explicit Public Events](http://verraes.net/2019/05/patterns-for-decoupling-distsys-explicit-public-events/)
 - [Event immutability and dealing with change](https://www.eventstore.com/blog/event-immutability-and-dealing-with-change)
 - [Transient fault handling](https://docs.microsoft.com/en-us/azure/architecture/best-practices/transient-faults)
+- [SHARING DATA BETWEEN MODULES IN MODULAR MONOLITH](https://lukaszcoding.com/sharing-data-between-modules-in-modular-monolith/)
 ## 📺 Videos
 
 - [Handling Concurrency with Message-IDs | Event Driven Architecture](https://www.youtube.com/watch?v=wefvl2ohiQc)

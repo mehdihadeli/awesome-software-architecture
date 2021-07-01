@@ -19,7 +19,7 @@
 - [20 Important Tips To Write Clean C# Code – MUST SHARE](https://codewithmukesh.com/blog/write-clean-csharp-code/)
 - [Clean code tip: How to choose meaningful names?](https://www.code4it.dev/cleancodetips/01-choose-meaningful-names)
 - [Improving Method and Function Clarity](https://ardalis.com/improving-method-function-clarity/)
-
+- [Clean code tip: Principle of Least Surprise](https://www.code4it.dev/cleancodetips/02-principle-of-least-surprise)
 ## 📺 Videos
 - [9 "rules" for cleaner code | Object Calisthenics](https://www.youtube.com/watch?v=gyrSiY4SHxI)
 - [Is clean code actually slower?](https://www.youtube.com/watch?v=zVLuQAnNue8)
