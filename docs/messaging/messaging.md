@@ -82,6 +82,7 @@
 - [GOTO 2019 • Temporal Modelling • Mathias Verraes](https://www.youtube.com/watch?v=KNqOWT0lOYY)
 - [Handling Failures in Message Driven Architecture](https://www.youtube.com/watch?v=SesEYHGhlLQ)
 - [Building a Mediator library in .NET from scratch](https://www.youtube.com/watch?v=4e83trumwcM)
+- [Message Driven Architecture to DECOUPLE a Monolith](https://www.youtube.com/watch?v=bxGkavGaEiM)
 ## 📦 Libraries
 
 - [Enexure.MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - MicroBus is a simple in process Mediator for .NET

@@ -55,6 +55,7 @@
 - [Querying Microservices with the CQRS and Materialized View Pattern](https://medium.com/event-driven-utopia/querying-microservices-with-the-cqrs-and-materialized-view-pattern-bdb8b17f95d1)
 - [How to Cache Aggregated Data with Redis and Lua Scripts for a Scaled Microservice Architecture](https://itnext.io/how-to-cache-aggregated-data-with-redis-and-lua-scripts-for-a-scaled-microservice-architecture-2b791289e911)
 - [Patterns to know before migrating your monolith to microservices](https://levelup.gitconnected.com/patterns-to-know-before-migrating-your-monolith-to-microservices-72fcbcc7846e)
+- [Why duplication isn’t always a bad thing in micro-services](https://www.michalbialecki.com/2019/02/08/why-duplication-isnt-always-a-bad-thing-in-micro-services/)
 ## 📺 Videos
 
 - [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) 
@@ -89,6 +90,7 @@
 - [Does CAP Theorem apply to Microservices?](https://www.youtube.com/watch?v=PgHMtMmSn9s)
 - [Let's Learn .NET - Microservices](https://www.youtube.com/watch?v=sstOXCQ-EG0)
 - [8 Practical Use Cases of Change Data Capture](https://medium.com/event-driven-utopia/8-practical-use-cases-of-change-data-capture-8f059da4c3b7)
+- [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
 ## 📦 Libraries
 
 - [dotnet/tye](https://github.com/dotnet/tye) - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.

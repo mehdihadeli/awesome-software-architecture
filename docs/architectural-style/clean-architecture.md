@@ -56,7 +56,7 @@
 - [Adding Aggregate Example to Clean Architecture solution template](https://www.youtube.com/watch?v=kxuGtgOimGA) 
 - [Adding Aggregate Example to Clean Architecture solution template](https://www.youtube.com/watch?v=dkj-WwxrgyI) 
 - [How Do You Structure Your Go Apps? by Kat Zień. GoWayFest 2018 Minsk](https://www.youtube.com/watch?v=Qtk9FFOoT5M)
-
+- [On .NET Live - Commands, Queries, and Clean Architecture](https://www.youtube.com/watch?v=IRvDGPbxdTs)
 ## 🚀 Samples
 
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
@@ -98,6 +98,7 @@
 - [roblaszczak/go-cleanarch](https://github.com/roblaszczak/go-cleanarch) - Clean architecture validator for go, like a The Dependency Rule and interaction between packages in your Go projects.
 - [thangchung/clean-architecture-dotnet](https://github.com/thangchung/clean-architecture-dotnet) - Dev: Apply Minimal Clean Architecture with DDD-lite, CQRS-lite, and just enough Cloud-native patterns on eCommerce sample business domain. 🍻 Ops: Use Tye with Dapr extension to deploy it to Kubernetes.
 - [fakhrulhilal/cleanarchitecture-kit](https://github.com/fakhrulhilal/cleanarchitecture-kit) - A starting kit to build project with clean architecture
+- [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
 ## 📚 Books
 
 - [Get Your Hands Dirty on Clean Architecture](https://www.packtpub.com/product/get-your-hands-dirty-on-clean-architecture/9781839211966)
