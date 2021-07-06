@@ -24,6 +24,7 @@
 - [Scalability for Dummies - Part 3: Cache](https://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache)
 - [What is Caching ?](https://medium.com/system-design-blog/what-is-caching-1492abb92143)
 - [How to Cache Aggregated Data with Redis and Lua Scripts for a Scaled Microservice Architecture](https://itnext.io/how-to-cache-aggregated-data-with-redis-and-lua-scripts-for-a-scaled-microservice-architecture-2b791289e911)
+- [Distributed Caching in ASP.NET Core using Redis Cache](https://www.ezzylearning.net/tutorial/distributed-caching-in-asp-net-core-using-redis-cache)
 ## 📺 Videos
 - [Real-Time Delivery Architecture at Twitter](https://www.infoq.com/presentations/Real-Time-Delivery-Twitter/)
 - [Software Architecture Introduction (part 3): Cache explained](https://www.youtube.com/watch?v=QBMTGngjWdU)
@@ -31,7 +32,7 @@
 - [Redis is Dead Long live Redis!](https://www.youtube.com/watch?v=NymIgA7Wa78)
 - [Scaling Your Redis Workloads with Redis Cluster - AWS Online Tech Talks](https://www.youtube.com/watch?v=3Ovx5vJ17ws)
 - [Scaling Redis To 1M Ops/Sec](https://www.youtube.com/watch?v=55TFuBMFWns)
-- [](https://www.youtube.com/watch?v=sVCZo5B8ghE)
+- [Redis In-memory Database Crash Course](https://www.youtube.com/watch?v=sVCZo5B8ghE)
 ## Use Cases
 - [Case Studies](https://redislabs.com/case-studies/)
 - [5 Industry Use Cases for Redis Developers](https://redislabs.com/blog/5-industry-use-cases-for-redis-developers/)

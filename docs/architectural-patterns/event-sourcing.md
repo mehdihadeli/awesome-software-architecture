@@ -23,6 +23,9 @@
 - [Snapshots in Event Sourcing](https://www.eventstore.com/blog/snapshots-in-event-sourcing)
 - [Eventsourcing Patterns: Forgettable Payloads](https://verraes.net/2019/05/eventsourcing-patterns-forgettable-payloads/)
 - [How to get the current entity state from events?](https://event-driven.io/en/how_to_get_the_current_entity_state_in_event_sourcing/)
+- [Counterexamples regarding consistency in event sourced solutions (Part 1)](https://www.eventstore.com/blog/counterexamples-regarding-consistency-in-event-sourced-solutions-part-1)
+- [Counterexamples regarding consistency in event sourced solutions (Part 2)](https://www.eventstore.com/blog/counterexamples-regarding-consistency-in-event-sourced-solutions-part-2)
+- [Counterexamples regarding consistency in event sourced solutions (Part 3)](https://www.eventstore.com/blog/counterexamples-regarding-consistency-in-event-sourced-solutions-part-3)
 ## 📺 Videos
 
 - [Event Sourcing Example & Explained in plain English](https://www.youtube.com/watch?v=AUj4M-st3ic)

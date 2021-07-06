@@ -15,6 +15,9 @@
 - [anupavanm/csharp-design-patterns-for-humans-examples](https://github.com/anupavanm/csharp-design-patterns-for-humans-examples) - Complete C# Examples Refereed in csharp-design-patterns-for-humans
 - [wesdoyle/design-patterns-explained-with-food](https://github.com/wesdoyle/design-patterns-explained-with-food) - GoF Design Patterns with "Real-World" examples involving Food-Related Businesses and mock dependencies
 - [ardalis/DesignPatternsInCSharp](https://github.com/ardalis/DesignPatternsInCSharp)
+- [ledjon-behluli/SOLID-Wash-Tunnel](https://github.com/ledjon-behluli/SOLID-Wash-Tunnel) - Educational programming series on how to model an automatic wash tunnel with SOLID principles & various design patterns.
+## Articles
+- [SOLID Wash Tunnel - Introduction](https://www.ledjonbehluli.com/posts/wash-tunnel/introduction/)
 
 ## 📺 Videos
 - [Design Patterns Explained with Food](https://www.youtube.com/playlist?list=PL3_YUnRN3Uhi-__AdJ3yWgDB95_GYeX3x)

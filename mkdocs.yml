@@ -71,6 +71,7 @@ nav:
   - Favor Composition over Inheritance: architectural-design-principles/favor-composition-over-inheritance.md
   - GRASP: architectural-design-principles/grasp.md
   - Interface Segregation: architectural-design-principles/interface-segregation.md
+  - Inversion of Control: architectural-design-principles/inversion-control.md
   - Keep It Simple - KISS: architectural-design-principles/kiss.md
   - Open/Closed Principle: architectural-design-principles/open-closed-principle.md
   - Persistence Ignorance: architectural-design-principles/persistence-ignorance.md

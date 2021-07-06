@@ -63,6 +63,7 @@
 - [DDD.4 – Isolating the domain](https://herbertograca.com/2015/09/18/domain-driven-design-by-eric-evans-chap-4-isolationg-the-domain/)
 - [DDD.5 – A model expressed in software](https://herbertograca.com/2015/09/29/domain-driven-design-by-eric-evans-chap-5-a-model-expressed-in-software/)
 - [DDD.6 – The lifecycle of a domain object](https://herbertograca.com/2015/10/04/domain-driven-design-by-eric-evans-chap-6-the-lifecycle-of-a-domain-object/)
+- [Change Tracking while doing DDD](https://www.ledjonbehluli.com/posts/change_tracking_ddd/)
 ## 📺 Videos
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU)
@@ -115,6 +116,7 @@
 - [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example?utm_source=about-wild-workouts) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring of a Go project.
 - [peholmst/DDDExample](https://github.com/peholmst/DDDExample) - Example application for my TechLunch @ Vaadin about DDD and the Hexagonal Architecture
 - [EnLabSoftware/HRManagement](https://github.com/EnLabSoftware/HRManagement)
+- [ledjon-behluli/SeparateDMAndPmWithTracking](https://github.com/ledjon-behluli/SeparateDMAndPmWithTracking)
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [xhafan/coreddd](https://github.com/xhafan/coreddd) - A set of open-source .NET libraries helping with domain-driven design (DDD) and CQRS

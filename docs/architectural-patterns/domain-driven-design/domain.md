@@ -28,7 +28,8 @@
 - [Domain services vs Application services](https://enterprisecraftsmanship.com/posts/domain-vs-application-services/)
 - [What is domain logic?](https://enterprisecraftsmanship.com/2016/08/25/what-is-domain-logic/)
 - [Domain model purity and lazy loading](https://enterprisecraftsmanship.com/posts/domain-model-purity-lazy-loading/)
-
+- [Change Tracking while doing DDD](https://www.ledjonbehluli.com/posts/change_tracking_ddd/)
+- [Referencing external libraries from the domain model](https://www.getdrip.com/deliveries/owp2b8gphp8iwhi66vtj?view_in_browser=true&__s=fk6miphh1sspz3nnxtpu)
 ## 📺 Videos
 
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU) 
