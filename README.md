@@ -24,38 +24,9 @@ Thanks a bunch for supporting me!
 
 [tweet]: https://twitter.com/intent/tweet?url=https://github.com/mehdihadeli/awesome-software-architecture&text=A%20curated%20list%20of%20awesome%20articles%20and%20resources%20to%20learn%20and%20practice%20about%20software%20architecture%2C%20patterns%2C%20and%20principles&hashtags=dotnetcore,dotnet,csharp,microservices,netcore,aspnetcore,ddd,cqrs,softwarearchitecture,designpatterns,modularmonolith
 
-<!-- ## Contents
-
-- [Anti Patterns](docs/anti-patterns/index.md)
-- [Architectural Design Principles](docs/architectural-design-principles/index.md)
-- [Architectural Styles](docs/architectural-style/index.md)
-- [Architectural Patterns](docs/architectural-patterns/architectural-patterns.md)
-- [Azure Application Architecture](docs/azure/index.md)
-- [Caching](docs/caching.md)
-- [Clean Code](docs/clean-code.md)
-- [Cloud Design Patterns](docs/cloud-design-patterns/index.md)
-- [Cloud Native](docs/cloud-native/index.md)
-- [Concurrency](docs/concurrency.md)
-- [Design Best Practices](docs/design-best-practices/index.md)
-- [Design Patterns](docs/design-patterns/index.md)
-- [Distributed Systems Design](docs/distributed-systems-design.md)
-- [Distributed Transactions](docs/distributed-transactions.md)
-- [Event Storming](docs/event-storming.md)
-- [Eventual Consistency](docs/eventual-consistency.md)
-- [Infrastructure As a Code](docs/infrastructure-as-code/index.md)
-- [Messaging Patterns](docs/messaging/messaging.md)
-- [Modeling](docs/modeling/index.md)
-- [Object Oriented Design](docs/object-oriented-design.md)
-- [Others](docs/others.md)
-- [Refactoring](docs/refactoring.md)
-- [RESTful API Design](docs/rest.md)
-- [Scalable Software Architecture](docs/scalable-software-architecture.md)
-- [Software Architecture](docs/software-architecture.md) -->
-
 ## Contribution
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/contributing.md) pages first.
 
 Thanks to all [contributors](https://github.com/mehdihadeli/awesome-software-architecture/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
-<a href="https://github.com/mehdihadeli/awesome-software-architecture/graphs/contributors"><img src="https://opencollective.com/awesome-software-architecture/contributors.svg?width=882&button=false" /></a>
