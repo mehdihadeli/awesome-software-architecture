@@ -58,7 +58,8 @@
 - [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce) - The most popular open-source eCommerce shopping cart solution based on ASP.NET Core
 - [ThreeDotsLabs/monolith-microservice-shop](https://github.com/ThreeDotsLabs/monolith-microservice-shop) - Source code for https://threedots.tech/post/microservices-or-monolith-its-detail/ article.
 - [fluentpos/fluentpos](https://github.com/fluentpos/fluentpos) - Open Source Point Of Sales and Inventory Management Solution built with ASP.NET Core 5.0 WebAPI and Blazor Web Assembly.
-
+- [marcinstelmach/AwesomeBank](https://github.com/marcinstelmach/AwesomeBank) - Bank system in .NET 5.0 using DDD, CQRS, modular monolith architecture
+- [stemmlerjs/ddd-forum](https://github.com/stemmlerjs/ddd-forum) - Hacker news-inspired forum app built with TypeScript using DDD practices from solidbook.io.
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

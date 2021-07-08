@@ -40,6 +40,7 @@
 - [Better Software Design with Clean Architecture](https://fullstackmark.com/post/11/better-software-design-with-clean-architecture)
 - [Clean API Architecture](https://medium.com/perry-street-software-engineering/clean-api-architecture-2b57074084d5)
 - [How to make Dapr client works well with Refit and RestEase in 5 minutes](https://dev.to/thangchung/how-to-make-dapr-client-works-well-with-refit-and-restease-40m)
+- [Organizing App Logic with the Clean Architecture [with Examples]](https://khalilstemmler.com/articles/software-design-architecture/organizing-app-logic/)
 ## 📺 Videos
 
 - [Clean Testing - Clean Architecture with .NET Core - Jason Taylor - NDC Oslo 2020](https://www.youtube.com/watch?v=T6NRcX1vnz8) 
@@ -99,6 +100,7 @@
 - [thangchung/clean-architecture-dotnet](https://github.com/thangchung/clean-architecture-dotnet) - Dev: Apply Minimal Clean Architecture with DDD-lite, CQRS-lite, and just enough Cloud-native patterns on eCommerce sample business domain. 🍻 Ops: Use Tye with Dapr extension to deploy it to Kubernetes.
 - [fakhrulhilal/cleanarchitecture-kit](https://github.com/fakhrulhilal/cleanarchitecture-kit) - A starting kit to build project with clean architecture
 - [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
+- [keremvaris/Sennedjem](https://github.com/keremvaris/Sennedjem) - Sennedjem is a software development infrastructure that adopts the CQRS (Command Query Responsibility Segregation) approach and focuses on SOLID principles and Clean Architecture methods. RabbitMq is very skilled in integrating with ElasticSearch etc tools. 
 ## 📚 Books
 
 - [Get Your Hands Dirty on Clean Architecture](https://www.packtpub.com/product/get-your-hands-dirty-on-clean-architecture/9781839211966)

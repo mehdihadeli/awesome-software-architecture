@@ -145,6 +145,10 @@
 - [thangchung/clean-architecture-dotnet](https://github.com/thangchung/clean-architecture-dotnet) - Dev: Apply Minimal Clean Architecture with DDD-lite, CQRS-lite, and just enough Cloud-native patterns on eCommerce sample business domain. 🍻 Ops: Use Tye with Dapr extension to deploy it to Kubernetes.
 - [Crizstian/cinema-microservice](https://github.com/Crizstian/cinema-microservice) - Example of a cinema microservice
 - [mmorejon/microservices-docker-go-mongodb](https://github.com/mmorejon/microservices-docker-go-mongodb) - Example of Microservices in Go with Docker, Kubernetes and MongoDB
+- [AlphaYu/Adnc](https://github.com/AlphaYu/Adnc) - The microservice framework is also suitable for the development of monolithic architecture systems. It supports the classic three-tier and DDD architecture development model, and integrates a series of mainstream and stable microservice supporting technology stacks. A framework with front-end and back-end separation. The front-end is based on Vue and the back-end is built on .Net 5.0.
+- [hbenc-uk/dapr-store](https://github.com/benc-uk/dapr-store) - Sample application showcasing the use of Dapr to build microservices based apps
+- [sjefvanleeuwen/showcase](https://github.com/sjefvanleeuwen/showcase) - A Full Stack Journey with Micro Services and Micro Front Ends. Using dapr, kubernetes, react module federation and web assembly
+- [baotoq/micro-commerce](https://github.com/baotoq/micro-commerce) - React, Nextjs, ASP.NET Core 5.0, IdentityServer, Dapr, Azure pipeline, K8S, SonarQube
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
 - [Building Microservices: Designing Fine-Grained Systems 1st Edition](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
@@ -156,6 +160,7 @@
 - [Building Microservices with ASP.NET Core: Develop, Test, and Deploy Cross-Platform Services in the Cloud](https://www.amazon.com/Building-Microservices-ASP-NET-Core-Cross-Platform/dp/1491961732)
 - [Building Event-Driven Microservices: Leveraging Organizational Data at Scale](https://www.amazon.com/Building-Event-Driven-Microservices-Leveraging-Organizational/dp/1492057894)
 - [Practical Microservices with Dapr and .NET: A developer's guide to building cloud-native applications using the Dapr event-driven runtime](https://www.amazon.com/Practical-Microservices-Dapr-NET-cloud-native/dp/1800568371)
+
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>

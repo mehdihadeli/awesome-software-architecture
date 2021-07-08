@@ -89,6 +89,7 @@
 - [oskardudycz/EventSourcing.NetCore/Sample/Tickets](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/Tickets)
 - [oskardudycz/EventSourcing.NetCore/Sample/MeetingsManagement](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/MeetingsManagement)
 - [oskardudycz/EventSourcing.NetCore/Sample/Warehouse](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/Warehouse)
+- [keremvaris/Sennedjem](https://github.com/keremvaris/Sennedjem) - Sennedjem is a software development infrastructure that adopts the CQRS (Command Query Responsibility Segregation) approach and focuses on SOLID principles and Clean Architecture methods. RabbitMq is very skilled in integrating with ElasticSearch etc tools. 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

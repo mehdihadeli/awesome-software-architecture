@@ -117,6 +117,9 @@
 - [peholmst/DDDExample](https://github.com/peholmst/DDDExample) - Example application for my TechLunch @ Vaadin about DDD and the Hexagonal Architecture
 - [EnLabSoftware/HRManagement](https://github.com/EnLabSoftware/HRManagement)
 - [ledjon-behluli/SeparateDMAndPmWithTracking](https://github.com/ledjon-behluli/SeparateDMAndPmWithTracking)
+- [marcinstelmach/AwesomeBank](https://github.com/marcinstelmach/AwesomeBank) - Bank system in .NET 5.0 using DDD, CQRS, modular monolith architecture
+- [stemmlerjs/ddd-forum](https://github.com/stemmlerjs/ddd-forum) - Hacker news-inspired forum app built with TypeScript using DDD practices from solidbook.io.
+- [AlphaYu/Adnc](https://github.com/AlphaYu/Adnc) - The microservice framework is also suitable for the development of monolithic architecture systems. It supports the classic three-tier and DDD architecture development model, and integrates a series of mainstream and stable microservice supporting technology stacks. A framework with front-end and back-end separation. The front-end is based on Vue and the back-end is built on .Net 5.0.
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [xhafan/coreddd](https://github.com/xhafan/coreddd) - A set of open-source .NET libraries helping with domain-driven design (DDD) and CQRS

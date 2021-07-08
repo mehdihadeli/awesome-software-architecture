@@ -3,7 +3,7 @@
 
 ## Resources
 - [Dapr Youtube](https://www.youtube.com/channel/UCtpSQ9BLB_3EXdWAUQYwnRA/videos)
-
+- [mstrYoda/awesome-dapr](https://github.com/mstrYoda/awesome-dapr) - A cruated list of awesome Dapr application runtime related tools.
 ## 📕 Articles
 - [Make microservices fun again with Dapr](https://daveabrock.com/2021/04/29/meet-dapr)
 - [Getting started with Dapr for .NET Developers](https://laurentkempe.com/2021/03/09/getting-started-with-dapr-for-dotnet-developers/)
@@ -41,7 +41,12 @@
 - [kimcu-on-thenet/dapr-tye-simple-microservices](https://github.com/kimcu-on-thenet/dapr-tye-simple-microservices) - An example of building .NET Core microservices with Dapr and Tye
 - [alugili/ModernArchitectureShop](https://github.com/alugili/ModernArchitectureShop) - The Microservices Online Shop is an application with a modern software architecture that is cleanly designed and based on.NET lightweight technologies. The shop has two build variations. The first variant is the classic Microservices Architectural Style. The second one is with Dapr. Dapr has a comprehensive infrastructure
 - [thangchung/clean-architecture-dotnet](https://github.com/thangchung/clean-architecture-dotnet) - Dev: Apply Minimal Clean Architecture with DDD-lite, CQRS-lite, and just enough Cloud-native patterns on eCommerce sample business domain. 🍻 Ops: Use Tye with Dapr extension to deploy it to Kubernetes.
-- [Leverage the power of Dapr to build microservices on AKS](https://github.com/trumhemcut/dapr-microservices)
+- [trumhemcut/dapr-microservices](https://github.com/trumhemcut/dapr-microservices) - Leverage the power of Dapr to build microservices on AKS
+- [benc-uk/dapr-store](https://github.com/benc-uk/dapr-store) - Sample application showcasing the use of Dapr to build microservices based apps
+- [alphayu/adnc](https://github.com/alphayu/adnc) - The microservice framework is also suitable for the development of monolithic systems. It supports the classic three-layer and DDD architecture development model, and integrates a series of mainstream and stable microservice supporting technology stacks. A framework with front-end and back-end separation, the front-end is based on Vue, and the back-end is built on .Net 5.0.
+- [sjefvanleeuwen/showcase](https://github.com/sjefvanleeuwen/showcase) - A Full Stack Journey with Micro Services and Micro Front Ends. Using dapr, kubernetes, react module federation and web assembly
+- [jbw/TooBigToFailBurgerShop](https://github.com/jbw/TooBigToFailBurgerShop) - .NET Microservice Reference Application. It's also an over-engineered burger shop!
+- [baotoq/micro-commerce](https://github.com/baotoq/micro-commerce) - React, Nextjs, ASP.NET Core 5.0, IdentityServer, Dapr, Azure pipeline, K8S, SonarQube
 ## Books
 - [Dapr for .NET Developers](https://docs.microsoft.com/en-us/dotnet/architecture/dapr-for-net-developers/?WT.mc_id=-blog-scottha)
 

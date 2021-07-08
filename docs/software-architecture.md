@@ -1,12 +1,10 @@
 # Software Architecture
 
 ## 📘 Resources
-
-- [Modular Monolith](https://files.gotocon.com/uploads/slides/conference_12/515/original/gotoberlin2018-modular-monoliths.pdf)
 - [Visualising Software Architecture](http://static.codingthearchitecture.com/visualising-software-architecture.pdf)
 - [.NET Architecture Guides](https://dotnet.microsoft.com/learn/dotnet/architecture-guides)
 - [Open Agile Architecture](https://pubs.opengroup.org/architecture/o-aa-standard/#_open_agile_architecture)
-
+- [mhadidg/software-architecture-books](https://github.com/mhadidg/software-architecture-books)
 ## 📕 Articles
 
 - [The Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)
