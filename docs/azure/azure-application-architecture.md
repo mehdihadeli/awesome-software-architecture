@@ -23,6 +23,7 @@
 - [Azure Tutorials Playlist - Nick Chapsas](https://www.youtube.com/playlist?list=PLUOequmGnXxPPcrN0PFclBABXEckcPzYY)
 - [Microsoft Azure for Beginners - Introduction to Azure Services Playlist - Adam Marczak](https://www.youtube.com/playlist?list=PLGjZwEtPN7j96A9JNpA4ouI3bH-uWZ0Ht)
 - [Azure Playlist - Mohamad Lawand](https://www.youtube.com/playlist?list=PLcvTyQIWJ_ZrrcBn_tQ0Ny1VwJFpUIf5r)
+- [Exploring Azure [EP 1] - General Overview](https://www.youtube.com/watch?v=0ZX76tr7myQ)
 ## 📕 Articles
 - [Cars Island Car Rental on the Azure cloud - part 1](https://daniel-krzyczkowski.github.io/Cars-Island-Car-Rental-On-Azure-Cloud/)
 - [Modern application development](https://azure.microsoft.com/en-us/solutions/modern-application-development/)

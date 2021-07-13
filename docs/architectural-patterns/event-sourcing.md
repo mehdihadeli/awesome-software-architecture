@@ -36,7 +36,9 @@
 - [eventstore webinars](https://www.eventstore.com/webinars)
 - [Testing Aggregate with Event Sourcing made SIMPLE](https://www.youtube.com/watch?v=rGlNhYOqKZk)
 - [A practical introduction to DDD, CQRS & Event Sourcing - Dennis Doomen - KanDDDinsky 2019](https://www.youtube.com/watch?v=r26BuahD8aM)
-
+- [Event Sourcing & CQRS in C# - The Aggregate Root](https://www.youtube.com/watch?v=LAU2gFtPC_0)
+- [Event Sourcing & CQRS in C#: The Repository](https://www.youtube.com/watch?v=ZEHgs2qy2MQ)
+- [Event Sourcing & CQRS in C# - The Event Store](https://www.youtube.com/watch?v=dfzsAGUAAYQ)
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET

@@ -7,6 +7,9 @@ repo_url: https://github.com/mehdihadeli/awesome-software-architecture
 edit_uri: edit/master/docs/
 theme: 
   name: material 
+  palette:
+    primary: 'deep purple'
+    accent: 'indigo'  
   prev_next_buttons_location: both
   navigation_depth: 4
   titles_only: False
@@ -109,9 +112,10 @@ nav:
     - Observibility: 
       - Observibility: architectural-patterns/microservices/observability/observibility.md
       - Distributed Tracing: architectural-patterns/microservices/observability/distributed-tracing.md
+      - Diagnostics: architectural-patterns/microservices/observability/diagnostics.md
       - Logging: architectural-patterns/microservices/observability/logging.md
-      - Observibility: architectural-patterns/microservices/observability/observibility.md
-      - monitoring: architectural-patterns/microservices/observability/monitoring.md    
+      - Monitoring: architectural-patterns/microservices/observability/monitoring.md   
+      - Metrics: architectural-patterns/microservices/observability/metrics.md         
     - Reverse Proxy:
       - Reverse Proxy: architectural-patterns/microservices/reverse-proxy/revers-proxy.md
       - YARP: architectural-patterns/microservices/reverse-proxy/yarp.md
@@ -136,6 +140,7 @@ nav:
   - MicroKernel Architectural Pattern: architectural-patterns/micro-kernel.md
   - Modular Monolith: architectural-patterns/modular-monolith.md
 - Design Patterns: 
+  - Builder Pattern: design-patterns/builder.md
   - Design Patterns: design-patterns/design-patterns.md
   - Singleton: design-patterns/singleton.md
   - Decorator Pattern: design-patterns/decorator-pattern.md
@@ -243,6 +248,7 @@ nav:
 - RESTful API Design: rest.md
 - Caching: caching.md
 - Aspect Oriented Programming: aop.md
+- Functional Programming: functional.md
 - Packaging: packaging.md
 - Refactoring: refactoring.md
 - NoSQL:

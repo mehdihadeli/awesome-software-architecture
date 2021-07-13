@@ -22,6 +22,7 @@
 - [Multi-Container ASP.NET Core App with Docker Compose](https://www.yogihosting.com/docker-compose-aspnet-core/)
 - [How Visual Studio builds containerized apps](https://docs.microsoft.com/en-us/visualstudio/containers/container-build?view=vs-2019)
 - [Creating Docker multi-arch images for ARM64 from Windows](https://andrewlock.net/creating-multi-arch-docker-images-for-arm64-from-windows/)
+- [6 Things To Know When Dockerizing Microsoft .NET Apps in Production](https://levelup.gitconnected.com/6-things-to-know-when-dockerizing-microsoft-net-apps-in-production-45b8c27a41b0)
 ## 📹 Videos
 - [Deploy a .NET Core API with Docker (Step-by-Step)](https://www.youtube.com/watch?v=f0lMGPB10bM)
 - [Docker Tutorial for Beginners [FULL COURSE in 3 Hours]](https://www.youtube.com/watch?v=3c-iBn73dDE)

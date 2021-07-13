@@ -1,6 +1,10 @@
 # Distributed Tracing
 
 ## 📕 Articles
+- [Collect a distributed trace](https://docs.microsoft.com/en-us/dotnet/core/diagnostics/distributed-tracing-collection-walkthroughs)
+- [NET distributed tracing concepts](https://docs.microsoft.com/en-us/dotnet/core/diagnostics/distributed-tracing-concepts)
+- [Adding distributed tracing instrumentation](https://docs.microsoft.com/en-us/dotnet/core/diagnostics/distributed-tracing-instrumentation-walkthroughs)
+- [Using W3C Trace Context standard in distributed tracing](https://dev.to/luizhlelis/using-w3c-trace-context-standard-in-distributed-tracing-3743)
 - [Building End-to-End Diagnostics and Tracing: An Intro](https://jimmybogard.com/building-end-to-end-diagnostics-and-tracing-a-primer/)
 - [Distributed Tracing in ASP.NET Core with Jaeger and Tye Part 1 - Distributed Tracing](https://thecloudblog.net/post/distributed-tracing-in-asp.net-core-with-jaeger-and-tye-part-1-distributed-tracing/)
 - [Distributed Tracing in ASP.NET Core with Jaeger and Tye Part 2 - Project Tye](https://thecloudblog.net/post/distributed-tracing-in-asp.net-core-with-jaeger-and-tye-part-2-project-tye/)
@@ -9,7 +13,10 @@
 - [Deep Dive into Open Telemetry for .NET](https://rehansaeed.com/deep-dive-into-open-telemetry-for-net/)
 - [Open Telemetry for ASP.NET Core](https://rehansaeed.com/open-telemetry-for-asp-net-core/)
 - [Exporting Open Telemetry Data to Jaeger](https://rehansaeed.com/exporting-open-telemetry-data-to-jaeger/)
+- [OpenTracing and C#](https://www.olivercoding.com/2018-12-14-jaeger-csharp/)
+- [OpenTracing and C#: part 2](https://www.olivercoding.com/2018-12-30-jaeger-csharp-2/)
 - [Getting started with OpenTelemetry and distributed tracing in .NET Core](https://www.mytechramblings.com/posts/getting-started-with-opentelemetry-and-dotnet-core/)
+- [Distributed Tracing with OpenTracing API of .NET Core Applications on Kubernetes](https://www.gokhan-gokalp.com/en/distributed-tracing-with-opentracing-api-of-net-core-applications-on-kubernetes/)
 - [How Distributed Tracing Solves One of the Worst Microservices Problems](https://petabridge.com/blog/why-use-distributed-tracing/)
 - [Why You Should be Paying Attention to OpenTracing](https://petabridge.com/blog/why-use-opentracing/)
 - [The Current State of OpenTelemetry in .NET](https://petabridge.com/blog/state-opentelemetry-dotnet/)
@@ -28,12 +35,30 @@
 - [Correlation ID with ASP.NET Web API](https://mderriey.com/2016/11/18/correlation-id-with-asp-net-web-api/)
 - [ASP.NET 5 and Log Correlation by Request Id](https://www.tugberkugurlu.com/archive/asp-net-5-and-log-correlation-by-request-id)
 - [A consistent approach to track correlation IDs through microservices](https://theburningmonk.com/2015/05/a-consistent-approach-to-track-correlation-ids-through-microservices/)
-
+- [Trace Context](https://www.w3.org/TR/trace-context)
+- [Propagation format for distributed trace context: Baggage](https://w3c.github.io/baggage/)
+- [Using Jaeger and OpenTelemetry SDKs in a mixed environment with W3C Trace-Context](https://medium.com/jaegertracing/jaeger-clients-and-w3c-trace-context-c2ce1b9dc390)
+- [Distributed Tracing In .NET](https://dashdevs.com/blog/quick-and-efficient-distributed-tracing-in.net/)
+- [Diagnostics Improvements in .NET Core 3.0](https://www.youtube.com/watch?v=fkjetdIdcyg)
+- [Distributed Tracing with gRPC and OpenTelemetry](https://blog.ladeak.net/posts/grpc-distributed-tracing)
+- [Diagnostics in .Net Core 3: Listening to outbound HTTP requests](https://im5tu.io/article/2020/06/diagnostics-in-.net-core-3-listening-to-outbound-http-requests/)
+- [Diagnostics in .Net Core 3: Listening to inbound HTTP requests](https://im5tu.io/article/2020/06/diagnostics-in-.net-core-3-listening-to-inbound-http-requests/)
+- [Introducing diagnostics improvements in .NET Core 3.0](https://devblogs.microsoft.com/dotnet/introducing-diagnostics-improvements-in-net-core-3-0/)
+- [Using the DiagnosticSource in .NET Core: Theory](https://sudonull.com/post/3671-Using-the-DiagnosticSource-in-NET-Core-Theory)
 ## 📺 Videos
 - [Jimmy Bogard - Distributed Tracing Made Easy with .NET Core and OpenTelemetry](https://www.youtube.com/watch?v=s9UNr1oEMl4)
 - [On .NET Live - Cloud Native Patterns for .NET Developers](https://www.youtube.com/watch?v=PDdHa0ushJ0)
 - [Distributed Tracing Made Easy with .NET Core - Jimmy Bogard](https://www.youtube.com/watch?v=kfyCHtqk-Ts)
-
+- [Distributed Tracing Made Easy with .NET 5, with Jimmy Bogard](https://www.youtube.com/watch?v=N0r5NSY3ZIQ)
+- [ASP.NET Core Series: Tracing](https://www.youtube.com/watch?v=G_C1RGOYZk8)
+- [Distributed Tracing with Jaeger [Microservices .NET]](https://www.youtube.com/watch?v=toXFRBtv4fg)
+- [Application Diagnostics in .NET Core 3.1 - Damian Edwards & David Fowler](https://www.youtube.com/watch?v=p6CjlnwPhHQ)
+- [DiagnosticSource and Activity, Tracing in .NET Part 1 - .NET Concept of the Week - Episode 18](https://www.youtube.com/watch?v=y52l8XR3XK4)
 ## 📦 Libraries
+- [opentracing-contrib/csharp-netcore](https://github.com/opentracing-contrib/csharp-netcore) - OpenTracing instrumentation for .NET Core & .NET 5 apps
+- [jaegertracing/jaeger-client-csharp](https://github.com/jaegertracing/jaeger-client-csharp) - C# client (tracer) for Jaeger
 - [open-telemetry/opentelemetry-dotnet](https://github.com/open-telemetry/opentelemetry-dotnet) - The OpenTelemetry .NET Client
 - [SkyAPM/SkyAPM-dotnet](https://github.com/SkyAPM/SkyAPM-dotnet) - The .NET/.NET Core instrument agent for Apache SkyWalking
+- [jbogard/MongoDB.Driver.Core.Extensions.DiagnosticSources](https://github.com/jbogard/MongoDB.Driver.Core.Extensions.DiagnosticSources) - extends the core MongoDB C# driver to expose telemetry information via System.Diagnostics.
+- [jbogard/NServiceBus.Extensions.Diagnostics.OpenTelemetry](https://github.com/jbogard/NServiceBus.Extensions.Diagnostics.OpenTelemetry)
+- [jbogard/MongoDB.Driver.Core.Extensions.DiagnosticSources](https://github.com/jbogard/MongoDB.Driver.Core.Extensions.DiagnosticSources)
