@@ -64,6 +64,7 @@
 - [DDD.5 – A model expressed in software](https://herbertograca.com/2015/09/29/domain-driven-design-by-eric-evans-chap-5-a-model-expressed-in-software/)
 - [DDD.6 – The lifecycle of a domain object](https://herbertograca.com/2015/10/04/domain-driven-design-by-eric-evans-chap-6-the-lifecycle-of-a-domain-object/)
 - [Change Tracking while doing DDD](https://www.ledjonbehluli.com/posts/change_tracking_ddd/)
+- [Domain-Driven Refactoring: Procedural Beginnings](https://jimmybogard.com/domain-driven-refactoring-procedural-beginnings/)
 ## 📺 Videos
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU)

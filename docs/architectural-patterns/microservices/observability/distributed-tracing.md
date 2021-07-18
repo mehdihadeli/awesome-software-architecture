@@ -26,6 +26,7 @@
 - [Capturing and forwarding correlation IDs in ASP.NET Core](https://vgaltes.com/post/forwarding-correlation-ids-in-aspnetcore/)
 - [Capturing and forwarding correlation IDs in ASP.NET Core, the easy way](https://vgaltes.com/post/forwarding-correlation-ids-in-aspnetcore-version-2/)
 - [ASP.NET CORE CORRELATION IDS](https://www.stevejgordon.co.uk/asp-net-core-correlation-ids)
+- [Diagnostics in .Net Core 3: Listening to outbound HTTP requests](https://im5tu.io/article/2020/06/diagnostics-in-.net-core-3-listening-to-outbound-http-requests/)
 - [Request Tracing And Logging Between Multiple MicroService With Correlation Id Using Serilog In .NET Core](https://www.c-sharpcorner.com/article/logging-and-tracing-in-multiple-microservice-with-correlation-using-net-core/)
 - [.NET Core Log Correlation - Request Id](https://www.frakkingsweet.com/net-core-log-correlation-request-id/)
 - [.NET Core Log Correlation - Arbitrary Log Properties](https://www.frakkingsweet.com/net-core-log-correlation-arbitrary-log-properties/)
@@ -41,20 +42,31 @@
 - [Distributed Tracing In .NET](https://dashdevs.com/blog/quick-and-efficient-distributed-tracing-in.net/)
 - [Diagnostics Improvements in .NET Core 3.0](https://www.youtube.com/watch?v=fkjetdIdcyg)
 - [Distributed Tracing with gRPC and OpenTelemetry](https://blog.ladeak.net/posts/grpc-distributed-tracing)
-- [Diagnostics in .Net Core 3: Listening to outbound HTTP requests](https://im5tu.io/article/2020/06/diagnostics-in-.net-core-3-listening-to-outbound-http-requests/)
-- [Diagnostics in .Net Core 3: Listening to inbound HTTP requests](https://im5tu.io/article/2020/06/diagnostics-in-.net-core-3-listening-to-inbound-http-requests/)
 - [Introducing diagnostics improvements in .NET Core 3.0](https://devblogs.microsoft.com/dotnet/introducing-diagnostics-improvements-in-net-core-3-0/)
 - [Using the DiagnosticSource in .NET Core: Theory](https://sudonull.com/post/3671-Using-the-DiagnosticSource-in-NET-Core-Theory)
+- [Add SkyWalking + SkyApm-dotnet distributed link tracking system to the microservice framework Demo.MicroServer](https://www.programmersought.com/article/76773716203/)
+- [Asp.Net Core uses Skywalking to implement distributed link tracking](https://www.programmersought.com/article/64607508135/)
+- [ASP.NET Core Apps Observability](https://devblogs.microsoft.com/aspnet/observability-asp-net-core-apps/)
+- [OpenTelemetry .NET API](https://github.com/open-telemetry/opentelemetry-dotnet/blob/main/src/OpenTelemetry.Api/README.md)
+- [OpenTelemetry .NET SDK](https://github.com/open-telemetry/opentelemetry-dotnet/tree/main/src/OpenTelemetry)
+- [OpenTelemetry in .NET](https://lightstep.com/blog/opentelemetry-net-all-you-need-to-know/)
 ## 📺 Videos
 - [Jimmy Bogard - Distributed Tracing Made Easy with .NET Core and OpenTelemetry](https://www.youtube.com/watch?v=s9UNr1oEMl4)
 - [On .NET Live - Cloud Native Patterns for .NET Developers](https://www.youtube.com/watch?v=PDdHa0ushJ0)
 - [Distributed Tracing Made Easy with .NET Core - Jimmy Bogard](https://www.youtube.com/watch?v=kfyCHtqk-Ts)
 - [Distributed Tracing Made Easy with .NET 5, with Jimmy Bogard](https://www.youtube.com/watch?v=N0r5NSY3ZIQ)
+- [Distributed Tracing with .NET 5](https://www.youtube.com/watch?v=cgfIX9Y7AsQ)
 - [ASP.NET Core Series: Tracing](https://www.youtube.com/watch?v=G_C1RGOYZk8)
 - [Distributed Tracing with Jaeger [Microservices .NET]](https://www.youtube.com/watch?v=toXFRBtv4fg)
 - [Application Diagnostics in .NET Core 3.1 - Damian Edwards & David Fowler](https://www.youtube.com/watch?v=p6CjlnwPhHQ)
 - [DiagnosticSource and Activity, Tracing in .NET Part 1 - .NET Concept of the Week - Episode 18](https://www.youtube.com/watch?v=y52l8XR3XK4)
+- [Tracing with Jaeger and Kubernetes](https://www.youtube.com/watch?v=FikF0DtxZno)
+
+## Samples
+- [karlospn/opentelemetry-tracing-demo](https://github.com/karlospn/opentelemetry-tracing-demo) - Example about how to use OpenTelemetry for tracing when we have a series of distributed applications communicating between them
+- [jbogard/nsb-diagnostics-poc](https://github.com/jbogard/nsb-diagnostics-poc)
 ## 📦 Libraries
+- [SkyAPM/SkyAPM-dotnet](https://github.com/SkyAPM/SkyAPM-dotnet) - The .NET/.NET Core instrument agent for Apache SkyWalking
 - [opentracing-contrib/csharp-netcore](https://github.com/opentracing-contrib/csharp-netcore) - OpenTracing instrumentation for .NET Core & .NET 5 apps
 - [jaegertracing/jaeger-client-csharp](https://github.com/jaegertracing/jaeger-client-csharp) - C# client (tracer) for Jaeger
 - [open-telemetry/opentelemetry-dotnet](https://github.com/open-telemetry/opentelemetry-dotnet) - The OpenTelemetry .NET Client

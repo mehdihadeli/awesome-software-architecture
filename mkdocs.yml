@@ -106,6 +106,7 @@ nav:
   - Event Sourcing: architectural-patterns/event-sourcing.md
   - Microservices: 
     - Microservices: architectural-patterns/microservices/microservices.md
+    - Communication: architectural-patterns/microservices/communication.md
     - Design Patterns:
       - Design Patterns: architectural-patterns/microservices/design-patterns/design-patterns.md
       - BFF: architectural-patterns/microservices/design-patterns/bff.md
@@ -201,6 +202,8 @@ nav:
     - Paas Manager: cloud-native/paas-manager/index.md
     - Rancher: cloud-native/paas-manager/rancher.md
     - OpenShift: cloud-native/paas-manager/openshift.md
+    - Heroku: cloud-native/paas-manager/heroku.md
+    - Netlify: cloud-native/paas-manager/netlify.md
   - Reverse Proxy:
     - Reverse Proxy: cloud-native/reverse-proxy/reverse-proxy.md
     - Envoy: cloud-native/reverse-proxy/envoy.md

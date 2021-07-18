@@ -13,7 +13,6 @@
 
 - [Design a microservice-oriented application](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/microservice-application-design)
 - [Creating a simple data-driven CRUD microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/data-driven-crud-microservice)
-- [Implementing event-based communication between microservices (integration events)](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/integration-event-based-microservice-communications)
 - [Microservices architecture: What the gurus say about it](https://herbertograca.com/2017/01/26/microservices-architecture/)
 - [Microservices architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices)
 - [Securing Microservices with IdentityServer4, OAuth2 and OpenID Connect fronted by Ocelot API Gateway](https://medium.com/aspnetrun/securing-microservices-with-identityserver4-with-oauth2-and-openid-connect-fronted-by-ocelot-api-49ea44a0cf9e)
@@ -24,8 +23,6 @@
 - [Why microservices - part 3: two thirds of the success triangle - process and organization](https://chrisrichardson.net/post/microservices/2020/04/11/why-microservices-part-3.html)
 - [Why microservices - part 4: the last third of the success triangle: architectural requirements for rapid, frequent, reliable and sustainable development](https://chrisrichardson.net/post/microservices/2020/05/21/why-microservices-part-4.html)
 - [When to use the microservice architecture: part 5 - the monolithic architecture and rapid, frequent, reliable and sustainable software delivery](https://chrisrichardson.net/post/microservices/2021/02/14/why-microservices-part-5-monolith.html)
-- [Communication in a microservice architecture](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/communication-in-microservice-architecture)
-- [Asynchronous message-based communication](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/asynchronous-message-based-communication)
 - [A Microservices implementation journey — Part 1](https://koukia.ca/a-microservices-implementation-journey-part-1-9f6471fe917)
 - [Microservices and Docker with .Net Core and Azure Service Fabric - Part One](https://elvanydev.com/Microservices-part1/) 
 - [Microservices and Docker with .Net Core and Azure Service Fabric - Part two](http://elvanydev.com/Microservices-part2/) 
@@ -56,6 +53,9 @@
 - [How to Cache Aggregated Data with Redis and Lua Scripts for a Scaled Microservice Architecture](https://itnext.io/how-to-cache-aggregated-data-with-redis-and-lua-scripts-for-a-scaled-microservice-architecture-2b791289e911)
 - [Patterns to know before migrating your monolith to microservices](https://levelup.gitconnected.com/patterns-to-know-before-migrating-your-monolith-to-microservices-72fcbcc7846e)
 - [Why duplication isn’t always a bad thing in micro-services](https://www.michalbialecki.com/2019/02/08/why-duplication-isnt-always-a-bad-thing-in-micro-services/)
+- [10 Microservices Best Practices for the Optimal Architecture Design](https://www.capitalone.com/tech/software-engineering/10-microservices-best-practices/)
+- [How to Avoid Coupling in Microservices Design](https://medium.com/capital-one-tech/how-to-avoid-coupling-in-microservices-design-b241d77ae233)
+- [How to break a Monolith into Microservices](https://martinfowler.com/articles/break-monolith-into-microservices.html)
 ## 📺 Videos
 
 - [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) 
@@ -73,18 +73,8 @@
 - [From a distributed monolith to a microservices solution - Jan de Vries](https://www.youtube.com/watch?v=0H68V2BzutA)
 - [Microservices for system design interview preparation Playlist - Tech Dummies Narendra L](https://www.youtube.com/playlist?list=PLkQkbY7JNJuDqCFncFdTzGm6cRYCF-kZO)
 - [Bounded Contexts, Microservices, and Everything In Between - Vladik Khononov - KanDDDinsky 2018](https://www.youtube.com/watch?v=dlnu5pSsg7k)
-- [Jimmy Bogard - Effective Microservice Communication and Conversation Patterns](https://www.youtube.com/watch?v=SuMF89Dc5XY)
 - [Creating MicroService with .Net 5](https://www.youtube.com/watch?v=1gPz0G6GZCU)
 - [How to design and code a scaleable solution (from monolith to microservices)](https://www.youtube.com/watch?v=rzjy2DDPwio)
-- [Managing Data in Microservices](https://www.youtube.com/watch?v=E8-e-3fRHBw)
-- [Data in Microservices](https://www.youtube.com/watch?v=31AD6Nobt1o)
-- [7 Database Patterns for Microservices Architecture](https://www.youtube.com/watch?v=a_XMsSNdUQA)
-- [The hardest part of microservices is your data](https://www.youtube.com/watch?v=MrV0DqTqpFU)
-- [Data Consistency in Microservices Architecture (Grygoriy Gonchar)](https://www.youtube.com/watch?v=CFdPDfXy6Y0)
-- [MICROSERVICES ARCHITECTURE | INTER MICROSERVICES COMMUNICATION | PART - 7](https://www.youtube.com/watch?v=552Zf6ZE6GE)
-- [Data Design and Modeling for Microservices](https://www.youtube.com/watch?v=KPtLbSEFe6c)
-- [GOTO 2017 • Effective Microservices in a Data-Centric World • Randy Shoup](https://www.youtube.com/watch?v=whi0T1a4cWU)
-- [GOTO 2018 • 5 Reasons to use Reactive Programming if you are not eBay • Grygoriy Gonchar](https://www.youtube.com/watch?v=DIQ9aNkjKZ8)
 - [Building Reactive Microservices with .NET Core - Kevin Hoffman, Capital One](https://www.youtube.com/watch?v=bGdar01KNzg)
 - ["Reactive Microsystems - The Evolution of Microservices at Scale," with Jonas Bonér](https://www.youtube.com/watch?v=3hMtjPcU248)
 - [Does CAP Theorem apply to Microservices?](https://www.youtube.com/watch?v=PgHMtMmSn9s)
@@ -153,6 +143,7 @@
 - [baotoq/micro-commerce](https://github.com/baotoq/micro-commerce) - React, Nextjs, ASP.NET Core 5.0, IdentityServer, Dapr, Azure pipeline, K8S, SonarQube
 - [MongkonEiadon/VehicleTracker](https://github.com/MongkonEiadon/VehicleTracker) - Vehicle Tracker with Microservice example
 - [yang-xiaodong/eShopOnContainers](https://github.com/yang-xiaodong/eShopOnContainers) - Replace eShopOnContainers EventBus with CAP
+- [jbw/TooBigToFailBurgerShop](https://github.com/jbw/TooBigToFailBurgerShop) - .NET Microservice Reference Application. It's also an over-engineered burger shop!
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
 - [Building Microservices: Designing Fine-Grained Systems 1st Edition](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)

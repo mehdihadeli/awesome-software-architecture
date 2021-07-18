@@ -13,6 +13,8 @@
 - [Repository is Dead: Long Live Repository](http://codebetter.com/gregyoung/2009/04/23/repository-is-dead-long-live-repository/)
 - [More on Repository](http://codebetter.com/gregyoung/2009/04/24/more-on-repository/)
 - [Avoiding the Repository Pattern with an ORM](https://codeopinion.com/avoiding-the-repository-pattern-with-an-orm/)
+- [Building a CachedRepository via Strategy Pattern](https://ardalis.com/building-a-cachedrepository-via-strategy-pattern/?utm_sq=glv8x7culc)
+- [Introducing the CachedRepository Pattern](https://ardalis.com/introducing-the-cachedrepository-pattern/)
 ## 📺 Videos
 - [Repository Pattern with C# and Entity Framework - Mosh Hamedani](https://www.youtube.com/watch?v=rtXpYpZdOzM)
 - [Step by Step - Repository Pattern and Unit of Work with Asp.Net Core 5](https://www.youtube.com/watch?v=-jcf1Qq8A-4)
