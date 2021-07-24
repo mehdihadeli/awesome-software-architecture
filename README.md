@@ -13,6 +13,8 @@
 **🚀 This awesome list is available in this link:**
 **[https://mehdihadeli.github.io/awesome-software-architecture](https://mehdihadeli.github.io/awesome-software-architecture)**
 
+[![Sparkline](https://stars.medv.io/mehdihadeli/awesome-software-architecture.svg)](https://stars.medv.io/mehdihadeli/awesome-software-architecture)
+
 ## Support ⭐
 
 If you like my work, feel free to:
