@@ -201,12 +201,19 @@ nav:
     - Nginx: cloud-native/load-balancing/nginx.md
     - Traefik: cloud-native/load-balancing/traefik.md
     - Fabio: cloud-native/load-balancing/fabio.md
-  - Paas Manager :
-    - Paas Manager: cloud-native/paas-manager/index.md
-    - Rancher: cloud-native/paas-manager/rancher.md
-    - OpenShift: cloud-native/paas-manager/openshift.md
-    - Heroku: cloud-native/paas-manager/heroku.md
-    - Netlify: cloud-native/paas-manager/netlify.md
+  - Paas (Platform as a Service):
+    - Paas: cloud-native/paas/index.md
+    - Rancher: cloud-native/paas/rancher.md
+    - OpenShift: cloud-native/paas/openshift.md
+    - Heroku: cloud-native/paas/heroku.md
+    - Netlify: cloud-native/paas/netlify.md
+  - Iaas (Infrastructure as a Service):
+    - Terraform: cloud-native/iaas/terraform.md
+  - DevOps:
+    - CI/CD:
+      - Azure DevOps: cloud-native/devops/ci-cd/azure-devops.md
+      - Github Actions: cloud-native/devops/ci-cd/github-actions.md
+      - Jenkins: cloud-native/devops/ci-cd/jenkins.md
   - Reverse Proxy:
     - Reverse Proxy: cloud-native/reverse-proxy/reverse-proxy.md
     - Envoy: cloud-native/reverse-proxy/envoy.md
