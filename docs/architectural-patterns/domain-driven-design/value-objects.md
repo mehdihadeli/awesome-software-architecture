@@ -22,7 +22,6 @@
 - [C# 9: Value Objects and Simpler Code](https://visualstudiomagazine.com/articles/2021/04/07/csharp-9.aspx)
 - [Nulls in Value Objects](https://enterprisecraftsmanship.com/posts/nulls-in-value-objects/)
 ## 📺 Videos
-
 - [Treating Primitive Obsession with ValueObjects | DDD in .NET](https://www.youtube.com/watch?v=h4uldNA1JUE)
 - [The Power of Value - Power Use of Value Objects in Domain Driven Design - Dan Bergh Johnsson](https://www.youtube.com/watch?v=vh-LT1mkIz4)
 

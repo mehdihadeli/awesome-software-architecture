@@ -18,7 +18,7 @@
 - [Domain Events Pattern Example](https://tonytruong.net/domain-events-pattern-example)
 - [Domain Events](https://verraes.net/2014/11/domain-events/)
 - [Patterns for Decoupling in Distributed Systems: Explicit Public Events](http://verraes.net/2019/05/patterns-for-decoupling-distsys-explicit-public-events/)
-
+- [Immediate Domain Event Salvation with MediatR](https://ardalis.com/immediate-domain-event-salvation-with-mediatr/)
 ## 📺 Videos
 - [GOTO 2019 • Temporal Modelling • Mathias Verraes](https://www.youtube.com/watch?v=KNqOWT0lOYY)
 <div align="right">

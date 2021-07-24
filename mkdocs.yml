@@ -101,6 +101,8 @@ nav:
     - Strategic Design Patterns: architectural-patterns/domain-driven-design/strategic-design-patterns.md
     - Tactical Design Patterns: architectural-patterns/domain-driven-design/tactical-design-patterns.md
     - Value Objects: architectural-patterns/domain-driven-design/value-objects.md
+    - ORMs:
+      - Entity Framework: architectural-patterns/domain-driven-design/orm/ef.md
   - Data Driven Design - Data Centric: architectural-patterns/data-driven-design.md
   - CQRS: architectural-patterns/cqrs.md
   - Event Sourcing: architectural-patterns/event-sourcing.md
@@ -150,6 +152,7 @@ nav:
   - Query Object Pattern: design-patterns/query-object-pattern.md
   - Factory Pattern: design-patterns/factory-pattern.md
   - Strategy Pattern: design-patterns/strategy-pattern.md
+  - Adapter Pattern: design-patterns/adapter-pattern.md
 - Cloud Design Patterns: 
   - Cloud Design Patterns: cloud-design-patterns/cloud-design-patterns.md
   - Ambassador Pattern: cloud-design-patterns/ambassador-pattern.md
@@ -301,6 +304,7 @@ nav:
   - Tools: modeling/tools.md
   - Use Case Diagram: modeling/use-case-diagram.md
 - Event Storming: event-storming.md
+- Architecture Decision Records (ADR): adr.md
 - Infrastructure As a Code:
   - Infrastructure As a Code: infrastructure-as-code/infrastructure-as-code.md
   - Pulumi: infrastructure-as-code/pulumi.md

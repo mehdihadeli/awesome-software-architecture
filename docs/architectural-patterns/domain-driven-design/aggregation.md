@@ -8,6 +8,8 @@
 - [Strengthening your domain: Aggregate Construction](https://lostechies.com/jimmybogard/2010/02/24/strengthening-your-domain-aggregate-construction/)
 - [Idempotent Aggregates](https://codeopinion.com/idempotent-aggregates/)
 - [Strengthening your domain: Aggregate Construction](https://lostechies.com/jimmybogard/2010/02/24/strengthening-your-domain-aggregate-construction/)
+- [Link to an aggregate: reference or Id?](https://enterprisecraftsmanship.com/2016/03/08/link-to-an-aggregate-reference-or-id/)
+- [Entities, Value Objects, Aggregates and Roots](https://lostechies.com/jimmybogard/2008/05/21/entities-value-objects-aggregates-and-roots/)
 ## 📺 Videos
 
 - [Aggregate (Root) Design: Separate Behavior & Data for Persistence](https://www.youtube.com/watch?v=GtWVGJp061A) 

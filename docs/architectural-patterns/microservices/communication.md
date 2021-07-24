@@ -5,7 +5,7 @@
 - [Implementing event-based communication between microservices (integration events)](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/integration-event-based-microservice-communications)
 - [Asynchronous message-based communication](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/asynchronous-message-based-communication)
 - [Communication in a microservice architecture](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/communication-in-microservice-architecture)
-
+- [A Reference Architecture for Responsive Asynchronous Task Execution](https://medium.com/event-driven-utopia/a-reference-architecture-for-responsive-asynchronous-task-execution-783bd2a1ed8b)
 ## Videos
 - [Jimmy Bogard - Effective Microservice Communication and Conversation Patterns](https://www.youtube.com/watch?v=SuMF89Dc5XY)
 - [MICROSERVICES ARCHITECTURE | INTER MICROSERVICES COMMUNICATION | PART - 7](https://www.youtube.com/watch?v=552Zf6ZE6GE)

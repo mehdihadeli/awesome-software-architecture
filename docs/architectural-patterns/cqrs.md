@@ -53,6 +53,9 @@
 - [CQRS with MediatR in ASP.NET Core 3.1 – Ultimate Guide](https://codewithmukesh.com/blog/cqrs-in-aspnet-core-3-1/)
 - [Optimize your data access by using CQRS Architecture Pattern — Part I](https://itnext.io/cqrs-architecture-pattern-c7f5c613c59c)
 - [Optimize your data access by using CQRS Architecture Pattern — Part II](https://itnext.io/optimize-your-data-access-by-using-cqrs-architecture-pattern-a-theoretical-and-practical-approach-part-1-b31fe259ea04)
+- [CQRS and REST: the perfect match](https://lostechies.com/jimmybogard/2016/06/01/cqrs-and-rest-the-perfect-match/)
+- [Spring and Data Synchronization Between Queries and Commands](https://thenewstack.io/how-cqrs-works-with-spring-tools/)
+- [Combining DDD, CQRS, and Clean Architecture by refactoring a Go project](https://threedots.tech/post/ddd-cqrs-clean-architecture-combined/)
 ## 📺 Videos
 
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
@@ -93,6 +96,7 @@
 - [grandnode/grandnode2](https://github.com/grandnode/grandnode2) - Open source, headless, multi-tenant eCommerce platform built with .NET Core, MongoDB, AWS DocumentDB, Azure CosmosDB, Vue.js.
 - [MongkonEiadon/VehicleTracker](https://github.com/MongkonEiadon/VehicleTracker) - Vehicle Tracker with Microservice example
 - [yang-xiaodong/eShopOnContainers](https://github.com/yang-xiaodong/eShopOnContainers) - Replace eShopOnContainers EventBus with CAP
+- [ddd-by-examples/all-things-cqrs](https://github.com/ddd-by-examples/all-things-cqrs) - Comprehensive guide to a couple of possible ways of synchronizing two states with Spring tools. Synchronization is shown by separating command and queries in a simple CQRS application.
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

@@ -5,8 +5,8 @@
 
 - [Domain-Driven Design Starter Modelling Process](https://github.com/ddd-crew/ddd-starter-modelling-process) 
 - [ddd-crew/free-ddd-learning-resources](https://github.com/ddd-crew/free-ddd-learning-resources#tactical-ddd--domain-as-code)
-- [How to learn Domain-Driven Design & Event Sourcing? Developer Journey Map and useful resources.](https://dev.to/mateusznowak/how-to-learn-domain-driven-design-event-sourcing-my-own-developer-journey-map-and-useful-resources-308a)
-
+- [How to learn Domain-Driven Design & Event Sourcing? Developer Journey Map and useful resources](https://dev.to/mateusznowak/how-to-learn-domain-driven-design-event-sourcing-my-own-developer-journey-map-and-useful-resources-308a)
+- [ardalis/DDD-NoDuplicates](https://github.com/ardalis/DDD-NoDuplicates)
 ## 📕 Articles
 - [Design a DDD-oriented microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice) 
 - [PPPDDD.1 – What is Domain Driven Design?](https://herbertograca.com/2016/08/15/pppddd-1-what-is-domain-driven-design/) 
@@ -65,6 +65,10 @@
 - [DDD.6 – The lifecycle of a domain object](https://herbertograca.com/2015/10/04/domain-driven-design-by-eric-evans-chap-6-the-lifecycle-of-a-domain-object/)
 - [Change Tracking while doing DDD](https://www.ledjonbehluli.com/posts/change_tracking_ddd/)
 - [Domain-Driven Refactoring: Procedural Beginnings](https://jimmybogard.com/domain-driven-refactoring-procedural-beginnings/)
+- [Domain-Driven Refactoring: Long Methods](https://jimmybogard.com/domain-driven-refactoring-long-methods/)
+- [Combining DDD, CQRS, and Clean Architecture by refactoring a Go project](https://threedots.tech/post/ddd-cqrs-clean-architecture-combined/)
+- [Design a No Duplicates Rule in your Domain Model?](https://ardalis.com/design-no-duplicates-rule-in-domain-model/?utm_sq=gliw3qv7yr)
+- [EF Core 2.1 vs NHibernate 5.1: DDD perspective](https://enterprisecraftsmanship.com/posts/ef-core-vs-nhibernate-ddd-perspective/)
 ## 📺 Videos
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU)
@@ -124,6 +128,7 @@
 - [grandnode/grandnode2](https://github.com/grandnode/grandnode2) - Open source, headless, multi-tenant eCommerce platform built with .NET Core, MongoDB, AWS DocumentDB, Azure CosmosDB, Vue.js.
 - [MongkonEiadon/VehicleTracker](https://github.com/MongkonEiadon/VehicleTracker) - Vehicle Tracker with Microservice example
 - [yang-xiaodong/eShopOnContainers](https://github.com/yang-xiaodong/eShopOnContainers) - Replace eShopOnContainers EventBus with CAP
+- [ardalis/DDD-NoDuplicates](https://github.com/ardalis/DDD-NoDuplicates)
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [xhafan/coreddd](https://github.com/xhafan/coreddd) - A set of open-source .NET libraries helping with domain-driven design (DDD) and CQRS

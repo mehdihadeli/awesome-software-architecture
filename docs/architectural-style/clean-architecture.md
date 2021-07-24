@@ -41,6 +41,8 @@
 - [Clean API Architecture](https://medium.com/perry-street-software-engineering/clean-api-architecture-2b57074084d5)
 - [How to make Dapr client works well with Refit and RestEase in 5 minutes](https://dev.to/thangchung/how-to-make-dapr-client-works-well-with-refit-and-restease-40m)
 - [Organizing App Logic with the Clean Architecture [with Examples]](https://khalilstemmler.com/articles/software-design-architecture/organizing-app-logic/)
+- [Combining DDD, CQRS, and Clean Architecture by refactoring a Go project](https://threedots.tech/post/ddd-cqrs-clean-architecture-combined/)
+- [Introducing Clean Architecture by refactoring a Go project](https://threedots.tech/post/introducing-clean-architecture/)
 ## 📺 Videos
 
 - [Clean Testing - Clean Architecture with .NET Core - Jason Taylor - NDC Oslo 2020](https://www.youtube.com/watch?v=T6NRcX1vnz8) 

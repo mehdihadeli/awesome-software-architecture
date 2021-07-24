@@ -28,7 +28,10 @@
 - [Another story about microservices: Hexagonal Architecture](https://medium.com/sciforce/another-story-about-microservices-hexagonal-architecture-23db93fa52a2)
 - [A Color Coded Guide to Ports and Adapters](https://8thlight.com/blog/damon-kelley/2021/05/18/a-color-coded-guide-to-ports-and-adapters.html)
 - [Let’s learn Hexagonal Architecture!](https://sketchingdev.co.uk/blog/lets-learn-hexagonal-architecture.html)
-
+- [A zoom on the hexagonal/clean/onion architecture](http://tpierrain.blogspot.com/2013/08/a-zoom-on-hexagonalcleanonion.html)
+- [Hexagonal != Layers](http://tpierrain.blogspot.com/2016/04/hexagonal-layers.html)
+- [Hexagonal architecture: don't get lost on your right-side](https://tpierrain.blogspot.com/2020/03/hexagonal-architecture-dont-get-lost-on.html)
+- [Hexagonal or not Hexagonal?](http://tpierrain.blogspot.com/2020/11/hexagonal-or-not-hexagonal.html)
 ## 📺 Videos
 
 - [Chris Fidao - Hexagonal Architecture](https://www.youtube.com/watch?v=6SBjKOwVq0o)
@@ -43,6 +46,7 @@
 - [Lunch-box/SimpleOrderRouting](https://github.com/Lunch-box/SimpleOrderRouting) - Prototype of a Smart Order Routing system (finance). The opportunity for a mob of Lunch-boxers, to explore various technical approaches in reactive programming.
 - [SketchingDev/hexagonal-lambda](https://github.com/SketchingDev/hexagonal-lambda) - NodeJS project demonstrating an AWS Lambda using Hexagonal architecture.
 - [damonkelley/ports-and-adapters-examples](https://github.com/damonkelley/ports-and-adapters-examples) - Ports and Adapters Examples
+- [tpierrain/hexagonalThis](https://github.com/tpierrain/hexagonalThis) - A simple kata to live-code with Alistair about Hexagonal Architecture
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

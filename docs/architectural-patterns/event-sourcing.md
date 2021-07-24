@@ -47,6 +47,7 @@
 - [Projac](https://github.com/BitTacklr/Projac) - A set of .NET projection libraries
 - [Aggregates.NET](https://github.com/charlessolar/Aggregates.NET) - .NET event sourced domain driven design model via NServiceBus and GetEventStore
 - [CanerPatir/Algorist.EventSourcing](https://github.com/CanerPatir/Algorist.EventSourcing) - An event sourcing building block for .net core
+- [jet/equinox](https://github.com/jet/equinox) - .NET Event Sourcing library with CosmosDB, EventStoreDB, SqlStreamStore and integration test backends.
 ## 🚀 Samples
 
 - [mizrael/SuperSafeBank](https://github.com/mizrael/SuperSafeBank) - Sample Event Sourcing implementation with .NET Core
@@ -61,6 +62,8 @@
 - [oskardudycz/EventSourcing.NetCore/Sample/Tickets](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/Tickets)
 - [oskardudycz/EventSourcing.NetCore/Sample/MeetingsManagement](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/MeetingsManagement)
 - [oskardudycz/EventSourcing.NetCore/Sample/Warehouse](https://github.com/oskardudycz/EventSourcing.NetCore/tree/cqrs_with_net5/Sample/Warehouse)
+- [EventStore/samples](https://github.com/EventStore/samples) - Samples showing practical aspect of EventStoreDB, Event Sourcing
+- [ddd-by-examples/event-source-cqrs-sample](https://github.com/ddd-by-examples/event-source-cqrs-sample) - Sample ES/CQRS application
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

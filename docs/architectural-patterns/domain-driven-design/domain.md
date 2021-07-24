@@ -30,6 +30,10 @@
 - [Domain model purity and lazy loading](https://enterprisecraftsmanship.com/posts/domain-model-purity-lazy-loading/)
 - [Change Tracking while doing DDD](https://www.ledjonbehluli.com/posts/change_tracking_ddd/)
 - [Referencing external libraries from the domain model](https://www.getdrip.com/deliveries/owp2b8gphp8iwhi66vtj?view_in_browser=true&__s=fk6miphh1sspz3nnxtpu)
+- [Having the domain model separated from the persistence model](https://enterprisecraftsmanship.com/posts/having-the-domain-model-separate-from-the-persistence-model/)
+- [EF Core 2.1 vs NHibernate 5.1: DDD perspective](https://enterprisecraftsmanship.com/posts/ef-core-vs-nhibernate-ddd-perspective/)
+- [Link to an aggregate: reference or Id?](https://enterprisecraftsmanship.com/2016/03/08/link-to-an-aggregate-reference-or-id/)
+- [Entities, Value Objects, Aggregates and Roots](https://lostechies.com/jimmybogard/2008/05/21/entities-value-objects-aggregates-and-roots/)
 ## 📺 Videos
 
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU) 

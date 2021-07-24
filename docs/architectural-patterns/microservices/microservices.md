@@ -56,6 +56,7 @@
 - [10 Microservices Best Practices for the Optimal Architecture Design](https://www.capitalone.com/tech/software-engineering/10-microservices-best-practices/)
 - [How to Avoid Coupling in Microservices Design](https://medium.com/capital-one-tech/how-to-avoid-coupling-in-microservices-design-b241d77ae233)
 - [How to break a Monolith into Microservices](https://martinfowler.com/articles/break-monolith-into-microservices.html)
+- [Identify domain-model boundaries for each microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/identify-microservice-domain-model-boundaries)
 ## 📺 Videos
 
 - [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) 
@@ -83,6 +84,7 @@
 - [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
 - [Compositional UIs - the Microservices Last Mile - Jimmy Bogard](https://www.youtube.com/watch?v=gjtFGx0yX5M)
 - [Avoiding Microservice Megadisasters - Jimmy Bogard](https://www.youtube.com/watch?v=gfh-VCTwMw8)
+- [Why programming language performance in microservices isn't (that) important](https://www.youtube.com/watch?v=g1UQf3TOBn8)
 ## 📦 Libraries
 
 - [dotnet/tye](https://github.com/dotnet/tye) - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
@@ -121,7 +123,7 @@
 - [run-aspnetcore-microservices](https://github.com/aspnetrun/run-aspnetcore-microservices) - Microservices on .Net platforms which used Asp.Net Web API, Docker, RabbitMQ, Ocelot API Gateway, MongoDB, Redis, SqlServer, Entity Framework Core, CQRS and Clean Architecture implementation. See Microservices Architecture and Step by Step Implementation on .NET Course w/ discount
 - [run-aspnet-identityserver4](https://github.com/aspnetrun/run-aspnet-identityserver4) - Secure microservices with using standalone Identity Server 4 and backing with Ocelot API Gateway. Protect our ASP.NET Web MVC and API applications with using OAuth 2 and OpenID Connect in IdentityServer4. Securing your web application and API with tokens, working with claims, authentication and authorization middlewares and applying policies.
 - [ModernArchitectureShop](https://github.com/alugili/ModernArchitectureShop) - The Microservices Online Shop is an application with a modern software architecture that is cleanly designed and based on.NET lightweight technologies. The shop has two build variations. The first variant is the classic Microservices Architectural Style. The second one is with Dapr. Dapr has a comprehensive infrastructure
-- [run-aspnet-grpc](https://github.com/aspnetrun/run-aspnet-grpc) - Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5. See gRPC Microservices and Step by Step Implementation on .NET Course w/ discount->
+- [run-aspnet-grpc](https://github.com/aspnetrun/run-aspnet-grpc) - Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5. See gRPC Microservices and Step by Step Implementation on .NET Course w/ discount
 - [coolstore-microservice](https://github.com/jbossdemocentral/coolstore-microservice)
 - [practical-clean-ddd](https://github.com/thangchung/practical-clean-ddd) - A simplified and effortless approach to get started with Domain-driven Design, Clean Architecture, CQRS, and Microservices patterns
 - [shopping-cart-k8s](https://github.com/thangchung/shopping-cart-k8s) - Service Mesh patterns for Microservices
@@ -144,6 +146,7 @@
 - [MongkonEiadon/VehicleTracker](https://github.com/MongkonEiadon/VehicleTracker) - Vehicle Tracker with Microservice example
 - [yang-xiaodong/eShopOnContainers](https://github.com/yang-xiaodong/eShopOnContainers) - Replace eShopOnContainers EventBus with CAP
 - [jbw/TooBigToFailBurgerShop](https://github.com/jbw/TooBigToFailBurgerShop) - .NET Microservice Reference Application. It's also an over-engineered burger shop!
+- [Daniel-Krzyczkowski/Smart-Accounting](https://github.com/Daniel-Krzyczkowski/Smart-Accounting) - This repository contains a solution for collecting invoices in a digital way.
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
 - [Building Microservices: Designing Fine-Grained Systems 1st Edition](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
