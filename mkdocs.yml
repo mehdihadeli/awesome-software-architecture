@@ -101,6 +101,7 @@ nav:
     - Strategic Design Patterns: architectural-patterns/domain-driven-design/strategic-design-patterns.md
     - Tactical Design Patterns: architectural-patterns/domain-driven-design/tactical-design-patterns.md
     - Value Objects: architectural-patterns/domain-driven-design/value-objects.md
+    - Repository: architectural-patterns/domain-driven-design/repository.md
     - ORMs:
       - Entity Framework: architectural-patterns/domain-driven-design/orm/ef.md
   - Data Driven Design - Data Centric: architectural-patterns/data-driven-design.md
@@ -208,7 +209,9 @@ nav:
     - Heroku: cloud-native/paas/heroku.md
     - Netlify: cloud-native/paas/netlify.md
   - Iaas (Infrastructure as a Service):
+    - Infrastructure as a Service: cloud-native/iaas/iaas.md
     - Terraform: cloud-native/iaas/terraform.md
+    - Pulumi: cloud-native/iaas/pulumi.md
   - DevOps:
     - CI/CD:
       - Azure DevOps: cloud-native/devops/ci-cd/azure-devops.md
@@ -312,10 +315,6 @@ nav:
   - Use Case Diagram: modeling/use-case-diagram.md
 - Event Storming: event-storming.md
 - Architecture Decision Records (ADR): adr.md
-- Infrastructure As a Code:
-  - Infrastructure As a Code: infrastructure-as-code/infrastructure-as-code.md
-  - Pulumi: infrastructure-as-code/pulumi.md
-  - Terraform: infrastructure-as-code/terraform.md
 - Engineering Blogs: engineering-blogs.md
 - Others: others.md
 

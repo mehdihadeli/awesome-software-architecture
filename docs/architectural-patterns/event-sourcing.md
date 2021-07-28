@@ -26,6 +26,7 @@
 - [Counterexamples regarding consistency in event sourced solutions (Part 1)](https://www.eventstore.com/blog/counterexamples-regarding-consistency-in-event-sourced-solutions-part-1)
 - [Counterexamples regarding consistency in event sourced solutions (Part 2)](https://www.eventstore.com/blog/counterexamples-regarding-consistency-in-event-sourced-solutions-part-2)
 - [Counterexamples regarding consistency in event sourced solutions (Part 3)](https://www.eventstore.com/blog/counterexamples-regarding-consistency-in-event-sourced-solutions-part-3)
+- [Event Sourcing: Events Evolution, Versioning, and Migration](https://valerii-udodov.com/posts/event-sourcing/events-versioning/)
 ## 📺 Videos
 
 - [Event Sourcing Example & Explained in plain English](https://www.youtube.com/watch?v=AUj4M-st3ic)

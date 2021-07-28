@@ -56,6 +56,9 @@
 - [CQRS and REST: the perfect match](https://lostechies.com/jimmybogard/2016/06/01/cqrs-and-rest-the-perfect-match/)
 - [Spring and Data Synchronization Between Queries and Commands](https://thenewstack.io/how-cqrs-works-with-spring-tools/)
 - [Combining DDD, CQRS, and Clean Architecture by refactoring a Go project](https://threedots.tech/post/ddd-cqrs-clean-architecture-combined/)
+- [CQRS: Intro](https://valerii-udodov.com/posts/cqrs/cqrs-intro/)
+- [CQRS: Querying via HTTP](https://valerii-udodov.com/posts/cqrs/cqrs-querying-via-http/)
+- [CQRS: Commanding via HTTP](https://valerii-udodov.com/posts/cqrs/cqrs-commanding-via-http/)
 ## 📺 Videos
 
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)

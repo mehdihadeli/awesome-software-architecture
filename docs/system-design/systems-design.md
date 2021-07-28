@@ -11,7 +11,8 @@
 - [http://highscalability.com/all-time-favorites/](http://highscalability.com/all-time-favorites/)
 - [systeminterview](https://courses.systeminterview.com/courses/system-design-interview-an-insider-s-guide?ref=c89a35)
 - [System Design (Real World Examples)](https://interviewdaemon.com/courses/design-real-world-examples)
-
+- [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
+- [Grokking System Design Interview Quizzes](https://github.com/ema2159/Grokking-System-Design-Interview-Quizzes)
 ## 📕 Articles
 
 - [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)

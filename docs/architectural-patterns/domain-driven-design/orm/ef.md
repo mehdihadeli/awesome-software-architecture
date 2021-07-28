@@ -14,7 +14,12 @@
 - [Representing a collection as a Value Object](https://enterprisecraftsmanship.com/posts/representing-collection-as-value-object/)
 - [Entity vs Value Object: the ultimate list of differences](https://enterprisecraftsmanship.com/posts/entity-vs-value-object-the-ultimate-list-of-differences/)
 - [Nesting a Value Object inside an Entity](https://enterprisecraftsmanship.com/posts/nesting-value-object-inside-entity/)
-
+- [Implement the infrastructure persistence layer with Entity Framework Core](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-implementation-entity-framework-core)
+- [Encapsulated Collections in Entity Framework Core](https://ardalis.com/encapsulated-collections-in-entity-framework-core/)
+- [Entity types with constructors](https://docs.microsoft.com/en-us/ef/core/modeling/constructors)
+- [Backing Fields](https://docs.microsoft.com/en-us/ef/core/modeling/backing-field?tabs=data-annotations)
+- [Integrity of Collections in Domain-Driven Design](https://ankitvijay.net/2020/05/10/integrity-of-collections-in-domain-driven-design/)
+- [Strengthening your domain: Encapsulated collections](https://lostechies.com/jimmybogard/2010/03/10/strengthening-your-domain-encapsulated-collections/)
 ## Videos
 - [How to use EF Core 5 with DDD style projects - part 1](https://www.youtube.com/watch?v=bzI5g6PVM-I)
 - [How to use EF Core 5 with DDD style projects - part 2](https://www.youtube.com/watch?v=D1hSU-q3GLc)

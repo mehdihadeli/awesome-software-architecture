@@ -4,6 +4,9 @@
 ## 📕 Articles
 
 - [My Take On Domain Primitives](https://svenhuebner-it.com/my-take-on-domain-primitives/) 
+- [Domain Primitives I: easily declaring domain primitives](https://svenhuebner-it.com/domain-primitives-i-easily-declaring-domain-primitives/)
+- [Domain Primitives II: forcing developers to deal with error cases](https://svenhuebner-it.com/domain-primitives-ii-forcing-developers-to-deal-with-error-cases/)
+- [Domain Primitives III: easily creating domain-primitive-based data structures from raw data](https://svenhuebner-it.com/domain-primitives-iii-easily-creating-domain-primitive-based-data-structures-from-raw-data)
 - [Domain Primitives I: easily declaring domain primitives](https://svenhuebner-it.com/domain-primitives-i-easily-declaring-domain-primitives/) 
 - [Domain Primitives: what they are and how you can use them to make more secure software](https://freecontent.manning.com/domain-primitives-what-they-are-and-how-you-can-use-them-to-make-more-secure-software/)
 - [A Cure for Primitive Obsession](https://dev.to/dr_sam_walpole/a-cure-for-primitive-obsession-14l6)
@@ -14,7 +17,6 @@
 - [Dealing with primitive obsession](https://lostechies.com/jimmybogard/2007/12/03/dealing-with-primitive-obsession/)
 ## Videos
 - [Treating Primitive Obsession with ValueObjects | DDD in .NET](https://www.youtube.com/watch?v=h4uldNA1JUE)
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
-		
+
+## Samples
+- [shuebner/DomainPrimitives](https://github.com/shuebner/DomainPrimitives) - Base classes and templates for domain primitives in C#

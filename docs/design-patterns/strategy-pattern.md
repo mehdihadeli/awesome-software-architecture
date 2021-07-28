@@ -2,7 +2,6 @@
 # Strategy Pattern
 
 ## 📕 Articles
-
 - [ASP.NET Core and the Strategy Pattern](https://adamstorr.azurewebsites.net/blog/aspnetcore-and-the-strategy-pattern)
 - [6 Ways To Implement The Strategy Pattern In C# (Basic To Advanced)](https://www.blog.jamesmichaelhickey.com/strategy-pattern-implementations)
 - [Strategy Pattern C#](https://codewithshadman.com/strategy-pattern-csharp)

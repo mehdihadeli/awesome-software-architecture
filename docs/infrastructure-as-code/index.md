@@ -1,3 +1,0 @@
-- [Infrastructure As a Code](infrastructure-as-code.md)
-  - [Pulumi](pulumi.md)
-  - [Terraform](terraform.md)

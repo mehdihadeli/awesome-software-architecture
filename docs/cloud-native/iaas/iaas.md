@@ -1,4 +1,4 @@
-# Infrastructure As a Code
+# Infrastructure As a Service
 
 
 ## 📺 Videos

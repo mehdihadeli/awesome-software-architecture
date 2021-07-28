@@ -6,6 +6,7 @@
 - [REST API Data Validation](http://www.kamilgrzybek.com/design/rest-api-data-validation/) 
 - [Domain Model Validation](http://www.kamilgrzybek.com/design/domain-model-validation/) 
 - [Validation in a DDD world](https://lostechies.com/jimmybogard/2009/02/15/validation-in-a-ddd-world/) 
+- [Domain Command Patterns - Validation](https://jimmybogard.com/domain-command-patterns-validation/)
 - [Validation in Domain-Driven Design (DDD)](http://gorodinski.com/blog/2012/05/19/validation-in-domain-driven-design-ddd/)
 - [Validation and DDD](https://enterprisecraftsmanship.com/posts/validation-and-ddd/) 
 - [C# code contracts vs input validation](https://enterprisecraftsmanship.com/posts/code-contracts-vs-input-validation/) 
