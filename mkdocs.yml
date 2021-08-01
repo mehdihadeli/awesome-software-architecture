@@ -154,6 +154,7 @@ nav:
   - Factory Pattern: design-patterns/factory-pattern.md
   - Strategy Pattern: design-patterns/strategy-pattern.md
   - Adapter Pattern: design-patterns/adapter-pattern.md
+  - Command Message Pattern: design-patterns/command-message-pattern.md
 - Cloud Design Patterns: 
   - Cloud Design Patterns: cloud-design-patterns/cloud-design-patterns.md
   - Ambassador Pattern: cloud-design-patterns/ambassador-pattern.md
@@ -314,6 +315,7 @@ nav:
   - Tools: modeling/tools.md
   - Use Case Diagram: modeling/use-case-diagram.md
 - Event Storming: event-storming.md
+- Open Source: open-source.md
 - Architecture Decision Records (ADR): adr.md
 - Engineering Blogs: engineering-blogs.md
 - Others: others.md

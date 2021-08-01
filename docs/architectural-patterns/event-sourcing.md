@@ -49,6 +49,7 @@
 - [Aggregates.NET](https://github.com/charlessolar/Aggregates.NET) - .NET event sourced domain driven design model via NServiceBus and GetEventStore
 - [CanerPatir/Algorist.EventSourcing](https://github.com/CanerPatir/Algorist.EventSourcing) - An event sourcing building block for .net core
 - [jet/equinox](https://github.com/jet/equinox) - .NET Event Sourcing library with CosmosDB, EventStoreDB, SqlStreamStore and integration test backends.
+- [revoframework/Revo](https://github.com/revoframework/Revo) - Event Sourcing, CQRS and DDD framework for C#/.NET Core
 ## 🚀 Samples
 
 - [mizrael/SuperSafeBank](https://github.com/mizrael/SuperSafeBank) - Sample Event Sourcing implementation with .NET Core

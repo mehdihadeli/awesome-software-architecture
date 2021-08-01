@@ -66,6 +66,7 @@
 - [Change Tracking while doing DDD](https://www.ledjonbehluli.com/posts/change_tracking_ddd/)
 - [Domain-Driven Refactoring: Procedural Beginnings](https://jimmybogard.com/domain-driven-refactoring-procedural-beginnings/)
 - [Domain-Driven Refactoring: Long Methods](https://jimmybogard.com/domain-driven-refactoring-long-methods/)
+- [Domain-Driven Refactoring: Extracting Domain Services](https://jimmybogard.com/domain-driven-refactoring-extracting-domain-services/)
 - [Combining DDD, CQRS, and Clean Architecture by refactoring a Go project](https://threedots.tech/post/ddd-cqrs-clean-architecture-combined/)
 - [Design a No Duplicates Rule in your Domain Model?](https://ardalis.com/design-no-duplicates-rule-in-domain-model/?utm_sq=gliw3qv7yr)
 - [EF Core 2.1 vs NHibernate 5.1: DDD perspective](https://enterprisecraftsmanship.com/posts/ef-core-vs-nhibernate-ddd-perspective/)
@@ -128,7 +129,9 @@
 - [grandnode/grandnode2](https://github.com/grandnode/grandnode2) - Open source, headless, multi-tenant eCommerce platform built with .NET Core, MongoDB, AWS DocumentDB, Azure CosmosDB, Vue.js.
 - [MongkonEiadon/VehicleTracker](https://github.com/MongkonEiadon/VehicleTracker) - Vehicle Tracker with Microservice example
 - [yang-xiaodong/eShopOnContainers](https://github.com/yang-xiaodong/eShopOnContainers) - Replace eShopOnContainers EventBus with CAP
+- [CodelyTV/typescript-ddd-example](https://github.com/CodelyTV/typescript-ddd-example) - TypeScript DDD Example: Bootstrap your new projects or be inspired by this example project
 - [ardalis/DDD-NoDuplicates](https://github.com/ardalis/DDD-NoDuplicates)
+- [DarekModzelewski/Contoso-University-DDD](https://github.com/DarekModzelewski/Contoso-University-DDD)
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [xhafan/coreddd](https://github.com/xhafan/coreddd) - A set of open-source .NET libraries helping with domain-driven design (DDD) and CQRS
@@ -136,7 +139,8 @@
 - [oskardudycz/GoldenEye](https://github.com/oskardudycz/GoldenEye) - The CQRS flavoured framework that will speed up your WebAPI and Microservices development
 - [Shriek-Projects/shriek-fx](https://github.com/Shriek-Projects/shriek-fx) - An easy-to-use rapid development framework developed on the basis of.NET Core 2.0, following the constraints of domain Driven Design (DDD) specifications, combined with the CQRS architecture to provide the infrastructure for event-driven, event backtracking, responsiveness, and more. Let developers enjoy the true meaning of object-oriented
 - [daxnet/apworks-core](https://github.com/daxnet/apworks-core) - Apworks framework supporting .NET Core
-
+- [node-ts/ddd](https://github.com/node-ts/ddd) - A Domain Driven Design framework for software simplicity in node
+- [revoframework/Revo](https://github.com/revoframework/Revo) - Event Sourcing, CQRS and DDD framework for C#/.NET Core
 ## Books
 - [Patterns, Principles, and Practices of Domain-Driven Design 1st Edition](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709)
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software 1st Edition](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/)

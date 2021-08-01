@@ -61,6 +61,5 @@
 - [marcinstelmach/AwesomeBank](https://github.com/marcinstelmach/AwesomeBank) - Bank system in .NET 5.0 using DDD, CQRS, modular monolith architecture
 - [stemmlerjs/ddd-forum](https://github.com/stemmlerjs/ddd-forum) - Hacker news-inspired forum app built with TypeScript using DDD practices from solidbook.io.
 - [grandnode/grandnode2](https://github.com/grandnode/grandnode2) - Open source, headless, multi-tenant eCommerce platform built with .NET Core, MongoDB, AWS DocumentDB, Azure CosmosDB, Vue.js.
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+- [DarekModzelewski/Contoso-University-DDD](https://github.com/DarekModzelewski/Contoso-University-DDD)
+

@@ -100,6 +100,4 @@
 - [MongkonEiadon/VehicleTracker](https://github.com/MongkonEiadon/VehicleTracker) - Vehicle Tracker with Microservice example
 - [yang-xiaodong/eShopOnContainers](https://github.com/yang-xiaodong/eShopOnContainers) - Replace eShopOnContainers EventBus with CAP
 - [ddd-by-examples/all-things-cqrs](https://github.com/ddd-by-examples/all-things-cqrs) - Comprehensive guide to a couple of possible ways of synchronizing two states with Spring tools. Synchronization is shown by separating command and queries in a simple CQRS application.
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+- [DarekModzelewski/Contoso-University-DDD](https://github.com/DarekModzelewski/Contoso-University-DDD)

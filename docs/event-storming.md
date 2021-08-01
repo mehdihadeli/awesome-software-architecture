@@ -41,6 +41,7 @@
 - [EventStorming Modelling Tips to Facilitate Microservice Design](https://medium.com/nick-tune-tech-strategy-blog/eventstorming-modelling-tips-to-facilitate-microservice-design-1b1b0b838efc)
 - [Outside-in Domain Landscape Discovery](https://medium.com/nick-tune-tech-strategy-blog/outside-in-domain-landscape-discovery-3ec88aeb70db)
 - [Event Storming and Spring with a Splash of DDD](https://spring.io/blog/2018/04/11/event-storming-and-spring-with-a-splash-of-ddd)
+- [Strategic Domain-Driven Design Kata: Delivericious](https://medium.com/nick-tune-tech-strategy-blog/strategic-domain-driven-design-kata-delivericious-b114ca77163)
 ## 📺 Videos
 
 - [Scoping and Organizing .NET Microservices Using Event Storming](https://www.pluralsight.com/courses/dotnet-microservices-scoping-organizing)
@@ -58,6 +59,7 @@
 - [RagDhiman/Miro-Event-Storming-Steps-JPEGs](https://github.com/RagDhiman/Miro-Event-Storming-Steps-JPEGs) - Scoping and Organizing .NET Microservices Using Event Storming
 - [RagDhiman/Miro-Event-Storming-Steps](https://github.com/RagDhiman/Miro-Event-Storming-Steps) - Scoping and Organizing .NET Microservices Using Event Storming
 - ["Domain Modelling in a Remote World" with Marco Heimeshoff](https://miro.com/app/board/o9J_lSf4hpY=/)
+- [Strategic DDD Kata: Delivericious](https://miro.com/app/board/o9J_l45tkpU=/)
 ## 📚 Books
 - [Learn EventStorming notation & discover Big Picture and Process Level EventStorming](https://lukaszcoding.com/eventstorming-cheatsheet)
 - [Introducing EventStorming - Alberto Brandolini](https://leanpub.com/introducing_eventstorming) 
