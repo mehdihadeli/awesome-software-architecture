@@ -32,6 +32,7 @@
 - [Hexagonal != Layers](http://tpierrain.blogspot.com/2016/04/hexagonal-layers.html)
 - [Hexagonal architecture: don't get lost on your right-side](https://tpierrain.blogspot.com/2020/03/hexagonal-architecture-dont-get-lost-on.html)
 - [Hexagonal or not Hexagonal?](http://tpierrain.blogspot.com/2020/11/hexagonal-or-not-hexagonal.html)
+- [Software Architecture](https://dev.to/vrnsky/software-architecture-1k7e)
 ## 📺 Videos
 
 - [Chris Fidao - Hexagonal Architecture](https://www.youtube.com/watch?v=6SBjKOwVq0o)

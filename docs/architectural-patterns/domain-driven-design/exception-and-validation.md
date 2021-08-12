@@ -26,6 +26,9 @@
 - [Custom Validation in ASP.NET Web API with FluentValidation](https://exceptionnotfound.net/custom-validation-in-asp-net-web-api-with-fluentvalidation/)
 - [Exception Handling in ASP.NET Web API - A Guided Tour](https://exceptionnotfound.net/the-asp-net-web-api-exception-handling-pipeline-a-guided-tour/)
 - [Scaffold Your Clean DDD Web Application - Part 4: Global Exception Handling in ASP.NET Core and Angular](https://blog.jacobsdata.com/2020/11/12/scaffold-your-clean-ddd-web-application-part-4-global-exception-handling-in-aspnet-core-and-angular)
+- [Advanced error handling techniques](https://enterprisecraftsmanship.com/posts/advanced-error-handling-techniques/)
+- [Combining ASP.NET Core validation attributes with Value Objects](https://enterprisecraftsmanship.com/posts/combining-asp-net-core-attributes-with-value-objects/)
+- [Always-Valid Domain Model](https://enterprisecraftsmanship.com/posts/always-valid-domain-model/)
 ## 📦 Libraries
 
 - [GuardClauses](https://github.com/ardalis/GuardClauses) - A simple package with guard clause extensions.

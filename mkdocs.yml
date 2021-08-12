@@ -91,6 +91,7 @@ nav:
     - Anti Corruption Layer: cloud-design-patterns/anti-corruption-layer-pattern.md
     - Bounded Context: architectural-patterns/domain-driven-design/bounded-context.md
     - Domain Events: architectural-patterns/domain-driven-design/domain-events.md
+    - Integration Events: architectural-patterns/domain-driven-design/integration-event.md
     - Primitive obsession: architectural-patterns/domain-driven-design/domain-primitives.md
     - Domain Service: architectural-patterns/domain-driven-design/domain-service.md
     - Enums: architectural-patterns/domain-driven-design/enums.md

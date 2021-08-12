@@ -67,7 +67,7 @@
 - [Is a REST API with CQRS Possible?](https://www.youtube.com/watch?v=6XO6vSiioWE)
 - [Organizing (Commands, Events & Handlers) in Microservices/SOA](https://www.youtube.com/watch?v=8j5ETvSSNpc)
 - [CQRS Myths | 3 Most Common Misconceptions](https://www.youtube.com/watch?v=O9qpcZt6jW0)
-
+- [On .NET Live - Commands, Queries, and other architectural patterns for your .NET Application](https://www.youtube.com/watch?v=ysxgpVfyeNA)
 ## 📦 Libraries
 - [eventflow/EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
 - [gautema/CQRSlite](https://github.com/gautema/CQRSlite) - A lightweight framework to help creating CQRS and Eventsourcing applications in C#

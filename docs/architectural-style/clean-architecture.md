@@ -61,6 +61,8 @@
 - [Adding Aggregate Example to Clean Architecture solution template](https://www.youtube.com/watch?v=dkj-WwxrgyI) 
 - [How Do You Structure Your Go Apps? by Kat Zień. GoWayFest 2018 Minsk](https://www.youtube.com/watch?v=Qtk9FFOoT5M)
 - [On .NET Live - Commands, Queries, and Clean Architecture](https://www.youtube.com/watch?v=IRvDGPbxdTs)
+- [Clean Architecture and Brighter with Ian Cooper](https://www.youtube.com/watch?v=dlhvBR4gd04)
+- [DevTernity 2019: Ian Cooper – The Clean Architecture](https://www.youtube.com/watch?v=SxJPQ5qXisw)
 ## 🚀 Samples
 
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
@@ -105,6 +107,7 @@
 - [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
 - [keremvaris/Sennedjem](https://github.com/keremvaris/Sennedjem) - Sennedjem is a software development infrastructure that adopts the CQRS (Command Query Responsibility Segregation) approach and focuses on SOLID principles and Clean Architecture methods. RabbitMq is very skilled in integrating with ElasticSearch etc tools. 
 - [grandnode/grandnode2](https://github.com/grandnode/grandnode2) - Open source, headless, multi-tenant eCommerce platform built with .NET Core, MongoDB, AWS DocumentDB, Azure CosmosDB, Vue.js.
+- [iancooper/CA-Tutorial](https://github.com/iancooper/CA-Tutorial) - Implementing the Clean Architecture in .NET
 ## 📚 Books
 
 - [Get Your Hands Dirty on Clean Architecture](https://www.packtpub.com/product/get-your-hands-dirty-on-clean-architecture/9781839211966)

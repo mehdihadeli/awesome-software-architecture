@@ -14,6 +14,7 @@
 - [Building Reliable Reprocessing and Dead Letter Queues with Apache Kafka - Uber Engineering Blog](https://eng.uber.com/reliable-reprocessing/)
 - [Building Reliable Kafka Producers and Consumers in .NET](https://thecloudblog.net/post/building-reliable-kafka-producers-and-consumers-in-net/)
 - [Understanding Kafka Topic Partitions](https://medium.com/event-driven-utopia/understanding-kafka-topic-partitions-ae40f80552e8)
+- [Leader election and Sharding Practices at Wix microservices](https://medium.com/wix-engineering/leader-election-and-sharding-practices-at-wix-microservices-6e6b853e4852)
 ## 📺 Videos
 - [Course | Apache Kafka® Fundamentals](https://www.youtube.com/playlist?list=PLa7VYi0yPIH2PelhRHoFR5iQgflg-y6JA)
 - [Apache Kafka® Tutorials | Kafka 101](https://www.youtube.com/playlist?list=PLa7VYi0yPIH0KbnJQcMv5N9iW8HkZHztH)

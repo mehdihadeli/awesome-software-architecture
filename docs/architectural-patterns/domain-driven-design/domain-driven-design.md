@@ -67,6 +67,7 @@
 - [Domain-Driven Refactoring: Procedural Beginnings](https://jimmybogard.com/domain-driven-refactoring-procedural-beginnings/)
 - [Domain-Driven Refactoring: Long Methods](https://jimmybogard.com/domain-driven-refactoring-long-methods/)
 - [Domain-Driven Refactoring: Extracting Domain Services](https://jimmybogard.com/domain-driven-refactoring-extracting-domain-services/)
+- [Domain-Driven Refactoring: Defactoring and Pushing Behavior Down](https://jimmybogard.com/domain-driven-refactoring-defactoring-and-pushing-behavior-down/)
 - [Combining DDD, CQRS, and Clean Architecture by refactoring a Go project](https://threedots.tech/post/ddd-cqrs-clean-architecture-combined/)
 - [Design a No Duplicates Rule in your Domain Model?](https://ardalis.com/design-no-duplicates-rule-in-domain-model/?utm_sq=gliw3qv7yr)
 - [EF Core 2.1 vs NHibernate 5.1: DDD perspective](https://enterprisecraftsmanship.com/posts/ef-core-vs-nhibernate-ddd-perspective/)
