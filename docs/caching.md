@@ -65,7 +65,7 @@
 - [Leaderboards](https://redislabs.com/solutions/use-cases/leaderboards/)
 - [Freshworks CASE STUDY](https://redislabs.com/case-studies/freshworks/)
 
-## Samples
+## 🚀 Samples
 - [taswar/RedisForNetDevelopers](https://github.com/taswar/RedisForNetDevelopers) - Source code for blog post on Redis for .NET Developer Series
 
 ## Library

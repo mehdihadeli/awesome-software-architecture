@@ -1,7 +1,7 @@
 	
 # Dapr
 
-## Resources
+## 📘 Resources
 - [Dapr Youtube](https://www.youtube.com/channel/UCtpSQ9BLB_3EXdWAUQYwnRA/videos)
 - [mstrYoda/awesome-dapr](https://github.com/mstrYoda/awesome-dapr) - A cruated list of awesome Dapr application runtime related tools.
 ## 📕 Articles

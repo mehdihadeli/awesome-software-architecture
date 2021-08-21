@@ -1,6 +1,6 @@
 # Consistent Hashing
 
-## Articles
+## 📕 Articles
 - [Introducing Consistent Hashing](https://itnext.io/introducing-consistent-hashing-9a289769052e)
 - [A Guide to Consistent Hashing](https://www.toptal.com/big-data/consistent-hashing)
 - [Consistent Hashing](https://medium.com/system-design-blog/consistent-hashing-b9134c8a9062)
@@ -11,7 +11,7 @@
 - [Consistent Hashing: Algorithmic Tradeoffs](https://dgryski.medium.com/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8)
 - [Consistent Hashing: Beyond the basics](https://medium.com/omarelgabrys-blog/consistent-hashing-beyond-the-basics-525304a12ba)
 - [Consistent Hashing](https://medium.com/@sandeep4.verma/consistent-hashing-8eea3fb4a598)
-## Videos
+## 📺 Videos
 - [Consistent Hashing - Georgia Tech - Network Congestion](https://www.youtube.com/watch?v=viaNG1zyx1g)
 - [Amazon Interview question: Learn hashing and consistent hash ring](https://www.youtube.com/watch?v=bBK_So1u9ew)
 - [What is Consistent Hashing | System Design Basics](https://www.youtube.com/watch?v=ffE1mQWxyKM)

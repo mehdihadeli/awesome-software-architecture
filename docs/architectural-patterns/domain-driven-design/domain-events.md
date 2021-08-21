@@ -2,7 +2,6 @@
 # Domain Events
 
 ## 📕 Articles
-
 - [How to publish and handle Domain Events](http://www.kamilgrzybek.com/design/how-to-publish-and-handle-domain-events/)
 - [Handling Domain Events: Missing Part](http://www.kamilgrzybek.com/design/handling-domain-events-missing-part/)
 - [The Outbox Pattern](http://www.kamilgrzybek.com/design/the-outbox-pattern/) 
@@ -11,7 +10,11 @@
 - [Events on the outside, on the inside and at the core](https://chrisrichardson.net/post/microservices/2021/02/21/events-are-the-core.html)
 - [Strengthening your domain: Domain Events](https://lostechies.com/jimmybogard/2010/04/08/strengthening-your-domain-domain-events/) 
 - [Don't publish Domain Events, return them!](https://blog.jayway.com/2013/06/20/dont-publish-domain-events-return-them/)
+- [Using Domain Events within a .NET Core Microservice](https://devblogs.microsoft.com/cesardelatorre/using-domain-events-within-a-net-core-microservice/)
+- [Domain Events Pattern Example](https://tonytruong.net/domain-events-pattern-example/)
 - [A better domain events pattern](https://lostechies.com/jimmybogard/2014/05/13/a-better-domain-events-pattern/) 
+- [Strengthening your domain: a primer](https://lostechies.com/jimmybogard/2010/02/04/strengthening-your-domain-a-primer/)
+- [Strengthening your domain: Domain Events](https://lostechies.com/jimmybogard/2010/04/08/strengthening-your-domain-domain-events/)
 - [Implementing event-based communication between microservices (integration events)](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/integration-event-based-microservice-communications) 
 - [DDD and Messaging Architectures](https://verraes.net/2019/05/ddd-msg-arch/) 
 - [Domain events: simple and reliable solution](https://enterprisecraftsmanship.com/posts/domain-events-simple-reliable-solution/) 
@@ -20,8 +23,19 @@
 - [Patterns for Decoupling in Distributed Systems: Explicit Public Events](http://verraes.net/2019/05/patterns-for-decoupling-distsys-explicit-public-events/)
 - [Immediate Domain Event Salvation with MediatR](https://ardalis.com/immediate-domain-event-salvation-with-mediatr/)
 - [From Domain to Integration Events](https://www.ledjonbehluli.com/posts/domain_to_integration_event/)
+- [Domain Events - Before Persistence](https://www.weeklydevtips.com/episodes/022)
+- [Domain Events - After Persistence](https://weeklydevtips.com/episodes/23-f8eec63c)
+- [Decoupling Logic with Domain Events - Domain-Driven Design w/ TypeScript](https://khalilstemmler.com/articles/typescript-domain-driven-design/chain-business-logic-domain-events/)
+- [Domain Events in DDD](https://emacsway.github.io/ru/domain-events-in-ddd/)
+
+## 🚀 Samples
+- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture/blob/main/src/Clean.Architecture.Infrastructure/Data/AppDbContext.cs)
+- [vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices/blob/da6b9e0d0120693e0239a1dc4077ba452163d61a/src/BasicBuildingBlocks/N8T.Infrastructure.EfCore/Extensions.cs#L63)
+- [thangchung/clean-architecture-dotnet](https://github.com/thangchung/clean-architecture-dotnet/blob/main/src/N8T.Infrastructure.EfCore/TxBehavior.cs#L55)
+- [vkhorikov/DddAndEFCore](https://github.com/vkhorikov/DddAndEFCore/blob/master/src/App/SchoolContext.cs#L110)
+- [kgrzybek/modular-monolith-with-ddd/blob/90ab9b20a1c6e11700e8b357929c5f792b2b32bf/src/BuildingBlocks/Infrastructure/UnitOfWork.cs#L27](https://github.com/kgrzybek/modular-monolith-with-ddd/blob/90ab9b20a1c6e11700e8b357929c5f792b2b32bf/src/BuildingBlocks/Infrastructure/UnitOfWork.cs#L27)
+- [ardalis/AggregateEvents](https://github.com/ardalis/AggregateEvents)
 ## 📺 Videos
+- [Working on ASP.NET Core apps: eShopOnWeb and Domain Events](https://www.youtube.com/watch?v=x-UXUGVLMj8&t=4552s)
+- [Implementing Domain Events with Entity Framework Core](https://www.youtube.com/watch?v=SbMbWmmukws)
 - [GOTO 2019 • Temporal Modelling • Mathias Verraes](https://www.youtube.com/watch?v=KNqOWT0lOYY)
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

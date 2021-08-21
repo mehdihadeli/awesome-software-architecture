@@ -3,7 +3,7 @@
 
 ## 📘 Resources
 - [Connect your services together](https://docs.microsoft.com/en-us/learn/paths/connect-your-services-together/)
-
+- [AZURE SERVICE BUS .NET SDK DEEP DIVE – CONTENT](https://www.planetgeek.ch/2020/03/09/azure-service-bus-net-sdk-deep-dive-content/)
 ## 📕 Articles
 
 - [Asynchronous messaging with Azure Service Bus](https://daniel-krzyczkowski.github.io/Asynchronous-Messaging-With-Azure-Service-Bus/)

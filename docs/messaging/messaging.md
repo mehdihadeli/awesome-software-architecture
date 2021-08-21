@@ -84,6 +84,8 @@
 - [Building a Mediator library in .NET from scratch](https://www.youtube.com/watch?v=4e83trumwcM)
 - [Message Driven Architecture to DECOUPLE a Monolith](https://www.youtube.com/watch?v=bxGkavGaEiM)
 - [Synchronous vs Messaging: When to use which?](https://www.youtube.com/watch?v=LMKVzguhFw4)
+- [Moving work Out-of-Process using Brighter and RabbitMQ](https://www.youtube.com/watch?v=kG4WLiZEAuc)
+- [Building a Request Pipeline for Separating Concerns with Pipes & Filters](https://www.youtube.com/watch?v=msXtN15qXOE)
 ## 📦 Libraries
 
 - [Enexure.MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - MicroBus is a simple in process Mediator for .NET

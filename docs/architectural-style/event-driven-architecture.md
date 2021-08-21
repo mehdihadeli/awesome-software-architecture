@@ -40,6 +40,8 @@
 - [Event-driven vs REST API interactions](https://apifriends.com/api-management/event-driven-vs-rest-api-interactions/)
 - [5 Protocols For Event-Driven API Architectures](https://nordicapis.com/5-protocols-for-event-driven-api-architectures/)
 - [3 Specifications to Consider When Designing Event-Driven Applications](https://medium.com/event-driven-utopia/3-specifications-to-consider-when-designing-event-driven-applications-c12685efd7ad)
+- [Versatile Events in Event Driven Architecture](https://thecloudblog.net/post/versatile-events-in-event-driven-architecture/)
+
 ## 📺 Videos
 
 - [Event-Driven Architecture | EDA | Software Architectural Patterns](https://www.youtube.com/watch?v=gIL8rW_eyww&t=0s) 

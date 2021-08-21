@@ -14,10 +14,16 @@
 - [More on Repository](http://codebetter.com/gregyoung/2009/04/24/more-on-repository/)
 - [Avoiding the Repository Pattern with an ORM](https://codeopinion.com/avoiding-the-repository-pattern-with-an-orm/)
 - [Building a CachedRepository via Strategy Pattern](https://ardalis.com/building-a-cachedrepository-via-strategy-pattern/?utm_sq=glv8x7culc)
+- [Adding decorated classes to the ASP.NET Core DI container using Scrutor](https://andrewlock.net/adding-decorated-classes-to-the-asp.net-core-di-container-using-scrutor/)
 - [Introducing the CachedRepository Pattern](https://ardalis.com/introducing-the-cachedrepository-pattern/)
+- [Should repositories throw exceptions ?](https://minasami.com/2020/09/14/should-repositories-throw-exceptions.html)
 ## 📺 Videos
 - [Repository Pattern with C# and Entity Framework - Mosh Hamedani](https://www.youtube.com/watch?v=rtXpYpZdOzM)
 - [Step by Step - Repository Pattern and Unit of Work with Asp.Net Core 5](https://www.youtube.com/watch?v=-jcf1Qq8A-4)
+
+## 🚀 Samples
+- [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb/blob/15bd78ee5b753a51fd9f8214a6ee8f5007e2d40f/src/Infrastructure/Data/EfRepository.cs)
+- [thangchung/clean-architecture-dotnet](https://github.com/thangchung/clean-architecture-dotnet/blob/main/src/N8T.Infrastructure.EfCore/Repository.cs)
 ## 📦 Libraries
 - [FoundatioFx/Foundatio.Repositories](https://github.com/FoundatioFx/Foundatio.Repositories) - Generic repositories
 - [RobThree/MongoRepository](https://github.com/RobThree/MongoRepository) - Repository abstraction layer on top of Official MongoDB C# driver
@@ -25,6 +31,3 @@
 - [alexandre-spieser/mongodb-generic-repository](https://github.com/alexandre-spieser/mongodb-generic-repository) - An example of generic repository implementation using the MongoDB C# Sharp 2.0 driver (async)
 - [esendir/MongoRepository](https://github.com/esendir/MongoRepository) - Repository pattern for MongoDB with extended features
 - [WeihanLi/WeihanLi.EntityFramework](https://github.com/WeihanLi/WeihanLi.EntityFramework) - EntityFramework extensions
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

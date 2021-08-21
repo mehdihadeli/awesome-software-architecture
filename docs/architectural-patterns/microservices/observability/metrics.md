@@ -1,6 +1,6 @@
 # Metrics
 
-## Articles
+## 📕 Articles
 - [ASP.NET Core Metrics with Prometheus](https://aevitas.medium.com/expose-asp-net-core-metrics-with-prometheus-15e3356415f4)
 - [Introducing diagnostics improvements in .NET Core 3.0](https://devblogs.microsoft.com/dotnet/introducing-diagnostics-improvements-in-net-core-3-0/)
 - [EventCounters in .NET Core](https://docs.microsoft.com/en-us/dotnet/core/diagnostics/event-counters)
@@ -14,9 +14,9 @@
 - [Creating a Custom ETW EventSource for Debugging High-Performance Code in C#](https://aaronstannard.com/creating-your-own-ETW-source/)
 - [Tracing with EventSource in .NET 4.5](http://dev.goshoom.net/2013/04/tracing-with-eventsource/)
 - [MassTransit Prometheus Metrics](https://masstransit-project.com/advanced/monitoring/prometheus.html)
-## Videos
+## 📺 Videos
 - [Measure All The Things with App Metrics - Mark Rendle](https://www.youtube.com/watch?v=YJgBAiPlG3k)
 - [How to collect metrics and create dashboards using Grafana, Prometheus and AppMetrics in .NET Core](https://www.youtube.com/watch?v=sM7D8biBf4k)
 
-## Libraries
+## 📦 Libraries
 - [AppMetrics/AppMetrics](https://github.com/AppMetrics/AppMetrics) - App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application.

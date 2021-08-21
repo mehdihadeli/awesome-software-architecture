@@ -6,7 +6,7 @@
 - [Developer-Y/Scalable-Software-Architecture](https://github.com/Developer-Y/Scalable-Software-Architecture) - Collection of tech talks, papers and web links on Distributed Systems, Scalability and System Design.
 - [Scalability, Availability & Stability Patterns](http://www.slideshare.net/jboner/scalability-availability-stability-patterns/)
 
-## Articles
+## 📕 Articles
 - [Scalability for Dummies - Part 1: Clones](https://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones)
 - [Scalability for Dummies - Part 2: Database](https://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database)
 - [Scalability for Dummies - Part 3: Cache](https://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache)
@@ -17,7 +17,7 @@
 - [Web Site Scalability](http://horicky.blogspot.com/2008/03/web-site-scalability.html)
 - [Introduction to architecting systems for scale](https://lethain.com/introduction-to-architecting-systems-for-scale/#platform_layer)
 - [How to design a system to scale to your first 100 million users](https://levelup.gitconnected.com/how-to-design-a-system-to-scale-to-your-first-100-million-users-4450a2f9703d)
-## Videos
+## 📺 Videos
 - [AWS re:Invent 2019: [REPEAT] Scaling up to your first 10 million users ](https://www.youtube.com/watch?v=kKjm4ehYiMs)
 - [Scaling Instagram Infrastructure](https://www.youtube.com/watch?v=hnpzNAPiC0E)
 - [How to design and code a scaleable solution (from monolith to microservices)](https://www.youtube.com/watch?v=rzjy2DDPwio)

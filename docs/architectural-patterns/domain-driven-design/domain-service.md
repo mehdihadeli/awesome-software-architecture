@@ -4,7 +4,7 @@
 ## 📕 Articles
 - [Domain-Driven Refactoring: Extracting Domain Services](https://jimmybogard.com/domain-driven-refactoring-extracting-domain-services/)
 
-## Videos
+## 📺 Videos
 
 
 <div align="right">

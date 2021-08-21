@@ -1,6 +1,6 @@
 # Diagnostics
 
-## Articles
+## 📕 Articles
 - [DiagnosticSource User's Guide](https://github.com/dotnet/corefx/blob/master/src/System.Diagnostics.DiagnosticSource/src/DiagnosticSourceUsersGuide.md)
 - [Activity User Guide](https://github.com/dotnet/corefx/blob/master/src/System.Diagnostics.DiagnosticSource/src/ActivityUserGuide.md)
 - [Diagnostic Source in.Net Core](https://www.fatalerrors.org/a/diagnostic-source-in.net-core.html)
@@ -51,13 +51,13 @@
 - [OpenTelemetry .NET API](https://github.com/open-telemetry/opentelemetry-dotnet/blob/main/src/OpenTelemetry.Api/README.md)
 - [OpenTelemetry in .NET](https://lightstep.com/blog/opentelemetry-net-all-you-need-to-know/)
 - [Increasing Trace Cardinality with Activity Tags and Baggage](https://jimmybogard.com/increasing-trace-cardinality-with-tags-and-baggage/)
-## Videos
+## 📺 Videos
 - [Diagnostics Improvements in .NET Core 3.0](https://www.youtube.com/watch?v=fkjetdIdcyg)
 - [Introducing the Diagnostics Client Library for .NET Core](https://www.youtube.com/watch?v=Rei6d9nKaFQ)
 - [Cool things you can do with .NET Core 3 Tooling - Jonathan Mezach](https://www.youtube.com/watch?v=MSCRzPiGKr8)
 - [DiagnosticSource and Activity, Tracing in .NET Part 1 - .NET Concept of the Week - Episode 18](https://www.youtube.com/watch?v=y52l8XR3XK4)
 - [.NET Design Review: System.Diagnostics.Activity](https://www.youtube.com/watch?v=a3xPdYi6jYU)
-## Samples
+## 🚀 Samples
 - [gregkalapos/DiagnosticSource](https://github.com/gregkalapos/DotNetConceptOfTheWeek/tree/master/18_DiagnosticSource)
 - [aspnet/AspNetCore/blob/master/src/Hosting/Hosting/src/Internal/HostingEventSource.cs](https://github.com/aspnet/AspNetCore/blob/master/src/Hosting/Hosting/src/Internal/HostingEventSource.cs)
 - [aspnet/AspNetCore/blob/master/src/Servers/Kestrel/Core/src/Internal/Infrastructure/KestrelEventSource.cs](https://github.com/aspnet/AspNetCore/blob/master/src/Servers/Kestrel/Core/src/Internal/Infrastructure/KestrelEventSource.cs)
@@ -71,7 +71,8 @@
 - [open-telemetry/opentelemetry-dotnet/tree/main/src/OpenTelemetry.Instrumentation.GrpcNetClient](https://github.com/open-telemetry/opentelemetry-dotnet/tree/main/src/OpenTelemetry.Instrumentation.GrpcNetClient)
 - [jbogard/MongoDB.Driver.Core.Extensions.OpenTelemetry](https://github.com/jbogard/MongoDB.Driver.Core.Extensions.OpenTelemetry)
 - [jbogard/MongoDB.Driver.Core.Extensions.DiagnosticSources](https://github.com/jbogard/MongoDB.Driver.Core.Extensions.DiagnosticSources)
-## Libraries
+- [open-telemetry/opentelemetry-dotnet/examples](https://github.com/open-telemetry/opentelemetry-dotnet/tree/main/examples)
+## 📦 Libraries
 - [open-telemetry/opentelemetry-dotnet](https://github.com/open-telemetry/opentelemetry-dotnet) - The OpenTelemetry .NET Client
 - [Azure/diagnostics-eventflow](https://github.com/Azure/diagnostics-eventflow) - Microsoft Diagnostics EventFlow
 - [bluekiri/bluekiri-diagnostics-prometheus](https://github.com/bluekiri/bluekiri-diagnostics-prometheus) - Exposes Diagnostic Source events as prometheus metrics using prometheus-net underneath
@@ -84,3 +85,4 @@
 - [open-telemetry/opentelemetry-dotnet/tree/main/src/OpenTelemetry.Instrumentation.GrpcNetClient](https://github.com/open-telemetry/opentelemetry-dotnet/tree/main/src/OpenTelemetry.Instrumentation.GrpcNetClient)
 - [jbogard/MongoDB.Driver.Core.Extensions.OpenTelemetry](https://github.com/jbogard/MongoDB.Driver.Core.Extensions.OpenTelemetry)
 - [jbogard/MongoDB.Driver.Core.Extensions.DiagnosticSources](https://github.com/jbogard/MongoDB.Driver.Core.Extensions.DiagnosticSources) - extends the core MongoDB C# driver to expose telemetry information via System.Diagnostics.
+- [spectreconsole/errata](https://github.com/spectreconsole/errata) - A library that makes it easy to create and display diagnostics of different kinds.

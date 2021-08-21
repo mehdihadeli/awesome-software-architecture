@@ -7,5 +7,5 @@
 ## 📹 Videos
 - [Deploy Asp.Net Core Website on Heroku using Docker](https://www.youtube.com/watch?v=gQMT4al2Grg)
 
-## Samples
+## 🚀 Samples
 - [dotnet-labs/HerokuContainer](https://github.com/dotnet-labs/HerokuContainer) - Dockerized ASP.NET Core Web API app in Heroku

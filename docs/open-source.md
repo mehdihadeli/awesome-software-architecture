@@ -1,10 +1,10 @@
 # Open Source
 
-## Resources
+## 📘 Resources
 - [Open Source Guides](https://opensource.guide/) - Open source software is made by people just like you. Learn how to launch and grow your project.
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - Help beginners to contribute to open source projects
 - [MarcDiethelm/contributing](https://github.com/MarcDiethelm/contributing) - How to make a clean pull request on Github
-## Articles
+## 📕 Articles
 - [Step-by-step guide to contributing on GitHub](https://www.dataschool.io/how-to-contribute-on-github/)
 
 ## Courses

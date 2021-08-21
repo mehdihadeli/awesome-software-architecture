@@ -83,8 +83,8 @@ nav:
   - YAGNI: architectural-design-principles/yagni.md
 - Architectural Patterns: 
   - Architectural Patterns: architectural-patterns/architectural-patterns.md
-  - Domain Driven Design - Domain Centric: 
-    - Domain Driven Design - Domain Centric: architectural-patterns/domain-driven-design/domain-driven-design.md
+  - Domain Driven Design - DDD: 
+    - Domain Driven Design: architectural-patterns/domain-driven-design/domain-driven-design.md
     - Aggregation: architectural-patterns/domain-driven-design/aggregation.md
     - Anemic Domain Model: architectural-patterns/domain-driven-design/anemic-domain-model.md
     - Application Service: architectural-patterns/domain-driven-design/application-service.md
@@ -105,7 +105,7 @@ nav:
     - Repository: architectural-patterns/domain-driven-design/repository.md
     - ORMs:
       - Entity Framework: architectural-patterns/domain-driven-design/orm/ef.md
-  - Data Driven Design - Data Centric: architectural-patterns/data-driven-design.md
+  - Data Driven Design: architectural-patterns/data-driven-design.md
   - CQRS: architectural-patterns/cqrs.md
   - Event Sourcing: architectural-patterns/event-sourcing.md
   - Microservices: 
@@ -205,7 +205,6 @@ nav:
     - Traefik: cloud-native/load-balancing/traefik.md
     - Fabio: cloud-native/load-balancing/fabio.md
   - Paas (Platform as a Service):
-    - Paas: cloud-native/paas/index.md
     - Rancher: cloud-native/paas/rancher.md
     - OpenShift: cloud-native/paas/openshift.md
     - Heroku: cloud-native/paas/heroku.md
@@ -316,6 +315,7 @@ nav:
   - Tools: modeling/tools.md
   - Use Case Diagram: modeling/use-case-diagram.md
 - Event Storming: event-storming.md
+- Event Modeling: event-modeling.md
 - Open Source: open-source.md
 - Architecture Decision Records (ADR): adr.md
 - Engineering Blogs: engineering-blogs.md

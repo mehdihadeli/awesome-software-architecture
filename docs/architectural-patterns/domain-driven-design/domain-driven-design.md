@@ -1,5 +1,5 @@
 
-# Domain Driven Design - Domain Centric
+# Domain Driven Design (DDD) - Domain Centric
 
 ## 📘 Resources
 

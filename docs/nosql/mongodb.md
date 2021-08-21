@@ -1,6 +1,6 @@
 # MongoDB
 
-## Resources
+## 📘 Resources
 - [MongoDB Docs](https://docs.mongodb.com/)
 
 ## 📕 Articles

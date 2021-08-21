@@ -22,7 +22,7 @@
 - [Kubernetes Essentials Playlist - IBM Cloud](https://www.youtube.com/playlist?list=PLOspHqNVtKABAVX4azqPIu6UfsPzSu2YN)
 - [Kubernetes 101 Playlist - Jeff Geerling](https://www.youtube.com/playlist?list=PL2_OBreMn7FoYmfx27iSwocotjiikS5BD)
 
-## Libraries
+## 📦 Libraries
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
 - [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - SDK for building Kubernetes APIs using CRDs
 - [buehler/dotnet-operator-sdk](https://github.com/buehler/dotnet-operator-sdk) - KubeOps is a kubernetes operator sdk in dotnet. Strongly inspired by kubebuilder.

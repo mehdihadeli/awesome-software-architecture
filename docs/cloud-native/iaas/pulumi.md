@@ -1,6 +1,6 @@
 # Pulumi
 
-## Articles
+## 📕 Articles
 - [Building Modern Cloud Applications using Pulumi and .NET Core](https://devblogs.microsoft.com/dotnet/building-modern-cloud-applications-using-pulumi-and-net-core/)
 - [Manage Azure infrastructure with Pulumi and .NET C#](https://daniel-krzyczkowski.github.io/Manage-Azure-Infrastructure-With-Pulumi-And-C-Copy-Copy/)
 ## 📺 Videos
@@ -9,6 +9,6 @@
 - [Pulumi - Infrastructure as Code (IaC) Using Programming Languages](https://www.youtube.com/watch?v=oE3BUi_N0qc)
 - [Managing any Cloud with .NET](https://www.youtube.com/watch?v=hXhZiHtT8f0)
 
-## Samples
+## 🚀 Samples
 - [pulumi/examples](https://github.com/pulumi/examples)
 - [martinothamar/EasyAzureWebApp](https://github.com/martinothamar/EasyAzureWebApp) - A sample easy to deploy full stack C# Azure web app using Pulumi

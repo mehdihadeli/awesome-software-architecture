@@ -1,9 +1,9 @@
 # Sharding
 
-## Resources
+## 📘 Resources
 - [donnemartin/system-design-primer#sharding](https://github.com/donnemartin/system-design-primer#sharding)
 
-## Articles
+## 📕 Articles
 - [What Exactly Is Database Sharding?](https://betterprogramming.pub/what-exactly-is-database-sharding-ca618a2cbb9a)
 - [Introducing Consistent Hashing](https://itnext.io/introducing-consistent-hashing-9a289769052e)
 - [A Guide to Consistent Hashing](https://www.toptal.com/big-data/consistent-hashing)
@@ -14,7 +14,7 @@
 - [What Is Sharding?](https://hazelcast.com/glossary/sharding)
 - [Database Sharding Explained- 2021 Database Scaling Tutorial](https://dev.to/renaissanceengineer/database-sharding-explained-2021-database-scaling-tutorial-5cej)
 - [How Sharding Works](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6)
-## Videos
+## 📺 Videos
 - [What is Database Sharding?](https://www.youtube.com/watch?v=5faMjKuB9bc)
 - [What is Database Sharding?](https://www.youtube.com/watch?v=hdxdhCpgYo8)
 - [More Flexibility?! Sharding Gets Even Easier with MongoDB 4.4](https://www.youtube.com/watch?v=wGgMnJQunEc)

@@ -1,6 +1,6 @@
 # Cloud Native
 
-## Resources
+## 📘 Resources
 - [Architecting Cloud Native .NET Applications for Azure](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/)
 
 ## 📕 Articles

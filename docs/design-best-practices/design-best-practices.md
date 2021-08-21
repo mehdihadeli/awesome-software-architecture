@@ -1,6 +1,6 @@
 # Design Best Practices
 
-## Resources
+## 📘 Resources
 - [hassanhabib/The-Standard](https://github.com/hassanhabib/The-Standard)
 - [hassanhabib/CSharpCodingStandard](https://github.com/hassanhabib/CSharpCodingStandard) - This is the Standard for C# Programming language
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.

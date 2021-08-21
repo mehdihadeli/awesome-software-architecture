@@ -15,8 +15,8 @@
 - [Primitive Obsession Code Smell Resolution with example](https://www.thecodebuzz.com/awesome-code-primitive-obsession-code-smell-with-example/)
 - [Code Smell – Primitive Obsession and Refactoring Recipes](https://blog.ndepend.com/code-smell-primitive-obsession-and-refactoring-recipes/)
 - [Dealing with primitive obsession](https://lostechies.com/jimmybogard/2007/12/03/dealing-with-primitive-obsession/)
-## Videos
+## 📺 Videos
 - [Treating Primitive Obsession with ValueObjects | DDD in .NET](https://www.youtube.com/watch?v=h4uldNA1JUE)
 
-## Samples
+## 🚀 Samples
 - [shuebner/DomainPrimitives](https://github.com/shuebner/DomainPrimitives) - Base classes and templates for domain primitives in C#

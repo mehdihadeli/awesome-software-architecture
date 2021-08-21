@@ -1,6 +1,6 @@
 # Entity Framework
 
-## Articles
+## 📕 Articles
 - [Let’s do some DDD with Entity Framework Core 3!](https://www.davidguida.net/lets-do-some-ddd-with-entity-framework-core-3/)
 - [Shadow and Indexer Properties](https://docs.microsoft.com/en-us/ef/core/modeling/shadow-properties)
 - [Owned Entity Types](https://docs.microsoft.com/en-us/ef/core/modeling/owned-entities)
@@ -20,12 +20,12 @@
 - [Backing Fields](https://docs.microsoft.com/en-us/ef/core/modeling/backing-field?tabs=data-annotations)
 - [Integrity of Collections in Domain-Driven Design](https://ankitvijay.net/2020/05/10/integrity-of-collections-in-domain-driven-design/)
 - [Strengthening your domain: Encapsulated collections](https://lostechies.com/jimmybogard/2010/03/10/strengthening-your-domain-encapsulated-collections/)
-## Videos
+## 📺 Videos
 - [How to use EF Core 5 with DDD style projects - part 1](https://www.youtube.com/watch?v=bzI5g6PVM-I)
 - [How to use EF Core 5 with DDD style projects - part 2](https://www.youtube.com/watch?v=D1hSU-q3GLc)
 - [How to use EF Core 5 with DDD style projects - part 3](https://www.youtube.com/watch?v=tgDE87Y5t_8)
 - [Practical Domain-Driven Design with EF Core - Hossam Barakat](https://www.youtube.com/watch?v=yxtsTEhb140)
-## Samples
+## 🚀 Samples
 - [mizrael/EFCoreCommerceDemo](https://github.com/mizrael/EFCoreCommerceDemo) - Small demo showing how to use DDD with Persistence Ignorance using Entity Framework Core 3.
 - [mizrael/DDD-School](https://github.com/mizrael/DDD-School) - Implementation of the Outbox pattern to improve microservices reliability
 - [milannankov/EfCoreValueObjects](https://github.com/milannankov/EfCoreValueObjects) - Illustrates support for value object with Entity Framework Core 2.2

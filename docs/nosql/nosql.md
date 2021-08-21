@@ -1,7 +1,7 @@
 
 # NoSQL
 
-## Resources
+## 📘 Resources
 - [donnemartin/system-design-primer#nosql](https://github.com/donnemartin/system-design-primer#nosql)
 
 ## 📺 Videos
