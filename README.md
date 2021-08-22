@@ -17,10 +17,7 @@
 
 ## Support ⭐
 
-If you like my work, feel free to:
-
-- ⭐ this repository. And we will be happy together :)
-- [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)][tweet] about Awesome Software Architecture
+⭐ this repository. And we will be happy together :)
 
 Thanks a bunch for supporting me!
 
