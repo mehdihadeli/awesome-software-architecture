@@ -36,6 +36,6 @@
 - [kgrzybek/modular-monolith-with-ddd/blob/90ab9b20a1c6e11700e8b357929c5f792b2b32bf/src/BuildingBlocks/Infrastructure/UnitOfWork.cs#L27](https://github.com/kgrzybek/modular-monolith-with-ddd/blob/90ab9b20a1c6e11700e8b357929c5f792b2b32bf/src/BuildingBlocks/Infrastructure/UnitOfWork.cs#L27)
 - [ardalis/AggregateEvents](https://github.com/ardalis/AggregateEvents)
 ## 📺 Videos
-- [Working on ASP.NET Core apps: eShopOnWeb and Domain Events](https://www.youtube.com/watch?v=x-UXUGVLMj8&t=4552s)
+- [Working on ASP.NET Core apps: eShopOnWeb and Domain Events](https://www.youtube.com/watch?v=x-UXUGVLMj8)
 - [Implementing Domain Events with Entity Framework Core](https://www.youtube.com/watch?v=SbMbWmmukws)
 - [GOTO 2019 • Temporal Modelling • Mathias Verraes](https://www.youtube.com/watch?v=KNqOWT0lOYY)

@@ -17,7 +17,7 @@
 
 ## Support ⭐
 
-⭐ this repository. And we will be happy together :)
+⭐ this repository, And we will be happy together :)
 
 Thanks a bunch for supporting me!
 

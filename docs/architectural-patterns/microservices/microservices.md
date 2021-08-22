@@ -150,6 +150,7 @@
 - [Daniel-Krzyczkowski/Smart-Accounting](https://github.com/Daniel-Krzyczkowski/Smart-Accounting) - This repository contains a solution for collecting invoices in a digital way.
 - [juicycleff/ultimate-backend](https://github.com/juicycleff/ultimate-backend) - Multi tenant SaaS starter kit with cqrs graphql microservice architecture, apollo federation, event source and authentication
 - [OpenCodeFoundation/eSchool](https://github.com/OpenCodeFoundation/eSchool) - eSchool Microservice based Solution
+- [ttulka/ddd-example-ecommerce-microservices](https://github.com/ttulka/ddd-example-ecommerce-microservices) - Domain-driven design microservices example
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
 - [Building Microservices: Designing Fine-Grained Systems 1st Edition](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
