@@ -156,6 +156,7 @@ nav:
   - Strategy Pattern: design-patterns/strategy-pattern.md
   - Adapter Pattern: design-patterns/adapter-pattern.md
   - Command Message Pattern: design-patterns/command-message-pattern.md
+  - Chain Of Responsibility: design-patterns/chain-of-responsibility.md
 - Cloud Design Patterns: 
   - Cloud Design Patterns: cloud-design-patterns/cloud-design-patterns.md
   - Ambassador Pattern: cloud-design-patterns/ambassador-pattern.md
@@ -285,6 +286,7 @@ nav:
   - Azure Load Balancing: azure/azure-load-balancing.md
   - Azure Logic App: azure/azure-logic-app.md
   - Azure No SQL: azure/azure-nosql.md
+  - Azure Resource & Resource Group: azure/azure-resource.md
   - Azure Messaging:
     - Azure Messaging: azure/messaging/messaging.md
     - Azure Event Grid: azure/azure-event-grid.md

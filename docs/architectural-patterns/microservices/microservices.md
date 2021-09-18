@@ -86,6 +86,7 @@
 - [Compositional UIs - the Microservices Last Mile - Jimmy Bogard](https://www.youtube.com/watch?v=gjtFGx0yX5M)
 - [Avoiding Microservice Megadisasters - Jimmy Bogard](https://www.youtube.com/watch?v=gfh-VCTwMw8)
 - [Why programming language performance in microservices isn't (that) important](https://www.youtube.com/watch?v=g1UQf3TOBn8)
+- [.NET Microservices – Full Course](https://www.youtube.com/c/binarythistle/videos)
 ## 📦 Libraries
 
 - [dotnet/tye](https://github.com/dotnet/tye) - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
@@ -151,6 +152,7 @@
 - [juicycleff/ultimate-backend](https://github.com/juicycleff/ultimate-backend) - Multi tenant SaaS starter kit with cqrs graphql microservice architecture, apollo federation, event source and authentication
 - [OpenCodeFoundation/eSchool](https://github.com/OpenCodeFoundation/eSchool) - eSchool Microservice based Solution
 - [ttulka/ddd-example-ecommerce-microservices](https://github.com/ttulka/ddd-example-ecommerce-microservices) - Domain-driven design microservices example
+- [WolfgangOfner/MicroserviceDemo](https://github.com/WolfgangOfner/MicroserviceDemo)
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
 - [Building Microservices: Designing Fine-Grained Systems 1st Edition](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)

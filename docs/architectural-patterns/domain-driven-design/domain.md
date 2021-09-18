@@ -34,9 +34,12 @@
 - [EF Core 2.1 vs NHibernate 5.1: DDD perspective](https://enterprisecraftsmanship.com/posts/ef-core-vs-nhibernate-ddd-perspective/)
 - [Link to an aggregate: reference or Id?](https://enterprisecraftsmanship.com/2016/03/08/link-to-an-aggregate-reference-or-id/)
 - [Entities, Value Objects, Aggregates and Roots](https://lostechies.com/jimmybogard/2008/05/21/entities-value-objects-aggregates-and-roots/)
+- [Using Factory method instead of Constuctor](https://github.com/kgrzybek/modular-monolith-with-ddd/discussions/214)
+- [Notes about C# records and Nullable Reference Types](https://event-driven.io/en/notes_about_csharp_records_and_nullable_reference_types/)
+- [Don’t Create Aggregate Roots](https://udidahan.com/2009/06/29/dont-create-aggregate-roots/)
 ## 📺 Videos
-
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU) 
+- [ALWAYS Valid Domain Model](https://www.youtube.com/watch?v=JZetlRXdYeI)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>

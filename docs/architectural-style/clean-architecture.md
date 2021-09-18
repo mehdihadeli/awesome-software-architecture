@@ -109,8 +109,8 @@
 - [keremvaris/Sennedjem](https://github.com/keremvaris/Sennedjem) - Sennedjem is a software development infrastructure that adopts the CQRS (Command Query Responsibility Segregation) approach and focuses on SOLID principles and Clean Architecture methods. RabbitMq is very skilled in integrating with ElasticSearch etc tools. 
 - [grandnode/grandnode2](https://github.com/grandnode/grandnode2) - Open source, headless, multi-tenant eCommerce platform built with .NET Core, MongoDB, AWS DocumentDB, Azure CosmosDB, Vue.js.
 - [iancooper/CA-Tutorial](https://github.com/iancooper/CA-Tutorial) - Implementing the Clean Architecture in .NET
+- [dimatrubca/book-exchange-app](https://github.com/dimatrubca/book-exchange-app) - BookExchangeApp is a fully functioning application that allows users to exchange books, earn and buy points, and receive recomendations based on the rated books
 ## 📚 Books
-
 - [Get Your Hands Dirty on Clean Architecture](https://www.packtpub.com/product/get-your-hands-dirty-on-clean-architecture/9781839211966)
 
 <div align="right">

@@ -61,6 +61,8 @@
 - [Event immutability and dealing with change](https://www.eventstore.com/blog/event-immutability-and-dealing-with-change)
 - [Transient fault handling](https://docs.microsoft.com/en-us/azure/architecture/best-practices/transient-faults)
 - [SHARING DATA BETWEEN MODULES IN MODULAR MONOLITH](https://lukaszcoding.com/sharing-data-between-modules-in-modular-monolith/)
+- [Comparing Techniques for Communicating Between Services](https://ardalis.com/comparing-techniques-communicating-between-services/)
+- [Bus or Queue](https://ardalis.com/bus-or-queue/?utm_sq=gn4zxe3o0t)
 ## 📺 Videos
 
 - [Handling Concurrency with Message-IDs | Event Driven Architecture](https://www.youtube.com/watch?v=wefvl2ohiQc)
@@ -86,6 +88,8 @@
 - [Synchronous vs Messaging: When to use which?](https://www.youtube.com/watch?v=LMKVzguhFw4)
 - [Moving work Out-of-Process using Brighter and RabbitMQ](https://www.youtube.com/watch?v=kG4WLiZEAuc)
 - [Building a Request Pipeline for Separating Concerns with Pipes & Filters](https://www.youtube.com/watch?v=msXtN15qXOE)
+- [Distributed Messaging Patterns](https://www.youtube.com/watch?v=ZGloN_GOc9o)
+
 ## 📦 Libraries
 
 - [Enexure.MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - MicroBus is a simple in process Mediator for .NET

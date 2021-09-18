@@ -25,7 +25,10 @@
 - [Introduction to NoSQL • Martin Fowler • GOTO 2012](https://www.youtube.com/watch?v=qI_g07C_Q5I)
 - [Why and how NoSQL databases can scale "infinitely" | Understanding NoSQL and partitioning](https://www.youtube.com/watch?v=Q-lHpZBh3lQ)
 ## 📕 Articles
-
+- [Relational vs. NoSQL data](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/relational-vs-nosql-data)
+- [MongoDB vs SQL server](https://www.educba.com/mongodb-vs-sql-server/)
+- [NoSQL vs SQL Databases](https://www.mongodb.com/nosql-explained/nosql-vs-sql)
+- [Data Types: Structured Data Vs Unstructured Data Vs Semi-Structured Data](https://k21academy.com/microsoft-azure/dp-900/structured-data-vs-unstructured-data-vs-semi-structured-data/)
 - [NOSQL vs SQL. Key differences and when to choose each](https://pandorafms.com/blog/nosql-vs-sql-key-differences/)
 - [How to choose between SQL and NoSQL databases](https://www.red-gate.com/simple-talk/databases/nosql/how-to-choose-between-sql-and-nosql-databases/)
 - [Scalability, Availability & Stability Patterns](https://slideshare.net/jboner/scalability-availability-stability-patterns/)

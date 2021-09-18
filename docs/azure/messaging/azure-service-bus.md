@@ -15,6 +15,8 @@
 - [Azure Service Bus and C# - an introduction](https://www.code4it.dev/blog/azure-service-bus-introduction)
 - [Azure Service Bus: Queues vs Topics](https://www.code4it.dev/blog/azure-service-bus-queue-vs-topic)
 - [Handling Azure Service Bus errors with .NET](https://www.code4it.dev/blog/azure-service-bus-errors)
+- [Replace RabbitMQ with Azure Service Bus Queues](https://www.programmingwithwolfgang.com/replace-rabbitmq-azure-service-bus-queue/)
+- [What is Azure Service Bus?](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview)
 ## 📺 Videos
 
 - [Asynchronous messaging with Azure Service Bus](https://www.youtube.com/watch?v=aJn5CDhWvJQ)
@@ -22,9 +24,6 @@
 - [What is Azure Service Bus? (and why you might need it) | Azure Tutorial](https://www.youtube.com/watch?v=HrK1UlPBkEY)
 
 ## 🚀 Samples
-
 - [Azure/azure-service-bus](https://github.com/Azure/azure-service-bus/tree/master/samples)
 - [damienbod/AspNetCoreServiceBus](https://github.com/damienbod/AspNetCoreServiceBus)
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+- [WolfgangOfner/MicroserviceDemo](https://github.com/WolfgangOfner/MicroserviceDemo)

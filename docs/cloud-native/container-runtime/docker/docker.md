@@ -24,7 +24,7 @@
 - [Creating Docker multi-arch images for ARM64 from Windows](https://andrewlock.net/creating-multi-arch-docker-images-for-arm64-from-windows/)
 - [6 Things To Know When Dockerizing Microsoft .NET Apps in Production](https://levelup.gitconnected.com/6-things-to-know-when-dockerizing-microsoft-net-apps-in-production-45b8c27a41b0)
 - [How to build an optimal Docker image for your application?](https://event-driven.io/en/how_to_buid_an_optimal_docker_image_for_your_application/)
-
+- [Beginning Docker](https://sookocheff.com/post/docker/beginning-docker/)
 ## 📹 Videos
 - [Deploy a .NET Core API with Docker (Step-by-Step)](https://www.youtube.com/watch?v=f0lMGPB10bM)
 - [Docker Tutorial for Beginners [FULL COURSE in 3 Hours]](https://www.youtube.com/watch?v=3c-iBn73dDE)
@@ -33,3 +33,4 @@
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
+- [mariotoffia/FluentDocker](https://github.com/mariotoffia/FluentDocker) - Commands, Services and Fluent API for docker, docker-compose & docker-machine, for win/mac/linux and native docker in c#

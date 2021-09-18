@@ -37,6 +37,7 @@
 - [What Are Your Thoughts On The Vertical Slice Architecture?](https://www.reddit.com/r/dotnet/comments/gej15i/what_are_your_thoughts_on_the_vertical_slice/)
 - [Why I Recommend a Feature-Driven Approach to Software Design](https://khalilstemmler.com/articles/software-design-architecture/feature-driven/)
 - [Composite UIs for Microservices: Vertical Slice APIs](https://jimmybogard.com/composite-uis-for-microservices-vertical-slice-apis/)
+- [How to slice the codebase effectively?](https://event-driven.io/en/how_to_slice_the_codebase_effectively/)
 ## 📺 Videos
 
 - [SOLID Architecture in Slices not Layers - Jimmy Bogard](https://vimeo.com/131633177)
@@ -44,7 +45,8 @@
 - [SOLID Architecture in Slices not Layers](https://www.youtube.com/watch?v=wTd-VcJCs_M) 
 - [DevTernity 2019: Jimmy Bogard – Vertical Slice Architecture](https://www.youtube.com/watch?v=T6nglsEDaqA) 
 - [Vertical Slice Architecture - Jimmy Bogard](https://www.youtube.com/watch?v=SUiWfhAhgQw&lc=UgzDmpq_2SHwmuSgIL54AaABAg)
-
+- [Blazor Server Vertical Slice Architecture](https://www.youtube.com/watch?v=WLNEeO5cMaw)
+- [Restructuring to a Vertical Slice Architecture](https://www.youtube.com/watch?v=cVVMbuKmNes)
 ## 🚀 Samples
 
 - [jbogard/ContosoUniversityDotNetCore](https://github.com/jbogard/ContosoUniversityDotNetCore) 

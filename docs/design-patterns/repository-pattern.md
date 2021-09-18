@@ -17,6 +17,8 @@
 - [Adding decorated classes to the ASP.NET Core DI container using Scrutor](https://andrewlock.net/adding-decorated-classes-to-the-asp.net-core-di-container-using-scrutor/)
 - [Introducing the CachedRepository Pattern](https://ardalis.com/introducing-the-cachedrepository-pattern/)
 - [Should repositories throw exceptions ?](https://minasami.com/2020/09/14/should-repositories-throw-exceptions.html)
+- [Repository Pattern in ASP.NET Core with Adapter Pattern for easy Maintenance & better Unit Testing](https://procodeguide.com/programming/repository-pattern-in-aspnet-core/)
+- [Should Controllers Reference Repositories or Services](https://ardalis.com/should-controllers-reference-repositories-services/)
 ## 📺 Videos
 - [Repository Pattern with C# and Entity Framework - Mosh Hamedani](https://www.youtube.com/watch?v=rtXpYpZdOzM)
 - [Step by Step - Repository Pattern and Unit of Work with Asp.Net Core 5](https://www.youtube.com/watch?v=-jcf1Qq8A-4)

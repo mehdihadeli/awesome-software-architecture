@@ -15,12 +15,7 @@
 
 ## 🚀 Samples
 
-- [ddd-crew/ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process)
-> If you're new to DDD and not sure where to start, this process will guide you step-by-step
-
-- [ddd-crew/bounded-context-canvas](https://github.com/ddd-crew/bounded-context-canvas)
-> A structured approach to designing and documenting each of your bounded contexts
-
+- [ddd-crew/ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process) - If you're new to DDD and not sure where to start, this process will guide you step-by-step
+- [ddd-crew/bounded-context-canvas](https://github.com/ddd-crew/bounded-context-canvas) - A structured approach to designing and documenting each of your bounded contexts
 - ["Domain Modelling in a Remote World" with Marco Heimeshoff](https://miro.com/app/board/o9J_lSf4hpY=/)
-
 - [NTCoding/prod-domain-biz-arch-building-blocks](https://github.com/NTCoding/prod-domain-biz-arch-building-blocks)
