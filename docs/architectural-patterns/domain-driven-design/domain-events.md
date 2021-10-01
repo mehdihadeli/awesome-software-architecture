@@ -27,6 +27,7 @@
 - [Domain Events - After Persistence](https://weeklydevtips.com/episodes/23-f8eec63c)
 - [Decoupling Logic with Domain Events - Domain-Driven Design w/ TypeScript](https://khalilstemmler.com/articles/typescript-domain-driven-design/chain-business-logic-domain-events/)
 - [Domain Events in DDD](https://emacsway.github.io/ru/domain-events-in-ddd/)
+- [Practical DDD in Golang: Domain Event](https://levelup.gitconnected.com/practical-ddd-in-golang-domain-event-de02ad492989)
 
 ## 🚀 Samples
 - [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture/blob/main/src/Clean.Architecture.Infrastructure/Data/AppDbContext.cs)
@@ -35,6 +36,7 @@
 - [vkhorikov/DddAndEFCore](https://github.com/vkhorikov/DddAndEFCore/blob/master/src/App/SchoolContext.cs#L110)
 - [kgrzybek/modular-monolith-with-ddd/blob/90ab9b20a1c6e11700e8b357929c5f792b2b32bf/src/BuildingBlocks/Infrastructure/UnitOfWork.cs#L27](https://github.com/kgrzybek/modular-monolith-with-ddd/blob/90ab9b20a1c6e11700e8b357929c5f792b2b32bf/src/BuildingBlocks/Infrastructure/UnitOfWork.cs#L27)
 - [ardalis/AggregateEvents](https://github.com/ardalis/AggregateEvents)
+
 ## 📺 Videos
 - [Working on ASP.NET Core apps: eShopOnWeb and Domain Events](https://www.youtube.com/watch?v=x-UXUGVLMj8)
 - [Implementing Domain Events with Entity Framework Core](https://www.youtube.com/watch?v=SbMbWmmukws)

@@ -74,6 +74,10 @@
 - [EF Core 2.1 vs NHibernate 5.1: DDD perspective](https://enterprisecraftsmanship.com/posts/ef-core-vs-nhibernate-ddd-perspective/)
 - [How to Handle Updates on Aggregates - Domain-Driven Design w/ TypeScript](https://khalilstemmler.com/articles/typescript-domain-driven-design/updating-aggregates-in-domain-driven-design/)
 - [DDD: guidance on updating multiple properties of entities](https://stackoverflow.com/questions/33698225/ddd-guidance-on-updating-multiple-properties-of-entities)
+- [Practical DDD in Golang: Aggregate](https://levelup.gitconnected.com/practical-ddd-in-golang-aggregate-de13f561e629)
+- [What is Domain-Driven Design (DDD)](https://verraes.net/2021/09/what-is-domain-driven-design-ddd/)
+- [Domain-Driven Refactoring: Encapsulating Collections](https://jimmybogard.com/domain-driven-refactoring-encapsulating-collections/)
+
 ## 📺 Videos
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU)
@@ -140,6 +144,8 @@
 - [ttulka/ddd-example-ecommerce](https://github.com/ttulka/ddd-example-ecommerce) - Domain-driven design example in Java with Spring framework
 - [marcinstelmach/Ecommerce.Api](https://github.com/marcinstelmach/Ecommerce.Api) - Ecommerce in .net core 2.2, C#, MediaTr, CQRS, DDD, Autofac, DI, Entity Framework Core, Memory Cache, Serilog
 - [thiagocruzrj/E-commerce-DDD](https://github.com/thiagocruzrj/E-commerce-DDD) - DDD applied in E-commerce context.
+- [devmentors/Inflow](https://github.com/devmentors/Inflow)
+
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [xhafan/coreddd](https://github.com/xhafan/coreddd) - A set of open-source .NET libraries helping with domain-driven design (DDD) and CQRS

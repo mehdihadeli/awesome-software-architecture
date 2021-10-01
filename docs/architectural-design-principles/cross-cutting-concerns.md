@@ -13,8 +13,14 @@
 - [Crosscutting Concerns](https://oncodedesign.com/crosscutting-concerns/)
 - [Using the Decorator Pattern to handle cross-cutting concerns](https://www.davideguida.com/using-decorators-to-handle-cross-cutting-concerns/)
 - [Chain of Responsibility pattern for handling cross-cutting concerns](https://arturkrajewski.silvrback.com/chain-of-responsibility-pattern-for-handling-cross-cutting-concerns)
+- [Using the Decorator Pattern to handle cross-cutting concerns](https://www.davidguida.net/using-decorators-to-handle-cross-cutting-concerns/)
+- [Tackling cross-cutting concerns with a mediator pipeline](https://lostechies.com/jimmybogard/2014/09/09/tackling-cross-cutting-concerns-with-a-mediator-pipeline/)
+- [MediatR Pipeline Examples](https://lostechies.com/jimmybogard/2016/10/13/mediatr-pipeline-examples/)
+- [Mediator Behaviors](https://github.com/jbogard/MediatR/wiki/Behaviors)
 - [Applying cross-cutting concerns in ASP.NET Core with MediatR using behaviors](https://lurumad.github.io/cross-cutting-concerns-in-asp-net-core-with-meaditr)
-
+- [Meanwhile... on the command side of my architecture](https://blogs.cuttingedge.it/steven/posts/2011/meanwhile-on-the-command-side-of-my-architecture/)
+- [How to use MediatR Pipeline Behaviours](https://garywoodfine.com/how-to-use-mediatr-pipeline-behaviours/)
+- [MediatR Behaviors](https://codeopinion.com/mediatr-behaviors/)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

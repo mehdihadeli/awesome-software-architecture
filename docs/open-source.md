@@ -6,6 +6,7 @@
 - [MarcDiethelm/contributing](https://github.com/MarcDiethelm/contributing) - How to make a clean pull request on Github
 ## 📕 Articles
 - [Step-by-step guide to contributing on GitHub](https://www.dataschool.io/how-to-contribute-on-github/)
+- [How to get started with Open Source?](https://event-driven.io/en/how_to_start_with_open_source/)
 
 ## Courses
 - [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)

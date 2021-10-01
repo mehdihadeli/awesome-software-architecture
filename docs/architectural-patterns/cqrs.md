@@ -59,8 +59,10 @@
 - [CQRS: Intro](https://valerii-udodov.com/posts/cqrs/cqrs-intro/)
 - [CQRS: Querying via HTTP](https://valerii-udodov.com/posts/cqrs/cqrs-querying-via-http/)
 - [CQRS: Commanding via HTTP](https://valerii-udodov.com/posts/cqrs/cqrs-commanding-via-http/)
-## 📺 Videos
+- [CQRS without Multiple Data Sources](https://codeopinion.com/cqrs-without-multiple-data-sources/)
 
+## 📺 Videos
+- [Is CQRS Complicated? No, it's simple!](https://www.youtube.com/watch?v=LbVpPQaAgVY)
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
 - [Decomposing CRUD to a Task Based UI](https://www.youtube.com/watch?v=DjZepWrAKzM)
 - [CQRS Myths | 3 Most Common Misconceptions](https://www.youtube.com/watch?v=O9qpcZt6jW0&t=77s)
@@ -68,6 +70,7 @@
 - [Organizing (Commands, Events & Handlers) in Microservices/SOA](https://www.youtube.com/watch?v=8j5ETvSSNpc)
 - [CQRS Myths | 3 Most Common Misconceptions](https://www.youtube.com/watch?v=O9qpcZt6jW0)
 - [On .NET Live - Commands, Queries, and other architectural patterns for your .NET Application](https://www.youtube.com/watch?v=ysxgpVfyeNA)
+- [Fat Controller CQRS Diet Talk](https://www.youtube.com/watch?v=icyvKTuZkzE)
 ## 📦 Libraries
 - [eventflow/EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
 - [gautema/CQRSlite](https://github.com/gautema/CQRSlite) - A lightweight framework to help creating CQRS and Eventsourcing applications in C#

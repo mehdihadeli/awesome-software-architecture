@@ -6,6 +6,8 @@
 ## 📕 Articles
 - [How to integrate MongoDB with C#](https://www.code4it.dev/blog/mongodb-introduction-with-csharp)
 - [MongoDb Architecture](http://horicky.blogspot.com/2012/04/mongodb-architecture.html)
+- [ASP.NET Core - MongoDB Repository Pattern & Unit Of Work](https://www.brunobrito.net.br/aspnet-core-mongodb-unit-of-work/)
+- [MongoDB Transactions in .NET Applications](https://exceptionnotfound.net/transactions-in-mongodb-for-net/)
 ## 📺 Videos
 - [MongoDB In 30 Minutes](https://www.youtube.com/watch?v=pWbMrx5rVBE)
 - [More Flexibility?! Sharding Gets Even Easier with MongoDB 4.4](https://www.youtube.com/watch?v=wGgMnJQunEc)

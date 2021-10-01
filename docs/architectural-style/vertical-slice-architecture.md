@@ -18,7 +18,6 @@
 - [Vertical slices in ASP.NET MVC](https://www.kenneth-truyers.net/2016/02/02/vertical-slices-in-asp-net-mvc/)
 - [Coding: Packaging by vertical slice](https://markhneedham.com/blog/2012/02/20/coding-packaging-by-vertical-slice/)
 - [FEATURE FOLDERS IN ASP.NET MVC](https://timgthomas.com/2013/10/feature-folders-in-asp-net-mvc/)
-- [Evolutionary Project Structure](https://lostechies.com/jimmybogard/2012/08/30/evolutionary-project-structure/) 
 - [Vertical Slice Example Updated to .NET 5](https://lostechies.com/external/?guid=urn:uuid:cac73d2f-ce70-1e57-8eff-5fd747af25f6)
 - [Feature Folders](http://www.kamilgrzybek.com/design/feature-folders/) 
 - [Put your controllers on a diet: GETs and queries](https://lostechies.com/jimmybogard/2013/10/29/put-your-controllers-on-a-diet-gets-and-queries/)
@@ -38,6 +37,12 @@
 - [Why I Recommend a Feature-Driven Approach to Software Design](https://khalilstemmler.com/articles/software-design-architecture/feature-driven/)
 - [Composite UIs for Microservices: Vertical Slice APIs](https://jimmybogard.com/composite-uis-for-microservices-vertical-slice-apis/)
 - [How to slice the codebase effectively?](https://event-driven.io/en/how_to_slice_the_codebase_effectively/)
+- [Fat Controller CQRS Diet: Vertical Slices](https://codeopinion.com/fat-controller-cqrs-diet-vertical-slices/)
+- [CQRS facts and myths explained](https://event-driven.io/en/cqrs_facts_and_myths_explained/)
+- [Slices vs. Layers](https://www.betterask.erni/news-room/slices-vs-layers/)
+- [Modular Monolith: A Primer](http://www.kamilgrzybek.com/design/modular-monolith-primer/)
+- [Choosing Between using Clean/Onion or Vertical Slice Architecture for Enterprise Apps in .NET](https://www.reddit.com/r/dotnet/comments/lw13r2/choosing_between_using_cleanonion_or_vertical/)
+
 ## 📺 Videos
 
 - [SOLID Architecture in Slices not Layers - Jimmy Bogard](https://vimeo.com/131633177)
@@ -47,6 +52,8 @@
 - [Vertical Slice Architecture - Jimmy Bogard](https://www.youtube.com/watch?v=SUiWfhAhgQw&lc=UgzDmpq_2SHwmuSgIL54AaABAg)
 - [Blazor Server Vertical Slice Architecture](https://www.youtube.com/watch?v=WLNEeO5cMaw)
 - [Restructuring to a Vertical Slice Architecture](https://www.youtube.com/watch?v=cVVMbuKmNes)
+- [Organize Code by Feature | Vertical Slices](https://www.youtube.com/watch?v=PRns0rqPonA)
+- [Vertical Slice Architecture](https://www.youtube.com/watch?v=id2kfgzONMA)
 ## 🚀 Samples
 
 - [jbogard/ContosoUniversityDotNetCore](https://github.com/jbogard/ContosoUniversityDotNetCore) 

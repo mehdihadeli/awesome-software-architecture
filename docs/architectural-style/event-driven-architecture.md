@@ -42,6 +42,7 @@
 - [3 Specifications to Consider When Designing Event-Driven Applications](https://medium.com/event-driven-utopia/3-specifications-to-consider-when-designing-event-driven-applications-c12685efd7ad)
 - [Versatile Events in Event Driven Architecture](https://thecloudblog.net/post/versatile-events-in-event-driven-architecture/)
 - [Many Faces of Event-driven Architecture](https://medium.com/event-driven-utopia/many-faces-of-event-driven-architecture-660a322ce1ce)
+- [How to build event-driven projections with Entity Framework](https://event-driven.io/en/how_to_do_events_projections_with_entity_framework/)
 
 ## 📺 Videos
 
