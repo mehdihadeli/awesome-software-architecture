@@ -7,3 +7,4 @@
 
 ## 📺 Videos
 - [Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
+- [The Power of Composition - Scott Wlaschin - NDC Oslo 2020](https://www.youtube.com/watch?v=rCKPgu4DvcE)

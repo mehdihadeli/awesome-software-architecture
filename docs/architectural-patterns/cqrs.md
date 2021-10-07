@@ -60,8 +60,10 @@
 - [CQRS: Querying via HTTP](https://valerii-udodov.com/posts/cqrs/cqrs-querying-via-http/)
 - [CQRS: Commanding via HTTP](https://valerii-udodov.com/posts/cqrs/cqrs-commanding-via-http/)
 - [CQRS without Multiple Data Sources](https://codeopinion.com/cqrs-without-multiple-data-sources/)
+- [CQS versus server generated IDs](https://blog.ploeh.dk/2014/08/11/cqs-versus-server-generated-ids/)
 
 ## 📺 Videos
+- [CQRS is simpler than you think with C#9 and .NET 5!](https://www.eventstore.com/webinars/cqrs-is-simpler-than-you-think)
 - [Is CQRS Complicated? No, it's simple!](https://www.youtube.com/watch?v=LbVpPQaAgVY)
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
 - [Decomposing CRUD to a Task Based UI](https://www.youtube.com/watch?v=DjZepWrAKzM)
@@ -71,6 +73,8 @@
 - [CQRS Myths | 3 Most Common Misconceptions](https://www.youtube.com/watch?v=O9qpcZt6jW0)
 - [On .NET Live - Commands, Queries, and other architectural patterns for your .NET Application](https://www.youtube.com/watch?v=ysxgpVfyeNA)
 - [Fat Controller CQRS Diet Talk](https://www.youtube.com/watch?v=icyvKTuZkzE)
+- [CQRS - Event Sourcing || Deep Dive on Building Event Driven Systems || Part-1 ||](https://www.youtube.com/watch?v=3TwLEoLtpw0)
+- [CQRS - Event Sourcing || Deep Dive on Building Event Driven Systems || Part -2 ||](https://www.youtube.com/watch?v=MKdHSKeMpk0)
 ## 📦 Libraries
 - [eventflow/EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
 - [gautema/CQRSlite](https://github.com/gautema/CQRSlite) - A lightweight framework to help creating CQRS and Eventsourcing applications in C#

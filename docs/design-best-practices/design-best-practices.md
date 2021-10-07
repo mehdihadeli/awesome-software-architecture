@@ -9,7 +9,8 @@
 
 ## 📺 Videos
 - [TS001.1: Common Questions About The Standard](https://www.youtube.com/watch?v=Au7G_y4BkbY)
-
+- [The Power of Composition - Scott Wlaschin - NDC Oslo 2020](https://www.youtube.com/watch?v=rCKPgu4DvcE)
+- [Scott Wlaschin — Designing with capabilities](https://www.youtube.com/watch?v=RqlnWv6NZos)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

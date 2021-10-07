@@ -42,7 +42,8 @@
 - [Slices vs. Layers](https://www.betterask.erni/news-room/slices-vs-layers/)
 - [Modular Monolith: A Primer](http://www.kamilgrzybek.com/design/modular-monolith-primer/)
 - [Choosing Between using Clean/Onion or Vertical Slice Architecture for Enterprise Apps in .NET](https://www.reddit.com/r/dotnet/comments/lw13r2/choosing_between_using_cleanonion_or_vertical/)
-
+- [Clean Architecture Example & Breakdown](https://codeopinion.com/clean-architecture-example-breakdown/)
+- [Vertical Slice testing done right: a tutorial](https://headspring.com/2020/09/02/testing-done-right-with-vertical-slice-architecture/)
 ## 📺 Videos
 
 - [SOLID Architecture in Slices not Layers - Jimmy Bogard](https://vimeo.com/131633177)
@@ -54,6 +55,7 @@
 - [Restructuring to a Vertical Slice Architecture](https://www.youtube.com/watch?v=cVVMbuKmNes)
 - [Organize Code by Feature | Vertical Slices](https://www.youtube.com/watch?v=PRns0rqPonA)
 - [Vertical Slice Architecture](https://www.youtube.com/watch?v=id2kfgzONMA)
+- [Clean Architecture Example & Breakdown - Do I use it?](https://www.youtube.com/watch?v=Ys_W6MyWOCw)
 ## 🚀 Samples
 
 - [jbogard/ContosoUniversityDotNetCore](https://github.com/jbogard/ContosoUniversityDotNetCore) 

@@ -27,6 +27,8 @@
 - [Counterexamples regarding consistency in event sourced solutions (Part 2)](https://www.eventstore.com/blog/counterexamples-regarding-consistency-in-event-sourced-solutions-part-2)
 - [Counterexamples regarding consistency in event sourced solutions (Part 3)](https://www.eventstore.com/blog/counterexamples-regarding-consistency-in-event-sourced-solutions-part-3)
 - [Event Sourcing: Events Evolution, Versioning, and Migration](https://valerii-udodov.com/posts/event-sourcing/events-versioning/)
+- [Event-sourcing at Nordstrom: Part 1](https://medium.com/tech-at-nordstrom/adventures-in-event-sourced-architecture-part-1-cc21d06187c7)
+- [Event-sourcing at Nordstrom: Part 2](https://medium.com/tech-at-nordstrom/event-sourcing-at-nordstrom-part-2-f64c416d1885)
 ## 📺 Videos
 
 - [Event Sourcing Example & Explained in plain English](https://www.youtube.com/watch?v=AUj4M-st3ic)
@@ -40,6 +42,11 @@
 - [Event Sourcing & CQRS in C# - The Aggregate Root](https://www.youtube.com/watch?v=LAU2gFtPC_0)
 - [Event Sourcing & CQRS in C#: The Repository](https://www.youtube.com/watch?v=ZEHgs2qy2MQ)
 - [Event Sourcing & CQRS in C# - The Event Store](https://www.youtube.com/watch?v=dfzsAGUAAYQ)
+- [Practical introduction to Event Sourcing with EventStoreDB](https://www.youtube.com/watch?v=rqYPVzjoxqI
+- [CQRS - Event Sourcing || Deep Dive on Building Event Driven Systems || Part-1 ||](https://www.youtube.com/watch?v=3TwLEoLtpw0)
+- [CQRS - Event Sourcing || Deep Dive on Building Event Driven Systems || Part -2 ||](https://www.youtube.com/watch?v=MKdHSKeMpk0)
+- [Event Sourcing with Azure SQL and Entity Framework Core](https://www.youtube.com/watch?v=-BhDW3GeSqg)
+- [Event Sourcing & CQRS | Stock Exchange Microservices Architecture | System Design Primer](https://www.youtube.com/watch?v=E-7TBZxmkXE)
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
@@ -52,6 +59,8 @@
 - [revoframework/Revo](https://github.com/revoframework/Revo) - Event Sourcing, CQRS and DDD framework for C#/.NET Core
 ## 🚀 Samples
 
+- [oskardudycz/EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore) - Examples and Tutorials of Event Sourcing in .NET
+- [oskardudycz/EventSourcing.NodeJS](https://github.com/oskardudycz/EventSourcing.NodeJS) - Examples and Tutorials of Event Sourcing in NodeJS
 - [mizrael/SuperSafeBank](https://github.com/mizrael/SuperSafeBank) - Sample Event Sourcing implementation with .NET Core
 - [Hands-On-Domain-Driven-Design-with-.NET-Core](https://github.com/PacktPublishing/Hands-On-Domain-Driven-Design-with-.NET-Core) 
 - [Aggregates.NET](https://github.com/charlessolar/Aggregates.NET) - .NET event sourced domain driven design model via NServiceBus and GetEventStore
@@ -59,11 +68,6 @@
 - [ProductContext-EventSourcing](https://github.com/osoykan/ProductContext-EventSourcing) - A practical/experimental Event Sourcing application on Product Bounded Context in an e-commerce
 - [ddd-and-eventsourcing-example](https://github.com/eraydin/ddd-and-eventsourcing-example)
 - [EventStore/Webinars](https://github.com/EventStore/Webinars)
-- [oskardudycz/EventSourcing.NetCore/Sample/BankAccounts](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/BankAccounts)
-- [oskardudycz/EventSourcing.NetCore/ECommerce](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/ECommerce)
-- [oskardudycz/EventSourcing.NetCore/Sample/Tickets](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/Tickets)
-- [oskardudycz/EventSourcing.NetCore/Sample/MeetingsManagement](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/MeetingsManagement)
-- [oskardudycz/EventSourcing.NetCore/Sample/Warehouse](https://github.com/oskardudycz/EventSourcing.NetCore/tree/cqrs_with_net5/Sample/Warehouse)
 - [EventStore/samples](https://github.com/EventStore/samples) - Samples showing practical aspect of EventStoreDB, Event Sourcing
 - [ddd-by-examples/event-source-cqrs-sample](https://github.com/ddd-by-examples/event-source-cqrs-sample) - Sample ES/CQRS application
 <div align="right">

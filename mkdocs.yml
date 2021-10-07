@@ -105,6 +105,9 @@ nav:
     - Repository: architectural-patterns/domain-driven-design/repository.md
     - ORMs:
       - Entity Framework: architectural-patterns/domain-driven-design/orm/ef.md
+  - Enterprise Architecture Patterns: 
+    - Enterprise Architecture Patterns :enterprise-architecture-patterns/enterprise-architecture-patterns.md 
+    - Transaction Script Pattern :enterprise-architecture-patterns/transaction-script-pattern.md
   - Data Driven Design: architectural-patterns/data-driven-design.md
   - CQRS: architectural-patterns/cqrs.md
   - Event Sourcing: architectural-patterns/event-sourcing.md
@@ -261,7 +264,6 @@ nav:
   - Azure Service Bus: azure/azure-service-bus.md
   - NATS: messaging/nats.md
 - Distributed Transactions: distributed-transactions.md
-- Concurrency: concurrency.md
 - Eventual Consistency: eventual-consistency.md
 - RESTful API Design: rest.md
 - Caching: caching.md
