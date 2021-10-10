@@ -144,6 +144,8 @@ nav:
       - Dapr: architectural-patterns/microservices/tools/dapr.md
       - SteelToe: architectural-patterns/microservices/tools/steeltoe.md
       - Tye: architectural-patterns/microservices/tools/tye.md
+      - MassTransit: architectural-patterns/microservices/tools/mass-transit.md
+      - CAP: architectural-patterns/microservices/tools/cap.md
   - Serverless Architectural Pattern: architectural-patterns/serverless.md
   - MicroKernel Architectural Pattern: architectural-patterns/micro-kernel.md
   - Modular Monolith: architectural-patterns/modular-monolith.md

@@ -142,7 +142,7 @@
 - [Im5tu/OpenMessage](https://github.com/Im5tu/OpenMessage) - Receive messages from multiple sources using a centralised delivery pipeline
 - [SorenZ/Alamut.Kafka](https://github.com/SorenZ/Alamut.Kafka) - An opinionated approach to use Apache Kafka in Dotnet
 - [revoframework/Revo](https://github.com/revoframework/Revo) - Event Sourcing, CQRS and DDD framework for C#/.NET Core.
-
+- [MesutAtasoy/Joker.Packages](https://github.com/MesutAtasoy/Joker.Packages)
 ## 📚 Books
 
 - [Enterprise Integration Patterns](https://amazon.com/o/asin/0321200683/ref=nosim/enterpriseint-20)

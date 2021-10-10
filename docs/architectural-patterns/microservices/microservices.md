@@ -59,6 +59,27 @@
 - [Identify domain-model boundaries for each microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/identify-microservice-domain-model-boundaries)
 - [A Design Analysis of Cloud-based Microservices Architecture at Netflix](https://medium.com/swlh/a-design-analysis-of-cloud-based-microservices-architecture-at-netflix-98836b2da45f)
 - [Monolithic to Microservices Architecture with Patterns & Best Practices](https://medium.com/design-microservices-architecture-with-patterns/monolithic-to-microservices-architecture-with-patterns-best-practices-a768272797b2)
+- [Microservices Database Management Patterns and Principles](https://medium.com/design-microservices-architecture-with-patterns/microservices-database-management-patterns-and-principles-9121e25619f1)
+- [How to Choose a Database for Microservices — CAP Theorem](https://medium.com/design-microservices-architecture-with-patterns/how-to-choose-a-database-for-microservices-cap-theorem-d1585bf40ecd)
+- [Service Aggregator Pattern](https://medium.com/design-microservices-architecture-with-patterns/service-aggregator-pattern-e87561a47ac6)
+- [Event Sourcing Pattern in Microservices Architectures](https://medium.com/design-microservices-architecture-with-patterns/event-sourcing-pattern-in-microservices-architectures-e72bf0fc9274)
+- [CQRS Design Pattern in Microservices Architectures](https://medium.com/design-microservices-architecture-with-patterns/cqrs-design-pattern-in-microservices-architectures-5d41e359768c)
+- [Materialized View Pattern](https://medium.com/design-microservices-architecture-with-patterns/materialized-view-pattern-f29ea249f8f8)
+- [Microservices Deployments with Containers and Orchestrators](https://medium.com/design-microservices-architecture-with-patterns/microservices-deployments-with-containers-and-orchestrators-c693292997f9)
+- [Outbox Pattern for Microservices Architectures](https://medium.com/design-microservices-architecture-with-patterns/outbox-pattern-for-microservices-architectures-1b8648dfaa27)
+- [Saga Pattern for Microservices Distributed Transactions](https://medium.com/design-microservices-architecture-with-patterns/saga-pattern-for-microservices-distributed-transactions-7e95d0613345)
+- [Microservices Distributed Transactions](https://medium.com/design-microservices-architecture-with-patterns/microservices-distributed-transactions-a71a996e5db8)
+- [Database Sharding Pattern for Scaling Microservices Database Architecture](https://medium.com/design-microservices-architecture-with-patterns/database-sharding-pattern-for-scaling-microservices-database-architecture-2077a556078)
+- [Service Registry Pattern](https://medium.com/design-microservices-architecture-with-patterns/service-registry-pattern-75f9c4e50d09)
+- [API Gateway Pattern](https://medium.com/design-microservices-architecture-with-patterns/api-gateway-pattern-8ed0ddfce9df)
+- [Gateway Aggregation Pattern](https://medium.com/design-microservices-architecture-with-patterns/gateway-aggregation-pattern-9ff92e1771d0)
+- [Microservice Communications between Backend Internal Microservices](https://medium.com/design-microservices-architecture-with-patterns/microservice-communications-between-backend-internal-microservices-9029d4b0acd8)
+- [Backends for Frontends Pattern — BFF](https://medium.com/design-microservices-architecture-with-patterns/backends-for-frontends-pattern-bff-7ccd9182c6a1)
+- [Microservices Data Management](https://medium.com/design-microservices-architecture-with-patterns/microservices-data-management-3235893b7c29)
+- [Microservices Data Management when performing Queries between Services](https://medium.com/design-microservices-architecture-with-patterns/microservices-data-management-when-performing-queries-between-services-42896a733567)
+- [Microservices Architecture](https://medium.com/design-microservices-architecture-with-patterns/microservices-architecture-2bec9da7d42a)
+- [Scaling Databases in Microservices Architecture with Horizontal, Vertical, and Functional Data Partitioning](https://medium.com/design-microservices-architecture-with-patterns/scaling-databases-in-microservices-architecture-with-horizontal-vertical-and-functional-data-537c5aea41d6)
+- [Microservices Distributed Caching](https://medium.com/design-microservices-architecture-with-patterns/microservices-distributed-caching-76828817e41b)
 ## 📺 Videos
 
 - [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) 
@@ -153,7 +174,12 @@
 - [juicycleff/ultimate-backend](https://github.com/juicycleff/ultimate-backend) - Multi tenant SaaS starter kit with cqrs graphql microservice architecture, apollo federation, event source and authentication
 - [OpenCodeFoundation/eSchool](https://github.com/OpenCodeFoundation/eSchool) - eSchool Microservice based Solution
 - [ttulka/ddd-example-ecommerce-microservices](https://github.com/ttulka/ddd-example-ecommerce-microservices) - Domain-driven design microservices example
-- [WolfgangOfner/MicroserviceDemo](https://github.com/WolfgangOfner/MicroserviceDemo)
+- [WolfgangOfner/MicroserviceDemo](https://github.com/WolfgangOfner/MicroserviceDemo) - This is a demo with two ASP .NET 5 microservices using RabbitMQ and Docker
+- [hd9/aspnet-microservices](https://github.com/hd9/aspnet-microservices) - Sample microservice architecture using .NET Core, Docker, Azure and Kubernetes.
+- [mansoorafzal/AspnetMicroservices](https://github.com/mansoorafzal/AspnetMicroservices) - Development and Communication of Microservices with .NET Core 5 using ASP.NET Web API, Docker Compose, RabbitMQ, MassTransit, Portainer, gRPC, Protocol Buffers, SQL Server, Redis, MongoDB, PostgreSQL, Dapper, Entity Framework Core, AutoMapper, MediatR, FluentValidation, Ocelot, Elasticsearch, Kibana, Polly, OpenTelemetry, Jaeger.
+- [VasilisGaitanidis/master-containerized-microservices](https://github.com/VasilisGaitanidis/master-containerized-microservices) - This repo contains a sample application based on a fictional eCommerce. The primary goal of this sample is to demonstrate several software-architecture concepts like: Clean Architecture, Microservices, CQRS, Event Sourcing, Publish-Subscribe Architecture, Domain Driven Design (DDD). Currently this is a work in progress.
+- [MesutAtasoy/Joker](https://github.com/MesutAtasoy/Joker) - An example of microservices container based application which implemented different approaches within each microservice (DDD, CQRS, Simple CRUD)
+
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
 - [Building Microservices: Designing Fine-Grained Systems 1st Edition](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)

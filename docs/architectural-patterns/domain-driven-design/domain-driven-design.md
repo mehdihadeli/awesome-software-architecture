@@ -89,6 +89,7 @@
 - [Webinar: Domain Driven Design](https://www.youtube.com/watch?v=dq7e_L4jIak)
 - [The Intersection of Microservices, Domain-Driven Design and Entity Framework Core](https://www.youtube.com/watch?v=DG8Qe7TJiIE)
 - [Decomposing CRUD to a Task Based UI](https://www.youtube.com/watch?v=DjZepWrAKzM)
+
 ## 🚀 Samples
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
 - [kimcu-on-thenet/ddd-net-ef-core](https://github.com/kimcu-on-thenet/ddd-net-ef-core) - Self study: DDD, .net core, entity framework core
@@ -145,7 +146,9 @@
 - [marcinstelmach/Ecommerce.Api](https://github.com/marcinstelmach/Ecommerce.Api) - Ecommerce in .net core 2.2, C#, MediaTr, CQRS, DDD, Autofac, DI, Entity Framework Core, Memory Cache, Serilog
 - [thiagocruzrj/E-commerce-DDD](https://github.com/thiagocruzrj/E-commerce-DDD) - DDD applied in E-commerce context.
 - [devmentors/Inflow](https://github.com/devmentors/Inflow)
-
+- [kalintsenkov/BettingSystem](https://github.com/kalintsenkov/BettingSystem) - ASP.NET Core | Domain-Driven Design | Clean Architecture
+- [VasilisGaitanidis/master-containerized-microservices](https://github.com/VasilisGaitanidis/master-containerized-microservices) - This repo contains a sample application based on a fictional eCommerce. The primary goal of this sample is to demonstrate several software-architecture concepts like: Clean Architecture, Microservices, CQRS, Event Sourcing, Publish-Subscribe Architecture, Domain Driven Design (DDD). Currently this is a work in progress.
+- [MesutAtasoy/Joker](https://github.com/MesutAtasoy/Joker) - An example of microservices container based application which implemented different approaches within each microservice (DDD, CQRS, Simple CRUD)
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [xhafan/coreddd](https://github.com/xhafan/coreddd) - A set of open-source .NET libraries helping with domain-driven design (DDD) and CQRS
