@@ -63,6 +63,7 @@
 - [SHARING DATA BETWEEN MODULES IN MODULAR MONOLITH](https://lukaszcoding.com/sharing-data-between-modules-in-modular-monolith/)
 - [Comparing Techniques for Communicating Between Services](https://ardalis.com/comparing-techniques-communicating-between-services/)
 - [Bus or Queue](https://ardalis.com/bus-or-queue/?utm_sq=gn4zxe3o0t)
+- [Improving Monolith's Availability](https://www.ledjonbehluli.com/posts/improving_monoliths_availability/)
 ## 📺 Videos
 
 - [Handling Concurrency with Message-IDs | Event Driven Architecture](https://www.youtube.com/watch?v=wefvl2ohiQc)

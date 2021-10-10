@@ -21,6 +21,12 @@
 - [Cross-Cutting Concerns with MediatR Pipeline Behaviors](https://anderly.com/2019/12/12/cross-cutting-concerns-with-mediatr-pipeline-behaviors/)
 - [Caching behavior with MediatR](https://fredrikronnehag.netlify.app/caching-mediatr/)
 - [MediatR: how to use Decorators to add retry policies](https://www.davidguida.net/mediatr-how-to-use-decorators-to-add-retry-policies/)
+- [Refactoring Towards Resilience: A Primer](https://jimmybogard.com/refactoring-towards-resilience-a-primer/)
+- [Refactoring Towards Resilience: Evaluating Stripe Options](https://jimmybogard.com/refactoring-towards-resilience-evaluating-stripe-options/)
+- [Refactoring Towards Resilience: Evaluating SendGrid Options](https://jimmybogard.com/refactoring-towards-resilience-evaluating-sendgrid-options/)
+- [Refactoring Towards Resilience: Evaluating RabbitMQ Options](https://jimmybogard.com/refactoring-towards-resilience-evaluating-rabbitmq-options/)
+- [Refactoring Towards Resilience: Evaluating Coupling](https://jimmybogard.com/refactoring-towards-resilience-evaluating-coupling/)
+- [Refactoring Towards Resilience: Process Manager Solution](https://jimmybogard.com/refactoring-towards-resilience-process-manager-solution/)
 ## 📺 Videos
 - [Handling Failures in Message Driven Architecture](https://www.youtube.com/watch?v=SesEYHGhlLQ)
 - [Make your microservice resilient with Polly's Circuit Breaker | .NET Core](https://www.youtube.com/watch?v=JljTcjt798c)

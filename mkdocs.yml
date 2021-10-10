@@ -117,13 +117,18 @@ nav:
     - Design Patterns:
       - Design Patterns: architectural-patterns/microservices/design-patterns/design-patterns.md
       - BFF: architectural-patterns/microservices/design-patterns/bff.md
+      - Outbox Pattern: architectural-patterns/microservices/design-patterns/outbox-pattern.md
     - Observibility: 
       - Observibility: architectural-patterns/microservices/observability/observibility.md
       - Distributed Tracing: architectural-patterns/microservices/observability/distributed-tracing.md
       - Diagnostics: architectural-patterns/microservices/observability/diagnostics.md
       - Logging: architectural-patterns/microservices/observability/logging.md
       - Monitoring: architectural-patterns/microservices/observability/monitoring.md   
-      - Metrics: architectural-patterns/microservices/observability/metrics.md         
+      - Metrics: architectural-patterns/microservices/observability/metrics.md   
+    - Resiliency:
+      - Resiliency: architectural-patterns/microservices/resiliency/resiliency.md        
+      - High Availibility: architectural-patterns/microservices/resiliency/high-availibility.md        
+      - Circuit Breaker: architectural-patterns/microservices/resiliency/circuit-breaker.md        
     - Reverse Proxy:
       - Reverse Proxy: architectural-patterns/microservices/reverse-proxy/revers-proxy.md
       - YARP: architectural-patterns/microservices/reverse-proxy/yarp.md

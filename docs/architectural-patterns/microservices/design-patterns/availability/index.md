@@ -1,2 +1,0 @@
-- [High Availability](high-availability.md)
-  - [Circuit Breaker](circuit-breaker.md)
