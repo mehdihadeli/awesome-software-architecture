@@ -12,6 +12,7 @@
 ## 📕 Articles
 - [Microservices - Martin Fowler](https://martinfowler.com/articles/microservices.html)
 - [Design a microservice-oriented application](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/microservice-application-design)
+- [Microservice Series - From Zero to Hero](https://www.programmingwithwolfgang.com/microservice-series-from-zero-to-hero)
 - [Creating a simple data-driven CRUD microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/data-driven-crud-microservice)
 - [Microservices architecture: What the gurus say about it](https://herbertograca.com/2017/01/26/microservices-architecture/)
 - [Microservices architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices)
@@ -109,6 +110,8 @@
 - [Avoiding Microservice Megadisasters - Jimmy Bogard](https://www.youtube.com/watch?v=gfh-VCTwMw8)
 - [Why programming language performance in microservices isn't (that) important](https://www.youtube.com/watch?v=g1UQf3TOBn8)
 - [.NET Microservices – Full Course](https://www.youtube.com/c/binarythistle/videos)
+- [Build Your First Microservice with .NET | Microservices Explained](https://www.youtube.com/watch?v=DFDbh1c9zyE)
+
 ## 📦 Libraries
 
 - [dotnet/tye](https://github.com/dotnet/tye) - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
@@ -179,7 +182,7 @@
 - [mansoorafzal/AspnetMicroservices](https://github.com/mansoorafzal/AspnetMicroservices) - Development and Communication of Microservices with .NET Core 5 using ASP.NET Web API, Docker Compose, RabbitMQ, MassTransit, Portainer, gRPC, Protocol Buffers, SQL Server, Redis, MongoDB, PostgreSQL, Dapper, Entity Framework Core, AutoMapper, MediatR, FluentValidation, Ocelot, Elasticsearch, Kibana, Polly, OpenTelemetry, Jaeger.
 - [VasilisGaitanidis/master-containerized-microservices](https://github.com/VasilisGaitanidis/master-containerized-microservices) - This repo contains a sample application based on a fictional eCommerce. The primary goal of this sample is to demonstrate several software-architecture concepts like: Clean Architecture, Microservices, CQRS, Event Sourcing, Publish-Subscribe Architecture, Domain Driven Design (DDD). Currently this is a work in progress.
 - [MesutAtasoy/Joker](https://github.com/MesutAtasoy/Joker) - An example of microservices container based application which implemented different approaches within each microservice (DDD, CQRS, Simple CRUD)
-
+- [evgenirusev/Distributed-eStore](https://github.com/evgenirusev/Distributed-eStore) - Ecommerce SPA application with a microservices architecture implemented from scratch. Tech stack - Docker, Consul, Fabio, RabbitMQ, .Net Core, Mediatr, CQRS, React, Redux. .NET Core Microservices template, .NET React Redux, .NET RabbitMQ, .NET Distributed, Docker, .NET Core with Docker.
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
 - [Building Microservices: Designing Fine-Grained Systems 1st Edition](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
