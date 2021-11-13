@@ -4,6 +4,7 @@
 - [donnemartin/system-design-primer#sharding](https://github.com/donnemartin/system-design-primer#sharding)
 
 ## 📕 Articles
+- [Sharding pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/sharding)
 - [What Exactly Is Database Sharding?](https://betterprogramming.pub/what-exactly-is-database-sharding-ca618a2cbb9a)
 - [Introducing Consistent Hashing](https://itnext.io/introducing-consistent-hashing-9a289769052e)
 - [A Guide to Consistent Hashing](https://www.toptal.com/big-data/consistent-hashing)
@@ -33,3 +34,4 @@
 - [Scaling Databases - Web Development](https://www.youtube.com/watch?v=dkhOZOmV7Fo)
 - [Python CRUD App hits 2 million rows, Should I Shard my Database?](https://www.youtube.com/watch?v=aXD4tWbkoJo)
 - [Database Sharding Explained | Database Partitioning | Database Scaling Tutorial](https://www.youtube.com/watch?v=VhsMXWb5Eew)
+- [Scaling MongoDB Best Practices for Sharding, Indexing and Performance Isolation](https://www.youtube.com/watch?v=ZcAErl9Ir6Q)

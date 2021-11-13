@@ -39,6 +39,7 @@
 - [How to design and code a scaleable solution (from monolith to microservices)](https://www.youtube.com/watch?v=rzjy2DDPwio)
 - [Deconstructing the Monolith (Shopify Unite Track 2019)](https://www.youtube.com/watch?v=ISYKx8sa53g)
 - [Message Driven Architecture to DECOUPLE a Monolith](https://www.youtube.com/watch?v=bxGkavGaEiM)
+- [Long live the Monolith! Monolithic Architecture != Big Ball of Mud](https://www.youtube.com/watch?v=VGShtGU3hOc)
 ## 🚀 Samples
 - [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith application with Domain-Driven Design approach.
 - [kgrzybek/modular-monolith-with-ddd-fe-react](https://github.com/kgrzybek/modular-monolith-with-ddd-fe-react) - FrontEnd React application for Modular Monolith With DDD repository and system

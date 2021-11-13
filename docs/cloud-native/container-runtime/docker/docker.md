@@ -30,9 +30,17 @@
 - [Docker Series](https://code-maze.com/docker-series/)
 - [Dockerize an ASP .NET Core Microservice and RabbitMQ](https://www.programmingwithwolfgang.com/dockerize-an-asp-net-core-microservice-and-rabbitmq)
 - [ASP .NET Core with HTTPS in Docker](https://www.programmingwithwolfgang.com/asp-net-core-with-https-in-docker)
+- [Set up Docker-Compose for ASP .NET Core 3.1 Microservices](https://www.programmingwithwolfgang.com/set-up-docker-compose-for-asp-net-core-3-1-microservices)
+- [Hosting ASP.NET Core images with Docker over HTTPS](https://docs.microsoft.com/en-us/aspnet/core/security/docker-https)
+- [ASP.NET Core APP with HTTPS in Docker](https://www.yogihosting.com/docker-https-aspnet-core/)
+- [How to Pass Environment Variables to Docker Containers](https://www.cloudsavvyit.com/14081/how-to-pass-environment-variables-to-docker-containers/)
+- [Step by step guide on utilising Docker Compose with Asp.Net Core, SQL Server](https://dev.to/moe23/step-by-step-guide-on-utilising-docker-compose-with-asp-net-core-sql-server-2e54)
+- [CRUD Operations in ASP.NET Core and SQL Server with Docker](https://www.yogihosting.com/docker-aspnet-core-sql-server-crud/)
+- [Docker SQL bind: An attempt was made to access a socket in a way forbidden by its access permissions](https://stackoverflow.com/questions/57316744/docker-sql-bind-an-attempt-was-made-to-access-a-socket-in-a-way-forbidden-by-it)
+
 ## 📹 Videos
 - [Deploy a .NET Core API with Docker (Step-by-Step)](https://www.youtube.com/watch?v=f0lMGPB10bM)
-- [Docker Tutorial for Beginners [FULL COURSE in 3 Hours]](https://www.youtube.com/watch?v=3c-iBn73dDE)
+- [Docker Tutorial for Beginners [FULL COURSE in 3 Hours](https://www.youtube.com/watch?v=3c-iBn73dDE)
 
 ## 📦 Libraries
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image

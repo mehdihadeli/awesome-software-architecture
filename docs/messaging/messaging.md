@@ -64,6 +64,10 @@
 - [Comparing Techniques for Communicating Between Services](https://ardalis.com/comparing-techniques-communicating-between-services/)
 - [Bus or Queue](https://ardalis.com/bus-or-queue/?utm_sq=gn4zxe3o0t)
 - [Improving Monolith's Availability](https://www.ledjonbehluli.com/posts/improving_monoliths_availability/)
+- [The Outbox Pattern in Event-Driven ASP.NET Core Microservice Architectures](https://itnext.io/the-outbox-pattern-in-event-driven-asp-net-core-microservice-architectures-10b8d9923885)
+- [Competing Consumers](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CompetingConsumers.html)
+- [Competing Consumers pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/competing-consumers)
+
 ## 📺 Videos
 
 - [Handling Concurrency with Message-IDs | Event Driven Architecture](https://www.youtube.com/watch?v=wefvl2ohiQc)
@@ -144,6 +148,7 @@
 - [SorenZ/Alamut.Kafka](https://github.com/SorenZ/Alamut.Kafka) - An opinionated approach to use Apache Kafka in Dotnet
 - [revoframework/Revo](https://github.com/revoframework/Revo) - Event Sourcing, CQRS and DDD framework for C#/.NET Core.
 - [MesutAtasoy/Joker.Packages](https://github.com/MesutAtasoy/Joker.Packages)
+- [oskardudycz/EventSourcing.NetCore/event-pipelines](https://github.com/oskardudycz/EventSourcing.NetCore/tree/samples/event-pipelines/Sample/EventPipelines)
 ## 📚 Books
 
 - [Enterprise Integration Patterns](https://amazon.com/o/asin/0321200683/ref=nosim/enterpriseint-20)

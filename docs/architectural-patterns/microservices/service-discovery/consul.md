@@ -11,7 +11,7 @@
 - [FamilyBucket](https://github.com/q315523275/FamilyBucket) - .net core、ocelot、consul、netty、rpc、eventbus、configserver、tracing、sqlsugar、vue-admin
 - [GrpcConsul](https://github.com/pchalamet/GrpcConsul) - Sample for GRPC + Consul + dynamic endpoint for .net
 - [cecilphillip/aspnet-servicediscovery-patterns](https://github.com/cecilphillip/aspnet-servicediscovery-patterns) - Samples of simple service discovery patterns with ASP .NET Core
-
+- [matjazbravc/Consul.ServiceDiscovery.Demo](https://github.com/matjazbravc/Consul.ServiceDiscovery.Demo)  - This demo shows how to implement simple containerized (Docker) microservice architecture with gateway, load balancer (Ocelot) and automatic service discovery (Consul).
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

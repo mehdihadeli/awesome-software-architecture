@@ -9,7 +9,7 @@
 - [Adapters are true Heralds of DDD](https://tpierrain.blogspot.com/2020/04/adapters-are-true-heralds-of-ddd.html)
 - [Refactoring code that accesses external services](https://martinfowler.com/articles/refactoring-external-service.html)
 ## 📺 Videos
-
+- [Anti-Corruption Layer (ACL) Pattern - Cloud Design Patterns](https://www.youtube.com/watch?v=YYezGu43zkU)
 - [The Anti-corruption layer, Gateway Aggregation / Routing patterns | Cloud with Chris](https://www.youtube.com/watch?v=gGDu4FdUk7I)
 
 <div align="right">

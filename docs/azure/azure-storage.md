@@ -19,7 +19,7 @@
 - [Azure Queue Storage Tutorial](https://www.youtube.com/watch?v=JQ6KhjU5Zsg)
 - [Azure Table Storage Tutorial | Easy and scalable NoSQL database](https://www.youtube.com/watch?v=HSL1poL1VR0)
 - [Azure Files vs Azure Blob Storage - Which Storage Type Do You Need?](https://www.youtube.com/watch?v=QpG3o9cOF10)
-
+- [Azure Storage Service with .Net 5 - Step by Step](https://www.youtube.com/watch?v=B_yDG35lb5I)
 ## 📦 Libraries
 - [Azure/Azurite](https://github.com/Azure/Azurite) - A lightweight server clone of Azure Storage that simulates most of the commands supported by it with minimal dependencies
 

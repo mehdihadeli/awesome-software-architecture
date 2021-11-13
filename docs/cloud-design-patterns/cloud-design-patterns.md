@@ -8,6 +8,10 @@
 ## 📕 Articles
 - [Design patterns for microservices](https://azure.microsoft.com/en-us/blog/design-patterns-for-microservices/)
 
+## Videos
+- [Azure Cloud Design Patterns](https://www.youtube.com/playlist?list=PLDUPL1iASgCxy37G5ZTUo7LQZId8sw53y)
+- [Cloud Design Patterns in depth](https://www.youtube.com/watch?v=cxYHugyNTP0)
+
 ## 🚀 Samples
 - [mspnp/cloud-design-patterns](https://github.com/mspnp/cloud-design-patterns) - Prescriptive Architecture Guidance for Cloud Applications
 

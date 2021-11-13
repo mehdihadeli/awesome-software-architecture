@@ -136,6 +136,7 @@ nav:
     - Service Discovery:
       - Service Discovery: architectural-patterns/microservices/service-discovery/service-discovery.md
       - Consul: architectural-patterns/microservices/service-discovery/consul.md
+      - Eureka: architectural-patterns/microservices/service-discovery/eureka.md
     - Service Mesh: 
       - Service Mesh: architectural-patterns/microservices/service-mesh/service-mesh.md
       - Maesh: architectural-patterns/microservices/service-mesh/maesh.md
@@ -177,8 +178,10 @@ nav:
   - Gateway Aggregation: cloud-design-patterns/gateway-aggregation.md
   - Gateway Pattern: cloud-design-patterns/gateway-pattern.md
   - Outbox Pattern: cloud-design-patterns/outbox-pattern.md
+  - Inbox Pattern: cloud-design-patterns/inbox-pattern.md
   - Saga Pattern: cloud-design-patterns/saga.md
   - Strangler Fig Pattern: cloud-design-patterns/strangler-fig-pattern.md
+  - Backends for Frontends: cloud-design-patterns/bff.md
 - Cloud Native:
   - API Gateway: 
     - API Gateway: cloud-native/api-gateway/api-gateway.md

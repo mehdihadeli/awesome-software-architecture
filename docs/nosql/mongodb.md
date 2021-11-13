@@ -8,6 +8,7 @@
 - [MongoDb Architecture](http://horicky.blogspot.com/2012/04/mongodb-architecture.html)
 - [ASP.NET Core - MongoDB Repository Pattern & Unit Of Work](https://www.brunobrito.net.br/aspnet-core-mongodb-unit-of-work/)
 - [MongoDB Transactions in .NET Applications](https://exceptionnotfound.net/transactions-in-mongodb-for-net/)
+- [Dealing with Eventual Consistency and Idempotency in MongoDB projections](https://event-driven.io/en/dealing_with_eventual_consistency_and_idempotency_in_mongodb_projections/)
 ## 📺 Videos
 - [MongoDB In 30 Minutes](https://www.youtube.com/watch?v=pWbMrx5rVBE)
 - [More Flexibility?! Sharding Gets Even Easier with MongoDB 4.4](https://www.youtube.com/watch?v=wGgMnJQunEc)
@@ -18,3 +19,4 @@
 ## Library
 - [TurnerSoftware/MongoFramework](https://github.com/TurnerSoftware/MongoFramework) - An "Entity Framework"-like interface for MongoDB
 - [Mongo2Go/Mongo2Go](https://github.com/Mongo2Go/Mongo2Go) - MongoDB for integration tests (.NET Core 3.0 and .NET 5.0)
+- [dj-nitehawk/MongoDB.Entities](https://github.com/dj-nitehawk/MongoDB.Entities) - A data access library for MongoDB with an elegant api, LINQ support and built-in entity relationship management

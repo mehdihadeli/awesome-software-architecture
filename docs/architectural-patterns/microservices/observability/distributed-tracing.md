@@ -62,7 +62,7 @@
 - [Application Diagnostics in .NET Core 3.1 - Damian Edwards & David Fowler](https://www.youtube.com/watch?v=p6CjlnwPhHQ)
 - [DiagnosticSource and Activity, Tracing in .NET Part 1 - .NET Concept of the Week - Episode 18](https://www.youtube.com/watch?v=y52l8XR3XK4)
 - [Tracing with Jaeger and Kubernetes](https://www.youtube.com/watch?v=FikF0DtxZno)
-
+- [Exploring distributed tracing with ASP NET Core 6](https://www.youtube.com/watch?v=l1_i8p2hVlE)
 ## 🚀 Samples
 - [karlospn/opentelemetry-tracing-demo](https://github.com/karlospn/opentelemetry-tracing-demo) - Example about how to use OpenTelemetry for tracing when we have a series of distributed applications communicating between them
 - [jbogard/nsb-diagnostics-poc](https://github.com/jbogard/nsb-diagnostics-poc)
