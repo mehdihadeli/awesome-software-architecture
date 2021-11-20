@@ -67,7 +67,9 @@
 - [The Outbox Pattern in Event-Driven ASP.NET Core Microservice Architectures](https://itnext.io/the-outbox-pattern-in-event-driven-asp-net-core-microservice-architectures-10b8d9923885)
 - [Competing Consumers](https://www.enterpriseintegrationpatterns.com/patterns/messaging/CompetingConsumers.html)
 - [Competing Consumers pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/competing-consumers)
-
+- [REST vs Messaging for Microservices – Which One is Best?](https://solace.com/blog/experience-awesomeness-event-driven-microservices/)
+- [RPC vs. Messaging – which is faster?](https://particular.net/blog/rpc-vs-messaging-which-is-faster)
+- [Microservices patterns: synchronous vs asynchronous communication](https://greeeg.com/issues/microservices-patterns-synchronous-vs-asynchronous)
 ## 📺 Videos
 
 - [Handling Concurrency with Message-IDs | Event Driven Architecture](https://www.youtube.com/watch?v=wefvl2ohiQc)
@@ -94,7 +96,8 @@
 - [Moving work Out-of-Process using Brighter and RabbitMQ](https://www.youtube.com/watch?v=kG4WLiZEAuc)
 - [Building a Request Pipeline for Separating Concerns with Pipes & Filters](https://www.youtube.com/watch?v=msXtN15qXOE)
 - [Distributed Messaging Patterns](https://www.youtube.com/watch?v=ZGloN_GOc9o)
-
+- [RPC vs Messaging: When to use which?](https://www.youtube.com/watch?v=LMKVzguhFw4)
+- [Beyond REST and RPC: Asynchronous Eventing and Messaging Patterns](https://www.youtube.com/watch?v=6zs-PhgfLU4)
 ## 📦 Libraries
 
 - [Enexure.MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - MicroBus is a simple in process Mediator for .NET

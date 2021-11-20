@@ -81,6 +81,8 @@
 - [Microservices Architecture](https://medium.com/design-microservices-architecture-with-patterns/microservices-architecture-2bec9da7d42a)
 - [Scaling Databases in Microservices Architecture with Horizontal, Vertical, and Functional Data Partitioning](https://medium.com/design-microservices-architecture-with-patterns/scaling-databases-in-microservices-architecture-with-horizontal-vertical-and-functional-data-537c5aea41d6)
 - [Microservices Distributed Caching](https://medium.com/design-microservices-architecture-with-patterns/microservices-distributed-caching-76828817e41b)
+- [REST vs Messaging for Microservices – Which One is Best?](https://solace.com/blog/experience-awesomeness-event-driven-microservices/)
+- [Microservices patterns: synchronous vs asynchronous communication](https://greeeg.com/issues/microservices-patterns-synchronous-vs-asynchronous)
 ## 📺 Videos
 
 - [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) 
@@ -187,6 +189,8 @@
 - [matjazbravc/Microservice.Architecture.Demo](https://github.com/matjazbravc/Microservice.Architecture.Demo) - This demo shows a working sample of microservices architecture using ASP.NET Core. It covers how to create microservices, how to create API gateways using Ocelot, how to use MassTransit as distributed application framework, RabbitMQ as message broker, how to unit test microservices using xUnit, how to monitor microservices using health checks
 - [Azure-Samples/container-apps-store-api-microservice](https://github.com/Azure-Samples/container-apps-store-api-microservice) - Sample microservices solution using Azure Container Apps, Dapr, Cosmos DB, and Azure API Management
 - [thangchung/northwind-dotnet](https://github.com/thangchung/northwind-dotnet) - A full-stack .NET 6 Microservices build on Minimal APIs and C# 10
+- [ivaylokenov/Architecture-of-ASP.NET-Core-Microservices-Applications](https://github.com/ivaylokenov/Architecture-of-ASP.NET-Core-Microservices-Applications) - Architecture of ASP.NET Core Microservices Applications
+
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
 - [Building Microservices: Designing Fine-Grained Systems 1st Edition](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)

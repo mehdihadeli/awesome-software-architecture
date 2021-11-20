@@ -17,6 +17,11 @@
 - [Deploy ASP.NET Core App on Kubernetes](https://www.yogihosting.com/deploy-aspnet-core-app-kubernetes/)
 - [How to use Kubernetes Ingress on an ASP.NET Core app](https://www.yogihosting.com/kubernetes-ingress-aspnet-core/)
 - [Kubernetes: Host Multi-Container ASP.NET Core app to Single Pod](https://www.yogihosting.com/aspnet-core-kubernetes-multi-container-single-pod/)
+- [How to Build an ASP.NET Core C# Kubernetes Microservice Architecture with Angular on Local Docker Desktop using Ingress](https://dev.to/christianzink/how-to-build-an-asp-net-core-kubernetes-microservices-architecture-with-angular-on-local-docker-desktop-using-ingress-395n)
+- [Deploying ASP.NET Core applications to Kubernetes - Part 1](https://andrewlock.net/deploying-asp-net-core-applications-to-kubernetes-part-1-an-introduction-to-kubernetes/)
+- [Deploying ASP.NET Core applications to Kubernetes - Part 2](https://andrewlock.net/deploying-asp-net-core-applications-to-kubernetes-part-2-configuring-resources-with-yaml-manifests/)
+- [How to Add MySql & MongoDB to a Kubernetes .Net Core Microservice Architecture](https://dev.to/christianzink/databases-in-a-kubernetes-angular-net-core-microservice-architecture-22jc)
+- [Building and publishing .NET Core Micro-services to Kubernetes using Azure DevOps](https://fizzylogic.nl/2019/11/15/building-and-publishing-net-core-microservices-to-kubernetes-using-azure-devops)
 ## 📺 Videos
 - [Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]](https://www.youtube.com/watch?v=X48VuDVv0do)
 - [Kubernetes Daemonsets explained | Tutorial | Kubernetes Guide](https://www.youtube.com/watch?v=RGSeeN-o-kQ)

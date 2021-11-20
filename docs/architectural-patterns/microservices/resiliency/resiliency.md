@@ -28,6 +28,7 @@
 - [Refactoring Towards Resilience: Evaluating Coupling](https://jimmybogard.com/refactoring-towards-resilience-evaluating-coupling/)
 - [Refactoring Towards Resilience: Process Manager Solution](https://jimmybogard.com/refactoring-towards-resilience-process-manager-solution/)
 - [Fault Handling with Polly – A Beginners Guide](https://dotnetplaybook.com/fault-handling-with-polly-a-beginners-guide/)
+- [Making systems resilient with Polly](https://blexin.com/en/blog-en/making-systems-resilient-with-polly/)
 ## 📺 Videos
 - [Handling Failures in Message Driven Architecture](https://www.youtube.com/watch?v=SesEYHGhlLQ)
 - [Make your microservice resilient with Polly's Circuit Breaker | .NET Core](https://www.youtube.com/watch?v=JljTcjt798c)

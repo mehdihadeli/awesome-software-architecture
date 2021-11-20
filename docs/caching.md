@@ -47,6 +47,7 @@
 - [Publish Subscribe](https://sodocumentation.net/stackexchange-redis/topic/1610/publish-subscribe)
 - [Pub/Sub](https://redis.io/topics/pubsub)
 - [Scaling our inventory cache reads to 1000X](https://medium.com/myntra-engineering/scaling-our-inventory-cache-reads-to-1000x-84a8be1f576e)
+
 ## 📺 Videos
 - [Real-Time Delivery Architecture at Twitter](https://www.infoq.com/presentations/Real-Time-Delivery-Twitter/)
 - [Software Architecture Introduction (part 3): Cache explained](https://www.youtube.com/watch?v=QBMTGngjWdU)

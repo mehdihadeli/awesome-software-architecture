@@ -19,6 +19,7 @@
 - [Replace RabbitMQ with Azure Service Bus Queues](https://www.programmingwithwolfgang.com/replace-rabbitmq-azure-service-bus-queue/)
 - [What is Azure Service Bus?](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview)
 - [Competing Consumers pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/competing-consumers)
+- [A world of messages with Azure](https://blexin.com/en/blog-en/a-world-of-messages-with-azure/)
 
 ## 📺 Videos
 

@@ -25,6 +25,7 @@
 ## 📺 Videos
 - [9 "rules" for cleaner code | Object Calisthenics](https://www.youtube.com/watch?v=gyrSiY4SHxI)
 - [Is clean code actually slower?](https://www.youtube.com/watch?v=zVLuQAnNue8)
+- [Clean Code Best Practices](https://www.youtube.com/watch?v=h7TJ7eGeT7Q )
 
   <div align="right">
     <b><a href="#contents">↥ Back To Top</a></b>

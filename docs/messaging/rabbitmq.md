@@ -17,7 +17,8 @@
 - [RabbitMQ Use cases: Explaining message queues and when to use them](https://www.cloudamqp.com/blog/rabbitmq-use-cases-explaining-message-queues-and-when-to-use-them.html)
 - [When to use RabbitMQ or Apache Kafka](https://www.cloudamqp.com/blog/when-to-use-rabbitmq-or-apache-kafka.html)
 - [when rabbitmq delete message from queue?](https://stackoverflow.com/questions/32737824/when-rabbitmq-delete-message-from-queue)
-
+- [Decoupling the communication with RabbitMQ](https://blexin.com/en/blog-en/decoupling-the-communication-with-rabbitmq/)
+- [High availability with RabbitMQ](https://blexin.com/en/blog-en/high-availability-with-rabbitmq/)
 ## 📺 Videos
 - [The best online training tool for RabbitMQ](https://training.cloudamqp.com/)
 - [What is RabbitMQ?](https://youtu.be/7rkeORD4jSw)

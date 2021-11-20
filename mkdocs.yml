@@ -127,8 +127,7 @@ nav:
       - Metrics: architectural-patterns/microservices/observability/metrics.md   
     - Resiliency:
       - Resiliency: architectural-patterns/microservices/resiliency/resiliency.md        
-      - High Availibility: architectural-patterns/microservices/resiliency/high-availibility.md        
-      - Circuit Breaker: architectural-patterns/microservices/resiliency/circuit-breaker.md        
+      - High Availibility: architectural-patterns/microservices/resiliency/high-availibility.md      
     - Reverse Proxy:
       - Reverse Proxy: architectural-patterns/microservices/reverse-proxy/revers-proxy.md
       - YARP: architectural-patterns/microservices/reverse-proxy/yarp.md
