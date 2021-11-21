@@ -9,6 +9,12 @@
 
 - [Service-Oriented Architecture - SOA | Software/Web Application Architecture](https://www.youtube.com/watch?v=jNiEMmoTDoE&t=0s) 
 
+## 🚀 Samples
+
+- [aregtech/areg-sdk](https://github.com/aregtech/areg-sdk) - An Interface centric real-time communication engine to simplify distributed computing by forming network of distributed services running directly on connected Things.
+
+
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
