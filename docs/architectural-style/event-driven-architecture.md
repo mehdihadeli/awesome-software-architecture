@@ -66,6 +66,10 @@
 ## Books
 - [Designing Event-Driven Systems](https://www.confluent.io/designing-event-driven-systems/)
 
+## 🚀 Samples
+
+- [aregtech/areg-sdk](https://github.com/aregtech/areg-sdk) - An Interface centric and evenr-driven real-time communication engine that simplifies distributed and multiprocessing programming.
+
   <div align="right">
     <b><a href="#contents">↥ Back To Top</a></b>
   </div>
