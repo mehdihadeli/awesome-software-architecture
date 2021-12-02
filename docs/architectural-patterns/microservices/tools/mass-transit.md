@@ -10,7 +10,7 @@
 
 ## 📺 Videos
 - [MassTransit–Youtube videos](https://bartwullems.blogspot.com/2020/07/masstransityoutube-videos.html)
-
+- [Modern .NET Messaging using MassTransit](https://www.youtube.com/watch?v=jQNQDLv7QmU)
 ## Libraries
 - [GokGokalp/MetroBus](https://github.com/GokGokalp/MetroBus) - Lightweight messaging wrapper of MassTransit
 - [NCodeGroup/MassTransit.Extensions.Hosting](https://github.com/NCodeGroup/MassTransit.Extensions.Hosting) - MassTransit configuration extensions using Microsoft.Extensions.Hosting.IHostedService and Microsoft.Extensions.DependencyInjection.

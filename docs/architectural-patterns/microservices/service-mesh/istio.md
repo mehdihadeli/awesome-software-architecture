@@ -1,5 +1,8 @@
 # Istio
 
+## Videos
+- [Service Mesh: Crash Course on ISTIO (Part I)](https://www.youtube.com/watch?v=-Ib5_4VaWWs)
+
 ## 🚀 Samples
 - [EdwinVW/pitstop](https://github.com/EdwinVW/pitstop/tree/master/src/k8s) - This repo contains a sample application based on a Garage Management System for Pitstop - a fictitious garage. The primary goal of this sample is to demonstrate several software-architecture concepts like: Microservices, CQRS, Event Sourcing, Domain Driven Design (DDD), Eventual Consistency.
 - [hossambarakat/EspressoShop](https://github.com/hossambarakat/EspressoShop) - Sample application composed of 3 microservices showing Kubernetes and Istio Service Mesh

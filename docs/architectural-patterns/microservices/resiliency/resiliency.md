@@ -29,6 +29,8 @@
 - [Refactoring Towards Resilience: Process Manager Solution](https://jimmybogard.com/refactoring-towards-resilience-process-manager-solution/)
 - [Fault Handling with Polly – A Beginners Guide](https://dotnetplaybook.com/fault-handling-with-polly-a-beginners-guide/)
 - [Making systems resilient with Polly](https://blexin.com/en/blog-en/making-systems-resilient-with-polly/)
+- [Improve resilience in the .NET applications](https://medium.com/@emanuele.bucarelli/improve-resilience-in-the-net-application-80adda2c7710)
+- [Build Resilient Microservices (Web API) using Polly in ASP.NET Core](https://procodeguide.com/programming/polly-in-aspnet-core/)
 ## 📺 Videos
 - [Handling Failures in Message Driven Architecture](https://www.youtube.com/watch?v=SesEYHGhlLQ)
 - [Make your microservice resilient with Polly's Circuit Breaker | .NET Core](https://www.youtube.com/watch?v=JljTcjt798c)
@@ -36,3 +38,5 @@
 - [Life Beyond Distributed Transactions: An Apostate's Implementation - Jimmy Bogard](https://www.youtube.com/watch?v=AUrKofVRHV4)
 - [Fixing Distributed Systems Fail with Jimmy Bogard](https://www.youtube.com/watch?v=p0M1rrmfrWg)
 - [The Circuit Breaker Pattern | Resilient Microservices](https://www.youtube.com/watch?v=5_Bt_OEg0no)
+- [Bulkhead Pattern - Fault Tolerant Microservices](https://www.youtube.com/watch?v=R2FT5edyKOg)
+- [Circuit Breaker Pattern - Fault Tolerant Microservices](https://www.youtube.com/watch?v=ADHcBxEXvFA)

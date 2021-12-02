@@ -29,6 +29,9 @@
 - [Event Sourcing: Events Evolution, Versioning, and Migration](https://valerii-udodov.com/posts/event-sourcing/events-versioning/)
 - [Event-sourcing at Nordstrom: Part 1](https://medium.com/tech-at-nordstrom/adventures-in-event-sourced-architecture-part-1-cc21d06187c7)
 - [Event-sourcing at Nordstrom: Part 2](https://medium.com/tech-at-nordstrom/event-sourcing-at-nordstrom-part-2-f64c416d1885)
+- [Live projections for read models with Event Sourcing and CQRS](https://www.eventstore.com/blog/live-projections-for-read-models-with-event-sourcing-and-cqrs)
+- [Event Streaming is not Event Sourcing!](https://event-driven.io/en/event_streaming_is_not_event_sourcing/)
+
 ## 📺 Videos
 
 - [Event Sourcing Example & Explained in plain English](https://www.youtube.com/watch?v=AUj4M-st3ic)

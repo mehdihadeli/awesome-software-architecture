@@ -38,10 +38,13 @@
 - [CRUD Operations in ASP.NET Core and SQL Server with Docker](https://www.yogihosting.com/docker-aspnet-core-sql-server-crud/)
 - [Docker SQL bind: An attempt was made to access a socket in a way forbidden by its access permissions](https://stackoverflow.com/questions/57316744/docker-sql-bind-an-attempt-was-made-to-access-a-socket-in-a-way-forbidden-by-it)
 - [ASP.NET Docker Gotchas and Workarounds](https://khalidabuhakmeh.com/aspnet-docker-gotchas-and-workarounds)
+- [The Microsoft author signing certificate will be updated as soon as November 1st, 2020](https://devblogs.microsoft.com/nuget/microsoft-author-signing-certificate-update/)
+- [5 ways to change time in Docker container](https://bobcares.com/blog/change-time-in-docker-container/)
+- [Change TimeZone in Docker and OCI compliant Containers](https://mohitgoyal.co/2021/03/02/change-timezone-in-docker-and-oci-compliant-containers/)
 ## 📹 Videos
 - [Deploy a .NET Core API with Docker (Step-by-Step)](https://www.youtube.com/watch?v=f0lMGPB10bM)
 - [Docker Tutorial for Beginners [FULL COURSE in 3 Hours](https://www.youtube.com/watch?v=3c-iBn73dDE)
-
+- [How to push a container image to a Docker Repo | Azure Tips and Tricks](https://www.youtube.com/watch?v=r_tGl4zF1ZQ)
 ## 📦 Libraries
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
@@ -56,3 +59,4 @@
 - [mmacneil/ASPNETCoreDockerMicroservices](https://github.com/mmacneil/ASPNETCoreDockerMicroservices) - Sample project for getting off the ground with ASP.NET Core, Docker and Microservices based on the tutorial: https://fullstackmark.com/post/12/get-started-building-microservices-with-asp.net-core-and-docker-in-visual-studio-code
 - [WolfgangOfner/MicroserviceDemo](https://github.com/WolfgangOfner/MicroserviceDemo) - This is a demo with two ASP .NET 5 microservices using RabbitMQ and Docker
 - [twzhangyang/RestAirline](https://github.com/twzhangyang/RestAirline) - DDD+CQRS+EventSourcing+Hypermedia API+ASP.NET Core 3.1+Masstransit+terraform+docker+k8s
+- [madslundt/NetCoreMicroservicesSample](https://github.com/madslundt/NetCoreMicroservicesSample/tree/master/Compose) - Sample using micro services in .NET Core 3.1 Focusing on clean code

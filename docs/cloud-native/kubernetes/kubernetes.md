@@ -33,13 +33,16 @@
 - [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - SDK for building Kubernetes APIs using CRDs
 - [buehler/dotnet-operator-sdk](https://github.com/buehler/dotnet-operator-sdk) - KubeOps is a kubernetes operator sdk in dotnet. Strongly inspired by kubebuilder.
 - [derailed/k9s](https://github.com/derailed/k9s) - Kubernetes CLI To Manage Your Clusters In Style!
+- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 ## 🚀 Samples
 - [arashkaffamanesh/practical-kubernetes-problems](https://github.com/arashkaffamanesh/practical-kubernetes-problems) - For Kubernauts' Practical Kubernetes Trainings
 - [ContainerSolutions/kubernetes-examples](https://github.com/ContainerSolutions/kubernetes-examples) - Minimal self-contained examples of standard Kubernetes features and patterns in YAML
 - [ContainerSolutions/k8s-deployment-strategies](https://github.com/ContainerSolutions/k8s-deployment-strategies) - Kubernetes deployment strategies explained
 - [vany0114/microservices-dotnetcore-docker-sf-k8s](https://github.com/vany0114/microservices-dotnetcore-docker-sf-k8s) - Shows an approach to work with a microservices based architecture using .Net Core, Docker, and Azure Service Fabric/Kubernetes, applying Domain Driven Design (DDD) and Comand and Query Responsibility Segregation (CQRS) and other patterns.
 - [twzhangyang/RestAirline](https://github.com/twzhangyang/RestAirline) - DDD+CQRS+EventSourcing+Hypermedia API+ASP.NET Core 3.1+Masstransit+terraform+docker+k8s
-- [microservices-demo/microservices-demo](https://github.com/microservices-demo/microservices-demo/tree/master/deploy/docker-compose) - Deployment scripts & config for Sock Shop
+- [microservices-demo/microservices-demo](https://github.com/microservices-demo/microservices-demo/tree/master/deploy/kubernetes) - Deployment scripts & config for Sock Shop
+- [thangchung/shopping-cart-k8s](https://github.com/thangchung/shopping-cart-k8s) - Service Mesh patterns for Microservices
+- [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers/tree/dev/deploy/k8s) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 6, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
 ## Books
 - [Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications](https://www.amazon.com/Kubernetes-Patterns-Designing-Cloud-Native-Applications/dp/1492050288)
 - [Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes](https://www.amazon.com/Kubernetes-Best-Practices-Blueprints-Applications/dp/1492056472/)

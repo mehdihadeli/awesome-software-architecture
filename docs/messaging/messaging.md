@@ -98,6 +98,7 @@
 - [Distributed Messaging Patterns](https://www.youtube.com/watch?v=ZGloN_GOc9o)
 - [RPC vs Messaging: When to use which?](https://www.youtube.com/watch?v=LMKVzguhFw4)
 - [Beyond REST and RPC: Asynchronous Eventing and Messaging Patterns](https://www.youtube.com/watch?v=6zs-PhgfLU4)
+- [Modern .NET Messaging using MassTransit](https://www.youtube.com/watch?v=jQNQDLv7QmU)
 ## 📦 Libraries
 
 - [Enexure.MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - MicroBus is a simple in process Mediator for .NET

@@ -83,6 +83,9 @@
 - [Microservices Distributed Caching](https://medium.com/design-microservices-architecture-with-patterns/microservices-distributed-caching-76828817e41b)
 - [REST vs Messaging for Microservices – Which One is Best?](https://solace.com/blog/experience-awesomeness-event-driven-microservices/)
 - [Microservices patterns: synchronous vs asynchronous communication](https://greeeg.com/issues/microservices-patterns-synchronous-vs-asynchronous)
+- [Integers vs GUIDs - The Great Primary Key Debate](https://exceptionnotfound.net/integers-vs-guids-the-great-primary-key-debate/)
+- [INT or GUID for your primary key, what your choice ?](https://medium.com/@quocnguyen2501/int-or-guid-for-your-primary-key-what-your-choice-927f40c9dc08)
+- [UUID or GUID as Primary Keys? Be Careful!](https://tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439)
 ## 📺 Videos
 
 - [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) 
@@ -190,7 +193,7 @@
 - [Azure-Samples/container-apps-store-api-microservice](https://github.com/Azure-Samples/container-apps-store-api-microservice) - Sample microservices solution using Azure Container Apps, Dapr, Cosmos DB, and Azure API Management
 - [thangchung/northwind-dotnet](https://github.com/thangchung/northwind-dotnet) - A full-stack .NET 6 Microservices build on Minimal APIs and C# 10
 - [ivaylokenov/Architecture-of-ASP.NET-Core-Microservices-Applications](https://github.com/ivaylokenov/Architecture-of-ASP.NET-Core-Microservices-Applications) - Architecture of ASP.NET Core Microservices Applications
-
+- [EventSourcing.NetCore/MeetingsManagement](https://github.com/oskardudycz/EventSourcing.NetCore/tree/50dc5fdd7da0f4e790288c59fbfb9803543d6e8b/Sample/MeetingsManagement)
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
 - [Building Microservices: Designing Fine-Grained Systems 1st Edition](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
