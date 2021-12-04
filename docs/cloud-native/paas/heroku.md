@@ -1,7 +1,7 @@
 
 # Heroku
 
-## Resources
+## 📘 Resources
 - [https://elements.heroku.com](https://elements.heroku.com)
 
 ## 📝 Articles
@@ -24,7 +24,7 @@
 - [thangchung/todo-dotnet6](https://github.com/thangchung/todo-dotnet6) - This is todo app on .NET 6 and deploy to Heroku
 - [jincod/AspNetCoreDemoApp](https://github.com/jincod/AspNetCoreDemoApp) - ASP.NET Core demo app with webpack bundle
 - [heroku/heroku-repo](https://github.com/heroku/heroku-repo) - Plugin for heroku CLI that can manipulate the repo
-## Libraries
+## 📦 Libraries
 - [jincod/dotnetcore-buildpack](https://github.com/jincod/dotnetcore-buildpack) - Heroku .NET Core Buildpack
 - [heroku/heroku-repo](https://github.com/heroku/heroku-repo) - Plugin for heroku CLI that can manipulate the repo
 - [marketplace/actions/deploy-to-heroku](https://github.com/marketplace/actions/deploy-to-heroku) - A simple github action that dynamically deploys an app to heroku

@@ -40,6 +40,7 @@
 - [Deconstructing the Monolith (Shopify Unite Track 2019)](https://www.youtube.com/watch?v=ISYKx8sa53g)
 - [Message Driven Architecture to DECOUPLE a Monolith](https://www.youtube.com/watch?v=bxGkavGaEiM)
 - [Long live the Monolith! Monolithic Architecture != Big Ball of Mud](https://www.youtube.com/watch?v=VGShtGU3hOc)
+- [Mini Course #2 Modular Monolith - Devmentors](https://www.youtube.com/watch?v=MkdutzVB3pY)
 ## 🚀 Samples
 - [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith application with Domain-Driven Design approach.
 - [kgrzybek/modular-monolith-with-ddd-fe-react](https://github.com/kgrzybek/modular-monolith-with-ddd-fe-react) - FrontEnd React application for Modular Monolith With DDD repository and system
@@ -67,4 +68,5 @@
 - [DarekModzelewski/Contoso-University-DDD](https://github.com/DarekModzelewski/Contoso-University-DDD)
 - [devmentors/modular-framework](https://github.com/devmentors/modular-framework)
 - [devmentors/Inflow](https://github.com/devmentors/Inflow)
+- [devmentors/NPay](https://github.com/devmentors/NPay) - NPay is a simple virtual payments app built as a modular monolith.
 

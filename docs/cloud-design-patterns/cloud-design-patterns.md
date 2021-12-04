@@ -8,7 +8,7 @@
 ## 📕 Articles
 - [Design patterns for microservices](https://azure.microsoft.com/en-us/blog/design-patterns-for-microservices/)
 
-## Videos
+## 📺 Videos
 - [Azure Cloud Design Patterns](https://www.youtube.com/playlist?list=PLDUPL1iASgCxy37G5ZTUo7LQZId8sw53y)
 - [Cloud Design Patterns in depth](https://www.youtube.com/watch?v=cxYHugyNTP0)
 

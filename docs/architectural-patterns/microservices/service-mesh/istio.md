@@ -1,6 +1,6 @@
 # Istio
 
-## Videos
+## 📺 Videos
 - [Service Mesh: Crash Course on ISTIO (Part I)](https://www.youtube.com/watch?v=-Ib5_4VaWWs)
 
 ## 🚀 Samples

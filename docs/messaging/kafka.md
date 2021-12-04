@@ -33,7 +33,7 @@
 - [Building Streaming Microservices with Apache Kafka - Tim Berglund](https://www.youtube.com/watch?v=mad84vBHYlY)
 - [Getting Started: Apache Kafka + .NET](https://www.youtube.com/watch?v=n_IQq3pze0s)
 - [Apache Kafka Crash Course](https://www.youtube.com/watch?v=R873BlNVUB4)
-## Libraries
+## 📦 Libraries
 - [edenhill/kcat](https://github.com/edenhill/kcat) - Generic command line non-JVM Apache Kafka producer and consumer
 
 ## Samples

@@ -9,7 +9,7 @@
 - [How to use NATS and .NET Core for building distributed systems - Part 1](https://www.youtube.com/watch?v=VPHGgJiQUHw)
 - [How to use NATS and .NET Core for building distributed systems - Part 2](https://www.youtube.com/watch?v=2-KdyI1bC_s)
 
-## Libraries
+## 📦 Libraries
 - [nats-io/nats.net](https://github.com/nats-io/nats.net) - The official C# Client for NATS
 - [nats-io/stan.net](https://github.com/nats-io/stan.net) - The official NATS .NET C# Streaming Client
 - [danielwertheim/mynatsclient](https://github.com/danielwertheim/mynatsclient) - C# .NET and .NET Core client for NATS

@@ -15,7 +15,7 @@
 - [RabbitMQ bindings for Azure Functions overview](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-rabbitmq)
 - [Azure Service Bus bindings for Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-service-bus)
 - [Connect functions to Azure services using bindings](https://docs.microsoft.com/en-us/azure/azure-functions/add-bindings-existing-function)
-## Videos
+## 📺 Videos
 - [Azure Function Apps Tutorial | Introduction for serverless programming](https://www.youtube.com/watch?v=Vxf-rOEO1q4)
 - [Azure Functions: Step by Step Project](https://www.youtube.com/watch?v=Ft34VWPpiA4)
 - [Intro to Azure Functions - What they are and how to create and deploy them](https://www.youtube.com/watch?v=zIfxkub7CLY)

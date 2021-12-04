@@ -11,7 +11,7 @@
 - [Setting up PlantUML for coding C4 architecture diagrams](https://joymonscode.blogspot.com/2019/04/setting-up-plantuml-for-coding-c4.html)
 - [Software Architecture Diagrams as Code](https://shekhargulati.com/2020/04/21/software-architecture-diagrams-as-code/)
 - [3 Diagram as Code Tools That Combined Cover All Your Needs](https://dev.to/xnok/3-diagram-as-code-tools-that-combined-cover-all-your-needs-3fl9)
-## Videos
+## 📺 Videos
 - [Setting up PlantUML for coding C4 architecture diagrams in Visual Studio Code](https://www.youtube.com/watch?v=Zt3Bj1HMJ8g)
 - [PlantUML Playlist - Arturo Santiago-Rivera](https://www.youtube.com/playlist?list=PLPPxJMwitEl0-J8xO_z7SzjI9UTYH7dvz)
 - [Using PlantUML in VSCode](https://www.youtube.com/watch?v=xkwJ9GwgZJU)

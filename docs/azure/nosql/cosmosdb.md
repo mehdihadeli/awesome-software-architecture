@@ -1,9 +1,9 @@
 # CosmosDB
 
-## Resources
+## 📘 Resources
 - [Azure Cosmos DB YouTube](https://www.youtube.com/c/AzureCosmosDB)
 
-## Articles
+## 📕 Articles
 - [Azure Cosmos DB vs Azure Table Storage – Choosing the right store for your application](https://venkateshnarayanan.wordpress.com/2019/08/08/azure-cosmos-db-vs-azure-table-storage-choosing-the-right-store-for-your-application/)
 
 ## 📺 Videos
