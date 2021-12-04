@@ -23,7 +23,7 @@
 ## 📺 Videos
 - [Best Practices Around Production Ready Web Apps with Docker Compose](https://www.youtube.com/watch?v=T--X3v2pwtU)
 
-## Samples
+## 🚀 Samples
 - [twzhangyang/RestAirline](https://github.com/twzhangyang/RestAirline) - DDD+CQRS+EventSourcing+Hypermedia API+ASP.NET Core 3.1+Masstransit+terraform+docker+k8s
 - [WolfgangOfner/MicroserviceDemo](https://github.com/WolfgangOfner/MicroserviceDemo) - This is a demo with two ASP .NET 5 microservices using RabbitMQ and Docker
 - [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers/blob/main/src/docker-compose.yml)

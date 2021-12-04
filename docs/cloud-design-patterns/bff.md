@@ -16,5 +16,5 @@
 - [Why Backend for Frontend Is Key to Your Microservices Journey • B. Grant & K. Ramanathan • GOTO 2017](https://www.youtube.com/watch?v=PwgQZ8eCGxA)
 - [Episode 020 - The backend for frontend and the HttpClient - ASP.NET Core: From 0 to overkill](https://www.youtube.com/watch?v=A8ZCVzeqFtA)
 - [Episode 029 - Simplifying the BFF with ProxyKit - ASP.NET Core: From 0 to overkill](https://www.youtube.com/watch?v=Wgu97TKaRiI) 
-## Samples
+## 🚀 Samples
 - [damikun/trouble-training](https://github.com/damikun/trouble-training) - FullStack app workshop with distributed tracing and monitoring. This shows the configuration from React frontend to .NetCore backend.

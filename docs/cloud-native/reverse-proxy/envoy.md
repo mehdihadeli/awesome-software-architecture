@@ -9,5 +9,5 @@
 ## 📦 Libraries
 - [turbinelabs/rotor](https://github.com/turbinelabs/rotor) - Rotor is a fast, lightweight bridge between your service discovery and Envoy’s configuration APIs. 
 
-## Samples
+## 🚀 Samples
 - [jbw/TooBigToFailBurgerShop](https://github.com/jbw/TooBigToFailBurgerShop/tree/develop/src/services/ApiGateway/Envoy)

@@ -26,7 +26,7 @@
 - [Azure FUNCTION Tutorial | Blob Trigger example with C#](https://www.youtube.com/watch?v=zQP9TBGEoDE)
 - [Azure Functions, GitHub Actions and .NET 5 Isolated Processes](https://www.youtube.com/watch?v=ZEV9MSqOsts)
 
-## Samples
+## 🚀 Samples
 - [burkeholland/heroes-api](https://github.com/burkeholland/heroes-api)
 - [ariksman/MoviesAzureFuncApi](https://github.com/ariksman/MoviesAzureFuncApi)
 - [jedi91/MovieSearch](https://github.com/jedi91/MovieSearch)
