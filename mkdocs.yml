@@ -161,6 +161,7 @@ nav:
   - Decorator Pattern: design-patterns/decorator-pattern.md
   - Specification Pattern: design-patterns/specification-pattern.md
   - Repository Pattern: design-patterns/repository-pattern.md
+  - REPR: design-patterns/repr.md
   - Query Object Pattern: design-patterns/query-object-pattern.md
   - Factory Pattern: design-patterns/factory-pattern.md
   - Strategy Pattern: design-patterns/strategy-pattern.md
