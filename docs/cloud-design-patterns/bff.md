@@ -9,6 +9,7 @@
 - [Episode 020 - The backend for frontend and the HttpClient - ASP.NET Core: From 0 to overkill](https://blog.codingmilitia.com/2019/05/05/aspnet-020-from-zero-to-overkill-backend-for-frontend-httpclient/)
 - [Episode 029 - Simplifying the BFF with ProxyKit - ASP.NET Core: From 0 to overkill](https://blog.codingmilitia.com/2019/09/11/aspnet-029-from-zero-to-overkill-simplifying-the-bff-with-proxykit/)
 - [Backends for Frontends Pattern — BFF](https://medium.com/design-microservices-architecture-with-patterns/backends-for-frontends-pattern-bff-7ccd9182c6a1)
+- [Web App Security, Understanding the Meaning of the BFF Pattern](https://dev.to/damikun/web-app-security-understanding-the-meaning-of-the-bff-pattern-i85)
 ## 📺 Videos
 - [Backends For Frontends Pattern - Cloud Design Patterns - BFF Pattern](https://www.youtube.com/watch?v=wgD9t3R3x-w)
 - [The Backend For Frontend Pattern](https://www.youtube.com/watch?v=zazeGmFmUxg)

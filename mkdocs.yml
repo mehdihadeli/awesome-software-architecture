@@ -232,6 +232,7 @@ nav:
       - Azure DevOps: cloud-native/devops/ci-cd/azure-devops.md
       - Github Actions: cloud-native/devops/ci-cd/github-actions.md
       - Jenkins: cloud-native/devops/ci-cd/jenkins.md
+      - Nuke Build: cloud-native/devops/ci-cd/nuke-build.md
   - Reverse Proxy:
     - Reverse Proxy: cloud-native/reverse-proxy/reverse-proxy.md
     - Envoy: cloud-native/reverse-proxy/envoy.md
@@ -253,6 +254,7 @@ nav:
   - Consistent Hashing: systems-design/consistent-hash.md
 - Scaling: scaling.md
 - Clean Code: clean-code.md
+- Abstraction: abstraction.md
 - Design Best Practices: 
   - Design Best Practices: design-best-practices/design-best-practices.md
   - 12 Factor: design-best-practices/12-factor.md

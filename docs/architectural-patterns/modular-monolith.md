@@ -27,6 +27,8 @@
 - [Event Modeling & Modular Monolith | From colored cards to code through TDD](https://zycienakodach.pl/event-modeling-modularny-monolit)
 - [Monolithic to Microservices Architecture with Patterns & Best Practices](https://medium.com/design-microservices-architecture-with-patterns/monolithic-to-microservices-architecture-with-patterns-best-practices-a768272797b2)
 - [Improving Monolith's Availability](https://www.ledjonbehluli.com/posts/improving_monoliths_availability/)
+- [Long live the Monolith! Monolithic Architecture != Big Ball of Mud](https://codeopinion.com/long-live-the-monolith-monolithic-architecture-big-ball-of-mud/)
+- [Scaling a Monolith Horizontally](https://codeopinion.com/scaling-a-monolith-horizontally/)
 ## 📺 Videos
 - [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE)
 - [Modular monoliths (Simon Brown) - 2016](https://www.youtube.com/watch?v=kbKxmEeuvc4)
@@ -41,6 +43,13 @@
 - [Message Driven Architecture to DECOUPLE a Monolith](https://www.youtube.com/watch?v=bxGkavGaEiM)
 - [Long live the Monolith! Monolithic Architecture != Big Ball of Mud](https://www.youtube.com/watch?v=VGShtGU3hOc)
 - [Mini Course #2 Modular Monolith - Devmentors](https://www.youtube.com/watch?v=MkdutzVB3pY)
+- [Scaling Monolithic Applications](https://www.youtube.com/watch?v=qZB_uGuWvUI)
+- [Creating a Loosely Coupled Monolith](https://www.youtube.com/watch?v=48C-RsEu0BQ)
+- [START with a Monolith, NOT Microservices](https://www.youtube.com/watch?v=Z_pj1mUDKdw)
+- [Solution & Project Structure of a Loosely Coupled Monolith](https://www.youtube.com/watch?v=-1DU9c95ERs)
+- [Asynchronous Messaging in a Loosely Coupled Monolith](https://www.youtube.com/watch?v=Qi6TaIYprqc)
+- [Splitting up a Monolith to (micro)Services](https://www.youtube.com/watch?v=Inscvakv5XI)
+- [Avoiding a Big Ball of Mud! Coupling in a Monolith](https://www.youtube.com/watch?v=MLjjWkN44q4)
 ## 🚀 Samples
 - [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith application with Domain-Driven Design approach.
 - [kgrzybek/modular-monolith-with-ddd-fe-react](https://github.com/kgrzybek/modular-monolith-with-ddd-fe-react) - FrontEnd React application for Modular Monolith With DDD repository and system

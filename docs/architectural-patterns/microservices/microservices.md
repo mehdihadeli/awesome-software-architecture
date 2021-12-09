@@ -194,6 +194,7 @@
 - [thangchung/northwind-dotnet](https://github.com/thangchung/northwind-dotnet) - A full-stack .NET 6 Microservices build on Minimal APIs and C# 10
 - [ivaylokenov/Architecture-of-ASP.NET-Core-Microservices-Applications](https://github.com/ivaylokenov/Architecture-of-ASP.NET-Core-Microservices-Applications) - Architecture of ASP.NET Core Microservices Applications
 - [EventSourcing.NetCore/MeetingsManagement](https://github.com/oskardudycz/EventSourcing.NetCore/tree/50dc5fdd7da0f4e790288c59fbfb9803543d6e8b/Sample/MeetingsManagement)
+- [microsoft/dotnet-podcasts](https://github.com/microsoft/dotnet-podcasts) - .NET 6 reference application shown at .NET Conf 2021 featuring ASP.NET Core, Blazor, .NET MAUI, Microservices, and more!
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
 - [Building Microservices: Designing Fine-Grained Systems 1st Edition](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)

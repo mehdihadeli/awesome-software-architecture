@@ -36,3 +36,4 @@
 - [Azure/azure-service-bus](https://github.com/Azure/azure-service-bus/tree/master/samples)
 - [damienbod/AspNetCoreServiceBus](https://github.com/damienbod/AspNetCoreServiceBus)
 - [WolfgangOfner/MicroserviceDemo](https://github.com/WolfgangOfner/MicroserviceDemo)
+- [jeffhollan/container-apps-dotnet-eventing](https://github.com/jeffhollan/container-apps-dotnet-eventing)

@@ -15,10 +15,13 @@
 - [Reviewing the Specification Pattern and NuGet package](https://www.youtube.com/watch?v=BgWWbBUWyig)
 - [What's new in v5 of Ardalis.Specification](https://www.youtube.com/watch?v=gT72mWdD4Qo)
 
+## Libraries
+
+- [ardalis/Specification](https://github.com/ardalis/Specification) - Base class with tests for adding specifications to a DDD model
+
 ## 🚀 Samples
 
-- [https://github.com/ardalis/Specification](https://github.com/ardalis/Specification)
-- [https://github.com/dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb)
+- [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
