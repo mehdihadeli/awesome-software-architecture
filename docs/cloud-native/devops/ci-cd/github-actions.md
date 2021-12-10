@@ -6,6 +6,7 @@
 - [Create your own GitHub Action with .NET](https://pumpingco.de/blog/create-your-own-github-action-with-dotnet/)
 - [GETTING STARTED WITH GITHUB ACTIONS FOR .NET DEVELOPERS](https://www.stevejgordon.co.uk/getting-started-with-github-actions-for-dotnet-developers)
 - [How to build and push Docker image with GitHub actions?](https://event-driven.io/en/how_to_buid_and_push_docker_image_with_github_actions/)
+- [Continuous database deployment with GitHub Actions](https://dotnetthoughts.net/continuous-database-deployment-with-github-actions/)
 
 ## 📺 Videos
 - [Master GitHub Actions Tutorial - Playlist Cameron McKenzie](https://www.youtube.com/playlist?list=PL_RrEj88onS-um2xFy01sY46ik_2yt_EQ)

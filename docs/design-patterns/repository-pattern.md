@@ -22,6 +22,7 @@
 - [Should Controllers Reference Repositories or Services](https://ardalis.com/should-controllers-reference-repositories-services/)
 - [Architecting in the pit of doom: The evils of the repository abstraction layer](https://ayende.com/blog/4784/architecting-in-the-pit-of-doom-the-evils-of-the-repository-abstraction-layer)
 - [Implementing repository querying interface in EF Core DbContext](https://gunnarpeipman.com/ef-core-dbcontext-repository/)
+- [Repository pattern or DbContext - what's your poison?](https://www.reddit.com/r/dotnet/comments/rc2lzj/repository_pattern_or_dbcontext_whats_your_poison/)
 ## 📺 Videos
 - [Repository Pattern with C# and Entity Framework - Mosh Hamedani](https://www.youtube.com/watch?v=rtXpYpZdOzM)
 - [Step by Step - Repository Pattern and Unit of Work with Asp.Net Core 5](https://www.youtube.com/watch?v=-jcf1Qq8A-4)
