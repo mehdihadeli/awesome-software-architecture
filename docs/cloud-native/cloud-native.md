@@ -12,7 +12,7 @@
 - [Reference Architecture for a Cloud Native Digital Enterprise](https://github.com/wso2/reference-architecture/blob/master/reference-cloud-native-architecture-digital-enterprise.md)
 ## 📺 Videos
 - [Cloud Native 101 Video](https://www.youtube.com/watch?v=9Ik96SBaIvs)
-- [What is Cloud Native?](https://www.youtube.com/watch?v=fp9_ubiKqFU&list=PLOspHqNVtKACSagAEeIY20NMVLNeQ1ZJx&index=2)
+- [What is Cloud Native?](https://www.youtube.com/watch?v=fp9_ubiKqFU)
 - [Architecting a Cloud Native API Solution](https://www.youtube.com/watch?v=sKfep-UmZeM&list=PLOspHqNVtKACSagAEeIY20NMVLNeQ1ZJx&index=13)
 - [Keynote: What is Cloud Native and Why Should I Care? - Alexis Richardson, CEO of Weaveworks](https://www.youtube.com/watch?v=TKYAI19OE-c)
 - [An Introduction to the Cloud-Native Concept](https://www.youtube.com/watch?v=nyQAkR84RHM)

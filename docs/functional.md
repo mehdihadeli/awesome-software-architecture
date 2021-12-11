@@ -1,4 +1,4 @@
-# Functional
+# Functional Programming
 
 ## 📦 Libraries
 - [mcintyre321/OneOf](https://github.com/mcintyre321/OneOf) - Easy to use F#-like ~discriminated~ unions for C# with exhaustive compile time matching

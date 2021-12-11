@@ -3,7 +3,7 @@
 ## 📘 Resources
 - [Docker Compose GitHub](https://github.com/docker/compose)
 - [Composerize](https://www.composerize.com/)
-
+- [docker/awesome-compose](https://github.com/docker/awesome-compose)
 ## 📕 Articles
 - [Speed Up Docker Compose with Parallel Builds](https://ardalis.com/speed-up-docker-compose-with-parallel-builds/)
 - [How to Use Docker Compose to Run Multiple Instances of a Service in Development](https://pspdfkit.com/blog/2018/how-to-use-docker-compose-to-run-multiple-instances-of-a-service-in-development/)
@@ -29,6 +29,7 @@
 - [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers/blob/main/src/docker-compose.yml)
 - [microservices-demo/microservices-demo](https://github.com/microservices-demo/microservices-demo/tree/master/deploy/docker-compose) - Deployment scripts & config for Sock Shop
 - [madslundt/NetCoreMicroservicesSample](https://github.com/madslundt/NetCoreMicroservicesSample/tree/master/Compose) - Sample using micro services in .NET Core 3.1 Focusing on clean code
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
