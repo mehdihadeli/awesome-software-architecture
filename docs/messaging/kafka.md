@@ -24,6 +24,7 @@
 - [Kafka Listeners – Explained](https://www.confluent.io/blog/kafka-listeners-explained/)
 - [Real-Time Exactly-Once Ad Event Processing with Apache Flink, Kafka, and Pinot](https://eng.uber.com/real-time-exactly-once-ad-event-processing/)
 - [“The Metamorphosis” of communication with Kafka](https://blexin.com/en/blog-en/the-metamorphosis-of-communication-with-kafka/)
+- [Kafka and .NET - Part 1 - What is Kafka?](https://blog.simontimms.com/2021/12/09/2021-12-09-kafka-and-.net/)
 ## 📺 Videos
 - [Course | Apache Kafka® Fundamentals](https://www.youtube.com/playlist?list=PLa7VYi0yPIH2PelhRHoFR5iQgflg-y6JA)
 - [Apache Kafka® Tutorials | Kafka 101](https://www.youtube.com/playlist?list=PLa7VYi0yPIH0KbnJQcMv5N9iW8HkZHztH)

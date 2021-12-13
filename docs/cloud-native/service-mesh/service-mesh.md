@@ -1,12 +1,8 @@
 # Service Mesh
 
 ## 📕 Articles
-- [The Evolution of Distributed Systems on Kubernetes](https://www.infoq.com/articles/distributed-systems-kubernetes/)
-- [Service Meshes: Why Istio? An Introduction](https://dzone.com/articles/why-istio-intro)
+- [Service Mesh in Kubernetes - Getting Started](https://www.programmingwithwolfgang.com/service-mesh-kubernetes-getting-started)
 
 ## 📺 Videos
-- [Istio Service Mesh Explained](https://www.youtube.com/watch?v=6zDrLvpfCK4&list=PLOspHqNVtKACSagAEeIY20NMVLNeQ1ZJx&index=5)
-
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+- [How to get a grip on your microservices using a service mesh](https://www.youtube.com/watch?v=YJZGh53-on8)
+- [API Gateway to Service Mesh: Navigating a Changing Landscape - Zhamak Dehghani](https://www.youtube.com/watch?v=QYdOJ0QJptE)
