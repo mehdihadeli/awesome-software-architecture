@@ -86,6 +86,7 @@
 - [Integers vs GUIDs - The Great Primary Key Debate](https://exceptionnotfound.net/integers-vs-guids-the-great-primary-key-debate/)
 - [INT or GUID for your primary key, what your choice ?](https://medium.com/@quocnguyen2501/int-or-guid-for-your-primary-key-what-your-choice-927f40c9dc08)
 - [UUID or GUID as Primary Keys? Be Careful!](https://tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439)
+- [Orchestration vs choreography for microservice workflows](https://www.ben-morris.com/orchestration-vs-choreography-for-microservice-workflows/)
 ## 📺 Videos
 
 - [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) 
@@ -116,6 +117,8 @@
 - [Why programming language performance in microservices isn't (that) important](https://www.youtube.com/watch?v=g1UQf3TOBn8)
 - [.NET Microservices – Full Course](https://www.youtube.com/c/binarythistle/videos)
 - [Build Your First Microservice with .NET | Microservices Explained](https://www.youtube.com/watch?v=DFDbh1c9zyE)
+- [Building FeedR - new microservices series with .NET6.0, episode #1](https://www.youtube.com/watch?v=spnBzawswik)
+- [ASP.NET Community Standup - .NET Podcasts App Overview!](https://www.youtube.com/watch?v=TkIh_mmEw7c)
 
 ## 📦 Libraries
 
@@ -195,6 +198,9 @@
 - [ivaylokenov/Architecture-of-ASP.NET-Core-Microservices-Applications](https://github.com/ivaylokenov/Architecture-of-ASP.NET-Core-Microservices-Applications) - Architecture of ASP.NET Core Microservices Applications
 - [EventSourcing.NetCore/MeetingsManagement](https://github.com/oskardudycz/EventSourcing.NetCore/tree/50dc5fdd7da0f4e790288c59fbfb9803543d6e8b/Sample/MeetingsManagement)
 - [microsoft/dotnet-podcasts](https://github.com/microsoft/dotnet-podcasts) - .NET 6 reference application shown at .NET Conf 2021 featuring ASP.NET Core, Blazor, .NET MAUI, Microservices, and more!
+- [devmentors/FeedR](https://github.com/devmentors/FeedR)
+- [thangchung/bff-auth](https://github.com/thangchung/bff-auth) - The demonstration of modern authentication using BFF pattern
+- [manfredsteyer/yarp-auth-proxy](https://github.com/manfredsteyer/yarp-auth-proxy)
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
 - [Building Microservices: Designing Fine-Grained Systems 1st Edition](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)

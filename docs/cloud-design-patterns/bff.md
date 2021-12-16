@@ -19,3 +19,4 @@
 - [Episode 029 - Simplifying the BFF with ProxyKit - ASP.NET Core: From 0 to overkill](https://www.youtube.com/watch?v=Wgu97TKaRiI) 
 ## 🚀 Samples
 - [damikun/trouble-training](https://github.com/damikun/trouble-training) - FullStack app workshop with distributed tracing and monitoring. This shows the configuration from React frontend to .NetCore backend.
+- [thangchung/bff-auth](https://github.com/thangchung/bff-auth) - The demonstration of modern authentication using BFF pattern
