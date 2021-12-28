@@ -201,6 +201,7 @@
 - [devmentors/FeedR](https://github.com/devmentors/FeedR)
 - [thangchung/bff-auth](https://github.com/thangchung/bff-auth) - The demonstration of modern authentication using BFF pattern
 - [manfredsteyer/yarp-auth-proxy](https://github.com/manfredsteyer/yarp-auth-proxy)
+- [thiagocruzrj/E-Commerce-Microservices](https://github.com/thiagocruzrj/E-Commerce-Microservices) - Creating a distributed e-commerce system with microservice architecture.
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
 - [Building Microservices: Designing Fine-Grained Systems 1st Edition](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)

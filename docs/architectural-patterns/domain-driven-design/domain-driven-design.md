@@ -7,6 +7,8 @@
 - [ddd-crew/free-ddd-learning-resources](https://github.com/ddd-crew/free-ddd-learning-resources#tactical-ddd--domain-as-code)
 - [How to learn Domain-Driven Design & Event Sourcing? Developer Journey Map and useful resources](https://dev.to/mateusznowak/how-to-learn-domain-driven-design-event-sourcing-my-own-developer-journey-map-and-useful-resources-308a)
 - [ardalis/DDD-NoDuplicates](https://github.com/ardalis/DDD-NoDuplicates)
+- [ardalis/awesome-ddd](https://github.com/ardalis/awesome-ddd)
+- [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd)
 ## 📕 Articles
 - [Design a DDD-oriented microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice) 
 - [PPPDDD.1 – What is Domain Driven Design?](https://herbertograca.com/2016/08/15/pppddd-1-what-is-domain-driven-design/) 
@@ -78,7 +80,7 @@
 - [What is Domain-Driven Design (DDD)](https://verraes.net/2021/09/what-is-domain-driven-design-ddd/)
 - [Domain-Driven Refactoring: Encapsulating Collections](https://jimmybogard.com/domain-driven-refactoring-encapsulating-collections/)
 - [Change Tracking while doing DDD (Revisited)](https://www.ledjonbehluli.com/posts/change_tracking_ddd_revisited/)
-
+- [How to create better code using Domain-Driven Design](https://altkomsoftware.pl/en/blog/create-better-code-using-domain-driven-design/)
 ## 📺 Videos
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU)
@@ -155,6 +157,7 @@
 - [sedatkocaer34/NorthwindDDDSample](https://github.com/sedatkocaer34/NorthwindDDDSample)
 - [devmentors/NPay](https://github.com/devmentors/NPay) - NPay is a simple virtual payments app built as a modular monolith.
 - [andresantarosa/CleanArchitectureExample](https://github.com/andresantarosa/CleanArchitectureExample) - CleanArchitectureExample Project
+- [asc-lab/better-code-with-ddd](https://github.com/asc-lab/better-code-with-ddd) - This repository contains code that accompanies presentation ASC LAB team gave at meetup about “Creating better code with Domain Driven Design”.
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [xhafan/coreddd](https://github.com/xhafan/coreddd) - A set of open-source .NET libraries helping with domain-driven design (DDD) and CQRS

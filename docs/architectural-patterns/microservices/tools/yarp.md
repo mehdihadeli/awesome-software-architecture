@@ -11,6 +11,7 @@
 ## 📺 Videos
 - [Lessons Learned from Building the YARP Proxy on .NET](https://www.youtube.com/watch?v=WJcjlSEXqWA)
 - [YARP: The .NET Reverse proxy](https://docs.microsoft.com/en-us/shows/On-NET/YARP-The-NET-Reverse-proxy)
+- [Building FeedR - API Gateway with YARP (Microservices with .NET 6.0) episode #3](https://www.youtube.com/watch?v=jn0SFUennII)
 
 ## Samples
 - [manfredsteyer/yarp-auth-proxy](https://github.com/manfredsteyer/yarp-auth-proxy)

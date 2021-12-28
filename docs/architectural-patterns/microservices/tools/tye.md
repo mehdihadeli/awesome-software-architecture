@@ -11,6 +11,7 @@
 - [Project Tye: Creating Microservices in a .NET Way](https://www.codemag.com/Article/2010052/Project-Tye-Creating-Microservices-in-a-.NET-Way)
 - [Using Project Tye to Run Dependent Services for use with ASP.NET Core](https://adamstorr.azurewebsites.net/blog/using-project-tye-to-run-dependent-services-for-use-with-aspnetcore)
 - [Enjoy Local Development with Tye, Docker, and .NET](https://khalidabuhakmeh.com/local-dev-with-tye-docker-and-dotnet)
+- [Introducing Project Tye](https://devblogs.microsoft.com/dotnet/introducing-project-tye/)
 ## 📺 Videos
 - [Building microservices with Tye](https://www.youtube.com/watch?v=m4VsOdIT1O4)
 - [Developing and Deploying Microservices with 'Tye'](https://www.youtube.com/watch?v=_s8UdhGOGmY)
