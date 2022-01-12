@@ -117,8 +117,12 @@
 - [Why programming language performance in microservices isn't (that) important](https://www.youtube.com/watch?v=g1UQf3TOBn8)
 - [.NET Microservices – Full Course](https://www.youtube.com/c/binarythistle/videos)
 - [Build Your First Microservice with .NET | Microservices Explained](https://www.youtube.com/watch?v=DFDbh1c9zyE)
-- [Building FeedR - new microservices series with .NET6.0, episode #1](https://www.youtube.com/watch?v=spnBzawswik)
 - [ASP.NET Community Standup - .NET Podcasts App Overview!](https://www.youtube.com/watch?v=TkIh_mmEw7c)
+- [Building FeedR - new microservices series with .NET6.0, episode #1](https://www.youtube.com/watch?v=spnBzawswik)
+- [Building FeedR - Tye, PM2, Docker (Microservices with .NET 6.0) episode #2](https://www.youtube.com/watch?v=DbUt_0E8TKo)
+- [Building FeedR - API Gateway with YARP (Microservices with .NET 6.0) episode #3](https://www.youtube.com/watch?v=jn0SFUennII)
+- [Building FeedR - Pricing Feed, Background Service, Channels (Microservices with .NET 6.0) episode #4](https://www.youtube.com/watch?v=87raSebE80M)
+- [Building FeedR - Redis Pub/Sub + IAsyncEnumerable streaming (Microservices with .NET 6.0) episode #5](https://www.youtube.com/watch?v=80Ke9hsG_RU)
 
 ## 📦 Libraries
 
@@ -202,6 +206,7 @@
 - [thangchung/bff-auth](https://github.com/thangchung/bff-auth) - The demonstration of modern authentication using BFF pattern
 - [manfredsteyer/yarp-auth-proxy](https://github.com/manfredsteyer/yarp-auth-proxy)
 - [thiagocruzrj/E-Commerce-Microservices](https://github.com/thiagocruzrj/E-Commerce-Microservices) - Creating a distributed e-commerce system with microservice architecture.
+- [Daniel-Krzyczkowski/Cloud-Pharmacy-On-Azure](https://github.com/Daniel-Krzyczkowski/Cloud-Pharmacy-On-Azure) - Cloud Pharmacy is a fake medical company which used Microsoft Azure cloud services to implement the system for patients, physicians, and medicaments store.
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
 - [Building Microservices: Designing Fine-Grained Systems 1st Edition](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)

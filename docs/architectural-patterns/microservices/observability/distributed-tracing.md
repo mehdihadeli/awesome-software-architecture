@@ -68,6 +68,7 @@
 - [Tracing with Jaeger and Kubernetes](https://www.youtube.com/watch?v=FikF0DtxZno)
 - [Exploring distributed tracing with ASP NET Core 6](https://www.youtube.com/watch?v=l1_i8p2hVlE)
 - [OpenTelemetry with Minimal APIs in .NET 6](https://www.youtube.com/watch?v=djLCqEzf72o)
+- [OpenTelemetry will save your day and night - Alexey Zimarev - NDC Oslo 2021](https://www.youtube.com/watch?v=pz4bNmlss3w)
 ## 🚀 Samples
 - [karlospn/opentelemetry-tracing-demo](https://github.com/karlospn/opentelemetry-tracing-demo) - Example about how to use OpenTelemetry for tracing when we have a series of distributed applications communicating between them
 - [jbogard/nsb-diagnostics-poc](https://github.com/jbogard/nsb-diagnostics-poc)

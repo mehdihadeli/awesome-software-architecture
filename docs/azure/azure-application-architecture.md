@@ -34,6 +34,7 @@
 - [Daniel-Krzyczkowski/Cars-Island-On-Azure](https://github.com/Daniel-Krzyczkowski/Cars-Island-On-Azure) - Cars Island is a fake car rental company which used Microsoft Azure cloud services to implement the system for managing car renting.
 - [Daniel-Krzyczkowski/Smart-Accounting](https://github.com/Daniel-Krzyczkowski/Smart-Accounting) - This repository contains a solution for collecting invoices in a digital way.
 - [Azure-Samples/container-apps-store-api-microservice](https://github.com/Azure-Samples/container-apps-store-api-microservice) - Sample microservices solution using Azure Container Apps, Dapr, Cosmos DB, and Azure API Management
+- [Daniel-Krzyczkowski/Cloud-Pharmacy-On-Azure](https://github.com/Daniel-Krzyczkowski/Cloud-Pharmacy-On-Azure) - Cloud Pharmacy is a fake medical company which used Microsoft Azure cloud services to implement the system for patients, physicians, and medicaments store.
 ## 📦 Libraries
 - [Azure/azure-libraries-for-net](https://github.com/Azure/azure-libraries-for-net) - Azure libraries for .Net
 - [Azure/Azurite](https://github.com/Azure/Azurite)

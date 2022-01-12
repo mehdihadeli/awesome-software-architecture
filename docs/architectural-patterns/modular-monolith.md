@@ -29,6 +29,7 @@
 - [Improving Monolith's Availability](https://www.ledjonbehluli.com/posts/improving_monoliths_availability/)
 - [Long live the Monolith! Monolithic Architecture != Big Ball of Mud](https://codeopinion.com/long-live-the-monolith-monolithic-architecture-big-ball-of-mud/)
 - [Scaling a Monolith Horizontally](https://codeopinion.com/scaling-a-monolith-horizontally/)
+- [Good and Bad Monolith](https://blog.ttulka.com/good-and-bad-monolith)
 ## 📺 Videos
 - [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE)
 - [Modular monoliths (Simon Brown) - 2016](https://www.youtube.com/watch?v=kbKxmEeuvc4)
@@ -78,4 +79,7 @@
 - [devmentors/modular-framework](https://github.com/devmentors/modular-framework)
 - [devmentors/Inflow](https://github.com/devmentors/Inflow)
 - [devmentors/NPay](https://github.com/devmentors/NPay) - NPay is a simple virtual payments app built as a modular monolith.
-
+- [ttulka/ddd-example-ecommerce](https://github.com/ttulka/ddd-example-ecommerce) - Domain-driven design example in Java with Spring framework
+- [mgce/modular-monolith-nodejs](https://github.com/mgce/modular-monolith-nodejs) - A project showing the implementation of the modular monolith architecture in Node.js.
+- [drminnaar/chinook](https://github.com/drminnaar/chinook) - A playground for demonstrating concepts such as architecture, design, dotnet core, typescript, react, database and docker
+- [ttulka/ddd-example-ecommerce-kotlin](https://github.com/ttulka/ddd-example-ecommerce-kotlin) - Domain-driven design example in Kotlin with Spring framework

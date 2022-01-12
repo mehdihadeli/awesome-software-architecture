@@ -16,6 +16,11 @@
 - [Building microservices with Tye](https://www.youtube.com/watch?v=m4VsOdIT1O4)
 - [Developing and Deploying Microservices with 'Tye'](https://www.youtube.com/watch?v=_s8UdhGOGmY)
 - [Navigating microservices with .NET Core - Ryan Nowak](https://www.youtube.com/watch?v=dubHmScPNzQ)
+- [Building Cloud Native NET Applications with Project Tye - Jon Galloway - NDC Oslo 2021](https://www.youtube.com/watch?v=ou7rNmnVBXY)
+- [How Tye makes building microservices a joke](https://www.youtube.com/watch?v=ByL2NuNTuHs)
+- [Building Microservices with Tye | Glenn Gordon](https://www.youtube.com/watch?v=EvfEkL1CZIM)
+- [Building Microservices in .NET with Project Tye](https://www.youtube.com/watch?v=qthKolaK7kk)
+- [Building FeedR - Tye, PM2, Docker (Microservices with .NET 6.0) episode #2](https://www.youtube.com/watch?v=DbUt_0E8TKo)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

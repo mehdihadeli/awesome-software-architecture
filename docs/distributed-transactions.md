@@ -6,12 +6,17 @@
 - [It’s Time to Move on from Two Phase Commit](http://dbmsmusings.blogspot.com/2019/01/its-time-to-move-on-from-two-phase.html)
 - [Saga Pattern for Microservices Distributed Transactions](https://medium.com/design-microservices-architecture-with-patterns/saga-pattern-for-microservices-distributed-transactions-7e95d0613345)
 - [Microservices Distributed Transactions](https://medium.com/design-microservices-architecture-with-patterns/microservices-distributed-transactions-a71a996e5db8)
+- [How to deal with back-pressure on message queues with .NET Core](https://www.davidguida.net/how-to-deal-with-back-pressure-on-message-queues-with-net-core/)
+- [Using Channels In C# .NET – Part 3 – Understanding Back Pressure](https://dotnetcoretutorials.com/2020/11/24/using-channels-in-net-core-part-3-understanding-back-pressure/)
+- [Four Strategies to Handle Backpressure - Jay Phelps at ReactiveConf 2019](https://www.infoq.com/news/2019/10/reactiveconf-2019-backpressure/)
 
 ## 📺 Videos
 - [Life Beyond Distributed Transactions: An Apostate's Implementation - Jimmy Bogard](https://www.youtube.com/watch?v=AUrKofVRHV4)
 - [Fixing Distributed Systems Fail with Jimmy Bogard](https://www.youtube.com/watch?v=p0M1rrmfrWg)
 - [Saga pattern within Masstransit](https://www.youtube.com/watch?v=Vsnz7np84Vc)
 - [Distributed Sagas: A Protocol for Coordinating Microservices - Caitie McCaffrey](https://www.youtube.com/watch?v=0UTOLRTwOX0)
+- [Solving distributed data problems in a microservice architecture | Microservices.io](https://www.youtube.com/watch?v=AEbJgpamZ4w)
+- [Backpressure in Reactive System](https://blog.frankel.ch/backpressure-reactive-systems/)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

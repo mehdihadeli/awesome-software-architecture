@@ -65,6 +65,7 @@
 - [How to register all CQRS handlers by convention](https://event-driven.io/en/how_to_register_all_mediatr_handlers_by_convention/)
 - [CQRS is simpler than you think with .NET 6 and C# 10](https://event-driven.io/en/cqrs_is_simpler_than_you_think_with_net6/)
 - [Why I don't use MediatR for CQRS](https://cezarypiatek.github.io/post/why-i-dont-use-mediatr-for-cqrs/)
+- [CQRS & Event Sourcing Code Walk-Through](https://codeopinion.com/cqrs-event-sourcing-code-walk-through/)
 ## 📺 Videos
 - [CQRS is simpler than you think with C#9 and .NET 5!](https://www.eventstore.com/webinars/cqrs-is-simpler-than-you-think)
 - [Is CQRS Complicated? No, it's simple!](https://www.youtube.com/watch?v=LbVpPQaAgVY)

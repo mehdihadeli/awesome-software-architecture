@@ -10,6 +10,7 @@
 - [MongoDB Transactions in .NET Applications](https://exceptionnotfound.net/transactions-in-mongodb-for-net/)
 - [Dealing with Eventual Consistency and Idempotency in MongoDB projections](https://event-driven.io/en/dealing_with_eventual_consistency_and_idempotency_in_mongodb_projections/)
 - [MongoDB Shell or Compass query with a GUID](https://blog.georgekosmidis.net/2021/11/29/mongodb-shell-or-compass-query-with-a-guid/)
+- [Introducing the MongoDB Analyzer for .NET](https://www.mongodb.com/developer/article/introducing-mongodb-analyzer-dotnet/)
 ## 📺 Videos
 - [MongoDB In 30 Minutes](https://www.youtube.com/watch?v=pWbMrx5rVBE)
 - [More Flexibility?! Sharding Gets Even Easier with MongoDB 4.4](https://www.youtube.com/watch?v=wGgMnJQunEc)

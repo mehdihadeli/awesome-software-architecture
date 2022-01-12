@@ -238,6 +238,7 @@ nav:
   - Systems Design: systems-design/systems-design.md
   - Consistent Hashing: systems-design/consistent-hash.md
 - Scaling: scaling.md
+- Back Pressure: back-pressure.md
 - Clean Code: clean-code.md
 - Abstraction: abstraction.md
 - Design Best Practices: 
