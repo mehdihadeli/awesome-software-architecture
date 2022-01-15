@@ -9,6 +9,9 @@
 - [How to deal with back-pressure on message queues with .NET Core](https://www.davidguida.net/how-to-deal-with-back-pressure-on-message-queues-with-net-core/)
 - [Using Channels In C# .NET – Part 3 – Understanding Back Pressure](https://dotnetcoretutorials.com/2020/11/24/using-channels-in-net-core-part-3-understanding-back-pressure/)
 - [Four Strategies to Handle Backpressure - Jay Phelps at ReactiveConf 2019](https://www.infoq.com/news/2019/10/reactiveconf-2019-backpressure/)
+- [Coordination in the distributed systems](https://rafaelldi.blog/posts/coordination-in-the-distributed-systems/)
+- [Choreography](https://rafaelldi.blog/posts/choreography/)
+- [Orchestration](https://rafaelldi.blog/posts/orchestration/)
 
 ## 📺 Videos
 - [Life Beyond Distributed Transactions: An Apostate's Implementation - Jimmy Bogard](https://www.youtube.com/watch?v=AUrKofVRHV4)

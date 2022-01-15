@@ -87,6 +87,7 @@
 - [INT or GUID for your primary key, what your choice ?](https://medium.com/@quocnguyen2501/int-or-guid-for-your-primary-key-what-your-choice-927f40c9dc08)
 - [UUID or GUID as Primary Keys? Be Careful!](https://tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439)
 - [Orchestration vs choreography for microservice workflows](https://www.ben-morris.com/orchestration-vs-choreography-for-microservice-workflows/)
+
 ## 📺 Videos
 
 - [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) 
@@ -149,7 +150,7 @@
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - A Go framework for microservices.
-
+- [GDATASoftwareAG/motornet](https://github.com/GDATASoftwareAG/motornet) - Motor.NET is a microservice framework based on Microsoft.Extensions.Hosting
 ## 🚀 Samples
 
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
@@ -207,6 +208,7 @@
 - [manfredsteyer/yarp-auth-proxy](https://github.com/manfredsteyer/yarp-auth-proxy)
 - [thiagocruzrj/E-Commerce-Microservices](https://github.com/thiagocruzrj/E-Commerce-Microservices) - Creating a distributed e-commerce system with microservice architecture.
 - [Daniel-Krzyczkowski/Cloud-Pharmacy-On-Azure](https://github.com/Daniel-Krzyczkowski/Cloud-Pharmacy-On-Azure) - Cloud Pharmacy is a fake medical company which used Microsoft Azure cloud services to implement the system for patients, physicians, and medicaments store.
+- [malikmasis/TelephoneDirectory](https://github.com/malikmasis/TelephoneDirectory) - microservices-> .net core 3.1 - Docker, Jenkins, Ocelot, RabbitMq, MassTransit, mssql, postgresql, elastic search, serilog, kibana, swagger, jwt
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
 - [Building Microservices: Designing Fine-Grained Systems 1st Edition](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)

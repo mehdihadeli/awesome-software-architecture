@@ -28,6 +28,7 @@
 - [Decoupling Logic with Domain Events - Domain-Driven Design w/ TypeScript](https://khalilstemmler.com/articles/typescript-domain-driven-design/chain-business-logic-domain-events/)
 - [Domain Events in DDD](https://emacsway.github.io/ru/domain-events-in-ddd/)
 - [Practical DDD in Golang: Domain Event](https://levelup.gitconnected.com/practical-ddd-in-golang-domain-event-de02ad492989)
+- [Simple Domain Events with EFCore and MediatR](https://cfrenzel.com/domain-events-efcore-mediatr/)
 
 ## 🚀 Samples
 - [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture/blob/main/src/Clean.Architecture.Infrastructure/Data/AppDbContext.cs)

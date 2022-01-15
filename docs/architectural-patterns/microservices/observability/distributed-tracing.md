@@ -54,7 +54,10 @@
 - [Monitoring a .NET application using OpenTelemetry](https://www.meziantou.net/monitoring-a-dotnet-application-using-opentelemetry.htm)
 - [What is the difference between Logging, Tracing & Profiling?](https://greeeg.com/issues/differences-between-logging-tracing-profiling)
 - [Fullstack app (workshop) with distributed tracing, logging and monitoring](https://dev.to/damikun/fullstack-app-workshop-with-distributed-tracing-and-monitoring-3i45)
-
+- [OpenTelemetry in .NET](https://rafaelldi.blog/posts/open-telemetry-in-dotnet/)
+- [Distributed tracing for messaging application](https://rafaelldi.blog/posts/distributed-tracing-for-messaging-application/)
+- [Distributed application with Project Tye](https://rafaelldi.blog/posts/distributed-application-with-project-tye/)
+- [Tracing for messaging application](https://rafaelldi.blog/posts/tracing-for-messaging-application/)
 ## 📺 Videos
 - [Jimmy Bogard - Distributed Tracing Made Easy with .NET Core and OpenTelemetry](https://www.youtube.com/watch?v=s9UNr1oEMl4)
 - [On .NET Live - Cloud Native Patterns for .NET Developers](https://www.youtube.com/watch?v=PDdHa0ushJ0)
@@ -84,3 +87,4 @@
 - [jbogard/MongoDB.Driver.Core.Extensions.DiagnosticSources](https://github.com/jbogard/MongoDB.Driver.Core.Extensions.DiagnosticSources) - extends the core MongoDB C# driver to expose telemetry information via System.Diagnostics.
 - [jbogard/NServiceBus.Extensions.Diagnostics.OpenTelemetry](https://github.com/jbogard/NServiceBus.Extensions.Diagnostics.OpenTelemetry)
 - [jbogard/MongoDB.Driver.Core.Extensions.DiagnosticSources](https://github.com/jbogard/MongoDB.Driver.Core.Extensions.DiagnosticSources)
+- [open-telemetry/opentelemetry-dotnet-contrib](https://github.com/open-telemetry/opentelemetry-dotnet-contrib) - This repository contains set of components extending functionality of the OpenTelemetry .NET SDK. Instrumentation libraries, exporters, and other components can find their home here.

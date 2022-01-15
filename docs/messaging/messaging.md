@@ -70,6 +70,7 @@
 - [REST vs Messaging for Microservices – Which One is Best?](https://solace.com/blog/experience-awesomeness-event-driven-microservices/)
 - [RPC vs. Messaging – which is faster?](https://particular.net/blog/rpc-vs-messaging-which-is-faster)
 - [Microservices patterns: synchronous vs asynchronous communication](https://greeeg.com/issues/microservices-patterns-synchronous-vs-asynchronous)
+- [Async request processing](https://rafaelldi.blog/posts/async-request-processing/)
 ## 📺 Videos
 
 - [Handling Concurrency with Message-IDs | Event Driven Architecture](https://www.youtube.com/watch?v=wefvl2ohiQc)
@@ -153,6 +154,7 @@
 - [revoframework/Revo](https://github.com/revoframework/Revo) - Event Sourcing, CQRS and DDD framework for C#/.NET Core.
 - [MesutAtasoy/Joker.Packages](https://github.com/MesutAtasoy/Joker.Packages)
 - [oskardudycz/EventSourcing.NetCore/event-pipelines](https://github.com/oskardudycz/EventSourcing.NetCore/tree/samples/event-pipelines/Sample/EventPipelines)
+- [GDATASoftwareAG/motornet](https://github.com/GDATASoftwareAG/motornet) - Motor.NET is a microservice framework based on Microsoft.Extensions.Hosting
 ## 📚 Books
 
 - [Enterprise Integration Patterns](https://amazon.com/o/asin/0321200683/ref=nosim/enterpriseint-20)
