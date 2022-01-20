@@ -6,6 +6,7 @@
 ## 📕 Articles
 - [Use Project Tye to simplify your .NET microservice development experience (part 1)](https://www.daveabrock.com/2020/08/19/microservices-with-tye-1/)
 - [Use Project Tye to simplify your .NET microservice development experience (part 2)](https://www.daveabrock.com/2020/08/27/microservices-with-tye-2/)
+- [Project Tye – easier development with .NET for Kubernetes](https://csharp.christiannagel.com/2020/05/11/tye/)
 - [Introducing Project Tye](https://devblogs.microsoft.com/aspnet/introducing-project-tye/)
 - [Announcing Visual Studio Code extension for Tye](https://devblogs.microsoft.com/dotnet/announcing-visual-studio-code-extension-for-tye/?WT.mc_id=DT-MVP-5002040)
 - [Project Tye: Creating Microservices in a .NET Way](https://www.codemag.com/Article/2010052/Project-Tye-Creating-Microservices-in-a-.NET-Way)

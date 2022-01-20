@@ -1,5 +1,7 @@
 # Istio
 
+## Resources
+- [askmeegs/learn-istio](https://github.com/askmeegs/learn-istio) - Istio resources 🕸
 ## 📺 Videos
 - [Service Mesh: Crash Course on ISTIO (Part I)](https://www.youtube.com/watch?v=-Ib5_4VaWWs)
 

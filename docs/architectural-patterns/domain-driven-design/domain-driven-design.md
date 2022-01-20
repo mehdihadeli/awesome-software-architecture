@@ -160,7 +160,8 @@
 - [andresantarosa/CleanArchitectureExample](https://github.com/andresantarosa/CleanArchitectureExample) - CleanArchitectureExample Project
 - [asc-lab/better-code-with-ddd](https://github.com/asc-lab/better-code-with-ddd) - This repository contains code that accompanies presentation ASC LAB team gave at meetup about “Creating better code with Domain Driven Design”.
 - [wkrzywiec/library-hexagonal](https://github.com/wkrzywiec/library-hexagonal) - An example application written in Hexagonal (Ports and Adapter) architecture
-
+- [zkavtaskin/Domain-Driven-Design-Example](https://github.com/zkavtaskin/Domain-Driven-Design-Example) - Blog series supplementary domain-driven design C# repository that (hopefully) actually makes sense.
+- [hamed-shirbandi/TaskoMask](https://github.com/hamed-shirbandi/TaskoMask)
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [xhafan/coreddd](https://github.com/xhafan/coreddd) - A set of open-source .NET libraries helping with domain-driven design (DDD) and CQRS

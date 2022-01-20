@@ -14,6 +14,7 @@
 - [DDD: guidance on updating multiple properties of entities](https://stackoverflow.com/questions/33698225/ddd-guidance-on-updating-multiple-properties-of-entities)
 - [Don’t Create Aggregate Roots](https://udidahan.com/2009/06/29/dont-create-aggregate-roots/)
 - [Handling concurrency – Aggregate Pattern and EF Core](http://www.kamilgrzybek.com/design/handling-concurrency-aggregate-pattern-and-ef-core/)
+- [Link to an aggregate: reference or Id?](https://enterprisecraftsmanship.com/posts/link-to-an-aggregate-reference-or-id/)
 
 ## 📺 Videos
 

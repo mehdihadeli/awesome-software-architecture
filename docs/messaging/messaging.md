@@ -155,6 +155,7 @@
 - [MesutAtasoy/Joker.Packages](https://github.com/MesutAtasoy/Joker.Packages)
 - [oskardudycz/EventSourcing.NetCore/event-pipelines](https://github.com/oskardudycz/EventSourcing.NetCore/tree/samples/event-pipelines/Sample/EventPipelines)
 - [GDATASoftwareAG/motornet](https://github.com/GDATASoftwareAG/motornet) - Motor.NET is a microservice framework based on Microsoft.Extensions.Hosting
+- [litenova/LiteBus](https://github.com/litenova/LiteBus) - An easy-to-use and ambitious in-process mediator to implement CQS with minimum reflection usage and streamable query support.
 ## 📚 Books
 
 - [Enterprise Integration Patterns](https://amazon.com/o/asin/0321200683/ref=nosim/enterpriseint-20)

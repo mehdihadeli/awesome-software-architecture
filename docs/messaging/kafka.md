@@ -26,6 +26,11 @@
 - [“The Metamorphosis” of communication with Kafka](https://blexin.com/en/blog-en/the-metamorphosis-of-communication-with-kafka/)
 - [Kafka and .NET - Part 1 - What is Kafka?](https://blog.simontimms.com/2021/12/09/2021-12-09-kafka-and-.net/)
 - [Deep dive into Apache Kafka storage internals: segments, rolling and retention](https://strimzi.io/blog/2021/12/17/kafka-segment-retention/)
+- [Decoupling Systems with Apache Kafka, Schema Registry and Avro](https://www.confluent.io/blog/decoupling-systems-with-apache-kafka-schema-registry-and-avro/)
+- [Building Kafka producers and consumers](https://engineering.chrobinson.com/dotnet-avro/guides/kafka/)
+- [Introduction to Schema Registry in Kafka](https://medium.com/slalom-technology/introduction-to-schema-registry-in-kafka-915ccf06b902)
+- [Why Avro for Kafka Data?](https://www.confluent.io/blog/avro-kafka-data/)
+- [Schema Registry Overview](https://docs.confluent.io/platform/current/schema-registry/index.html)
 ## 📺 Videos
 - [Course | Apache Kafka® Fundamentals](https://www.youtube.com/playlist?list=PLa7VYi0yPIH2PelhRHoFR5iQgflg-y6JA)
 - [Apache Kafka® Tutorials | Kafka 101](https://www.youtube.com/playlist?list=PLa7VYi0yPIH0KbnJQcMv5N9iW8HkZHztH)
@@ -36,7 +41,9 @@
 - [Getting Started: Apache Kafka + .NET](https://www.youtube.com/watch?v=n_IQq3pze0s)
 - [Apache Kafka Crash Course](https://www.youtube.com/watch?v=R873BlNVUB4)
 ## 📦 Libraries
+- [confluentinc/confluent-kafka-dotnet/](https://github.com/confluentinc/confluent-kafka-dotnet/) - Confluent's Apache Kafka .NET client
 - [edenhill/kcat](https://github.com/edenhill/kcat) - Generic command line non-JVM Apache Kafka producer and consumer
+- [Confluent.SchemaRegistry](https://www.nuget.org/packages/Confluent.SchemaRegistry/)
 
 ## 🚀 Samples
 - [dcomartin/Kafka.Demo](https://github.com/dcomartin/Kafka.Demo)
