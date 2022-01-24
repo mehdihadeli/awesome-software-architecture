@@ -38,6 +38,7 @@
 - [Notes about C# records and Nullable Reference Types](https://event-driven.io/en/notes_about_csharp_records_and_nullable_reference_types/)
 - [Don’t Create Aggregate Roots](https://udidahan.com/2009/06/29/dont-create-aggregate-roots/)
 - [Practical DDD in Golang: Entity](https://levelup.gitconnected.com/practical-ddd-in-golang-entity-40d32bdad2a3)
+- [Avoid Exposing Collections Directly as Properties](https://ardalis.com/avoid-collections-as-properties/?utm_sq=grcpqjyka3)
 ## 📺 Videos
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU) 
 - [ALWAYS Valid Domain Model](https://www.youtube.com/watch?v=JZetlRXdYeI)

@@ -30,7 +30,7 @@
 ## 🚀 Samples
 
 - [milannankov/EfCoreValueObjects](https://github.com/milannankov/EfCoreValueObjects) - Illustrates support for value object with Entity Framework Core 2.2
-
+- [NimblePros/ValueObjects](https://github.com/NimblePros/ValueObjects) - A collection of Value Object samples for use in DDD projects.
 ## 📦 Libraries
 
 - [Value](https://github.com/tpierrain/Value) - A pico library (or code snippets shed) to help you to easily implement Value Types in your C# projects without making errors nor polluting your domain logic with boiler-plate code.

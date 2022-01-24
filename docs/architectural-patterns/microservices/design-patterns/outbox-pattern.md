@@ -17,3 +17,4 @@
 - [Reliably Save State & Publish Events (Outbox Pattern)](https://www.youtube.com/watch?v=u8fOnxAxKHk)
 - [CAP: Event Bus & Outbox Pattern](https://www.youtube.com/watch?v=dnhPzILvgeo)
 - [Inbox & Outbox pattern - transactional message processing [Microservices .NET]](https://www.youtube.com/watch?v=ebyR5RPKciw)
+- [Outbox meets change data capture (feat. .NET, PostgreSQL, Kafka and Debezium)](https://www.youtube.com/watch?v=WcmLvoxs9ps)
