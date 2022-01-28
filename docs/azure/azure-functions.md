@@ -25,7 +25,8 @@
 - [Exploring Azure [EP 3] - Azure Functions (Part 2)](https://www.youtube.com/watch?v=njJN3MfU218)
 - [Azure FUNCTION Tutorial | Blob Trigger example with C#](https://www.youtube.com/watch?v=zQP9TBGEoDE)
 - [Azure Functions, GitHub Actions and .NET 5 Isolated Processes](https://www.youtube.com/watch?v=ZEV9MSqOsts)
-
+- [DEPENDENCY INJECTION In AZURE FUNCTIONS⚡| Azure Series](https://www.youtube.com/watch?v=m_jrALXcrXc
+- [AZURE FUNCTION ⚡ - Integrate with Azure Queue Storage | Getting Started With ASP.NET Core Series](https://www.youtube.com/watch?v=27OUTVdK2_0)
 ## 🚀 Samples
 - [burkeholland/heroes-api](https://github.com/burkeholland/heroes-api)
 - [ariksman/MoviesAzureFuncApi](https://github.com/ariksman/MoviesAzureFuncApi)

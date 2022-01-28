@@ -32,6 +32,7 @@
 - [Intro to Azure Service Bus - The Power Behind Microservices](https://www.youtube.com/watch?v=v52yC9kq0Yg)
 - [Azure Service Bus - Implementation with Asp.Net Core 5 (Step by Step)](https://www.youtube.com/watch?v=bmZQkMJErZM)
 - [AZURE SERVICE BUS QUEUE - Getting Started | Azure Series](https://www.youtube.com/watch?v=sjgG3Q2GbeA)
+- [AZURE SERVICE BUS TOPICS & SUBSCRIPTIONS- Getting Started | Azure Series](https://www.youtube.com/watch?v=YFKrguSrOAM)
 ## 🚀 Samples
 - [Azure/azure-service-bus](https://github.com/Azure/azure-service-bus/tree/master/samples)
 - [damienbod/AspNetCoreServiceBus](https://github.com/damienbod/AspNetCoreServiceBus)

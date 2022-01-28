@@ -8,3 +8,4 @@
 - [Framework Design Guidelines: Domain Logic Patterns](https://www.informit.com/articles/article.aspx?p=1398617)
 ## 📺 Videos
 - [Reinventing the Transaction Script - Scott Wlaschin](https://www.youtube.com/watch?v=USSkidmaS6w)
+- [Domain Logic: Where does it go?](https://www.youtube.com/watch?v=PrJIMTZsbDw)

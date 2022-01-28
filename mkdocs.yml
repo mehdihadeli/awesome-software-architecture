@@ -1,5 +1,5 @@
 site_name: Awesome Software Architecture
-site_url: https://mehdihadeli.github.io/awesome-software-architecture/
+site_url: http://awesome-architecture.com/
 site_description: Curated list of awesome articles and resources to learn and practice about software architecture, patterns and principles.
 docs_dir: 
 repo_name: mehdihadeli/awesome-software-architecture
@@ -102,18 +102,20 @@ nav:
     - Strategic Design Patterns: architectural-patterns/domain-driven-design/strategic-design-patterns.md
     - Tactical Design Patterns: architectural-patterns/domain-driven-design/tactical-design-patterns.md
     - Value Objects: architectural-patterns/domain-driven-design/value-objects.md
-    - Repository: architectural-patterns/domain-driven-design/repository.md
+    - Event Sourcing: architectural-patterns/domain-driven-design/event-sourcing.md
+    - Domain Stroytelling: architectural-patterns/domain-driven-design/domain-stroytelling.md
+    - Event Modeling: architectural-patterns/domain-driven-design/event-modeling.md
     - ORMs:
-      - Entity Framework: architectural-patterns/domain-driven-design/orm/ef.md
+      - Entity Framework: architectural-patterns/domain-driven-design/orm/ef.md   
   - Enterprise Architecture Patterns: 
     - Enterprise Architecture Patterns :enterprise-architecture-patterns/enterprise-architecture-patterns.md 
     - Transaction Script Pattern :enterprise-architecture-patterns/transaction-script-pattern.md
   - Data Driven Design: architectural-patterns/data-driven-design.md
   - CQRS: architectural-patterns/cqrs.md
-  - Event Sourcing: architectural-patterns/event-sourcing.md
   - Microservices: 
     - Microservices: architectural-patterns/microservices/microservices.md
     - Communication: architectural-patterns/microservices/communication.md
+    - Services Boundries: architectural-patterns/microservices/services-boundries.md
     - Design Patterns:
       - Design Patterns: architectural-patterns/microservices/design-patterns/design-patterns.md
       - Outbox Pattern: architectural-patterns/microservices/design-patterns/outbox-pattern.md
@@ -316,8 +318,6 @@ nav:
   - Relationship: modeling/relationship.md
   - Tools: modeling/tools.md
   - Use Case Diagram: modeling/use-case-diagram.md
-- Event Storming: event-storming.md
-- Event Modeling: event-modeling.md
 - Open Source: open-source.md
 - Architecture Decision Records (ADR): adr.md
 - Others: others.md

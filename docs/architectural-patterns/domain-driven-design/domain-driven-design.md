@@ -9,6 +9,7 @@
 - [ardalis/DDD-NoDuplicates](https://github.com/ardalis/DDD-NoDuplicates)
 - [ardalis/awesome-ddd](https://github.com/ardalis/awesome-ddd)
 - [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd)
+- [ddd-crew/ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process)
 ## 📕 Articles
 - [Design a DDD-oriented microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice) 
 - [PPPDDD.1 – What is Domain Driven Design?](https://herbertograca.com/2016/08/15/pppddd-1-what-is-domain-driven-design/) 
@@ -81,6 +82,10 @@
 - [Domain-Driven Refactoring: Encapsulating Collections](https://jimmybogard.com/domain-driven-refactoring-encapsulating-collections/)
 - [Change Tracking while doing DDD (Revisited)](https://www.ledjonbehluli.com/posts/change_tracking_ddd_revisited/)
 - [How to create better code using Domain-Driven Design](https://altkomsoftware.pl/en/blog/create-better-code-using-domain-driven-design/)
+- [Implementing Domain Driven Design: Part I](https://dev.to/salah856/implementing-domain-driven-design-part-i-5a72)
+- [Implementing Domain Driven Design: Part II](https://dev.to/salah856/implementing-domain-driven-design-part-ii-2i36)
+- [Implementing Domain Driven Design: Part III](https://dev.to/salah856/implementing-domain-driven-design-part-iii-pe8)
+- [Implementing Domain Driven Design: Part IV](https://dev.to/salah856/implementing-domain-driven-design-part-iv-29m2)
 ## 📺 Videos
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU)

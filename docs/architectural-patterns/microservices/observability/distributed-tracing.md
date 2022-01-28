@@ -78,6 +78,8 @@
 - [open-telemetry/opentelemetry-dotnet/examples](https://github.com/open-telemetry/opentelemetry-dotnet/tree/main/examples)
 - [damikun/trouble-training](https://github.com/damikun/trouble-training) - FullStack app workshop with distributed tracing and monitoring. This shows the configuration from React frontend to .NetCore backend.
 - [andreatosato/Photobook](https://github.com/andreatosato/Photobook)
+- [rafaelldi/open-telemetry-in-dotnet](https://github.com/rafaelldi/open-telemetry-in-dotnet) - Sample project for the article about OpenTelemetry in .NET
+- [rafaelldi/distributed-tracing-for-messaging](https://github.com/rafaelldi/distributed-tracing-for-messaging) - Sample project for the article about distributed tracing in messaging application
 ## 📦 Libraries
 - [SkyAPM/SkyAPM-dotnet](https://github.com/SkyAPM/SkyAPM-dotnet) - The .NET/.NET Core instrument agent for Apache SkyWalking
 - [opentracing-contrib/csharp-netcore](https://github.com/opentracing-contrib/csharp-netcore) - OpenTracing instrumentation for .NET Core & .NET 5 apps

@@ -88,6 +88,7 @@
 - [UUID or GUID as Primary Keys? Be Careful!](https://tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439)
 - [Orchestration vs choreography for microservice workflows](https://www.ben-morris.com/orchestration-vs-choreography-for-microservice-workflows/)
 - [Generating unique IDs in a distributed environment at high scale.](https://www.callicoder.com/distributed-unique-id-sequence-number-generator/)
+- [SCALABLE MICROSERVICES ARCHITECTURE WITH .NET MADE EASY – A TUTORIAL](https://www.endava.com/en/blog/Engineering/2022/Scalable-Microservices-Architecture-with-NET-Made-Easy-a-Tutorial)
 ## 📺 Videos
 
 - [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) 
@@ -125,7 +126,7 @@
 - [Building FeedR - Pricing Feed, Background Service, Channels (Microservices with .NET 6.0) episode #4](https://www.youtube.com/watch?v=87raSebE80M)
 - [Building FeedR - Redis Pub/Sub + IAsyncEnumerable streaming (Microservices with .NET 6.0) episode #5](https://www.youtube.com/watch?v=80Ke9hsG_RU)
 - [Building FeedR - gRPC streaming services & clients (Microservices with .NET 6.0) episode #6](https://www.youtube.com/watch?v=H6jew1qxQfQ)
-
+- [Building FeedR - resilient HTTP communication (Microservices with .NET 6.0) episode #7](https://www.youtube.com/watch?v=ujtuJ6kQ0Hw)
 ## 📦 Libraries
 
 - [dotnet/tye](https://github.com/dotnet/tye) - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
@@ -210,6 +211,7 @@
 - [thiagocruzrj/E-Commerce-Microservices](https://github.com/thiagocruzrj/E-Commerce-Microservices) - Creating a distributed e-commerce system with microservice architecture.
 - [Daniel-Krzyczkowski/Cloud-Pharmacy-On-Azure](https://github.com/Daniel-Krzyczkowski/Cloud-Pharmacy-On-Azure) - Cloud Pharmacy is a fake medical company which used Microsoft Azure cloud services to implement the system for patients, physicians, and medicaments store.
 - [malikmasis/TelephoneDirectory](https://github.com/malikmasis/TelephoneDirectory) - microservices-> .net core 3.1 - Docker, Jenkins, Ocelot, RabbitMq, MassTransit, mssql, postgresql, elastic search, serilog, kibana, swagger, jwt
+- [devmentors/Inflow-micro](https://github.com/devmentors/Inflow-micro)
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
 - [Building Microservices: Designing Fine-Grained Systems 1st Edition](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
