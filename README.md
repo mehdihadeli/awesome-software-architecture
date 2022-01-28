@@ -13,7 +13,7 @@
 Hi! My name is [Mehdi Hadeli](https://github.com/mehdihadeli). I created this repository to share a set of links that I found valuable and inspiring. I hope that you'll like it!
 
 **🚀 This awesome list is available in this link:**
-**[https://awesome-architecture.com](https://awesome-architecture.com)**
+**[https://mehdihadeli.github.io/awesome-software-architecture](https://mehdihadeli.github.io/awesome-software-architecture/)**
 
 <a href="https://mehdihadeli.github.io/awesome-software-architecture"> ![home page](assets/home.png) </a>
 
