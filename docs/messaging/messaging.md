@@ -1,5 +1,5 @@
 
-# Messaging Patterns
+# Messaging 
 
 ## 📘 Resources
 

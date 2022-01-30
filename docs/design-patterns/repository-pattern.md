@@ -25,6 +25,7 @@
 - [Repository pattern or DbContext - what's your poison?](https://www.reddit.com/r/dotnet/comments/rc2lzj/repository_pattern_or_dbcontext_whats_your_poison/)
 - [Repository Pattern C#](https://codewithshadman.com/repository-pattern-csharp/)
 - [Repository and Unit of Work Pattern](https://www.programmingwithwolfgang.com/repository-and-unit-of-work-pattern/)
+- [Should you use the Repository Pattern? With CQRS, Yes and No!](https://codeopinion.com/should-you-use-the-repository-pattern-with-cqrs-yes-and-no/)
 ## 📺 Videos
 - [Repository Pattern with C# and Entity Framework - Mosh Hamedani](https://www.youtube.com/watch?v=rtXpYpZdOzM)
 - [Step by Step - Repository Pattern and Unit of Work with Asp.Net Core 5](https://www.youtube.com/watch?v=-jcf1Qq8A-4)

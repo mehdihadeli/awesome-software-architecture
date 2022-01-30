@@ -66,6 +66,7 @@
 - [CQRS is simpler than you think with .NET 6 and C# 10](https://event-driven.io/en/cqrs_is_simpler_than_you_think_with_net6/)
 - [Why I don't use MediatR for CQRS](https://cezarypiatek.github.io/post/why-i-dont-use-mediatr-for-cqrs/)
 - [CQRS & Event Sourcing Code Walk-Through](https://codeopinion.com/cqrs-event-sourcing-code-walk-through/)
+- [Should you use the Repository Pattern? With CQRS, Yes and No!](https://codeopinion.com/should-you-use-the-repository-pattern-with-cqrs-yes-and-no/)
 ## 📺 Videos
 - [CQRS is simpler than you think with C#9 and .NET 5!](https://www.eventstore.com/webinars/cqrs-is-simpler-than-you-think)
 - [Is CQRS Complicated? No, it's simple!](https://www.youtube.com/watch?v=LbVpPQaAgVY)

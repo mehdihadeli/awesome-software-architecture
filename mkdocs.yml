@@ -257,8 +257,9 @@ nav:
   - God Object: anti-patterns/god-object.md
   - Static Cling: anti-patterns/static-cling.md
 - Eventual Consistency: eventual-consistency.md
-- Messaging Patterns:
-  - Messaging Patterns: messaging/messaging.md
+- Messaging:
+  - Messaging: messaging/messaging.md
+  - Documentation: messaging/documentation.md
   - Kafka: messaging/kafka.md
   - RabbitMQ: messaging/rabbitmq.md
   - Azure Service Bus: azure/azure-service-bus.md
