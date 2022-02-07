@@ -58,6 +58,7 @@
 - [Distributed tracing for messaging application](https://rafaelldi.blog/posts/distributed-tracing-for-messaging-application/)
 - [Distributed application with Project Tye](https://rafaelldi.blog/posts/distributed-application-with-project-tye/)
 - [Tracing for messaging application](https://rafaelldi.blog/posts/tracing-for-messaging-application/)
+- [Optimally Configuring Open Telemetry Tracing for ASP.NET Core](https://rehansaeed.com/optimally-configuring-open-telemetry-tracing-for-asp-net-core/)
 ## 📺 Videos
 - [Jimmy Bogard - Distributed Tracing Made Easy with .NET Core and OpenTelemetry](https://www.youtube.com/watch?v=s9UNr1oEMl4)
 - [On .NET Live - Cloud Native Patterns for .NET Developers](https://www.youtube.com/watch?v=PDdHa0ushJ0)

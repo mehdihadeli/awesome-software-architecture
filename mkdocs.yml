@@ -128,7 +128,8 @@ nav:
       - Metrics: architectural-patterns/microservices/observability/metrics.md   
     - Resiliency:
       - Resiliency: architectural-patterns/microservices/resiliency/resiliency.md        
-      - High Availibility: architectural-patterns/microservices/resiliency/high-availibility.md      
+      - High Availibility: architectural-patterns/microservices/resiliency/high-availibility.md   
+      - Idempotency: architectural-patterns/microservices/resiliency/idempotency.md      
     - Scaling: architectural-patterns/microservices/scaling.md
     - Testing: architectural-patterns/microservices/testing.md
     - Tools: 

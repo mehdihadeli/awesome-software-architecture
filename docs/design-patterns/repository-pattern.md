@@ -45,3 +45,4 @@
 - [brunohbrito/MongoDB-RepositoryUoWPatterns](https://github.com/brunohbrito/MongoDB-RepositoryUoWPatterns) - Example of an implementation of Repository and Unit of Work Patterns with MongoDB for ASP.NET Core.
 - [TanvirArjel/EFCore.GenericRepository](https://github.com/TanvirArjel/EFCore.GenericRepository) - This repository contains Generic Repository implementation for Entity Framework Core
 - [Daniel127/EF-Unit-Of-Work](https://github.com/Daniel127/EF-Unit-Of-Work) - Repository and Unit of Work pattern implementation for Entity Framework Core.
+- [SharpRepository/SharpRepository](https://github.com/SharpRepository/SharpRepository) - C# Generic Repository for use with Entity Framework, RavenDB and more with built-in caching options.

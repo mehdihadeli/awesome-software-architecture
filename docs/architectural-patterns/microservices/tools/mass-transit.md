@@ -7,10 +7,16 @@
 - [MassTransit–Use record types for your message contracts](https://bartwullems.blogspot.com/2021/06/masstransituse-record-types-for-your.html)
 - [MassTransit 6–Serilog integration](https://bartwullems.blogspot.com/2020/01/masstransit-6serilog-integration.html)
 - [MassTransit–How to test consumers with dependencies](https://bartwullems.blogspot.com/2021/02/masstransithow-to-test-consumers-with.html)
-
+- [MassTransit Send vs. Publish](https://www.maldworth.com/2015/10/27/masstransit-send-vs-publish/)
+- [Message Topology](https://masstransit-project.com/advanced/topology/message.html)
+- [RabbitMQ](https://masstransit-project.com/advanced/topology/rabbitmq.html)
 ## 📺 Videos
 - [MassTransit–Youtube videos](https://bartwullems.blogspot.com/2020/07/masstransityoutube-videos.html)
 - [Modern .NET Messaging using MassTransit](https://www.youtube.com/watch?v=jQNQDLv7QmU)
+- [.NET Microservices Basics Course](https://youtu.be/ByYyk8eMG6c?t=18839)
+- [MassTransit Commute - Configure Endpoints](https://www.youtube.com/watch?v=bsUlQ93j2MY)
+- [RabbitMQ MassTransit - ASP NET Core](https://www.youtube.com/watch?v=sOwkIz07gvo)
+- [MassTransit and RabbitMQ - Playlist - Garry Taylor](https://www.youtube.com/playlist?list=PL8vZpHuqa_hOP8f1AT5r8FSP1fKm9ALZO)
 ## 📦 Libraries
 - [GokGokalp/MetroBus](https://github.com/GokGokalp/MetroBus) - Lightweight messaging wrapper of MassTransit
 - [NCodeGroup/MassTransit.Extensions.Hosting](https://github.com/NCodeGroup/MassTransit.Extensions.Hosting) - MassTransit configuration extensions using Microsoft.Extensions.Hosting.IHostedService and Microsoft.Extensions.DependencyInjection.
@@ -24,3 +30,4 @@
 - [VasilisGaitanidis/master-containerized-microservices](https://github.com/VasilisGaitanidis/master-containerized-microservices) - This repo contains a sample application based on a fictional eCommerce. The primary goal of this sample is to demonstrate several software-architecture concepts like: Clean Architecture, Microservices, CQRS, Event Sourcing, Publish-Subscribe Architecture, Domain Driven Design (DDD). Currently this is a work in progress.
 - [twzhangyang/RestAirline](https://github.com/twzhangyang/RestAirline) - DDD+CQRS+EventSourcing+Hypermedia API+ASP.NET Core 3.1+Masstransit+terraform+docker+k8s
 - [matjazbravc/Microservice.Architecture.Demo](https://github.com/matjazbravc/Microservice.Architecture.Demo) - This demo shows a working sample of microservices architecture using ASP.NET Core. It covers how to create microservices, how to create API gateways using Ocelot, how to use MassTransit as distributed application framework, RabbitMQ as message broker, how to unit test microservices using xUnit, how to monitor microservices using health checks
+- [maldworth/tutorial-masstransit-send-vs-publish](https://github.com/maldworth/tutorial-masstransit-send-vs-publish) - [http://www.maldworth.com/2015/10/27/masstransit-send-vs-publish/](http://www.maldworth.com/2015/10/27/masstransit-send-vs-publish/)

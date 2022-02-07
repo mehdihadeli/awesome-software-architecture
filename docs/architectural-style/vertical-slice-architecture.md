@@ -77,6 +77,8 @@
 - [NikiforovAll/minimal-api-example](https://github.com/NikiforovAll/minimal-api-example) - Original blog post: https://nikiforovall.github.io/dotnet/aspnetcore/2021/09/10/opinionated-minimal-api.html
 - [dj-nitehawk/MiniDevTo](https://github.com/dj-nitehawk/MiniDevTo) - The source code of the Dev.To article [Building REST APIs In .Net 6 The Easy Way!](https://dev.to/djnitehawk/building-rest-apis-in-net-6-the-easy-way-3h0d)
 - [pdevito3/craftsman](https://github.com/pdevito3/craftsman) - A .NET 6 scaffolding tool to help you stop worrying about boilerplate and focus on your business logic
+- [oskardudycz/EventSourcing.NetCore/Sample/ECommerce](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/ECommerce)
+- [oskardudycz/EventSourcing.NetCore/MeetingsManagement](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/MeetingsManagement)
 ## 📚 Books
 
 - [An Atypical ASP.NET Core 5 Design Patterns Guide](https://www.packtpub.com/product/an-atypical-asp-net-core-5-design-patterns-guide/9781789346091)

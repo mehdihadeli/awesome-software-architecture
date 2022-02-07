@@ -6,6 +6,7 @@
 - [Apache Kafka GitHub](https://github.com/apache/kafka)
 
 ## 📕 Articles
+- [INTRODUCTION - Everything you need to know about Kafka in 10 minutes](https://kafka.apache.org/intro)
 - [Introduction to Kafka](https://docs.confluent.io/platform/current/kafka/introduction.html)
 - [Apache Kafka 101](https://developer.confluent.io/learn-kafka/apache-kafka/events/)
 - [Kafka in a Nutshell](https://sookocheff.com/post/kafka/kafka-in-a-nutshell/)
@@ -32,6 +33,8 @@
 - [Why Avro for Kafka Data?](https://www.confluent.io/blog/avro-kafka-data/)
 - [Schema Registry Overview](https://docs.confluent.io/platform/current/schema-registry/index.html)
 - [Hands-on Kafka Streams in Scala](https://softwaremill.com/hands-on-kafka-streams-in-scala/)
+- [Using Apache Kafka for Real-Time Event Processing at New Relic](https://newrelic.com/blog/how-to-relic/apache-kafka-event-processing)
+- [Effective Strategies for Kafka Topic Partitioning](https://newrelic.com/blog/best-practices/effective-strategies-kafka-topic-partitioning)
 ## 📺 Videos
 - [Course | Apache Kafka® Fundamentals](https://www.youtube.com/playlist?list=PLa7VYi0yPIH2PelhRHoFR5iQgflg-y6JA)
 - [Apache Kafka® Tutorials | Kafka 101](https://www.youtube.com/playlist?list=PLa7VYi0yPIH0KbnJQcMv5N9iW8HkZHztH)
