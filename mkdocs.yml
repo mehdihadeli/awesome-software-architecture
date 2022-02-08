@@ -281,6 +281,8 @@ nav:
   - Postgresql: nosql/postgresql.md
   - Sharding:(nosql/sharding.md)
   - NoSQL: nosql/NoSQL.md
+- Relational Database:
+  - Postgresql: relational/postgres.md
 - Azure Application Architecture:
   - Azure Application Architecture: azure/azure-application-architecture.md
   - Azure API Management: azure/azure-api-management.md
