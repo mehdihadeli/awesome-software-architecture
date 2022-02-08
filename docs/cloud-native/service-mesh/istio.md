@@ -2,6 +2,7 @@
 
 ## Resources
 - [askmeegs/learn-istio](https://github.com/askmeegs/learn-istio) - Istio resources 🕸
+- [Learn Istio Fundamentals](https://academy.tetrate.io/courses/istio-fundamentals)
 ## 📺 Videos
 - [Service Mesh: Crash Course on ISTIO (Part I)](https://www.youtube.com/watch?v=-Ib5_4VaWWs)
 

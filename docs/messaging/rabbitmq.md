@@ -2,6 +2,15 @@
 
 ## 📕 Articles
 - [RabbitMQ Introduction](https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html)
+- [AMQP 0-9-1 Model Explained](https://www.rabbitmq.com/tutorials/amqp-concepts.html)
+- [RabbitMQ URI Specification](https://www.rabbitmq.com/uri-spec.html)
+- [Compatibility and Conformance - Classes from the AMQP specification](https://www.rabbitmq.com/specification.html)
+- [AMQP 0-9-1 Complete Reference Guide](https://www.rabbitmq.com/amqp-0-9-1-reference.html)
+- [Management Plugin](https://www.rabbitmq.com/management.html)
+- [Management Command Line Tool](https://www.rabbitmq.com/management-cli.html)
+- [RabbitMQ HTTP API](https://www.rabbitmq.com/management.html#http-api)
+- [RabbitMQ HTTP API reference](https://rawcdn.githack.com/rabbitmq/rabbitmq-server/v3.9.13/deps/rabbitmq_management/priv/www/api/index.html)
+- [.NET/C# Client API Guide](https://www.rabbitmq.com/dotnet-api-guide.html)
 - [RabitMQ Work Queues(using the .NET Client)](https://www.rabbitmq.com/tutorials/tutorial-two-dotnet.html)
 - [RabbitMQ Publish/Subscribe](https://www.rabbitmq.com/tutorials/tutorial-three-dotnet.html)
 - [RabbitMQ Routing](https://www.rabbitmq.com/tutorials/tutorial-four-dotnet.html)

@@ -4,6 +4,7 @@
 - [Apache Kafka Official Website](https://kafka.apache.org/)
 - [Apache Kafka Documentation](https://kafka.apache.org/documentation/)
 - [Apache Kafka GitHub](https://github.com/apache/kafka)
+- [gentlydownthe WebSite](https://www.gentlydownthe.stream/)
 
 ## 📕 Articles
 - [INTRODUCTION - Everything you need to know about Kafka in 10 minutes](https://kafka.apache.org/intro)
@@ -44,6 +45,12 @@
 - [Building Streaming Microservices with Apache Kafka - Tim Berglund](https://www.youtube.com/watch?v=mad84vBHYlY)
 - [Getting Started: Apache Kafka + .NET](https://www.youtube.com/watch?v=n_IQq3pze0s)
 - [Apache Kafka Crash Course](https://www.youtube.com/watch?v=R873BlNVUB4)
+- [Data Streaming for Microservices using Debezium (Gunnar Morling)](https://www.youtube.com/watch?v=NawsloOoFo0)
+- [Kafka Connect in Action: Elasticsearch](https://www.youtube.com/watch?v=Cq-2eGxOCc8)
+- [Exploring the Kafka Connect REST API](https://www.youtube.com/watch?v=1EenWEm-5dg)
+- [Learn Apache Kafka with Conduktor - Playlist - Conduktor](https://www.youtube.com/playlist?list=PLYmXYyXCMsfMMhiKPw4k1FF7KWxOEajsA)
+- [Kafka as a Platform: The Ecosystem from the Ground Up • Robin Moffatt • GOTO 2020](https://www.youtube.com/watch?v=qjTZ4UeJdoI)
+- [Kafka Connect - Playlist - Robin Moffatt](https://www.youtube.com/playlist?list=PL5T99fPsK7ppB_AbZhBhTyKHtHWZLWIJ8)
 ## 📦 Libraries
 - [confluentinc/confluent-kafka-dotnet/](https://github.com/confluentinc/confluent-kafka-dotnet/) - Confluent's Apache Kafka .NET client
 - [edenhill/kcat](https://github.com/edenhill/kcat) - Generic command line non-JVM Apache Kafka producer and consumer

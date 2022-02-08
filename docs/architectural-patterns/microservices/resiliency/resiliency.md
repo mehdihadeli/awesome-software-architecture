@@ -40,3 +40,4 @@
 - [The Circuit Breaker Pattern | Resilient Microservices](https://www.youtube.com/watch?v=5_Bt_OEg0no)
 - [Bulkhead Pattern - Fault Tolerant Microservices](https://www.youtube.com/watch?v=R2FT5edyKOg)
 - [Circuit Breaker Pattern - Fault Tolerant Microservices](https://www.youtube.com/watch?v=ADHcBxEXvFA)
+- [Fault Handling with Polly and .NET 6](https://www.youtube.com/watch?v=DSMdUvL8N30)

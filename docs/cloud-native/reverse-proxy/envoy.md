@@ -1,5 +1,8 @@
 # Envoy
 
+## Resources
+- [Learn Envoy Fundamentals](https://academy.tetrate.io/courses/envoy-fundamentals)
+
 ## 📺 Videos
 - [Build an API Gateway with Envoy and use with .NET Core APIs](https://www.youtube.com/watch?v=UsoH5cqE1OA)
 - [Microservices NET 6.0 | Gateway Envoy | Docker Compose | Visual Studio 2022](https://www.youtube.com/watch?v=-6FPkXrkPnU)
