@@ -71,6 +71,10 @@
 - [RPC vs. Messaging – which is faster?](https://particular.net/blog/rpc-vs-messaging-which-is-faster)
 - [Microservices patterns: synchronous vs asynchronous communication](https://greeeg.com/issues/microservices-patterns-synchronous-vs-asynchronous)
 - [Async request processing](https://rafaelldi.blog/posts/async-request-processing/)
+- [Event Feeds: Simple and reliable messaging infrastructure](https://www.erikheemskerk.nl/event-feeds/)
+- [What's the difference between a command and an event?](https://event-driven.io/en/whats_the_difference_between_event_and_command/)
+- [Events should be as small as possible, right?](https://event-driven.io/en/events_should_be_as_small_as_possible/)
+
 ## 📺 Videos
 
 - [Handling Concurrency with Message-IDs | Event Driven Architecture](https://www.youtube.com/watch?v=wefvl2ohiQc)
@@ -156,6 +160,8 @@
 - [oskardudycz/EventSourcing.NetCore/event-pipelines](https://github.com/oskardudycz/EventSourcing.NetCore/tree/samples/event-pipelines/Sample/EventPipelines)
 - [GDATASoftwareAG/motornet](https://github.com/GDATASoftwareAG/motornet) - Motor.NET is a microservice framework based on Microsoft.Extensions.Hosting
 - [litenova/LiteBus](https://github.com/litenova/LiteBus) - An easy-to-use and ambitious in-process mediator to implement CQS with minimum reflection usage and streamable query support.
+- [NHadi/Dermayon](https://github.com/NHadi/Dermayon) - Dermayon is Library for supporting build large application,distributed application, scalable, microservices, cqrs, event sourcing, including generic ef repository pattern with unit of work, generic mongo repository pattern with unit of work, kafka, etc
+
 ## 📚 Books
 
 - [Enterprise Integration Patterns](https://amazon.com/o/asin/0321200683/ref=nosim/enterpriseint-20)

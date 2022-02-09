@@ -12,7 +12,7 @@
 - [Coordination in the distributed systems](https://rafaelldi.blog/posts/coordination-in-the-distributed-systems/)
 - [Choreography](https://rafaelldi.blog/posts/choreography/)
 - [Orchestration](https://rafaelldi.blog/posts/orchestration/)
-
+- [Saga and Process Manager - distributed processes in practice](https://event-driven.io/en/saga_process_manager_distributed_transactions/)
 ## 📺 Videos
 - [Life Beyond Distributed Transactions: An Apostate's Implementation - Jimmy Bogard](https://www.youtube.com/watch?v=AUrKofVRHV4)
 - [Fixing Distributed Systems Fail with Jimmy Bogard](https://www.youtube.com/watch?v=p0M1rrmfrWg)

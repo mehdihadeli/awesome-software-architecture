@@ -129,7 +129,10 @@
 - [Building FeedR - gRPC streaming services & clients (Microservices with .NET 6.0) episode #6](https://www.youtube.com/watch?v=H6jew1qxQfQ)
 - [Building FeedR - resilient HTTP communication (Microservices with .NET 6.0) episode #7](https://www.youtube.com/watch?v=ujtuJ6kQ0Hw)
 - [Building FeedR - Message Broker template (Microservices with .NET 6.0) episode #8](https://www.youtube.com/watch?v=b_BBPrc2mYQ)
+- [Building FeedR - Apache Pulsar integration (Microservices with .NET 6.0) episode #9](https://www.youtube.com/watch?v=WB72UGqTDoY)
 - [.NET Microservices Basics Course](https://www.youtube.com/watch?v=ByYyk8eMG6c)
+- [Building Event-Driven Microservices with Event Sourcing and CQRS - Lidan Hifi](https://www.youtube.com/watch?v=XWTrcBqXi6s)
+
 ## 📦 Libraries
 
 - [dotnet/tye](https://github.com/dotnet/tye) - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
@@ -156,6 +159,8 @@
 - [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - A Go framework for microservices.
 - [GDATASoftwareAG/motornet](https://github.com/GDATASoftwareAG/motornet) - Motor.NET is a microservice framework based on Microsoft.Extensions.Hosting
+- [NHadi/Dermayon](https://github.com/NHadi/Dermayon) - Dermayon is Library for supporting build large application,distributed application, scalable, microservices, cqrs, event sourcing, including generic ef repository pattern with unit of work, generic mongo repository pattern with unit of work, kafka, etc
+
 ## 🚀 Samples
 
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
@@ -215,6 +220,8 @@
 - [Daniel-Krzyczkowski/Cloud-Pharmacy-On-Azure](https://github.com/Daniel-Krzyczkowski/Cloud-Pharmacy-On-Azure) - Cloud Pharmacy is a fake medical company which used Microsoft Azure cloud services to implement the system for patients, physicians, and medicaments store.
 - [malikmasis/TelephoneDirectory](https://github.com/malikmasis/TelephoneDirectory) - microservices-> .net core 3.1 - Docker, Jenkins, Ocelot, RabbitMq, MassTransit, mssql, postgresql, elastic search, serilog, kibana, swagger, jwt
 - [devmentors/Inflow-micro](https://github.com/devmentors/Inflow-micro)
+- [anhkhoadx/Microservices](https://github.com/anhkhoadx/Microservices)
+- [NHadi/Pos](https://github.com/NHadi/Pos) - Sample Application DDD, Reactive Microservices, CQRS Event Sourcing Powered by DERMAYON LIBRARY
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
 - [Building Microservices: Designing Fine-Grained Systems 1st Edition](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)

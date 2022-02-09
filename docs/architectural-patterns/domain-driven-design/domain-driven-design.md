@@ -167,6 +167,7 @@
 - [wkrzywiec/library-hexagonal](https://github.com/wkrzywiec/library-hexagonal) - An example application written in Hexagonal (Ports and Adapter) architecture
 - [zkavtaskin/Domain-Driven-Design-Example](https://github.com/zkavtaskin/Domain-Driven-Design-Example) - Blog series supplementary domain-driven design C# repository that (hopefully) actually makes sense.
 - [hamed-shirbandi/TaskoMask](https://github.com/hamed-shirbandi/TaskoMask)
+- [NHadi/Pos](https://github.com/NHadi/Pos) - Sample Application DDD, Reactive Microservices, CQRS Event Sourcing Powered by DERMAYON LIBRARY
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [xhafan/coreddd](https://github.com/xhafan/coreddd) - A set of open-source .NET libraries helping with domain-driven design (DDD) and CQRS

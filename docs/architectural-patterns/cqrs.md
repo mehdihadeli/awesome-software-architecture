@@ -68,6 +68,10 @@
 - [CQRS & Event Sourcing Code Walk-Through](https://codeopinion.com/cqrs-event-sourcing-code-walk-through/)
 - [Should you use the Repository Pattern? With CQRS, Yes and No!](https://codeopinion.com/should-you-use-the-repository-pattern-with-cqrs-yes-and-no/)
 - [3 CQRS Architectures that Every Software Architect Should Know](https://levelup.gitconnected.com/3-cqrs-architectures-that-every-software-architect-should-know-a7f69aae8b6c)
+- [CQRS(Command-Query Responsibility Segregation)](https://www.eventstore.com/cqrs-pattern)
+- [What's the difference between a command and an event?](https://event-driven.io/en/whats_the_difference_between_event_and_command/)
+- [Can command return a value?](https://event-driven.io/en/can_command_return_a_value/)
+
 ## 📺 Videos
 - [CQRS is simpler than you think with C#9 and .NET 5!](https://www.eventstore.com/webinars/cqrs-is-simpler-than-you-think)
 - [Is CQRS Complicated? No, it's simple!](https://www.youtube.com/watch?v=LbVpPQaAgVY)
