@@ -123,3 +123,4 @@
 - [DarekModzelewski/Contoso-University-DDD](https://github.com/DarekModzelewski/Contoso-University-DDD)
 - [dimatrubca/book-exchange-app](https://github.com/dimatrubca/book-exchange-app) - BookExchangeApp is a fully functioning application that allows users to exchange books, earn and buy points, and receive recomendations based on the rated books
 - [devmentors/PackIT](https://github.com/devmentors/PackIT) - PackIT is simple "packing list app" built on top of clean architecture and CQRS.
+- [Grauenwolf/PackIT](https://github.com/Grauenwolf/PackIT)

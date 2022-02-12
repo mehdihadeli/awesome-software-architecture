@@ -123,9 +123,8 @@
 - [TanvirArjel/CleanArchitecture](https://github.com/TanvirArjel/CleanArchitecture) - This repository contains the implementation of domain-driven design and clear architecture in ASP.NET Core.
 - [andresantarosa/CleanArchitectureExample](https://github.com/andresantarosa/CleanArchitectureExample) - CleanArchitectureExample Project
 - [referbruv/ContainerNinja.CleanArchitecture](https://github.com/referbruv/ContainerNinja.CleanArchitecture) - ContainerNinja is a boilerplate template project to demonstrate building a multi-container Full Stack application with ASP.NET Core (.NET 6) Web API following Clean Architecture, and Angular.
+- [Grauenwolf/CleanArchitecture](https://github.com/Grauenwolf/CleanArchitecture) - Clean Architecture Solution Template for .NET 6
+
 ## 📚 Books
 - [Get Your Hands Dirty on Clean Architecture](https://www.packtpub.com/product/get-your-hands-dirty-on-clean-architecture/9781839211966)
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

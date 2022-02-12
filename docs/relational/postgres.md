@@ -12,3 +12,6 @@
 - [Unlocking the Full Potential Of PostgreSQL® JSON](https://www.instaclustr.com/blog/postgresql-json/)
 ## Libraries
 - [JasperFx/marten](https://github.com/JasperFx/marten) - .NET Transactional Document DB and Event Store on PostgreSQL
+- [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it's 2021
+- [atrauzzi/protoculture-dotnet-postgres](https://github.com/atrauzzi/protoculture-dotnet-postgres) - Embedded-style PostgreSQL for .NET Applications
+- [jbogard/Respawn](https://github.com/jbogard/Respawn) - Intelligent database cleaner for integration tests

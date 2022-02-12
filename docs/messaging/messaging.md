@@ -3,8 +3,9 @@
 
 ## 📘 Resources
 
-- [Messaging](https://www.youtube.com/playlist?list=PLThyvG1mlMzm2FyVpKDiU2c7VtrB2Zezg)
+- [Messaging Playlist - CodeOpinion](https://www.youtube.com/playlist?list=PLThyvG1mlMzm2FyVpKDiU2c7VtrB2Zezg)
 - [DDD and Messaging Architectures](https://verraes.net/2019/05/ddd-msg-arch/)
+- [Martin Kleppmann Yotube](https://www.youtube.com/channel/UClB4KPy5LkJj1t3SgYVtMOQ/videos)
 
 ## 📕 Articles
 
@@ -162,8 +163,10 @@
 - [litenova/LiteBus](https://github.com/litenova/LiteBus) - An easy-to-use and ambitious in-process mediator to implement CQS with minimum reflection usage and streamable query support.
 - [NHadi/Dermayon](https://github.com/NHadi/Dermayon) - Dermayon is Library for supporting build large application,distributed application, scalable, microservices, cqrs, event sourcing, including generic ef repository pattern with unit of work, generic mongo repository pattern with unit of work, kafka, etc
 
-## 📚 Books
+## Samples
+- [devmentors/Messaging-In-Distributed-Systems](https://github.com/devmentors/Messaging-In-Distributed-Systems) - Code for all the messaging-related concepts/patterns described on YouTube during "Messaging in Distributed Systems" series.
 
+## 📚 Books
 - [Enterprise Integration Patterns](https://amazon.com/o/asin/0321200683/ref=nosim/enterpriseint-20)
 
 <div align="right">

@@ -91,6 +91,10 @@
 - [Integrating Marten with other systems](https://event-driven.io/en/integrating_Marten/)
 - [Using strongly-typed identifiers with Marten](https://event-driven.io/en/using_strongly_typed_ids_with_marten/)
 - [A simple trick for idempotency handling in the Elastic Search read model](https://event-driven.io/en/simple_trick_for_idempotency_handling_in_elastic_search_readm_model/)
+- [Getting Started with CQRS – Part 1](https://www.red-gate.com/simple-talk/development/dotnet-development/getting-started-with-cqrs-part-1/)
+- [Getting Started with CQRS – Part 2](https://www.red-gate.com/simple-talk/development/dotnet-development/getting-started-with-cqrs-part-2/)
+- [Getting Started with CQRS – Part 3](https://www.red-gate.com/simple-talk/development/dotnet-development/getting-started-with-cqrs-part-3/)
+
 ## 📺 Videos
 
 - [Event Sourcing Example & Explained in plain English](https://www.youtube.com/watch?v=AUj4M-st3ic)

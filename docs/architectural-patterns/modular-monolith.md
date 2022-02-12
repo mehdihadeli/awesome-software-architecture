@@ -30,6 +30,7 @@
 - [Long live the Monolith! Monolithic Architecture != Big Ball of Mud](https://codeopinion.com/long-live-the-monolith-monolithic-architecture-big-ball-of-mud/)
 - [Scaling a Monolith Horizontally](https://codeopinion.com/scaling-a-monolith-horizontally/)
 - [Good and Bad Monolith](https://blog.ttulka.com/good-and-bad-monolith)
+- [How to quickly scale a legacy monolith?](https://event-driven.io/en/how_to_quickly_scale_a_legacy_monolith/)
 ## 📺 Videos
 - [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE)
 - [Modular monoliths (Simon Brown) - 2016](https://www.youtube.com/watch?v=kbKxmEeuvc4)

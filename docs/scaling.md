@@ -18,6 +18,7 @@
 - [Introduction to architecting systems for scale](https://lethain.com/introduction-to-architecting-systems-for-scale/#platform_layer)
 - [How to design a system to scale to your first 100 million users](https://levelup.gitconnected.com/how-to-design-a-system-to-scale-to-your-first-100-million-users-4450a2f9703d)
 - [How to scale projections in the event-driven systems?](https://event-driven.io/en/how_to_scale_projections_in_the_event_driven_systems/)
+- [Scaling services with Shard Manager](https://engineering.fb.com/2020/08/24/production-engineering/scaling-services-with-shard-manager/)
 ## 📺 Videos
 - [AWS re:Invent 2019: [REPEAT] Scaling up to your first 10 million users ](https://www.youtube.com/watch?v=kKjm4ehYiMs)
 - [Scaling Instagram Infrastructure](https://www.youtube.com/watch?v=hnpzNAPiC0E)

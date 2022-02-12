@@ -89,6 +89,7 @@
 - [Orchestration vs choreography for microservice workflows](https://www.ben-morris.com/orchestration-vs-choreography-for-microservice-workflows/)
 - [Generating unique IDs in a distributed environment at high scale.](https://www.callicoder.com/distributed-unique-id-sequence-number-generator/)
 - [SCALABLE MICROSERVICES ARCHITECTURE WITH .NET MADE EASY – A TUTORIAL](https://www.endava.com/en/blog/Engineering/2022/Scalable-Microservices-Architecture-with-NET-Made-Easy-a-Tutorial)
+- [How (not) to cut microservices](https://event-driven.io/en/how_to_cut_microservices/)
 ## 📺 Videos
 
 - [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) 
