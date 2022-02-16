@@ -23,6 +23,8 @@
 - [Building Microservices with Tye | Glenn Gordon](https://www.youtube.com/watch?v=EvfEkL1CZIM)
 - [Building Microservices in .NET with Project Tye](https://www.youtube.com/watch?v=qthKolaK7kk)
 - [Building FeedR - Tye, PM2, Docker (Microservices with .NET 6.0) episode #2](https://www.youtube.com/watch?v=DbUt_0E8TKo)
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+
+## Samples
+- [vietnam-devs/coolstore-microservices/tye.yaml](https://github.com/vietnam-devs/coolstore-microservices/blob/main/tye.yaml)
+- [thangchung/clean-architecture-dotnet/tye.yaml](https://github.com/thangchung/clean-architecture-dotnet/blob/main/samples/tye.yaml)
+- [devmentors/FeedR/tye.yml](https://github.com/devmentors/FeedR/blob/master/tye.yml)

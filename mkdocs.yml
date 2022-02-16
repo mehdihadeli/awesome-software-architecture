@@ -107,14 +107,11 @@ nav:
     - Event Modeling: architectural-patterns/domain-driven-design/event-modeling.md
     - ORMs:
       - Entity Framework: architectural-patterns/domain-driven-design/orm/ef.md   
-  - Enterprise Architecture Patterns: 
-    - Enterprise Architecture Patterns :enterprise-architecture-patterns/enterprise-architecture-patterns.md 
-    - Transaction Script Pattern :enterprise-architecture-patterns/transaction-script-pattern.md
   - Data Driven Design: architectural-patterns/data-driven-design.md
   - CQRS: architectural-patterns/cqrs.md
   - Microservices: 
     - Microservices: architectural-patterns/microservices/microservices.md
-    - Communication: architectural-patterns/microservices/communication.md
+    - Communication & Data Consistency: architectural-patterns/microservices/communication.md
     - Services Boundries: architectural-patterns/microservices/services-boundries.md
     - Design Patterns:
       - Design Patterns: architectural-patterns/microservices/design-patterns/design-patterns.md
@@ -156,6 +153,8 @@ nav:
   - Adapter Pattern: design-patterns/adapter-pattern.md
   - Command Message Pattern: design-patterns/command-message-pattern.md
   - Chain Of Responsibility: design-patterns/chain-of-responsibility.md
+  - AutoPilot Pattern: design-patterns/autopilot.md
+  - Transaction Script Pattern: design-patterns/transaction-script-pattern.md
 - Cloud Design Patterns: 
   - Cloud Design Patterns: cloud-design-patterns/cloud-design-patterns.md
   - Ambassador Pattern: cloud-design-patterns/ambassador-pattern.md
@@ -176,13 +175,11 @@ nav:
     - Ambassador: cloud-native/api-gateway/ambassador.md
     - Kong: cloud-native/api-gateway/kong.md
     - Ocelot: cloud-native/api-gateway/ocelot.md
-  - Container Runtime: 
-    - Container Runtime: cloud-native/container-runtime/container-runtime.md
-    - Containerd: cloud-native/container-runtime/containerd.md
-    - Cri-o: cloud-native/container-runtime/crio.md
-    - Docker: 
-      - Docker: cloud-native/container-runtime/docker/docker.md
-      - Docker Compose: cloud-native/container-runtime/docker/docker-compose.md
+
+  - Containerd: cloud-native/containerd.md
+  - Docker: 
+      - Docker: cloud-native/docker/docker.md
+      - Docker Compose: cloud-native/docker/docker-compose.md
   - Kubernetes: 
     - Kubernetes: cloud-native/kubernetes/kubernetes.md
     - Deployment Strategies: cloud-native/kubernetes/deployment-strategies.md
@@ -220,7 +217,6 @@ nav:
       - Azure DevOps: cloud-native/devops/ci-cd/azure-devops.md
       - Github Actions: cloud-native/devops/ci-cd/github-actions.md
       - Jenkins: cloud-native/devops/ci-cd/jenkins.md
-      - Nuke Build: cloud-native/devops/ci-cd/nuke-build.md
   - Reverse Proxy:
     - Reverse Proxy: cloud-native/reverse-proxy/reverse-proxy.md
     - Envoy: cloud-native/reverse-proxy/envoy.md

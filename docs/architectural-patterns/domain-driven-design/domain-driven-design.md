@@ -168,6 +168,8 @@
 - [zkavtaskin/Domain-Driven-Design-Example](https://github.com/zkavtaskin/Domain-Driven-Design-Example) - Blog series supplementary domain-driven design C# repository that (hopefully) actually makes sense.
 - [hamed-shirbandi/TaskoMask](https://github.com/hamed-shirbandi/TaskoMask)
 - [NHadi/Pos](https://github.com/NHadi/Pos) - Sample Application DDD, Reactive Microservices, CQRS Event Sourcing Powered by DERMAYON LIBRARY
+- [DijanaPenic/DDD-VShop](https://github.com/DijanaPenic/DDD-VShop) - VShop is a sample .NET 6 application built as Modular Monolith with Domain-Driven Design (DDD) approach. Each module is an independent vertical slice with its custom architecture.
+
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [xhafan/coreddd](https://github.com/xhafan/coreddd) - A set of open-source .NET libraries helping with domain-driven design (DDD) and CQRS
@@ -177,12 +179,10 @@
 - [daxnet/apworks-core](https://github.com/daxnet/apworks-core) - Apworks framework supporting .NET Core
 - [node-ts/ddd](https://github.com/node-ts/ddd) - A Domain Driven Design framework for software simplicity in node
 - [revoframework/Revo](https://github.com/revoframework/Revo) - Event Sourcing, CQRS and DDD framework for C#/.NET Core
+- [lucabriguglia/OpenCQRS](https://github.com/lucabriguglia/OpenCQRS) - .NET Standard framework to create simple and clean design. Advanced features for DDD, CQRS and Event Sourcing.
 ## Books
 - [Patterns, Principles, and Practices of Domain-Driven Design 1st Edition](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709)
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software 1st Edition](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/)
 - [Domain-Driven Design Distilled 1st Edition](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420)
 - [Hands-On Domain-Driven Design with .NET Core: Tackling complexity in the heart of software by putting DDD principles into practice](https://www.amazon.com/Hands-Domain-Driven-Design-NET/dp/1788834097/ref=pd_vtp_5/137-5137322-0498527)
 - [Domain-Driven Design The First 15 Years Essays from the community](https://dddeurope.com/15years/)
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

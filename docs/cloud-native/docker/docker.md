@@ -8,6 +8,8 @@
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 
 ## 📝 Articles
+- [How to build and push Docker image with GitHub actions?](https://event-driven.io/en/how_to_buid_and_push_docker_image_with_github_actions/)
+- [How to build an optimal Docker image for your application?](https://event-driven.io/en/how_to_buid_an_optimal_docker_image_for_your_application/)
 - [Optimising ASP.NET Core apps in Docker - avoiding manually copying csproj files](https://andrewlock.net/optimising-asp-net-core-apps-in-docker-avoiding-manually-copying-csproj-files/)
 - [Exploring the .NET Core Docker files: dotnet vs aspnetcore vs aspnetcore-build](https://andrewlock.net/exploring-the-net-core-docker-files-dotnet-vs-aspnetcore-vs-aspnetcore-build/)
 - [Exploring the .NET Core 2.1 Docker files (updated): dotnet:runtime vs aspnetcore-runtime vs sdk](https://andrewlock.net/exploring-the-net-core-2-1-docker-files-dotnet-runtime-vs-aspnetcore-runtime-vs-sdk/)
@@ -25,7 +27,6 @@
 - [How Visual Studio builds containerized apps](https://docs.microsoft.com/en-us/visualstudio/containers/container-build?view=vs-2019)
 - [Creating Docker multi-arch images for ARM64 from Windows](https://andrewlock.net/creating-multi-arch-docker-images-for-arm64-from-windows/)
 - [6 Things To Know When Dockerizing Microsoft .NET Apps in Production](https://levelup.gitconnected.com/6-things-to-know-when-dockerizing-microsoft-net-apps-in-production-45b8c27a41b0)
-- [How to build an optimal Docker image for your application?](https://event-driven.io/en/how_to_buid_an_optimal_docker_image_for_your_application/)
 - [Beginning Docker](https://sookocheff.com/post/docker/beginning-docker/)
 - [Docker Series](https://code-maze.com/docker-series/)
 - [Dockerize an ASP .NET Core Microservice and RabbitMQ](https://www.programmingwithwolfgang.com/dockerize-an-asp-net-core-microservice-and-rabbitmq)
@@ -61,4 +62,8 @@
 - [WolfgangOfner/MicroserviceDemo](https://github.com/WolfgangOfner/MicroserviceDemo) - This is a demo with two ASP .NET 5 microservices using RabbitMQ and Docker
 - [twzhangyang/RestAirline](https://github.com/twzhangyang/RestAirline) - DDD+CQRS+EventSourcing+Hypermedia API+ASP.NET Core 3.1+Masstransit+terraform+docker+k8s
 - [madslundt/NetCoreMicroservicesSample](https://github.com/madslundt/NetCoreMicroservicesSample/tree/master/Compose) - Sample using micro services in .NET Core 3.1 Focusing on clean code
-- [baotoq/micro-commerce](https://github.com/baotoq/micro-commerce) - React, Nextjs, ASP.NET Core 5.0, IdentityServer, Dapr, Azure pipeline, K8S, SonarQube
+- [baotoq/micro-commerce](https://github.com/baotoq/micro-commerce/blob/master/src/Services/Catalog/MicroCommerce.Catalog.API/Dockerfile) - React, Nextjs, ASP.NET Core 5.0, IdentityServer, Dapr, Azure pipeline, K8S, SonarQube
+- [oskardudycz/EventSourcing.NetCore/Dockerfile](https://github.com/oskardudycz/EventSourcing.NetCore/blob/main/Dockerfile)
+- [vietnam-devs/coolstore-microservices/deploys/dockers](https://github.com/vietnam-devs/coolstore-microservices/tree/main/deploys/dockers)
+- [vietnam-devs/coolstore-microservices/Dockerfile](https://github.com/vietnam-devs/coolstore-microservices/blob/main/src/Services/ProductCatalog/ProductCatalogService.Api/Dockerfile)
+- [thangchung/clean-architecture-dotnet/Dockerfile](https://github.com/thangchung/clean-architecture-dotnet/blob/main/samples/Product/ProductService.Api/Dockerfile)

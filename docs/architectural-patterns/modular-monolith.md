@@ -84,3 +84,4 @@
 - [mgce/modular-monolith-nodejs](https://github.com/mgce/modular-monolith-nodejs) - A project showing the implementation of the modular monolith architecture in Node.js.
 - [drminnaar/chinook](https://github.com/drminnaar/chinook) - A playground for demonstrating concepts such as architecture, design, dotnet core, typescript, react, database and docker
 - [ttulka/ddd-example-ecommerce-kotlin](https://github.com/ttulka/ddd-example-ecommerce-kotlin) - Domain-driven design example in Kotlin with Spring framework
+- [DijanaPenic/DDD-VShop](https://github.com/DijanaPenic/DDD-VShop) - VShop is a sample .NET 6 application built as Modular Monolith with Domain-Driven Design (DDD) approach. Each module is an independent vertical slice with its custom architecture.

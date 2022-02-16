@@ -26,6 +26,8 @@
 - [Using Value Objects with Entity Framework Core](https://levelup.gitconnected.com/using-value-objects-with-entity-framework-core-5cead49dbf9c)
 - [3 Different Ways to Implement Value Object in C# 10](https://blog.devgenius.io/3-different-ways-to-implement-value-object-in-csharp-10-d8f43e1fa4dc)
 - [Working with Value Objects](https://ardalis.com/working-with-value-objects/)
+- [Immutable Value Objects are simpler and more useful than you think!](https://event-driven.io/en/immutable_value_objects/)
+
 ## 📺 Videos
 - [Treating Primitive Obsession with ValueObjects | DDD in .NET](https://www.youtube.com/watch?v=h4uldNA1JUE)
 - [The Power of Value - Power Use of Value Objects in Domain Driven Design - Dan Bergh Johnsson](https://www.youtube.com/watch?v=vh-LT1mkIz4)

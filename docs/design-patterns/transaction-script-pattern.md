@@ -9,3 +9,4 @@
 ## 📺 Videos
 - [Reinventing the Transaction Script - Scott Wlaschin](https://www.youtube.com/watch?v=USSkidmaS6w)
 - [Domain Logic: Where does it go?](https://www.youtube.com/watch?v=PrJIMTZsbDw)
+- [Transaction Script (C#) - PATTERNS OF ENTERPRISE ARCHITECTURE](https://www.youtube.com/watch?v=K72nvMecF24)

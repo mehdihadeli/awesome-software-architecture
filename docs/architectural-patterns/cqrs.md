@@ -95,6 +95,7 @@
 - [oskardudycz/GoldenEye](https://github.com/oskardudycz/GoldenEye) - The CQRS flavoured framework that will speed up your WebAPI and Microservices development
 - [Shriek-Projects/shriek-fx](https://github.com/Shriek-Projects/shriek-fx) - An easy-to-use rapid development framework developed on the basis of.NET Core 2.0, following the constraints of domain Driven Design (DDD) specifications, combined with the CQRS architecture to provide the infrastructure for event-driven, event backtracking, responsiveness, and more. Let developers enjoy the true meaning of object-oriented
 - [daxnet/apworks-core](https://github.com/daxnet/apworks-core) - Apworks framework supporting .NET Core
+- [lucabriguglia/OpenCQRS](https://github.com/lucabriguglia/OpenCQRS) - .NET Standard framework to create simple and clean design. Advanced features for DDD, CQRS and Event Sourcing.
 ## 🚀 Samples
 
 - [sample-dotnet-core-cqrs-api](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
@@ -124,3 +125,4 @@
 - [dimatrubca/book-exchange-app](https://github.com/dimatrubca/book-exchange-app) - BookExchangeApp is a fully functioning application that allows users to exchange books, earn and buy points, and receive recomendations based on the rated books
 - [devmentors/PackIT](https://github.com/devmentors/PackIT) - PackIT is simple "packing list app" built on top of clean architecture and CQRS.
 - [Grauenwolf/PackIT](https://github.com/Grauenwolf/PackIT)
+- [DijanaPenic/DDD-VShop](https://github.com/DijanaPenic/DDD-VShop) - VShop is a sample .NET 6 application built as Modular Monolith with Domain-Driven Design (DDD) approach. Each module is an independent vertical slice with its custom architecture.

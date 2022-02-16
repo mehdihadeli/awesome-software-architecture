@@ -36,6 +36,7 @@
 - [Hands-on Kafka Streams in Scala](https://softwaremill.com/hands-on-kafka-streams-in-scala/)
 - [Using Apache Kafka for Real-Time Event Processing at New Relic](https://newrelic.com/blog/how-to-relic/apache-kafka-event-processing)
 - [Effective Strategies for Kafka Topic Partitioning](https://newrelic.com/blog/best-practices/effective-strategies-kafka-topic-partitioning)
+- [Kafka Connect Deep Dive – Converters and Serialization Explained](https://www.confluent.io/blog/kafka-connect-deep-dive-converters-serialization-explained/)
 ## 📺 Videos
 - [Course | Apache Kafka® Fundamentals](https://www.youtube.com/playlist?list=PLa7VYi0yPIH2PelhRHoFR5iQgflg-y6JA)
 - [Apache Kafka® Tutorials | Kafka 101](https://www.youtube.com/playlist?list=PLa7VYi0yPIH0KbnJQcMv5N9iW8HkZHztH)

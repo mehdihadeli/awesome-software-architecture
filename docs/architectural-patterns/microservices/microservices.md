@@ -90,6 +90,8 @@
 - [Generating unique IDs in a distributed environment at high scale.](https://www.callicoder.com/distributed-unique-id-sequence-number-generator/)
 - [SCALABLE MICROSERVICES ARCHITECTURE WITH .NET MADE EASY – A TUTORIAL](https://www.endava.com/en/blog/Engineering/2022/Scalable-Microservices-Architecture-with-NET-Made-Easy-a-Tutorial)
 - [How (not) to cut microservices](https://event-driven.io/en/how_to_cut_microservices/)
+- [Data Consistency in Microservices Architecture](https://medium.com/garantibbva-teknoloji/data-consistency-in-microservices-architecture-5c67e0f65256)
+
 ## 📺 Videos
 
 - [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) 
@@ -131,6 +133,7 @@
 - [Building FeedR - resilient HTTP communication (Microservices with .NET 6.0) episode #7](https://www.youtube.com/watch?v=ujtuJ6kQ0Hw)
 - [Building FeedR - Message Broker template (Microservices with .NET 6.0) episode #8](https://www.youtube.com/watch?v=b_BBPrc2mYQ)
 - [Building FeedR - Apache Pulsar integration (Microservices with .NET 6.0) episode #9](https://www.youtube.com/watch?v=WB72UGqTDoY)
+- [Building FeedR - Message Correlation ID (Microservices with .NET 6.0) episode #10](https://www.youtube.com/watch?v=HXmOJR653FI)
 - [.NET Microservices Basics Course](https://www.youtube.com/watch?v=ByYyk8eMG6c)
 - [Building Event-Driven Microservices with Event Sourcing and CQRS - Lidan Hifi](https://www.youtube.com/watch?v=XWTrcBqXi6s)
 

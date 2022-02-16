@@ -127,6 +127,7 @@
 - [jet/equinox](https://github.com/jet/equinox) - .NET Event Sourcing library with CosmosDB, EventStoreDB, SqlStreamStore and integration test backends.
 - [revoframework/Revo](https://github.com/revoframework/Revo) - Event Sourcing, CQRS and DDD framework for C#/.NET Core
 - [gautema/cqrslite](https://github.com/gautema/cqrslite) - A lightweight framework to help creating CQRS and Eventsourcing applications in C#
+- [lucabriguglia/OpenCQRS](https://github.com/lucabriguglia/OpenCQRS) - .NET Standard framework to create simple and clean design. Advanced features for DDD, CQRS and Event Sourcing.
 ## 🚀 Samples
 
 - [oskardudycz/EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore) - Examples and Tutorials of Event Sourcing in .NET
