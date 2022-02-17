@@ -136,6 +136,7 @@
 - [Building FeedR - Message Correlation ID (Microservices with .NET 6.0) episode #10](https://www.youtube.com/watch?v=HXmOJR653FI)
 - [.NET Microservices Basics Course](https://www.youtube.com/watch?v=ByYyk8eMG6c)
 - [Building Event-Driven Microservices with Event Sourcing and CQRS - Lidan Hifi](https://www.youtube.com/watch?v=XWTrcBqXi6s)
+- [Light and Dark Side of the Event-Driven Design • Oskar Dudycz • Devoxx Poland 2021](https://www.youtube.com/watch?v=0pYmuk0-N_4)
 
 ## 📦 Libraries
 

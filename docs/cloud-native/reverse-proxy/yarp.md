@@ -9,6 +9,8 @@
 - [Introducing YARP Preview 1](https://devblogs.microsoft.com/dotnet/introducing-yarp-preview-1/)
 - [Getting Started with YARP](https://microsoft.github.io/reverse-proxy/articles/getting-started.html)
 - [Duende Use a fully fledged Reverse Proxy](https://docs.duendesoftware.com/identityserver/v5/bff/apis/remote/)
+- [Transformers](https://microsoft.github.io/reverse-proxy/articles/transforms.html)
+
 ## 📺 Videos
 - [Lessons Learned from Building the YARP Proxy on .NET](https://www.youtube.com/watch?v=WJcjlSEXqWA)
 - [YARP: The .NET Reverse proxy](https://docs.microsoft.com/en-us/shows/On-NET/YARP-The-NET-Reverse-proxy)

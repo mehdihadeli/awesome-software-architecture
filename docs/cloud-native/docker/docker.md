@@ -42,6 +42,8 @@
 - [The Microsoft author signing certificate will be updated as soon as November 1st, 2020](https://devblogs.microsoft.com/nuget/microsoft-author-signing-certificate-update/)
 - [5 ways to change time in Docker container](https://bobcares.com/blog/change-time-in-docker-container/)
 - [Change TimeZone in Docker and OCI compliant Containers](https://mohitgoyal.co/2021/03/02/change-timezone-in-docker-and-oci-compliant-containers/)
+- [Attach to a running container](https://code.visualstudio.com/docs/remote/attach-container)
+- [Create a development container](https://code.visualstudio.com/docs/remote/create-dev-container)
 ## 📹 Videos
 - [Deploy a .NET Core API with Docker (Step-by-Step)](https://www.youtube.com/watch?v=f0lMGPB10bM)
 - [Docker Tutorial for Beginners [FULL COURSE in 3 Hours](https://www.youtube.com/watch?v=3c-iBn73dDE)
