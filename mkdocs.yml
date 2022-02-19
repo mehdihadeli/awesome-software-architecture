@@ -1,10 +1,10 @@
 site_name: Awesome Software Architecture
-site_url: http://awesome-architecture.com/
+site_url: https://awesome-architecture.com
 site_description: Curated list of awesome articles and resources to learn and practice about software architecture, patterns and principles.
 docs_dir: 
 repo_name: mehdihadeli/awesome-software-architecture
 repo_url: https://github.com/mehdihadeli/awesome-software-architecture
-edit_uri: edit/master/docs/
+edit_uri: edit/main/docs/
 theme: 
   name: material 
   palette:
