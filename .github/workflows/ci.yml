@@ -12,7 +12,12 @@ jobs:
       - name: Checkout master
         uses: actions/checkout@v2
 
+      #https://github.com/mhausenblas/mkdocs-deploy-gh-pages
       - name: Deploy MkDocs
         uses: mhausenblas/mkdocs-deploy-gh-pages@1.24
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CUSTOM_DOMAIN: awesome-architecture.com
