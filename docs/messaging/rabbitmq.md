@@ -45,6 +45,8 @@
 - [RabbitMQ in .NET: handling large messages](https://dotnetcodr.com/2014/06/12/rabbitmq-in-net-handling-large-messages/)
 - [RabbitMQ in .NET C#: basic error handling in Receiver](https://dotnetcodr.com/2014/06/16/rabbitmq-in-net-c-basic-error-handling-in-receiver/)
 - [RabbitMQ in .NET C#: more complex error handling in the Receiver](https://dotnetcodr.com/2014/06/19/rabbitmq-in-net-c-more-complex-error-handling-in-the-receiver/)
+- [Can we have multiple subscribers for RabbitMQ queue?](https://stackoverflow.com/questions/42351130/can-we-have-multiple-subscribers-for-rabbitmq-queue)
+
 
 ## 📺 Videos
 - [The best online training tool for RabbitMQ](https://training.cloudamqp.com/)

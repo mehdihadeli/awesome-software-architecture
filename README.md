@@ -13,9 +13,9 @@
 Hi! My name is [Mehdi Hadeli](https://github.com/mehdihadeli). I created this repository to share a set of links that I found valuable and inspiring. I hope that you'll like it!
 
 **🚀 This awesome list is available in this link:**
-**[https://mehdihadeli.github.io/awesome-software-architecture](https://mehdihadeli.github.io/awesome-software-architecture/)**
+**[https://awesome-architecture.com](https://awesome-architecture.com/)**
 
-<a href="https://mehdihadeli.github.io/awesome-software-architecture"> ![home page](assets/home.png) </a>
+<a href="https://awesome-architecture.com"> ![home page](assets/home.png) </a>
 
 [![Sparkline](https://stars.medv.io/mehdihadeli/awesome-software-architecture.svg)](https://stars.medv.io/mehdihadeli/awesome-software-architecture)
 

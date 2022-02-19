@@ -26,8 +26,10 @@
 - [Using Value Objects with Entity Framework Core](https://levelup.gitconnected.com/using-value-objects-with-entity-framework-core-5cead49dbf9c)
 - [3 Different Ways to Implement Value Object in C# 10](https://blog.devgenius.io/3-different-ways-to-implement-value-object-in-csharp-10-d8f43e1fa4dc)
 - [Working with Value Objects](https://ardalis.com/working-with-value-objects/)
+- [Value Objects: when to create one?](https://enterprisecraftsmanship.com/posts/value-objects-when-to-create-one/)
 - [Immutable Value Objects are simpler and more useful than you think!](https://event-driven.io/en/immutable_value_objects/)
-
+- [Functional C#: Primitive obsession](https://enterprisecraftsmanship.com/posts/functional-c-primitive-obsession/)
+- [Functional C#: Immutability](https://enterprisecraftsmanship.com/posts/functional-c-immutability/)
 ## 📺 Videos
 - [Treating Primitive Obsession with ValueObjects | DDD in .NET](https://www.youtube.com/watch?v=h4uldNA1JUE)
 - [The Power of Value - Power Use of Value Objects in Domain Driven Design - Dan Bergh Johnsson](https://www.youtube.com/watch?v=vh-LT1mkIz4)
@@ -42,7 +44,4 @@
 - [ValueOf](https://github.com/mcintyre321/ValueOf) - Deal with Primitive Obsession - define ValueObjects in a single line (of C#).
 - [WrapperValueObject](https://github.com/martinothamar/WrapperValueObject) - A .NET source generator for creating simple value objects wrapping primitive types.
 - [Qowaiv](https://github.com/Qowaiv/Qowaiv) - Qowaiv is a Single Value Object library
-
-  <div align="right">
-    <b><a href="#contents">↥ Back To Top</a></b>
-  </div>
+- [Fody/NullGuard](https://github.com/Fody/NullGuard) - Adds null argument checks to an assembly
