@@ -7,6 +7,8 @@ repo_url: https://github.com/mehdihadeli/awesome-software-architecture
 edit_uri: edit/main/docs/
 theme: 
   name: material 
+  font:
+    text: Ubuntu
   palette:
     primary: 'deep purple'
     accent: 'indigo'  
