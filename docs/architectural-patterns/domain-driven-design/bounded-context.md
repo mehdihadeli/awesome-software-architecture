@@ -19,6 +19,3 @@
 - [Context is King | Finding Service Boundaries Talk](https://www.youtube.com/watch?v=dnhshUdRW70)
 - [Defining Service Boundaries by Splitting Entities](https://www.youtube.com/watch?v=lGvYHmvXiyk)
 - [Bounded Contexts, Microservices, and Everything In Between - Vladik Khononov - KanDDDinsky 2018](https://www.youtube.com/watch?v=dlnu5pSsg7k&t=604s)
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

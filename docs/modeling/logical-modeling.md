@@ -11,6 +11,4 @@
 
 - [Logical Data Modeling with Diagrams.Net](https://www.youtube.com/watch?v=CmjW3HyazRA)
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+

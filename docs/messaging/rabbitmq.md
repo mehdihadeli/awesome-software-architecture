@@ -65,5 +65,5 @@
 - [RabbitMQ in Depth](https://www.manning.com/books/rabbitmq-in-depth)
 - [RabbitMQ Essentials - Second Edition](https://www.packtpub.com/product/rabbitmq-essentials-second-edition/9781789131666)
 
-## Libraries
+## 📦 Libraries
 - [rabbitmq/rabbitmq-stream-dotnet-client](https://github.com/rabbitmq/rabbitmq-stream-dotnet-client) - RabbitMQ client for the stream protocol

@@ -73,6 +73,4 @@
 - [Domain-Driven Design The First 15 Years](https://dddeurope.com/15years/)
 - [Hands-On Domain-Driven Design with .NET Core: Tackling complexity in the heart of software by putting DDD principles](https://www.amazon.com/Hands-Domain-Driven-Design-NET-ebook/dp/B07C5WSR9B)
 - [Domain-Driven Design Distilled by Vaughn Vernon](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420)
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+

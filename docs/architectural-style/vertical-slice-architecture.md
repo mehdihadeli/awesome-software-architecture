@@ -83,6 +83,4 @@
 
 - [An Atypical ASP.NET Core 5 Design Patterns Guide](https://www.packtpub.com/product/an-atypical-asp-net-core-5-design-patterns-guide/9781789346091)
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+

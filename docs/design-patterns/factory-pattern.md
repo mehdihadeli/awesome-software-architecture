@@ -8,6 +8,4 @@
 
 - [SOLID Principles for C# Developers](https://www.pluralsight.com/courses/csharp-solid-principles)
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+

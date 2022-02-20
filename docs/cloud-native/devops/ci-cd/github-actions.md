@@ -11,5 +11,5 @@
 ## 📺 Videos
 - [Master GitHub Actions Tutorial - Playlist Cameron McKenzie](https://www.youtube.com/playlist?list=PL_RrEj88onS-um2xFy01sY46ik_2yt_EQ)
 
-## Libraries
+## 📦 Libraries
 - [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance

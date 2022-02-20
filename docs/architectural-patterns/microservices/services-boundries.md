@@ -1,15 +1,15 @@
 # Services Boundries
 
-## Resources
+## 📘 Resources
 - [ddd-crew/ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process) 
 
-## Articles
+## 📕 Articles
 - [Finding service boundaries: more than just the bounded context](https://www.ben-morris.com/finding-service-boundaries-more-than-just-the-bounded-context
 - [Heuristics for Identifying Service Boundaries](https://opencredo.com/blogs/identify-service-boundary-heuristics/)
 - [Chapter 4. Rightsizing Your Microservices: Finding Service Boundaries](https://www.oreilly.com/library/view/microservices-up-and/9781492075448/ch04.html)
 - [Finding Service Boundaries: The One Rule That Matters](https://medium.com/nick-tune-tech-strategy-blog/finding-service-boundaries-the-one-rule-that-matters-2bd00f4e0c78)
 - [Identifying microservice boundaries](https://docs.microsoft.com/en-us/azure/architecture/microservices/model/microservice-boundaries)
-## Videos
+## 📺 Videos
 - [Carving Microservices out of the Monolith with Domain Storytelling - Henning Schwentner](https://www.youtube.com/watch?v=ggdBPW_DWbE)
 - [Finding your service boundaries -- a practical guide](https://www.youtube.com/watch?v=655zq4Sdu2w)
 - [Finding System Boundaries with Domain Storytelling - Stefan Hofer - NDC London 2021](https://www.youtube.com/watch?v=RzyLfDqsgSo)

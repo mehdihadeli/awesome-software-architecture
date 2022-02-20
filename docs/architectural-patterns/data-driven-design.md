@@ -17,6 +17,4 @@
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU)
 - [Decomposing CRUD to a Task Based UI](https://www.youtube.com/watch?v=DjZepWrAKzM)
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+

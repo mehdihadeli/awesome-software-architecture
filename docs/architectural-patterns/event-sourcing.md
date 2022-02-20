@@ -144,6 +144,4 @@
 - [exceptionnotfound/DotNetCqrsDemo](https://github.com/exceptionnotfound/DotNetCqrsDemo)
 - [NHadi/Pos](https://github.com/NHadi/Pos) - Sample Application DDD, Reactive Microservices, CQRS Event Sourcing Powered by DERMAYON LIBRARY
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+

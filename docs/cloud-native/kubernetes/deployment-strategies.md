@@ -11,6 +11,4 @@
 - [deployment strategies in kubernetes | recreate | rolling update | blue/green | canary](https://www.youtube.com/watch?v=efiMiaFjtn8)
 - [Application Deployment Strategies](https://www.youtube.com/watch?v=OKM0tTYxQbk)
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+

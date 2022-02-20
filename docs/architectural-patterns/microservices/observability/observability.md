@@ -9,7 +9,5 @@
 
 - [On .NET Live - Cloud Native Patterns for .NET Developers](https://www.youtube.com/watch?v=PDdHa0ushJ0)
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+
 	

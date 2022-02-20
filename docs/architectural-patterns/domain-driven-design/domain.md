@@ -44,6 +44,3 @@
 - [ALWAYS Valid Domain Model](https://www.youtube.com/watch?v=JZetlRXdYeI)
 - [Domain Logic: Where does it go?](https://www.youtube.com/watch?v=PrJIMTZsbDw)
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

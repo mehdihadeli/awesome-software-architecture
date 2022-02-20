@@ -7,6 +7,4 @@
 - [GitOps using Helm3 and Flux for a Node.js and Express.js Microservice](https://www.civo.com/learn/gitops-using-helm3-and-flux-for-an-node-js-and-express-js-microservice)
 
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+

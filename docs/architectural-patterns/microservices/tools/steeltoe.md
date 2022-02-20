@@ -10,6 +10,3 @@
 ## 🚀 Samples
 - [SteeltoeOSS/Samples](https://github.com/SteeltoeOSS/Samples) - Steeltoe samples and reference application collection
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

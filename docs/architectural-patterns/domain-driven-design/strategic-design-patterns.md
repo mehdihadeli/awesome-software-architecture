@@ -15,6 +15,3 @@
 - [ddd-crew/ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process)
   > If you're new to DDD and not sure where to start, this process will guide you step-by-step
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

@@ -9,7 +9,7 @@
 - [Kubernetes multi-node cluster with k3s and multipass](https://levelup.gitconnected.com/kubernetes-cluster-with-k3s-and-multipass-7532361affa3)
 - [Bare-metal Kubernetes with K3s](https://blog.alexellis.io/bare-metal-kubernetes-with-k3s/)
 
-## Libraries
+## 📦 Libraries
 - [k3s-io/k3s-ansible](https://github.com/k3s-io/k3s-ansible) - Build a Kubernetes cluster using Ansible with k3s.
 
 ## 🚀 Samples
@@ -19,6 +19,3 @@
 - [arashkaffamanesh/k3d-k3s-metallb](https://github.com/arashkaffamanesh/k3d-k3s-metallb) - k3s with k3d and MetalLB for LoadBalancing (on Mac)
 - [mattiaperi/k3s-multipass-cluster](https://github.com/mattiaperi/k3s-multipass-cluster) - Kubernetes multi-nodes cluster with k3s and multipass
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

@@ -36,6 +36,4 @@
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
 
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+

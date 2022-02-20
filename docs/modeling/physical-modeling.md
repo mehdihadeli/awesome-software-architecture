@@ -8,6 +8,4 @@
 - [How to Create Physical Diagrams in Vertabelo](https://vertabelo.com/blog/create-physical-diagrams-in-vertabelo/)
 - [Reverse Engineering With Vertabelo](https://vertabelo.com/blog/reverse-engineering-with-vertabelo/)
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+

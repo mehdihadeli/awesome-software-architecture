@@ -6,7 +6,7 @@
 - [The Command Pattern in C#](https://exceptionnotfound.net/command-pattern-in-csharp/)
 - [Using composite command in ASP.NET Core](https://gunnarpeipman.com/aspnet-core-composite-command/)
 
-## Videos
+## 📺 Videos
 - [Command Design Pattern (C#)](https://www.youtube.com/watch?v=nW2ahdZojho)
 - [Command Design Pattern](https://www.youtube.com/watch?v=ea5onQBXzS8)
 - [Command Pattern - Design Patterns](https://www.youtube.com/watch?v=GQzfF5EMD7o)

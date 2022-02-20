@@ -24,7 +24,5 @@
 - [pereiren/dotnet-template-onion](https://github.com/pereiren/dotnet-template-onion) - Onion Architecture with .NET 5/.NET Core and CQRS/Event Sourcing following a DDD approach
 - [iammukeshm/OnionArchitecture](https://github.com/iammukeshm/OnionArchitecture) - The onion architecture, introduced by Jeffrey Palermo, overcomes the issues of the layered architecture with great ease. With Onion Architecture, the game-changer is that the Domain Layer (Entities and Validation Rules that are common to the business case ) is at the Core of the Entire Application. This means higher flexibility and lesser coupling
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>	
+	
 	

@@ -21,6 +21,3 @@
 - [Meanwhile... on the command side of my architecture](https://blogs.cuttingedge.it/steven/posts/2011/meanwhile-on-the-command-side-of-my-architecture/)
 - [How to use MediatR Pipeline Behaviours](https://garywoodfine.com/how-to-use-mediatr-pipeline-behaviours/)
 - [MediatR Behaviors](https://codeopinion.com/mediatr-behaviors/)
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

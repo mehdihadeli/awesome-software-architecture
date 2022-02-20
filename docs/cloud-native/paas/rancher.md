@@ -10,6 +10,3 @@
 ## 🚀 Samples
 - [arashkaffamanesh/multipass-rke-rancher](https://github.com/arashkaffamanesh/multipass-rke-rancher) - Rancher Kubernetes Engine and Rancher Server on Multipass VMs
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

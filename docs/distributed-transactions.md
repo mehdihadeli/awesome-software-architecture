@@ -20,6 +20,3 @@
 - [Distributed Sagas: A Protocol for Coordinating Microservices - Caitie McCaffrey](https://www.youtube.com/watch?v=0UTOLRTwOX0)
 - [Solving distributed data problems in a microservice architecture | Microservices.io](https://www.youtube.com/watch?v=AEbJgpamZ4w)
 - [Backpressure in Reactive System](https://blog.frankel.ch/backpressure-reactive-systems/)
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

@@ -41,6 +41,4 @@
 - [GOTO 2018 • 5 Reasons to use Reactive Programming if you are not eBay • Grygoriy Gonchar](https://www.youtube.com/watch?v=DIQ9aNkjKZ8)
 - [Randy Shoup - Service Architectures at Scale Lessons from Google & eBay](https://www.youtube.com/watch?v=fhm4QnyWvUo)
 - [Cloud Native Objects for High Scale & Performance](https://www.youtube.com/watch?v=iE8cisVgoj8)
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+

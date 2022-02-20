@@ -10,6 +10,4 @@
 - [UML Notation](https://www.vertabelo.com/blog/uml-notation/)
 - [UML Association vs Aggregation vs Composition](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-aggregation-vs-composition/)
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+

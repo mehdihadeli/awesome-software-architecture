@@ -79,6 +79,4 @@
 - [VahidN/EFCoreSecondLevelCacheInterceptor](https://github.com/VahidN/EFCoreSecondLevelCacheInterceptor) - EF Core Second Level Cache Interceptor
 - [marcoCasamento/Hangfire.Redis.StackExchange](https://github.com/marcoCasamento/Hangfire.Redis.StackExchange) - HangFire Redis storage based on original (and now unsupported) Hangfire.Redis but using lovely StackExchange.Redis client
 - [ZiggyCreatures.FusionCache](https://github.com/jodydonetti/ZiggyCreatures.FusionCache) - FusionCache is an easy to use, high performance and robust cache with an optional distributed 2nd layer and some advanced features.
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+

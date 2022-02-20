@@ -1,10 +1,10 @@
 
 # Consul
 
-## Articles
+## 📕 Articles
 - [SCALABLE MICROSERVICES ARCHITECTURE WITH .NET MADE EASY – A TUTORIAL](https://www.endava.com/en/blog/Engineering/2022/Scalable-Microservices-Architecture-with-NET-Made-Easy-a-Tutorial)
 
-## Videos
+## 📺 Videos
 - [HashiCorp Consul Introduction: What is a Service Mesh?](https://www.youtube.com/watch?v=UpR-3GBTKsk)
 - [Consul Service Mesh: Deep Dive](https://www.youtube.com/watch?v=Aq1uTozNajI)
 - [Getting into HashiCorp Consul, Part 1: Configuring a Server & Client on AWS](https://www.youtube.com/watch?v=_lIJg0c5les)
@@ -27,6 +27,4 @@
 - [matjazbravc/Consul.ServiceDiscovery.Demo](https://github.com/matjazbravc/Consul.ServiceDiscovery.Demo)  - This demo shows how to implement simple containerized (Docker) microservice architecture with gateway, load balancer (Ocelot) and 
 automatic service discovery (Consul).
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+

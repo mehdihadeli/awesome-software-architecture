@@ -51,6 +51,4 @@
 - [Amazon Architecture blog](https://aws.amazon.com/blogs/architecture/)
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+

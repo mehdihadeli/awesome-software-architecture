@@ -16,6 +16,4 @@
 - [Conceptual Data Modeling with Diagrams.Net](https://www.youtube.com/watch?v=7lGFx-qYmhU)
 - [Get a Head Start with Entity Framework Core 5.0 with EF Core Power Tools](https://www.youtube.com/watch?v=uph-AGyOd8c)
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+

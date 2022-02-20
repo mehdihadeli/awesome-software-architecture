@@ -25,6 +25,4 @@
 - [How to secure solution with Azure Active Directory B2C (Azure AD B2C)](https://www.youtube.com/watch?v=LDh1bJOihBg)
 - [Working with Azure AD B2C in ASP.NET](https://www.youtube.com/watch?v=oG9GcYIuYQM)
 - [Getting Started with Azure Identity - Steve Smith](https://www.youtube.com/watch?v=GaUGxoNb_YE)
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+

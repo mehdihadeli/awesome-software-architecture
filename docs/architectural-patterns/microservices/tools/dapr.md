@@ -64,7 +64,5 @@
 ## Books
 - [Dapr for .NET Developers](https://docs.microsoft.com/en-us/dotnet/architecture/dapr-for-net-developers/?WT.mc_id=-blog-scottha)
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+
  

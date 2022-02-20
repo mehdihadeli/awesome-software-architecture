@@ -165,12 +165,10 @@
 - [cloudnative-netcore/netcorekit](https://github.com/cloudnative-netcore/netcorekit) - A crafted toolkit for building cloud-native apps on the .NET platform
 - [lucabriguglia/OpenCQRS](https://github.com/lucabriguglia/OpenCQRS) - .NET Standard framework to create simple and clean design. Advanced features for DDD, CQRS and Event Sourcing.
 
-## Samples
+## 🚀 Samples
 - [devmentors/Messaging-In-Distributed-Systems](https://github.com/devmentors/Messaging-In-Distributed-Systems) - Code for all the messaging-related concepts/patterns described on YouTube during "Messaging in Distributed Systems" series.
 
 ## 📚 Books
 - [Enterprise Integration Patterns](https://amazon.com/o/asin/0321200683/ref=nosim/enterpriseint-20)
+- [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

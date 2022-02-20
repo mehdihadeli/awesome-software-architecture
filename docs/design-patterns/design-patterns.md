@@ -28,6 +28,3 @@
 - [CodeWithMosh - The Ultimate Design Patterns - Mosh Hamedani Course](https://codewithmosh.com/p/design-patterns)
 - [Design Patterns in C# and .NET - Udemy Course](https://www.udemy.com/course/design-patterns-csharp-dotnet/)
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

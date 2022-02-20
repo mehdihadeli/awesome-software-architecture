@@ -7,6 +7,3 @@
 - [Gateway Aggregation pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/gateway-aggregation)
 - [Gateway Offloading pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/gateway-offloading)
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

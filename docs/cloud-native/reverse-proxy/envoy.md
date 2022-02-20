@@ -1,6 +1,6 @@
 # Envoy
 
-## Resources
+## 📘 Resources
 - [Learn Envoy Fundamentals](https://academy.tetrate.io/courses/envoy-fundamentals)
 
 ## 📺 Videos

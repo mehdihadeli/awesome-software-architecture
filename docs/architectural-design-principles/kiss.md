@@ -8,6 +8,4 @@
 - [Keep It Simple Stupid (KISS)](http://principles-wiki.net/principles:keep_it_simple_stupid) 
 - [Keep It Simple - DevIQ](https://deviq.com/principles/keep-it-simple) 
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+

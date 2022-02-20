@@ -12,6 +12,3 @@
 - [Barker’s Notation](https://vertabelo.com/blog/barkers-erd-notation/)
 - [UML Notation](https://vertabelo.com/blog/uml-notation/)
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

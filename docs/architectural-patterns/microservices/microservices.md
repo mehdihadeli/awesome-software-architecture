@@ -240,6 +240,4 @@
 - [Practical Microservices with Dapr and .NET: A developer's guide to building cloud-native applications using the Dapr event-driven runtime](https://www.amazon.com/Practical-Microservices-Dapr-NET-cloud-native/dp/1800568371)
 
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+

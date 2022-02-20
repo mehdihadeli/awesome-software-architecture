@@ -13,6 +13,4 @@
 
 - [Layered/n-Tier Architectural pattern](https://www.youtube.com/watch?v=BCXcIllT7Lc)
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+

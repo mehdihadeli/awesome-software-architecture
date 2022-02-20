@@ -19,6 +19,4 @@
 - [kimcu-on-thenet/dnc-k8s-helm](https://github.com/kimcu-on-thenet/dnc-k8s-helm) - An extremely simple .NET Core web api within EntityFrameworkCore which will be deployed in k8s by both kubectl and helm
 
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+

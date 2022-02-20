@@ -8,6 +8,4 @@
 - [Design Principles](https://java-design-patterns.com/principles/) - java-design-patterns.com
 - [Principles](http://principles-wiki.net/principles:start) - principles-wiki.net
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+

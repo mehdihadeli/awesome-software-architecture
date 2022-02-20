@@ -9,6 +9,4 @@
 
 - [Service-Oriented Architecture - SOA | Software/Web Application Architecture](https://www.youtube.com/watch?v=jNiEMmoTDoE&t=0s) 
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+

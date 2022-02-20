@@ -7,6 +7,3 @@
 ## 📺Videos
 - [Write Stable Code using Coupling Metrics](https://www.youtube.com/watch?v=wRVbHDkOMSM&feature=emb_title)
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

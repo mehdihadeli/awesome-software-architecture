@@ -28,6 +28,3 @@
 - [Entity Relationship Diagram (ERD) Tutorial - Part 1](https://www.youtube.com/watch?v=QpdhBUYk7Kk)
 - [Entity Relationship Diagram (ERD) Tutorial - Part 2](https://www.youtube.com/watch?v=-CuY5ADwn24)
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>

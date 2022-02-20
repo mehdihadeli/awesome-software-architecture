@@ -1,6 +1,6 @@
 # Istio
 
-## Resources
+## 📘 Resources
 - [askmeegs/learn-istio](https://github.com/askmeegs/learn-istio) - Istio resources 🕸
 - [Learn Istio Fundamentals](https://academy.tetrate.io/courses/istio-fundamentals)
 ## 📺 Videos

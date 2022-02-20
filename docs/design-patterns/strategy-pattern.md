@@ -22,6 +22,4 @@
 - [WestDiscGolf/StrategyPatternExample](https://github.com/WestDiscGolf/StrategyPatternExample)
 - [Dashell/strategy-pattern-dotnetcore](https://github.com/Dashell/strategy-pattern-dotnetcore)
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
+

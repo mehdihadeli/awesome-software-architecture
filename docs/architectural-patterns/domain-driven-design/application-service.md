@@ -11,6 +11,3 @@
 ## 📺 Videos
 - [Introduction to Services Components](https://www.youtube.com/watch?v=Kr9di26CLek)
 
-<div align="right">
-  <b><a href="#contents">↥ Back To Top</a></b>
-</div>
