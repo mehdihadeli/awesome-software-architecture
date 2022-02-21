@@ -71,6 +71,8 @@
 - [CQRS(Command-Query Responsibility Segregation)](https://www.eventstore.com/cqrs-pattern)
 - [What's the difference between a command and an event?](https://event-driven.io/en/whats_the_difference_between_event_and_command/)
 - [Can command return a value?](https://event-driven.io/en/can_command_return_a_value/)
+- [Busting some CQRS myths](https://lostechies.com/jimmybogard/2012/08/22/busting-some-cqrs-myths/)
+- [Event Sourcing and CQRS](https://zimarev.com/blog/event-sourcing/cqrs/)
 
 ## 📺 Videos
 - [CQRS is simpler than you think with C#9 and .NET 5!](https://www.eventstore.com/webinars/cqrs-is-simpler-than-you-think)

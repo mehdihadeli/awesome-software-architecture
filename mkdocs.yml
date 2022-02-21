@@ -8,7 +8,7 @@ edit_uri: edit/main/docs/
 theme: 
   name: material 
   font:
-    text: Ubuntu
+    text: Sora
   palette:
     primary: 'deep purple'
     accent: 'indigo'  
@@ -261,7 +261,6 @@ nav:
 - Eventual Consistency: eventual-consistency.md
 - RESTful API Design: rest.md
 - Caching: caching.md
-- Aspect Oriented Programming: aop.md
 - Functional Programming: functional.md
 - Packaging: packaging.md
 - Refactoring: refactoring.md

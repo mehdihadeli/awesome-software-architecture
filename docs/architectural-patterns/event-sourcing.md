@@ -1,5 +1,8 @@
 # Event Sourcing
 
+## Resources
+- [Event Store Blog](https://www.eventstore.com/blog/tag/event-sourcing)
+- [Alexey Zimarev Blog](https://zimarev.com//tags/event-sourcing/)
 ## 📕 Articles
 
 - [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) 
@@ -94,7 +97,11 @@
 - [Getting Started with CQRS – Part 1](https://www.red-gate.com/simple-talk/development/dotnet-development/getting-started-with-cqrs-part-1/)
 - [Getting Started with CQRS – Part 2](https://www.red-gate.com/simple-talk/development/dotnet-development/getting-started-with-cqrs-part-2/)
 - [Getting Started with CQRS – Part 3](https://www.red-gate.com/simple-talk/development/dotnet-development/getting-started-with-cqrs-part-3/)
-
+- [Dealing with Eventual Consistency and Idempotency in MongoDB projections](https://event-driven.io/en/dealing_with_eventual_consistency_and_idempotency_in_mongodb_projections/)
+- [Global event stream](https://zimarev.com/blog/event-sourcing/all-stream/)
+- [Live projections for read models with Event Sourcing and CQRS](https://www.eventstore.com/blog/live-projections-for-read-models-with-event-sourcing-and-cqrs)
+- [Event Sourcing and CQRS](https://zimarev.com/blog/event-sourcing/cqrs/)
+- [Entities as event streams](https://zimarev.com/blog/event-sourcing/entities-as-streams/)
 ## 📺 Videos
 
 - [Event Sourcing Example & Explained in plain English](https://www.youtube.com/watch?v=AUj4M-st3ic)
@@ -132,6 +139,7 @@
 
 - [oskardudycz/EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore) - Examples and Tutorials of Event Sourcing in .NET
 - [oskardudycz/EventSourcing.NodeJS](https://github.com/oskardudycz/EventSourcing.NodeJS) - Examples and Tutorials of Event Sourcing in NodeJS
+- [oskardudycz/EventSourcing.NetCore/BuildYourOwnEventStore](https://github.com/oskardudycz/EventSourcing.NetCore/tree/3c9782d760df75ee9d75f63955b82d76aba0bd2b/Workshops/BuildYourOwnEventStore)
 - [mizrael/SuperSafeBank](https://github.com/mizrael/SuperSafeBank) - Sample Event Sourcing implementation with .NET Core
 - [Hands-On-Domain-Driven-Design-with-.NET-Core](https://github.com/PacktPublishing/Hands-On-Domain-Driven-Design-with-.NET-Core) 
 - [Aggregates.NET](https://github.com/charlessolar/Aggregates.NET) - .NET event sourced domain driven design model via NServiceBus and GetEventStore
@@ -143,5 +151,5 @@
 - [ddd-by-examples/event-source-cqrs-sample](https://github.com/ddd-by-examples/event-source-cqrs-sample) - Sample ES/CQRS application
 - [exceptionnotfound/DotNetCqrsDemo](https://github.com/exceptionnotfound/DotNetCqrsDemo)
 - [NHadi/Pos](https://github.com/NHadi/Pos) - Sample Application DDD, Reactive Microservices, CQRS Event Sourcing Powered by DERMAYON LIBRARY
-
+- [oskardudycz/GoldenEye/DDD/Tickets](https://github.com/oskardudycz/GoldenEye/tree/35544a10bc0214cce73ec098c7f1dd3a949969a7/samples/DDD/Tickets)
 
