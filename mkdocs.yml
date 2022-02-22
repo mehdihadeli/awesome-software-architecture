@@ -255,7 +255,7 @@ nav:
   - Documentation: messaging/documentation.md
   - Kafka: messaging/kafka.md
   - RabbitMQ: messaging/rabbitmq.md
-  - Azure Service Bus: azure/azure-service-bus.md
+  - Azure Service Bus: azure/messaging/azure-service-bus.md
   - NATS: messaging/nats.md
 - Distributed Transactions: distributed-transactions.md
 - Eventual Consistency: eventual-consistency.md
@@ -274,8 +274,8 @@ nav:
   - NoSQL: nosql/NoSQL.md
 - Relational Database:
   - Postgresql: relational/postgres.md
-- Azure Application Architecture:
-  - Azure Application Architecture: azure/azure-application-architecture.md
+- Azure Cloud:
+  - Azure Application Architecture: azure/azure-cloud.md
   - Azure API Management: azure/azure-api-management.md
   - Azure App Service: azure/azure-app-service.md
   - Azure Functions / Azure Serverless: azure/azure-functions.md
@@ -286,11 +286,11 @@ nav:
   - Azure Resource & Resource Group: azure/azure-resource.md
   - Azure Messaging:
     - Azure Messaging: azure/messaging/messaging.md
-    - Azure Event Grid: azure/azure-event-grid.md
-    - Azure Event Hub: azure/azure-event-hub.md
-    - Azure Queue: azure/azure-queue.md
-    - Azure Service Bus: azure/azure-service-bus.md
-    - Azure Web Pub/Sub: azure/azure-web-pub-sub.md
+    - Azure Event Grid: azure/messaging/azure-event-grid.md
+    - Azure Event Hub: azure/messaging/azure-event-hub.md
+    - Azure Queue: azure/messaging/azure-queue.md
+    - Azure Service Bus: azure/messaging/azure-service-bus.md
+    - Azure Web Pub/Sub: azure/messaging/azure-web-pub-sub.md
   - Azure Resource Manager (ARM): azure/azure-resource-manager.md
   - Azure Sequrity: 
     - Azure Sequrity: azure/azure-security/azure-security.md

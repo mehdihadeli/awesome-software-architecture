@@ -1,5 +1,8 @@
 # Distributed Tracing
 
+## Resources
+- [Awesome OpenTelemetry](https://github.com/magsther/awesome-opentelemetry) - A curated list of OpenTelemetry resources
+
 ## 📕 Articles
 - [Collect a distributed trace](https://docs.microsoft.com/en-us/dotnet/core/diagnostics/distributed-tracing-collection-walkthroughs)
 - [NET distributed tracing concepts](https://docs.microsoft.com/en-us/dotnet/core/diagnostics/distributed-tracing-concepts)
