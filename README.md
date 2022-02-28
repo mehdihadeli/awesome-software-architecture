@@ -6,7 +6,9 @@
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-brightgreen.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)][tweet]
 
+<a href="https://awesome-architecture.com">
 ![](./banner.png)
+</a>
 
 > Curated list of awesome articles and resources to learn and practice about software architecture, patterns and principles. this repository will be updated continuously, keep yourself up to date .
 
