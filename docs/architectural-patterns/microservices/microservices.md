@@ -134,6 +134,7 @@
 - [Building FeedR - Message Broker template (Microservices with .NET 6.0) episode #8](https://www.youtube.com/watch?v=b_BBPrc2mYQ)
 - [Building FeedR - Apache Pulsar integration (Microservices with .NET 6.0) episode #9](https://www.youtube.com/watch?v=WB72UGqTDoY)
 - [Building FeedR - Message Correlation ID (Microservices with .NET 6.0) episode #10](https://www.youtube.com/watch?v=HXmOJR653FI)
+- [Async Web API testing with TaskCompletionSource (Microservices with .NET 6.0) - FeedR episode #11}(https://www.youtube.com/watch?v=N-ofc345-58)
 - [.NET Microservices Basics Course](https://www.youtube.com/watch?v=ByYyk8eMG6c)
 - [Building Event-Driven Microservices with Event Sourcing and CQRS - Lidan Hifi](https://www.youtube.com/watch?v=XWTrcBqXi6s)
 - [Light and Dark Side of the Event-Driven Design • Oskar Dudycz • Devoxx Poland 2021](https://www.youtube.com/watch?v=0pYmuk0-N_4)

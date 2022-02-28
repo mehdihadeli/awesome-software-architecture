@@ -37,6 +37,7 @@
 - [Using Apache Kafka for Real-Time Event Processing at New Relic](https://newrelic.com/blog/how-to-relic/apache-kafka-event-processing)
 - [Effective Strategies for Kafka Topic Partitioning](https://newrelic.com/blog/best-practices/effective-strategies-kafka-topic-partitioning)
 - [Kafka Connect Deep Dive – Converters and Serialization Explained](https://www.confluent.io/blog/kafka-connect-deep-dive-converters-serialization-explained/)
+- [Top 5 Things Every Apache Kafka Developer Should Know](https://www.confluent.io/en-gb/blog/5-things-every-kafka-developer-should-know/)
 ## 📺 Videos
 - [Course | Apache Kafka® Fundamentals](https://www.youtube.com/playlist?list=PLa7VYi0yPIH2PelhRHoFR5iQgflg-y6JA)
 - [Apache Kafka® Tutorials | Kafka 101](https://www.youtube.com/playlist?list=PLa7VYi0yPIH0KbnJQcMv5N9iW8HkZHztH)

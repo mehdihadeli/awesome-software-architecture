@@ -3,6 +3,8 @@
 ## Resources
 - [Event Store Blog](https://www.eventstore.com/blog/tag/event-sourcing)
 - [Alexey Zimarev Blog](https://zimarev.com//tags/event-sourcing/)
+- [Code Opinion Blog](https://codeopinion.com/category/event-sourcing/)
+
 ## 📕 Articles
 
 - [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) 
@@ -12,7 +14,6 @@
 - [vent Sourcing: CQRS and querying using read models](https://www.erikheemskerk.nl/event-sourcing-cqrs-querying-read-models/)
 - [About event sourcing](https://eventuate.io/whyeventsourcing.html) 
 - [Event Sourcing pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing) 
-- [Event Sourcing Example & Explained in plain English](https://codeopinion.com/event-sourcing-example-explained-in-plain-english/?utm_source=feedly&utm_medium=rss&utm_campaign=event-sourcing-example-explained-in-plain-english) 
 - [Event Sourcing with Azure SQL and Entity Framework Core](https://daniel-krzyczkowski.github.io/Event-Sourcing-With-Azure-SQL-And-Entity-Framework-Core/)
 - [Projections in Event Sourcing: Build ANY model you want!](https://codeopinion.com/projections-in-event-sourcing-build-any-model-you-want)
 - [Reactive in practice, Unit 5: Event sourcing](https://developer.ibm.com/tutorials/reactive-in-practice-5/)
@@ -33,7 +34,6 @@
 - [Event Sourcing and CQRS](https://www.eventstore.com/blog/event-sourcing-and-cqrs)
 - [CQRS(Command-Query Responsibility Segregation)](https://www.eventstore.com/cqrs-pattern)
 - [Eventsourcing Patterns: Forgettable Payloads](https://verraes.net/2019/05/eventsourcing-patterns-forgettable-payloads/)
-- [How to get the current entity state from events?](https://event-driven.io/en/how_to_get_the_current_entity_state_in_event_sourcing/)
 - [Counterexamples regarding consistency in event sourced solutions (Part 1)](https://www.eventstore.com/blog/counterexamples-regarding-consistency-in-event-sourced-solutions-part-1)
 - [Counterexamples regarding consistency in event sourced solutions (Part 2)](https://www.eventstore.com/blog/counterexamples-regarding-consistency-in-event-sourced-solutions-part-2)
 - [Counterexamples regarding consistency in event sourced solutions (Part 3)](https://www.eventstore.com/blog/counterexamples-regarding-consistency-in-event-sourced-solutions-part-3)
@@ -64,7 +64,6 @@
 - [Event Sourcing applied – the application service](https://lostechies.com/gabrielschenker/2015/06/13/event-sourcing-applied-the-application-service/)
 - [Event Sourcing applied – the Aggregate](https://lostechies.com/gabrielschenker/2015/06/06/event-sourcing-applied-the-aggregate/)
 - [Event sourcing revisited](https://lostechies.com/gabrielschenker/2015/05/26/event-sourcing-revisited/)
-- [Projections in Event Sourcing: Build ANY model you want!](https://codeopinion.com/projections-in-event-sourcing-build-any-model-you-want/?utm_source=rss&utm_medium=rss&utm_campaign=projections-in-event-sourcing-build-any-model-you-want)
 - [Reactive in practice, Unit 5: Event sourcing](https://developer.ibm.com/tutorials/reactive-in-practice-5/)
 - [Event Sourcing Examined Part 1 of 3](https://dasith.me/2016/12/02/event-sourcing-examined-part-1-of-3/)
 - [Event Sourcing Examined Part 2 Of 3](https://dasith.me/2016/12/31/event-sourcing-examined-part-2-of-3/)
@@ -89,6 +88,7 @@
 - [How to build event-driven projections with Entity Framework](https://event-driven.io/en/how_to_do_events_projections_with_entity_framework/)
 - [Let's talk about positions in event stores](https://event-driven.io/en/lets_talk_about_positions_in_event_stores/)
 - [Simple patterns for events schema versioning](https://event-driven.io/en/simple_events_versioning_patterns/)
+- [How to (not) do the events versioning?](https://event-driven.io/en/how_to_do_event_versioning/)
 - [How to do snapshots in Marten?](https://event-driven.io/en/how_to_do_snapshots_in_Marten/)
 - [Keep your streams short! Temporal modeling for fast reads and optimal data retention](https://www.eventstore.com/blog/keep-your-streams-short-temporal-modelling-for-fast-reads-and-optimal-data-retention)
 - [Integrating Marten with other systems](https://event-driven.io/en/integrating_Marten/)
@@ -102,8 +102,26 @@
 - [Live projections for read models with Event Sourcing and CQRS](https://www.eventstore.com/blog/live-projections-for-read-models-with-event-sourcing-and-cqrs)
 - [Event Sourcing and CQRS](https://zimarev.com/blog/event-sourcing/cqrs/)
 - [Entities as event streams](https://zimarev.com/blog/event-sourcing/entities-as-streams/)
+- [DDD, CQRS and Event Sourcing in .NET Core with Weapsy.Mediator](https://www.linkedin.com/pulse/ddd-cqrs-event-sourcing-net-core-weapsymediator-luca-briguglia/)
+- [Building an Event Storage](https://cqrs.wordpress.com/documents/building-event-storage/)
+- [Event Sourcing: 5 things to consider when approaching it](https://www.davidguida.net/event-sourcing-things-to-consider)
+- [Event Sourcing pattern for microservices in .Net Core](https://chaitanyasuvarna.wordpress.com/2021/05/30/event-sourcing-pattern-in-net-core/)
+- [Snapshots in Event Sourcing for Rehydrating Aggregates](https://codeopinion.com/snapshots-in-event-sourcing-for-rehydrating-aggregates/)
+- [Scalable Microservices with Event Sourcing and Redis](https://medium.com/lcom-techblog/scalable-microservices-with-event-sourcing-and-redis-6aa245574db0)
+- [CQRS & Event Sourcing Code Walk-Through](https://codeopinion.com/cqrs-event-sourcing-code-walk-through/)
+- [Event Sourced Aggregate Design: Focus on Business Logic](https://codeopinion.com/event-sourced-aggregate-design-focus-on-business-logic/)
+- [Testing your Domain when Event Sourcing](https://codeopinion.com/testing-your-domain-when-event-sourcing/)
+- [Projections in Event Sourcing: Build ANY model you want!](https://codeopinion.com/projections-in-event-sourcing-build-any-model-you-want/?utm_source=rss&utm_medium=rss&utm_campaign=projections-in-event-sourcing-build-any-model-you-want)
+- [Event Sourcing Example & Explained in plain English](https://codeopinion.com/event-sourcing-example-explained-in-plain-english/?utm_source=feedly&utm_medium=rss&utm_campaign=event-sourcing-example-explained-in-plain-english) 
+- [Event Sourcing: Projections with Liquid Projections](https://codeopinion.com/event-sourcing-projections-with-liquid-projections/)
+- [Event Sourcing with SQL Stream Store](https://codeopinion.com/event-sourcing-with-sql-stream-store/)
+- [Event Stream as a Message Queue](https://codeopinion.com/event-stream-message-queue/)
+- [Event Store Persistent Subscriptions](https://codeopinion.com/event-store-persistent-subscriptions/)
+- [Event Store Persistent Subscriptions Demo](https://codeopinion.com/event-store-persistent-subscriptions-demo/)
+- [Persistent subscription](https://developers.eventstore.com/server/v21.10/persistent-subscriptions.html)
+- [Event Store Subscribe to changes](https://developers.eventstore.com/clients/dotnet/5.0/subscriptions.html)
 ## 📺 Videos
-
+- [Event Sourcing Playlist - CodeOpinion](https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ)
 - [Event Sourcing Example & Explained in plain English](https://www.youtube.com/watch?v=AUj4M-st3ic)
 - [Projections in Event Sourcing: Build ANY model you want!](https://www.youtube.com/watch?v=bTRjO6JK4Ws)
 - [Event Sourcing: Rehydrating Aggregates with Snapshots](https://www.youtube.com/watch?v=eAIkomEid1Y)
@@ -135,8 +153,16 @@
 - [revoframework/Revo](https://github.com/revoframework/Revo) - Event Sourcing, CQRS and DDD framework for C#/.NET Core
 - [gautema/cqrslite](https://github.com/gautema/cqrslite) - A lightweight framework to help creating CQRS and Eventsourcing applications in C#
 - [lucabriguglia/OpenCQRS](https://github.com/lucabriguglia/OpenCQRS) - .NET Standard framework to create simple and clean design. Advanced features for DDD, CQRS and Event Sourcing.
+- [SQLStreamStore/SQLStreamStore](https://github.com/SQLStreamStore/SQLStreamStore) - Stream Store library targeting RDBMS based implementations for .NET
+- [jacqueskang/EventSourcing](https://github.com/jacqueskang/EventSourcing) - .NET Core event sourcing framework
+- [dasiths/NEventLite](https://github.com/dasiths/NEventLite) - NEventLite - An extensible lightweight library for .NET that manages the Aggregate lifecycle in an Event Sourced system. Supports Event and Snapshot storage providers like EventStore/Redis or SQL Server. Built with dependency injection in mind and seamlessly integrates with AspNetCore.
+- [Eveneum/Eveneum](https://github.com/Eveneum/Eveneum) - Event Store backed by Azure Cosmos DB
+- [Slacquer/api-blox](https://github.com/Slacquer/api-blox) - .NetCore & AspNetCore API Building Blocks.
+- [learningcom/Learning.EventStore](https://github.com/learningcom/Learning.EventStore) - A framework for CQRS, Eventsourcing, and messaging that uses Redis pub/sub for messaging and offers event persistence in Redis, SQL Server, or PostgreSQL.
+- [liquidprojections/LiquidProjections](https://github.com/liquidprojections/LiquidProjections)
 ## 🚀 Samples
-
+- [VenomAV/EventSourcingCQRS](https://github.com/VenomAV/EventSourcingCQRS)
+- [oskardudycz/EventSourcing.NetCore/Sample/EventStoreDB/Simple](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/EventStoreDB/Simple)
 - [oskardudycz/EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore) - Examples and Tutorials of Event Sourcing in .NET
 - [oskardudycz/EventSourcing.NodeJS](https://github.com/oskardudycz/EventSourcing.NodeJS) - Examples and Tutorials of Event Sourcing in NodeJS
 - [oskardudycz/EventSourcing.NetCore/BuildYourOwnEventStore](https://github.com/oskardudycz/EventSourcing.NetCore/tree/3c9782d760df75ee9d75f63955b82d76aba0bd2b/Workshops/BuildYourOwnEventStore)
@@ -152,4 +178,5 @@
 - [exceptionnotfound/DotNetCqrsDemo](https://github.com/exceptionnotfound/DotNetCqrsDemo)
 - [NHadi/Pos](https://github.com/NHadi/Pos) - Sample Application DDD, Reactive Microservices, CQRS Event Sourcing Powered by DERMAYON LIBRARY
 - [oskardudycz/GoldenEye/DDD/Tickets](https://github.com/oskardudycz/GoldenEye/tree/35544a10bc0214cce73ec098c7f1dd3a949969a7/samples/DDD/Tickets)
-
+- [learningcom/Learning.EventStore](https://github.com/learningcom/Learning.EventStore) - A framework for CQRS, Eventsourcing, and messaging that uses Redis pub/sub for messaging and offers event persistence in Redis, SQL Server, or PostgreSQL.
+- [Reacture/FoxOffice](https://github.com/Reacture/FoxOffice) - Sample application demonstrating how to build a distributed cloud .NET Core application based on CQRS and Event Sourcing.

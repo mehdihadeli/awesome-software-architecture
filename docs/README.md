@@ -10,15 +10,12 @@
 
 > Curated list of awesome articles and resources to learn and practice about software architecture, patterns and principles. this repository will be updated continuously, keep yourself up to date .
 
-**This awesome list is available here with better UI and searching feature: [https://mehdihadeli.github.io/awesome-software-architecture](https://mehdihadeli.github.io/awesome-software-architecture)**
+**This awesome list is available here with better UI and searching feature: [https://awesome-architecture.com](https://awesome-architecture.com/)**
 
 
 ## Support ⭐
 
-If you like my work, feel free to:
-
-- ⭐ this repository. And we will be happy together :)
-- [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)][tweet] about Awesome Software Architecture
+If you like my work, feel free to ⭐ this repository. And we will be happy together :)
 
 Thanks a bunch for supporting me!
 

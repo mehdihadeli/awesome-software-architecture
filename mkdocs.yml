@@ -171,27 +171,6 @@ nav:
     - Ambassador: cloud-native/api-gateway/ambassador.md
     - Kong: cloud-native/api-gateway/kong.md
     - Ocelot: cloud-native/api-gateway/ocelot.md
-
-  - Containerd: cloud-native/containerd.md
-  - Docker: 
-      - Docker: cloud-native/docker/docker.md
-      - Docker Compose: cloud-native/docker/docker-compose.md
-  - Kubernetes: 
-    - Kubernetes: cloud-native/kubernetes/kubernetes.md
-    - Deployment Strategies: cloud-native/kubernetes/deployment-strategies.md
-    - Deployment Tools: 
-      - Argo-CD: cloud-native/kubernetes/deployment-tools/argo-cd.md
-      - Helm: cloud-native/kubernetes/deployment-tools/helm.md
-      - Kubernetes Operator: cloud-native/kubernetes/deployment-tools/kubernetes-operator.md
-      - Jenkins: cloud-native/kubernetes/deployment-tools/jenkins.md
-    - Ingress Controller: 
-      - Ingress Controller: cloud-native/kubernetes/ingress-controller.md
-      - Nginx Ingress: cloud-native/kubernetes/nginx-ingress.md
-      - Traefik Ingress: cloud-native/kubernetes/traefik-ingress.md
-    - Other Tools: 
-      - k3s: cloud-native/kubernetes/other-tools/k3s.md
-      - kind: cloud-native/kubernetes/other-tools/kind.md
-      - tilt: cloud-native/kubernetes/other-tools/tilt.md
   - Load Balancing: 
     - Load Balancing: cloud-native/load-balancing/load-balancing.md
     - Fabio: cloud-native/load-balancing/fabio.md
@@ -209,6 +188,26 @@ nav:
     - Terraform: cloud-native/iaas/terraform.md
     - Pulumi: cloud-native/iaas/pulumi.md
   - DevOps:
+    - Docker: 
+      - Docker: cloud-native/devops/docker/docker.md
+      - Docker Compose: cloud-native/devops/docker/docker-compose.md
+    - Containerd: cloud-native/devops/containerd.md
+    - Kubernetes: 
+      - Kubernetes: cloud-native/devops/kubernetes/kubernetes.md
+      - Deployment Strategies: cloud-native/devops/kubernetes/deployment-strategies.md
+      - Deployment Tools: 
+          - Argo-CD: cloud-native/devops/kubernetes/deployment-tools/argo-cd.md
+          - Helm: cloud-native/devops/kubernetes/deployment-tools/helm.md
+          - Kubernetes Operator: cloud-native/devops/kubernetes/deployment-tools/kubernetes-operator.md
+          - Jenkins: cloud-native/devops/kubernetes/deployment-tools/jenkins.md
+      - Ingress Controller: 
+          - Ingress Controller: cloud-native/devops/kubernetes/ingress-controller.md
+          - Nginx Ingress: cloud-native/devops/kubernetes/nginx-ingress.md
+          - Traefik Ingress: cloud-native/devops/kubernetes/traefik-ingress.md
+      - Other Tools: 
+          - k3s: cloud-native/devops/kubernetes/other-tools/k3s.md
+          - kind: cloud-native/devops/kubernetes/other-tools/kind.md
+          - tilt: cloud-native/devops/kubernetes/other-tools/tilt.md
     - CI/CD:
       - Azure DevOps: cloud-native/devops/ci-cd/azure-devops.md
       - Github Actions: cloud-native/devops/ci-cd/github-actions.md
@@ -275,7 +274,7 @@ nav:
 - Relational Database:
   - Postgresql: relational/postgres.md
 - Azure Cloud:
-  - Azure Application Architecture: azure/azure-cloud.md
+  - Azure Cloud: azure/azure-cloud.md
   - Azure API Management: azure/azure-api-management.md
   - Azure App Service: azure/azure-app-service.md
   - Azure Functions / Azure Serverless: azure/azure-functions.md
@@ -297,7 +296,12 @@ nav:
     - Azure Active Directory (Azure AD): azure/azure-active-directory.md
     - Azure Key Vault: azure/azure-key-vault.md
   - Azure SQL: azure/azure-sql.md
-  - Azure Storage: azure/azure-storage.md
+  - Azure Storage:
+    - Azure Storage: azure/storage/storage.md
+    - Azure Blob: azure/storage/blob.md
+    - Azure Queue: azure/storage/queue.md
+    - Azure Table: azure/storage/table.md
+    - Azure File: azure/storage/file.md
   - Azure Template: azure/azure-template.md
 - Modeling: 
   - Modeling: modeling/modeling.md
@@ -318,7 +322,7 @@ nav:
 - Others: others.md
 
 
-copyright: 2021 <a href="https://github.com/mehdihadeli">Mehdi Hadeli</a>.
+copyright: 2022 <a href="https://github.com/mehdihadeli">Mehdi Hadeli</a>.
 #remote_branch: gh-pages 
 #remote_name: origin
 extra:
