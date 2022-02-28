@@ -1,8 +1,6 @@
 name: CI
 on:
   push:
-    branches:
-      - main
     tags:
       - '*'
 jobs:
