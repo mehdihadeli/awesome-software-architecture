@@ -10,9 +10,6 @@
 
 > Curated list of awesome articles and resources to learn and practice about software architecture, patterns and principles. this repository will be updated continuously, keep yourself up to date .
 
-**This awesome list is available here with better UI and searching feature: [https://awesome-architecture.com](https://awesome-architecture.com/)**
-
-
 ## Support ⭐
 
 If you like my work, feel free to ⭐ this repository. And we will be happy together :)
