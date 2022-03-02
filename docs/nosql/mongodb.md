@@ -40,9 +40,14 @@
 - [Learn MongoDB Playlist - Just me and Opensource](https://www.youtube.com/playlist?list=PL34sAs7_26wPvZJqUJhjyNtm7UedWR8Ps)
 - [Database Modernization: Moving Workloads from Relational to MongoDB Document Model](https://www.mongodb.com/presentations/database-modernization-replacing-relational-databases-with-mongo-db?p=60d2aba22d1bcb03ab22e29e&utm_campaign=Int_WB_Modernization%20Replacing%20Relational%20Databases%20with%20MongoDB_06_21_APAC_Follow%20up&utm_medium=email&utm_source=eloqua&utm_term=Webinar%20Recording%20-%20Moving%20Workloads%20from%20Relational%20to%20MongoDB%20Document%20Model)
 - [MongoDB with C# Beginner's Tutorial Playlist - Coding Droplets](https://www.youtube.com/playlist?list=PLzewa6pjbr3JgaEaUDXWXm_bgjtQPjzFE)
+
+## Samples
+- [dj-nitehawk/MongoWebApiStarter](https://github.com/dj-nitehawk/MongoWebApiStarter) - A full-featured starter template for `dotnet new` to quickly scaffold an Asp.Net 6 Web-Api project with MongoDB as the data store.
+
 ## Library
 - [TurnerSoftware/MongoFramework](https://github.com/TurnerSoftware/MongoFramework) - An "Entity Framework"-like interface for MongoDB
 - [Mongo2Go/Mongo2Go](https://github.com/Mongo2Go/Mongo2Go) - MongoDB for integration tests (.NET Core 3.0 and .NET 5.0)
 - [dj-nitehawk/MongoDB.Entities](https://github.com/dj-nitehawk/MongoDB.Entities) - A data access library for MongoDB with an elegant api, LINQ support and built-in entity relationship management
+- [dj-nitehawk/MongoDB-Entities-Repository-Pattern](https://github.com/dj-nitehawk/MongoDB-Entities-Repository-Pattern) - Example project showcasing how to use the repository pattern with the MongoDB.Entities data access library
 - [alexandre-spieser/mongodb-generic-repository](https://github.com/alexandre-spieser/mongodb-generic-repository) - An example of generic repository implementation using the MongoDB C# Sharp 2.0 driver (async)
 - [alexandre-spieser/AspNetCore.Identity.MongoDbCore](https://github.com/alexandre-spieser/AspNetCore.Identity.MongoDbCore) - A MongoDb UserStore and RoleStore adapter for Microsoft.AspNetCore.Identity 2.2. Allows you to use MongoDb instead of SQL server with Microsoft.AspNetCore.Identity 2.2. (not Identity 3.0)

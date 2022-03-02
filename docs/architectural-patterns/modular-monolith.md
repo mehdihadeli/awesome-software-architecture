@@ -31,6 +31,12 @@
 - [Scaling a Monolith Horizontally](https://codeopinion.com/scaling-a-monolith-horizontally/)
 - [Good and Bad Monolith](https://blog.ttulka.com/good-and-bad-monolith)
 - [How to quickly scale a legacy monolith?](https://event-driven.io/en/how_to_quickly_scale_a_legacy_monolith/)
+- [Easy Modular Monolith — Part 1 — MVP](https://itnext.io/easy-modular-monolith-part-1-mvp-d57f47935e24)
+- [Easy Modular Monolith — Part 2— The OutBox Pattern](https://itnext.io/easy-modular-monolith-part-2-the-outbox-pattern-b4566724fb68)
+- [Easy Modular Monolith — Part 3 — Logging (Serilog and Seq)](https://itnext.io/easy-modular-monolith-part-3-logging-57caceac1ff5)
+- [Easy Modular Monolith — Part 4— Global Exception Handling](https://itnext.io/easy-modular-monolith-part-4-global-exception-handling-8355cc4905d4)
+- [Easy Modular Monolith — Part 5— JWT Authentication/Authorization](https://itnext.io/easy-modular-monolith-part-5-jwt-authentication-authorization-f7a0a275226f)
+- [Easy Modular Monolith — Part 6 — Synchronous communication between modules](https://itnext.io/easy-modular-monolith-part-5-synchronous-communication-between-modules-7af876f06c16)
 ## 📺 Videos
 - [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE)
 - [Modular monoliths (Simon Brown) - 2016](https://www.youtube.com/watch?v=kbKxmEeuvc4)
@@ -85,3 +91,4 @@
 - [drminnaar/chinook](https://github.com/drminnaar/chinook) - A playground for demonstrating concepts such as architecture, design, dotnet core, typescript, react, database and docker
 - [ttulka/ddd-example-ecommerce-kotlin](https://github.com/ttulka/ddd-example-ecommerce-kotlin) - Domain-driven design example in Kotlin with Spring framework
 - [DijanaPenic/DDD-VShop](https://github.com/DijanaPenic/DDD-VShop) - VShop is a sample .NET 6 application built as Modular Monolith with Domain-Driven Design (DDD) approach. Each module is an independent vertical slice with its custom architecture.
+- [Ridikk12/ModularMonolith](https://github.com/Ridikk12/ModularMonolith)

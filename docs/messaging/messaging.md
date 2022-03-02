@@ -2,7 +2,7 @@
 # Messaging 
 
 ## 📘 Resources
-
+- [clemensv/messaging](https://github.com/clemensv/messaging) - Resource collection for messaging and eventing
 - [Messaging Playlist - CodeOpinion](https://www.youtube.com/playlist?list=PLThyvG1mlMzm2FyVpKDiU2c7VtrB2Zezg)
 - [DDD and Messaging Architectures](https://verraes.net/2019/05/ddd-msg-arch/)
 - [Martin Kleppmann Yotube](https://www.youtube.com/channel/UClB4KPy5LkJj1t3SgYVtMOQ/videos)

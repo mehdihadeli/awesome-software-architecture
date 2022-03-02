@@ -120,6 +120,7 @@
 - [Event Store Persistent Subscriptions Demo](https://codeopinion.com/event-store-persistent-subscriptions-demo/)
 - [Persistent subscription](https://developers.eventstore.com/server/v21.10/persistent-subscriptions.html)
 - [Event Store Subscribe to changes](https://developers.eventstore.com/clients/dotnet/5.0/subscriptions.html)
+- [Migration to gRPC client](https://developers.eventstore.com/clients/dotnet/5.0/migration-to-gRPC.html#update-the-target-framework)
 ## 📺 Videos
 - [Event Sourcing Playlist - CodeOpinion](https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ)
 - [Event Sourcing Example & Explained in plain English](https://www.youtube.com/watch?v=AUj4M-st3ic)
@@ -141,6 +142,8 @@
 - [Don't Let the Internet Dupe You, that's NOT Event Sourcing](https://www.youtube.com/watch?v=Y7ca1--EKsg)
 - [Never Lose Data Again - Event Sourcing to the Rescue! with Oskar Dudycz - December 1st 2021](https://www.youtube.com/watch?v=fDC465jJoDk)
 - [Practical Introduction to Event Sourcing with EventStoreDB by Oskar Dudycz](https://www.youtube.com/watch?v=ArcypYS5XBQ)
+- [Event Store Webinar: Migrating from TCP to gRPC](https://www.youtube.com/watch?v=-4_KTfVkjlQ)
+
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET

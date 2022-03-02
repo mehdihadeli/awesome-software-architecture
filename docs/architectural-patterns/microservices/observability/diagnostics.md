@@ -53,6 +53,8 @@
 - [Increasing Trace Cardinality with Activity Tags and Baggage](https://jimmybogard.com/increasing-trace-cardinality-with-tags-and-baggage/)
 - [Getting started with OpenTelemetry and distributed tracing in .NET Core](https://www.mytechramblings.com/posts/getting-started-with-opentelemetry-and-dotnet-core/)
 - [Monitoring background task](https://rafaelldi.blog/posts/monitoring-background-task/)
+- [Profiling a .NET6 app running in a linux container with dotnet-trace, dotnet-dump, dotnet-counters, dotnet-gcdump and Visual Studio](https://www.mytechramblings.com/posts/profiling-a-net-app-with-dotnet-cli-diagnostic-tools/)
+
 ## 📺 Videos
 - [Diagnostics Improvements in .NET Core 3.0](https://www.youtube.com/watch?v=fkjetdIdcyg)
 - [Introducing the Diagnostics Client Library for .NET Core](https://www.youtube.com/watch?v=Rei6d9nKaFQ)
