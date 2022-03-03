@@ -246,4 +246,5 @@
 - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/)
 - [Microservices for the Enterprise: Designing, Developing, and Deploying](https://www.amazon.com/Microservices-Enterprise-Designing-Developing-Deploying/dp/1484238575/)
 - [Embracing Microservices Design: A practical guide to revealing anti-patterns and architectural pitfalls to avoid microservices fallacies](https://www.amazon.com/Embracing-Microservices-Design-anti-patterns-architectural/dp/180181838X/ref=pd_sbs_52/142-1174349-9952515)
-
+- [Practical Event-Driven Microservices Architecture: Building Sustainable and Highly Scalable Event-Driven Microservices](https://www.amazon.com/Practical-Event-Driven-Microservices-Architecture-Sustainable/dp/1484274679/)
+- [Practical Microservices with Dapr and .NET: A developer's guide to building cloud-native applications using the Dapr event-driven runtime](https://www.amazon.com/Practical-Microservices-Dapr-NET-cloud-native-ebook/dp/B08P5L81X8/)

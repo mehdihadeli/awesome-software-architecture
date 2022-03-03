@@ -20,6 +20,7 @@
 - [Backing Fields](https://docs.microsoft.com/en-us/ef/core/modeling/backing-field?tabs=data-annotations)
 - [Integrity of Collections in Domain-Driven Design](https://ankitvijay.net/2020/05/10/integrity-of-collections-in-domain-driven-design/)
 - [Strengthening your domain: Encapsulated collections](https://lostechies.com/jimmybogard/2010/03/10/strengthening-your-domain-encapsulated-collections/)
+- [Encapsulated Collections in Entity Framework Core](https://ardalis.com/encapsulated-collections-in-entity-framework-core/?utm_sq=gtj0ysb0tw)
 ## 📺 Videos
 - [How to use EF Core 5 with DDD style projects - part 1](https://www.youtube.com/watch?v=bzI5g6PVM-I)
 - [How to use EF Core 5 with DDD style projects - part 2](https://www.youtube.com/watch?v=D1hSU-q3GLc)

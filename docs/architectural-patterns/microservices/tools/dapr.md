@@ -63,6 +63,6 @@
 
 ## 📚 Books
 - [Dapr for .NET Developers](https://docs.microsoft.com/en-us/dotnet/architecture/dapr-for-net-developers/?WT.mc_id=-blog-scottha)
-
+- [Practical Microservices with Dapr and .NET: A developer's guide to building cloud-native applications using the Dapr event-driven runtime](https://www.amazon.com/Practical-Microservices-Dapr-NET-cloud-native-ebook/dp/B08P5L81X8/)
 
  

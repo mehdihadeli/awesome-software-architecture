@@ -238,7 +238,7 @@ nav:
 - Design Best Practices: 
   - Design Best Practices: design-best-practices/design-best-practices.md
   - 12 Factor: design-best-practices/12-factor.md
-  - Strongly Type Ids: design-best-practices/strongly-type-ids.md
+  - Strongly Type Ids: design-best-practices/strongly-typed-ids.md
   - Thin Controllers: design-best-practices/thin-controllers.md
 - Anti Patterns: 
   - Anti Patterns: anti-patterns/anti-patterns.md
@@ -261,6 +261,7 @@ nav:
 - RESTful API Design: rest.md
 - Caching: caching.md
 - Functional Programming: functional.md
+- Concurrency: concurrency.md
 - Packaging: packaging.md
 - Refactoring: refactoring.md
 - NoSQL:
