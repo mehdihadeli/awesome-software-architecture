@@ -230,15 +230,20 @@
 - [NHadi/Pos](https://github.com/NHadi/Pos) - Sample Application DDD, Reactive Microservices, CQRS Event Sourcing Powered by DERMAYON LIBRARY
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
-- [Building Microservices: Designing Fine-Grained Systems 1st Edition](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
+- [Building Microservices: Designing Fine-Grained Systems, 2nd Edition](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1492034029)
 - [Microservices Patterns: With examples in Java 1st Edition](https://www.manning.com/books/microservices-patterns)
+- [Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization](https://www.amazon.com/Production-Ready-Microservices-Susan-Fowler/dp/1491965975)
 - [Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith 1st Edition](https://www.amazon.com/Monolith-Microservices-Evolutionary-Patterns-Transform/dp/1492047848)
+- [Reactive Microservices Architecture](https://www.goodreads.com/book/show/29630482-reactive-microservices-architecture)
+- [Microservice Architecture: Aligning Principles, Practices, and Culture](https://www.amazon.com/Microservice-Architecture-Aligning-Principles-Practices/dp/1491956259)
 - [Microservices in .NET Core, Second Edition](https://www.manning.com/books/microservices-in-net-core-second-edition)
 - [Microservices in Action](https://www.manning.com/books/microservices-in-action)
 - [Microservices Security in Action](https://www.manning.com/books/microservices-security-in-action?query=Microservices)
 - [Building Microservices with ASP.NET Core: Develop, Test, and Deploy Cross-Platform Services in the Cloud](https://www.amazon.com/Building-Microservices-ASP-NET-Core-Cross-Platform/dp/1491961732)
 - [Building Event-Driven Microservices: Leveraging Organizational Data at Scale](https://www.amazon.com/Building-Event-Driven-Microservices-Leveraging-Organizational/dp/1492057894)
+- [Microservices: Up and Running: A Step-by-Step Guide to Building a Microservices Architecture](https://www.amazon.com/Microservices-Step-Step-Microservice-Architecture/dp/1492075450)
 - [Practical Microservices with Dapr and .NET: A developer's guide to building cloud-native applications using the Dapr event-driven runtime](https://www.amazon.com/Practical-Microservices-Dapr-NET-cloud-native/dp/1800568371)
-
-
+- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/)
+- [Microservices for the Enterprise: Designing, Developing, and Deploying](https://www.amazon.com/Microservices-Enterprise-Designing-Developing-Deploying/dp/1484238575/)
+- [Embracing Microservices Design: A practical guide to revealing anti-patterns and architectural pitfalls to avoid microservices fallacies](https://www.amazon.com/Embracing-Microservices-Design-anti-patterns-architectural/dp/180181838X/ref=pd_sbs_52/142-1174349-9952515)
 

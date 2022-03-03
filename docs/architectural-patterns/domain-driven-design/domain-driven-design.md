@@ -181,9 +181,14 @@
 - [node-ts/ddd](https://github.com/node-ts/ddd) - A Domain Driven Design framework for software simplicity in node
 - [revoframework/Revo](https://github.com/revoframework/Revo) - Event Sourcing, CQRS and DDD framework for C#/.NET Core
 - [lucabriguglia/OpenCQRS](https://github.com/lucabriguglia/OpenCQRS) - .NET Standard framework to create simple and clean design. Advanced features for DDD, CQRS and Event Sourcing.
-## Books
-- [Patterns, Principles, and Practices of Domain-Driven Design 1st Edition](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709)
+
+## 📚 Books
+
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software 1st Edition](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/)
+- [Domain - Driven Design: Atacando as Complexidades no Coracao do Software Paperback – January 1, 2016](https://www.amazon.com/Domain-Atacando-Complexidades-Coracao-Software-dp-8550800651/dp/8550800651/)
+- [Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy 1st Edition](https://www.amazon.com/Learning-Domain-Driven-Design-Aligning-Architecture/dp/1098100131/)
 - [Domain-Driven Design Distilled 1st Edition](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420)
+- [Implementing Domain-Driven Design 1st Edition](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
+- [Patterns, Principles, and Practices of Domain-Driven Design 1st Edition](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709)
 - [Hands-On Domain-Driven Design with .NET Core: Tackling complexity in the heart of software by putting DDD principles into practice](https://www.amazon.com/Hands-Domain-Driven-Design-NET/dp/1788834097/ref=pd_vtp_5/137-5137322-0498527)
 - [Domain-Driven Design The First 15 Years Essays from the community](https://dddeurope.com/15years/)

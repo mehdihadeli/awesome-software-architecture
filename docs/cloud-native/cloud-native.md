@@ -20,5 +20,6 @@
 - [Traditional vs Cloud Native Applications](https://www.youtube.com/watch?v=osz-MT3AxqA)
 - [What is Cloud Native? | Cloud Native Vs Traditional Application - What is the difference?](https://www.youtube.com/watch?v=NoFu_rpM7EQ)
 - [Practical Cloud Native: What Works, What Doesn't • Sarah Wells • GOTO 2021](https://www.youtube.com/watch?v=esaoQPIIiTo)
-## Books
+## 📚 Books
 - [Architecting Cloud-Native App for Azure](https://dotnet.microsoft.com/download/e-book/cloud-native-azure/pdf)
+- [Cloud Native Architecture and Design: A Handbook for Modern Day Architecture and Design with Enterprise-Grade Examples](https://www.amazon.com/Cloud-Native-Architecture-Design-Enterprise-Grade-ebook/dp/B09HMCNZWH)

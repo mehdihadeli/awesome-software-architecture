@@ -66,5 +66,5 @@
 - [Gotchas! in Event Driven Architecture - What you need to be aware of](https://www.youtube.com/watch?v=NzEaI1UtiGk)
 - [Light and Dark Side of the Event-Driven Design • Oskar Dudycz • Devoxx Poland 2021](https://www.youtube.com/watch?v=0pYmuk0-N_4)
 
-## Books
+## 📚 Books
 - [Designing Event-Driven Systems](https://www.confluent.io/designing-event-driven-systems/)

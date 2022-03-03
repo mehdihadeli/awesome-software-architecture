@@ -60,3 +60,8 @@
 
 ## 🚀 Samples
 - [dcomartin/Kafka.Demo](https://github.com/dcomartin/Kafka.Demo)
+- [oskardudycz/kafka-connect](https://github.com/oskardudycz/kafka-connect)
+
+## Books
+- [Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale 2nd Edition](https://www.amazon.com/Kafka-Definitive-Real-Time-Stream-Processing/dp/1492043087/)
+- [Kafka Streams in Action: Real-time apps and microservices with the Kafka Streams API](https://www.amazon.com/Kafka-Streams-Action-Real-time-microservices/dp/1617294470/)

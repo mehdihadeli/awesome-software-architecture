@@ -4,9 +4,9 @@
 - [Event Store Blog](https://www.eventstore.com/blog/tag/event-sourcing)
 - [Alexey Zimarev Blog](https://zimarev.com//tags/event-sourcing/)
 - [Code Opinion Blog](https://codeopinion.com/category/event-sourcing/)
-
+- [Versioning in an Event Sourced System - Gregory Young](https://leanpub.com/esversioning/read)
+- [EventSourcing .NET](https://github.com/oskardudycz/EventSourcing.NetCore#eventsourcing-net)
 ## 📕 Articles
-
 - [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) 
 - [Event Sourcing and CQRS in C#](http://www.andreavallotti.tech/en/2018/01/event-sourcing-and-cqrs-in-c/)
 - [Event Sourcing: Awesome, powerful & different](https://www.erikheemskerk.nl/event-sourcing-awesome-powerful-different/)
@@ -121,6 +121,7 @@
 - [Persistent subscription](https://developers.eventstore.com/server/v21.10/persistent-subscriptions.html)
 - [Event Store Subscribe to changes](https://developers.eventstore.com/clients/dotnet/5.0/subscriptions.html)
 - [Migration to gRPC client](https://developers.eventstore.com/clients/dotnet/5.0/migration-to-gRPC.html#update-the-target-framework)
+- [Event Schema Versioning](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/EventsVersioning)
 ## 📺 Videos
 - [Event Sourcing Playlist - CodeOpinion](https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ)
 - [Event Sourcing Example & Explained in plain English](https://www.youtube.com/watch?v=AUj4M-st3ic)
@@ -143,7 +144,8 @@
 - [Never Lose Data Again - Event Sourcing to the Rescue! with Oskar Dudycz - December 1st 2021](https://www.youtube.com/watch?v=fDC465jJoDk)
 - [Practical Introduction to Event Sourcing with EventStoreDB by Oskar Dudycz](https://www.youtube.com/watch?v=ArcypYS5XBQ)
 - [Event Store Webinar: Migrating from TCP to gRPC](https://www.youtube.com/watch?v=-4_KTfVkjlQ)
-
+- [Practical Event Sourcing with Marten - Oskar Dudycz, .NET](https://www.youtube.com/watch?v=L_ized5xwww)
+- [Sander MOLENKAMP: Practical CQRS and Event Sourcing on Azure @ Update Conference Prague 18](https://www.youtube.com/watch?v=3XcB-5CrRe8)
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
