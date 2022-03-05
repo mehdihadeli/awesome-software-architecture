@@ -26,6 +26,8 @@
 - [Repository Pattern C#](https://codewithshadman.com/repository-pattern-csharp/)
 - [Repository and Unit of Work Pattern](https://www.programmingwithwolfgang.com/repository-and-unit-of-work-pattern/)
 - [Should you use the Repository Pattern? With CQRS, Yes and No!](https://codeopinion.com/should-you-use-the-repository-pattern-with-cqrs-yes-and-no/)
+- [Implement Repository Pattern using .NET EF Core](https://thecodeblogger.com/2021/06/27/implement-repository-pattern-using-net-ef-core/)
+- [EF Core Repository with Specification Pattern in .NET](https://thecodeblogger.com/2021/07/01/ef-core-repository-with-specification-pattern-in-net/)
 ## 📺 Videos
 - [Repository Pattern with C# and Entity Framework - Mosh Hamedani](https://www.youtube.com/watch?v=rtXpYpZdOzM)
 - [Step by Step - Repository Pattern and Unit of Work with Asp.Net Core 5](https://www.youtube.com/watch?v=-jcf1Qq8A-4)

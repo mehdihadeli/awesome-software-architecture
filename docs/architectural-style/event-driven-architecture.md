@@ -66,6 +66,8 @@
 - [Gotchas! in Event Driven Architecture - What you need to be aware of](https://www.youtube.com/watch?v=NzEaI1UtiGk)
 - [Light and Dark Side of the Event-Driven Design • Oskar Dudycz • Devoxx Poland 2021](https://www.youtube.com/watch?v=0pYmuk0-N_4)
 - [How to DESIGN EVENT-DRIVEN applications! The best method for production applications!](https://www.youtube.com/watch?v=LaxH8GS8l3Q)
+- [Building a Webhooks System](https://www.youtube.com/watch?v=NuHC5uwbFAc)
+- [The Dark Side of Events](https://www.youtube.com/watch?v=URYPpY3SgS8)
 ## 📚 Books
 - [Designing Event-Driven Systems](https://www.confluent.io/designing-event-driven-systems/)
 - [Building Event-Driven Microservices: Leveraging Organizational Data at Scale](https://www.amazon.com/Building-Event-Driven-Microservices-Leveraging-Organizational/dp/1492057894)

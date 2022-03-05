@@ -284,6 +284,7 @@ nav:
   - Azure Logic App: azure/azure-logic-app.md
   - Azure No SQL: azure/azure-nosql.md
   - Azure Resource & Resource Group: azure/azure-resource.md
+  - Azure App Configuration: azure/azure-configuration.md
   - Azure Messaging:
     - Azure Messaging: azure/messaging/messaging.md
     - Azure Event Grid: azure/messaging/azure-event-grid.md

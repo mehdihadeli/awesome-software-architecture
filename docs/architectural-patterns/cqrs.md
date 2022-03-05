@@ -90,6 +90,7 @@
 - [Should you use the Repository Pattern? With CQRS, Yes and No!](https://www.youtube.com/watch?v=01lygxvbao4)
 - [Mini Course #1 Clean Architecture + CQRS](https://www.youtube.com/watch?v=NzcZcim9tp8)
 - [CQRS & Event Sourcing Code Walk-Through](https://www.youtube.com/watch?v=5aznkIEvkKc)
+- [Understanding CQRS Basics [ASP .NET C#]](https://www.youtube.com/watch?v=8uZd51-OAEw)
 ## 📦 Libraries
 - [eventflow/EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
 - [gautema/CQRSlite](https://github.com/gautema/CQRSlite) - A lightweight framework to help creating CQRS and Eventsourcing applications in C#

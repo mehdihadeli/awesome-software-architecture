@@ -41,7 +41,7 @@
 - [GOTO 2018 • 5 Reasons to use Reactive Programming if you are not eBay • Grygoriy Gonchar](https://www.youtube.com/watch?v=DIQ9aNkjKZ8)
 - [Randy Shoup - Service Architectures at Scale Lessons from Google & eBay](https://www.youtube.com/watch?v=fhm4QnyWvUo)
 - [Cloud Native Objects for High Scale & Performance](https://www.youtube.com/watch?v=iE8cisVgoj8)
-
+- [Competing Consumers Pattern for Scalability | Message Queues](https://www.youtube.com/watch?v=xv6Ljbq6me8)
 ## 📚 Books
 - [Architecting for Scale: How to Maintain High Availability and Manage Risk in the Cloud 2nd Edition](https://www.amazon.com/Architecting-Scale-Maintain-Availability-Manage/dp/1492057177/)
 - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/)

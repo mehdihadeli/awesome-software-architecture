@@ -29,7 +29,6 @@
 - [Event Sourcing Examined Part 3 Of 3](https://dasith.me/2017/08/02/event-sourcing-examined-part-3-of-3/)
 - [Beginner's Guide to Event Sourcing | Event Store](https://www.eventstore.com/event-sourcing)
 - [Snapshots in Event Sourcing](https://www.eventstore.com/blog/snapshots-in-event-sourcing)
-- [Snapshotting Strategies](https://www.eventstore.com/blog/snapshotting-strategies)
 - [What is Event Sourcing?](https://www.eventstore.com/blog/what-is-event-sourcing)
 - [Event Sourcing and CQRS](https://www.eventstore.com/blog/event-sourcing-and-cqrs)
 - [CQRS(Command-Query Responsibility Segregation)](https://www.eventstore.com/cqrs-pattern)
@@ -146,6 +145,11 @@
 - [Event Store Webinar: Migrating from TCP to gRPC](https://www.youtube.com/watch?v=-4_KTfVkjlQ)
 - [Practical Event Sourcing with Marten - Oskar Dudycz, .NET](https://www.youtube.com/watch?v=L_ized5xwww)
 - [Sander MOLENKAMP: Practical CQRS and Event Sourcing on Azure @ Update Conference Prague 18](https://www.youtube.com/watch?v=3XcB-5CrRe8)
+- [How to build an event store using CosmosDB](https://www.youtube.com/watch?v=UejwRlmV6E4)
+- [The Dark Side of Events](https://www.youtube.com/watch?v=URYPpY3SgS8)
+- [How an EventStore actually works - by Gregory Young](https://www.youtube.com/watch?v=YUjO1wM0PZM)
+- [Practical Event-Sourcing with C# and EventStore with Alexey Zimareff](https://www.youtube.com/watch?v=0RGuoRRHWf8)
+- [Eventuous: Event Sourcing with .NET, Alexey Zimarev](https://www.youtube.com/watch?v=IbnXdERLDjk)
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
@@ -185,3 +189,5 @@
 - [oskardudycz/GoldenEye/DDD/Tickets](https://github.com/oskardudycz/GoldenEye/tree/35544a10bc0214cce73ec098c7f1dd3a949969a7/samples/DDD/Tickets)
 - [learningcom/Learning.EventStore](https://github.com/learningcom/Learning.EventStore) - A framework for CQRS, Eventsourcing, and messaging that uses Redis pub/sub for messaging and offers event persistence in Redis, SQL Server, or PostgreSQL.
 - [Reacture/FoxOffice](https://github.com/Reacture/FoxOffice) - Sample application demonstrating how to build a distributed cloud .NET Core application based on CQRS and Event Sourcing.
+- [amolenk/CosmosEventSourcing](https://github.com/amolenk/CosmosEventSourcing) - Example of event sourcing implemented with Cosmos DB
+- [UbiquitousLanguage/WorkshopEventSourcing](https://github.com/UbiquitousLanguage/WorkshopEventSourcing) - Practical event-sourcing with C# workshop repository

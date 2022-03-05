@@ -105,6 +105,7 @@
 - [RPC vs Messaging: When to use which?](https://www.youtube.com/watch?v=LMKVzguhFw4)
 - [Beyond REST and RPC: Asynchronous Eventing and Messaging Patterns](https://www.youtube.com/watch?v=6zs-PhgfLU4)
 - [Modern .NET Messaging using MassTransit](https://www.youtube.com/watch?v=jQNQDLv7QmU)
+- [Was that message processed? Asynchronous Request-Response Pattern](https://www.youtube.com/watch?v=6UC6btG3wVI)
 ## 📦 Libraries
 
 - [Enexure.MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - MicroBus is a simple in process Mediator for .NET

@@ -14,5 +14,5 @@
 ## 📺 Videos
 - [Anti-Corruption Layer (ACL) Pattern - Cloud Design Patterns](https://www.youtube.com/watch?v=YYezGu43zkU)
 - [The Anti-corruption layer, Gateway Aggregation / Routing patterns | Cloud with Chris](https://www.youtube.com/watch?v=gGDu4FdUk7I)
-
+- [Anti-corruption Layer for mapping between Boundaries](https://www.youtube.com/watch?v=Dok2Ikcjaro)
 

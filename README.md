@@ -16,7 +16,6 @@ Hi! My name is [Mehdi Hadeli](https://github.com/mehdihadeli). I created this re
 
 <a href="https://awesome-architecture.com"> ![home page](assets/home.png) </a>
 
-[![Sparkline](https://stars.medv.io/mehdihadeli/awesome-software-architecture.svg)](https://stars.medv.io/mehdihadeli/awesome-software-architecture)
 
 ## Support ⭐
 
@@ -30,3 +29,11 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 Thanks to all [contributors](https://github.com/mehdihadeli/awesome-software-architecture/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/mehdihadeli/awesome-software-architecture.svg)](https://starchart.cc/mehdihadeli/awesome-software-architecture)
+
+## Contributor over time
+
+[![Contributor over time](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=mehdihadeli/awesome-software-architecture)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=mehdihadeli/awesome-software-architecture)
