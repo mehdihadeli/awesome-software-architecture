@@ -18,4 +18,5 @@
 - [Mathias Verraes - Emergent Boundaries](https://www.youtube.com/watch?v=ECM1rPYxvD4)
 - [Context is King | Finding Service Boundaries Talk](https://www.youtube.com/watch?v=dnhshUdRW70)
 - [Defining Service Boundaries by Splitting Entities](https://www.youtube.com/watch?v=lGvYHmvXiyk)
-- [Bounded Contexts, Microservices, and Everything In Between - Vladik Khononov - KanDDDinsky 2018](https://www.youtube.com/watch?v=dlnu5pSsg7k&t=604s)
+- [Bounded Contexts, Microservices, and Everything In Between - Vladik Khononov - KanDDDinsky 2018](https://www.youtube.com/watch?v=dlnu5pSsg7k)
+- [DDD & Microservices: At Last, Some Boundaries! • Eric Evans • GOTO 2015](https://www.youtube.com/watch?v=yPvef9R3k-M)

@@ -1,5 +1,10 @@
 # GitHub Actions
 
+## Resources
+- [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
+- [GuillaumeFalourd/useful-actions](https://github.com/GuillaumeFalourd/useful-actions) - Curated list of useful Github actions with workflows examples 💡
+- [["28-github-actions"] Series' Articles](https://dev.to/bdougieyo/series/11453)
+- [28 Days of GitHub: Automating and Improving Your Workflow Series' Articles](https://dev.to/blackgirlbytes/series/16662)
 ## 📝 Articles
 - [.NET 💜 GitHub Actions](https://devblogs.microsoft.com/dotnet/dotnet-loves-github-actions/)
 - [Automate Azure AD B2C policies release with GitHub Actions](https://daniel-krzyczkowski.github.io/Automate-Azure-AD-B2C-policies-release-with-GitHub-Actions/)
@@ -12,6 +17,8 @@
 - [Configure GitHub Actions](https://docs.docker.com/ci-cd/github-actions/)
 - [Hello Docker CI / CD - Github Actions](https://www.basefactor.com/github-actions-docker)
 - [ASP.NET Core integration tests with docker-compose on GitHub Actions](https://blog.joaograssi.com/posts/2020/asp-net-core-integration-tests-with-docker-compose-github-actions/)
+- [Setup Continuous Delivery with GitHub Actions](https://dev.to/github/setup-continuous-delivery-with-github-actions-4pea)
+
 ## 📺 Videos
 - [Master GitHub Actions Tutorial - Playlist Cameron McKenzie](https://www.youtube.com/playlist?list=PL_RrEj88onS-um2xFy01sY46ik_2yt_EQ)
 - [Building Docker containers with GitHub Actions](https://www.youtube.com/watch?v=09lZdSpeHAk)

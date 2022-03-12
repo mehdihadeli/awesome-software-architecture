@@ -1,6 +1,7 @@
 # Concurrency 
 
 ## Articles
+- [Optimistic Concurrency](https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/optimistic-concurrency)
 - [Optimistic concurrency for pessimistic times](https://event-driven.io/en/optimistic_concurrency_for_pessimistic_times/)
 - [How to use ETag header for optimistic concurrency](https://event-driven.io/en/how_to_use_etag_header_for_optimistic_concurrency/)
 - [Concurrency Management in Entity Framework Core](https://www.learnentityframeworkcore.com/concurrency)
@@ -9,3 +10,13 @@
 - [Transactions and optimistic concurrency control](https://docs.microsoft.com/en-us/azure/cosmos-db/sql/database-transactions-optimistic-concurrency)
 - [Optimistic Locking with Version Number](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBMapper.OptimisticLocking.html)
 - [Handling concurrency – Aggregate Pattern and EF Core](http://www.kamilgrzybek.com/design/handling-concurrency-aggregate-pattern-and-ef-core/)
+- [Optimistic Concurrency in an HTTP API with ETags & Hypermedia](https://www.youtube.com/watch?v=2Nk3kCCyu3A)
+- [Handling Concurrency Conflicts](https://docs.microsoft.com/en-us/ef/core/saving/concurrency)
+- [How to handle concurrency in Entity Framework Core](https://www.mssqltips.com/sqlservertip/6115/how-to-handle-concurrency-in-entity-framework-core/)
+- [Handling data concurrency in EF Core and ASP.NET Core WebAPI](https://dejanstojanovic.net/aspnet/2018/november/handling-data-concurrency-in-ef-core-and-aspnet-core-webapi/)
+- [Concurrency Tokens](https://docs.microsoft.com/en-us/ef/core/modeling/concurrency)
+- [Handling Concurrency Conflicts](https://docs.microsoft.com/en-us/ef/core/saving/concurrency)
+- [Handling Concurrency in EF-Core](https://www.learnentityframeworkcore5.com/handling-concurrency-in-ef-core)
+- [Optimistic Concurrency Management in EntityFramework Core](https://codeburst.io/optimistic-concurrency-management-in-entityframework-core-79a4921067cb)
+- [Solving Concurrency in Event-Driven Microservices](https://medium.com/@hugo.oliveira.rocha/solving-concurrency-in-event-driven-microservices-79bbc13b597c)
+- [Optimistic concurrency in Event Store](https://developers.eventstore.com/clients/dotnet/5.0/appending.html#optimistic-concurrency)

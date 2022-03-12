@@ -73,7 +73,8 @@
 - [Can command return a value?](https://event-driven.io/en/can_command_return_a_value/)
 - [Busting some CQRS myths](https://lostechies.com/jimmybogard/2012/08/22/busting-some-cqrs-myths/)
 - [Event Sourcing and CQRS](https://zimarev.com/blog/event-sourcing/cqrs/)
-
+- [Overselling Event Sourcing](https://zimarev.com/blog/event-sourcing/myth-busting/2020-07-09-overselling-event-sourcing/)
+- [Live projections for read models with Event Sourcing and CQRS](https://www.eventstore.com/blog/live-projections-for-read-models-with-event-sourcing-and-cqrs)
 ## 📺 Videos
 - [CQRS is simpler than you think with C#9 and .NET 5!](https://www.eventstore.com/webinars/cqrs-is-simpler-than-you-think)
 - [Is CQRS Complicated? No, it's simple!](https://www.youtube.com/watch?v=LbVpPQaAgVY)
@@ -91,6 +92,7 @@
 - [Mini Course #1 Clean Architecture + CQRS](https://www.youtube.com/watch?v=NzcZcim9tp8)
 - [CQRS & Event Sourcing Code Walk-Through](https://www.youtube.com/watch?v=5aznkIEvkKc)
 - [Understanding CQRS Basics [ASP .NET C#]](https://www.youtube.com/watch?v=8uZd51-OAEw)
+- [Eventual Consistency is a UX Nightmare](https://www.youtube.com/watch?v=wEUTMuRSZT0)
 ## 📦 Libraries
 - [eventflow/EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
 - [gautema/CQRSlite](https://github.com/gautema/CQRSlite) - A lightweight framework to help creating CQRS and Eventsourcing applications in C#
@@ -129,3 +131,4 @@
 - [devmentors/PackIT](https://github.com/devmentors/PackIT) - PackIT is simple "packing list app" built on top of clean architecture and CQRS.
 - [Grauenwolf/PackIT](https://github.com/Grauenwolf/PackIT)
 - [DijanaPenic/DDD-VShop](https://github.com/DijanaPenic/DDD-VShop) - VShop is a sample .NET 6 application built as Modular Monolith with Domain-Driven Design (DDD) approach. Each module is an independent vertical slice with its custom architecture.
+- [m-jovanovic/event-reminder](https://github.com/m-jovanovic/event-reminder) - .NET Core Web API for seamless event organization with configurable notification systems.

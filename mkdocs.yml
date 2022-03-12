@@ -177,13 +177,12 @@ nav:
     - MetalLB: cloud-native/load-balancing/metallb.md
     - Nginx: cloud-native/load-balancing/nginx.md
     - Traefik: cloud-native/load-balancing/traefik.md
-    - Fabio: cloud-native/load-balancing/fabio.md
-  - Paas (Platform as a Service):
+  - Platform as a Service:
     - Rancher: cloud-native/paas/rancher.md
     - OpenShift: cloud-native/paas/openshift.md
     - Heroku: cloud-native/paas/heroku.md
     - Netlify: cloud-native/paas/netlify.md
-  - Iaas (Infrastructure as a Service):
+  - Infrastructure as a Service:
     - Infrastructure as a Service: cloud-native/iaas/iaas.md
     - Terraform: cloud-native/iaas/terraform.md
     - Pulumi: cloud-native/iaas/pulumi.md

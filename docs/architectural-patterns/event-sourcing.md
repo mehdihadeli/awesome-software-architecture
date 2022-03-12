@@ -121,6 +121,9 @@
 - [Event Store Subscribe to changes](https://developers.eventstore.com/clients/dotnet/5.0/subscriptions.html)
 - [Migration to gRPC client](https://developers.eventstore.com/clients/dotnet/5.0/migration-to-gRPC.html#update-the-target-framework)
 - [Event Schema Versioning](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/EventsVersioning)
+- [Event Sourcing: Snapshotting](https://domaincentric.net/blog/event-sourcing-snapshotting)
+- [Convince your CTO to use Event Sourcing](https://www.eventstore.com/blog/convincing-your-cto)
+
 ## 📺 Videos
 - [Event Sourcing Playlist - CodeOpinion](https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ)
 - [Event Sourcing Example & Explained in plain English](https://www.youtube.com/watch?v=AUj4M-st3ic)
@@ -150,6 +153,14 @@
 - [How an EventStore actually works - by Gregory Young](https://www.youtube.com/watch?v=YUjO1wM0PZM)
 - [Practical Event-Sourcing with C# and EventStore with Alexey Zimareff](https://www.youtube.com/watch?v=0RGuoRRHWf8)
 - [Eventuous: Event Sourcing with .NET, Alexey Zimarev](https://www.youtube.com/watch?v=IbnXdERLDjk)
+- [Introduction to Event Sourcing](https://learn.eventstore.com/webinar-recording-introduction-to-event-sourcing)
+- [Q&A - Event Sourcing, CQRS, and DDD](https://learn.eventstore.com/webinar-recording-qa-event-sourcing-cqrs-and-ddd)
+- [Eventual Consistency is a UX Nightmare](https://www.youtube.com/watch?v=wEUTMuRSZT0)
+- [Eventuous Event Sourcing with NET - Alexey Zimarev - NDC Oslo 2021](https://www.youtube.com/watch?v=4j7PyYT2GMU)
+- [Event sourcing meetup with Alexey Zimarev and Greg Young](https://www.youtube.com/watch?v=DDefPUCB9ao)
+- [PostgreSQL as NoSql with Marten by Pavlo Tsybulivskyi](https://www.youtube.com/watch?v=gZX6nrudTL0)
+- [Understanding Event Sourcing Basics [.NET C#]](https://www.youtube.com/watch?v=EGYMNsI_Opo)
+
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
@@ -169,6 +180,8 @@
 - [Slacquer/api-blox](https://github.com/Slacquer/api-blox) - .NetCore & AspNetCore API Building Blocks.
 - [learningcom/Learning.EventStore](https://github.com/learningcom/Learning.EventStore) - A framework for CQRS, Eventsourcing, and messaging that uses Redis pub/sub for messaging and offers event persistence in Redis, SQL Server, or PostgreSQL.
 - [liquidprojections/LiquidProjections](https://github.com/liquidprojections/LiquidProjections)
+- [EventStore/replicator](https://github.com/EventStore/replicator) - Real-time replication tool
+- [nstoredev/NStore](https://github.com/nstoredev/NStore)
 ## 🚀 Samples
 - [VenomAV/EventSourcingCQRS](https://github.com/VenomAV/EventSourcingCQRS)
 - [oskardudycz/EventSourcing.NetCore/Sample/EventStoreDB/Simple](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/EventStoreDB/Simple)
@@ -191,3 +204,4 @@
 - [Reacture/FoxOffice](https://github.com/Reacture/FoxOffice) - Sample application demonstrating how to build a distributed cloud .NET Core application based on CQRS and Event Sourcing.
 - [amolenk/CosmosEventSourcing](https://github.com/amolenk/CosmosEventSourcing) - Example of event sourcing implemented with Cosmos DB
 - [UbiquitousLanguage/WorkshopEventSourcing](https://github.com/UbiquitousLanguage/WorkshopEventSourcing) - Practical event-sourcing with C# workshop repository
+- [madslundt/NetCoreMicroservicesSample](https://github.com/madslundt/NetCoreMicroservicesSample)

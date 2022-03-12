@@ -21,8 +21,9 @@
 - [SOLID Wash Tunnel - Introduction](https://www.ledjonbehluli.com/posts/wash-tunnel/introduction/)
 
 ## 📺 Videos
-- [Design Patterns Explained with Food](https://www.youtube.com/playlist?list=PL3_YUnRN3Uhi-__AdJ3yWgDB95_GYeX3x)
-- [design patterns (C# Examples) - Youtube Playlist](https://www.youtube.com/playlist?list=PLOeFnOV9YBa4ary9fvCULLn7ohNKR6Ees)
+- [Design Patterns - SingletonSean Playlist](https://www.youtube.com/playlist?list=PLA8ZIAm2I03jaAbvEWk7nHlBYxy03JP46)
+- [Design Patterns Explained with Food - Wes Doyle Playlist](https://www.youtube.com/playlist?list=PL3_YUnRN3Uhi-__AdJ3yWgDB95_GYeX3x)
+- [Design Patterns (C# Examples) - Raw Coding Playlist](https://www.youtube.com/playlist?list=PLOeFnOV9YBa4ary9fvCULLn7ohNKR6Ees)
 
 ## Course
 - [CodeWithMosh - The Ultimate Design Patterns - Mosh Hamedani Course](https://codewithmosh.com/p/design-patterns)
