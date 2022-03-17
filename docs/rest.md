@@ -1,5 +1,7 @@
 # RESTful API Design
 
+## 📚 Books
+- [The Design of Web APIs, Arnaud Lauret](https://www.manning.com/books/the-design-of-web-apis)
 ## 📘 Resources
 - [https://restfulapi.net](https://restfulapi.net)
 - [whitehouse/api-standards](https://github.com/whitehouse/api-standards)
