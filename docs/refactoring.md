@@ -3,6 +3,9 @@
 
 ## 📕 Articles
 
+## 📚 Books
+- [Refactoring - Improving the Design of Existing Code, Martin Fowler](https://martinfowler.com/books/refactoring.html)
+
 ## 📺 Videos
 
 - [The refactoring test (1) - Dependency Inversion & Unit tests | Cracking the .NET interview](https://www.youtube.com/watch?v=U3QvTaw224o)
