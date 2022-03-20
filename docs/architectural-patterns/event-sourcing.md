@@ -123,7 +123,9 @@
 - [Event Schema Versioning](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/EventsVersioning)
 - [Event Sourcing: Snapshotting](https://domaincentric.net/blog/event-sourcing-snapshotting)
 - [Convince your CTO to use Event Sourcing](https://www.eventstore.com/blog/convincing-your-cto)
-
+- [The Right Way - Event Sourcing done right](https://eventuous.dev/docs/prologue/the-right-way/)
+- [Event Sourcing - Kamil](https://github.com/kgrzybek/modular-monolith-with-ddd#315-event-sourcing)
+- [What they don’t tell you about event sourcing](https://medium.com/@hugo.oliveira.rocha/what-they-dont-tell-you-about-event-sourcing-6afc23c69e9a)
 ## 📺 Videos
 - [Event Sourcing Playlist - CodeOpinion](https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ)
 - [Event Sourcing Example & Explained in plain English](https://www.youtube.com/watch?v=AUj4M-st3ic)
@@ -160,7 +162,7 @@
 - [Event sourcing meetup with Alexey Zimarev and Greg Young](https://www.youtube.com/watch?v=DDefPUCB9ao)
 - [PostgreSQL as NoSql with Marten by Pavlo Tsybulivskyi](https://www.youtube.com/watch?v=gZX6nrudTL0)
 - [Understanding Event Sourcing Basics [.NET C#]](https://www.youtube.com/watch?v=EGYMNsI_Opo)
-
+- [Understanding When to Snapshot [.NET C#]](https://www.youtube.com/watch?v=Y0EshPK32cg)
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
@@ -182,6 +184,9 @@
 - [liquidprojections/LiquidProjections](https://github.com/liquidprojections/LiquidProjections)
 - [EventStore/replicator](https://github.com/EventStore/replicator) - Real-time replication tool
 - [nstoredev/NStore](https://github.com/nstoredev/NStore)
+- [IEvangelist/azure-cosmos-dotnet-repository](https://github.com/IEvangelist/azure-cosmos-dotnet-repository) - Wraps the .NET SDK for Azure Cosmos DB abstracting away the complexity, exposing a simple CRUD-based repository pattern
+- [ForrestTech/Eventus](https://github.com/ForrestTech/Eventus) - A framework for creating updating and storing event sourced aggregates using a range of storage providers.
+- [NEventStore/NEventStore](https://github.com/NEventStore/NEventStore) - A persistence agnostic Event Store for .NET
 ## 🚀 Samples
 - [VenomAV/EventSourcingCQRS](https://github.com/VenomAV/EventSourcingCQRS)
 - [oskardudycz/EventSourcing.NetCore/Sample/EventStoreDB/Simple](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/EventStoreDB/Simple)
@@ -205,3 +210,5 @@
 - [amolenk/CosmosEventSourcing](https://github.com/amolenk/CosmosEventSourcing) - Example of event sourcing implemented with Cosmos DB
 - [UbiquitousLanguage/WorkshopEventSourcing](https://github.com/UbiquitousLanguage/WorkshopEventSourcing) - Practical event-sourcing with C# workshop repository
 - [madslundt/NetCoreMicroservicesSample](https://github.com/madslundt/NetCoreMicroservicesSample)
+- [Eventuous/dotnet-sample](https://github.com/Eventuous/dotnet-sample) - Sample application using Eventuous .NET
+- [oskardudycz/EventSourcing.NetCore/Workshops/IntroductionToEventSourcing](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Workshops/IntroductionToEventSourcing) - Introduction to Event Sourcing Workshop

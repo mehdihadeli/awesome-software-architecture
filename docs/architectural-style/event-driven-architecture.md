@@ -68,6 +68,8 @@
 - [How to DESIGN EVENT-DRIVEN applications! The best method for production applications!](https://www.youtube.com/watch?v=LaxH8GS8l3Q)
 - [Building a Webhooks System](https://www.youtube.com/watch?v=NuHC5uwbFAc)
 - [The Dark Side of Events](https://www.youtube.com/watch?v=URYPpY3SgS8)
+- [Event Driven Architecture in the Real World! 4 Practical Examples](https://www.youtube.com/watch?v=dhdLxW0vDro)
+- [Event Driven Architecture - Understanding the Basics](https://www.youtube.com/watch?v=LHgCA3XVNkw)
 ## 📚 Books
 - [Designing Event-Driven Systems](https://www.confluent.io/designing-event-driven-systems/)
 - [Building Event-Driven Microservices: Leveraging Organizational Data at Scale](https://www.amazon.com/Building-Event-Driven-Microservices-Leveraging-Organizational/dp/1492057894)

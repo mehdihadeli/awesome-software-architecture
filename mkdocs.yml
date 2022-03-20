@@ -148,6 +148,7 @@ nav:
   - Strategy Pattern: design-patterns/strategy-pattern.md
   - Adapter Pattern: design-patterns/adapter-pattern.md
   - Command Message Pattern: design-patterns/command-message-pattern.md
+  - Observer Pattern: design-patterns/observer.md
   - Chain Of Responsibility: design-patterns/chain-of-responsibility.md
   - AutoPilot Pattern: design-patterns/autopilot.md
   - Transaction Script Pattern: design-patterns/transaction-script-pattern.md

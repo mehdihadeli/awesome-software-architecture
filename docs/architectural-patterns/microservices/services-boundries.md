@@ -24,3 +24,4 @@
 - [Building Modular Monolith with ASP.NET Core, .NET 5 and C# 9 - Event Storming summary #Live 4](https://www.youtube.com/watch?v=fIOMxBc4-fI)
 - [Bounded Contexts, Microservices, and Everything In Between - Vladik Khononov - KanDDDinsky 2018](https://www.youtube.com/watch?v=dlnu5pSsg7k)
 - [DDD & Microservices: At Last, Some Boundaries! • Eric Evans • GOTO 2015](https://www.youtube.com/watch?v=yPvef9R3k-M)
+- [Microservices gets it WRONG defining Service Boundaries](https://www.youtube.com/watch?v=Uc7SLJbKAGo)

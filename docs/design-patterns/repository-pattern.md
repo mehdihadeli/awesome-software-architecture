@@ -28,6 +28,7 @@
 - [Should you use the Repository Pattern? With CQRS, Yes and No!](https://codeopinion.com/should-you-use-the-repository-pattern-with-cqrs-yes-and-no/)
 - [Implement Repository Pattern using .NET EF Core](https://thecodeblogger.com/2021/06/27/implement-repository-pattern-using-net-ef-core/)
 - [EF Core Repository with Specification Pattern in .NET](https://thecodeblogger.com/2021/07/01/ef-core-repository-with-specification-pattern-in-net/)
+- [Better Enhanced Repository Pattern Implementation in .NET ](https://levelup.gitconnected.com/better-enhanced-repository-pattern-implementation-in-net-c-4e6f4bbe48a9)
 ## 📺 Videos
 - [Repository Pattern with C# and Entity Framework - Mosh Hamedani](https://www.youtube.com/watch?v=rtXpYpZdOzM)
 - [Step by Step - Repository Pattern and Unit of Work with Asp.Net Core 5](https://www.youtube.com/watch?v=-jcf1Qq8A-4)
@@ -48,3 +49,4 @@
 - [TanvirArjel/EFCore.GenericRepository](https://github.com/TanvirArjel/EFCore.GenericRepository) - This repository contains Generic Repository implementation for Entity Framework Core
 - [Daniel127/EF-Unit-Of-Work](https://github.com/Daniel127/EF-Unit-Of-Work) - Repository and Unit of Work pattern implementation for Entity Framework Core.
 - [SharpRepository/SharpRepository](https://github.com/SharpRepository/SharpRepository) - C# Generic Repository for use with Entity Framework, RavenDB and more with built-in caching options.
+- [AhmedTarekHasan/BetterRepository](https://github.com/AhmedTarekHasan/BetterRepository)

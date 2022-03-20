@@ -29,3 +29,4 @@
 - [dorny/test-reporter](https://github.com/dorny/test-reporter) - Displays test results from popular testing frameworks directly in GitHub
 - [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx
 - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
+- [brandedoutcast/publish-nuget](https://github.com/brandedoutcast/publish-nuget) - 📦 GitHub action to automate publishing NuGet packages when project version changes

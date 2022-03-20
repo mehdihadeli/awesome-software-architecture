@@ -57,7 +57,7 @@
 - [confluentinc/confluent-kafka-dotnet/](https://github.com/confluentinc/confluent-kafka-dotnet/) - Confluent's Apache Kafka .NET client
 - [edenhill/kcat](https://github.com/edenhill/kcat) - Generic command line non-JVM Apache Kafka producer and consumer
 - [Confluent.SchemaRegistry](https://www.nuget.org/packages/Confluent.SchemaRegistry/)
-
+- [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web GUI for Apache Kafka Management
 ## 🚀 Samples
 - [dcomartin/Kafka.Demo](https://github.com/dcomartin/Kafka.Demo)
 - [oskardudycz/kafka-connect](https://github.com/oskardudycz/kafka-connect)

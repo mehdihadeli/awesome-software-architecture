@@ -33,3 +33,4 @@
 - [twzhangyang/RestAirline](https://github.com/twzhangyang/RestAirline) - DDD+CQRS+EventSourcing+Hypermedia API+ASP.NET Core 3.1+Masstransit+terraform+docker+k8s
 - [matjazbravc/Microservice.Architecture.Demo](https://github.com/matjazbravc/Microservice.Architecture.Demo) - This demo shows a working sample of microservices architecture using ASP.NET Core. It covers how to create microservices, how to create API gateways using Ocelot, how to use MassTransit as distributed application framework, RabbitMQ as message broker, how to unit test microservices using xUnit, how to monitor microservices using health checks
 - [maldworth/tutorial-masstransit-send-vs-publish](https://github.com/maldworth/tutorial-masstransit-send-vs-publish) - [http://www.maldworth.com/2015/10/27/masstransit-send-vs-publish/](http://www.maldworth.com/2015/10/27/masstransit-send-vs-publish/)
+- [MassTransit Samples](https://masstransit-project.com/learn/samples.html)

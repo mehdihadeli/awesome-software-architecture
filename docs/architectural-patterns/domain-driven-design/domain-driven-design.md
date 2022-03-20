@@ -87,6 +87,7 @@
 - [Implementing Domain Driven Design: Part II](https://dev.to/salah856/implementing-domain-driven-design-part-ii-2i36)
 - [Implementing Domain Driven Design: Part III](https://dev.to/salah856/implementing-domain-driven-design-part-iii-pe8)
 - [Implementing Domain Driven Design: Part IV](https://dev.to/salah856/implementing-domain-driven-design-part-iv-29m2)
+- [What is domain-centric architecture?](https://jlasoc.medium.com/what-is-domain-centric-architecture-e030e609c401)
 ## 📺 Videos
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU)

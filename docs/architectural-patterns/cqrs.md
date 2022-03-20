@@ -75,6 +75,8 @@
 - [Event Sourcing and CQRS](https://zimarev.com/blog/event-sourcing/cqrs/)
 - [Overselling Event Sourcing](https://zimarev.com/blog/event-sourcing/myth-busting/2020-07-09-overselling-event-sourcing/)
 - [Live projections for read models with Event Sourcing and CQRS](https://www.eventstore.com/blog/live-projections-for-read-models-with-event-sourcing-and-cqrs)
+- [6 Code Smells with your CQRS Events – and How to Avoid Them](https://danielwhittaker.me/2014/10/18/6-code-smells-cqrs-events-avoid/)
+
 ## 📺 Videos
 - [CQRS is simpler than you think with C#9 and .NET 5!](https://www.eventstore.com/webinars/cqrs-is-simpler-than-you-think)
 - [Is CQRS Complicated? No, it's simple!](https://www.youtube.com/watch?v=LbVpPQaAgVY)

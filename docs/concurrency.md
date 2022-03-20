@@ -20,3 +20,4 @@
 - [Optimistic Concurrency Management in EntityFramework Core](https://codeburst.io/optimistic-concurrency-management-in-entityframework-core-79a4921067cb)
 - [Solving Concurrency in Event-Driven Microservices](https://medium.com/@hugo.oliveira.rocha/solving-concurrency-in-event-driven-microservices-79bbc13b597c)
 - [Optimistic concurrency in Event Store](https://developers.eventstore.com/clients/dotnet/5.0/appending.html#optimistic-concurrency)
+- [Solving Concurrency in Event-Driven Microservices](https://itnext.io/solving-concurrency-in-event-driven-microservices-79bbc13b597c)

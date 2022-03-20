@@ -30,7 +30,7 @@
 - [Practical DDD in Golang: Domain Event](https://levelup.gitconnected.com/practical-ddd-in-golang-domain-event-de02ad492989)
 - [Simple Domain Events with EFCore and MediatR](https://cfrenzel.com/domain-events-efcore-mediatr/)
 - [Design validations in the domain model layer](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/domain-model-layer-validations)
-
+- [6 Code Smells with your CQRS Events – and How to Avoid Them](https://danielwhittaker.me/2014/10/18/6-code-smells-cqrs-events-avoid/)
 ## 🚀 Samples
 - [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture/blob/main/src/Clean.Architecture.Infrastructure/Data/AppDbContext.cs)
 - [vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices/blob/da6b9e0d0120693e0239a1dc4077ba452163d61a/src/BasicBuildingBlocks/N8T.Infrastructure.EfCore/Extensions.cs#L63)

@@ -106,6 +106,8 @@
 - [Beyond REST and RPC: Asynchronous Eventing and Messaging Patterns](https://www.youtube.com/watch?v=6zs-PhgfLU4)
 - [Modern .NET Messaging using MassTransit](https://www.youtube.com/watch?v=jQNQDLv7QmU)
 - [Was that message processed? Asynchronous Request-Response Pattern](https://www.youtube.com/watch?v=6UC6btG3wVI)
+- [Messaging Building Blocks: Commands & Events](https://www.youtube.com/watch?v=vw11J2BN7lY)
+- [Message delivery (at least-once, at most-once, exactly once?) | Messaging in distributed systems](https://www.youtube.com/watch?v=l6nLt4Km1cA)
 ## 📦 Libraries
 
 - [Enexure.MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - MicroBus is a simple in process Mediator for .NET
@@ -166,6 +168,7 @@
 - [cloudnative-netcore/netcorekit](https://github.com/cloudnative-netcore/netcorekit) - A crafted toolkit for building cloud-native apps on the .NET platform
 - [lucabriguglia/OpenCQRS](https://github.com/lucabriguglia/OpenCQRS) - .NET Standard framework to create simple and clean design. Advanced features for DDD, CQRS and Event Sourcing.
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
+- [christophe-mommer/CQELight](https://github.com/christophe-mommer/CQELight)
 ## 🚀 Samples
 - [devmentors/Messaging-In-Distributed-Systems](https://github.com/devmentors/Messaging-In-Distributed-Systems) - Code for all the messaging-related concepts/patterns described on YouTube during "Messaging in Distributed Systems" series.
 
@@ -176,3 +179,4 @@
 - [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://www.amazon.com/Streaming-Systems-Where-Large-Scale-Processing/dp/1491983876)
 - [Designing Event-Driven Systems](https://www.confluent.io/designing-event-driven-systems/)
 - [Building Event-Driven Microservices: Leveraging Organizational Data at Scale](https://www.amazon.com/Building-Event-Driven-Microservices-Leveraging-Organizational/dp/1492057894)
+- [Practical Event-Driven Microservices Architecture: Building Sustainable and Highly Scalable Event-Driven Microservices](https://www.amazon.com/Practical-Event-Driven-Microservices-Architecture-Sustainable/dp/1484274679/)
