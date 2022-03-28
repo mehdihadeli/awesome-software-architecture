@@ -77,6 +77,7 @@
 - [OpenTelemetry with Minimal APIs in .NET 6](https://www.youtube.com/watch?v=djLCqEzf72o)
 - [OpenTelemetry will save your day and night - Alexey Zimarev - NDC Oslo 2021](https://www.youtube.com/watch?v=pz4bNmlss3w)
 - [OpenMetrics, OpenTracing, OpenTelemetry - are we there yet? - Alexey Zimarev - NDC Oslo 2020](https://www.youtube.com/watch?v=0vl-4OhPyQY)
+- [MassTransit v8 - Open Telemetry](https://www.youtube.com/watch?v=WsTYClGrOVI)
 ## 🚀 Samples
 - [karlospn/opentelemetry-tracing-demo](https://github.com/karlospn/opentelemetry-tracing-demo) - Example about how to use OpenTelemetry for tracing when we have a series of distributed applications communicating between them
 - [jbogard/nsb-diagnostics-poc](https://github.com/jbogard/nsb-diagnostics-poc)

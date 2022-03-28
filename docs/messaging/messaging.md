@@ -108,6 +108,7 @@
 - [Was that message processed? Asynchronous Request-Response Pattern](https://www.youtube.com/watch?v=6UC6btG3wVI)
 - [Messaging Building Blocks: Commands & Events](https://www.youtube.com/watch?v=vw11J2BN7lY)
 - [Message delivery (at least-once, at most-once, exactly once?) | Messaging in distributed systems](https://www.youtube.com/watch?v=l6nLt4Km1cA)
+- [Message Ordering in Pub/Sub or Queue](https://www.youtube.com/watch?v=ILEb5LsSf5w)
 ## 📦 Libraries
 
 - [Enexure.MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - MicroBus is a simple in process Mediator for .NET

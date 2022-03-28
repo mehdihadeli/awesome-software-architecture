@@ -141,6 +141,7 @@
 - [Building Event-Driven Microservices with Event Sourcing and CQRS - Lidan Hifi](https://www.youtube.com/watch?v=XWTrcBqXi6s)
 - [Light and Dark Side of the Event-Driven Design • Oskar Dudycz • Devoxx Poland 2021](https://www.youtube.com/watch?v=0pYmuk0-N_4)
 - [Microservices gets it WRONG defining Service Boundaries](https://www.youtube.com/watch?v=Uc7SLJbKAGo)
+- [Microservices with .NET 6 and AWS Tutorial - Part 1](https://www.youtube.com/watch?v=ioa5RolwPKQ)
 ## 📦 Libraries
 
 - [dotnet/tye](https://github.com/dotnet/tye) - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.

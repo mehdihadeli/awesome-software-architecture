@@ -163,6 +163,7 @@
 - [PostgreSQL as NoSql with Marten by Pavlo Tsybulivskyi](https://www.youtube.com/watch?v=gZX6nrudTL0)
 - [Understanding Event Sourcing Basics [.NET C#]](https://www.youtube.com/watch?v=EGYMNsI_Opo)
 - [Understanding When to Snapshot [.NET C#]](https://www.youtube.com/watch?v=Y0EshPK32cg)
+- [Complex Projections in Event Sourcing [.NET C#]](https://www.youtube.com/watch?v=kv87iBsEP44)
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
@@ -187,6 +188,7 @@
 - [IEvangelist/azure-cosmos-dotnet-repository](https://github.com/IEvangelist/azure-cosmos-dotnet-repository) - Wraps the .NET SDK for Azure Cosmos DB abstracting away the complexity, exposing a simple CRUD-based repository pattern
 - [ForrestTech/Eventus](https://github.com/ForrestTech/Eventus) - A framework for creating updating and storing event sourced aggregates using a range of storage providers.
 - [NEventStore/NEventStore](https://github.com/NEventStore/NEventStore) - A persistence agnostic Event Store for .NET
+- [ircnelson/enjoy.cqrs](https://github.com/ircnelson/enjoy.cqrs) - This library help you to build your applications using CQRS and Event source concepts.
 ## 🚀 Samples
 - [VenomAV/EventSourcingCQRS](https://github.com/VenomAV/EventSourcingCQRS)
 - [oskardudycz/EventSourcing.NetCore/Sample/EventStoreDB/Simple](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/EventStoreDB/Simple)

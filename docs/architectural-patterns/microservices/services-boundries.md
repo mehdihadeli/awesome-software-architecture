@@ -10,6 +10,7 @@
 - [Finding Service Boundaries: The One Rule That Matters](https://medium.com/nick-tune-tech-strategy-blog/finding-service-boundaries-the-one-rule-that-matters-2bd00f4e0c78)
 - [Identifying microservice boundaries](https://docs.microsoft.com/en-us/azure/architecture/microservices/model/microservice-boundaries)
 ## 📺 Videos
+- [Finding your service boundaries - a practical guide - Adam Ralph](https://www.youtube.com/watch?v=tVnIUZbsxWI)
 - [Carving Microservices out of the Monolith with Domain Storytelling - Henning Schwentner](https://www.youtube.com/watch?v=ggdBPW_DWbE)
 - [Finding your service boundaries -- a practical guide](https://www.youtube.com/watch?v=655zq4Sdu2w)
 - [Finding System Boundaries with Domain Storytelling - Stefan Hofer - NDC London 2021](https://www.youtube.com/watch?v=RzyLfDqsgSo)
