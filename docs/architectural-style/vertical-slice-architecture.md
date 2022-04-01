@@ -80,6 +80,7 @@
 - [pdevito3/craftsman](https://github.com/pdevito3/craftsman) - A .NET 6 scaffolding tool to help you stop worrying about boilerplate and focus on your business logic
 - [oskardudycz/EventSourcing.NetCore/Sample/ECommerce](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/ECommerce)
 - [oskardudycz/EventSourcing.NetCore/MeetingsManagement](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/MeetingsManagement)
+- [oskardudycz/EventSourcing.JVM](https://github.com/oskardudycz/EventSourcing.JVM) - Examples and Tutorials of Event Sourcing in JVM languages
 ## 📚 Books
 
 - [An Atypical ASP.NET Core 5 Design Patterns Guide](https://www.packtpub.com/product/an-atypical-asp-net-core-5-design-patterns-guide/9781789346091)

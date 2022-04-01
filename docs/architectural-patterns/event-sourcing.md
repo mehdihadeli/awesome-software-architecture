@@ -164,6 +164,8 @@
 - [Understanding Event Sourcing Basics [.NET C#]](https://www.youtube.com/watch?v=EGYMNsI_Opo)
 - [Understanding When to Snapshot [.NET C#]](https://www.youtube.com/watch?v=Y0EshPK32cg)
 - [Complex Projections in Event Sourcing [.NET C#]](https://www.youtube.com/watch?v=kv87iBsEP44)
+- [Snapshotter for Asynchronous Projections [.NET C#]](https://www.youtube.com/watch?v=ZRr3jOXZGJg)
+- [Event Sourcing do's and don'ts](https://www.youtube.com/watch?v=SYsiIxJ-Nfw)
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
@@ -214,3 +216,4 @@
 - [madslundt/NetCoreMicroservicesSample](https://github.com/madslundt/NetCoreMicroservicesSample)
 - [Eventuous/dotnet-sample](https://github.com/Eventuous/dotnet-sample) - Sample application using Eventuous .NET
 - [oskardudycz/EventSourcing.NetCore/Workshops/IntroductionToEventSourcing](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Workshops/IntroductionToEventSourcing) - Introduction to Event Sourcing Workshop
+- [oskardudycz/EventSourcing.JVM](https://github.com/oskardudycz/EventSourcing.JVM) - Examples and Tutorials of Event Sourcing in JVM languages

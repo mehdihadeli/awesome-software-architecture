@@ -15,6 +15,8 @@
 - [What Is Sharding?](https://hazelcast.com/glossary/sharding)
 - [Database Sharding Explained- 2021 Database Scaling Tutorial](https://dev.to/renaissanceengineer/database-sharding-explained-2021-database-scaling-tutorial-5cej)
 - [How Sharding Works](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6)
+- [Data partitioning guidance](https://docs.microsoft.com/en-us/azure/architecture/best-practices/data-partitioning)
+- [Data partitioning strategies](https://docs.microsoft.com/en-us/azure/architecture/best-practices/data-partitioning-strategies)
 ## 📺 Videos
 - [What is Database Sharding?](https://www.youtube.com/watch?v=5faMjKuB9bc)
 - [What is Database Sharding?](https://www.youtube.com/watch?v=hdxdhCpgYo8)

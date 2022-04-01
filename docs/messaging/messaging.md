@@ -109,6 +109,7 @@
 - [Messaging Building Blocks: Commands & Events](https://www.youtube.com/watch?v=vw11J2BN7lY)
 - [Message delivery (at least-once, at most-once, exactly once?) | Messaging in distributed systems](https://www.youtube.com/watch?v=l6nLt4Km1cA)
 - [Message Ordering in Pub/Sub or Queue](https://www.youtube.com/watch?v=ILEb5LsSf5w)
+- [Avoiding a QUEUE Backlog Disaster with Backpressure & Flow Control](https://www.youtube.com/watch?v=BIGiLJJlE08)
 ## 📦 Libraries
 
 - [Enexure.MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - MicroBus is a simple in process Mediator for .NET

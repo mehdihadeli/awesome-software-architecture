@@ -166,6 +166,7 @@ nav:
   - Saga Pattern: cloud-design-patterns/saga.md
   - Strangler Fig Pattern: cloud-design-patterns/strangler-fig-pattern.md
   - Backends for Frontends: cloud-design-patterns/bff.md
+- Cloud Best Practices: cloud-best-practices.md
 - Cloud Native:
   - API Gateway: 
     - API Gateway: cloud-native/api-gateway/api-gateway.md
@@ -263,6 +264,7 @@ nav:
 - Caching: caching.md
 - Functional Programming: functional.md
 - Concurrency: concurrency.md
+- Sharding: sharding.md
 - Packaging: packaging.md
 - Refactoring: refactoring.md
 - NoSQL:
@@ -271,8 +273,6 @@ nav:
   - DocumentDB: nosql/documentdb.md
   - MongoDB: nosql/mongodb.md
   - Postgresql: nosql/postgresql.md
-  - Sharding:(nosql/sharding.md)
-  - NoSQL: nosql/NoSQL.md
 - Relational Database:
   - Postgresql: relational/postgres.md
 - Azure Cloud:

@@ -62,6 +62,8 @@
 - [Fanout Exchange in RabbitMQ [AMQP Protocol] - RabbitMQ Beginner to Advanced Tutorial - Part 02](https://www.youtube.com/watch?v=z-32VSl9t3s)
 - [RabbitMQ C# [RabbitMQ .Net] Implementation - RabbitMQ Beginner to Advanced Tutorial - Part 03](https://www.youtube.com/watch?v=3erQZTV52CI)
 - [RabbitMQ Best Practice | Webinar with CloudAMQP](https://www.youtube.com/watch?v=HzPOQsMWrGQ)
+- [How to Use RabbitMQ in ASP.NET Core](https://code-maze.com/aspnetcore-rabbitmq/)
+
 ## 📚 Books
 - [The Optimal RabbitMQ Guide](https://www.cloudamqp.com/rabbitmq_ebook.html)
 - [RabbitMQ in Action](https://www.manning.com/books/rabbitmq-in-action)

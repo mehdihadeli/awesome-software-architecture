@@ -1,6 +1,7 @@
 # Resiliency
 
 ## 📕 Articles
+- [Transient fault handling](https://docs.microsoft.com/en-us/azure/architecture/best-practices/transient-faults)
 - [Simmy, the monkey for making chaos](http://elvanydev.com/chaos-injection-with-simmy/)
 - [Building resilient applications with Polly](http://elvanydev.com/resilience-with-polly/)
 - [Simmy Chaos Engine for .NET – Part 1, Injecting Faults](https://nodogmablog.bryanhogan.net/2019/07/simmy-chaos-engine-for-net-part-1-injecting-faults/)

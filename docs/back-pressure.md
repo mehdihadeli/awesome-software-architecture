@@ -9,3 +9,4 @@
 - [Jay Phelps - Backpressure? Resistance is not futile. - Uphill Conf 2019](https://www.youtube.com/watch?v=NNGgMqpYPjk)
 - [Lessons Learned From PayPal: Back Pressure With Akka Streams And Kafka](https://www.youtube.com/watch?v=15jAG6-T_KE)
 - [Back Pressure in Action](https://www.youtube.com/watch?v=dsuvnoEezxs)
+- [Avoiding a QUEUE Backlog Disaster with Backpressure & Flow Control](https://www.youtube.com/watch?v=BIGiLJJlE08)

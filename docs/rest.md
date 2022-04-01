@@ -38,5 +38,7 @@
 - [CRUD API Design & CRUD API Recommendations](https://stoplight.io/blog/crud-api-design/)
 - [Principles & Best practices of REST API Design](https://zonito.medium.com/best-practice-and-cheat-sheet-for-rest-api-design-6a6e12dfa89f)
 - [Principles & Best practices of REST API Design](https://blog.devgenius.io/best-practice-and-cheat-sheet-for-rest-api-design-6a6e12dfa89f)
+- [RESTful web API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+- [Web API implementation](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-implementation)
 ## 📺 Videos
 - [Nate Barbettini – API Throwdown: RPC vs REST vs GraphQL, Iterate 20](https://www.youtube.com/watch?v=IvsANO0qZEg)
