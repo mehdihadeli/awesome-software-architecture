@@ -155,6 +155,7 @@ nav:
 - Cloud Design Patterns: 
   - Cloud Design Patterns: cloud-design-patterns/cloud-design-patterns.md
   - Ambassador Pattern: cloud-design-patterns/ambassador-pattern.md
+  - Sidecar Pattern: cloud-design-patterns/sidecar.md
   - Anti Corruption Layer Pattern: cloud-design-patterns/anti-corruption-layer-pattern.md
   - Bulkhead Pattern: cloud-design-patterns/bulkhead-pattern.md
   - Circuit Breaker Pattern: cloud-design-patterns/circuit-breaker.md

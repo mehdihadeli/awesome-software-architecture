@@ -137,7 +137,6 @@
 - [Darker](https://github.com/BrighterCommand/Darker) - The query-side counterpart of Brighter
 - [MassTransit](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET
 - [ViennaNET](https://github.com/Raiffeisen-DGTL/ViennaNET) - Framework for quickly creating enterprise microservices on .NET Core
-- [Fabrik.SimpleBus](https://github.com/benfoster/Fabrik.SimpleBus) - A simple In-Process Message Bus for .NET
 - [MemBus](https://github.com/flq/MemBus/tree/master/MemBus) - Pure In-Memory Publish/Subscribe .NET Bus
 - [Cysharp/MagicOnion](https://github.com/Cysharp/MagicOnion) - Unified Realtime/API framework for .NET platform and Unity.
 - [eventflow/EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET

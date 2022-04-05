@@ -3,9 +3,11 @@
 ## 📕 Articles
 - [DiagnosticSource User's Guide](https://github.com/dotnet/corefx/blob/master/src/System.Diagnostics.DiagnosticSource/src/DiagnosticSourceUsersGuide.md)
 - [Activity User Guide](https://github.com/dotnet/corefx/blob/master/src/System.Diagnostics.DiagnosticSource/src/ActivityUserGuide.md)
+- [EventSource User’s Guide](https://github.com/microsoft/dotnet-samples/blob/master/Microsoft.Diagnostics.Tracing/EventSource/docs/EventSource.md)
 - [Diagnostic Source in.Net Core](https://www.fatalerrors.org/a/diagnostic-source-in.net-core.html)
 - [Improve Activity API usability and OpenTelemetry integration](https://github.com/dotnet/designs/blob/main/accepted/2020/diagnostics/activity-improvements.md)
 - [Improve Activity API usability and OpenTelemetry integration (Part 2)](https://github.com/dotnet/designs/blob/main/accepted/2020/diagnostics/activity-improvements-2.md)
+- [The TraceEvent Library Programmers Guide](https://github.com/microsoft/dotnet-samples/blob/master/Microsoft.Diagnostics.Tracing/TraceEvent/docs/TraceEvent.md)
 - [What diagnostic tools are available in .NET Core?](https://docs.microsoft.com/en-us/dotnet/core/diagnostics/)
 - [.NET distributed tracing concepts](https://docs.microsoft.com/en-us/dotnet/core/diagnostics/distributed-tracing-concepts)
 - [Adding distributed tracing instrumentation](https://docs.microsoft.com/en-us/dotnet/core/diagnostics/distributed-tracing-instrumentation-walkthroughs)
@@ -62,6 +64,7 @@
 - [DiagnosticSource and Activity, Tracing in .NET Part 1 - .NET Concept of the Week - Episode 18](https://www.youtube.com/watch?v=y52l8XR3XK4)
 - [.NET Design Review: System.Diagnostics.Activity](https://www.youtube.com/watch?v=a3xPdYi6jYU)
 - [Diagnosing .NET 6 issues from sidecar containers using dotnet-monitor](https://www.youtube.com/watch?v=oCY9BsAw5oU)
+- [.NET Diagnostics for Applications: Best Practices](https://www.pluralsight.com/courses/dot-net-diagnostics-applications-best-practices)
 
 ## 🚀 Samples
 - [gregkalapos/DiagnosticSource](https://github.com/gregkalapos/DotNetConceptOfTheWeek/tree/master/18_DiagnosticSource)

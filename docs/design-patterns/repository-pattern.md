@@ -50,3 +50,4 @@
 - [Daniel127/EF-Unit-Of-Work](https://github.com/Daniel127/EF-Unit-Of-Work) - Repository and Unit of Work pattern implementation for Entity Framework Core.
 - [SharpRepository/SharpRepository](https://github.com/SharpRepository/SharpRepository) - C# Generic Repository for use with Entity Framework, RavenDB and more with built-in caching options.
 - [AhmedTarekHasan/BetterRepository](https://github.com/AhmedTarekHasan/BetterRepository)
+- [threenine/Threenine.Data](https://github.com/threenine/Threenine.Data) - Generic Repository Pattern for .net core

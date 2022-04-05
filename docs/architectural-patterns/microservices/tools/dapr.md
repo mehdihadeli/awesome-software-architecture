@@ -42,7 +42,7 @@
 - [Learn all about the latest features in Dapr](https://www.youtube.com/watch?v=I7A1bdoKV5M)
 - [Distributed Application Runtime, Introduction for .Net Developers](https://www.youtube.com/watch?v=ruQFIPZl2QM)
 - [Building reliable and portable microservices with Dapr and .NET](https://www.youtube.com/watch?v=Cb0tyU9uSLQ)
-
+- [Sidecar Pattern to SIMPLIFY services or just more COMPLEXITY?](https://www.youtube.com/watch?v=9zAjtcf9Wyo)
 ## 📦 Libraries
 - [dapr/dashboard](https://github.com/dapr/dashboard) - General purpose dashboard for Dapr
 

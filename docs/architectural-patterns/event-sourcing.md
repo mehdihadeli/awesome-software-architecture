@@ -166,6 +166,8 @@
 - [Complex Projections in Event Sourcing [.NET C#]](https://www.youtube.com/watch?v=kv87iBsEP44)
 - [Snapshotter for Asynchronous Projections [.NET C#]](https://www.youtube.com/watch?v=ZRr3jOXZGJg)
 - [Event Sourcing do's and don'ts](https://www.youtube.com/watch?v=SYsiIxJ-Nfw)
+- [Let's build the worst Event Sourcing system! - Oskar Dudycz - EventSourcing Live 2021](https://www.youtube.com/watch?v=Lu-skMQ-vAw)
+
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET

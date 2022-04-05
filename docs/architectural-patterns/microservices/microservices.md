@@ -8,7 +8,7 @@
 - [.NET Microservices: Architecture for Containerized .NET Applications](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/)
 - [Cloud-Native learning resources for .NET developers](https://devblogs.microsoft.com/dotnet/cloud-native-learning-resources-for-net-developers/)
 - [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices)
-
+- [Start Building .NET Microservices Today, Step by Step](https://dotnetmicroservices.com/)
 ## 📕 Articles
 - [Microservices - Martin Fowler](https://martinfowler.com/articles/microservices.html)
 - [Design a microservice-oriented application](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/microservice-application-design)
@@ -143,6 +143,8 @@
 - [Microservices gets it WRONG defining Service Boundaries](https://www.youtube.com/watch?v=Uc7SLJbKAGo)
 - [Microservices with .NET 6 and AWS Tutorial - Part 1](https://www.youtube.com/watch?v=ioa5RolwPKQ)
 - [Microservices with .NET 6 and AWS Tutorial - Part 2](https://www.youtube.com/watch?v=4hZ5ujckDXE)
+- [Microservices with .NET 6 and AWS Tutorial - Part 3](https://www.youtube.com/watch?v=mCLHw3GTHOo)
+- [Microservices with .NET 6 and AWS Tutorial - Part 4](https://www.youtube.com/watch?v=wXNDuF4J6Uc)
 ## 📦 Libraries
 
 - [rebus-org/Rebus](https://github.com/rebus-org/Rebus) - 🚌 Simple and lean service bus implementation for .NET
