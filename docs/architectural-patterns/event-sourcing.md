@@ -167,7 +167,8 @@
 - [Snapshotter for Asynchronous Projections [.NET C#]](https://www.youtube.com/watch?v=ZRr3jOXZGJg)
 - [Event Sourcing do's and don'ts](https://www.youtube.com/watch?v=SYsiIxJ-Nfw)
 - [Let's build the worst Event Sourcing system! - Oskar Dudycz - EventSourcing Live 2021](https://www.youtube.com/watch?v=Lu-skMQ-vAw)
-
+- [Snapshotter Service with distributed locks [.NET C#]](https://www.youtube.com/watch?v=NriFMN2UtZs)
+- [Introduction to Event Sourcing in TypeScript and NodeJS with EventStoreDB](https://www.youtube.com/watch?v=5pc7abhle_Q)
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET

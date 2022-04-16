@@ -66,6 +66,7 @@
 - [protobuf-net/protobuf-net](https://github.com/protobuf-net/protobuf-net) - Protocol Buffers library for idiomatic .NET
 - [Utils.Grpc.Mediator](https://github.com/gbauso/grpc_microservices/tree/master/lib/Utils.Grpc.Mediator/src/Utils.Grpc.Mediator)
 - [Cysharp/MagicOnion](https://github.com/Cysharp/MagicOnion) - Unified Realtime/API framework for .NET platform and Unity.
+- [AnthonyGiretti/grpc-aspnetcore-validator](https://github.com/AnthonyGiretti/grpc-aspnetcore-validator) - Simple request message validator for grpc.aspnetcore
 ## 🚀 Samples
 
 - [aspnetrun/run-aspnet-grpc](https://github.com/aspnetrun/run-aspnet-grpc) - Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5. See gRPC Microservices and Step by Step Implementation on .NET Course w/ discount

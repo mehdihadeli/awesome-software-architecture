@@ -9,6 +9,8 @@
 - [Cloud-Native learning resources for .NET developers](https://devblogs.microsoft.com/dotnet/cloud-native-learning-resources-for-net-developers/)
 - [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices)
 - [Start Building .NET Microservices Today, Step by Step](https://dotnetmicroservices.com/)
+- [Sairyss/distributed-systems-topics](https://github.com/Sairyss/distributed-systems-topics) - This is a list of topics and resources related to distributed systems, system design, microservices, scalability and performance, etc
+
 ## 📕 Articles
 - [Microservices - Martin Fowler](https://martinfowler.com/articles/microservices.html)
 - [Design a microservice-oriented application](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/microservice-application-design)
@@ -172,6 +174,7 @@
 - [GDATASoftwareAG/motornet](https://github.com/GDATASoftwareAG/motornet) - Motor.NET is a microservice framework based on Microsoft.Extensions.Hosting
 - [NHadi/Dermayon](https://github.com/NHadi/Dermayon) - Dermayon is Library for supporting build large application,distributed application, scalable, microservices, cqrs, event sourcing, including generic ef repository pattern with unit of work, generic mongo repository pattern with unit of work, kafka, etc
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
+- [Bullabs/Qitar](https://github.com/Bullabs/Qitar) - Domain Driven Design oriented application framework.
 ## 🚀 Samples
 
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
@@ -234,7 +237,8 @@
 - [anhkhoadx/Microservices](https://github.com/anhkhoadx/Microservices)
 - [NHadi/Pos](https://github.com/NHadi/Pos) - Sample Application DDD, Reactive Microservices, CQRS Event Sourcing Powered by DERMAYON LIBRARY
 - [m-jovanovic/event-reminder](https://github.com/m-jovanovic/event-reminder) - .NET Core Web API for seamless event organization with configurable notification systems.
-
+- [devmentors/myspot-micro](https://github.com/devmentors/myspot-micro)
+- [AleksK1NG/Java-Spring-CQRS-Microservice](https://github.com/AleksK1NG/Java-Spring-CQRS-Microservice) - Java-Spring-CQRS-Microservice
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
 - [Building Microservices: Designing Fine-Grained Systems, 2nd Edition](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1492034029)

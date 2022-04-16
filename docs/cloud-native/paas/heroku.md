@@ -16,6 +16,7 @@
 - [Deploy a PostgreSQL Database on Heroku](https://catalins.tech/heroku-postgres)
 - [Heroku: How to push different local Git branches to Heroku/master](https://stackoverflow.com/questions/2971550/heroku-how-to-push-different-local-git-branches-to-heroku-master)
 - [Deploying with Git](https://devcenter.heroku.com/articles/git)
+- [Deploy a PostgreSQL Database on Heroku](https://catalins.tech/heroku-postgres)
 ## 📹 Videos
 - [Deploy Asp.Net Core Website on Heroku using Docker](https://www.youtube.com/watch?v=gQMT4al2Grg)
 

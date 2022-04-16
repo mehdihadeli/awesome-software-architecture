@@ -11,6 +11,7 @@
 - [Message Topology](https://masstransit-project.com/advanced/topology/message.html)
 - [RabbitMQ](https://masstransit-project.com/advanced/topology/rabbitmq.html)
 - [Building an Event Driven .NET Application: Setting Up MassTransit and RabbitMQ](https://wrapt.dev/blog/building-an-event-driven-dotnet-application-setting-up-masstransit-and-rabbitmq)
+- [Using MassTransit with RabbitMQ in ASP.NET Core](https://code-maze.com/masstransit-rabbitmq-aspnetcore/)
 ## 📺 Videos
 - [MassTransit–Youtube videos](https://bartwullems.blogspot.com/2020/07/masstransityoutube-videos.html)
 - [Modern .NET Messaging using MassTransit](https://www.youtube.com/watch?v=jQNQDLv7QmU)

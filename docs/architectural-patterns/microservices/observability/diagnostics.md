@@ -65,6 +65,7 @@
 - [.NET Design Review: System.Diagnostics.Activity](https://www.youtube.com/watch?v=a3xPdYi6jYU)
 - [Diagnosing .NET 6 issues from sidecar containers using dotnet-monitor](https://www.youtube.com/watch?v=oCY9BsAw5oU)
 - [.NET Diagnostics for Applications: Best Practices](https://www.pluralsight.com/courses/dot-net-diagnostics-applications-best-practices)
+- [dotnet-monitor Fundamentals - Accessing .NET Diagnostics Easier](https://www.youtube.com/watch?v=pG0t19bEYJw)
 
 ## 🚀 Samples
 - [gregkalapos/DiagnosticSource](https://github.com/gregkalapos/DotNetConceptOfTheWeek/tree/master/18_DiagnosticSource)

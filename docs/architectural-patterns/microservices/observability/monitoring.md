@@ -8,3 +8,4 @@
 - [ASP.NET Core: Metrics](https://rafaelldi.blog/posts/asp-net-core-metrics/)
 ## 🚀 Samples
 - [Cingulara/dotnet-core-prometheus-grafana](https://github.com/Cingulara/dotnet-core-prometheus-grafana) - A tutorial repo to use .NET Core 2.2, Prometheus and Grafana to show metrics of your Web APIs
+- [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
