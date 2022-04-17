@@ -13,6 +13,7 @@
 - [System Design (Real World Examples)](https://interviewdaemon.com/courses/design-real-world-examples)
 - [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 - [Grokking System Design Interview Quizzes](https://github.com/ema2159/Grokking-System-Design-Interview-Quizzes)
+- [Sairyss/distributed-systems-topics](https://github.com/Sairyss/distributed-systems-topics) - This is a list of topics and resources related to distributed systems, system design, microservices, scalability and performance, etc
 ## 📕 Articles
 
 - [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)

@@ -79,10 +79,11 @@ nav:
   - YAGNI: architectural-design-principles/yagni.md
 - Architectural Patterns: 
   - Architectural Patterns: architectural-patterns/architectural-patterns.md
-  - Domain Driven Design - DDD: 
+  - Domain Driven Design: 
     - Domain Driven Design: architectural-patterns/domain-driven-design/domain-driven-design.md
     - Aggregation: architectural-patterns/domain-driven-design/aggregation.md
     - Anemic Domain Model: architectural-patterns/domain-driven-design/anemic-domain-model.md
+    - Rich Domain Model: architectural-patterns/domain-driven-design/rich-domain-model.md
     - Application Service: architectural-patterns/domain-driven-design/application-service.md
     - Anti Corruption Layer: cloud-design-patterns/anti-corruption-layer-pattern.md
     - Bounded Context: architectural-patterns/domain-driven-design/bounded-context.md
@@ -324,7 +325,7 @@ nav:
 - Open Source: open-source.md
 - Interview: interview.md
 - Architecture Decision Records (ADR): adr.md
-- Micro-Forntend: micro-frontend.md
+- Micro-Frontend: micro-frontend.md
 - Others: others.md
 
 
