@@ -12,7 +12,8 @@
 - [Build Micro Frontends with bit.dev](https://blog.bitsrc.io/how-we-build-micro-front-ends-d3eeeac0acfc)
 - [Micro-Frontend Mindmaps](https://github.com/santoshshinde2012/micro-frontends-mindmaps)
 - [11 Micro Frontends Frameworks You Should Know](https://itnext.io/11-micro-frontends-frameworks-you-should-know-b66913b9cd20)
-
+- [How to Build a Micro Frontend with Webpack's Module Federation Plugin](https://www.bitovi.com/blog/how-to-build-a-micro-frontend-architecture-with-angular)
+- [Module Federation and Angular Service Workers (PWA)](https://www.bitovi.com/blog/module-federation-and-angular-service-workers-pwa)
 ## 📹 Videos
 
 - [Micro-Frontends: What, why and how](https://www.youtube.com/watch?v=w58aZjACETQ)
@@ -27,3 +28,7 @@
 - [Building Micro-Frontends By Luca Mezzalira](https://www.oreilly.com/library/view/building-micro-frontends/9781492082989/)
 - [Micro Frontends in Action By Michael Geers](https://www.manning.com/books/micro-frontends-in-action)
 - [The Art of Micro Frontends By Florian Rappl](https://www.packtpub.com/product/the-art-of-micro-frontends/9781800563568)
+
+## 🔊 Podcasts
+
+- [What are MFEs?](https://open.spotify.com/episode/7cfGQTgdSgBkxcyXAvUbng)
