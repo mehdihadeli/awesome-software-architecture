@@ -169,6 +169,7 @@
 - [Let's build the worst Event Sourcing system! - Oskar Dudycz - EventSourcing Live 2021](https://www.youtube.com/watch?v=Lu-skMQ-vAw)
 - [Snapshotter Service with distributed locks [.NET C#]](https://www.youtube.com/watch?v=NriFMN2UtZs)
 - [Introduction to Event Sourcing in TypeScript and NodeJS with EventStoreDB](https://www.youtube.com/watch?v=5pc7abhle_Q)
+- [About Event Sourcing with Oskar Dudycz | Software as we know IT](https://www.youtube.com/watch?v=MARo6153qF8)
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
@@ -220,3 +221,4 @@
 - [Eventuous/dotnet-sample](https://github.com/Eventuous/dotnet-sample) - Sample application using Eventuous .NET
 - [oskardudycz/EventSourcing.NetCore/Workshops/IntroductionToEventSourcing](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Workshops/IntroductionToEventSourcing) - Introduction to Event Sourcing Workshop
 - [oskardudycz/EventSourcing.JVM](https://github.com/oskardudycz/EventSourcing.JVM) - Examples and Tutorials of Event Sourcing in JVM languages
+- [AleksK1NG/Java-Spring-CRQS-Eventsourcing-Microservice](https://github.com/AleksK1NG/Java-Spring-CRQS-Eventsourcing-Microservice) - Java-Spring-CRQS-Eventsourcing-Microservice

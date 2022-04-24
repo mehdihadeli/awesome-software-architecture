@@ -11,6 +11,8 @@
 - [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd)
 - [ddd-crew/ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process)
 - [ddd-crew/core-domain-charts](https://github.com/ddd-crew/core-domain-charts)
+- [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
+
 ## 📕 Articles
 - [Design a DDD-oriented microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice) 
 - [PPPDDD.1 – What is Domain Driven Design?](https://herbertograca.com/2016/08/15/pppddd-1-what-is-domain-driven-design/) 
@@ -88,6 +90,7 @@
 - [Implementing Domain Driven Design: Part III](https://dev.to/salah856/implementing-domain-driven-design-part-iii-pe8)
 - [Implementing Domain Driven Design: Part IV](https://dev.to/salah856/implementing-domain-driven-design-part-iv-29m2)
 - [What is domain-centric architecture?](https://jlasoc.medium.com/what-is-domain-centric-architecture-e030e609c401)
+- [Modeling Relationships in a DDD Way](https://enterprisecraftsmanship.com/posts/modeling-relationships-in-ddd-way/?__s=znryhzbsuow2jm4sezyo)
 ## 📺 Videos
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU)

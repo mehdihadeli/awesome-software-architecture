@@ -9,8 +9,8 @@
 - [Cloud-Native learning resources for .NET developers](https://devblogs.microsoft.com/dotnet/cloud-native-learning-resources-for-net-developers/)
 - [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices)
 - [Start Building .NET Microservices Today, Step by Step](https://dotnetmicroservices.com/)
-- [Sairyss/distributed-systems-topics](https://github.com/Sairyss/distributed-systems-topics) - This is a list of topics and resources related to distributed systems, system design, microservices, scalability and performance, etc
-
+- [Sairyss/distributed-systems-topics](https://github.com/Sairyss/distributed-systems-topics) - Topics and resources related to distributed systems, system design, microservices, scalability and performance, etc
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 ## 📕 Articles
 - [Microservices - Martin Fowler](https://martinfowler.com/articles/microservices.html)
 - [Design a microservice-oriented application](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/microservice-application-design)

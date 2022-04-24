@@ -17,6 +17,7 @@
 - [ardalis/DesignPatternsInCSharp](https://github.com/ardalis/DesignPatternsInCSharp)
 - [ledjon-behluli/SOLID-Wash-Tunnel](https://github.com/ledjon-behluli/SOLID-Wash-Tunnel) - Educational programming series on how to model an automatic wash tunnel with SOLID principles & various design patterns.
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
+- [the-builder-pattern-net-core](https://garywoodfine.com/the-builder-pattern-net-core) - C# Design Patterns Tutorial Sample Code
 ## 📕 Articles
 - [SOLID Wash Tunnel - Introduction](https://www.ledjonbehluli.com/posts/wash-tunnel/introduction/)
 

@@ -20,6 +20,7 @@
 - [What is Azure Service Bus?](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview)
 - [Competing Consumers pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/competing-consumers)
 - [A world of messages with Azure](https://blexin.com/en/blog-en/a-world-of-messages-with-azure/)
+- [Robust Messaging using Azure Service Bus](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/robust-messaging-using-azure-service-bus/ba-p/3275225)
 
 ## 📺 Videos
 
@@ -38,3 +39,4 @@
 - [damienbod/AspNetCoreServiceBus](https://github.com/damienbod/AspNetCoreServiceBus)
 - [WolfgangOfner/MicroserviceDemo](https://github.com/WolfgangOfner/MicroserviceDemo)
 - [jeffhollan/container-apps-dotnet-eventing](https://github.com/jeffhollan/container-apps-dotnet-eventing)
+- [monojit18/AzIntegrationServices](https://github.com/monojit18/AzIntegrationServices)
