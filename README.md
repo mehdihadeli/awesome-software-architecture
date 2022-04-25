@@ -29,6 +29,10 @@ Contributions are always welcome! Please take a look at the [contribution guidel
 
 Thanks to all [contributors](https://github.com/mehdihadeli/awesome-software-architecture/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
+<a href="https://github.com/mehdihadeli/awesome-software-architecture/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=mehdihadeli/awesome-software-architecture" />
+</a>
+
 
 ## Stargazers over time
 

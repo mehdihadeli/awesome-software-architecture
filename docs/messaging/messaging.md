@@ -112,6 +112,7 @@
 - [Message Ordering in Pub/Sub or Queue](https://www.youtube.com/watch?v=ILEb5LsSf5w)
 - [Avoiding a QUEUE Backlog Disaster with Backpressure & Flow Control](https://www.youtube.com/watch?v=BIGiLJJlE08)
 - [Avoiding Batch Jobs by a message in the FUTURE](https://www.youtube.com/watch?v=zWgqj2OEKX8)
+- [Message deduplication | Messaging in distributed systems - DevMentors](https://www.youtube.com/watch?v=TuMtG_27Khg)
 ## 📦 Libraries
 
 - [Enexure.MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - MicroBus is a simple in process Mediator for .NET
