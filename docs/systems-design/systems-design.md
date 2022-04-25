@@ -34,6 +34,7 @@
 - [Grokking the System Design Interview](https://www.youtube.com/playlist?list=PL73KFetZlkJSZ9vTDSJ1swZhe6CIYkqTL)
 - [System Design](https://www.youtube.com/playlist?list=PLhgw50vUymyckXl3D1IlXoVl94wknJfUC) 
 - [System Design Interview](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ)
+- [System Design Interview Course - tryexponent](https://www.tryexponent.com/courses/system-design-interview)
 ## 📚 Books
 - [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
 - [System Design Interview – An insider's guide, Second Edition](https://www.amazon.com/dp/B08CMF2CQF/ref=tsm_1_fb_lk)

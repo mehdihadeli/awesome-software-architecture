@@ -33,11 +33,11 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-software-arc
   <img src="https://contrib.rocks/image?repo=mehdihadeli/awesome-software-architecture" />
 </a>
 
+# Contact
+If you have any questions, let me know. You can reach me here:
 
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/mehdihadeli/awesome-software-architecture.svg)](https://starchart.cc/mehdihadeli/awesome-software-architecture)
-
-## Contributor over time
-
-[![Contributor over time](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=mehdihadeli/awesome-software-architecture)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=mehdihadeli/awesome-software-architecture)
+<!-- markdown-link-check-disable-next-line -->
+[![Linkedin Badge](https://img.shields.io/badge/Mehdi%20Hadeli-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdihadeli/)
+[![Twitter URL](https://img.shields.io/badge/-@mehdi_hadeli-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/mehdi_hadeli)
+[![Github Badge](https://img.shields.io/badge/mehdihadeli-100000?style=flate&logo=github&logoColor=white)](https://github.com/mehdihadeli/)
+[![Blog Badge](https://img.shields.io/badge/dotnetuniversity-FFA500?style=flat&logo=rss&logoColor=white)](https://dotnetuniversity.com/)
