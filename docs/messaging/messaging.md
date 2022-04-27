@@ -174,6 +174,7 @@
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [christophe-mommer/CQELight](https://github.com/christophe-mommer/CQELight)
 - [Bullabs/Qitar](https://github.com/Bullabs/Qitar) - Domain Driven Design oriented application framework.
+- [devmentors/micro-framework](https://github.com/devmentors/micro-framework) - Micro framework is a set of helpful components for building the microservices applications.
 ## 🚀 Samples
 - [devmentors/Messaging-In-Distributed-Systems](https://github.com/devmentors/Messaging-In-Distributed-Systems) - Code for all the messaging-related concepts/patterns described on YouTube during "Messaging in Distributed Systems" series.
 

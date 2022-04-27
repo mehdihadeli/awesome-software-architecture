@@ -175,6 +175,7 @@
 - [NHadi/Dermayon](https://github.com/NHadi/Dermayon) - Dermayon is Library for supporting build large application,distributed application, scalable, microservices, cqrs, event sourcing, including generic ef repository pattern with unit of work, generic mongo repository pattern with unit of work, kafka, etc
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [Bullabs/Qitar](https://github.com/Bullabs/Qitar) - Domain Driven Design oriented application framework.
+- [devmentors/micro-framework](https://github.com/devmentors/micro-framework) - Micro framework is a set of helpful components for building the microservices applications.
 ## 🚀 Samples
 
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.

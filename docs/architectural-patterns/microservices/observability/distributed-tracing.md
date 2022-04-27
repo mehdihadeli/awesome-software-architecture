@@ -100,6 +100,8 @@
 - [rafaelldi/open-telemetry-in-dotnet](https://github.com/rafaelldi/open-telemetry-in-dotnet) - Sample project for the article about OpenTelemetry in .NET
 - [rafaelldi/distributed-tracing-for-messaging](https://github.com/rafaelldi/distributed-tracing-for-messaging) - Sample project for the article about distributed tracing in messaging application
 - [thangchung/practical-opentelemetry](https://github.com/thangchung/practical-opentelemetry) - Make OpenTelemetry works on .NET Core with features such as tracing, logs and metrics on multiple protocols like HTTP/gRPC/UDP/TCP...
+- [jbogard/presentations/DistributedTracing](https://github.com/jbogard/presentations/tree/master/DistributedTracing)
+
 ## 📦 Libraries
 - [SkyAPM/SkyAPM-dotnet](https://github.com/SkyAPM/SkyAPM-dotnet) - The .NET/.NET Core instrument agent for Apache SkyWalking
 - [opentracing-contrib/csharp-netcore](https://github.com/opentracing-contrib/csharp-netcore) - OpenTracing instrumentation for .NET Core & .NET 5 apps

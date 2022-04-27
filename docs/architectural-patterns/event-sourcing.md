@@ -170,6 +170,7 @@
 - [Snapshotter Service with distributed locks [.NET C#]](https://www.youtube.com/watch?v=NriFMN2UtZs)
 - [Introduction to Event Sourcing in TypeScript and NodeJS with EventStoreDB](https://www.youtube.com/watch?v=5pc7abhle_Q)
 - [About Event Sourcing with Oskar Dudycz | Software as we know IT](https://www.youtube.com/watch?v=MARo6153qF8)
+- [Practical introduction to Event Sourcing with Spring Boot and EventStoreDB](https://www.youtube.com/watch?v=LaUSPtwFLSg)
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET

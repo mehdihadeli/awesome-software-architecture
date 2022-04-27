@@ -18,7 +18,7 @@
 - [Hello Docker CI / CD - Github Actions](https://www.basefactor.com/github-actions-docker)
 - [ASP.NET Core integration tests with docker-compose on GitHub Actions](https://blog.joaograssi.com/posts/2020/asp-net-core-integration-tests-with-docker-compose-github-actions/)
 - [Setup Continuous Delivery with GitHub Actions](https://dev.to/github/setup-continuous-delivery-with-github-actions-4pea)
-
+- [From Zero to Production - Generate everything with a single button](https://steven-giesel.com/blogPost/5f9e9f0d-2413-4e4b-8e38-9eebe9503e52)
 ## 📺 Videos
 - [Master GitHub Actions Tutorial - Playlist Cameron McKenzie](https://www.youtube.com/playlist?list=PL_RrEj88onS-um2xFy01sY46ik_2yt_EQ)
 - [Building Docker containers with GitHub Actions](https://www.youtube.com/watch?v=09lZdSpeHAk)
@@ -30,3 +30,4 @@
 - [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) - GitHub Action to set up Docker Buildx
 - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
 - [brandedoutcast/publish-nuget](https://github.com/brandedoutcast/publish-nuget) - 📦 GitHub action to automate publishing NuGet packages when project version changes
+- [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov

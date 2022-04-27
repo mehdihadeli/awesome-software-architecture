@@ -10,8 +10,16 @@ theme:
   font:
     text: Sora
   palette:
-    primary: 'deep purple'
-    accent: 'indigo'  
+    - media: "(prefers-color-scheme: light)" 
+      scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)" 
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
   prev_next_buttons_location: both
   navigation_depth: 4
   titles_only: False
@@ -132,6 +140,7 @@ nav:
       - SteelToe: architectural-patterns/microservices/tools/steeltoe.md
       - Tye: architectural-patterns/microservices/tools/tye.md
       - MassTransit: architectural-patterns/microservices/tools/mass-transit.md
+      - NService Bus: architectural-patterns/microservices/tools/nservice-bus.md
       - CAP: architectural-patterns/microservices/tools/cap.md
   - Serverless Architectural Pattern: architectural-patterns/serverless.md
   - MicroKernel Architectural Pattern: architectural-patterns/micro-kernel.md

@@ -90,7 +90,8 @@
 - [Implementing Domain Driven Design: Part III](https://dev.to/salah856/implementing-domain-driven-design-part-iii-pe8)
 - [Implementing Domain Driven Design: Part IV](https://dev.to/salah856/implementing-domain-driven-design-part-iv-29m2)
 - [What is domain-centric architecture?](https://jlasoc.medium.com/what-is-domain-centric-architecture-e030e609c401)
-- [Modeling Relationships in a DDD Way](https://enterprisecraftsmanship.com/posts/modeling-relationships-in-ddd-way/?__s=znryhzbsuow2jm4sezyo)
+- [Modeling Relationships in a DDD Way](https://enterprisecraftsmanship.com/posts/modeling-relationships-in-ddd-way/)
+- [How to create better code using Domain-Driven Design](https://www.altkomsoftware.com/blog/create-better-code-using-domain-driven-design/)
 ## 📺 Videos
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU)
@@ -175,7 +176,7 @@
 - [NHadi/Pos](https://github.com/NHadi/Pos) - Sample Application DDD, Reactive Microservices, CQRS Event Sourcing Powered by DERMAYON LIBRARY
 - [DijanaPenic/DDD-VShop](https://github.com/DijanaPenic/DDD-VShop) - VShop is a sample .NET 6 application built as Modular Monolith with Domain-Driven Design (DDD) approach. Each module is an independent vertical slice with its custom architecture.
 - [m-jovanovic/event-reminder](https://github.com/m-jovanovic/event-reminder) - .NET Core Web API for seamless event organization with configurable notification systems.
-
+- [jbogard/presentations/DomainDrivenRefactoring](https://github.com/jbogard/presentations/tree/master/DomainDrivenRefactoring)
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [xhafan/coreddd](https://github.com/xhafan/coreddd) - A set of open-source .NET libraries helping with domain-driven design (DDD) and CQRS
