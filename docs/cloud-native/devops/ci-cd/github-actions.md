@@ -31,3 +31,4 @@
 - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
 - [brandedoutcast/publish-nuget](https://github.com/brandedoutcast/publish-nuget) - 📦 GitHub action to automate publishing NuGet packages when project version changes
 - [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov
+- [github/codeql-action](https://github.com/github/codeql-action) - Actions for running CodeQL analysis

@@ -240,6 +240,7 @@
 - [m-jovanovic/event-reminder](https://github.com/m-jovanovic/event-reminder) - .NET Core Web API for seamless event organization with configurable notification systems.
 - [devmentors/myspot-micro](https://github.com/devmentors/myspot-micro)
 - [AleksK1NG/Java-Spring-CQRS-Microservice](https://github.com/AleksK1NG/Java-Spring-CQRS-Microservice) - Java-Spring-CQRS-Microservice
+- [desenvolvedor-io/dev-store](https://github.com/desenvolvedor-io/dev-store) - A microservices e-commerce reference application built with ASP.NET 6
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
 - [Building Microservices: Designing Fine-Grained Systems, 2nd Edition](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1492034029)
