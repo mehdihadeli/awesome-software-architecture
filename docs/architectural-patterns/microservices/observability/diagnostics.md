@@ -96,3 +96,4 @@
 - [jbogard/MongoDB.Driver.Core.Extensions.OpenTelemetry](https://github.com/jbogard/MongoDB.Driver.Core.Extensions.OpenTelemetry)
 - [jbogard/MongoDB.Driver.Core.Extensions.DiagnosticSources](https://github.com/jbogard/MongoDB.Driver.Core.Extensions.DiagnosticSources) - extends the core MongoDB C# driver to expose telemetry information via System.Diagnostics.
 - [spectreconsole/errata](https://github.com/spectreconsole/errata) - A library that makes it easy to create and display diagnostics of different kinds.
+- [alexvaluyskiy/prometheus-net-contrib](https://github.com/alexvaluyskiy/prometheus-net-contrib) - Exposes .NET core diagnostic listeners and counters

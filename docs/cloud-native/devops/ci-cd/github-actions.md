@@ -32,3 +32,10 @@
 - [brandedoutcast/publish-nuget](https://github.com/brandedoutcast/publish-nuget) - 📦 GitHub action to automate publishing NuGet packages when project version changes
 - [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov
 - [github/codeql-action](https://github.com/github/codeql-action) - Actions for running CodeQL analysis
+- [marketplace/actions/release-changelog-builder](https://github.com/marketplace/actions/release-changelog-builder) - A GitHub action that builds your release notes / changelog fast, easy and exactly the way you want.
+- [mindsers/changelog-reader-action](https://github.com/mindsers/changelog-reader-action) - A GitHub action to read and get data from the CHANGELOG.md file 🚀
+- [thomaseizinger/keep-a-changelog-new-release](https://github.com/thomaseizinger/keep-a-changelog-new-release) - Automatically update your CHANGELOG.md for a new release
+- [thomaseizinger/create-release](https://github.com/thomaseizinger/create-release) - A better GitHub action for creating a release.
+- [mikepenz/release-changelog-builder-action](https://github.com/mikepenz/release-changelog-builder-action) - A GitHub action that builds your release notes / changelog fast, easy and exactly the way you want.
+## Samples
+- [linkdotnet/deployment-template](https://github.com/linkdotnet/deployment-template/blob/main/.github/workflows)

@@ -74,6 +74,7 @@
 - [Distributed application with Project Tye](https://rafaelldi.blog/posts/distributed-application-with-project-tye/)
 - [Tracing for messaging application](https://rafaelldi.blog/posts/tracing-for-messaging-application/)
 - [Optimally Configuring Open Telemetry Tracing for ASP.NET Core](https://rehansaeed.com/optimally-configuring-open-telemetry-tracing-for-asp-net-core/)
+- [OpenTelemetry in Action: Identifying Database Dependencies](https://thecloudblog.net/post/opentelemetry-in-action-identifying-database-dependencies/)
 ## 📺 Videos
 - [Jimmy Bogard - Distributed Tracing Made Easy with .NET Core and OpenTelemetry](https://www.youtube.com/watch?v=s9UNr1oEMl4)
 - [On .NET Live - Cloud Native Patterns for .NET Developers](https://www.youtube.com/watch?v=PDdHa0ushJ0)
@@ -113,3 +114,4 @@
 - [jbogard/MongoDB.Driver.Core.Extensions.DiagnosticSources](https://github.com/jbogard/MongoDB.Driver.Core.Extensions.DiagnosticSources)
 - [open-telemetry/opentelemetry-dotnet-contrib](https://github.com/open-telemetry/opentelemetry-dotnet-contrib) - This repository contains set of components extending functionality of the OpenTelemetry .NET SDK. Instrumentation libraries, exporters, and other components can find their home here.
 - [open-telemetry/opentelemetry-dotnet/OpenTelemetry.Exporter.InMemory](https://github.com/open-telemetry/opentelemetry-dotnet/tree/main/src/OpenTelemetry.Exporter.InMemory) - The in-memory exporter stores data in a user provided memory buffer.
+- [alexvaluyskiy/prometheus-net-contrib](https://github.com/alexvaluyskiy/prometheus-net-contrib) - Exposes .NET core diagnostic listeners and counters

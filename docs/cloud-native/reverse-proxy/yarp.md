@@ -15,7 +15,7 @@
 - [Lessons Learned from Building the YARP Proxy on .NET](https://www.youtube.com/watch?v=WJcjlSEXqWA)
 - [YARP: The .NET Reverse proxy](https://docs.microsoft.com/en-us/shows/On-NET/YARP-The-NET-Reverse-proxy)
 - [Building FeedR - API Gateway with YARP (Microservices with .NET 6.0) episode #3](https://www.youtube.com/watch?v=jn0SFUennII)
-
+- [ASP.NET Community Standup - YARP 1.1 Release](https://www.youtube.com/watch?v=2AERbOJwXG4)
 ## 🚀 Samples
 - [manfredsteyer/yarp-auth-proxy](https://github.com/manfredsteyer/yarp-auth-proxy)
 - [damienbod/AspNetCoreYarp](https://github.com/damienbod/AspNetCoreYarp) - ASP.NET Core & Yarp reverse proxy with Azure AD OIDC, OAuth2

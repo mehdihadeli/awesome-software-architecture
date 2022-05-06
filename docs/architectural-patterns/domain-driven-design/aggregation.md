@@ -16,7 +16,7 @@
 - [Handling concurrency – Aggregate Pattern and EF Core](http://www.kamilgrzybek.com/design/handling-concurrency-aggregate-pattern-and-ef-core/)
 - [Link to an aggregate: reference or Id?](https://enterprisecraftsmanship.com/posts/link-to-an-aggregate-reference-or-id/)
 - [Avoid Exposing Collections Directly as Properties](https://ardalis.com/avoid-collections-as-properties/?utm_sq=grcpqjyka3)
-
+- [Aggregate Responsibility Design](https://ardalis.com/aggregate-responsibility-design/)
 ## 📺 Videos
 
 - [Aggregate (Root) Design: Separate Behavior & Data for Persistence](https://www.youtube.com/watch?v=GtWVGJp061A) 

@@ -125,6 +125,7 @@
 - [referbruv/ContainerNinja.CleanArchitecture](https://github.com/referbruv/ContainerNinja.CleanArchitecture) - ContainerNinja is a boilerplate template project to demonstrate building a multi-container Full Stack application with ASP.NET Core (.NET 6) Web API following Clean Architecture, and Angular.
 - [Grauenwolf/CleanArchitecture](https://github.com/Grauenwolf/CleanArchitecture) - Clean Architecture Solution Template for .NET 6
 - [DijanaPenic/DDD-VShop](https://github.com/DijanaPenic/DDD-VShop) - VShop is a sample .NET 6 application built as Modular Monolith with Domain-Driven Design (DDD) approach. Each module is an independent vertical slice with its custom architecture.
+- [kalintsenkov/BookStore](https://github.com/kalintsenkov/BookStore) - ASP.NET Core | Domain-Driven Design | Clean Architecture
 
 ## 📚 Books
 - [Get Your Hands Dirty on Clean Architecture](https://www.packtpub.com/product/get-your-hands-dirty-on-clean-architecture/9781839211966)

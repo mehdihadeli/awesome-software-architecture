@@ -94,7 +94,7 @@
 - [How (not) to cut microservices](https://event-driven.io/en/how_to_cut_microservices/)
 - [Data Consistency in Microservices Architecture](https://medium.com/garantibbva-teknoloji/data-consistency-in-microservices-architecture-5c67e0f65256)
 - [Event Sourcing and Microservices](https://zimarev.com/blog/event-sourcing/microservices/)
-
+- [Generating sortable Guids using NewId](https://andrewlock.net/generating-sortable-guids-using-newid/)
 ## 📺 Videos
 
 - [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) 

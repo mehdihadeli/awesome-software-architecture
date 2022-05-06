@@ -31,3 +31,7 @@
 - [burkeholland/heroes-api](https://github.com/burkeholland/heroes-api)
 - [ariksman/MoviesAzureFuncApi](https://github.com/ariksman/MoviesAzureFuncApi)
 - [jedi91/MovieSearch](https://github.com/jedi91/MovieSearch)
+
+## Libraries
+- [JamesRandall/FunctionMonkey](https://github.com/JamesRandall/FunctionMonkey) - Write more elegant Azure Functions with less boilerplate, more consistency, and support for REST APIs.
+- [smithgeek/voyager](https://github.com/smithgeek/voyager) - Alternative routing system for aspnet api applications.
