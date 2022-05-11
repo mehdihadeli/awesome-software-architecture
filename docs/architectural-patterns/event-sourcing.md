@@ -225,3 +225,5 @@
 - [AleksK1NG/Java-Spring-CRQS-Eventsourcing-Microservice](https://github.com/AleksK1NG/Java-Spring-CRQS-Eventsourcing-Microservice) - Java-Spring-CRQS-Eventsourcing-Microservice
 - [evgeniy-khist/eventstoredb-event-sourcing](https://github.com/evgeniy-khist/eventstoredb-event-sourcing) - EventStoreDB is the database for Event Sourcing. This repository provides a sample of event sourced system that uses EventStoreDB as event store.
 - [evgeniy-khist/postgresql-event-sourcing](https://github.com/evgeniy-khist/postgresql-event-sourcing) - PostgreSQL is the world's most advanced open source database. Also, PostgreSQL is suitable for Event Sourcing. This repository provides a sample of event sourced system that uses PostgreSQL as event store.
+- [Finaps/EventSourcing](https://github.com/Finaps/EventSourcing) - Event Sourcing in .NET 6
+- [bymyslf/payment-gateway](https://github.com/bymyslf/payment-gateway) - A sample project using Hexagonal (Ports & Adapters) architecture, Event Sourcing, CQRS and DDD tactical patterns

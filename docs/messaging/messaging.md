@@ -175,9 +175,8 @@
 - [christophe-mommer/CQELight](https://github.com/christophe-mommer/CQELight)
 - [Bullabs/Qitar](https://github.com/Bullabs/Qitar) - Domain Driven Design oriented application framework.
 - [devmentors/micro-framework](https://github.com/devmentors/micro-framework) - Micro framework is a set of helpful components for building the microservices applications.
-## 🚀 Samples
-- [devmentors/Messaging-In-Distributed-Systems](https://github.com/devmentors/Messaging-In-Distributed-Systems) - Code for all the messaging-related concepts/patterns described on YouTube during "Messaging in Distributed Systems" series.
-
+- [yang-xiaodong/Savorboard.CAP.InMemoryMessageQueue](https://github.com/yang-xiaodong/Savorboard.CAP.InMemoryMessageQueue) - In-Memory message queue for CAP
+- [osstotalsoft/nbb](https://github.com/osstotalsoft/nbb)
 ## 📚 Books
 - [Enterprise Integration Patterns](https://amazon.com/o/asin/0321200683/ref=nosim/enterpriseint-20)
 - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/)

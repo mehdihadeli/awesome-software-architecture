@@ -74,6 +74,7 @@
 - [Distributed application with Project Tye](https://rafaelldi.blog/posts/distributed-application-with-project-tye/)
 - [Tracing for messaging application](https://rafaelldi.blog/posts/tracing-for-messaging-application/)
 - [Optimally Configuring Open Telemetry Tracing for ASP.NET Core](https://rehansaeed.com/optimally-configuring-open-telemetry-tracing-for-asp-net-core/)
+- [OpenTelemetry in Action: Optimizing Database Operations](https://thecloudblog.net/post/opentelemetry-in-action-optimizing-database-operations/)
 - [OpenTelemetry in Action: Identifying Database Dependencies](https://thecloudblog.net/post/opentelemetry-in-action-identifying-database-dependencies/)
 ## 📺 Videos
 - [Jimmy Bogard - Distributed Tracing Made Easy with .NET Core and OpenTelemetry](https://www.youtube.com/watch?v=s9UNr1oEMl4)

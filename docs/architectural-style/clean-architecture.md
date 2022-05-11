@@ -47,7 +47,7 @@
 - [A quick introduction to clean architecture](https://www.freecodecamp.org/news/a-quick-introduction-to-clean-architecture-990c014448d2/)
 - [Clean Architecture Example & Breakdown](https://codeopinion.com/clean-architecture-example-breakdown/)
 - [Clean Architecture with ASP.NET Core](https://ardalis.com/clean-architecture-asp-net-core/)
-
+- [Clean Architecture — ASP.NET Core API using Partitioned Repository Pattern with Azure Cosmos DB](https://medium.com/swlh/clean-architecture-with-partitioned-repository-pattern-using-azure-cosmos-db-62241854cbc5)
 ## 📺 Videos
 - [Clean Testing - Clean Architecture with .NET Core - Jason Taylor - NDC Oslo 2020](https://www.youtube.com/watch?v=T6NRcX1vnz8) 
 - [Clean Architecture with ASP.NET Core 3.0 - Jason Taylor](https://www.youtube.com/watch?v=5OtUm1BLmG0) 
@@ -126,6 +126,7 @@
 - [Grauenwolf/CleanArchitecture](https://github.com/Grauenwolf/CleanArchitecture) - Clean Architecture Solution Template for .NET 6
 - [DijanaPenic/DDD-VShop](https://github.com/DijanaPenic/DDD-VShop) - VShop is a sample .NET 6 application built as Modular Monolith with Domain-Driven Design (DDD) approach. Each module is an independent vertical slice with its custom architecture.
 - [kalintsenkov/BookStore](https://github.com/kalintsenkov/BookStore) - ASP.NET Core | Domain-Driven Design | Clean Architecture
+- [ShawnShiSS/clean-architecture-azure-cosmos-db](https://github.com/ShawnShiSS/clean-architecture-azure-cosmos-db) - A starting point to build a web API to work with Azure Cosmos DB using .NET 5 and Azure Cosmos DB .NET SDK V3, based on Clean Architecture and repository design pattern. Partition key is also implemented through the repository pattern.
 
 ## 📚 Books
 - [Get Your Hands Dirty on Clean Architecture](https://www.packtpub.com/product/get-your-hands-dirty-on-clean-architecture/9781839211966)

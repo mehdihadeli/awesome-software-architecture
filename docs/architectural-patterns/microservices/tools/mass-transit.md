@@ -35,3 +35,5 @@
 - [matjazbravc/Microservice.Architecture.Demo](https://github.com/matjazbravc/Microservice.Architecture.Demo) - This demo shows a working sample of microservices architecture using ASP.NET Core. It covers how to create microservices, how to create API gateways using Ocelot, how to use MassTransit as distributed application framework, RabbitMQ as message broker, how to unit test microservices using xUnit, how to monitor microservices using health checks
 - [maldworth/tutorial-masstransit-send-vs-publish](https://github.com/maldworth/tutorial-masstransit-send-vs-publish) - [http://www.maldworth.com/2015/10/27/masstransit-send-vs-publish/](http://www.maldworth.com/2015/10/27/masstransit-send-vs-publish/)
 - [MassTransit Samples](https://masstransit-project.com/learn/samples.html)
+- [bartstc/booking-app](https://github.com/bartstc/booking-app) - A comprehensive Domain Driven Design example with microservices and various tactical patterns.
+- [pdevito3/WeSendReportsCompany](https://github.com/pdevito3/WeSendReportsCompany) - an example repo for sending direct messages using masstransit and rabbitmq
