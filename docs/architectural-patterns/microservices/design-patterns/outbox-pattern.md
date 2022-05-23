@@ -13,6 +13,7 @@
 - [Handling Duplicate Messages (Idempotent Consumers)](https://codeopinion.com/handling-duplicate-messages-idempotent-consumers/)
 - [CAP: Event Bus & Outbox Pattern](https://codeopinion.com/cap-event-bus-outbox-pattern/)
 - [Reliable Microservices Data Exchange With the Outbox Pattern](https://debezium.io/blog/2019/02/19/reliable-microservices-data-exchange-with-the-outbox-pattern/)
+- [Implementing the Outbox Pattern Using Hangfire and MediatR CQRS Handlers](https://www.fusonic.net/en/blog/cqrs-outbox-with-hangfire)
 ## 📺 Videos
 - [Reliably Save State & Publish Events (Outbox Pattern)](https://www.youtube.com/watch?v=u8fOnxAxKHk)
 - [CAP: Event Bus & Outbox Pattern](https://www.youtube.com/watch?v=dnhPzILvgeo)

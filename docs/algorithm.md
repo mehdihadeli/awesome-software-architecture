@@ -6,7 +6,7 @@
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms Implemented in GoLang
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 - [SeanPrashad/leetcode-patterns](https://github.com/SeanPrashad/leetcode-patterns/tree/solutions)
-
+- [RehanSaeed/.NET-Big-O-Algorithm-Complexity-Cheat-Sheet](https://github.com/RehanSaeed/.NET-Big-O-Algorithm-Complexity-Cheat-Sheet) - Big-O complexities of common algorithms used in .NET and Computer Science.
 ## Practices
 - [Blind 75 LeetCode Questions](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 - [LEETCODE PATTERNS](https://seanprashad.com/leetcode-patterns/)

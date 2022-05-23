@@ -1,6 +1,7 @@
 # Tye
 
 ## 📘 Resources
+- [Tye Docs](https://github.com/dotnet/tye/tree/main/docs)
 - [dotnet/tye](https://github.com/dotnet/tye) - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
 
 ## 📕 Articles
@@ -25,6 +26,7 @@
 - [Building FeedR - Tye, PM2, Docker (Microservices with .NET 6.0) episode #2](https://www.youtube.com/watch?v=DbUt_0E8TKo)
 
 ## 🚀 Samples
+- [dotnet/tye/tree/main/samples](https://github.com/dotnet/tye/tree/main/samples)
 - [vietnam-devs/coolstore-microservices/tye.yaml](https://github.com/vietnam-devs/coolstore-microservices/blob/main/tye.yaml)
 - [thangchung/clean-architecture-dotnet/tye.yaml](https://github.com/thangchung/clean-architecture-dotnet/blob/main/samples/tye.yaml)
 - [devmentors/FeedR/tye.yml](https://github.com/devmentors/FeedR/blob/master/tye.yml)

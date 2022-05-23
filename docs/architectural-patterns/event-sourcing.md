@@ -126,6 +126,7 @@
 - [The Right Way - Event Sourcing done right](https://eventuous.dev/docs/prologue/the-right-way/)
 - [Event Sourcing - Kamil](https://github.com/kgrzybek/modular-monolith-with-ddd#315-event-sourcing)
 - [What they don’t tell you about event sourcing](https://medium.com/@hugo.oliveira.rocha/what-they-dont-tell-you-about-event-sourcing-6afc23c69e9a)
+- [Reactive Event Sourcing in Java, Part 1: Domain](https://softwaremill.com/reactive-event-sourcing-in-java-part-1-domain/)
 ## 📺 Videos
 - [Event Sourcing Playlist - CodeOpinion](https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ)
 - [Event Sourcing Example & Explained in plain English](https://www.youtube.com/watch?v=AUj4M-st3ic)
@@ -227,3 +228,4 @@
 - [evgeniy-khist/postgresql-event-sourcing](https://github.com/evgeniy-khist/postgresql-event-sourcing) - PostgreSQL is the world's most advanced open source database. Also, PostgreSQL is suitable for Event Sourcing. This repository provides a sample of event sourced system that uses PostgreSQL as event store.
 - [Finaps/EventSourcing](https://github.com/Finaps/EventSourcing) - Event Sourcing in .NET 6
 - [bymyslf/payment-gateway](https://github.com/bymyslf/payment-gateway) - A sample project using Hexagonal (Ports & Adapters) architecture, Event Sourcing, CQRS and DDD tactical patterns
+- [softwaremill/reactive-event-sourcing-java](https://github.com/softwaremill/reactive-event-sourcing-java)

@@ -9,6 +9,9 @@
 - [Kubernetes multi-node cluster with k3s and multipass](https://levelup.gitconnected.com/kubernetes-cluster-with-k3s-and-multipass-7532361affa3)
 - [Bare-metal Kubernetes with K3s](https://blog.alexellis.io/bare-metal-kubernetes-with-k3s/)
 
+## Videos
+- [Single-node Kubernetes Clusters Using K3s with Benefits of GitOps • Lasse Højgaard • GOTO 2021](https://www.youtube.com/watch?v=ePyFJ7Hd57Q)
+
 ## 📦 Libraries
 - [k3s-io/k3s-ansible](https://github.com/k3s-io/k3s-ansible) - Build a Kubernetes cluster using Ansible with k3s.
 

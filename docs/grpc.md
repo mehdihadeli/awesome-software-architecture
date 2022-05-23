@@ -42,6 +42,7 @@
 - [Protobuf In C# .NET – Part 2 – Serializing/Deserializing](https://dotnetcoretutorials.com/2022/01/13/protobuf-in-c-net-part-2-serializing-deserializing/)
 - [Code-first gRPC services and clients with .NET](https://docs.microsoft.com/en-us/aspnet/core/grpc/code-first)
 - [gRPC Server Reflection in the .NET world](https://martinbjorkstrom.com/posts/2020-07-08-grpc-reflection-in-net)
+- [Announcing gRPC JSON transcoding for .NET](https://devblogs.microsoft.com/dotnet/announcing-grpc-json-transcoding-for-dotnet/)
 ## 📹 Videos
 
 - [Bidirectional Streaming | gRPC in .NET 5](https://www.youtube.com/watch?v=wY4nMSUF9e0)
@@ -56,7 +57,7 @@
 - [Nate Barbettini – API Throwdown: RPC vs REST vs GraphQL, Iterate 20](https://www.youtube.com/watch?v=IvsANO0qZEg)
 - [High-performance services with gRPC: What's new in .NET 6](https://www.youtube.com/watch?v=CXH_jEa8dUw)
 - [gRPC Load Balancing on Kubernetes - Jan Tattermusch, Google (Intermediate Skill Level)](https://www.youtube.com/watch?v=F2znfxn_5Hg)
-
+- [ASP.NET Community Standup - gRPC Updates in .NET 7](https://www.youtube.com/watch?v=ds27V6rNick)
 ## Courses
 - [Secure .Net Microservices with IdentityServer4 OAuth2,OpenID](https://www.udemy.com/course/secure-net-microservices-with-identityserver4-oauth2openid/?couponCode=2E7C1D32B62DF23A5A7D)
 

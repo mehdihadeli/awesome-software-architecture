@@ -12,6 +12,10 @@
 - [RabbitMQ](https://masstransit-project.com/advanced/topology/rabbitmq.html)
 - [Building an Event Driven .NET Application: Setting Up MassTransit and RabbitMQ](https://wrapt.dev/blog/building-an-event-driven-dotnet-application-setting-up-masstransit-and-rabbitmq)
 - [Using MassTransit with RabbitMQ in ASP.NET Core](https://code-maze.com/masstransit-rabbitmq-aspnetcore/)
+- [Publishing messages](https://masstransit-project.com/understand/publishing.html)
+- [Key concepts](https://masstransit-project.com/understand/key-ideas.html)
+- [Under the hood](https://masstransit-project.com/understand/under-the-hood.html)
+- [Ability to exclude interfaces/classes from topic/exchange creation](https://github.com/MassTransit/MassTransit/issues/2018)
 ## 📺 Videos
 - [MassTransit–Youtube videos](https://bartwullems.blogspot.com/2020/07/masstransityoutube-videos.html)
 - [Modern .NET Messaging using MassTransit](https://www.youtube.com/watch?v=jQNQDLv7QmU)
@@ -20,6 +24,7 @@
 - [RabbitMQ MassTransit - ASP NET Core](https://www.youtube.com/watch?v=sOwkIz07gvo)
 - [MassTransit and RabbitMQ - Playlist - Garry Taylor](https://www.youtube.com/playlist?list=PL8vZpHuqa_hOP8f1AT5r8FSP1fKm9ALZO)
 - [MassTransit Commute - Wire Tapping with RabbitMQ](https://www.youtube.com/watch?v=vNpXjy7psxs)
+- [MassTransit Commute - Wire Tapping with RabbitMQ](https://youtu.be/vNpXjy7psxs)
 ## 📦 Libraries
 - [GokGokalp/MetroBus](https://github.com/GokGokalp/MetroBus) - Lightweight messaging wrapper of MassTransit
 - [NCodeGroup/MassTransit.Extensions.Hosting](https://github.com/NCodeGroup/MassTransit.Extensions.Hosting) - MassTransit configuration extensions using Microsoft.Extensions.Hosting.IHostedService and Microsoft.Extensions.DependencyInjection.

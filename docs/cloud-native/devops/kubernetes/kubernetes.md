@@ -22,6 +22,7 @@
 - [Deploying ASP.NET Core applications to Kubernetes - Part 2](https://andrewlock.net/deploying-asp-net-core-applications-to-kubernetes-part-2-configuring-resources-with-yaml-manifests/)
 - [How to Add MySql & MongoDB to a Kubernetes .Net Core Microservice Architecture](https://dev.to/christianzink/databases-in-a-kubernetes-angular-net-core-microservice-architecture-22jc)
 - [Building and publishing .NET Core Micro-services to Kubernetes using Azure DevOps](https://fizzylogic.nl/2019/11/15/building-and-publishing-net-core-microservices-to-kubernetes-using-azure-devops)
+- [Managing Applications in Kubernetes with the Carvel Kapp Controller](https://thecloudblog.net/post/managing-applications-in-kubernetes-with-the-carvel-kapp-controller/)
 ## 📺 Videos
 - [Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]](https://www.youtube.com/watch?v=X48VuDVv0do)
 - [Kubernetes Daemonsets explained | Tutorial | Kubernetes Guide](https://www.youtube.com/watch?v=RGSeeN-o-kQ)
@@ -37,6 +38,9 @@
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 - [kubeshop/testkube](https://github.com/kubeshop/testkube) - Kubernetes-native framework for test definition and execution
+- [vmware-tanzu/carvel](https://github.com/vmware-tanzu/carvel) - Carvel provides a set of reliable, single-purpose, composable tools that aid in your application building, configuration, and deployment to Kubernetes. This repo contains information regarding the Carvel open-source community.
+- [FairwindsOps/Polaris](https://github.com/FairwindsOps/Polaris) - Validation of best practices in your Kubernetes clusters
+- [FairwindsOps/pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes
 
 ## 🚀 Samples
 - [arashkaffamanesh/practical-kubernetes-problems](https://github.com/arashkaffamanesh/practical-kubernetes-problems) - For Kubernauts' Practical Kubernetes Trainings

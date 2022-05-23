@@ -50,7 +50,9 @@
 - [(Consumer) Delivery Acknowledgements](https://www.rabbitmq.com/confirms.html#consumer-acknowledgements)
 - [Introducing Publisher Confirms](https://blog.rabbitmq.com/posts/2011/02/introducing-publisher-confirms)
 - [Publisher confirms with RabbitMQ and C#](https://rianjs.net/2013/12/publisher-confirms-with-rabbitmq-and-c-sharp)
-
+- [Exchange to Exchange binding in RabbitMQ](https://jstobigdata.com/rabbitmq/exchange-to-exchange-binding-in-rabbitmq/)
+- [RabbitMQ Exchange Types](https://medium.com/trendyol-tech/rabbitmq-exchange-types-d7e1f51ec825)
+- [Wire Tap Enterprise Integration Pattern](https://www.baeldung.com/wiretap-pattern)
 ## 📺 Videos
 - [The best online training tool for RabbitMQ](https://training.cloudamqp.com/)
 - [What is RabbitMQ?](https://youtu.be/7rkeORD4jSw)

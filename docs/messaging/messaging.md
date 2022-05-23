@@ -77,6 +77,8 @@
 - [What's the difference between a command and an event?](https://event-driven.io/en/whats_the_difference_between_event_and_command/)
 - [Events should be as small as possible, right?](https://event-driven.io/en/events_should_be_as_small_as_possible/)
 - [How to build a simple event pipeline](https://event-driven.io/en/how_to_build_simple_event_pipeline/)
+- [Wire Tap Enterprise Integration Pattern](https://www.baeldung.com/wiretap-pattern)
+- [Wire Tap](https://www.enterpriseintegrationpatterns.com/WireTap.html)
 ## 📺 Videos
 
 - [Handling Concurrency with Message-IDs | Event Driven Architecture](https://www.youtube.com/watch?v=wefvl2ohiQc)
