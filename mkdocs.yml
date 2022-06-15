@@ -276,7 +276,6 @@ nav:
 - Functional Programming: functional.md
 - Concurrency: concurrency.md
 - Sharding: sharding.md
-- Packaging: packaging.md
 - Refactoring: refactoring.md
 - NoSQL:
   - NoSQL: nosql/nosql.md

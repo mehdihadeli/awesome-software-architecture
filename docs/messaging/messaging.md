@@ -79,6 +79,7 @@
 - [How to build a simple event pipeline](https://event-driven.io/en/how_to_build_simple_event_pipeline/)
 - [Wire Tap Enterprise Integration Pattern](https://www.baeldung.com/wiretap-pattern)
 - [Wire Tap](https://www.enterpriseintegrationpatterns.com/WireTap.html)
+- [Message Ordering in Pub/Sub or Queues](https://codeopinion.com/message-ordering-in-pub-sub-or-queues/)
 ## 📺 Videos
 
 - [Handling Concurrency with Message-IDs | Event Driven Architecture](https://www.youtube.com/watch?v=wefvl2ohiQc)

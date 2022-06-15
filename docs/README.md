@@ -6,13 +6,19 @@
 
 > Curated list of awesome articles and resources to learn and practice software architecture, patterns and principles. this repository will be updated continuously, keep yourself up to date .
 
-## Support ⭐
+I created this repository to share a set of links that I found valuable and inspiring and I share them with others for improving our knowledge to
 
+## 🙏 Special Thanks
+
+Thanks to the authors of the links for their valuable content, that I gather them in one place for finding topcis easier 🙏
+
+## ⭐ Support 
 If you like feel free to ⭐ this repository, It helps out :)
 
 Thanks a bunch for supporting me!
 
-## Contribution
+
+## 🤝 Contribution
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/contributing.md) pages first.
 
 Thanks to all [contributors](https://github.com/mehdihadeli/awesome-software-architecture/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
