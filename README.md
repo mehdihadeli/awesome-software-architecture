@@ -7,20 +7,23 @@
 
 I created this repository to share a set of links that I found valuable and inspiring and I share them with others for improving our knowledge together ✌️. 
 
-Also thanks a lot, the links authors for their valuable content 🙏
-
 **🚀 This awesome list is available in this link:**
 **[https://awesome-architecture.com](https://awesome-architecture.com/)**
 
 <a href="https://awesome-architecture.com"> ![home page](assets/home.png) </a>
 
-## Support ⭐
 
+## 🙏 Special Thanks
+
+Thanks to the authors of the links for their valuable content, that I gather them in one place for finding topcis easier 🙏
+
+## ⭐ Support 
 If you like feel free to ⭐ this repository, It helps out :)
 
 Thanks a bunch for supporting me!
 
-## Contribution
+
+## 🤝 Contribution
 
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/contributing.md)) pages first.
 
