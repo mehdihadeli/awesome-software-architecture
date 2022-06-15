@@ -15,7 +15,7 @@ I created this repository to share a set of links that I found valuable and insp
 
 ## 🙏 Special Thanks
 
-Thanks to the authors of the links for their valuable content, that I gather them in one place for finding topcis easier 🙏
+Thanks to the authors of the links for their valuable content, that I gather them in one place for finding topcis easier.
 
 ## ⭐ Support 
 If you like feel free to ⭐ this repository, It helps out :)
