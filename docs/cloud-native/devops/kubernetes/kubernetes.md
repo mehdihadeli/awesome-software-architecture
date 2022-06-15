@@ -41,7 +41,7 @@
 - [vmware-tanzu/carvel](https://github.com/vmware-tanzu/carvel) - Carvel provides a set of reliable, single-purpose, composable tools that aid in your application building, configuration, and deployment to Kubernetes. This repo contains information regarding the Carvel open-source community.
 - [FairwindsOps/Polaris](https://github.com/FairwindsOps/Polaris) - Validation of best practices in your Kubernetes clusters
 - [FairwindsOps/pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes
-
+- [ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
 ## 🚀 Samples
 - [arashkaffamanesh/practical-kubernetes-problems](https://github.com/arashkaffamanesh/practical-kubernetes-problems) - For Kubernauts' Practical Kubernetes Trainings
 - [ContainerSolutions/kubernetes-examples](https://github.com/ContainerSolutions/kubernetes-examples) - Minimal self-contained examples of standard Kubernetes features and patterns in YAML

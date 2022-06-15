@@ -15,6 +15,7 @@
 - [Grokking System Design Interview Quizzes](https://github.com/ema2159/Grokking-System-Design-Interview-Quizzes)
 - [Sairyss/distributed-systems-topics](https://github.com/Sairyss/distributed-systems-topics) - This is a list of topics and resources related to distributed systems, system design, microservices, scalability and performance, etc
 - [bregman-arie/system-design-notebook](https://github.com/bregman-arie/system-design-notebook) - Learn System Design step by step
+- [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet
 ## 📕 Articles
 
 - [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)

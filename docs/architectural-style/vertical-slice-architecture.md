@@ -51,6 +51,8 @@
 - [Organize by Feature](https://codeopinion.com/organize-by-feature/)
 - [Why I don’t like layered architecture for microservices](https://garywoodfine.com/why-i-dont-like-layered-architecture-for-microservices/)
 - [How to Implement Vertical Slice Architecture](https://garywoodfine.com/implementing-vertical-slice-architecture/)
+- [Maybe it's time to rethink our project structure with .NET 6](https://timdeschryver.dev/blog/maybe-its-time-to-rethink-our-project-structure-with-dot-net-6)
+- [The simplicity of ASP.NET Endpoints](https://timdeschryver.dev/blog/the-simplicity-of-net-endpoints)
 ## 📺 Videos
 
 - [SOLID Architecture in Slices not Layers - Jimmy Bogard](https://vimeo.com/131633177)

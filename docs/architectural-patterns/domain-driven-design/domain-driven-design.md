@@ -92,6 +92,8 @@
 - [What is domain-centric architecture?](https://jlasoc.medium.com/what-is-domain-centric-architecture-e030e609c401)
 - [Modeling Relationships in a DDD Way](https://enterprisecraftsmanship.com/posts/modeling-relationships-in-ddd-way/)
 - [How to create better code using Domain-Driven Design](https://www.altkomsoftware.com/blog/create-better-code-using-domain-driven-design/)
+- [DDD building blocks - Kamil Lelonek](https://blog.lelonek.me/ddd-building-blocks-for-ruby-developers-cdc6c25a80d2)
+
 ## 📺 Videos
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU)
@@ -179,6 +181,7 @@
 - [jbogard/presentations/DomainDrivenRefactoring](https://github.com/jbogard/presentations/tree/master/DomainDrivenRefactoring)
 - [pdevito3/domain-events-example](https://github.com/pdevito3/domain-events-example)
 - [bymyslf/payment-gateway](https://github.com/bymyslf/payment-gateway) - A sample project using Hexagonal (Ports & Adapters) architecture, Event Sourcing, CQRS and DDD tactical patterns
+- [idugalic/digital-restaurant](https://github.com/idugalic/digital-restaurant) - DDD. Event sourcing. CQRS. REST. Modular. Microservices. Kotlin. Spring. Axon platform. Apache Kafka. RabbitMQ
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [xhafan/coreddd](https://github.com/xhafan/coreddd) - A set of open-source .NET libraries helping with domain-driven design (DDD) and CQRS

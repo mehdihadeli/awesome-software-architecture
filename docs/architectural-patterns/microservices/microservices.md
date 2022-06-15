@@ -95,6 +95,8 @@
 - [Data Consistency in Microservices Architecture](https://medium.com/garantibbva-teknoloji/data-consistency-in-microservices-architecture-5c67e0f65256)
 - [Event Sourcing and Microservices](https://zimarev.com/blog/event-sourcing/microservices/)
 - [Generating sortable Guids using NewId](https://andrewlock.net/generating-sortable-guids-using-newid/)
+
+
 ## 📺 Videos
 
 - [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) 
@@ -147,6 +149,7 @@
 - [Microservices with .NET 6 and AWS Tutorial - Part 2](https://www.youtube.com/watch?v=4hZ5ujckDXE)
 - [Microservices with .NET 6 and AWS Tutorial - Part 3](https://www.youtube.com/watch?v=mCLHw3GTHOo)
 - [Microservices with .NET 6 and AWS Tutorial - Part 4](https://www.youtube.com/watch?v=wXNDuF4J6Uc)
+- [Shared Database between Services? Maybe!](https://www.youtube.com/watch?v=vwTwkPUcwNM)
 ## 📦 Libraries
 
 - [rebus-org/Rebus](https://github.com/rebus-org/Rebus) - 🚌 Simple and lean service bus implementation for .NET
@@ -241,6 +244,8 @@
 - [devmentors/myspot-micro](https://github.com/devmentors/myspot-micro)
 - [AleksK1NG/Java-Spring-CQRS-Microservice](https://github.com/AleksK1NG/Java-Spring-CQRS-Microservice) - Java-Spring-CQRS-Microservice
 - [desenvolvedor-io/dev-store](https://github.com/desenvolvedor-io/dev-store) - A microservices e-commerce reference application built with ASP.NET 6
+- [idugalic/digital-restaurant](https://github.com/idugalic/digital-restaurant) - DDD. Event sourcing. CQRS. REST. Modular. Microservices. Kotlin. Spring. Axon platform. Apache Kafka. RabbitMQ
+- [fraktalio/order-demo](https://github.com/fraktalio/order-demo) - Axon demo - `Order Management` Information System - A part of the systems landscape
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
 - [Building Microservices: Designing Fine-Grained Systems, 2nd Edition](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1492034029)

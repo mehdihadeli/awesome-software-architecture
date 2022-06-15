@@ -37,5 +37,7 @@
 - [thomaseizinger/keep-a-changelog-new-release](https://github.com/thomaseizinger/keep-a-changelog-new-release) - Automatically update your CHANGELOG.md for a new release
 - [thomaseizinger/create-release](https://github.com/thomaseizinger/create-release) - A better GitHub action for creating a release.
 - [mikepenz/release-changelog-builder-action](https://github.com/mikepenz/release-changelog-builder-action) - A GitHub action that builds your release notes / changelog fast, easy and exactly the way you want.
+- [Tyrrrz/GitHubActionsTestLogger](https://github.com/Tyrrrz/GitHubActionsTestLogger)
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally
 ## Samples
 - [linkdotnet/deployment-template](https://github.com/linkdotnet/deployment-template/blob/main/.github/workflows)

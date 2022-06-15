@@ -22,6 +22,7 @@
 - [Domain Events](https://verraes.net/2014/11/domain-events/)
 - [Patterns for Decoupling in Distributed Systems: Explicit Public Events](http://verraes.net/2019/05/patterns-for-decoupling-distsys-explicit-public-events/)
 - [Immediate Domain Event Salvation with MediatR](https://ardalis.com/immediate-domain-event-salvation-with-mediatr/)
+- [Design a No Duplicates Rule in your Domain Model?](https://ardalis.com/design-no-duplicates-rule-in-domain-model/?utm_sq=gz8joz8bw5)
 - [From Domain to Integration Events](https://www.ledjonbehluli.com/posts/domain_to_integration_event/)
 - [Domain Events - Before Persistence](https://www.weeklydevtips.com/episodes/022)
 - [Domain Events - After Persistence](https://weeklydevtips.com/episodes/23-f8eec63c)
@@ -31,6 +32,7 @@
 - [Simple Domain Events with EFCore and MediatR](https://cfrenzel.com/domain-events-efcore-mediatr/)
 - [Design validations in the domain model layer](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/domain-model-layer-validations)
 - [6 Code Smells with your CQRS Events – and How to Avoid Them](https://danielwhittaker.me/2014/10/18/6-code-smells-cqrs-events-avoid/)
+- [Domain Events - Alexey Zimarev](https://alexey-zimarev.medium.com/domain-events-f56555258cf5)
 ## 🚀 Samples
 - [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture/blob/main/src/Clean.Architecture.Infrastructure/Data/AppDbContext.cs)
 - [vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices/blob/da6b9e0d0120693e0239a1dc4077ba452163d61a/src/BasicBuildingBlocks/N8T.Infrastructure.EfCore/Extensions.cs#L63)

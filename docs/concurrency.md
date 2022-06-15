@@ -21,3 +21,9 @@
 - [Solving Concurrency in Event-Driven Microservices](https://medium.com/@hugo.oliveira.rocha/solving-concurrency-in-event-driven-microservices-79bbc13b597c)
 - [Optimistic concurrency in Event Store](https://developers.eventstore.com/clients/dotnet/5.0/appending.html#optimistic-concurrency)
 - [Solving Concurrency in Event-Driven Microservices](https://itnext.io/solving-concurrency-in-event-driven-microservices-79bbc13b597c)
+- [Five RESTFul Web Design Patterns Implemented in ASP.NET Core 2.0 Part 4: Optimistic Concurrency](https://blog.jeremylikness.com/blog/2017-12-15_five-restful-web-design-patterns-implemented-in-asp.net-core-2.0-part-4-optimistic-concurrency/)
+- [Implementing optimistic concurrency with EF Core](https://dzimchuk.net/implementing-optimistic-concurrency-with-ef-core/)
+- [Optimistic concurrency control in ASP.NET WebAPI](https://tudorturcu.wordpress.com/2012/04/30/optimistic-concurrency-control-asp-net-webapi-en/)
+- [Optimistic concurrency support in HTTP and WebAPI – part 2](https://tudorturcu.wordpress.com/2012/05/17/optimistic-concurrency-support-in-http-and-webapi-part-2/)
+# Videos
+- [Optimistic Concurrency in an HTTP API with ETags & Hypermedia](https://www.youtube.com/watch?v=2Nk3kCCyu3A)
