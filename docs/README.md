@@ -1,6 +1,5 @@
 # 🎨 Awesome Software Architecture [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-(https://img.shields.io/badge/blog-dotnetuniversity.com-brightgreen?style=flat-square)](https://dotnetuniversity.com/)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-brightgreen.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 ![](./banner.png)
