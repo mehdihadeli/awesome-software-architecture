@@ -4,7 +4,7 @@
 
 ![](./banner.png)
 
-> Curated list of awesome articles and resources to learn and practice about software architecture, patterns and principles. this repository will be updated continuously, keep yourself up to date .
+> Curated list of awesome articles and resources to learn and practice software architecture, patterns and principles. this repository will be updated continuously, keep yourself up to date .
 
 ## Support ⭐
 
