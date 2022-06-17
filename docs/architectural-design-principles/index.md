@@ -3,7 +3,7 @@
   - [Cohesion](cohesion.md)
   - [Command Query Separation - CQS](cqs.md)
   - [Coupling](coupling.md)
-  - [Crosscutting Concerns](crosscutting-concerns.md)
+  - [Crosscutting Concerns](cross-cutting-concerns.md)
   - [Dependency Inversion](dependency-inversion.md)
   - [Don't Repeat Yourself - DRY](dry.md)
   - [Encapsulation](encapsulation.md)
