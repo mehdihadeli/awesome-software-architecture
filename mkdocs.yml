@@ -54,16 +54,12 @@ markdown_extensions:
 nav:
 - Software Architecture: software-architecture.md
 - Algorithms: algorithm.md
-- Architectural Style: 
-  - Architectural Style: architectural-style/architectural-style.md
-  - N-Layer Architecture: architectural-style/nlayer-architecture.md
-  - Clean Architecture: architectural-style/clean-architecture.md
-  - Onion Architecture: architectural-style/onion-architecture.md
-  - Hexagonal Architecture: architectural-style/hexagonal-architecture.md
-  - Vertical Slice Architecture: architectural-style/vertical-slice-architecture.md
-  - Event Driven Architecture: architectural-style/event-driven-architecture.md
-  - Service Oriented Architecture: architectural-style/service-oriented-architecture.md
-  - Component Based Architecture: architectural-style/component-based-architecture.md
+- Clean Architecture: clean-architecture.md
+- Onion Architecture: onion-architecture.md
+- Hexagonal Architecture: hexagonal-architecture.md
+- Vertical Slice Architecture: vertical-slice-architecture.md
+- Event Driven Architecture: event-driven-architecture.md
+- Service Oriented Architecture: service-oriented-architecture.md
 - Architectural Design Principles: 
   - Architectural Design Principles: architectural-design-principles/architectural-design-principles.md
   - CAP Theorem: architectural-design-principles/cap.md
@@ -85,66 +81,63 @@ nav:
   - Single Responsibility: architectural-design-principles/single-responsibility.md
   - SOLID: architectural-design-principles/solid.md
   - YAGNI: architectural-design-principles/yagni.md
-- Architectural Patterns: 
-  - Architectural Patterns: architectural-patterns/architectural-patterns.md
-  - Domain Driven Design: 
-    - Domain Driven Design: architectural-patterns/domain-driven-design/domain-driven-design.md
-    - Aggregation: architectural-patterns/domain-driven-design/aggregation.md
-    - Anemic Domain Model: architectural-patterns/domain-driven-design/anemic-domain-model.md
-    - Rich Domain Model: architectural-patterns/domain-driven-design/rich-domain-model.md
-    - Application Service: architectural-patterns/domain-driven-design/application-service.md
-    - Anti Corruption Layer: cloud-design-patterns/anti-corruption-layer-pattern.md
-    - Bounded Context: architectural-patterns/domain-driven-design/bounded-context.md
-    - Domain Events: architectural-patterns/domain-driven-design/domain-events.md
-    - Integration Events: architectural-patterns/domain-driven-design/integration-event.md
-    - Primitive obsession: architectural-patterns/domain-driven-design/domain-primitives.md
-    - Domain Service: architectural-patterns/domain-driven-design/domain-service.md
-    - Enums: architectural-patterns/domain-driven-design/enums.md
-    - Exception And Validation: architectural-patterns/domain-driven-design/exception-and-validation.md
-    - Infrastructure: architectural-patterns/domain-driven-design/infrastructure.md
-    - Mapping: architectural-patterns/domain-driven-design/mapping.md
-    - Persistence Ignorance: architectural-design-principles/persistence-ignorance.md
-    - Strategic Design Patterns: architectural-patterns/domain-driven-design/strategic-design-patterns.md
-    - Tactical Design Patterns: architectural-patterns/domain-driven-design/tactical-design-patterns.md
-    - Value Objects: architectural-patterns/domain-driven-design/value-objects.md
-    - Event Sourcing: architectural-patterns/domain-driven-design/event-sourcing.md
-    - Domain Stroytelling: architectural-patterns/domain-driven-design/domain-stroytelling.md
-    - Event Modeling: architectural-patterns/domain-driven-design/event-modeling.md
-    - ORMs:
-      - Entity Framework: architectural-patterns/domain-driven-design/orm/ef.md   
-  - Data Driven Design: architectural-patterns/data-driven-design.md
-  - CQRS: architectural-patterns/cqrs.md
-  - Microservices: 
-    - Microservices: architectural-patterns/microservices/microservices.md
-    - Communication & Data Consistency: architectural-patterns/microservices/communication.md
-    - Services Boundries: architectural-patterns/microservices/services-boundries.md
-    - Design Patterns:
-      - Design Patterns: architectural-patterns/microservices/design-patterns/design-patterns.md
-      - Outbox Pattern: architectural-patterns/microservices/design-patterns/outbox-pattern.md
-    - Observibility: 
-      - Observibility: architectural-patterns/microservices/observability/observibility.md
-      - Distributed Tracing: architectural-patterns/microservices/observability/distributed-tracing.md
-      - Diagnostics: architectural-patterns/microservices/observability/diagnostics.md
-      - Logging: architectural-patterns/microservices/observability/logging.md
-      - Monitoring: architectural-patterns/microservices/observability/monitoring.md   
-      - Metrics: architectural-patterns/microservices/observability/metrics.md   
-    - Resiliency:
-      - Resiliency: architectural-patterns/microservices/resiliency/resiliency.md        
-      - High Availibility: architectural-patterns/microservices/resiliency/high-availibility.md   
-      - Idempotency: architectural-patterns/microservices/resiliency/idempotency.md      
-    - Scaling: architectural-patterns/microservices/scaling.md
-    - Testing: architectural-patterns/microservices/testing.md
-    - Tools: 
-      - Tools: architectural-patterns/microservices/tools/tools.md
-      - Dapr: architectural-patterns/microservices/tools/dapr.md
-      - SteelToe: architectural-patterns/microservices/tools/steeltoe.md
-      - Tye: architectural-patterns/microservices/tools/tye.md
-      - MassTransit: architectural-patterns/microservices/tools/mass-transit.md
-      - NService Bus: architectural-patterns/microservices/tools/nservice-bus.md
-      - CAP: architectural-patterns/microservices/tools/cap.md
-  - Serverless Architectural Pattern: architectural-patterns/serverless.md
-  - MicroKernel Architectural Pattern: architectural-patterns/micro-kernel.md
-  - Modular Monolith: architectural-patterns/modular-monolith.md
+- Domain Driven Design: 
+  - Domain Driven Design: domain-driven-design/domain-driven-design.md
+  - Aggregation: domain-driven-design/aggregation.md
+  - Anemic Domain Model: domain-driven-design/anemic-domain-model.md
+  - Rich Domain Model: domain-driven-design/rich-domain-model.md
+  - Application Service: domain-driven-design/application-service.md
+  - Anti Corruption Layer: cloud-design-patterns/anti-corruption-layer-pattern.md
+  - Bounded Context: domain-driven-design/bounded-context.md
+  - Domain Events: domain-driven-design/domain-events.md
+  - Integration Events: domain-driven-design/integration-event.md
+  - Primitive obsession: domain-driven-design/domain-primitives.md
+  - Domain Service: domain-driven-design/domain-service.md
+  - Enums: domain-driven-design/enums.md
+  - Exception And Validation: domain-driven-design/exception-and-validation.md
+  - Infrastructure: domain-driven-design/infrastructure.md
+  - Mapping: domain-driven-design/mapping.md
+  - Persistence Ignorance: architectural-design-principles/persistence-ignorance.md
+  - Strategic Design Patterns: domain-driven-design/strategic-design-patterns.md
+  - Tactical Design Patterns: domain-driven-design/tactical-design-patterns.md
+  - Value Objects: domain-driven-design/value-objects.md
+  - Event Sourcing: domain-driven-design/event-sourcing.md
+  - Domain Stroytelling: domain-driven-design/domain-stroytelling.md
+  - Event Modeling: domain-driven-design/event-modeling.md
+  - ORMs:
+    - Entity Framework: domain-driven-design/orm/ef.md   
+- Data Driven Design: data-driven-design.md
+- CQRS: cqrs.md
+- Microservices: 
+  - Microservices: microservices/microservices.md
+  - Communication & Data Consistency: microservices/communication.md
+  - Services Boundries: microservices/services-boundries.md
+  - Design Patterns:
+    - Design Patterns: microservices/design-patterns/design-patterns.md
+    - Outbox Pattern: microservices/design-patterns/outbox-pattern.md
+  - Observibility: 
+    - Observibility: microservices/observability/observibility.md
+    - Distributed Tracing: microservices/observability/distributed-tracing.md
+    - Diagnostics: microservices/observability/diagnostics.md
+    - Logging: microservices/observability/logging.md
+    - Monitoring: microservices/observability/monitoring.md   
+    - Metrics: microservices/observability/metrics.md   
+  - Resiliency:
+    - Resiliency: microservices/resiliency/resiliency.md        
+    - High Availibility: microservices/resiliency/high-availibility.md   
+    - Idempotency: microservices/resiliency/idempotency.md      
+  - Scaling: microservices/scaling.md
+  - Testing: microservices/testing.md
+  - Tools: 
+    - Tools: microservices/tools/tools.md
+    - Dapr: microservices/tools/dapr.md
+    - SteelToe: microservices/tools/steeltoe.md
+    - Tye: microservices/tools/tye.md
+    - MassTransit: microservices/tools/mass-transit.md
+    - NService Bus: microservices/tools/nservice-bus.md
+    - CAP: microservices/tools/cap.md
+  - Serverless Architectural Pattern: serverless.md
+- Modular Monolith: modular-monolith.md
 - Design Patterns: 
   - Builder Pattern: design-patterns/builder.md
   - Design Patterns: design-patterns/design-patterns.md
@@ -254,7 +247,7 @@ nav:
   - Thin Controllers: design-best-practices/thin-controllers.md
 - Anti Patterns: 
   - Anti Patterns: anti-patterns/anti-patterns.md
-  - Anemic Domain Model: architectural-patterns/domain-driven-design/anemic-domain-model.md
+  - Anemic Domain Model: domain-driven-design/anemic-domain-model.md
   - Big Ball of Mud: anti-patterns/big-ball-of-mud.md
   - Code Smells: anti-patterns/code-smells.md
   - Partial/Optional Object: anti-patterns/partial-object.md
