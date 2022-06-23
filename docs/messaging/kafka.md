@@ -60,6 +60,8 @@
 - [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web GUI for Apache Kafka Management
 - [Farfetch/kafka-flow](https://github.com/Farfetch/kafka-flow) - KafkaFlow is a .NET framework to create Kafka based applications, simple to use and extend.
 - [Farfetch/kafka-flow-retry-extensions](https://github.com/Farfetch/kafka-flow-retry-extensions) - Kafka Flow Retry Patterns Extensions
+- [conduktor-ui](https://www.conduktor.io/conduktor-ui)
+- [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop) - Kafka Web UI
 ## 🚀 Samples
 - [dcomartin/Kafka.Demo](https://github.com/dcomartin/Kafka.Demo)
 - [oskardudycz/kafka-connect](https://github.com/oskardudycz/kafka-connect)

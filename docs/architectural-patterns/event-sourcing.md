@@ -127,6 +127,11 @@
 - [Event Sourcing - Kamil](https://github.com/kgrzybek/modular-monolith-with-ddd#315-event-sourcing)
 - [What they don’t tell you about event sourcing](https://medium.com/@hugo.oliveira.rocha/what-they-dont-tell-you-about-event-sourcing-6afc23c69e9a)
 - [Reactive Event Sourcing in Java, Part 1: Domain](https://softwaremill.com/reactive-event-sourcing-in-java-part-1-domain/)
+- [Reactive Event Sourcing in Java, Part 2: Actor Model](https://softwaremill.com/reactive-event-sourcing-in-java-part-2-actor-model/)
+- [Reactive Event Sourcing in Java, Part 3: Service](https://softwaremill.com/reactive-event-sourcing-in-java-part-3-service/)
+- [Reactive Event Sourcing in Java, Part 4: Controller](https://softwaremill.com/reactive-event-sourcing-in-java-part-4-controller/)
+- [Implementing event sourcing using a relational database](https://softwaremill.com/implementing-event-sourcing-using-a-relational-database/)
+- [Read models in event-sourced systems](https://alexey-zimarev.medium.com/read-models-in-event-sourced-systems-489342181233)
 ## 📺 Videos
 - [Event Sourcing Playlist - CodeOpinion](https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ)
 - [Event Sourcing Example & Explained in plain English](https://www.youtube.com/watch?v=AUj4M-st3ic)

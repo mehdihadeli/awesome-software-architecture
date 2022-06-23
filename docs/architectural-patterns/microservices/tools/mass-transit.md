@@ -24,7 +24,7 @@
 - [RabbitMQ MassTransit - ASP NET Core](https://www.youtube.com/watch?v=sOwkIz07gvo)
 - [MassTransit and RabbitMQ - Playlist - Garry Taylor](https://www.youtube.com/playlist?list=PL8vZpHuqa_hOP8f1AT5r8FSP1fKm9ALZO)
 - [MassTransit Commute - Wire Tapping with RabbitMQ](https://www.youtube.com/watch?v=vNpXjy7psxs)
-- [MassTransit Commute - Wire Tapping with RabbitMQ](https://youtu.be/vNpXjy7psxs)
+- [MassTransit - The New Transactional Outbox](https://www.youtube.com/watch?v=3TjGnmLno_A)
 ## 📦 Libraries
 - [GokGokalp/MetroBus](https://github.com/GokGokalp/MetroBus) - Lightweight messaging wrapper of MassTransit
 - [NCodeGroup/MassTransit.Extensions.Hosting](https://github.com/NCodeGroup/MassTransit.Extensions.Hosting) - MassTransit configuration extensions using Microsoft.Extensions.Hosting.IHostedService and Microsoft.Extensions.DependencyInjection.

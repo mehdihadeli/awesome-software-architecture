@@ -19,5 +19,5 @@
 ## 📦 Libraries
 
 - [ardalis/SmartEnum](https://github.com/ardalis/SmartEnum) - A base class for quickly and easily creating strongly typed enum replacements in C#.
-
+- [A C# source generator to create an enumeration class from an enum type.](https://github.com/HamedFathi/EnumerationClassGenerator)
 

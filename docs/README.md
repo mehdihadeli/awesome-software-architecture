@@ -6,11 +6,11 @@
 
 > Curated list of awesome articles and resources to learn and practice software architecture, patterns and principles. this repository will be updated continuously, keep yourself up to date .
 
-I created this repository to share a set of links that I found valuable and inspiring and I share them with others for improving our knowledge to
+I created this repository to share a set of links that I found valuable and inspiring and I share them with others to improve our knowledge together ✌️. 
 
 ## 🙏 Special Thanks
 
-Thanks to the authors of the links for their valuable content, that I gather them in one place for finding topcis easier.
+Thanks to the authors of the links for their valuable content, I gather them in one place for finding topics to read easier.
 
 ## ⭐ Support 
 If you like feel free to ⭐ this repository, It helps out :)

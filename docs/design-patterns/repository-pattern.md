@@ -29,6 +29,7 @@
 - [Implement Repository Pattern using .NET EF Core](https://thecodeblogger.com/2021/06/27/implement-repository-pattern-using-net-ef-core/)
 - [EF Core Repository with Specification Pattern in .NET](https://thecodeblogger.com/2021/07/01/ef-core-repository-with-specification-pattern-in-net/)
 - [Better Enhanced Repository Pattern Implementation in .NET ](https://levelup.gitconnected.com/better-enhanced-repository-pattern-implementation-in-net-c-4e6f4bbe48a9)
+- [The Repository Pattern is simple yet misunderstood](https://blog.elmah.io/the-repository-pattern-is-simple-yet-misunderstood/)
 ## 📺 Videos
 - [Repository Pattern with C# and Entity Framework - Mosh Hamedani](https://www.youtube.com/watch?v=rtXpYpZdOzM)
 - [Step by Step - Repository Pattern and Unit of Work with Asp.Net Core 5](https://www.youtube.com/watch?v=-jcf1Qq8A-4)
