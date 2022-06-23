@@ -3,7 +3,7 @@
 
 <a href="https://awesome-architecture.com">![](./banner.png)</a>
 
-> Curated list of awesome articles and resources to learn and practice software architecture, patterns and principles. this repository will be updated continuously, keep yourself up to date .
+> Curated list of awesome articles and resources to learn and practice software architecture, patterns and principles. This repository will be updated continuously, keep yourself up to date .
 
 I created this repository to share a set of links that I found valuable and inspiring and I share them with others to improve our knowledge together ✌️. 
 
@@ -26,9 +26,9 @@ Thanks a bunch for supporting me!
 
 ## 🤝 Contribution
 
-Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/contributing.md)) pages first.
+Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/contributing.md) pages first.
 
-Thanks to all [contributors](https://github.com/mehdihadeli/awesome-software-architecture/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
+Thanks to all [contributors](https://github.com/mehdihadeli/awesome-software-architecture/graphs/contributors), you're awesome and this wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
 <a href="https://github.com/mehdihadeli/awesome-software-architecture/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=mehdihadeli/awesome-software-architecture" />
