@@ -53,7 +53,10 @@ markdown_extensions:
 
 nav:
 - Software Architecture: software-architecture.md
-- Actor Model Architecture: actor-model-architecture.md
+- Actor Model Architecture: 
+  - Actor Model Architecture: actor-model-architecture/actor-model-architecture.md
+  - Orleans: actor-model-architecture/orleans.md
+  - Protoactor: actor-model-architecture/protoactor.md
 - Algorithms: algorithm.md
 - Clean Architecture: clean-architecture.md
 - Onion Architecture: onion-architecture.md

@@ -1,4 +1,0 @@
-# Actor Model Architecture
-
-## Articles
-- []()
