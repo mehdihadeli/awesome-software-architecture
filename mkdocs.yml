@@ -53,6 +53,7 @@ markdown_extensions:
 
 nav:
 - Software Architecture: software-architecture.md
+- Actor Model Architecture: actor-model-architecture.md
 - Algorithms: algorithm.md
 - Clean Architecture: clean-architecture.md
 - Onion Architecture: onion-architecture.md
@@ -60,27 +61,6 @@ nav:
 - Vertical Slice Architecture: vertical-slice-architecture.md
 - Event Driven Architecture: event-driven-architecture.md
 - Service Oriented Architecture: service-oriented-architecture.md
-- Architectural Design Principles: 
-  - Architectural Design Principles: architectural-design-principles/architectural-design-principles.md
-  - CAP Theorem: architectural-design-principles/cap.md
-  - Cohesion: architectural-design-principles/cohesion.md
-  - Command Query Separation - CQS: architectural-design-principles/cqs.md
-  - Coupling: architectural-design-principles/coupling.md
-  - Crosscutting Concerns: architectural-design-principles/crosscutting-concerns.md
-  - Dependency Inversion: architectural-design-principles/dependency-inversion.md
-  - Donot Repeat Yourself - DRY: architectural-design-principles/dry.md
-  - Encapsulation: architectural-design-principles/encapsulation.md
-  - Fail-Fast: architectural-design-principles/fail-fast.md
-  - Favor Composition over Inheritance: architectural-design-principles/favor-composition-over-inheritance.md
-  - GRASP: architectural-design-principles/grasp.md
-  - Interface Segregation: architectural-design-principles/interface-segregation.md
-  - Inversion of Control: architectural-design-principles/inversion-control.md
-  - Keep It Simple - KISS: architectural-design-principles/kiss.md
-  - Open/Closed Principle: architectural-design-principles/open-closed-principle.md
-  - Persistence Ignorance: architectural-design-principles/persistence-ignorance.md
-  - Single Responsibility: architectural-design-principles/single-responsibility.md
-  - SOLID: architectural-design-principles/solid.md
-  - YAGNI: architectural-design-principles/yagni.md
 - Domain Driven Design: 
   - Domain Driven Design: domain-driven-design/domain-driven-design.md
   - Aggregation: domain-driven-design/aggregation.md
@@ -137,6 +117,27 @@ nav:
     - CAP: microservices/tools/cap.md
   - Serverless Architectural Pattern: serverless.md
 - Modular Monolith: modular-monolith.md
+- Architectural Design Principles: 
+  - Architectural Design Principles: architectural-design-principles/architectural-design-principles.md
+  - CAP Theorem: architectural-design-principles/cap.md
+  - Cohesion: architectural-design-principles/cohesion.md
+  - Command Query Separation - CQS: architectural-design-principles/cqs.md
+  - Coupling: architectural-design-principles/coupling.md
+  - Crosscutting Concerns: architectural-design-principles/crosscutting-concerns.md
+  - Dependency Inversion: architectural-design-principles/dependency-inversion.md
+  - Donot Repeat Yourself - DRY: architectural-design-principles/dry.md
+  - Encapsulation: architectural-design-principles/encapsulation.md
+  - Fail-Fast: architectural-design-principles/fail-fast.md
+  - Favor Composition over Inheritance: architectural-design-principles/favor-composition-over-inheritance.md
+  - GRASP: architectural-design-principles/grasp.md
+  - Interface Segregation: architectural-design-principles/interface-segregation.md
+  - Inversion of Control: architectural-design-principles/inversion-control.md
+  - Keep It Simple - KISS: architectural-design-principles/kiss.md
+  - Open/Closed Principle: architectural-design-principles/open-closed-principle.md
+  - Persistence Ignorance: architectural-design-principles/persistence-ignorance.md
+  - Single Responsibility: architectural-design-principles/single-responsibility.md
+  - SOLID: architectural-design-principles/solid.md
+  - YAGNI: architectural-design-principles/yagni.md
 - Design Patterns: 
   - Builder Pattern: design-patterns/builder.md
   - Design Patterns: design-patterns/design-patterns.md
