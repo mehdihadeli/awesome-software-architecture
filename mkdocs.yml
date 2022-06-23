@@ -87,7 +87,6 @@ nav:
   - Anemic Domain Model: domain-driven-design/anemic-domain-model.md
   - Rich Domain Model: domain-driven-design/rich-domain-model.md
   - Application Service: domain-driven-design/application-service.md
-  - Anti Corruption Layer: cloud-design-patterns/anti-corruption-layer-pattern.md
   - Bounded Context: domain-driven-design/bounded-context.md
   - Domain Events: domain-driven-design/domain-events.md
   - Integration Events: domain-driven-design/integration-event.md
@@ -247,7 +246,6 @@ nav:
   - Thin Controllers: design-best-practices/thin-controllers.md
 - Anti Patterns: 
   - Anti Patterns: anti-patterns/anti-patterns.md
-  - Anemic Domain Model: domain-driven-design/anemic-domain-model.md
   - Big Ball of Mud: anti-patterns/big-ball-of-mud.md
   - Code Smells: anti-patterns/code-smells.md
   - Partial/Optional Object: anti-patterns/partial-object.md
