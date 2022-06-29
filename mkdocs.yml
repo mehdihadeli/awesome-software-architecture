@@ -82,8 +82,6 @@ nav:
   - Tactical Design Patterns: domain-driven-design/tactical-design-patterns.md
   - Value Objects: domain-driven-design/value-objects.md
   - Event Sourcing: domain-driven-design/event-sourcing.md
-  - Domain Stroytelling: domain-driven-design/domain-stroytelling.md
-  - Event Modeling: domain-driven-design/event-modeling.md
   - ORMs:
     - Entity Framework: domain-driven-design/orm/ef.md   
 - Data Driven Design: data-driven-design.md
@@ -311,6 +309,9 @@ nav:
   - Azure Template: azure/azure-template.md
 - Modeling: 
   - Modeling: modeling/modeling.md
+  - Event Storming: modeling/event-storming.md
+  - Event Modeling: modeling/event-modeling.md
+  - Domain Stroytelling: modeling/domain-stroytelling.md
   - Architecture Diagram: modeling/architecture-diagram.md
   - Class Diagram: modeling/class-diagram.md
   - Component Diagram: modeling/component-diagram.md

@@ -137,3 +137,4 @@
 - [Grauenwolf/PackIT](https://github.com/Grauenwolf/PackIT)
 - [DijanaPenic/DDD-VShop](https://github.com/DijanaPenic/DDD-VShop) - VShop is a sample .NET 6 application built as Modular Monolith with Domain-Driven Design (DDD) approach. Each module is an independent vertical slice with its custom architecture.
 - [m-jovanovic/event-reminder](https://github.com/m-jovanovic/event-reminder) - .NET Core Web API for seamless event organization with configurable notification systems.
+- [schananas/reactive-stock-market](https://github.com/schananas/reactive-stock-market) - This project takes you through the design of simple stock market application based on custom reactive CQRS framework

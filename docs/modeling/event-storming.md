@@ -7,6 +7,7 @@
 - [ddd-crew/eventstorming-glossary-cheat-sheet](https://github.com/ddd-crew/eventstorming-glossary-cheat-sheet)
 - [wwerner/event-storming-cheatsheet](https://github.com/wwerner/event-storming-cheatsheet)
 - [ddd-crew/ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process)
+- [Event Storming - Judith Birmoser](https://miro.com/miroverse/event-storming/)
 ## 📕 Articles
 - [Decomposing the Monolith with Event Storming](https://medium.com/capital-one-tech/event-storming-decomposing-the-monolith-to-kick-start-your-microservice-architecture-acb8695a6e61)
 - [Reactive in practice, Unit 1: Event storming the stock trader domain](https://developer.ibm.com/technologies/java/tutorials/reactive-in-practice-1/)

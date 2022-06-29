@@ -25,3 +25,4 @@
 - [thangchung/clean-architecture-dotnet](https://github.com/thangchung/clean-architecture-dotnet/blob/main/samples/AppGateway/appsettings.json)
 - [devmentors/Inflow-micro](https://github.com/devmentors/Inflow-micro/blob/010e822c4f923558d92fec261105bc9951cf0556/src/APIGateway/Inflow.APIGateway/Startup.cs#L73)
 - [devmentors/FeedR](https://github.com/devmentors/FeedR/blob/master/src/Gateway/FeedR.Gateway/appsettings.json)
+- [khalidabuhakmeh/YarpReverseProxyFlowThroughAuth](https://github.com/khalidabuhakmeh/YarpReverseProxyFlowThroughAuth)

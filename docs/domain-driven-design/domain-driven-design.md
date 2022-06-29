@@ -182,6 +182,7 @@
 - [pdevito3/domain-events-example](https://github.com/pdevito3/domain-events-example)
 - [bymyslf/payment-gateway](https://github.com/bymyslf/payment-gateway) - A sample project using Hexagonal (Ports & Adapters) architecture, Event Sourcing, CQRS and DDD tactical patterns
 - [idugalic/digital-restaurant](https://github.com/idugalic/digital-restaurant) - DDD. Event sourcing. CQRS. REST. Modular. Microservices. Kotlin. Spring. Axon platform. Apache Kafka. RabbitMQ
+- [schananas/reactive-stock-market](https://github.com/schananas/reactive-stock-market) - This project takes you through the design of simple stock market application based on custom reactive CQRS framework
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [xhafan/coreddd](https://github.com/xhafan/coreddd) - A set of open-source .NET libraries helping with domain-driven design (DDD) and CQRS

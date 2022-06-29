@@ -44,4 +44,4 @@
 - [ValueOf](https://github.com/mcintyre321/ValueOf) - Deal with Primitive Obsession - define ValueObjects in a single line (of C#).
 - [WrapperValueObject](https://github.com/martinothamar/WrapperValueObject) - A .NET source generator for creating simple value objects wrapping primitive types.
 - [Qowaiv](https://github.com/Qowaiv/Qowaiv) - Qowaiv is a Single Value Object library
-- [Fody/NullGuard](https://github.com/Fody/NullGuard) - Adds null argument checks to an assembly
+- [jhewlett/ValueObject](https://github.com/jhewlett/ValueObject) - A micro library for easily creating C# classes with value semantics. No need to override Equals, GetHashCode, et all.
