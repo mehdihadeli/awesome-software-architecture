@@ -1,6 +1,6 @@
 # Event Sourcing
 
-## Resources
+## 📘 Resources
 - [Event Store Blog](https://www.eventstore.com/blog/tag/event-sourcing)
 - [Alexey Zimarev Blog](https://zimarev.com//tags/event-sourcing/)
 - [Code Opinion Blog](https://codeopinion.com/category/event-sourcing/)

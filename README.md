@@ -1,7 +1,7 @@
 <p align="center">
   <img src="banner.png" height="400">
   <h1 align="center">
-   🎨 Awesome Software Architecture
+   Awesome Software Architecture
     <br>
     <a href="https://github.com/mehdihadeli/awesome-software-architecture/actions/workflows/ci.yml"><img alt="build-status" src="https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square" /></a>
     <a href="https://github.com/sindresorhus/awesome" ><img alt="awesome" src="https://awesome.re/badge-flat2.svg?style=flat-square" /></a>
@@ -24,15 +24,15 @@ I created this repository to share a set of links that I found valuable and insp
 
 | Title | Description |
 |:-------:|:----------- |
-| [Software Architecture](software-architecture.md) | Software architecture refers to the fundamental structures of a software system and the discipline of creating such structures and systems.
+| [Software Architecture](docs/software-architecture.md) | Software architecture refers to the fundamental structures of a software system and the discipline of creating such structures and systems.
 
 ### Actor Model Architecture
 
 | Title | Description |
 |:-------:|:----------- |
-| [Actor Model Architecture](actor-model-architecture/actor-model-architecture.md) |  Actor model is a reactive programming paradigm which enables us to make reactive systems which follow reactive principles.
-| [Microsoft Orleans](actor-model-architecture/orleans.md) |Orleans is a cross-platform framework for building robust, scalable distributed applications.  
-| [ProtoActor](actor-model-architecture/protoactor.md) | Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin.
+| [Actor Model Architecture](docs/actor-model-architecture/actor-model-architecture.md) |  Actor model is a reactive programming paradigm which enables us to make reactive systems which follow reactive principles.
+| [Microsoft Orleans](docs/actor-model-architecture/orleans.md) |Orleans is a cross-platform framework for building robust, scalable distributed applications.  
+| [ProtoActor](docs/actor-model-architecture/protoactor.md) | Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin.
 
 ## 🙏 Special Thanks
 

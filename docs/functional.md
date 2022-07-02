@@ -1,6 +1,6 @@
 # Functional Programming
 
-## Resources
+## 📘 Resources
 - [xgrommx/awesome-functional-programming](https://github.com/xgrommx/awesome-functional-programming) - Yet another resource for collecting articles, videos etc. regarding functional programming
 - [lucasviola/awesome-functional-programming](https://github.com/lucasviola/awesome-functional-programming) - A curated list of functional programming resources such as blog posts, communities, discussion topics, wikis and more.
 

@@ -1,6 +1,6 @@
 # Azure App Configuration
 
-## Videos
+## 📺 Videos
 - [AZURE APP CONFIGURATION | Central Store For Application Configuration | ASP.NET Core Series](https://www.youtube.com/watch?v=VEjYW14WKRM&t=3s)
 - [FEATURE FLAGS in ASP NET Core | Azure App Configuration | Getting Started With ASP.NET Core Series](https://www.youtube.com/watch?v=qtp90IYMRh8&)
 - [ENVIRONMENT SPECIFIC APP CONFIGURATION - 5 Ways To Manage For ASP NET on AZURE | ASP.NET Core Series](https://www.youtube.com/watch?v=wTSu2aCoR7Y&)

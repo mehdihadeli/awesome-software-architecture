@@ -1,6 +1,6 @@
 # Cloud Best Practices
 
-## Articles
+## 📕Articles
 - [Best practices in cloud applications](https://docs.microsoft.com/en-us/azure/architecture/best-practices/index-best-practices)
 - [RESTful web API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 - [Web API implementation](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-implementation)

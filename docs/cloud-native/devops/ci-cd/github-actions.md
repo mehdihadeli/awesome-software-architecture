@@ -1,6 +1,6 @@
 # GitHub Actions
 
-## Resources
+## 📘 Resources
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [GuillaumeFalourd/useful-actions](https://github.com/GuillaumeFalourd/useful-actions) - Curated list of useful Github actions with workflows examples 💡
 - [["28-github-actions"] Series' Articles](https://dev.to/bdougieyo/series/11453)

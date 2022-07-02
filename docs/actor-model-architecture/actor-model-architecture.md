@@ -1,6 +1,6 @@
 # Actor Model Architecture
 
-## Articles
+## 📕Articles
 - [How virtual actors will help you scale your applications the easy way](https://www.etteplan.com/stories/how-virtual-actors-will-help-you-scale-your-applications-easy-way)
 - [Comparing .NET virtual actor frameworks](https://www.etteplan.com/stories/comparing-net-virtual-actor-frameworks)
 - [Benchmark: .NET virtual actor frameworks](https://www.etteplan.com/stories/benchmark-net-virtual-actor-frameworks)

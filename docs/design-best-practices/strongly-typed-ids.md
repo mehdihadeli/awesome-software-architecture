@@ -7,5 +7,5 @@
 - [Strongly-typed Ids using C# Source Generators](https://www.meziantou.net/strongly-typed-ids-with-csharp-source-generators.htm)
 - [Generating sortable Guids using NewId](https://andrewlock.net/generating-sortable-guids-using-newid/)
 - [Announcing Snowflake](https://blog.twitter.com/2010/announcing-snowflake)
-## Videos
+## 📺 Videos
 - [Stop using IDs that don’t mean anything in .NET](https://www.youtube.com/watch?v=z4SB5BkQX7M)

@@ -1,6 +1,6 @@
 # Distributed Tracing
 
-## Resources
+## 📘 Resources
 - [Awesome OpenTelemetry](https://github.com/magsther/awesome-opentelemetry) - A curated list of OpenTelemetry resources
 
 ## 📕 Articles
