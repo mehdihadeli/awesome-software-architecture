@@ -1,6 +1,9 @@
 # Metrics
 
 ## 📕 Articles
+- [.NET metrics](https://docs.microsoft.com/en-us/dotnet/core/diagnostics/metrics)
+- [Creating Metrics](https://docs.microsoft.com/en-us/dotnet/core/diagnostics/metrics-instrumentation)
+- [Collect metrics](https://docs.microsoft.com/en-us/dotnet/core/diagnostics/metrics-collection)
 - [ASP.NET Core Metrics with Prometheus](https://aevitas.medium.com/expose-asp-net-core-metrics-with-prometheus-15e3356415f4)
 - [Introducing diagnostics improvements in .NET Core 3.0](https://devblogs.microsoft.com/dotnet/introducing-diagnostics-improvements-in-net-core-3-0/)
 - [EventCounters in .NET Core](https://docs.microsoft.com/en-us/dotnet/core/diagnostics/event-counters)

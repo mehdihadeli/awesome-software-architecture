@@ -95,7 +95,7 @@
 - [Data Consistency in Microservices Architecture](https://medium.com/garantibbva-teknoloji/data-consistency-in-microservices-architecture-5c67e0f65256)
 - [Event Sourcing and Microservices](https://zimarev.com/blog/event-sourcing/microservices/)
 - [Generating sortable Guids using NewId](https://andrewlock.net/generating-sortable-guids-using-newid/)
-
+- [Release Management for Microservices](https://semaphoreci.com/blog/release-management-microservices)
 
 ## 📺 Videos
 

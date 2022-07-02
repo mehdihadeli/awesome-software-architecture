@@ -1,8 +1,14 @@
-# 🎨 Awesome Software Architecture [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+<p align="center">
+  <img src="../banner.png" height="400">
+  <h1 align="center">
+   🎨 Awesome Software Architecture
+    <br>
+    <a href="https://github.com/mehdihadeli/awesome-software-architecture/actions/workflows/ci.yml"><img alt="build-status" src="https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square" /></a>
+    <a href="https://github.com/sindresorhus/awesome" ><img alt="awesome" src="https://awesome.re/badge-flat2.svg?style=flat-square" /></a>
+    <a href="https://github.com/mehdihadeli/awesome-software-architecture/blob/main/LICENSE" ><img alt="license" src="https://img.shields.io/badge/License-CC0_1.0-E91E63.svg?style=flat-square" /></a>
+  </h1>
+</p>
 
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-brightgreen.svg?style=flat-square)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-![](./banner.png)
 
 > Curated list of awesome articles and resources to learn and practice software architecture, patterns and principles. this repository will be updated continuously, keep yourself up to date.
 
