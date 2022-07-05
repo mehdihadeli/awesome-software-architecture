@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="../banner.png" height="400">
   <h1 align="center">
    🎨 Awesome Software Architecture
     <br>

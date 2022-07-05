@@ -132,6 +132,7 @@
 - [Reactive Event Sourcing in Java, Part 4: Controller](https://softwaremill.com/reactive-event-sourcing-in-java-part-4-controller/)
 - [Implementing event sourcing using a relational database](https://softwaremill.com/implementing-event-sourcing-using-a-relational-database/)
 - [Read models in event-sourced systems](https://alexey-zimarev.medium.com/read-models-in-event-sourced-systems-489342181233)
+- [EventStoreDB Vs Kafka](https://domaincentric.net/blog/eventstoredb-vs-kafka)
 ## 📺 Videos
 - [Event Sourcing Playlist - CodeOpinion](https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ)
 - [Event Sourcing Example & Explained in plain English](https://www.youtube.com/watch?v=AUj4M-st3ic)

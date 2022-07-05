@@ -16,6 +16,7 @@
 - [Key concepts](https://masstransit-project.com/understand/key-ideas.html)
 - [Under the hood](https://masstransit-project.com/understand/under-the-hood.html)
 - [Ability to exclude interfaces/classes from topic/exchange creation](https://github.com/MassTransit/MassTransit/issues/2018)
+- [Kafka - Riders](https://masstransit-project.com/usage/riders/kafka.html)
 ## 📺 Videos
 - [MassTransit–Youtube videos](https://bartwullems.blogspot.com/2020/07/masstransityoutube-videos.html)
 - [Modern .NET Messaging using MassTransit](https://www.youtube.com/watch?v=jQNQDLv7QmU)
@@ -42,3 +43,4 @@
 - [MassTransit Samples](https://masstransit-project.com/learn/samples.html)
 - [bartstc/booking-app](https://github.com/bartstc/booking-app) - A comprehensive Domain Driven Design example with microservices and various tactical patterns.
 - [pdevito3/WeSendReportsCompany](https://github.com/pdevito3/WeSendReportsCompany) - an example repo for sending direct messages using masstransit and rabbitmq
+- [danmalcolm/masstransit-kafka-demo](https://github.com/danmalcolm/masstransit-kafka-demo) - Demonstrates use of MassTransit Kafka rider to produce and consume messages, including support for multiple message types on a single topic

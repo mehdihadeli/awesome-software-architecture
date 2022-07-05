@@ -22,41 +22,41 @@ I created this repository to share a set of links that I found valuable and insp
 
 ### Software Architecture
 
-| Title | Description |
+| Topic | Description |
 |:-------:|:----------- |
 | [Software Architecture](docs/software-architecture.md) | Software architecture refers to the fundamental structures of a software system and the discipline of creating such structures and systems.
 
 ### Actor Model Architecture
 
-| Title | Description |
+| Topic | Description |
 |:-------:|:----------- |
-| [Actor Model Architecture](docs/actor-model-architecture/actor-model-architecture.md) |  Actor model is a reactive programming paradigm which enables us to make reactive systems which follow reactive principles.
+| [Actor Model](docs/actor-model-architecture/actor-model-architecture.md) |  Actor model is a reactive programming paradigm which enables us to make reactive systems which follow reactive principles.
 | [Microsoft Orleans](docs/actor-model-architecture/orleans.md) |Orleans is a cross-platform framework for building robust, scalable distributed applications.  
 | [ProtoActor](docs/actor-model-architecture/protoactor.md) | Ultra fast distributed actors for Go, C# and Java/Kotlin.
 
 ### Algorithms
 
-| Title | Description |
+| Topic | Description |
 |:-------:|:----------- |
-| [Algorithms](docs/algorithms.md) |  An algorithm is a procedure used for solving a problem or performing a computation.
+| [Algorithms](docs/algorithm.md) |  An algorithm is a procedure used for solving a problem or performing a computation.
 
 ### Clean Architecture
-| Title | Description |
+| Topic | Description |
 |:-------:|:----------- |
 | [Clean Architecture](docs/clean-architecture.md) |  The Clean Architecture is the system architecture guideline proposed by Robert C. Martin (Uncle Bob) derived from many architectural guidelines like Hexagonal Architecture, Onion Architecture, etc...
 
 ### Onion Architecture
-| Title | Description |
+| Topic | Description |
 |:-------:|:----------- |
 | [Onion Architecture](docs/onion-architecture.md) | The Onion architecture, introduced by Jeffrey Palermo, and it is a form of layered architecture and we can visualize these layers as concentric circles.
 
 ### Hexagonal Architecture
-| Title | Description |
+| Topic | Description |
 |:-------:|:----------- |
 | [Hexagonal Architecture](docs/hexagonal-architecture.md) | The Hexagonal Architecture or Ports and Adapters architecture, introduced by Alistair Cockburn and it's an architectural pattern that allows input by users or external systems to arrive into the Application at a Port via an Adapter, and allows output to be sent out from the Application through a Port to an Adapter.
 
 ### Vertical Slice Architecture
-| Title | Description |
+| Topic | Description |
 |:-------:|:----------- |
 | [Vertical Slice Architecture](docs/vertical-slice-architecture.md) | The vertical slice architecture is a technique that helps us build maintainable applications by separating the application around features or `vertical slices`. 
 

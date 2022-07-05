@@ -32,6 +32,7 @@
 - [Making systems resilient with Polly](https://blexin.com/en/blog-en/making-systems-resilient-with-polly/)
 - [Improve resilience in the .NET applications](https://medium.com/@emanuele.bucarelli/improve-resilience-in-the-net-application-80adda2c7710)
 - [Build Resilient Microservices (Web API) using Polly in ASP.NET Core](https://procodeguide.com/programming/polly-in-aspnet-core/)
+- [Strategies to Handle Transient Faults in Web APIs](https://www.dotnetnakama.com/blog/strategies-to-handle-transient-faults-in-web-apis/)
 ## 📺 Videos
 - [Handling Failures in Message Driven Architecture](https://www.youtube.com/watch?v=SesEYHGhlLQ)
 - [Make your microservice resilient with Polly's Circuit Breaker | .NET Core](https://www.youtube.com/watch?v=JljTcjt798c)
