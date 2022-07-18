@@ -127,7 +127,7 @@
 - [DijanaPenic/DDD-VShop](https://github.com/DijanaPenic/DDD-VShop) - VShop is a sample .NET 6 application built as Modular Monolith with Domain-Driven Design (DDD) approach. Each module is an independent vertical slice with its custom architecture.
 - [kalintsenkov/BookStore](https://github.com/kalintsenkov/BookStore) - ASP.NET Core | Domain-Driven Design | Clean Architecture
 - [ShawnShiSS/clean-architecture-azure-cosmos-db](https://github.com/ShawnShiSS/clean-architecture-azure-cosmos-db) - A starting point to build a web API to work with Azure Cosmos DB using .NET 5 and Azure Cosmos DB .NET SDK V3, based on Clean Architecture and repository design pattern. Partition key is also implemented through the repository pattern.
-
+- [serodriguez68/clean-architecture](https://github.com/serodriguez68/clean-architecture) - A detailed summary of Clean Architecture by Robert C Martin (Uncle Bob)
 ## 📚 Books
 - [Get Your Hands Dirty on Clean Architecture](https://www.packtpub.com/product/get-your-hands-dirty-on-clean-architecture/9781839211966)
 

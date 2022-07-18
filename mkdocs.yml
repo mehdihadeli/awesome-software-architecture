@@ -280,6 +280,7 @@ nav:
   - Azure Cloud: azure/azure-cloud.md
   - Azure API Management: azure/azure-api-management.md
   - Azure App Service: azure/azure-app-service.md
+  - Azure App Service Plan: azure/azure-app-service-plan.md
   - Azure Functions / Azure Serverless: azure/azure-functions.md
   - Azure Kubernetes Service (AKS): azure/aks.md
   - Azure Load Balancing: azure/azure-load-balancing.md

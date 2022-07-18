@@ -23,6 +23,11 @@
 - [How to Add MySql & MongoDB to a Kubernetes .Net Core Microservice Architecture](https://dev.to/christianzink/databases-in-a-kubernetes-angular-net-core-microservice-architecture-22jc)
 - [Building and publishing .NET Core Micro-services to Kubernetes using Azure DevOps](https://fizzylogic.nl/2019/11/15/building-and-publishing-net-core-microservices-to-kubernetes-using-azure-devops)
 - [Managing Applications in Kubernetes with the Carvel Kapp Controller](https://thecloudblog.net/post/managing-applications-in-kubernetes-with-the-carvel-kapp-controller/)
+- [Getting Started with Telepresence on Windows](https://www.getambassador.io/resources/getting-started-with-telepresence-on-windows/)
+- [Using Telepresence 2 for Kubernetes debugging and local development](https://codefresh.io/blog/telepresence-2-local-development/)
+- [An alternative to Telepresence 2: Gefyra](https://unikube.io/blog/alternative-to-telepresence-2-gefyra/)
+- [Kubectl List and Switch Context](https://linuxhint.com/kubectl-list-switch-context/)
+- [Kubectl Config Set-Context | Tutorial and Best Practices](https://www.containiq.com/post/kubectl-config-set-context-tutorial-and-best-practices)
 ## 📺 Videos
 - [Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]](https://www.youtube.com/watch?v=X48VuDVv0do)
 - [Kubernetes Daemonsets explained | Tutorial | Kubernetes Guide](https://www.youtube.com/watch?v=RGSeeN-o-kQ)
@@ -30,6 +35,8 @@
 - [Kubernetes 101 Playlist - Jeff Geerling](https://www.youtube.com/playlist?list=PL2_OBreMn7FoYmfx27iSwocotjiikS5BD)
 - [100DaysOfKubernetes Playlist- Anais Urlichs](https://www.youtube.com/playlist?list=PLWnens-FYbIpUpmiiNYfkqTZQUYppGMFV)
 - [gRPC Load Balancing on Kubernetes - Jan Tattermusch, Google (Intermediate Skill Level)](https://www.youtube.com/watch?v=F2znfxn_5Hg)
+- [How We Use Telepresence 2 at Ambassador Labs](https://www.youtube.com/watch?v=nN1yF6RCaW4)
+- [Intro: Telepresence: Fast Local-to-Remote Development for Kubernetes - Daniel Bryant, Datawire](https://www.youtube.com/watch?v=9eyHSjbZwR8)
 ## 📦 Libraries
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
 - [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - SDK for building Kubernetes APIs using CRDs
@@ -43,6 +50,14 @@
 - [FairwindsOps/pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes
 - [ahmetb/kubectl-aliases](https://github.com/ahmetb/kubectl-aliases) - Programmatically generated handy kubectl aliases.
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
+- [hidetatz/kubecolor](https://github.com/hidetatz/kubecolor) - colorizes kubectl output
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
+- [gefyrahq/gefyra](https://github.com/gefyrahq/gefyra) - Blazingly-fast 🚀, rock-solid, local application development ➡️ with Kubernetes.
+- [hasura/gitkube](https://github.com/hasura/gitkube) - Build and deploy docker images to Kubernetes using git push
+- [Azure/draft](https://github.com/Azure/draft) - A day 0 tool for getting your app on k8s fast
+- [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
+- [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing.
+- [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
 ## 🚀 Samples
 - [arashkaffamanesh/practical-kubernetes-problems](https://github.com/arashkaffamanesh/practical-kubernetes-problems) - For Kubernauts' Practical Kubernetes Trainings
 - [ContainerSolutions/kubernetes-examples](https://github.com/ContainerSolutions/kubernetes-examples) - Minimal self-contained examples of standard Kubernetes features and patterns in YAML

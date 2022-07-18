@@ -11,7 +11,8 @@
 
 ## 📺 Videos
 - [Single-node Kubernetes Clusters Using K3s with Benefits of GitOps • Lasse Højgaard • GOTO 2021](https://www.youtube.com/watch?v=ePyFJ7Hd57Q)
-
+- [Using *HA* Kubernetes at home, was never so simple!](https://www.youtube.com/watch?v=UdjhFLV1yt8)
+- [HA K3s with etcd, kube-vip, MetalLB, and Rancher!](https://www.youtube.com/watch?v=9PLw1xalcYA)
 ## 📦 Libraries
 - [k3s-io/k3s-ansible](https://github.com/k3s-io/k3s-ansible) - Build a Kubernetes cluster using Ansible with k3s.
 

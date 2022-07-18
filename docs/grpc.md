@@ -43,6 +43,7 @@
 - [Code-first gRPC services and clients with .NET](https://docs.microsoft.com/en-us/aspnet/core/grpc/code-first)
 - [gRPC Server Reflection in the .NET world](https://martinbjorkstrom.com/posts/2020-07-08-grpc-reflection-in-net)
 - [Announcing gRPC JSON transcoding for .NET](https://devblogs.microsoft.com/dotnet/announcing-grpc-json-transcoding-for-dotnet/)
+- [Dotnetifying gRPC](https://blog.codingmilitia.com/2018/04/15/dotnetifying-grpc/)
 ## 📹 Videos
 
 - [Bidirectional Streaming | gRPC in .NET 5](https://www.youtube.com/watch?v=wY4nMSUF9e0)
