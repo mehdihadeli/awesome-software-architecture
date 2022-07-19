@@ -20,6 +20,17 @@ I created this repository to share a set of links that I found valuable and insp
 
 ## Contents
 
+- [Software Architecture](#software-architecture)
+- [Actor Model Architecture](#actor-model-architecture)
+- [Algorithms](#algorithms)
+- [Clean Architecture](#clean-architecture)
+- [Onion Architecture](#onion-architecture)
+- [Hexagonal Architecture](#hexagonal-architecture)
+- [Vertical Slice Architecture](#vertical-slice-architecture)
+
+> **Note**: Above table of contents is not complete yet and it's in progress, full resources currently is available on the official web page: 
+ **[https://awesome-architecture.com](https://awesome-architecture.com/)**
+
 ### Software Architecture
 
 | Topic | Description |
