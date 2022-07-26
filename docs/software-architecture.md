@@ -16,7 +16,7 @@
 ## 🎬 Youtube Channels
 - [CodeOpinion](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw)
 - [Martin Kleppmann](https://www.youtube.com/channel/UClB4KPy5LkJj1t3SgYVtMOQ/videos)
-
+- [Mark Richards](https://www.youtube.com/channel/UC-Z7T0lAq_xECevIz8E5R5w)
 ## 📕 Articles
 
 - [The Software Architecture Chronicles](https://herbertograca.com/2017/07/03/the-software-architecture-chronicles/)

@@ -207,7 +207,7 @@
 - [thangchung/clean-architecture-dotnet](https://github.com/thangchung/clean-architecture-dotnet) - Dev: Apply Minimal Clean Architecture with DDD-lite, CQRS-lite, and just enough Cloud-native patterns on eCommerce sample business domain. 🍻 Ops: Use Tye with Dapr extension to deploy it to Kubernetes.
 - [Crizstian/cinema-microservice](https://github.com/Crizstian/cinema-microservice) - Example of a cinema microservice
 - [mmorejon/microservices-docker-go-mongodb](https://github.com/mmorejon/microservices-docker-go-mongodb) - Example of Microservices in Go with Docker, Kubernetes and MongoDB
-- [AlphaYu/Adnc](https://github.com/AlphaYu/Adnc) - The microservice framework is also suitable for the development of monolithic architecture systems. It supports the classic three-tier and DDD architecture development model, and integrates a series of mainstream and stable microservice supporting technology stacks. A framework with front-end and back-end separation. The front-end is based on Vue and the back-end is built on .Net 5.0.
+- [AlphaYu/Adnc](https://github.com/AlphaYu/Adnc) - .NET6 microservice/distributed development framework, but also suitable for the development of monolithic architecture systems.
 - [hbenc-uk/dapr-store](https://github.com/benc-uk/dapr-store) - Sample application showcasing the use of Dapr to build microservices based apps
 - [sjefvanleeuwen/showcase](https://github.com/sjefvanleeuwen/showcase) - A Full Stack Journey with Micro Services and Micro Front Ends. Using dapr, kubernetes, react module federation and web assembly
 - [baotoq/micro-commerce](https://github.com/baotoq/micro-commerce) - React, Nextjs, ASP.NET Core 5.0, IdentityServer, Dapr, Azure pipeline, K8S, SonarQube
@@ -246,6 +246,7 @@
 - [desenvolvedor-io/dev-store](https://github.com/desenvolvedor-io/dev-store) - A microservices e-commerce reference application built with ASP.NET 6
 - [idugalic/digital-restaurant](https://github.com/idugalic/digital-restaurant) - DDD. Event sourcing. CQRS. REST. Modular. Microservices. Kotlin. Spring. Axon platform. Apache Kafka. RabbitMQ
 - [fraktalio/order-demo](https://github.com/fraktalio/order-demo) - Axon demo - `Order Management` Information System - A part of the systems landscape
+- [AleksK1NG/Kotlin-ES-CQRS-Microservice](https://github.com/AleksK1NG/Kotlin-ES-CQRS-Microservice) - Kotlin-ES-CQRS-Microservice
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
 - [Building Microservices: Designing Fine-Grained Systems, 2nd Edition](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1492034029)

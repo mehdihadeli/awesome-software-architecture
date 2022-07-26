@@ -3,7 +3,7 @@
 
 ## 📕 Articles
 - [SCALABLE MICROSERVICES ARCHITECTURE WITH .NET MADE EASY – A TUTORIAL](https://www.endava.com/en/blog/Engineering/2022/Scalable-Microservices-Architecture-with-NET-Made-Easy-a-Tutorial)
-
+- [Load Balancing with NGINX and Consul Template](https://learn.hashicorp.com/tutorials/consul/load-balancing-nginx)
 ## 📺 Videos
 - [HashiCorp Consul Introduction: What is a Service Mesh?](https://www.youtube.com/watch?v=UpR-3GBTKsk)
 - [Consul Service Mesh: Deep Dive](https://www.youtube.com/watch?v=Aq1uTozNajI)
@@ -16,7 +16,7 @@
 - [Drawaes/CondenserDotNet](https://github.com/Drawaes/CondenserDotNet) - API Condenser / Reverse Proxy using Kestrel and Consul, Including light weight consul lib
 - [G-Research/consuldotnet](https://github.com/G-Research/consuldotnet) - Consul.NET is a .NET client library for the Consul HTTP API
 - [AlphaYu/RefitConsul](https://github.com/AlphaYu/RefitConsul) - RefitConsul extends the Consul service discovery function of the Refit component, making it easier to call Restful services.
-
+- [G-Research/consuldotnet](https://github.com/G-Research/consuldotnet) - Consul.NET is a .NET client library for the Consul HTTP API
 
 ## 🚀 Samples
 - [Endava/Endava.Consul.ServiceDiscovery.Demo](https://github.com/Endava/Endava.Consul.ServiceDiscovery.Demo) - This tutorial shows how to implement simple containerized (Docker) micro service architecture with a gateway, load balancer (Ocelot) and automatic service discovery (Consul).
@@ -26,5 +26,5 @@
 - [cecilphillip/aspnet-servicediscovery-patterns](https://github.com/cecilphillip/aspnet-servicediscovery-patterns) - Samples of simple service discovery patterns with ASP .NET Core
 - [matjazbravc/Consul.ServiceDiscovery.Demo](https://github.com/matjazbravc/Consul.ServiceDiscovery.Demo)  - This demo shows how to implement simple containerized (Docker) microservice architecture with gateway, load balancer (Ocelot) and 
 automatic service discovery (Consul).
-
+- [AlphaYu/Adnc](https://github.com/AlphaYu/Adnc) - .NET6 microservice/distributed development framework, but also suitable for the development of monolithic architecture systems.
 

@@ -237,3 +237,5 @@
 - [Finaps/EventSourcing](https://github.com/Finaps/EventSourcing) - Event Sourcing in .NET 6
 - [bymyslf/payment-gateway](https://github.com/bymyslf/payment-gateway) - A sample project using Hexagonal (Ports & Adapters) architecture, Event Sourcing, CQRS and DDD tactical patterns
 - [softwaremill/reactive-event-sourcing-java](https://github.com/softwaremill/reactive-event-sourcing-java)
+- [RailsEventStore/ecommerce](https://github.com/RailsEventStore/ecommerce) - Application with CQRS and Event Sourcing built on Rails and Rails Event Store
+- [AleksK1NG/Kotlin-ES-CQRS-Microservice](https://github.com/AleksK1NG/Kotlin-ES-CQRS-Microservice) - Kotlin-ES-CQRS-Microservice

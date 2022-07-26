@@ -260,6 +260,7 @@ nav:
   - Azure Service Bus: azure/messaging/azure-service-bus.md
   - NATS: messaging/nats.md
 - Distributed Transactions: distributed-transactions.md
+- Distributed Locking: distributed-locking.md
 - Eventual Consistency: eventual-consistency.md
 - RESTful API Design: rest.md
 - gRPC: grpc.md
