@@ -10,3 +10,4 @@
 ## Libraries
 - [kidfashion/redlock-cs](https://github.com/kidfashion/redlock-cs) - Distributed lock with Redis and C# (based on http://redis.io/topics/distlock)
 - [samcook/RedLock.net](https://github.com/samcook/RedLock.net) - An implementation of the Redlock algorithm in C#
+- [madelson/DistributedLock](https://github.com/madelson/DistributedLock) - A .NET library for distributed synchronization

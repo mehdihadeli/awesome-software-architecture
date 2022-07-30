@@ -70,6 +70,12 @@
 - [The Dark Side of Events](https://www.youtube.com/watch?v=URYPpY3SgS8)
 - [Event Driven Architecture in the Real World! 4 Practical Examples](https://www.youtube.com/watch?v=dhdLxW0vDro)
 - [Event Driven Architecture - Understanding the Basics](https://www.youtube.com/watch?v=LHgCA3XVNkw)
+- [Event-driven integration #1 - Intro to the transactional outbox pattern [ASPF02O|E040]](https://www.youtube.com/watch?v=suKSJ5DvynA)
+- [Event-driven integration #2 - Inferring events from EF Core changes [ASPF02O|E041]](https://www.youtube.com/watch?v=rJDZiFJGP90)
+- [Event-driven integration #3 - Storing events in the outbox table [ASPF02O|E042]](https://www.youtube.com/watch?v=G187r-rzzkk)
+- [Event-driven integration #4 - Outbox publisher (feat. IHostedService & Channels) [ASPF02O|E043]](https://www.youtube.com/watch?v=xnn6AnYyC5g)
+- [Event-driven integration #5 - Quick intro to Apache Kafka [ASPF02O|E044]](https://www.youtube.com/watch?v=tUzCxZdKEr4)
+- [Event-driven integration #6 - Publishing events (feat. Apache Kafka) [ASPF02O|E045]](https://www.youtube.com/watch?v=T2Dy7cH486c&t=41s)
 ## 📚 Books
 - [Designing Event-Driven Systems](https://www.confluent.io/designing-event-driven-systems/)
 - [Building Event-Driven Microservices: Leveraging Organizational Data at Scale](https://www.amazon.com/Building-Event-Driven-Microservices-Leveraging-Organizational/dp/1492057894)

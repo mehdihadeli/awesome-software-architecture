@@ -1,7 +1,7 @@
 # Traefik
 
 ## 📕 Articles
-
+- [Integrating Consul Connect Service Mesh with Traefik 2.5](https://traefik.io/blog/integrating-consul-connect-service-mesh-with-traefik-2-5/)
 ## 📺 Videos
 
 ## 🚀 Samples

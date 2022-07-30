@@ -18,4 +18,13 @@
 - [Reliably Save State & Publish Events (Outbox Pattern)](https://www.youtube.com/watch?v=u8fOnxAxKHk)
 - [CAP: Event Bus & Outbox Pattern](https://www.youtube.com/watch?v=dnhPzILvgeo)
 - [Inbox & Outbox pattern - transactional message processing [Microservices .NET]](https://www.youtube.com/watch?v=ebyR5RPKciw)
+- [[Stream Archive | 2020-03-27] Start event driven integration between services (feat. outbox pattern)](https://www.youtube.com/watch?v=_W3rXyv2i2A)
+- [[Stream Archive | 2020-04-10] Implementing the outbox message publisher](https://www.youtube.com/watch?v=M9so8hHuerE)
+- [[Stream Archive | 2020-04-17] Continuing the outbox message publisher and adding a fallback](https://www.youtube.com/watch?v=eGPhF_0tCE4)
+- [Event-driven integration #1 - Intro to the transactional outbox pattern [ASPF02O|E040]](https://www.youtube.com/watch?v=suKSJ5DvynA)
+- [Event-driven integration #4 - Outbox publisher (feat. IHostedService & Channels) [ASPF02O|E043]](https://www.youtube.com/watch?v=xnn6AnYyC5g)
 - [Outbox meets change data capture (feat. .NET, PostgreSQL, Kafka and Debezium)](https://www.youtube.com/watch?v=WcmLvoxs9ps)
+- [Outbox meets change data capture - hooking into the Write-Ahead Log (feat. .NET, PostgreSQL & Kafka)](https://www.youtube.com/watch?v=4rnSzEd9jPI)
+
+## Samples
+- [joaofbantunes/PostgresChangeDataCaptureOutboxSample](https://github.com/joaofbantunes/PostgresChangeDataCaptureOutboxSample) - Tiny event driven sample application, using change data capture, via Npgsql, to help implement the outbox pattern
