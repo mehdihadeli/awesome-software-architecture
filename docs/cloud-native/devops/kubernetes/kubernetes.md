@@ -37,6 +37,7 @@
 - [gRPC Load Balancing on Kubernetes - Jan Tattermusch, Google (Intermediate Skill Level)](https://www.youtube.com/watch?v=F2znfxn_5Hg)
 - [How We Use Telepresence 2 at Ambassador Labs](https://www.youtube.com/watch?v=nN1yF6RCaW4)
 - [Intro: Telepresence: Fast Local-to-Remote Development for Kubernetes - Daniel Bryant, Datawire](https://www.youtube.com/watch?v=9eyHSjbZwR8)
+- [Detect Kubernetes misconfigurations before its too late | Introduction to Datree](https://www.youtube.com/watch?v=aqiOyXPPadk)
 ## 📦 Libraries
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
 - [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - SDK for building Kubernetes APIs using CRDs
@@ -58,6 +59,7 @@
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [garden-io/garden](https://github.com/garden-io/garden) - Automation for Kubernetes development and testing.
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
+- [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )!
 ## 🚀 Samples
 - [arashkaffamanesh/practical-kubernetes-problems](https://github.com/arashkaffamanesh/practical-kubernetes-problems) - For Kubernauts' Practical Kubernetes Trainings
 - [ContainerSolutions/kubernetes-examples](https://github.com/ContainerSolutions/kubernetes-examples) - Minimal self-contained examples of standard Kubernetes features and patterns in YAML
