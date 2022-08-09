@@ -25,3 +25,4 @@
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams)
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [C4 DSL Extension](https://marketplace.visualstudio.com/items?itemName=systemticks.c4-dsl-extension)
+- [pierre3/PlantUmlClassDiagramGenerator](https://github.com/pierre3/PlantUmlClassDiagramGenerator) - This is a generator to create a class-diagram of PlantUML from the C# source code.

@@ -19,3 +19,6 @@
 - [khalidabuhakmeh/HelloOrleans](https://github.com/khalidabuhakmeh/HelloOrleans) - Playing with ASP.NET Core and Orleans in a Client/Server scenario
 - [Azure-Samples/Orleans-Cluster-on-Azure-Container-Apps](https://github.com/Azure-Samples/Orleans-Cluster-on-Azure-Container-Apps) - Sample application demonstrating a multiple-silo Orleans cluster running in Azure Container Apps.
 - [samueleresca/blog-orleans-deepdive](https://github.com/samueleresca/blog-orleans-deepdive)
+
+## Libraries
+- [OrleansContrib/OrleansDashboard](https://github.com/OrleansContrib/OrleansDashboard) - A monitoring dashboard for Microsoft Orleans

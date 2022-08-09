@@ -1,5 +1,4 @@
-
-# Class Diagram (Class Modeling)
+0 Class Diagram (Class Modeling)
 
 ## 📕 Articles
 

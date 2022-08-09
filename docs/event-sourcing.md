@@ -133,6 +133,7 @@
 - [Implementing event sourcing using a relational database](https://softwaremill.com/implementing-event-sourcing-using-a-relational-database/)
 - [Read models in event-sourced systems](https://alexey-zimarev.medium.com/read-models-in-event-sourced-systems-489342181233)
 - [EventStoreDB Vs Kafka](https://domaincentric.net/blog/eventstoredb-vs-kafka)
+- [Event Sourcing: Why Kafka is not suitable as an Event Store](https://medium.com/@TonyBologni/event-sourcing-why-kafka-is-not-suitable-as-an-event-store-796e5d9ab63c)
 ## 📺 Videos
 - [Event Sourcing Playlist - CodeOpinion](https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ)
 - [Event Sourcing Example & Explained in plain English](https://www.youtube.com/watch?v=AUj4M-st3ic)

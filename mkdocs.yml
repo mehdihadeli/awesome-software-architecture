@@ -53,6 +53,7 @@ nav:
 - Software Architecture: software-architecture.md
 - Actor Model Architecture: 
   - Actor Model Architecture: actor-model-architecture/actor-model-architecture.md
+  - Akka .NET: actor-model-architecture/akka-net.md
   - Orleans: actor-model-architecture/orleans.md
   - Protoactor: actor-model-architecture/protoactor.md
 - Algorithms: algorithm.md
@@ -193,6 +194,7 @@ nav:
     - Infrastructure as a Service: cloud-native/iaas/iaas.md
     - Terraform: cloud-native/iaas/terraform.md
     - Pulumi: cloud-native/iaas/pulumi.md
+    - Nomad: cloud-native/iaas/nomad.md
   - DevOps:
     - Docker: 
       - Docker: cloud-native/devops/docker/docker.md
@@ -230,7 +232,7 @@ nav:
   - Service Mesh: 
     - Service Mesh: cloud-native/service-mesh/service-mesh.md
     - Istio: cloud-native/service-mesh/istio.md
-    - Consul-Connect: cloud-native/service-mesh/consul-connect.md
+    - Consul & Consul Connect: cloud-native/service-discovery/consul.md
     - Maesh: cloud-native/service-mesh/maesh.md
     - Linkerd: cloud-native/service-mesh/linkerd.md
 - Object Oriented Design: object-oriented-design.md
