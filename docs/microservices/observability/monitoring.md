@@ -9,6 +9,10 @@
 - [Monitoring Your Dotnet Service Using Prometheus](https://dev.to/ingvarx/monitoring-your-dotnet-service-using-prometheus-2hhn)
 - [The 4 Types Of Prometheus Metrics](https://tomgregory.com/the-four-types-of-prometheus-metrics/)
 - [METRIC TYPES](https://prometheus.io/docs/concepts/metric_types/)
+
+## Courses
+- [Introduction to Prometheus](https://training.promlabs.com/training/introduction-to-prometheus)
+
 ## 🚀 Samples
 - [Cingulara/dotnet-core-prometheus-grafana](https://github.com/Cingulara/dotnet-core-prometheus-grafana) - A tutorial repo to use .NET Core 2.2, Prometheus and Grafana to show metrics of your Web APIs
 

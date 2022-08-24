@@ -2,7 +2,7 @@
 
 ## 📘 Resources
 - [Architecting Cloud Native .NET Applications for Azure](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/)
-
+- [joseadanof/awesome-cloudnative-trainings](https://github.com/joseadanof/awesome-cloudnative-trainings) - Awesome Trainings from Cloud Native Computing Foundation Projects and Kubernetes related software
 ## 📕 Articles
 - [Introduction to cloud-native applications](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/introduction)
 - [Defining cloud native](https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/definition)

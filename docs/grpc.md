@@ -44,7 +44,9 @@
 - [gRPC Server Reflection in the .NET world](https://martinbjorkstrom.com/posts/2020-07-08-grpc-reflection-in-net)
 - [Announcing gRPC JSON transcoding for .NET](https://devblogs.microsoft.com/dotnet/announcing-grpc-json-transcoding-for-dotnet/)
 - [Postman Now Supports gRPC](https://blog.postman.com/postman-now-supports-grpc/)
-- [.NET 6: Enhance your gRPC client logs with a generic logging interceptor](https://anthonygiretti.com/2022/08/08/net-6-enhance-your-grpc-client-logs-with-a-generic-logging-i
+- [.NET 6: Enhance your gRPC client logs with a generic logging interceptor](https://anthonygiretti.com/2022/08/08/net-6-enhance-your-grpc-client-logs-with-a-generic-logging-interceptor/)
+- [gRPC client-side load balancing](https://docs.microsoft.com/en-us/aspnet/core/grpc/loadbalancing)
+- [ASP.NET Core 6: Here is the best way to pass a JWT in the headers of a gRPC client](https://anthonygiretti.com/2022/08/15/asp-net-core-6-here-is-the-best-way-to-pass-a-jwt-in-the-headers-of-a-grpc-client/)
 ## 📹 Videos
 
 - [Bidirectional Streaming | gRPC in .NET 5](https://www.youtube.com/watch?v=wY4nMSUF9e0)
@@ -77,3 +79,4 @@
 
 - [aspnetrun/run-aspnet-grpc](https://github.com/aspnetrun/run-aspnet-grpc) - Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5. See gRPC Microservices and Step by Step Implementation on .NET Course w/ discount
 - [jtattermusch/grpc-loadbalancing-kubernetes-examples](https://github.com/jtattermusch/grpc-loadbalancing-kubernetes-examples) - gRPC Load Balancing on Kubernetes examples
+- [wicharypawel/net-core-grpc-load-balance](https://github.com/wicharypawel/net-core-grpc-load-balance)

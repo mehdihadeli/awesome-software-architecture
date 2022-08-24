@@ -41,6 +41,14 @@
 - [Database Modernization: Moving Workloads from Relational to MongoDB Document Model](https://www.mongodb.com/presentations/database-modernization-replacing-relational-databases-with-mongo-db?p=60d2aba22d1bcb03ab22e29e&utm_campaign=Int_WB_Modernization%20Replacing%20Relational%20Databases%20with%20MongoDB_06_21_APAC_Follow%20up&utm_medium=email&utm_source=eloqua&utm_term=Webinar%20Recording%20-%20Moving%20Workloads%20from%20Relational%20to%20MongoDB%20Document%20Model)
 - [MongoDB with C# Beginner's Tutorial Playlist - Coding Droplets](https://www.youtube.com/playlist?list=PLzewa6pjbr3JgaEaUDXWXm_bgjtQPjzFE)
 
+## Courses
+- [MongoDB Basics](https://university.mongodb.com/courses/M001/about)
+- [MongoDB for SQL Pros](https://university.mongodb.com/courses/M100/about)
+- [The MongoDB Aggregation Framework](https://university.mongodb.com/courses/M121/about)
+- [MongoDB Performance](https://university.mongodb.com/courses/M201/about)
+- [MongoDB for .NET Developers](https://university.mongodb.com/courses/M220N/about)
+- [Data Modeling](https://university.mongodb.com/courses/M320/about)
+
 ## Samples
 - [dj-nitehawk/MongoWebApiStarter](https://github.com/dj-nitehawk/MongoWebApiStarter) - A full-featured starter template for `dotnet new` to quickly scaffold an Asp.Net 6 Web-Api project with MongoDB as the data store.
 

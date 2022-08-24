@@ -150,6 +150,7 @@
 - [Microservices with .NET 6 and AWS Tutorial - Part 3](https://www.youtube.com/watch?v=mCLHw3GTHOo)
 - [Microservices with .NET 6 and AWS Tutorial - Part 4](https://www.youtube.com/watch?v=wXNDuF4J6Uc)
 - [Shared Database between Services? Maybe!](https://www.youtube.com/watch?v=vwTwkPUcwNM)
+- [Microservices explained - the What, Why and How?](https://www.youtube.com/watch?v=rv4LlmLmVWk)
 ## 📦 Libraries
 
 - [rebus-org/Rebus](https://github.com/rebus-org/Rebus) - 🚌 Simple and lean service bus implementation for .NET

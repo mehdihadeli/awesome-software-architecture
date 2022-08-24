@@ -8,7 +8,10 @@
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 
 ## 📝 Articles
+- [Get to Know Docker's Ecosystem](https://nickjanetakis.com/blog/get-to-know-dockers-ecosystem#docker-daemon)
+- [Understanding How the Docker Daemon and Docker CLI Work Together](https://nickjanetakis.com/blog/understanding-how-the-docker-daemon-and-docker-cli-work-together)
 - [How to build and push Docker image with GitHub actions?](https://event-driven.io/en/how_to_buid_and_push_docker_image_with_github_actions/)
+- [Docker Tip #73: Connecting to a Remote Docker Daemon](https://nickjanetakis.com/blog/docker-tip-73-connecting-to-a-remote-docker-daemon)
 - [How to build an optimal Docker image for your application?](https://event-driven.io/en/how_to_buid_an_optimal_docker_image_for_your_application/)
 - [Optimising ASP.NET Core apps in Docker - avoiding manually copying csproj files](https://andrewlock.net/optimising-asp-net-core-apps-in-docker-avoiding-manually-copying-csproj-files/)
 - [Exploring the .NET Core Docker files: dotnet vs aspnetcore vs aspnetcore-build](https://andrewlock.net/exploring-the-net-core-docker-files-dotnet-vs-aspnetcore-vs-aspnetcore-build/)
@@ -48,6 +51,7 @@
 - [Ports are not available: listen tcp 0.0.0.0/50070: bind: An attempt was made to access a socket in a way forbidden by its access permissions](https://stackoverflow.com/questions/65272764/ports-are-not-available-listen-tcp-0-0-0-0-50070-bind-an-attempt-was-made-to)
 - [Optimising ASP.NET Core apps in Docker - avoiding manually copying csproj files](https://andrewlock.net/optimising-asp-net-core-apps-in-docker-avoiding-manually-copying-csproj-files/)
 - [Optimising ASP.NET Core apps in Docker - avoiding manually copying csproj files (Part 2)](https://andrewlock.net/optimising-asp-net-core-apps-in-docker-avoiding-manually-copying-csproj-files-part-2/)
+- [Setting Up Docker for Windows and WSL to Work Flawlessly](https://nickjanetakis.com/blog/setting-up-docker-for-windows-and-wsl-to-work-flawlessly)
 ## 📹 Videos
 - [Deploy a .NET Core API with Docker (Step-by-Step)](https://www.youtube.com/watch?v=f0lMGPB10bM)
 - [Docker Tutorial for Beginners [FULL COURSE in 3 Hours](https://www.youtube.com/watch?v=3c-iBn73dDE)

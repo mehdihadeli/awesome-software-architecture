@@ -9,3 +9,4 @@
 - [Visual Paradigm](https://www.visual-paradigm.com)
 - [Creately](https://creately.com)
 - [CloudSkew](https://app.cloudskew.com)
+- [ExcaliDraw](https://github.com/excalidraw/excalidraw)

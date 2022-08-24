@@ -2,6 +2,13 @@
 
 ## 📕 Articles
 - [RabbitMQ Introduction](https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html)
+- [RabitMQ Work Queues(using the .NET Client)](https://www.rabbitmq.com/tutorials/tutorial-two-dotnet.html)
+- [RabbitMQ Publish/Subscribe](https://www.rabbitmq.com/tutorials/tutorial-three-dotnet.html)
+- [RabbitMQ Routing](https://www.rabbitmq.com/tutorials/tutorial-four-dotnet.html)
+- [RabbitMQ Topics](https://www.rabbitmq.com/tutorials/tutorial-five-dotnet.html)
+- [RabbitMQ Remote procedure call (RPC)](https://www.rabbitmq.com/tutorials/tutorial-six-dotnet.html)
+- [RabbitMQ Publisher Confirms](https://www.rabbitmq.com/tutorials/tutorial-seven-dotnet.html)
+- [Consumer Acknowledgements and Publisher Confirms](https://www.rabbitmq.com/confirms.html)
 - [AMQP 0-9-1 Model Explained](https://www.rabbitmq.com/tutorials/amqp-concepts.html)
 - [RabbitMQ URI Specification](https://www.rabbitmq.com/uri-spec.html)
 - [Compatibility and Conformance - Classes from the AMQP specification](https://www.rabbitmq.com/specification.html)
@@ -11,13 +18,6 @@
 - [RabbitMQ HTTP API](https://www.rabbitmq.com/management.html#http-api)
 - [RabbitMQ HTTP API reference](https://rawcdn.githack.com/rabbitmq/rabbitmq-server/v3.9.13/deps/rabbitmq_management/priv/www/api/index.html)
 - [.NET/C# Client API Guide](https://www.rabbitmq.com/dotnet-api-guide.html)
-- [RabitMQ Work Queues(using the .NET Client)](https://www.rabbitmq.com/tutorials/tutorial-two-dotnet.html)
-- [RabbitMQ Publish/Subscribe](https://www.rabbitmq.com/tutorials/tutorial-three-dotnet.html)
-- [RabbitMQ Routing](https://www.rabbitmq.com/tutorials/tutorial-four-dotnet.html)
-- [RabbitMQ Topics](https://www.rabbitmq.com/tutorials/tutorial-five-dotnet.html)
-- [RabbitMQ Remote procedure call (RPC)](https://www.rabbitmq.com/tutorials/tutorial-six-dotnet.html)
-- [RabbitMQ Publisher Confirms](https://www.rabbitmq.com/tutorials/tutorial-seven-dotnet.html)
-- [Consumer Acknowledgements and Publisher Confirms](https://www.rabbitmq.com/confirms.html)
 - [Part 1: RabbitMQ for beginners - What is RabbitMQ?](https://www.cloudamqp.com/blog/part1-rabbitmq-for-beginners-what-is-rabbitmq.html)
 - [Part 2.2: Getting started with RabbitMQ and Node.js](https://www.cloudamqp.com/blog/part2-2-rabbitmq-for-beginners_example-and-sample-code-node-js.html)
 - [CloudAMQP with .NET Getting started](https://www.cloudamqp.com/docs/dotnet.html)
@@ -76,4 +76,5 @@
 - [rabbitmq/rabbitmq-stream-dotnet-client](https://github.com/rabbitmq/rabbitmq-stream-dotnet-client) - RabbitMQ client for the stream protocol
 
 ## Samples
+- [hrabbitmq/rabbitmq-tutorials/dotnet-6](https://github.com/rabbitmq/rabbitmq-tutorials/tree/master/dotnet-6)
 - [hgmauri/sample-rawrabbit-mediatr](https://github.com/hgmauri/sample-rawrabbit-mediatr) - Example of using RabbitMQ with RawRabbit and MediatR in .NET 5

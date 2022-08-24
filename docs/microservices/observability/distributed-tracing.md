@@ -64,6 +64,8 @@
 - [Optimally Configuring Open Telemetry Tracing for ASP.NET Core](https://rehansaeed.com/optimally-configuring-open-telemetry-tracing-for-asp-net-core/)
 - [OpenTelemetry in Action: Optimizing Database Operations](https://thecloudblog.net/post/opentelemetry-in-action-optimizing-database-operations/)
 - [OpenTelemetry in Action: Identifying Database Dependencies](https://thecloudblog.net/post/opentelemetry-in-action-identifying-database-dependencies/)
+- [Just-in-Time Nomad: Running the OpenTelemetry Collector on Hashicorp Nomad with HashiQube](https://storiesfromtheherd.com/just-in-time-nomad-running-the-opentelemetry-collector-on-hashicorp-nomad-with-hashiqube-4eaf009b8382)
+- [How to setup OpenTelemetry instrumentation in ASP.NET core](https://dev.to/jmourtada/how-to-setup-opentelemetry-instrumentation-in-aspnet-core-23p5)
 ## 📺 Videos
 - [Jimmy Bogard - Distributed Tracing Made Easy with .NET Core and OpenTelemetry](https://www.youtube.com/watch?v=s9UNr1oEMl4)
 - [On .NET Live - Cloud Native Patterns for .NET Developers](https://www.youtube.com/watch?v=PDdHa0ushJ0)
@@ -81,6 +83,7 @@
 - [OpenMetrics, OpenTracing, OpenTelemetry - are we there yet? - Alexey Zimarev - NDC Oslo 2020](https://www.youtube.com/watch?v=0vl-4OhPyQY)
 - [MassTransit v8 - Open Telemetry](https://www.youtube.com/watch?v=WsTYClGrOVI)
 - [.NET Diagnostics for Applications: Best Practices](https://www.pluralsight.com/courses/dot-net-diagnostics-applications-best-practices)
+- [Distributed Tracing in .NET 6 using OpenTelemetry - Martin Thwaites - NDC Copenhagen 2022](https://www.youtube.com/watch?v=3JnMfJM9K0c)
 ## 🚀 Samples
 - [karlospn/opentelemetry-tracing-demo](https://github.com/karlospn/opentelemetry-tracing-demo) - Example about how to use OpenTelemetry for tracing when we have a series of distributed applications communicating between them
 - [jbogard/nsb-diagnostics-poc](https://github.com/jbogard/nsb-diagnostics-poc)
@@ -92,7 +95,9 @@
 - [thangchung/practical-opentelemetry](https://github.com/thangchung/practical-opentelemetry) - Make OpenTelemetry works on .NET Core with features such as tracing, logs and metrics on multiple protocols like HTTP/gRPC/UDP/TCP...
 - [jbogard/presentations/DistributedTracing](https://github.com/jbogard/presentations/tree/master/DistributedTracing)
 - [james-world/oxford-otel-demo](https://github.com/james-world/oxford-otel-demo)
-
+- [hashicorp/nomad-open-telemetry-getting-started](https://github.com/hashicorp/nomad-open-telemetry-getting-started) - OpenTelemetry getting started guides on Nomad
+- [open-telemetry/opentelemetry-collector-contrib/nomad](https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/main/examples/nomad)
+- [open-telemetry/opentelemetry-collector-contrib/examples/demo](https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/main/examples/demo)
 ## 📦 Libraries
 - [SkyAPM/SkyAPM-dotnet](https://github.com/SkyAPM/SkyAPM-dotnet) - The .NET/.NET Core instrument agent for Apache SkyWalking
 - [opentracing-contrib/csharp-netcore](https://github.com/opentracing-contrib/csharp-netcore) - OpenTracing instrumentation for .NET Core & .NET 5 apps
@@ -105,3 +110,5 @@
 - [open-telemetry/opentelemetry-dotnet-contrib](https://github.com/open-telemetry/opentelemetry-dotnet-contrib) - This repository contains set of components extending functionality of the OpenTelemetry .NET SDK. Instrumentation libraries, exporters, and other components can find their home here.
 - [open-telemetry/opentelemetry-dotnet/OpenTelemetry.Exporter.InMemory](https://github.com/open-telemetry/opentelemetry-dotnet/tree/main/src/OpenTelemetry.Exporter.InMemory) - The in-memory exporter stores data in a user provided memory buffer.
 - [alexvaluyskiy/prometheus-net-contrib](https://github.com/alexvaluyskiy/prometheus-net-contrib) - Exposes .NET core diagnostic listeners and counters
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector
+- [open-telemetry/opentelemetry-collector/](https://github.com/open-telemetry/opentelemetry-collector/) - OpenTelemetry Collector

@@ -48,6 +48,7 @@
 - [Pub/Sub](https://redis.io/topics/pubsub)
 - [Scaling our inventory cache reads to 1000X](https://medium.com/myntra-engineering/scaling-our-inventory-cache-reads-to-1000x-84a8be1f576e)
 - [Bulk loading - Writing data in bulk using the Redis protocol](https://redis.io/docs/reference/patterns/bulk-loading/)
+- [Redis Explained - Architecture Notes](https://architecturenotes.co/redis/) 
 
 ## 📺 Videos
 - [Real-Time Delivery Architecture at Twitter](https://www.infoq.com/presentations/Real-Time-Delivery-Twitter/)

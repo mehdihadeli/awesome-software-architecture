@@ -206,6 +206,7 @@ nav:
       - Deployment Tools: 
           - Argo-CD: cloud-native/devops/kubernetes/deployment-tools/argo-cd.md
           - Helm: cloud-native/devops/kubernetes/deployment-tools/helm.md
+          - Kustomize: cloud-native/devops/kubernetes/deployment-tools/kustomize.md
           - Kubernetes Operator: cloud-native/devops/kubernetes/deployment-tools/kubernetes-operator.md
           - Jenkins: cloud-native/devops/kubernetes/deployment-tools/jenkins.md
       - Ingress Controller: 

@@ -1,6 +1,8 @@
 # K3S
 
+## Resourses
 - [K3s GitHub](https://github.com/k3s-io/k3s) - Lightweight Kubernetes. Production ready, easy to install, half the memory, all in a binary less than 100 MB.
+
 ## 📕 Articles
 - [K3s with k3d and MetalLB](https://blog.kubernauts.io/k3s-with-k3d-and-metallb-on-mac-923a3255c36e)
 - [K3S with MetalLB on Multipass VMs](https://blog.kubernauts.io/k3s-with-metallb-on-multipass-vms-ac2b37298589)
@@ -13,6 +15,11 @@
 - [Single-node Kubernetes Clusters Using K3s with Benefits of GitOps • Lasse Højgaard • GOTO 2021](https://www.youtube.com/watch?v=ePyFJ7Hd57Q)
 - [Using *HA* Kubernetes at home, was never so simple!](https://www.youtube.com/watch?v=UdjhFLV1yt8)
 - [HA K3s with etcd, kube-vip, MetalLB, and Rancher!](https://www.youtube.com/watch?v=9PLw1xalcYA)
+
+
+## Courses
+- [Master Traefik Proxy With K3s](https://academy.traefik.io/courses/master-traefik-proxy-with-k3s)
+- [Introduction to Kubernetes on Edge with k3s](https://training.linuxfoundation.org/training/introduction-to-kubernetes-on-edge-with-k3s-lfs156x/)
 ## 📦 Libraries
 - [k3s-io/k3s-ansible](https://github.com/k3s-io/k3s-ansible) - Build a Kubernetes cluster using Ansible with k3s.
 

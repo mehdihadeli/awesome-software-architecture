@@ -180,6 +180,7 @@
 - [About Event Sourcing with Oskar Dudycz | Software as we know IT](https://www.youtube.com/watch?v=MARo6153qF8)
 - [Practical introduction to Event Sourcing with Spring Boot and EventStoreDB](https://www.youtube.com/watch?v=LaUSPtwFLSg)
 - [Real-time subscription - Alexey Zimarev](https://medium.com/eventuous/real-time-subscription-3d5725d69887)
+- [Pragmatic Event Sourcing in .NET With Marten - JetBrainsTV](https://www.youtube.com/watch?v=Lc2zV8KA16A)
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET

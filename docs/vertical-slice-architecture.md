@@ -2,7 +2,6 @@
 # Vertical Slice Architecture
 
 ## 📕 Articles
-
 - [How Vertical Slice Architecture fulfills Clean Architecture’s broken promises](https://headspring.com/2020/08/18/how-vertical-slice-architecture-fulfills-clean-architectures-broken-promises/) 
 - [Why vertical slice architecture is better—if you know these few things](https://headspring.com/2019/11/05/why-vertical-slice-architecture-is-better/) 
 - [Vertical Slice Architecture](https://jimmybogard.com/vertical-slice-architecture/)
@@ -54,8 +53,8 @@
 - [Maybe it's time to rethink our project structure with .NET 6](https://timdeschryver.dev/blog/maybe-its-time-to-rethink-our-project-structure-with-dot-net-6)
 - [The simplicity of ASP.NET Endpoints](https://timdeschryver.dev/blog/the-simplicity-of-net-endpoints)
 - [Vertical Slice Architecture in ASP.NET Core](https://code-maze.com/vertical-slice-architecture-aspnet-core/)
-## 📺 Videos
 
+## 📺 Videos
 - [SOLID Architecture in Slices not Layers - Jimmy Bogard](https://vimeo.com/131633177)
 - [Vertical Slice Architecture - Jimmy Bogard](https://www.youtube.com/watch?v=5kOzZz2vj2o) 
 - [SOLID Architecture in Slices not Layers](https://www.youtube.com/watch?v=wTd-VcJCs_M) 
@@ -66,8 +65,8 @@
 - [Organize Code by Feature | Vertical Slices](https://www.youtube.com/watch?v=PRns0rqPonA)
 - [Vertical Slice Architecture](https://www.youtube.com/watch?v=id2kfgzONMA)
 - [Clean Architecture Example & Breakdown - Do I use it?](https://www.youtube.com/watch?v=Ys_W6MyWOCw)
-## 🚀 Samples
 
+## 🚀 Samples
 - [jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages) 
 - [oskardudycz/EventSourcing.NetCore/Sample/Warehouse](https://github.com/oskardudycz/EventSourcing.NetCore/tree/cqrs_with_net5/Sample/Warehouse)
 - [sandeepgangwar/Vertical-Slice-Architecture](https://github.com/sandeepgangwar/Vertical-Slice-Architecture)
@@ -89,7 +88,6 @@
 
 
 ## 📚 Books
-
 - [An Atypical ASP.NET Core 5 Design Patterns Guide](https://www.packtpub.com/product/an-atypical-asp-net-core-5-design-patterns-guide/9781789346091)
 
 

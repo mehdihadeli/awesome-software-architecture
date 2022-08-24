@@ -16,6 +16,7 @@
 - [Sairyss/distributed-systems-topics](https://github.com/Sairyss/distributed-systems-topics) - This is a list of topics and resources related to distributed systems, system design, microservices, scalability and performance, etc
 - [bregman-arie/system-design-notebook](https://github.com/bregman-arie/system-design-notebook) - Learn System Design step by step
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet
+- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 ## 📕 Articles
 
 - [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
@@ -37,6 +38,7 @@
 - [System Design](https://www.youtube.com/playlist?list=PLhgw50vUymyckXl3D1IlXoVl94wknJfUC) 
 - [System Design Interview](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ)
 - [System Design Interview Course - tryexponent](https://www.tryexponent.com/courses/system-design-interview)
+- [Distributed Systems lecture series - Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 ## 📚 Books
 - [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)
 - [System Design Interview – An insider's guide, Second Edition](https://www.amazon.com/dp/B08CMF2CQF/ref=tsm_1_fb_lk)

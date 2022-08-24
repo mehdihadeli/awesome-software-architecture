@@ -6,7 +6,10 @@
 - [Load Balancing with NGINX and Consul Template](https://learn.hashicorp.com/tutorials/consul/load-balancing-nginx)
 - [Traefik Proxy Now Fully Integrates with Hashicorp Nomad](https://traefik.io/blog/traefik-proxy-fully-integrates-with-hashicorp-nomad/)
 - [Consul Connect Integration in HashiCorp Nomad](https://www.hashicorp.com/blog/consul-connect-integration-in-hashicorp-nomad)
-
+- [How to Use Consul as a Host Resolver in gRPC](https://hackernoon.com/how-to-use-consul-as-a-host-resolver-in-grpc)
+- [Consul & Envoy Integration](https://stackoverflow.com/questions/59114004/consul-envoy-integration)
+- [A Practical Guide to HashiCorp Consul — Part 1](https://medium.com/velotio-perspectives/a-practical-guide-to-hashicorp-consul-part-1-5ee778a7fcf4)
+- [A Practical Guide To HashiCorp Consul — Part 2](https://medium.com/velotio-perspectives/a-practical-guide-to-hashicorp-consul-part-2-3c0ebc0351e8)
 ## 📺 Videos
 - [HashiCorp Consul Introduction: What is a Service Mesh?](https://www.youtube.com/watch?v=UpR-3GBTKsk)
 - [Consul Service Mesh: Deep Dive](https://www.youtube.com/watch?v=Aq1uTozNajI)
