@@ -40,6 +40,7 @@
 - [Practical DDD in Golang: Entity](https://levelup.gitconnected.com/practical-ddd-in-golang-entity-40d32bdad2a3)
 - [Avoid Exposing Collections Directly as Properties](https://ardalis.com/avoid-collections-as-properties/?utm_sq=grcpqjyka3)
 - [Design a No Duplicates Rule in your Domain Model?](https://ardalis.com/design-no-duplicates-rule-in-domain-model/?utm_sq=gz8joz8bw5)
+- [Domain Modeling Heuristics #1: I See Users Everywhere!](https://www.jamesmichaelhickey.com/i-see-users-everywhere/)
 ## 📺 Videos
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU) 
 - [ALWAYS Valid Domain Model](https://www.youtube.com/watch?v=JZetlRXdYeI)

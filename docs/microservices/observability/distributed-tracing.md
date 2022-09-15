@@ -1,4 +1,4 @@
-# Distributed Tracing
+# Distributed Tracing & Open Telemtry
 
 ## 📘 Resources
 - [Awesome OpenTelemetry](https://github.com/magsther/awesome-opentelemetry) - A curated list of OpenTelemetry resources
@@ -98,6 +98,7 @@
 - [hashicorp/nomad-open-telemetry-getting-started](https://github.com/hashicorp/nomad-open-telemetry-getting-started) - OpenTelemetry getting started guides on Nomad
 - [open-telemetry/opentelemetry-collector-contrib/nomad](https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/main/examples/nomad)
 - [open-telemetry/opentelemetry-collector-contrib/examples/demo](https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/main/examples/demo)
+- [joaofbantunes/ExploringDistributedTracingWithAspNet](https://github.com/joaofbantunes/ExploringDistributedTracingWithAspNet)
 ## 📦 Libraries
 - [SkyAPM/SkyAPM-dotnet](https://github.com/SkyAPM/SkyAPM-dotnet) - The .NET/.NET Core instrument agent for Apache SkyWalking
 - [opentracing-contrib/csharp-netcore](https://github.com/opentracing-contrib/csharp-netcore) - OpenTracing instrumentation for .NET Core & .NET 5 apps

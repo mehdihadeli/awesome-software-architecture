@@ -92,3 +92,4 @@
 - [ttulka/ddd-example-ecommerce-kotlin](https://github.com/ttulka/ddd-example-ecommerce-kotlin) - Domain-driven design example in Kotlin with Spring framework
 - [DijanaPenic/DDD-VShop](https://github.com/DijanaPenic/DDD-VShop) - VShop is a sample .NET 6 application built as Modular Monolith with Domain-Driven Design (DDD) approach. Each module is an independent vertical slice with its custom architecture.
 - [Ridikk12/ModularMonolith](https://github.com/Ridikk12/ModularMonolith)
+- [thangchung/coffeeshop-modular](https://github.com/thangchung/coffeeshop-modular) - .NET coffee shop application with modular approach

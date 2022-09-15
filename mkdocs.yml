@@ -65,6 +65,7 @@ nav:
 - Service Oriented Architecture: service-oriented-architecture.md
 - Domain Driven Design: 
   - Domain Driven Design: domain-driven-design/domain-driven-design.md
+  - Domain: domain-driven-design/domain.md
   - Aggregation: domain-driven-design/aggregation.md
   - Anemic Domain Model: domain-driven-design/anemic-domain-model.md
   - Rich Domain Model: domain-driven-design/rich-domain-model.md
@@ -91,9 +92,6 @@ nav:
   - Microservices: microservices/microservices.md
   - Communication & Data Consistency: microservices/communication.md
   - Services Boundries: microservices/services-boundries.md
-  - Design Patterns:
-    - Design Patterns: microservices/design-patterns/design-patterns.md
-    - Outbox Pattern: microservices/design-patterns/outbox-pattern.md
   - Observibility: 
     - Observibility: microservices/observability/observibility.md
     - Distributed Tracing: microservices/observability/distributed-tracing.md
@@ -101,7 +99,12 @@ nav:
     - Diagnostics: microservices/observability/diagnostics.md
     - Logging: microservices/observability/logging.md
     - Monitoring: microservices/observability/monitoring.md   
-    - Metrics: microservices/observability/metrics.md   
+    - Metrics: microservices/observability/metrics.md  
+    - Tools:
+      - EFK: microservices/observability/tools/efk.md
+      - Fluent Bit: microservices/observability/tools/fluent-bit.md
+      - Fluentd: microservices/observability/tools/fluentd.md
+      - Grafana Loki: microservices/observability/tools/loki.md
   - Resiliency:
     - Resiliency: microservices/resiliency/resiliency.md        
     - High Availibility: microservices/resiliency/high-availibility.md   
@@ -179,12 +182,6 @@ nav:
     - Ambassador: cloud-native/api-gateway/ambassador.md
     - Kong: cloud-native/api-gateway/kong.md
     - Ocelot: cloud-native/api-gateway/ocelot.md
-  - Load Balancing: 
-    - Load Balancing: cloud-native/load-balancing/load-balancing.md
-    - Fabio: cloud-native/load-balancing/fabio.md
-    - MetalLB: cloud-native/load-balancing/metallb.md
-    - Nginx: cloud-native/load-balancing/nginx.md
-    - Traefik: cloud-native/load-balancing/traefik.md
   - Platform as a Service:
     - Rancher: cloud-native/paas/rancher.md
     - OpenShift: cloud-native/paas/openshift.md
@@ -221,11 +218,16 @@ nav:
       - Azure DevOps: cloud-native/devops/ci-cd/azure-devops.md
       - Github Actions: cloud-native/devops/ci-cd/github-actions.md
       - Jenkins: cloud-native/devops/ci-cd/jenkins.md
-  - Reverse Proxy:
-    - Reverse Proxy: cloud-native/reverse-proxy/reverse-proxy.md
-    - Envoy: cloud-native/reverse-proxy/envoy.md
-    - YARP: cloud-native/reverse-proxy/yarp.md
-    - HAProxy: cloud-native/reverse-proxy/haproxy.md
+  - Reverse Proxy & Load Balancing:
+    - Reverse Proxy: cloud-native/reverse-proxy-lb/reverse-proxy.md
+    - Load Balancing: cloud-native/reverse-proxy-lb/load-balancing.md
+    - Envoy: cloud-native/reverse-proxy-lb/envoy.md
+    - YARP: cloud-native/reverse-proxy-lb/yarp.md
+    - HAProxy: cloud-native/reverse-proxy-lb/haproxy.md
+    - Fabio: cloud-native/reverse-proxy-lb/fabio.md
+    - MetalLB: cloud-native/reverse-proxy-lb/metallb.md
+    - Nginx: cloud-native/reverse-proxy-lb/nginx.md
+    - Traefik: cloud-native/reverse-proxy-lb/traefik.md
   - Service Discovery & Registry: 
     - Service Discovery & Registry: cloud-native/service-discovery/service-discovery.md
     - Consul: cloud-native/service-discovery/consul.md
@@ -259,6 +261,7 @@ nav:
 - Eventual Consistency: eventual-consistency.md
 - Messaging:
   - Messaging: messaging/messaging.md
+  - Change Data Capture (CDC): messaging/change-data-capture.md
   - Documentation: messaging/documentation.md
   - Kafka: messaging/kafka.md
   - RabbitMQ: messaging/rabbitmq.md
@@ -281,6 +284,7 @@ nav:
   - MongoDB: nosql/mongodb.md
   - Postgresql: nosql/postgresql.md
 - Relational Database:
+  - Relational Database: relational/relational-database.md
   - Postgresql: relational/postgres.md
 - Azure Cloud:
   - Azure Cloud: azure/azure-cloud.md
@@ -332,6 +336,7 @@ nav:
   - Tools: modeling/tools.md
   - Use Case Diagram: modeling/use-case-diagram.md
 - Open Source: open-source.md
+- Code Review: code-review.md
 - Interview: interview.md
 - Architecture Decision Records (ADR): adr.md
 - Micro-Frontend: micro-frontend.md

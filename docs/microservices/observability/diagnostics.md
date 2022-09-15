@@ -67,7 +67,7 @@
 - [Diagnosing .NET 6 issues from sidecar containers using dotnet-monitor](https://www.youtube.com/watch?v=oCY9BsAw5oU)
 - [.NET Diagnostics for Applications: Best Practices](https://www.pluralsight.com/courses/dot-net-diagnostics-applications-best-practices)
 - [dotnet-monitor Fundamentals - Accessing .NET Diagnostics Easier](https://www.youtube.com/watch?v=pG0t19bEYJw)
-
+- [dotnet-monitor: Enabling a diagnostics sidecar in AKS](https://www.youtube.com/watch?v=3nzZO34nUFQ)
 ## 🚀 Samples
 - [gregkalapos/DiagnosticSource](https://github.com/gregkalapos/DotNetConceptOfTheWeek/tree/master/18_DiagnosticSource)
 - [aspnet/AspNetCore/blob/master/src/Hosting/Hosting/src/Internal/HostingEventSource.cs](https://github.com/aspnet/AspNetCore/blob/master/src/Hosting/Hosting/src/Internal/HostingEventSource.cs)

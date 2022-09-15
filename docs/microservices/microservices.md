@@ -96,7 +96,7 @@
 - [Event Sourcing and Microservices](https://zimarev.com/blog/event-sourcing/microservices/)
 - [Generating sortable Guids using NewId](https://andrewlock.net/generating-sortable-guids-using-newid/)
 - [Release Management for Microservices](https://semaphoreci.com/blog/release-management-microservices)
-
+- [Microservices to Async Processing Migration at Scale](https://www.infoq.com/articles/microservices-async-migration/)
 ## 📺 Videos
 
 - [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) 

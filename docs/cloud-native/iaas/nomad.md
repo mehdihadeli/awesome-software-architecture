@@ -12,6 +12,8 @@
 - [Just-in-time Nomad: A Beginner’s Guide to Understanding HashiCorp Nomad](https://storiesfromtheherd.com/just-in-time-nomad-80f57cd403ca)
 - [Just-in-Time Nomad: Running the OpenTelemetry Collector on Hashicorp Nomad with HashiQube](https://storiesfromtheherd.com/just-in-time-nomad-running-the-opentelemetry-collector-on-hashicorp-nomad-with-hashiqube-4eaf009b8382)
 - [Just-in-Time Nomad: Running Traefik on Nomad with HashiQube](https://adri-v.medium.com/just-in-time-nomad-running-traefik-on-hashiqube-7d6dfd8ef9d8)
+- [HashiCorp Nomad: A Response to Kubernetes Complexity](https://traefik.io/glossary/hashicorp-nomad-101/)
+- [Nomad vs. Kubernetes: container orchestration tools compared](https://www.imaginarycloud.com/blog/nomad-vs-kubernetes/)
 ## Vidoes
 - [From Zero to WOW! with Nomad](https://www.youtube.com/watch?v=xl58mjMJjrg)
 - [Deploy Your First App with HashiCorp Nomad in 20 mins](https://www.youtube.com/watch?v=SSfuhOLfJUg)

@@ -17,6 +17,7 @@
 - [How Sharding Works](https://medium.com/@jeeyoungk/how-sharding-works-b4dec46b3f6)
 - [Data partitioning guidance](https://docs.microsoft.com/en-us/azure/architecture/best-practices/data-partitioning)
 - [Data partitioning strategies](https://docs.microsoft.com/en-us/azure/architecture/best-practices/data-partitioning-strategies)
+- [Shared Database between Services? Maybe!](https://codeopinion.com/shared-database-between-services-maybe/)
 ## 📺 Videos
 - [What is Database Sharding?](https://www.youtube.com/watch?v=5faMjKuB9bc)
 - [What is Database Sharding?](https://www.youtube.com/watch?v=hdxdhCpgYo8)
@@ -37,3 +38,4 @@
 - [Python CRUD App hits 2 million rows, Should I Shard my Database?](https://www.youtube.com/watch?v=aXD4tWbkoJo)
 - [Database Sharding Explained | Database Partitioning | Database Scaling Tutorial](https://www.youtube.com/watch?v=VhsMXWb5Eew)
 - [Scaling MongoDB Best Practices for Sharding, Indexing and Performance Isolation](https://www.youtube.com/watch?v=ZcAErl9Ir6Q)
+- [Shared Database between Services? Maybe!](https://www.youtube.com/watch?v=vwTwkPUcwNM)

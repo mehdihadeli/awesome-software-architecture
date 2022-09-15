@@ -18,7 +18,8 @@
 - [SQL vs NoSQL: The Differences](https://www.sitepoint.com/sql-vs-nosql-differences/)
 - [SQL & NOSQL: A BRIEF HISTORY](https://blog.grio.com/2015/11/sql-nosql-a-brief-history.html)
 - [SQL vs NoSQL](https://academind.com/tutorials/sql-vs-nosql)
-
+- [How to choose the right database for your service](https://medium.com/wix-engineering/how-to-choose-the-right-database-for-your-service-97b1670c5632)
+- [5 Database technologies used by 2000 Wix microservices](https://medium.com/wix-engineering/5-database-technologies-used-by-2000-wix-microservices-e4769638b8c3)
 ## 📺 Videos
 
 - [Google I/O 2012 - SQL vs NoSQL: Battle of the Backends](https://www.youtube.com/watch?v=rRoy6I4gKWU)

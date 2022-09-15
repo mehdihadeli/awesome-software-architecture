@@ -52,12 +52,15 @@
 - [Optimising ASP.NET Core apps in Docker - avoiding manually copying csproj files](https://andrewlock.net/optimising-asp-net-core-apps-in-docker-avoiding-manually-copying-csproj-files/)
 - [Optimising ASP.NET Core apps in Docker - avoiding manually copying csproj files (Part 2)](https://andrewlock.net/optimising-asp-net-core-apps-in-docker-avoiding-manually-copying-csproj-files-part-2/)
 - [Setting Up Docker for Windows and WSL to Work Flawlessly](https://nickjanetakis.com/blog/setting-up-docker-for-windows-and-wsl-to-work-flawlessly)
+- [Announcing built-in container support for the .NET SDK](https://devblogs.microsoft.com/dotnet/announcing-builtin-container-support-for-the-dotnet-sdk/)
+- [Linting a .NET 6 app Dockerfile using Hadolint, dockerfile_lint and Azure Pipelines](https://www.mytechramblings.com/posts/linting-a-dotnet-app-dockerfile-using-hadolint-dockerfile-lint-and-azure-pipelines/)
+- [Docker build caching for .NET applications done right with dotnet-subset](https://blog.nimbleways.com/docker-build-caching-for-dotnet-applications-done-right-with-dotnet-subset/)
 ## 📹 Videos
 - [Deploy a .NET Core API with Docker (Step-by-Step)](https://www.youtube.com/watch?v=f0lMGPB10bM)
 - [Docker Tutorial for Beginners [FULL COURSE in 3 Hours](https://www.youtube.com/watch?v=3c-iBn73dDE)
 - [How to push a container image to a Docker Repo | Azure Tips and Tricks](https://www.youtube.com/watch?v=r_tGl4zF1ZQ)
 - [Dockerize .NET 6 in 10 Minutes](https://www.youtube.com/watch?v=3s-RfwvijpY)
-
+- [Docker networking is CRAZY!! (you NEED to learn it)](https://www.youtube.com/watch?v=bKFMS5C4CG0)
 ## 📦 Libraries
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
@@ -67,6 +70,7 @@
 - [mariotoffia/FluentDocker](https://github.com/mariotoffia/FluentDocker) - Use docker, docker-compose local and remote in tests and your .NET core/full framework apps via a FluentAPI
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [worstcase/blockade](https://github.com/worstcase/blockade) - Docker-based utility for testing network failures and partitions in distributed applications
+- [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 ## 🚀 Samples
 - [jbw/TooBigToFailBurgerShop](https://github.com/jbw/TooBigToFailBurgerShop/tree/develop/src/services/Ordering/Ordering.API) - .NET Microservice Reference Application. It's also an over-engineered burger shop!
 - [VasilisGaitanidis/master-containerized-microservices](https://github.com/VasilisGaitanidis/master-containerized-microservices) - This repo contains a sample application based on a fictional eCommerce. The primary goal of this sample is to demonstrate several software-architecture concepts like: Clean Architecture, Microservices, CQRS, Event Sourcing, Publish-Subscribe Architecture, Domain Driven Design (DDD). Currently this is a work in progress.

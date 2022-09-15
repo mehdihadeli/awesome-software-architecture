@@ -23,7 +23,7 @@
 - [The “.env” file](https://docs.docker.com/compose/environment-variables/#the-env-file)
 ## 📺 Videos
 - [Best Practices Around Production Ready Web Apps with Docker Compose](https://www.youtube.com/watch?v=T--X3v2pwtU)
-
+- [Docker Compose will BLOW your MIND!! (a tutorial)](https://www.youtube.com/watch?v=DM65_JyGxCo)
 ## 🚀 Samples
 - [twzhangyang/RestAirline](https://github.com/twzhangyang/RestAirline) - DDD+CQRS+EventSourcing+Hypermedia API+ASP.NET Core 3.1+Masstransit+terraform+docker+k8s
 - [WolfgangOfner/MicroserviceDemo](https://github.com/WolfgangOfner/MicroserviceDemo) - This is a demo with two ASP .NET 5 microservices using RabbitMQ and Docker

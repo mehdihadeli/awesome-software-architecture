@@ -43,7 +43,6 @@ I created this repository to share a set of links that I found valuable and insp
 |:-------:|:----------- |
 | [Actor Model Architecture](docs/actor-model-architecture/actor-model-architecture.md) |  The Actor Model is a programming paradigm in which the basic unit of execution is the actor. In the Actor Model, an actor does work by using messages to express actions upon a system or other actors within the given system
 | [Akka .NET](docs/actor-model-architecture/akka-net.md) |  Akka.NET is a toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET.
-| [Actor Model](docs/actor-model-architecture/actor-model-architecture.md) |  Actor model is a reactive programming paradigm which enables us to make reactive systems which follow reactive principles.
 | [Microsoft Orleans](docs/actor-model-architecture/orleans.md) |Orleans is a cross-platform framework for building robust, scalable distributed applications.  
 | [ProtoActor](docs/actor-model-architecture/protoactor.md) | Ultra fast distributed actors for Go, C# and Java/Kotlin.
 

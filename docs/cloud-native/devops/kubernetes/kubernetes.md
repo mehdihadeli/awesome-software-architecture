@@ -30,6 +30,7 @@
 - [Kubectl Config Set-Context | Tutorial and Best Practices](https://www.containiq.com/post/kubectl-config-set-context-tutorial-and-best-practices)
 - [A guide to swiftly managing your Kubernetes resources using K9s](https://earthly.dev/blog/managing-k8s-with-k9s/)
 - [Writing .NET Application Services for Kubernetes](https://mikehadlow.com/posts/2022-06-24-writing-dotnet-services-for-kubernetes/)
+- [Fluentd vs. Fluent Bit: Side by Side Comparison](https://logz.io/blog/fluentd-vs-fluent-bit/)
 ## 📺 Videos
 - [Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]](https://www.youtube.com/watch?v=X48VuDVv0do)
 - [Kubernetes Daemonsets explained | Tutorial | Kubernetes Guide](https://www.youtube.com/watch?v=RGSeeN-o-kQ)
@@ -40,6 +41,7 @@
 - [How We Use Telepresence 2 at Ambassador Labs](https://www.youtube.com/watch?v=nN1yF6RCaW4)
 - [Intro: Telepresence: Fast Local-to-Remote Development for Kubernetes - Daniel Bryant, Datawire](https://www.youtube.com/watch?v=9eyHSjbZwR8)
 - [Detect Kubernetes misconfigurations before its too late | Introduction to Datree](https://www.youtube.com/watch?v=aqiOyXPPadk)
+- [Kubernetes Liveness & Readiness Probes](https://www.youtube.com/watch?v=3TJRkKWuVoM)
 ## 📦 Libraries
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
 - [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - SDK for building Kubernetes APIs using CRDs
@@ -64,6 +66,8 @@
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production 
 - [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations
+- [dassump/dotnet-appsettings-env](https://github.com/dassump/dotnet-appsettings-env) - Convert .NET appsettings.json file to Kubernetes, Docker and Docker-Compose environment variables.
+- [virtual-kubelet/virtual-kubelet](https://github.com/virtual-kubelet/virtual-kubelet) - Virtual Kubelet is an open source Kubernetes kubelet implementation.
 ## 🚀 Samples
 - [arashkaffamanesh/practical-kubernetes-problems](https://github.com/arashkaffamanesh/practical-kubernetes-problems) - For Kubernauts' Practical Kubernetes Trainings
 - [ContainerSolutions/kubernetes-examples](https://github.com/ContainerSolutions/kubernetes-examples) - Minimal self-contained examples of standard Kubernetes features and patterns in YAML

@@ -47,6 +47,7 @@
 - [.NET 6: Enhance your gRPC client logs with a generic logging interceptor](https://anthonygiretti.com/2022/08/08/net-6-enhance-your-grpc-client-logs-with-a-generic-logging-interceptor/)
 - [gRPC client-side load balancing](https://docs.microsoft.com/en-us/aspnet/core/grpc/loadbalancing)
 - [ASP.NET Core 6: Here is the best way to pass a JWT in the headers of a gRPC client](https://anthonygiretti.com/2022/08/15/asp-net-core-6-here-is-the-best-way-to-pass-a-jwt-in-the-headers-of-a-grpc-client/)
+- [ASP.NET Core 6: Handling gRPC exception correctly server side](https://anthonygiretti.com/2022/08/28/asp-net-core-6-handling-grpc-exception-correctly-server-side/)
 ## 📹 Videos
 
 - [Bidirectional Streaming | gRPC in .NET 5](https://www.youtube.com/watch?v=wY4nMSUF9e0)

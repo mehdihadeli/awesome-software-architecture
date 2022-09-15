@@ -1,7 +1,6 @@
 # Monitoring
 
 ## 📕 Articles
-
 - [Monitor .NET Microservices in Kubernetes with Prometheus](https://www.programmingwithwolfgang.com/monitor-net-microservices-with-prometheus/)
 - [Create Grafana Dashboards with Prometheus Metrics](https://www.programmingwithwolfgang.com/create-grafana-dashboards-with-prometheus-metrics)
 - [.NET Core Web API Metrics with Prometheus and Grafana](https://dale-bingham-cingulara.medium.com/net-core-web-api-metrics-with-prometheus-and-grafana-fe84a52d9843)
@@ -9,6 +8,8 @@
 - [Monitoring Your Dotnet Service Using Prometheus](https://dev.to/ingvarx/monitoring-your-dotnet-service-using-prometheus-2hhn)
 - [The 4 Types Of Prometheus Metrics](https://tomgregory.com/the-four-types-of-prometheus-metrics/)
 - [METRIC TYPES](https://prometheus.io/docs/concepts/metric_types/)
+- [Create Grafana Dashboards with Prometheus Metrics](https://www.programmingwithwolfgang.com/create-grafana-dashboards-with-prometheus-metrics)
+- [.NET Core Web API Metrics with Prometheus and Grafana](https://dale-bingham-cingulara.medium.com/net-core-web-api-metrics-with-prometheus-and-grafana-fe84a52d9843)
 
 ## Courses
 - [Introduction to Prometheus](https://training.promlabs.com/training/introduction-to-prometheus)

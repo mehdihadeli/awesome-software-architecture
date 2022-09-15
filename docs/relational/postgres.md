@@ -10,6 +10,8 @@
 - [Faster Operations with the JSONB Data Type in PostgreSQL](https://www.compose.com/articles/faster-operations-with-the-jsonb-data-type-in-postgresql/)
 - [Querying JSON (JSONB) data types in PostgreSQL](http://www.silota.com/docs/recipes/sql-postgres-json-data-types.html)
 - [Unlocking the Full Potential Of PostgreSQL® JSON](https://www.instaclustr.com/blog/postgresql-json/)
+- [How to choose the right database for your service](https://medium.com/wix-engineering/how-to-choose-the-right-database-for-your-service-97b1670c5632)
+- [5 Database technologies used by 2000 Wix microservices](https://medium.com/wix-engineering/5-database-technologies-used-by-2000-wix-microservices-e4769638b8c3)
 ## 📦 Libraries
 - [JasperFx/marten](https://github.com/JasperFx/marten) - .NET Transactional Document DB and Event Store on PostgreSQL
 - [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it's 2021

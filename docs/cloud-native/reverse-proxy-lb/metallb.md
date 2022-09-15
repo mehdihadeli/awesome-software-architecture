@@ -1,5 +1,6 @@
 # MetalLB
 
+## Resources
 [MetalLB GitHub](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols
 
 ## 📕 Articles
@@ -7,6 +8,7 @@
 - [Using Traefik As Your Ingress Controller Combined With MetalLB On Your Bare Metal Kubernetes Cluster – Part 2](https://www.devtech101.com/2019/03/02/using-traefik-as-your-ingress-controller-combined-with-metallb-on-your-bare-metal-kubernetes-cluster-part-2/)
 - [Running k3s with metallb on Vagrant](https://medium.com/@toja/running-k3s-with-metallb-on-vagrant-bd9603a5113b)
 
-## 🚀 Samples
-
+## Videos
+- [Deploy MetalLB in Kubernetes | Load Balancing solution](https://www.youtube.com/watch?v=LMOYOtzpoXg)
+- [Deploying & Using MetalLB in KinD Kubernetes Cluster](https://www.youtube.com/watch?v=zNbqxPRTjFg)
 

@@ -44,6 +44,8 @@
 - [Many Faces of Event-driven Architecture](https://medium.com/event-driven-utopia/many-faces-of-event-driven-architecture-660a322ce1ce)
 - [How to build event-driven projections with Entity Framework](https://event-driven.io/en/how_to_do_events_projections_with_entity_framework/)
 - [Service-Oriented Architecture vs Event-Driven Architecture](https://www.eventstore.com/blog/service-oriented-architecture-vs-event-driven-architecture)
+- [Event Driven Architecture — 5 Pitfalls to Avoid](https://medium.com/wix-engineering/event-driven-architecture-5-pitfalls-to-avoid-b3ebf885bdb1)
+- [Microservices to Async Processing Migration at Scale](https://www.infoq.com/articles/microservices-async-migration/)
 ## 📺 Videos
 
 - [Event-Driven Architecture | EDA | Software Architectural Patterns](https://www.youtube.com/watch?v=gIL8rW_eyww&t=0s) 
@@ -75,7 +77,8 @@
 - [Event-driven integration #3 - Storing events in the outbox table [ASPF02O|E042]](https://www.youtube.com/watch?v=G187r-rzzkk)
 - [Event-driven integration #4 - Outbox publisher (feat. IHostedService & Channels) [ASPF02O|E043]](https://www.youtube.com/watch?v=xnn6AnYyC5g)
 - [Event-driven integration #5 - Quick intro to Apache Kafka [ASPF02O|E044]](https://www.youtube.com/watch?v=tUzCxZdKEr4)
-- [Event-driven integration #6 - Publishing events (feat. Apache Kafka) [ASPF02O|E045]](https://www.youtube.com/watch?v=T2Dy7cH486c&t=41s)
+- [Event-driven integration #6 - Publishing events (feat. Apache Kafka) [ASPF02O|E045]](https://www.youtube.com/watch?v=T2Dy7cH486c)
+- [Wix.com - 5 Event Driven Architecture Pitfalls!](https://www.youtube.com/watch?v=xfNzGdrxf5w)
 ## 📚 Books
 - [Designing Event-Driven Systems](https://www.confluent.io/designing-event-driven-systems/)
 - [Building Event-Driven Microservices: Leveraging Organizational Data at Scale](https://www.amazon.com/Building-Event-Driven-Microservices-Leveraging-Organizational/dp/1492057894)

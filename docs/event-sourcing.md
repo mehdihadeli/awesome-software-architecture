@@ -134,6 +134,7 @@
 - [Read models in event-sourced systems](https://alexey-zimarev.medium.com/read-models-in-event-sourced-systems-489342181233)
 - [EventStoreDB Vs Kafka](https://domaincentric.net/blog/eventstoredb-vs-kafka)
 - [Event Sourcing: Why Kafka is not suitable as an Event Store](https://medium.com/@TonyBologni/event-sourcing-why-kafka-is-not-suitable-as-an-event-store-796e5d9ab63c)
+- [Event Versioning with Marten](https://event-driven.io/en/event_versioning_with_marten/)
 ## 📺 Videos
 - [Event Sourcing Playlist - CodeOpinion](https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ)
 - [Event Sourcing Example & Explained in plain English](https://www.youtube.com/watch?v=AUj4M-st3ic)
@@ -181,6 +182,8 @@
 - [Practical introduction to Event Sourcing with Spring Boot and EventStoreDB](https://www.youtube.com/watch?v=LaUSPtwFLSg)
 - [Real-time subscription - Alexey Zimarev](https://medium.com/eventuous/real-time-subscription-3d5725d69887)
 - [Pragmatic Event Sourcing in .NET With Marten - JetBrainsTV](https://www.youtube.com/watch?v=Lc2zV8KA16A)
+- [.NET DC August: Event Sourcing and CQRS with Marten](https://www.youtube.com/watch?v=XaztVpahD1k)
+- [DDD as Low-Code](https://www.youtube.com/watch?v=yohu6qx8-dU)
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
