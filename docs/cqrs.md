@@ -96,6 +96,10 @@
 - [Understanding CQRS Basics [ASP .NET C#]](https://www.youtube.com/watch?v=8uZd51-OAEw)
 - [Eventual Consistency is a UX Nightmare](https://www.youtube.com/watch?v=wEUTMuRSZT0)
 - [4Developers 2021: CQRS is simpler than you think with C#9 and .NET 5! - Oskar Dudycz](https://www.youtube.com/watch?v=Emno7yFkpPw)
+- [CQRS and Event Sourcing with Alexey Zimarev](https://www.youtube.com/watch?v=Hq6zO-A0hMI)
+- [CQRS Doesn't Have To Be Complicated | Clean Architecture, .NET 6](https://www.youtube.com/watch?v=vdi-p9StmG0)
+- [CRUD API + Complexity = Death by a 1000 Papercuts](https://www.youtube.com/watch?v=kalD8TcRBCc)
+- [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU)
 ## 📦 Libraries
 - [eventflow/EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
 - [gautema/CQRSlite](https://github.com/gautema/CQRSlite) - A lightweight framework to help creating CQRS and Eventsourcing applications in C#
@@ -138,3 +142,4 @@
 - [DijanaPenic/DDD-VShop](https://github.com/DijanaPenic/DDD-VShop) - VShop is a sample .NET 6 application built as Modular Monolith with Domain-Driven Design (DDD) approach. Each module is an independent vertical slice with its custom architecture.
 - [m-jovanovic/event-reminder](https://github.com/m-jovanovic/event-reminder) - .NET Core Web API for seamless event organization with configurable notification systems.
 - [schananas/reactive-stock-market](https://github.com/schananas/reactive-stock-market) - This project takes you through the design of simple stock market application based on custom reactive CQRS framework
+- [oskardudycz/EventSourcing.NetCore/CRUDToCQRS](https://github.com/oskardudycz/EventSourcing.NetCore/tree/crud_to_cqrs/Sample/CRUDToCQRS)

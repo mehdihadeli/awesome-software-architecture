@@ -30,6 +30,9 @@
 - [Immutable Value Objects are simpler and more useful than you think!](https://event-driven.io/en/immutable_value_objects/)
 - [Functional C#: Primitive obsession](https://enterprisecraftsmanship.com/posts/functional-c-primitive-obsession/)
 - [Functional C#: Immutability](https://enterprisecraftsmanship.com/posts/functional-c-immutability/)
+- [DateTime as a Value Object](https://ardalis.com/datetime-as-a-value-object/)
+- [Value Object - DevIQ](https://deviq.com/domain-driven-design/value-object)
+- [Support for Value Objects in C#](https://ardalis.com/support-for-value-objects-in-csharp/)
 ## 📺 Videos
 - [Treating Primitive Obsession with ValueObjects | DDD in .NET](https://www.youtube.com/watch?v=h4uldNA1JUE)
 - [The Power of Value - Power Use of Value Objects in Domain Driven Design - Dan Bergh Johnsson](https://www.youtube.com/watch?v=vh-LT1mkIz4)

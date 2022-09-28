@@ -249,6 +249,8 @@
 - [fraktalio/order-demo](https://github.com/fraktalio/order-demo) - Axon demo - `Order Management` Information System - A part of the systems landscape
 - [AleksK1NG/Kotlin-ES-CQRS-Microservice](https://github.com/AleksK1NG/Kotlin-ES-CQRS-Microservice) - Kotlin-ES-CQRS-Microservice
 - [thangchung/coffeeshop-on-nomad](https://github.com/thangchung/coffeeshop-on-nomad) - The .NET coffeeshop application runs on Nomad and Consul Connect
+- [patrikduch/netcore-microservices](https://github.com/patrikduch/netcore-microservices) - Advanced NET Microservice Architecture with Azure Kubernetes Services integration.
+- [Ninchuga/AspNetMicroservicesShop](https://github.com/Ninchuga/AspNetMicroservicesShop) - AspNetMicroservicesShop
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
 - [Building Microservices: Designing Fine-Grained Systems, 2nd Edition](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1492034029)

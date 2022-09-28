@@ -25,5 +25,6 @@
 - [Implementing optimistic concurrency with EF Core](https://dzimchuk.net/implementing-optimistic-concurrency-with-ef-core/)
 - [Optimistic concurrency control in ASP.NET WebAPI](https://tudorturcu.wordpress.com/2012/04/30/optimistic-concurrency-control-asp-net-webapi-en/)
 - [Optimistic concurrency support in HTTP and WebAPI – part 2](https://tudorturcu.wordpress.com/2012/05/17/optimistic-concurrency-support-in-http-and-webapi-part-2/)
+- [Comparing Optimistic and Pessimistic Locking With GO and PostgreSQL](https://hackernoon.com/comparing-optimistic-and-pessimistic-locking-with-go-and-postgresql)
 # Videos
 - [Optimistic Concurrency in an HTTP API with ETags & Hypermedia](https://www.youtube.com/watch?v=2Nk3kCCyu3A)

@@ -8,6 +8,7 @@
 - [Capturing and Streaming Database Changes with Debezium and Apache Kafka (Part 2) – Example](https://blogs.zeiss.com/digital-innovation/en/database-changes-part-2/)
 - [A Gentle Introduction to Event-driven Change Data Capture](https://medium.com/event-driven-utopia/a-gentle-introduction-to-event-driven-change-data-capture-683297625f9b)
 - [Change Data Capture (CDC)](https://luminousmen.com/post/change-data-capture/)
+- [PostgreSQL Change Data Capture and Golang Sample Code](https://hackernoon.com/postgresql-change-data-capture-and-golang-sample-code)
 ## Videos
 - [What is Event-driven Change Data Capture Process?](https://www.youtube.com/watch?v=-irkDCmHhKk)
 

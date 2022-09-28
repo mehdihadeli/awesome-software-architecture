@@ -180,6 +180,7 @@
 - [devmentors/micro-framework](https://github.com/devmentors/micro-framework) - Micro framework is a set of helpful components for building the microservices applications.
 - [yang-xiaodong/Savorboard.CAP.InMemoryMessageQueue](https://github.com/yang-xiaodong/Savorboard.CAP.InMemoryMessageQueue) - In-Memory message queue for CAP
 - [osstotalsoft/nbb](https://github.com/osstotalsoft/nbb)
+- [liuhll/silky](https://github.com/liuhll/silky) - The Silky framework is designed to help developers quickly build a microservice development framework through simple code and configuration under the .net platform.
 ## 📚 Books
 - [Enterprise Integration Patterns](https://amazon.com/o/asin/0321200683/ref=nosim/enterpriseint-20)
 - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/)

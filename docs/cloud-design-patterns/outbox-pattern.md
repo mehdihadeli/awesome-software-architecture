@@ -26,6 +26,9 @@
 - [Outbox meets change data capture (feat. .NET, PostgreSQL, Kafka and Debezium)](https://www.youtube.com/watch?v=WcmLvoxs9ps)
 - [Outbox meets change data capture - hooking into the Write-Ahead Log (feat. .NET, PostgreSQL & Kafka)](https://www.youtube.com/watch?v=4rnSzEd9jPI)
 
+## Libraries
+- [oskardudycz/PostgresOutboxPatternWithCDC.NET](https://github.com/oskardudycz/PostgresOutboxPatternWithCDC.NET) - PoC of doing Outbox Pattern with CDC and .NET
+
 ## Samples
 - [joaofbantunes/PostgresChangeDataCaptureOutboxSample](https://github.com/joaofbantunes/PostgresChangeDataCaptureOutboxSample) - Tiny event driven sample application, using change data capture, via Npgsql, to help implement the outbox pattern
 - [seralaci/dotnet-microservices-data-exchange-with-outbox-pattern-debezium](https://github.com/seralaci/dotnet-microservices-data-exchange-with-outbox-pattern-debezium) - True Atomic Microservices Implementation with Debezium and Outbox Pattern to Ensure Data Consistency.

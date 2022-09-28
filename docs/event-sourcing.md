@@ -184,6 +184,7 @@
 - [Pragmatic Event Sourcing in .NET With Marten - JetBrainsTV](https://www.youtube.com/watch?v=Lc2zV8KA16A)
 - [.NET DC August: Event Sourcing and CQRS with Marten](https://www.youtube.com/watch?v=XaztVpahD1k)
 - [DDD as Low-Code](https://www.youtube.com/watch?v=yohu6qx8-dU)
+- [Introduction to Event Sourcing by Alexey Zimarev](https://www.youtube.com/watch?v=VeZZ2UZMDYo)
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
@@ -244,3 +245,4 @@
 - [softwaremill/reactive-event-sourcing-java](https://github.com/softwaremill/reactive-event-sourcing-java)
 - [RailsEventStore/ecommerce](https://github.com/RailsEventStore/ecommerce) - Application with CQRS and Event Sourcing built on Rails and Rails Event Store
 - [AleksK1NG/Kotlin-ES-CQRS-Microservice](https://github.com/AleksK1NG/Kotlin-ES-CQRS-Microservice) - Kotlin-ES-CQRS-Microservice
+- [oskardudycz/EventStoreInOneHour](https://github.com/oskardudycz/EventStoreInOneHour) - Repository for Live Stream "Event Store in One Hour"

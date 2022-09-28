@@ -33,10 +33,11 @@
 - [Hexagonal architecture: don't get lost on your right-side](https://tpierrain.blogspot.com/2020/03/hexagonal-architecture-dont-get-lost-on.html)
 - [Hexagonal or not Hexagonal?](http://tpierrain.blogspot.com/2020/11/hexagonal-or-not-hexagonal.html)
 - [Software Architecture](https://dev.to/vrnsky/software-architecture-1k7e)
+- [How to apply Hexagonal Architecture with .NET](https://gsferreira.com/archive/2022/how-to-apply-hexagonal-architecture-with-dotnet/)
 ## 📺 Videos
-
 - [Chris Fidao - Hexagonal Architecture](https://www.youtube.com/watch?v=6SBjKOwVq0o)
 - [Hexagonal Architecture in 10 min](https://www.youtube.com/watch?v=NmD82RAMZ68)
+- [How to apply Hexagonal Architecture with .NET](https://www.youtube.com/watch?v=MjnZKYZRjjs)
 
 ## 🚀 Samples
 

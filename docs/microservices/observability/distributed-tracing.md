@@ -21,6 +21,10 @@
 - [Messaging Attributes Conventions](https://github.com/open-telemetry/opentelemetry-specification/blob/main/specification/trace/semantic_conventions/messaging.md#messaging-attributes))
 - [Semantic conventions for HTTP spans](https://github.com/open-telemetry/opentelemetry-specification/blob/main/specification/trace/semantic_conventions/http.md)
 - [Semantic conventions for RPC spans](https://github.com/open-telemetry/opentelemetry-specification/blob/main/specification/trace/semantic_conventions/rpc.md)
+- [The Big Pieces: OpenTelemetry specification](https://lightstep.com/blog/opentelemetry-specification)
+- [The Big Pieces: OpenTelemetry context propagation](https://lightstep.com/blog/opentelemetry-context-propagation)
+- [The Big Pieces: OpenTelemetry client design and architecture](https://lightstep.com/blog/opentelemetry-client-design-and-architecture)
+- [The Big Pieces: OpenTelemetry Collector design and architecture](https://lightstep.com/blog/opentelemetry-collector-design-and-architecture)
 - [Using W3C Trace Context standard in distributed tracing](https://dev.to/luizhlelis/using-w3c-trace-context-standard-in-distributed-tracing-3743)
 - [Building End-to-End Diagnostics and Tracing: An Intro](https://jimmybogard.com/building-end-to-end-diagnostics-and-tracing-a-primer/)
 - [Distributed Tracing in ASP.NET Core with Jaeger and Tye Part 1 - Distributed Tracing](https://thecloudblog.net/post/distributed-tracing-in-asp.net-core-with-jaeger-and-tye-part-1-distributed-tracing/)
@@ -66,6 +70,7 @@
 - [OpenTelemetry in Action: Identifying Database Dependencies](https://thecloudblog.net/post/opentelemetry-in-action-identifying-database-dependencies/)
 - [Just-in-Time Nomad: Running the OpenTelemetry Collector on Hashicorp Nomad with HashiQube](https://storiesfromtheherd.com/just-in-time-nomad-running-the-opentelemetry-collector-on-hashicorp-nomad-with-hashiqube-4eaf009b8382)
 - [How to setup OpenTelemetry instrumentation in ASP.NET core](https://dev.to/jmourtada/how-to-setup-opentelemetry-instrumentation-in-aspnet-core-23p5)
+- [What is OpenTelemetry?](https://lightstep.com/opentelemetry/about)
 ## 📺 Videos
 - [Jimmy Bogard - Distributed Tracing Made Easy with .NET Core and OpenTelemetry](https://www.youtube.com/watch?v=s9UNr1oEMl4)
 - [On .NET Live - Cloud Native Patterns for .NET Developers](https://www.youtube.com/watch?v=PDdHa0ushJ0)
