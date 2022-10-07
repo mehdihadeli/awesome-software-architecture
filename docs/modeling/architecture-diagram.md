@@ -1,5 +1,8 @@
 # Architecture Diagram
 
+## Resources
+- [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams
+
 ## 📕 Articles
 - [Diagrams as code 2.0](https://dev.to/simonbrown/diagrams-as-code-2-0-82k)
 - [Diagramming distributed architectures with the C4 model](https://dev.to/simonbrown/diagramming-distributed-architectures-with-the-c4-model-51cm)
@@ -26,3 +29,5 @@
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [C4 DSL Extension](https://marketplace.visualstudio.com/items?itemName=systemticks.c4-dsl-extension)
 - [pierre3/PlantUmlClassDiagramGenerator](https://github.com/pierre3/PlantUmlClassDiagramGenerator) - This is a generator to create a class-diagram of PlantUML from the C# source code.
+- [drawsql.app](https://drawsql.app/)
+- [excalidraw.com](https://excalidraw.com/)

@@ -44,3 +44,5 @@
 - [bartstc/booking-app](https://github.com/bartstc/booking-app) - A comprehensive Domain Driven Design example with microservices and various tactical patterns.
 - [pdevito3/WeSendReportsCompany](https://github.com/pdevito3/WeSendReportsCompany) - an example repo for sending direct messages using masstransit and rabbitmq
 - [danmalcolm/masstransit-kafka-demo](https://github.com/danmalcolm/masstransit-kafka-demo) - Demonstrates use of MassTransit Kafka rider to produce and consume messages, including support for multiple message types on a single topic
+- [MassTransit/Sample-GettingStarted](https://github.com/MassTransit/Sample-GettingStarted)
+- [MassTransit/Sample-Outbox](https://github.com/MassTransit/Sample-Outbox)

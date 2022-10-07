@@ -4,6 +4,17 @@
 - [Awesome OpenTelemetry](https://github.com/magsther/awesome-opentelemetry) - A curated list of OpenTelemetry resources
 
 ## 📕 Articles
+- [What is OpenTelemetry? - opentelemetry.io](https://opentelemetry.io/docs/concepts/what-is-opentelemetry/)
+- [OpenTelemetry Specification Overview - opentelemetry.io](https://opentelemetry.io/docs/reference/specification/overview/)
+- [OpenTelemetry Specification - opentelemetry.io](https://opentelemetry.io/docs/reference/specification/)
+- [Trace Semantic Conventions - opentelemetry.io](https://opentelemetry.io/docs/reference/specification/trace/semantic_conventions/)
+- [Baggage in OpenTelemetry - opentelemetry.io](https://opentelemetry.io/docs/concepts/signals/baggage/)
+- [Tracing in OpenTelemetry - opentelemetry.io](https://opentelemetry.io/docs/concepts/signals/traces/)
+- [Metrics in OpenTelemetry - opentelemetry.io](https://opentelemetry.io/docs/concepts/signals/metrics/)
+- [Getting Started - opentelemetry.io](https://opentelemetry.io/docs/instrumentation/net/getting-started/)
+- [Using instrumentation libraries - opentelemetry.io](https://opentelemetry.io/docs/instrumentation/net/libraries/)
+- [Manual Instrumentation - opentelemetry.io](https://opentelemetry.io/docs/instrumentation/net/manual/)
+- [Exporters - opentelemetry.io](https://opentelemetry.io/docs/instrumentation/net/exporters/)
 - [Collect a distributed trace](https://docs.microsoft.com/en-us/dotnet/core/diagnostics/distributed-tracing-collection-walkthroughs)
 - [NET distributed tracing concepts](https://docs.microsoft.com/en-us/dotnet/core/diagnostics/distributed-tracing-concepts)
 - [Adding distributed tracing instrumentation](https://docs.microsoft.com/en-us/dotnet/core/diagnostics/distributed-tracing-instrumentation-walkthroughs)
@@ -71,6 +82,10 @@
 - [Just-in-Time Nomad: Running the OpenTelemetry Collector on Hashicorp Nomad with HashiQube](https://storiesfromtheherd.com/just-in-time-nomad-running-the-opentelemetry-collector-on-hashicorp-nomad-with-hashiqube-4eaf009b8382)
 - [How to setup OpenTelemetry instrumentation in ASP.NET core](https://dev.to/jmourtada/how-to-setup-opentelemetry-instrumentation-in-aspnet-core-23p5)
 - [What is OpenTelemetry?](https://lightstep.com/opentelemetry/about)
+- [Getting started with OpenTelemetry Metrics in .NET. Part 1: Key concepts](https://www.mytechramblings.com/posts/getting-started-with-opentelemetry-metrics-and-dotnet-part-1/)
+- [Getting started with OpenTelemetry Metrics in .NET. Part 2: Instrumenting the BookStore API](https://www.mytechramblings.com/posts/getting-started-with-opentelemetry-metrics-and-dotnet-part-2/)
+- [OpenTelemetry Distributed Tracing](https://uptrace.dev/opentelemetry/distributed-tracing.html)
+- [OpenTelemetry Tracing API for .NET](https://uptrace.dev/opentelemetry/dotnet-tracing.html)
 ## 📺 Videos
 - [Jimmy Bogard - Distributed Tracing Made Easy with .NET Core and OpenTelemetry](https://www.youtube.com/watch?v=s9UNr1oEMl4)
 - [On .NET Live - Cloud Native Patterns for .NET Developers](https://www.youtube.com/watch?v=PDdHa0ushJ0)

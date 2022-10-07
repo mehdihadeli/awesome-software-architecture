@@ -18,11 +18,15 @@
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 ## 📕 Articles
-
+- [System Design: System Design Interviews](https://dev.to/karanpratapsingh/system-design-system-design-interviews-47ak)
 - [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
 - [YouTube Architecture](http://highscalability.com/youtube-architecture)
 - [System Design: WhatsApp](https://interviewdaemon.medium.com/system-design-whatsapp-788705bd4fb0)
-
+- [System Design: Netflix](https://dev.to/karanpratapsingh/system-design-netflix-3d9g)
+- [System Design: Twitter](https://dev.to/karanpratapsingh/system-design-twitter-865)
+- [System Design: Uber](https://dev.to/karanpratapsingh/system-design-uber-56b1)
+- [System Design: WhatsApp](https://dev.to/karanpratapsingh/system-design-whatsapp-fld)
+- [System Design: URL Shortener](https://dev.to/karanpratapsingh/system-design-url-shortener-10i5)
 ## 📺 Videos
 
 - [Distributed Computing](https://www.youtube.com/watch?v=ajjOEltiZm4) 
