@@ -14,6 +14,7 @@
 - [CAP: Event Bus & Outbox Pattern](https://codeopinion.com/cap-event-bus-outbox-pattern/)
 - [Reliable Microservices Data Exchange With the Outbox Pattern](https://debezium.io/blog/2019/02/19/reliable-microservices-data-exchange-with-the-outbox-pattern/)
 - [Implementing the Outbox Pattern Using Hangfire and MediatR CQRS Handlers](https://www.fusonic.net/en/blog/cqrs-outbox-with-hangfire)
+- [Push-based Outbox Pattern with Postgres Logical Replication](https://event-driven.io/en/push_based_outbox_pattern_with_postgres_logical_replication/)
 ## 📺 Videos
 - [Reliably Save State & Publish Events (Outbox Pattern)](https://www.youtube.com/watch?v=u8fOnxAxKHk)
 - [CAP: Event Bus & Outbox Pattern](https://www.youtube.com/watch?v=dnhPzILvgeo)
@@ -32,3 +33,4 @@
 ## Samples
 - [joaofbantunes/PostgresChangeDataCaptureOutboxSample](https://github.com/joaofbantunes/PostgresChangeDataCaptureOutboxSample) - Tiny event driven sample application, using change data capture, via Npgsql, to help implement the outbox pattern
 - [seralaci/dotnet-microservices-data-exchange-with-outbox-pattern-debezium](https://github.com/seralaci/dotnet-microservices-data-exchange-with-outbox-pattern-debezium) - True Atomic Microservices Implementation with Debezium and Outbox Pattern to Ensure Data Consistency.
+- [oskardudycz/kafka-connect](https://github.com/oskardudycz/kafka-connect)

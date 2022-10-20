@@ -4,6 +4,9 @@
 - [MongoDB Docs](https://docs.mongodb.com/)
 
 ## 📕 Articles
+- [Introduction to MongoDB](https://www.mongodb.com/docs/manual/introduction/)
+- [Getting Started MongoDB](https://www.mongodb.com/docs/manual/tutorial/getting-started/)
+- [BSON Types](https://www.mongodb.com/docs/manual/reference/bson-types/)
 - [How to integrate MongoDB with C#](https://www.code4it.dev/blog/mongodb-introduction-with-csharp)
 - [MongoDb Architecture](http://horicky.blogspot.com/2012/04/mongodb-architecture.html)
 - [ASP.NET Core - MongoDB Repository Pattern & Unit Of Work](https://www.brunobrito.net.br/aspnet-core-mongodb-unit-of-work/)

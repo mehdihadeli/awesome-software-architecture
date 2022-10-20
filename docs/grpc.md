@@ -6,8 +6,13 @@
 - [gRPC for WCF developers e-book](https://dotnet.microsoft.com/download/e-book/grpc-for-wcf-devs/pdf)
 
 ## 📝 Articles
-
+- [gRPC Quick start](https://grpc.io/docs/languages/csharp/quickstart/)
+- [gRPC Basics tutorial](https://grpc.io/docs/languages/csharp/basics/)
+- [Language Guide (proto3)](https://developers.google.com/protocol-buffers/docs/proto3)
+- [Protocol Buffer Basics: C#](https://developers.google.com/protocol-buffers/docs/csharptutorial)
+- [gRPC Style Guide](https://developers.google.com/protocol-buffers/docs/style)
 - [Introduction to gRPC on .NET](https://docs.microsoft.com/en-us/aspnet/core/grpc/)
+- [Protobuf scalar data types](https://learn.microsoft.com/en-us/dotnet/architecture/grpc-for-wcf-developers/protobuf-data-types)
 - [gRPC services with C#](https://docs.microsoft.com/en-us/aspnet/core/grpc/basics)
 - [gRPC services with ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/grpc/aspnetcore)
 - [Create gRPC services and methods](https://docs.microsoft.com/en-us/aspnet/core/grpc/services)

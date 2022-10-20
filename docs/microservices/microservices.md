@@ -252,6 +252,7 @@
 - [patrikduch/netcore-microservices](https://github.com/patrikduch/netcore-microservices) - Advanced NET Microservice Architecture with Azure Kubernetes Services integration.
 - [Ninchuga/AspNetMicroservicesShop](https://github.com/Ninchuga/AspNetMicroservicesShop) - AspNetMicroservicesShop
 - [pmorelli92/Orleans.Tournament](https://github.com/pmorelli92/Orleans.Tournament) - Orleans sample with clustering, implicit stream handling, authentication, authorization, websockets
+- [AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing](https://github.com/AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing) - A full-stack .NET 7 EDA solution
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
 - [Building Microservices: Designing Fine-Grained Systems, 2nd Edition](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1492034029)

@@ -135,6 +135,11 @@
 - [EventStoreDB Vs Kafka](https://domaincentric.net/blog/eventstoredb-vs-kafka)
 - [Event Sourcing: Why Kafka is not suitable as an Event Store](https://medium.com/@TonyBologni/event-sourcing-why-kafka-is-not-suitable-as-an-event-store-796e5d9ab63c)
 - [Event Versioning with Marten](https://event-driven.io/en/event_versioning_with_marten/)
+- [Slim your aggregates with Event Sourcing!](https://event-driven.io/en/slim_your_entities_with_event_sourcing/)
+- [Functional Event Sourcing Decider](https://thinkbeforecoding.com/post/2021/12/17/functional-event-sourcing-decider)
+- [A Vision for Low Ceremony CQRS with Event Sourcing](https://jeremydmiller.com/2022/06/15/a-vision-for-low-ceremony-cqrs-with-event-sourcing/)
+- [How to effectively compose your business logic](https://event-driven.io/en/how_to_effectively_compose_your_business_logic/)
+- [CQRS + Event Sourcing – Step by Step](https://danielwhittaker.me/2020/02/20/cqrs-step-step-guide-flow-typical-application/)
 ## 📺 Videos
 - [Event Sourcing Playlist - CodeOpinion](https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ)
 - [Event Sourcing Example & Explained in plain English](https://www.youtube.com/watch?v=AUj4M-st3ic)
@@ -246,3 +251,4 @@
 - [RailsEventStore/ecommerce](https://github.com/RailsEventStore/ecommerce) - Application with CQRS and Event Sourcing built on Rails and Rails Event Store
 - [AleksK1NG/Kotlin-ES-CQRS-Microservice](https://github.com/AleksK1NG/Kotlin-ES-CQRS-Microservice) - Kotlin-ES-CQRS-Microservice
 - [oskardudycz/EventStoreInOneHour](https://github.com/oskardudycz/EventStoreInOneHour) - Repository for Live Stream "Event Store in One Hour"
+- [AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing](https://github.com/AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing) - A full-stack .NET 7 EDA solution

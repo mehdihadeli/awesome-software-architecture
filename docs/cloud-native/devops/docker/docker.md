@@ -55,6 +55,7 @@
 - [Announcing built-in container support for the .NET SDK](https://devblogs.microsoft.com/dotnet/announcing-builtin-container-support-for-the-dotnet-sdk/)
 - [Linting a .NET 6 app Dockerfile using Hadolint, dockerfile_lint and Azure Pipelines](https://www.mytechramblings.com/posts/linting-a-dotnet-app-dockerfile-using-hadolint-dockerfile-lint-and-azure-pipelines/)
 - [Docker build caching for .NET applications done right with dotnet-subset](https://blog.nimbleways.com/docker-build-caching-for-dotnet-applications-done-right-with-dotnet-subset/)
+- [Developing ASP.NET Core apps in Docker - Live Recompilation](https://tymisko.hashnode.dev/developing-aspnet-core-apps-in-docker-live-recompilation)
 ## 📹 Videos
 - [Deploy a .NET Core API with Docker (Step-by-Step)](https://www.youtube.com/watch?v=f0lMGPB10bM)
 - [Docker Tutorial for Beginners [FULL COURSE in 3 Hours](https://www.youtube.com/watch?v=3c-iBn73dDE)

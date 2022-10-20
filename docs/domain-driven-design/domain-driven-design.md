@@ -107,6 +107,7 @@
 - [Decomposing CRUD to a Task Based UI](https://www.youtube.com/watch?v=DjZepWrAKzM)
 - [Vladimir Khorikov: DDD in a nutshell](https://www.youtube.com/watch?v=kPV1SkdSnhE)
 - [DDD as Low-Code](https://www.youtube.com/watch?v=yohu6qx8-dU)
+- [Is Domain-Driven Design Overrated? • Stefan Tilkov • GOTO 2021](https://www.youtube.com/watch?v=ZZp9RQEGeqQ)
 ## 🚀 Samples
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
 - [kimcu-on-thenet/ddd-net-ef-core](https://github.com/kimcu-on-thenet/ddd-net-ef-core) - Self study: DDD, .net core, entity framework core
@@ -184,6 +185,8 @@
 - [bymyslf/payment-gateway](https://github.com/bymyslf/payment-gateway) - A sample project using Hexagonal (Ports & Adapters) architecture, Event Sourcing, CQRS and DDD tactical patterns
 - [idugalic/digital-restaurant](https://github.com/idugalic/digital-restaurant) - DDD. Event sourcing. CQRS. REST. Modular. Microservices. Kotlin. Spring. Axon platform. Apache Kafka. RabbitMQ
 - [schananas/reactive-stock-market](https://github.com/schananas/reactive-stock-market) - This project takes you through the design of simple stock market application based on custom reactive CQRS framework
+- [AntonioFalcaoJr/Dotnet6.GraphQL4.WebApplication](https://github.com/AntonioFalcaoJr/Dotnet6.GraphQL4.WebApplication) - This project exemplifies the implementation and dockerization of a simple Razor Web MVC Core consuming a full GraphQL 4 Web API, build in a .NET 6 multi-layer project, considering development best practices
+- [AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing](https://github.com/AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing) - A full-stack .NET 7 EDA solution
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [xhafan/coreddd](https://github.com/xhafan/coreddd) - A set of open-source .NET libraries helping with domain-driven design (DDD) and CQRS

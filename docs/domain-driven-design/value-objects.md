@@ -33,6 +33,7 @@
 - [DateTime as a Value Object](https://ardalis.com/datetime-as-a-value-object/)
 - [Value Object - DevIQ](https://deviq.com/domain-driven-design/value-object)
 - [Support for Value Objects in C#](https://ardalis.com/support-for-value-objects-in-csharp/)
+- [Modern C# Techniques, Part 2: Value Records](https://blog.stephencleary.com/2022/10/modern-csharp-techniques-2-value-records.html)
 ## 📺 Videos
 - [Treating Primitive Obsession with ValueObjects | DDD in .NET](https://www.youtube.com/watch?v=h4uldNA1JUE)
 - [The Power of Value - Power Use of Value Objects in Domain Driven Design - Dan Bergh Johnsson](https://www.youtube.com/watch?v=vh-LT1mkIz4)
@@ -48,3 +49,4 @@
 - [WrapperValueObject](https://github.com/martinothamar/WrapperValueObject) - A .NET source generator for creating simple value objects wrapping primitive types.
 - [Qowaiv](https://github.com/Qowaiv/Qowaiv) - Qowaiv is a Single Value Object library
 - [jhewlett/ValueObject](https://github.com/jhewlett/ValueObject) - A micro library for easily creating C# classes with value semantics. No need to override Equals, GetHashCode, et all.
+- [AntonioFalcaoJr/Dotnet6.EFCore6.Record.ValueObjects](https://github.com/AntonioFalcaoJr/Dotnet6.EFCore6.Record.ValueObjects) - This project aims to demonstrate the configuration and use of Records as Value Objects with EF Core 6

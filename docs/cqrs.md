@@ -77,6 +77,7 @@
 - [Live projections for read models with Event Sourcing and CQRS](https://www.eventstore.com/blog/live-projections-for-read-models-with-event-sourcing-and-cqrs)
 - [6 Code Smells with your CQRS Events – and How to Avoid Them](https://danielwhittaker.me/2014/10/18/6-code-smells-cqrs-events-avoid/)
 - [CQRS is not a general purpose style of architecture](http://tpierrain.blogspot.com/2022/07/cqrs-is-not-general-purpose-style-of.html)
+- [CQRS + Event Sourcing – Step by Step](https://danielwhittaker.me/2020/02/20/cqrs-step-step-guide-flow-typical-application/)
 ## 📺 Videos
 - [CQRS is Simpler than you think with C#9 & NET5](https://www.youtube.com/watch?v=eOPlg-eB4As)
 - [Is CQRS Complicated? No, it's simple!](https://www.youtube.com/watch?v=LbVpPQaAgVY)
@@ -143,3 +144,4 @@
 - [m-jovanovic/event-reminder](https://github.com/m-jovanovic/event-reminder) - .NET Core Web API for seamless event organization with configurable notification systems.
 - [schananas/reactive-stock-market](https://github.com/schananas/reactive-stock-market) - This project takes you through the design of simple stock market application based on custom reactive CQRS framework
 - [oskardudycz/EventSourcing.NetCore/CRUDToCQRS](https://github.com/oskardudycz/EventSourcing.NetCore/tree/crud_to_cqrs/Sample/CRUDToCQRS)
+- [AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing](https://github.com/AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing) - A full-stack .NET 7 EDA solution

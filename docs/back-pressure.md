@@ -1,6 +1,7 @@
 # Back Pressure
 
 ## 📕 Articles
+- [Avoiding a QUEUE Backlog Disaster with Backpressure & Flow Control](https://codeopinion.com/avoiding-a-queue-backlog-disaster-with-backpressure-flow-control/)
 - [Backpressure explained — the resisted flow of data through software](https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7)
 - [How to Relieve Backpressure In Message-Based Systems](https://clearmeasure.com/backpressure-in-message-based-systems
 - [Mechanical Sympathy](https://mechanical-sympathy.blogspot.com/2012/05/apply-back-pressure-when-overloaded.html)
