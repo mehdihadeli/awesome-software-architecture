@@ -9,4 +9,3 @@
 - [How Fluentd simplifies collecting and consuming logs | Fluentd simply explained](https://www.youtube.com/watch?v=5ofsNyHZwWE)
 - [Introduction to Fluentd: Collect logs and send almost anywhere](https://www.youtube.com/watch?v=Gp0-7oVOtPw)
 - [DevOps Tutorials |Deploying the ELK and EFK Stack on Kubernetes with Helm | Cloudlearnhub](https://www.youtube.com/watch?v=UsAKqQ1OvJM)
-- [Filebeat + Elk Stack Tutorial With Kubernetes](https://www.youtube.com/watch?v=SU--XMhbWoY)

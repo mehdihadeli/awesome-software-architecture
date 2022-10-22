@@ -34,6 +34,7 @@
 - [Value Object - DevIQ](https://deviq.com/domain-driven-design/value-object)
 - [Support for Value Objects in C#](https://ardalis.com/support-for-value-objects-in-csharp/)
 - [Modern C# Techniques, Part 2: Value Records](https://blog.stephencleary.com/2022/10/modern-csharp-techniques-2-value-records.html)
+- [[Best practice] C# 9 Records as DDD Value Objects with EF Core 6](https://dev.to/antoniofalcao/best-practice-c-9-records-as-ddd-value-objects-with-ef-core-6-502p)
 ## 📺 Videos
 - [Treating Primitive Obsession with ValueObjects | DDD in .NET](https://www.youtube.com/watch?v=h4uldNA1JUE)
 - [The Power of Value - Power Use of Value Objects in Domain Driven Design - Dan Bergh Johnsson](https://www.youtube.com/watch?v=vh-LT1mkIz4)

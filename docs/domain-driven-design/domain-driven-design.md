@@ -187,6 +187,8 @@
 - [schananas/reactive-stock-market](https://github.com/schananas/reactive-stock-market) - This project takes you through the design of simple stock market application based on custom reactive CQRS framework
 - [AntonioFalcaoJr/Dotnet6.GraphQL4.WebApplication](https://github.com/AntonioFalcaoJr/Dotnet6.GraphQL4.WebApplication) - This project exemplifies the implementation and dockerization of a simple Razor Web MVC Core consuming a full GraphQL 4 Web API, build in a .NET 6 multi-layer project, considering development best practices
 - [AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing](https://github.com/AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing) - A full-stack .NET 7 EDA solution
+- [ddd-by-examples/cinema](https://github.com/ddd-by-examples/cinema) - Cinema playground - example repo from reserving seats with different rules
+
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [xhafan/coreddd](https://github.com/xhafan/coreddd) - A set of open-source .NET libraries helping with domain-driven design (DDD) and CQRS

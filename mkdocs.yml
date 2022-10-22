@@ -102,6 +102,7 @@ nav:
     - Metrics: microservices/observability/metrics.md  
     - Tools:
       - EFK: microservices/observability/tools/efk.md
+      - ELK: microservices/observability/tools/elk.md
       - Fluent Bit: microservices/observability/tools/fluent-bit.md
       - Fluentd: microservices/observability/tools/fluentd.md
       - Grafana Loki: microservices/observability/tools/loki.md
