@@ -1,4 +1,4 @@
-# Domain
+# Domain Model
 
 ## 📕 Articles
 

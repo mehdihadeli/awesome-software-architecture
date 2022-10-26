@@ -109,7 +109,12 @@ nav:
   - Resiliency:
     - Resiliency: microservices/resiliency/resiliency.md        
     - High Availibility: microservices/resiliency/high-availibility.md   
-    - Idempotency: microservices/resiliency/idempotency.md      
+    - Idempotency: microservices/resiliency/idempotency.md    
+  - API Gateway: 
+    - API Gateway: microservices/api-gateway/api-gateway.md
+    - Ambassador: microservices/api-gateway/ambassador.md
+    - Kong: microservices/api-gateway/kong.md
+    - Ocelot: microservices/api-gateway/ocelot.md  
   - Scaling: microservices/scaling.md
   - Testing: microservices/testing.md
   - Tools: 
@@ -178,67 +183,62 @@ nav:
   - Backends for Frontends: cloud-design-patterns/bff.md
 - Cloud Best Practices: cloud-best-practices.md
 - Cloud Native:
-  - API Gateway: 
-    - API Gateway: cloud-native/api-gateway/api-gateway.md
-    - Ambassador: cloud-native/api-gateway/ambassador.md
-    - Kong: cloud-native/api-gateway/kong.md
-    - Ocelot: cloud-native/api-gateway/ocelot.md
-  - Platform as a Service:
-    - Rancher: cloud-native/paas/rancher.md
-    - OpenShift: cloud-native/paas/openshift.md
-    - Heroku: cloud-native/paas/heroku.md
-    - Netlify: cloud-native/paas/netlify.md
-  - Infrastructure as a Service:
-    - Infrastructure as a Service: cloud-native/iaas/iaas.md
-    - Terraform: cloud-native/iaas/terraform.md
-    - Pulumi: cloud-native/iaas/pulumi.md
-    - Nomad: cloud-native/iaas/nomad.md
-  - DevOps:
-    - Docker: 
-      - Docker: cloud-native/devops/docker/docker.md
-      - Docker Compose: cloud-native/devops/docker/docker-compose.md
-    - Containerd: cloud-native/devops/containerd.md
-    - Kubernetes: 
-      - Kubernetes: cloud-native/devops/kubernetes/kubernetes.md
-      - Deployment Strategies: cloud-native/devops/kubernetes/deployment-strategies.md
-      - Deployment Tools: 
-          - Argo-CD: cloud-native/devops/kubernetes/deployment-tools/argo-cd.md
-          - Helm: cloud-native/devops/kubernetes/deployment-tools/helm.md
-          - Kustomize: cloud-native/devops/kubernetes/deployment-tools/kustomize.md
-          - Kubernetes Operator: cloud-native/devops/kubernetes/deployment-tools/kubernetes-operator.md
-          - Jenkins: cloud-native/devops/kubernetes/deployment-tools/jenkins.md
-      - Ingress Controller: 
-          - Ingress Controller: cloud-native/devops/kubernetes/ingress-controller.md
-          - Nginx Ingress: cloud-native/devops/kubernetes/nginx-ingress.md
-          - Traefik Ingress: cloud-native/devops/kubernetes/traefik-ingress.md
-      - Other Tools: 
-          - k3s: cloud-native/devops/kubernetes/other-tools/k3s.md
-          - kind: cloud-native/devops/kubernetes/other-tools/kind.md
-          - tilt: cloud-native/devops/kubernetes/other-tools/tilt.md
-    - CI/CD:
-      - Azure DevOps: cloud-native/devops/ci-cd/azure-devops.md
-      - Github Actions: cloud-native/devops/ci-cd/github-actions.md
-      - Jenkins: cloud-native/devops/ci-cd/jenkins.md
-  - Reverse Proxy & Load Balancing:
-    - Reverse Proxy: cloud-native/reverse-proxy-lb/reverse-proxy.md
-    - Load Balancing: cloud-native/reverse-proxy-lb/load-balancing.md
-    - Envoy: cloud-native/reverse-proxy-lb/envoy.md
-    - YARP: cloud-native/reverse-proxy-lb/yarp.md
-    - HAProxy: cloud-native/reverse-proxy-lb/haproxy.md
-    - Fabio: cloud-native/reverse-proxy-lb/fabio.md
-    - MetalLB: cloud-native/reverse-proxy-lb/metallb.md
-    - Nginx: cloud-native/reverse-proxy-lb/nginx.md
-    - Traefik: cloud-native/reverse-proxy-lb/traefik.md
-  - Service Discovery & Registry: 
-    - Service Discovery & Registry: cloud-native/service-discovery/service-discovery.md
-    - Consul: cloud-native/service-discovery/consul.md
-    - Eureka: cloud-native/service-discovery/eureka.md
-  - Service Mesh: 
-    - Service Mesh: cloud-native/service-mesh/service-mesh.md
-    - Istio: cloud-native/service-mesh/istio.md
-    - Consul & Consul Connect: cloud-native/service-discovery/consul.md
-    - Maesh: cloud-native/service-mesh/maesh.md
-    - Linkerd: cloud-native/service-mesh/linkerd.md
+- Platform as a Service:
+  - Rancher: paas/rancher.md
+  - OpenShift: paas/openshift.md
+  - Heroku: paas/heroku.md
+  - Netlify: paas/netlify.md
+- Infrastructure as a Service:
+  - Infrastructure as a Service: iaas/iaas.md
+  - Terraform: iaas/terraform.md
+  - Pulumi: iaas/pulumi.md
+  - Nomad: iaas/nomad.md
+- DevOps:
+  - Docker: 
+    - Docker: devops/docker/docker.md
+    - Docker Compose: devops/docker/docker-compose.md
+  - Containerd: devops/containerd.md
+  - Kubernetes: 
+    - Kubernetes: devops/kubernetes/kubernetes.md
+    - Deployment Strategies: devops/kubernetes/deployment-strategies.md
+    - Deployment Tools: 
+        - Argo-CD: devops/kubernetes/deployment-tools/argo-cd.md
+        - Helm: devops/kubernetes/deployment-tools/helm.md
+        - Kustomize: devops/kubernetes/deployment-tools/kustomize.md
+        - Kubernetes Operator: devops/kubernetes/deployment-tools/kubernetes-operator.md
+        - Jenkins: devops/kubernetes/deployment-tools/jenkins.md
+    - Ingress Controller: 
+        - Ingress Controller: devops/kubernetes/ingress-controller.md
+        - Nginx Ingress: devops/kubernetes/nginx-ingress.md
+        - Traefik Ingress: devops/kubernetes/traefik-ingress.md
+    - Other Tools: 
+        - k3s: devops/kubernetes/other-tools/k3s.md
+        - kind: devops/kubernetes/other-tools/kind.md
+        - tilt: devops/kubernetes/other-tools/tilt.md
+  - CI/CD:
+    - Azure DevOps: devops/ci-cd/azure-devops.md
+    - Github Actions: devops/ci-cd/github-actions.md
+    - Jenkins: devops/ci-cd/jenkins.md
+- Reverse Proxy & Load Balancing:
+    - Reverse Proxy: reverse-proxy-lb/reverse-proxy.md
+    - Load Balancing: reverse-proxy-lb/load-balancing.md
+    - Envoy: reverse-proxy-lb/envoy.md
+    - YARP: reverse-proxy-lb/yarp.md
+    - HAProxy: reverse-proxy-lb/haproxy.md
+    - Fabio: reverse-proxy-lb/fabio.md
+    - MetalLB: reverse-proxy-lb/metallb.md
+    - Nginx: reverse-proxy-lb/nginx.md
+    - Traefik: reverse-proxy-lb/traefik.md
+- Service Discovery & Registry: 
+    - Service Discovery & Registry: service-discovery/service-discovery.md
+    - Consul: service-discovery/consul.md
+    - Eureka: service-discovery/eureka.md
+- Service Mesh: 
+  - Service Mesh: service-mesh/service-mesh.md
+  - Istio: service-mesh/istio.md
+  - Consul & Consul Connect: service-discovery/consul.md
+  - Maesh: service-mesh/maesh.md
+  - Linkerd: service-mesh/linkerd.md
 - Object Oriented Design: object-oriented-design.md
 - Systems Design: 
   - Systems Design: systems-design/systems-design.md
@@ -308,7 +308,6 @@ nav:
     - Azure Web Pub/Sub: azure/messaging/azure-web-pub-sub.md
   - Azure Resource Manager (ARM): azure/azure-resource-manager.md
   - Azure Sequrity: 
-    - Azure Sequrity: azure/azure-security/azure-security.md
     - Azure Active Directory (Azure AD): azure/azure-active-directory.md
     - Azure Key Vault: azure/azure-key-vault.md
   - Azure SQL: azure/azure-sql.md

@@ -1,5 +1,0 @@
-- [Deployment Tools](index.md)
-  - [Argo-CD](argo-cd.md)
-  - [Flux](flux.md)
-  - [Helm](helm.md)
-  - [Jenkins](jenkins.md)

@@ -1,4 +1,0 @@
-- [Reverse Proxy](reverse-proxy.md)
-  - [Envoy](envoy.md)
-  - [YARP](yarp.md)
-  - [HAProxy](haproxy.md)

@@ -1,4 +1,0 @@
-- [Other Tools](index.md)
-  - [k3s](k3s.md)
-  - [kind](kind.md)
-  - [tilt](tilt.md)

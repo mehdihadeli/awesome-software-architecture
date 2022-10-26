@@ -1,4 +1,4 @@
-# Service Disvocery
+# Service Discovery
 
 ## 📕 Articles
 

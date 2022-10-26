@@ -1,4 +1,4 @@
-# Services Boundries
+# Services Boundaries
 
 ## 📘 Resources
 - [ddd-crew/ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process) 

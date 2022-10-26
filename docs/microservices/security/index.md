@@ -1,2 +1,0 @@
-- [Security](security.md)
-  - [Vault](vault.md)

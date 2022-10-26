@@ -1,6 +1,0 @@
-- [Messaging Patterns](messaging.md)
-  - [Kafka](kafka.md)
-  - [RabbitMQ](rabbitmq.md)
-  - [Azure Service Bus](docs/azure/azure-service-bus.md)
-  - [NATS](nats.md)
-  - [ZeroMQ](zeromq.md)

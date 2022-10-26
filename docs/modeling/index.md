@@ -1,4 +1,4 @@
-- [Modeling](modeling.md)
+ [Modeling](modeling.md)
   - [Architecture Diagram](architecture-diagram.md)
   - [Class Diagram](class-diagram.md)
   - [Component Diagram](component-diagram.md)
