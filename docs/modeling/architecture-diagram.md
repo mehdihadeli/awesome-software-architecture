@@ -5,9 +5,11 @@
 
 ## 📕 Articles
 - [Diagrams as code 2.0](https://dev.to/simonbrown/diagrams-as-code-2-0-82k)
+- [Modelling vs diagramming software architecture](https://blog.icepanel.io/2022/09/21/modelling-vs-diagramming-software-architecture)
 - [Diagramming distributed architectures with the C4 model](https://dev.to/simonbrown/diagramming-distributed-architectures-with-the-c4-model-51cm)
 - [Structurizr quick tip: moving relationship descriptions](https://dev.to/simonbrown/structurizr-quick-tip-moving-relationship-descriptions-4iim)
 - [Structurizr quick tip: hiding descriptions](https://dev.to/simonbrown/structurizr-quick-tip-hiding-descriptions-324b)
+- [C4 model for system architecture design](https://blog.icepanel.io/2022/10/03/c4-model-for-system-architecture-design/)
 - [Modelling multiple relationships](https://dev.to/simonbrown/modelling-multiple-relationships-51bf)
 - [Cloud architecture diagrams](https://dev.to/simonbrown/cloud-architecture-diagrams-3pbm)
 - [Getting started with Structurizr Lite](https://dev.to/simonbrown/getting-started-with-structurizr-lite-27d0)
