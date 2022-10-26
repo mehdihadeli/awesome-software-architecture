@@ -258,7 +258,6 @@ nav:
   - Azure Kubernetes Service (AKS): azure/aks.md
   - Azure Load Balancing: azure/azure-load-balancing.md
   - Azure Logic App: azure/azure-logic-app.md
-  - Azure No SQL: azure/azure-nosql.md
   - Azure Resource & Resource Group: azure/azure-resource.md
   - Azure App Configuration: azure/azure-configuration.md
   - Azure Messaging:
@@ -273,6 +272,9 @@ nav:
     - Azure Active Directory (Azure AD): azure/azure-active-directory.md
     - Azure Key Vault: azure/azure-key-vault.md
   - Azure SQL: azure/azure-sql.md
+  - Azure No-SQL: 
+       Azure No-SQL: azure/nosql/azure-nosql.md
+       Azure CosmosDB: azure/nosql/cosmosdb.md
   - Azure Storage:
     - Azure Storage: azure/storage/storage.md
     - Azure Blob: azure/storage/blob.md

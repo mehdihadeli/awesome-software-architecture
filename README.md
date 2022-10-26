@@ -13,13 +13,12 @@
 
 I created this repository to share a set of links that I found valuable and inspiring and I share them with others to improve our knowledge together ✌️. 
 
-**🚀 Go ahead to the official web page here:** 
-**[https://awesome-architecture.com](https://awesome-architecture.com/)**
+> **🚀 Go ahead to the official web page here:** 
+**🌐 [https://awesome-architecture.com](https://awesome-architecture.com/)**
 
 --------------------------
 
 ## Contents
-
 - [Software Architecture](#software-architecture)
 - [Actor Model Architecture](#actor-model-architecture)
 - [Algorithms](#algorithm)
@@ -67,7 +66,7 @@ I created this repository to share a set of links that I found valuable and insp
 - [Refactoring](#refactoring)
 - [NoSQL](#nosql)
 - [Relational Database](#relational-database)
-- [Azure Cloud](azure-cloud)
+- [Microsoft Azure Cloud](#microsoft-azure-cloud)
 - [Modeling](#modeling)
 - [Open Source](#open-source)
 - [Code Review](#code-review)
@@ -77,8 +76,8 @@ I created this repository to share a set of links that I found valuable and insp
 - [Others](#others)
 
 
-> **Note**: Above table of contents is not complete yet and it's in progress, full resources currently is available on the official web page: 
- **[https://awesome-architecture.com](https://awesome-architecture.com/)**
+> **Note**: Bellow contents is not complete yet and it's in progress, and I will complete the **descriptions** over the time, but you are feel free to [contribute](contributing.md) this part. 
+
 
 ### Software Architecture
 
