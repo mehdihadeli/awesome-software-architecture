@@ -5,7 +5,7 @@
 - [Migration Guide: From v1 to v2](https://doc.traefik.io/traefik/migration/v1-to-v2/)
 - [Traefik Proxy Now Fully Integrates with Hashicorp Nomad](https://traefik.io/blog/traefik-proxy-fully-integrates-with-hashicorp-nomad/)
 - [Infrastructure with Traefik and Cloudflare](https://marcmogdanz.de/posts/infrastructure-with-traefik-and-cloudflare/)
-## Videos
+## 📺 Videos
 - [Traefik v2 in Kubernetes - Just me and Opensource](https://www.youtube.com/playlist?list=PL34sAs7_26wNldKrBBY_uagluNKC9cCak)
 
 ## Courses

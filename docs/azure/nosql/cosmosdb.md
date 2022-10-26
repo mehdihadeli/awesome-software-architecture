@@ -14,5 +14,5 @@
 - [Azure Cosmos DB - Partitioning](https://www.youtube.com/watch?v=SS6WrQ-HJ30)
 - [Learning Azure Cosmos DB](https://app.pluralsight.com/library/courses/azure-cosmos-db/table-of-contents)
 
-## Samples
+## 🚀 Samples
 - [ShawnShiSS/clean-architecture-azure-cosmos-db](https://github.com/ShawnShiSS/clean-architecture-azure-cosmos-db) - A starting point to build a web API to work with Azure Cosmos DB using .NET 5 and Azure Cosmos DB .NET SDK V3, based on Clean Architecture and repository design pattern. Partition key is also implemented through the repository pattern.

@@ -33,6 +33,6 @@
 - [jedi91/MovieSearch](https://github.com/jedi91/MovieSearch)
 - [ShawnShiSS/clean-architecture-azure-cosmos-db](https://github.com/ShawnShiSS/clean-architecture-azure-cosmos-db) - A starting point to build a web API to work with Azure Cosmos DB using .NET 5 and Azure Cosmos DB .NET SDK V3, based on Clean Architecture and repository design pattern. Partition key is also implemented through the repository pattern.
 
-## Libraries
+## 📦 Libraries
 - [JamesRandall/FunctionMonkey](https://github.com/JamesRandall/FunctionMonkey) - Write more elegant Azure Functions with less boilerplate, more consistency, and support for REST APIs.
 - [smithgeek/voyager](https://github.com/smithgeek/voyager) - Alternative routing system for aspnet api applications.

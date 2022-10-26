@@ -1,6 +1,6 @@
 # CorrelationID
 
-## Articles
+### 📕Articles
 - [Correlation ID with ASP.NET Web API](https://mderriey.com/2016/11/18/correlation-id-with-asp-net-web-api/)
 - [.NET Core Log Correlation - Request Id](https://www.frakkingsweet.com/net-core-log-correlation-request-id/)
 - [.NET Core Log Correlation - Arbitrary Log Properties](https://www.frakkingsweet.com/net-core-log-correlation-arbitrary-log-properties/)
@@ -18,5 +18,5 @@
 - [Capturing and forwarding correlation IDs in ASP.NET Core](https://vgaltes.com/post/forwarding-correlation-ids-in-aspnetcore/)
 - [Header propagation using ASP.NET Core](https://craftbakery.dev/http-header-propagation-aspnet-core/)
 - [Request Header Propagation In .NET Core Web Applications](https://thecodeblogger.com/2021/05/25/request-header-propagation-in-net-core-web-applications/)
-## Libraries
+## 📦 Libraries
 - [Microsoft.AspNetCore.HeaderPropagation](https://www.nuget.org/packages/Microsoft.AspNetCore.HeaderPropagation/)

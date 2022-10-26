@@ -1,6 +1,6 @@
 # Architecture Diagram
 
-## Resources
+## 📘 Resources
 - [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams
 
 ## 📕 Articles

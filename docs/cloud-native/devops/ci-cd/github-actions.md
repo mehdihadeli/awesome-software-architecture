@@ -39,5 +39,5 @@
 - [mikepenz/release-changelog-builder-action](https://github.com/mikepenz/release-changelog-builder-action) - A GitHub action that builds your release notes / changelog fast, easy and exactly the way you want.
 - [Tyrrrz/GitHubActionsTestLogger](https://github.com/Tyrrrz/GitHubActionsTestLogger)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally
-## Samples
+## 🚀 Samples
 - [linkdotnet/deployment-template](https://github.com/linkdotnet/deployment-template/blob/main/.github/workflows)

@@ -5,3 +5,4 @@
 - [Introduction to fluentbit](https://www.youtube.com/watch?v=3ELc1helke4)
 - [Deep Dive Fluent Bit: Logging & Stream Processing - Eduardo Silva, ARM Treasure Data](https://www.youtube.com/watch?v=xKbVBUMnJH0)
 - [How to configure Fluentbit to collect Logs for our K8S cluster ?](https://www.youtube.com/watch?v=KJlWV5-o8v0)
+- [Monitor Kubernetes Logs using EFK stack - Elasticsearch, FluentBit & Kibana](https://www.youtube.com/watch?v=8nWh1GLd7nY)

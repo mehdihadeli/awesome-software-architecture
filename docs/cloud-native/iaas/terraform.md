@@ -8,7 +8,7 @@
 - [Azure DevOps: Provision API Infrastructure using Terraform - Full Course](https://www.youtube.com/watch?v=Ff0DoAmpv6w)
 - [Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)](https://www.youtube.com/watch?v=7xngnjfIlK4)
 
-## Libraries
+## 📦 Libraries
 - [minamijoyo/tfedit](https://github.com/minamijoyo/tfedit) - A refactoring tool for Terraform
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 ## 🚀 Samples

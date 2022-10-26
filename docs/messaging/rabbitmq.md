@@ -75,6 +75,6 @@
 ## 📦 Libraries
 - [rabbitmq/rabbitmq-stream-dotnet-client](https://github.com/rabbitmq/rabbitmq-stream-dotnet-client) - RabbitMQ client for the stream protocol
 
-## Samples
+## 🚀 Samples
 - [hrabbitmq/rabbitmq-tutorials/dotnet-6](https://github.com/rabbitmq/rabbitmq-tutorials/tree/master/dotnet-6)
 - [hgmauri/sample-rawrabbit-mediatr](https://github.com/hgmauri/sample-rawrabbit-mediatr) - Example of using RabbitMQ with RawRabbit and MediatR in .NET 5

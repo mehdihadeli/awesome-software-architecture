@@ -52,7 +52,7 @@
 - [MongoDB for .NET Developers](https://university.mongodb.com/courses/M220N/about)
 - [Data Modeling](https://university.mongodb.com/courses/M320/about)
 
-## Samples
+## 🚀 Samples
 - [dj-nitehawk/MongoWebApiStarter](https://github.com/dj-nitehawk/MongoWebApiStarter) - A full-featured starter template for `dotnet new` to quickly scaffold an Asp.Net 6 Web-Api project with MongoDB as the data store.
 
 ## Library

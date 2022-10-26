@@ -33,7 +33,7 @@
 - [aQuaYi/LeetCode-in-Go](https://github.com/aQuaYi/LeetCode-in-Go) - Go Solution for LeetCode algorithms problems, 100% coverage.
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 - [luliyucoordinate/Leetcode](https://github.com/luliyucoordinate/Leetcode) - Play Leetcode with different programming language
-## Videos
+## 📺 Videos
 - [LeetCode PlayList - Fisher Coder](https://www.youtube.com/playlist?list=PLK0ZC7fyo01Jr4CwyEGPB_YYVYqoJS7LR)
 
 # Experiences 

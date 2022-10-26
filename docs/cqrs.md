@@ -78,6 +78,7 @@
 - [6 Code Smells with your CQRS Events – and How to Avoid Them](https://danielwhittaker.me/2014/10/18/6-code-smells-cqrs-events-avoid/)
 - [CQRS is not a general purpose style of architecture](http://tpierrain.blogspot.com/2022/07/cqrs-is-not-general-purpose-style-of.html)
 - [CQRS + Event Sourcing – Step by Step](https://danielwhittaker.me/2020/02/20/cqrs-step-step-guide-flow-typical-application/)
+
 ## 📺 Videos
 - [CQRS is Simpler than you think with C#9 & NET5](https://www.youtube.com/watch?v=eOPlg-eB4As)
 - [Is CQRS Complicated? No, it's simple!](https://www.youtube.com/watch?v=LbVpPQaAgVY)
@@ -101,6 +102,7 @@
 - [CQRS Doesn't Have To Be Complicated | Clean Architecture, .NET 6](https://www.youtube.com/watch?v=vdi-p9StmG0)
 - [CRUD API + Complexity = Death by a 1000 Papercuts](https://www.youtube.com/watch?v=kalD8TcRBCc)
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU)
+
 ## 📦 Libraries
 - [eventflow/EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
 - [gautema/CQRSlite](https://github.com/gautema/CQRSlite) - A lightweight framework to help creating CQRS and Eventsourcing applications in C#
@@ -145,3 +147,5 @@
 - [schananas/reactive-stock-market](https://github.com/schananas/reactive-stock-market) - This project takes you through the design of simple stock market application based on custom reactive CQRS framework
 - [oskardudycz/EventSourcing.NetCore/CRUDToCQRS](https://github.com/oskardudycz/EventSourcing.NetCore/tree/crud_to_cqrs/Sample/CRUDToCQRS)
 - [AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing](https://github.com/AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing) - A full-stack .NET 7 EDA solution
+- [pdevito3/PeakLimsApi](https://github.com/pdevito3/PeakLimsApi) - A complex DDD based web API to model the accessioning workflow within a LIMS.
+- [MarkNijhof/Fohjin](https://github.com/MarkNijhof/Fohjin) - This is a personal sand box

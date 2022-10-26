@@ -72,7 +72,7 @@
 ## Courses
 - [Secure .Net Microservices with IdentityServer4 OAuth2,OpenID](https://www.udemy.com/course/secure-net-microservices-with-identityserver4-oauth2openid/?couponCode=2E7C1D32B62DF23A5A7D)
 
-## Libraries
+## 📦 Libraries
 
 - [grpc/grpc-dotnet](https://github.com/grpc/grpc-dotnet) - gRPC for .NET
 - [protobuf-net/protobuf-net.Grpc](https://github.com/protobuf-net/protobuf-net.Grpc) - GRPC bindings for protobuf-net and grpc-dotnet

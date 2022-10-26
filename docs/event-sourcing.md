@@ -140,6 +140,9 @@
 - [A Vision for Low Ceremony CQRS with Event Sourcing](https://jeremydmiller.com/2022/06/15/a-vision-for-low-ceremony-cqrs-with-event-sourcing/)
 - [How to effectively compose your business logic](https://event-driven.io/en/how_to_effectively_compose_your_business_logic/)
 - [CQRS + Event Sourcing – Step by Step](https://danielwhittaker.me/2020/02/20/cqrs-step-step-guide-flow-typical-application/)
+- [Testing business logic in Event Sourcing, and beyond!](https://event-driven.io/en/testing_event_sourcing/)
+- [Testing an Event Sourced Aggregate Root](https://buildplease.com/pages/fpc-13/)
+- [An Executable Specification](https://buildplease.com/pages/fpc-14/)
 ## 📺 Videos
 - [Event Sourcing Playlist - CodeOpinion](https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ)
 - [Event Sourcing Example & Explained in plain English](https://www.youtube.com/watch?v=AUj4M-st3ic)
@@ -252,3 +255,4 @@
 - [AleksK1NG/Kotlin-ES-CQRS-Microservice](https://github.com/AleksK1NG/Kotlin-ES-CQRS-Microservice) - Kotlin-ES-CQRS-Microservice
 - [oskardudycz/EventStoreInOneHour](https://github.com/oskardudycz/EventStoreInOneHour) - Repository for Live Stream "Event Store in One Hour"
 - [AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing](https://github.com/AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing) - A full-stack .NET 7 EDA solution
+- [MarkNijhof/Fohjin](https://github.com/MarkNijhof/Fohjin) - This is a personal sand box
