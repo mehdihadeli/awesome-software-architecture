@@ -2,6 +2,7 @@
 # Tools
 
 - [Diagrams.Net](https://www.diagrams.net)
+- [IcePanel](https://icepanel.io)
 - [Vertabelo](https://vertabelo.com)
 - [Reverse engineering - vertabelo](https://vertabelo.com/documentation/physical-model/reverse-engineering-doc/)
 - [LucidChart](https://www.lucidchart.com/pages/)
