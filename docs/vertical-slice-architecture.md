@@ -65,7 +65,7 @@
 - [Organize Code by Feature | Vertical Slices](https://www.youtube.com/watch?v=PRns0rqPonA)
 - [Vertical Slice Architecture](https://www.youtube.com/watch?v=id2kfgzONMA)
 - [Clean Architecture Example & Breakdown - Do I use it?](https://www.youtube.com/watch?v=Ys_W6MyWOCw)
-
+- [Tired of Layers? Vertical Slice Architecture to the rescue!](https://www.youtube.com/watch?v=lsddiYwWaOQ)
 ## 🚀 Samples
 - [jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages) 
 - [oskardudycz/EventSourcing.NetCore/Sample/Warehouse](https://github.com/oskardudycz/EventSourcing.NetCore/tree/cqrs_with_net5/Sample/Warehouse)

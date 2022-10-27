@@ -7,6 +7,14 @@ repo_url: https://github.com/mehdihadeli/awesome-software-architecture
 edit_uri: edit/main/docs/
 theme: 
   name: material 
+  #https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - toc.integrate 
+    - navigation.top
   palette:
     - media: "(prefers-color-scheme: light)" 
       scheme: default
