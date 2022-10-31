@@ -193,6 +193,7 @@
 - [.NET DC August: Event Sourcing and CQRS with Marten](https://www.youtube.com/watch?v=XaztVpahD1k)
 - [DDD as Low-Code](https://www.youtube.com/watch?v=yohu6qx8-dU)
 - [Introduction to Event Sourcing by Alexey Zimarev](https://www.youtube.com/watch?v=VeZZ2UZMDYo)
+
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET

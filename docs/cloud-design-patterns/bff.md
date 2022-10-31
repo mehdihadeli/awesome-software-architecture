@@ -3,7 +3,7 @@
 ## 📕 Articles
 - [Backends for Frontends pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/backends-for-frontends)
 - [The BFF Pattern (Backend for Frontend): An Introduction](https://blog.bitsrc.io/bff-pattern-backend-for-frontend-an-introduction-e4fa965128bf)
-- [SHARING DATA BETWEEN MODULES IN MODULAR MONOLITH](https://lukaszcoding.com/sharing-data-between-modules-in-modular-monolith/)
+- [SHARING DATA BETWEEN MODULES IN MODULAR MONOLITH](https://dev.to/lukaszreszke/sharing-data-between-modules-in-modular-monolith-50on)
 - [Pattern: Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
 - [React UI with .NET Core BFF deployed at GCP AppEngine](https://medium.com/@op.tuuttila/react-ui-with-net-core-bff-deployed-at-gcp-appengine-715cfab2a4e4)
 - [Episode 020 - The backend for frontend and the HttpClient - ASP.NET Core: From 0 to overkill](https://blog.codingmilitia.com/2019/05/05/aspnet-020-from-zero-to-overkill-backend-for-frontend-httpclient/)

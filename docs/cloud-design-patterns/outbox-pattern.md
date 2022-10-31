@@ -17,6 +17,7 @@
 - [Push-based Outbox Pattern with Postgres Logical Replication](https://event-driven.io/en/push_based_outbox_pattern_with_postgres_logical_replication/)
 - [Microservices 101: Transactional Outbox and Inbox](https://softwaremill.com/microservices-101/)
 - [Message delivery and deduplication strategies](https://softwaremill.com/message-delivery-and-deduplication-strategies/)
+- [How Postgres sequences issues can impact your messaging guarantees](https://event-driven.io/en/ordering_in_postgres_outbox/)
 ## 📺 Videos
 - [Reliably Save State & Publish Events (Outbox Pattern)](https://www.youtube.com/watch?v=u8fOnxAxKHk)
 - [CAP: Event Bus & Outbox Pattern](https://www.youtube.com/watch?v=dnhPzILvgeo)
