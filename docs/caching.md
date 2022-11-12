@@ -30,7 +30,7 @@
 - [Scaling our inventory cache reads to 1000X](https://medium.com/myntra-engineering/scaling-our-inventory-cache-reads-to-1000x-84a8be1f576e)
 - [Bulk loading - Writing data in bulk using the Redis protocol](https://redis.io/docs/reference/patterns/bulk-loading/)
 - [Redis Explained - Architecture Notes](https://architecturenotes.co/redis/) 
-
+- [Cache me if you can: A Look at Common Caching Strategies, and how CQRS can Replace the Need in the First Place](https://medium.com/ssense-tech/cache-me-if-you-can-a-look-at-common-caching-strategies-and-how-cqrs-can-replace-the-need-in-the-65ec2b76e9e)
 ## 📺 Videos
 - [Real-Time Delivery Architecture at Twitter](https://www.infoq.com/presentations/Real-Time-Delivery-Twitter/)
 - [Software Architecture Introduction (part 3): Cache explained](https://www.youtube.com/watch?v=QBMTGngjWdU)

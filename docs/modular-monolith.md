@@ -37,6 +37,7 @@
 - [Easy Modular Monolith — Part 4— Global Exception Handling](https://itnext.io/easy-modular-monolith-part-4-global-exception-handling-8355cc4905d4)
 - [Easy Modular Monolith — Part 5— JWT Authentication/Authorization](https://itnext.io/easy-modular-monolith-part-5-jwt-authentication-authorization-f7a0a275226f)
 - [Easy Modular Monolith — Part 6 — Synchronous communication between modules](https://itnext.io/easy-modular-monolith-part-5-synchronous-communication-between-modules-7af876f06c16)
+- [Build the modular monolith first](https://www.fearofoblivion.com/build-a-modular-monolith-first)
 ## 📺 Videos
 - [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE)
 - [Modular monoliths (Simon Brown) - 2016](https://www.youtube.com/watch?v=kbKxmEeuvc4)
@@ -92,3 +93,4 @@
 - [DijanaPenic/DDD-VShop](https://github.com/DijanaPenic/DDD-VShop) - VShop is a sample .NET 6 application built as Modular Monolith with Domain-Driven Design (DDD) approach. Each module is an independent vertical slice with its custom architecture.
 - [Ridikk12/ModularMonolith](https://github.com/Ridikk12/ModularMonolith)
 - [thangchung/coffeeshop-modular](https://github.com/thangchung/coffeeshop-modular) - .NET coffee shop application with modular approach
+- [chrisklug/asp-net-modular-monolith](https://github.com/chrisklug/asp-net-modular-monolith) 

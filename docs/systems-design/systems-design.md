@@ -12,7 +12,6 @@
 - [systeminterview](https://courses.systeminterview.com/courses/system-design-interview-an-insider-s-guide?ref=c89a35)
 - [System Design (Real World Examples)](https://interviewdaemon.com/courses/design-real-world-examples)
 - [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
-- [Grokking System Design Interview Quizzes](https://github.com/ema2159/Grokking-System-Design-Interview-Quizzes)
 - [Sairyss/distributed-systems-topics](https://github.com/Sairyss/distributed-systems-topics) - This is a list of topics and resources related to distributed systems, system design, microservices, scalability and performance, etc
 - [bregman-arie/system-design-notebook](https://github.com/bregman-arie/system-design-notebook) - Learn System Design step by step
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet

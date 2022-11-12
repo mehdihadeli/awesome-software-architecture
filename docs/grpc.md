@@ -69,8 +69,7 @@
 - [gRPC Load Balancing on Kubernetes - Jan Tattermusch, Google (Intermediate Skill Level)](https://www.youtube.com/watch?v=F2znfxn_5Hg)
 - [ASP.NET Community Standup - gRPC Updates in .NET 7](https://www.youtube.com/watch?v=ds27V6rNick)
 - [Where should you use gRPC? And where NOT to use it!](https://youtu.be/4SuFtQV8RCk)
-## Courses
-- [Secure .Net Microservices with IdentityServer4 OAuth2,OpenID](https://www.udemy.com/course/secure-net-microservices-with-identityserver4-oauth2openid/?couponCode=2E7C1D32B62DF23A5A7D)
+- [High-performance services with gRPC: What's new in .NET 7 | .NET Conf 2022](https://www.youtube.com/watch?v=et_2NBk4N4Y)
 
 ## 📦 Libraries
 

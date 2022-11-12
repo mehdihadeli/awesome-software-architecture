@@ -57,6 +57,7 @@
 - [Let’S Explain Aggregations](https://www.mongodb.com/presentations/lets-explain-aggregations-amer)
 - [How MongoDB uses MongoDB at Scale](https://www.mongodb.com/presentations/how-mongodb-uses-mongodb-at-scale)
 - [Best Practices for Migrating from RDBMS to MongoDB Webinar](https://www.mongodb.com/presentations/migrating-from-rdbms-to-mongodb-webinar-hk)
+- [Advanced Schema Design Patterns](https://www.youtube.com/watch?v=bxw1AkH2aM4)
 ## Courses
 - [MongoDB Basics](https://university.mongodb.com/courses/M001/about)
 - [MongoDB for SQL Pros](https://university.mongodb.com/courses/M100/about)

@@ -24,3 +24,6 @@
 - [Solving distributed data problems in a microservice architecture | Microservices.io](https://www.youtube.com/watch?v=AEbJgpamZ4w)
 - [Backpressure in Reactive System](https://blog.frankel.ch/backpressure-reactive-systems/)
 - [Avoiding Distributed Transactions with the Reservation Pattern](https://www.youtube.com/watch?v=PZm0RQGcs38)
+
+## Samples
+- [markgossa/Reference-Event-Driven-Architecture](https://github.com/markgossa/Reference-Event-Driven-Architecture)

@@ -40,6 +40,7 @@
 - [Kafka Connect Deep Dive – Converters and Serialization Explained](https://www.confluent.io/blog/kafka-connect-deep-dive-converters-serialization-explained/)
 - [Top 5 Things Every Apache Kafka Developer Should Know](https://www.confluent.io/en-gb/blog/5-things-every-kafka-developer-should-know/)
 - [Single-partition Kafka topics](https://mikemybytes.com/2021/01/11/single-partition-kafka-topics/)
+- [Everything You Need To Know About Kafka](https://betterprogramming.pub/everything-you-need-to-know-about-kafka-a83e2456d14c)
 ## 📺 Videos
 - [Course | Apache Kafka® Fundamentals](https://www.youtube.com/playlist?list=PLa7VYi0yPIH2PelhRHoFR5iQgflg-y6JA)
 - [Apache Kafka® Tutorials | Kafka 101](https://www.youtube.com/playlist?list=PLa7VYi0yPIH0KbnJQcMv5N9iW8HkZHztH)

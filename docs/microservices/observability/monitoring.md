@@ -20,3 +20,5 @@
 ## 📦 Libraries
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+- [grafana/phlare](https://github.com/grafana/phlare) - horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system
+

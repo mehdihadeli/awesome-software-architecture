@@ -124,7 +124,7 @@ I created this repository to share a set of links that I found valuable and insp
 ### Event Driven Architecture
 | Topic | Description |
 |:-------:|:----------- |
-| [Event Driven Architecture](docs/event-driven-architecture.md) | TODO...
+| [Event Driven Architecture](docs/event-driven-architecture.md) | Event-driven architecture is a software design pattern in which decoupled applications can asynchronously publish and subscribe to events via an event broker.
 
 ### Service Oriented Architecture
 | Topic | Description |

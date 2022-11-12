@@ -35,6 +35,7 @@
 - [Specification pattern: C# implementation](https://enterprisecraftsmanship.com/posts/specification-pattern-c-implementation/)
 - [CQRS vs Specification pattern](https://enterprisecraftsmanship.com/posts/cqrs-vs-specification-pattern/)
 - [Specification Pattern vs Always-Valid Domain Model](https://enterprisecraftsmanship.com/posts/specification-pattern-always-valid-domain-model/)
+- [Unit of work pattern with Dapper](https://dejanstojanovic.net/aspnet/2021/november/unit-of-work-pattern-with-dapper/)
 ## 📺 Videos
 - [Repository Pattern with C# and Entity Framework - Mosh Hamedani](https://www.youtube.com/watch?v=rtXpYpZdOzM)
 - [Step by Step - Repository Pattern and Unit of Work with Asp.Net Core 5](https://www.youtube.com/watch?v=-jcf1Qq8A-4)
@@ -61,3 +62,6 @@
 - [SharpRepository/SharpRepository](https://github.com/SharpRepository/SharpRepository) - C# Generic Repository for use with Entity Framework, RavenDB and more with built-in caching options.
 - [AhmedTarekHasan/BetterRepository](https://github.com/AhmedTarekHasan/BetterRepository)
 - [threenine/Threenine.Data](https://github.com/threenine/Threenine.Data) - Generic Repository Pattern for .net core
+- [timschreiber/DapperUnitOfWork](https://github.com/timschreiber/DapperUnitOfWork)
+- [BaalaSrinivas/Dapper.RepositoryAndUnitOfWork](https://github.com/BaalaSrinivas/Dapper.RepositoryAndUnitOfWork)
+- [outmatic/Dapper.UnitOfWork](https://github.com/outmatic/Dapper.UnitOfWork)

@@ -11,7 +11,7 @@
 - [PostgreSQL Change Data Capture and Golang Sample Code](https://hackernoon.com/postgresql-change-data-capture-and-golang-sample-code)
 ## 📺 Videos
 - [What is Event-driven Change Data Capture Process?](https://www.youtube.com/watch?v=-irkDCmHhKk)
-
+- [Stream your PostgreSQL changes into Kafka with Debezium](https://www.youtube.com/watch?v=YZRHqRznO-o)
 ## 📦 Libraries
 - [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases
 

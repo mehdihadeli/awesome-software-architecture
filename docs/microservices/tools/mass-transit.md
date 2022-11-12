@@ -17,6 +17,11 @@
 - [Under the hood](https://masstransit-project.com/understand/under-the-hood.html)
 - [Ability to exclude interfaces/classes from topic/exchange creation](https://github.com/MassTransit/MassTransit/issues/2018)
 - [Kafka - Riders](https://masstransit-project.com/usage/riders/kafka.html)
+- [MassTransit and MediatR – Part 1](https://markgossa.com/2022/06/masstransit-and-mediatr.html)
+- [MassTransit and MediatR – Part 2](https://markgossa.com/2022/06/masstransit-exponential-back-off.html)
+- [MassTransit and MediatR – Part 3](https://markgossa.com/2022/07/masstransit-mediatr-dead-letter-invalid-messages.html)
+- [ASP.NET Correlation ID](https://markgossa.com/2022/05/asp-net-correlation-id.html)
+
 ## 📺 Videos
 - [MassTransit–Youtube videos](https://bartwullems.blogspot.com/2020/07/masstransityoutube-videos.html)
 - [Modern .NET Messaging using MassTransit](https://www.youtube.com/watch?v=jQNQDLv7QmU)
@@ -26,6 +31,11 @@
 - [MassTransit and RabbitMQ - Playlist - Garry Taylor](https://www.youtube.com/playlist?list=PL8vZpHuqa_hOP8f1AT5r8FSP1fKm9ALZO)
 - [MassTransit Commute - Wire Tapping with RabbitMQ](https://www.youtube.com/watch?v=vNpXjy7psxs)
 - [MassTransit - The New Transactional Outbox](https://www.youtube.com/watch?v=3TjGnmLno_A)
+- [MassTransit Fault Handling](https://www.youtube.com/watch?v=-lpGYnznbco)
+- [MassTransit Exception Handling, Retry Middleware](https://www.youtube.com/watch?v=f1Oa65U2OeQ)
+- [MassTransit Unit Testing](https://www.youtube.com/watch?v=Cx-Mc0DCpfE)
+- [MassTransit Season 2 - Unit Testing with PostgreSQL and Entity Framework](https://www.youtube.com/watch?v=yfRRqPtqkgM)
+- [MassTransit Testing with Web Application Factory](https://www.youtube.com/watch?v=Uzme7vInDz0)
 ## 📦 Libraries
 - [GokGokalp/MetroBus](https://github.com/GokGokalp/MetroBus) - Lightweight messaging wrapper of MassTransit
 - [NCodeGroup/MassTransit.Extensions.Hosting](https://github.com/NCodeGroup/MassTransit.Extensions.Hosting) - MassTransit configuration extensions using Microsoft.Extensions.Hosting.IHostedService and Microsoft.Extensions.DependencyInjection.
@@ -46,3 +56,4 @@
 - [danmalcolm/masstransit-kafka-demo](https://github.com/danmalcolm/masstransit-kafka-demo) - Demonstrates use of MassTransit Kafka rider to produce and consume messages, including support for multiple message types on a single topic
 - [MassTransit/Sample-GettingStarted](https://github.com/MassTransit/Sample-GettingStarted)
 - [MassTransit/Sample-Outbox](https://github.com/MassTransit/Sample-Outbox)
+- [markgossa/Reference-Event-Driven-Architecture](https://github.com/markgossa/Reference-Event-Driven-Architecture)
