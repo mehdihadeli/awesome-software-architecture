@@ -46,6 +46,7 @@
 - [Service-Oriented Architecture vs Event-Driven Architecture](https://www.eventstore.com/blog/service-oriented-architecture-vs-event-driven-architecture)
 - [Event Driven Architecture — 5 Pitfalls to Avoid](https://medium.com/wix-engineering/event-driven-architecture-5-pitfalls-to-avoid-b3ebf885bdb1)
 - [Microservices to Async Processing Migration at Scale](https://www.infoq.com/articles/microservices-async-migration/)
+- [How events can help in making the state-based approach efficient](https://event-driven.io/en/how_events_can_help_on_making_state_based_approach_efficient/)
 ## 📺 Videos
 
 - [Event-Driven Architecture | EDA | Software Architectural Patterns](https://www.youtube.com/watch?v=gIL8rW_eyww&t=0s) 

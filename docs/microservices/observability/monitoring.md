@@ -11,6 +11,9 @@
 - [Create Grafana Dashboards with Prometheus Metrics](https://www.programmingwithwolfgang.com/create-grafana-dashboards-with-prometheus-metrics)
 - [.NET Core Web API Metrics with Prometheus and Grafana](https://dale-bingham-cingulara.medium.com/net-core-web-api-metrics-with-prometheus-and-grafana-fe84a52d9843)
 
+## Viodes
+- [Prometheus Grafana Dotnet Core STEP BY STEP](https://www.youtube.com/watch?v=cvt1Vrs3ajU)
+
 ## Courses
 - [Introduction to Prometheus](https://training.promlabs.com/training/introduction-to-prometheus)
 

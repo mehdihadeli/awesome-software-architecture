@@ -119,6 +119,7 @@
 - [open-telemetry/opentelemetry-collector-contrib/nomad](https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/main/examples/nomad)
 - [open-telemetry/opentelemetry-collector-contrib/examples/demo](https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/main/examples/demo)
 - [joaofbantunes/ExploringDistributedTracingWithAspNet](https://github.com/joaofbantunes/ExploringDistributedTracingWithAspNet)
+- [davidfowl/TodoApi](https://github.com/davidfowl/TodoApi/blob/afdc367fadcfd979bb85dd73e5f48cf896ca0f1a/TodoApi/OpenTelemetryExtensions.cs#L11)
 ## 📦 Libraries
 - [SkyAPM/SkyAPM-dotnet](https://github.com/SkyAPM/SkyAPM-dotnet) - The .NET/.NET Core instrument agent for Apache SkyWalking
 - [opentracing-contrib/csharp-netcore](https://github.com/opentracing-contrib/csharp-netcore) - OpenTracing instrumentation for .NET Core & .NET 5 apps

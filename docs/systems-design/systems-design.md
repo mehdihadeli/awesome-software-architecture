@@ -27,6 +27,8 @@
 - [System Design: Uber](https://dev.to/karanpratapsingh/system-design-uber-56b1)
 - [System Design: WhatsApp](https://dev.to/karanpratapsingh/system-design-whatsapp-fld)
 - [System Design: URL Shortener](https://dev.to/karanpratapsingh/system-design-url-shortener-10i5)
+- [Understanding System Design of Netflix: Backend Architecture and Cloud Services](https://medium.com/@nidhiupreti99/understanding-system-design-of-netflix-backend-architecture-and-cloud-services-b077162e45bc)
+- [Netflix System Design- Backend Architecture](https://dev.to/gbengelebs/netflix-system-design-backend-architecture-10i3)
 ## 📺 Videos
 
 - [Distributed Computing](https://www.youtube.com/watch?v=ajjOEltiZm4) 
