@@ -70,6 +70,7 @@
 - [Farfetch/kafka-flow-retry-extensions](https://github.com/Farfetch/kafka-flow-retry-extensions) - Kafka Flow Retry Patterns Extensions
 - [conduktor-ui](https://www.conduktor.io/conduktor-ui)
 - [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop) - Kafka Web UI
+- [Franz](https://franz.defn.io) - Native macOS GUI
 ## 🚀 Samples
 - [dcomartin/Kafka.Demo](https://github.com/dcomartin/Kafka.Demo)
 - [oskardudycz/kafka-connect](https://github.com/oskardudycz/kafka-connect)
