@@ -30,7 +30,8 @@
 - [Micro Frontend Architecture - Luca Mezzalira, DAZN](https://www.youtube.com/watch?v=BuRB3djraeM)
 - [What Are Micro-Frontends & How to Use Them • Luca Mezzalira & Lucas Dohmen • GOTO 2022](https://www.youtube.com/watch?v=-thWgobMW_I)
 - [Scaling your projects with Micro-frontends - talk by Luca Mezzalira](https://www.youtube.com/watch?v=9q5gTmKYQuw)
-- [Micro-Frontends anti-patterns - talk by Luca Mezzalira](https://hasgeek.com/jsfoo/microfrontends-conf/sub/micro-frontends-anti-patterns-Y7WWDT2M1zAbz9DFb79TxX)
+- [Micro-Frontends anti-patterns - Luca Mezzalira, AWS | Craft Conference 2022](https://www.youtube.com/watch?v=EvD-gFX6kN0)
+- [Micro-Frontends with Module Federation: Beyond the Basics | Manfred Steyer| EnterpriseNG 2021](https://www.youtube.com/watch?v=8peHqzO7oqE)
 ## 📚 Books
 
 - [Building Micro-Frontends By Luca Mezzalira - August 2021](https://www.oreilly.com/library/view/building-micro-frontends/9781492082989/)
