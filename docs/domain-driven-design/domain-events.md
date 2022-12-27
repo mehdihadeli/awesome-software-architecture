@@ -33,6 +33,7 @@
 - [Design validations in the domain model layer](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/domain-model-layer-validations)
 - [6 Code Smells with your CQRS Events – and How to Avoid Them](https://danielwhittaker.me/2014/10/18/6-code-smells-cqrs-events-avoid/)
 - [Domain Events - Alexey Zimarev](https://alexey-zimarev.medium.com/domain-events-f56555258cf5)
+- [.NET Domain Events Using MediatR](https://wrapt.dev/blog/dotnet-domain-events)
 ## 🚀 Samples
 - [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture/blob/main/src/Clean.Architecture.Infrastructure/Data/AppDbContext.cs)
 - [vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices/blob/da6b9e0d0120693e0239a1dc4077ba452163d61a/src/BasicBuildingBlocks/N8T.Infrastructure.EfCore/Extensions.cs#L63)

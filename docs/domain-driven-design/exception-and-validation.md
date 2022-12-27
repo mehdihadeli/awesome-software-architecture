@@ -30,6 +30,7 @@
 - [Advanced error handling techniques](https://enterprisecraftsmanship.com/posts/advanced-error-handling-techniques/)
 - [Combining ASP.NET Core validation attributes with Value Objects](https://enterprisecraftsmanship.com/posts/combining-asp-net-core-attributes-with-value-objects/)
 - [Always-Valid Domain Model](https://enterprisecraftsmanship.com/posts/always-valid-domain-model/)
+- [eShopOnWeb Architecture (3/16) – uses custom exceptions to more explicitly express what has gone wrong](https://davecallan.com/eshoponweb-architecture-3-16-uses-custom-exceptions-to-more-explicitly-express-what-has-gone-wrong/)
 ## 📦 Libraries
 
 - [GuardClauses](https://github.com/ardalis/GuardClauses) - A simple package with guard clause extensions.

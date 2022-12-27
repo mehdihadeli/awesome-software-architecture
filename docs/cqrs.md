@@ -102,7 +102,7 @@
 - [CQRS Doesn't Have To Be Complicated | Clean Architecture, .NET 6](https://www.youtube.com/watch?v=vdi-p9StmG0)
 - [CRUD API + Complexity = Death by a 1000 Papercuts](https://www.youtube.com/watch?v=kalD8TcRBCc)
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU)
-
+- [[Oskar Dudycz] Od CRUD do CQRS w praktyce](https://www.youtube.com/watch?v=jU5aKVQmBeM)
 ## 📦 Libraries
 - [eventflow/EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
 - [gautema/CQRSlite](https://github.com/gautema/CQRSlite) - A lightweight framework to help creating CQRS and Eventsourcing applications in C#
@@ -149,3 +149,5 @@
 - [AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing](https://github.com/AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing) - A full-stack .NET 7 EDA solution
 - [pdevito3/PeakLimsApi](https://github.com/pdevito3/PeakLimsApi) - A complex DDD based web API to model the accessioning workflow within a LIMS.
 - [MarkNijhof/Fohjin](https://github.com/MarkNijhof/Fohjin) - This is a personal sand box
+- [EventStore/training-advanced-dotnet](https://github.com/EventStore/training-advanced-dotnet)
+- [oskardudycz/EventSourcing.NetCore/Sample/HotelManagement](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/HotelManagement)

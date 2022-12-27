@@ -17,6 +17,8 @@
 - [Link to an aggregate: reference or Id?](https://enterprisecraftsmanship.com/posts/link-to-an-aggregate-reference-or-id/)
 - [Avoid Exposing Collections Directly as Properties](https://ardalis.com/avoid-collections-as-properties/?utm_sq=grcpqjyka3)
 - [Aggregate Responsibility Design](https://ardalis.com/aggregate-responsibility-design/)
+- [Entities - ABP](https://docs.abp.io/en/abp/latest/Entities)
+- [Aggregate pattern in Domain-Driven Design](https://medium.com/eventuous/aggregate-pattern-in-domain-driven-design-7ad823475099)
 ## 📺 Videos
 
 - [Aggregate (Root) Design: Separate Behavior & Data for Persistence](https://www.youtube.com/watch?v=GtWVGJp061A) 

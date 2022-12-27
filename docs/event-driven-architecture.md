@@ -2,7 +2,6 @@
 # Event Driven Architecture
 
 ## 📕 Articles
-
 - [Event-driven architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/event-driven)
 - [Event-Driven Architecture](https://herbertograca.com/2017/10/05/event-driven-architecture/) 
 - [Journey to Event Driven – Part 1: Why Event-First Programming Changes Everything](https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything/)
@@ -47,8 +46,10 @@
 - [Event Driven Architecture — 5 Pitfalls to Avoid](https://medium.com/wix-engineering/event-driven-architecture-5-pitfalls-to-avoid-b3ebf885bdb1)
 - [Microservices to Async Processing Migration at Scale](https://www.infoq.com/articles/microservices-async-migration/)
 - [How events can help in making the state-based approach efficient](https://event-driven.io/en/how_events_can_help_on_making_state_based_approach_efficient/)
-## 📺 Videos
+- [Mapping event type by convention](https://event-driven.io/en/how_to_map_event_type_by_convention/)
 
+
+## 📺 Videos
 - [Event-Driven Architecture | EDA | Software Architectural Patterns](https://www.youtube.com/watch?v=gIL8rW_eyww&t=0s) 
 - [Events on the outside, on the inside and at the core](https://www.youtube.com/watch?v=rP-InttAbVY)
 - [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
@@ -80,6 +81,10 @@
 - [Event-driven integration #5 - Quick intro to Apache Kafka [ASPF02O|E044]](https://www.youtube.com/watch?v=tUzCxZdKEr4)
 - [Event-driven integration #6 - Publishing events (feat. Apache Kafka) [ASPF02O|E045]](https://www.youtube.com/watch?v=T2Dy7cH486c)
 - [Wix.com - 5 Event Driven Architecture Pitfalls!](https://www.youtube.com/watch?v=xfNzGdrxf5w)
+
+## Libraries
+- [boyney123/eventcatalog](https://github.com/boyney123/eventcatalog) - Discover, Explore and Document your Event Driven Architectures powered by Markdown.
+
 ## 📚 Books
 - [Designing Event-Driven Systems](https://www.confluent.io/designing-event-driven-systems/)
 - [Building Event-Driven Microservices: Leveraging Organizational Data at Scale](https://www.amazon.com/Building-Event-Driven-Microservices-Leveraging-Organizational/dp/1492057894)

@@ -5,6 +5,7 @@
 ## 📘 Resources
 - [https://restfulapi.net](https://restfulapi.net)
 - [whitehouse/api-standards](https://github.com/whitehouse/api-standards)
+- [adidas API Guidelines](https://adidas.gitbook.io/api-guidelines/)
 ## 📕 Articles
 - [What is REST](https://restfulapi.net)
 - [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)

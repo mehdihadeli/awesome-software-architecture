@@ -5,7 +5,8 @@
 - [Elasticsearch: How to Add Full-Text Search to Your Database](https://mentormate.medium.com/elasticsearch-how-to-add-full-text-search-to-your-database-ee2f3ea4d3f3)
 - [Logging with ElasticSearch, Kibana, ASP.NET Core and Docker](https://www.humankode.com/asp-net-core/logging-with-elasticsearch-kibana-asp-net-core-and-docker)
 - [Elasticsearch 101: Fundamentals & Core Components](https://medium.com/velotio-perspectives/elasticsearch-101-fundamentals-core-components-a1fdc6090a5e)
-
+- [.Net 6 WebAPI - Intro to ElasticSearch & Kibana - Step by Step](https://dev.to/moe23/net-6-webapi-intro-to-elasticsearch-kibana-step-by-step-p9l)
+- [Net Core + Serilog + ElasticSearch + Kibana](https://medium.com/@matias.paulo84/net-core-serilog-elasticsearch-kibana-3bd080ff4c1e)
 ## 📺 Videos
 - [Filebeat + Elk Stack Tutorial With Kubernetes](https://www.youtube.com/watch?v=SU--XMhbWoY)
 - [Net 6 WebAPI - Intro to ElasticSearch & Kibana - Step by Step #aspnetcore](https://www.youtube.com/watch?v=5exN6nQ7558)

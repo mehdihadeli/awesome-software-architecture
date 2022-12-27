@@ -146,7 +146,6 @@ nav:
   - Gateway Pattern: cloud-design-patterns/gateway-pattern.md
   - Outbox Pattern: cloud-design-patterns/outbox-pattern.md
   - Inbox Pattern: cloud-design-patterns/inbox-pattern.md
-  - Saga Pattern: cloud-design-patterns/saga.md
   - Strangler Fig Pattern: cloud-design-patterns/strangler-fig-pattern.md
   - Backends for Frontends: cloud-design-patterns/bff.md
 - Cloud Best Practices: cloud-best-practices.md
@@ -236,7 +235,7 @@ nav:
   - RabbitMQ: messaging/rabbitmq.md
   - Azure Service Bus: azure/messaging/azure-service-bus.md
   - NATS: messaging/nats.md
-- Distributed Transactions: distributed-transactions.md
+- Distributed Transactions & Saga: distributed-transactions.md
 - Distributed Locking: distributed-locking.md
 - Eventual Consistency: eventual-consistency.md
 - RESTful API Design: rest.md
@@ -305,6 +304,7 @@ nav:
   - Relationship: modeling/relationship.md
   - Tools: modeling/tools.md
   - Use Case Diagram: modeling/use-case-diagram.md
+- AI: ai.md
 - Open Source: open-source.md
 - Code Review: code-review.md
 - Interview: interview.md

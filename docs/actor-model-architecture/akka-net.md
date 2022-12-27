@@ -15,3 +15,4 @@
 ## 🚀 Samples
 - [petabridge/akkadotnet-cluster-workshop](https://github.com/petabridge/akkadotnet-cluster-workshop) - Akka.NET + Kubernetes + Akka.Cluster Training Course
 - [petabridge/akka-bootcamp](https://github.com/petabridge/akka-bootcamp) - Self-paced training course to learn Akka.NET fundamentals from scratch
+- [petabridge/azure-container-app-akkadotnet](https://github.com/petabridge/azure-container-app-akkadotnet)

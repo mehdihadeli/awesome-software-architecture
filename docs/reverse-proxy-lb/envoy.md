@@ -16,3 +16,4 @@
 - [jbw/TooBigToFailBurgerShop](https://github.com/jbw/TooBigToFailBurgerShop/tree/develop/src/services/ApiGateway/Envoy)
 - [anubhavmishra/envoy-consul-sds](https://github.com/anubhavmishra/envoy-consul-sds) - Envoy Consul Service Discovery Service
 - [kelseyhightower/kubernetes-envoy-sds](https://github.com/kelseyhightower/kubernetes-envoy-sds) - https://github.com/kelseyhightower/kubernetes-envoy-sds
+- [bakins/kubernetes-envoy-example](https://github.com/bakins/kubernetes-envoy-example) - Teaching myself about Envoy on Kubernetes

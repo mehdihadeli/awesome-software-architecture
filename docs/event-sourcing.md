@@ -143,6 +143,8 @@
 - [Testing business logic in Event Sourcing, and beyond!](https://event-driven.io/en/testing_event_sourcing/)
 - [Testing an Event Sourced Aggregate Root](https://buildplease.com/pages/fpc-13/)
 - [An Executable Specification](https://buildplease.com/pages/fpc-14/)
+- [Event Sourcing explained](https://itnext.io/event-sourcing-explained-b19ccaa93ae4)
+- [Essential features of an Event Store for Event Sourcing](https://itnext.io/essential-features-of-an-event-store-for-event-sourcing-13e61ca4d066)
 ## 📺 Videos
 - [Event Sourcing Playlist - CodeOpinion](https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ)
 - [Event Sourcing Example & Explained in plain English](https://www.youtube.com/watch?v=AUj4M-st3ic)
@@ -193,6 +195,7 @@
 - [.NET DC August: Event Sourcing and CQRS with Marten](https://www.youtube.com/watch?v=XaztVpahD1k)
 - [DDD as Low-Code](https://www.youtube.com/watch?v=yohu6qx8-dU)
 - [Introduction to Event Sourcing by Alexey Zimarev](https://www.youtube.com/watch?v=VeZZ2UZMDYo)
+- [The power of transient state in Event Sourcing](https://www.youtube.com/watch?v=XoWEQ_39Mcg)
 
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
@@ -257,3 +260,6 @@
 - [oskardudycz/EventStoreInOneHour](https://github.com/oskardudycz/EventStoreInOneHour) - Repository for Live Stream "Event Store in One Hour"
 - [AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing](https://github.com/AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing) - A full-stack .NET 7 EDA solution
 - [MarkNijhof/Fohjin](https://github.com/MarkNijhof/Fohjin) - This is a personal sand box
+- [EventStore/training-advanced-dotnet](https://github.com/EventStore/training-advanced-dotnet)
+- [mat-mcloughlin/PatientMangement](https://github.com/mat-mcloughlin/PatientMangement) - A simple example of how to build an event sourced application
+- [klimisa/aggregate-implementation-patterns-csharp](https://github.com/klimisa/aggregate-implementation-patterns-csharp) - Aggregate implementations workshop port to C#

@@ -35,6 +35,10 @@
 - [Support for Value Objects in C#](https://ardalis.com/support-for-value-objects-in-csharp/)
 - [Modern C# Techniques, Part 2: Value Records](https://blog.stephencleary.com/2022/10/modern-csharp-techniques-2-value-records.html)
 - [[Best practice] C# 9 Records as DDD Value Objects with EF Core 6](https://dev.to/antoniofalcao/best-practice-c-9-records-as-ddd-value-objects-with-ef-core-6-502p)
+- [The type system is a programmer's best friend](https://dusted.codes/the-type-system-is-a-programmers-best-friend)
+- [Design Smell: Primitive Obsession by Mark Seemann](https://blog.ploeh.dk/2011/05/25/DesignSmellPrimitiveObsession/)
+- [From Primitive Obsession to Domain Modelling by Mark Seemann](https://blog.ploeh.dk/2015/01/19/from-primitive-obsession-to-domain-modelling/)
+- [eShopOnWeb Architecture (2/16) – uses Value Objects to model immutable domain concepts](https://davecallan.com/eshoponweb-uses-value-objects-to-model-immutable-domain-concepts/)
 ## 📺 Videos
 - [Treating Primitive Obsession with ValueObjects | DDD in .NET](https://www.youtube.com/watch?v=h4uldNA1JUE)
 - [The Power of Value - Power Use of Value Objects in Domain Driven Design - Dan Bergh Johnsson](https://www.youtube.com/watch?v=vh-LT1mkIz4)

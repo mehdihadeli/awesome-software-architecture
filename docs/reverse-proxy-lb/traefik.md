@@ -11,5 +11,6 @@
 ## Courses
 - [Master Traefik Proxy With K3s](https://academy.traefik.io/courses/master-traefik-proxy-with-k3s)
 - [Advanced Load Balancing](https://academy.traefik.io/courses/advanced-load-balancing-w-traefik-proxy)
+- [GitOps For Reliable Kubernetes](https://academy.traefik.io/courses/gitops-for-reliable-kubernetes)
 ## 🚀 Samples
 - [giansalex/aspnetcore-load-balancing](https://github.com/giansalex/aspnetcore-load-balancing) - ASP.NET Core 5.0 - Load Balancing with Nginx | Traefik | Caddy - Alpine - Docker

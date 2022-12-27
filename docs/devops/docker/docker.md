@@ -56,15 +56,26 @@
 - [Linting a .NET 6 app Dockerfile using Hadolint, dockerfile_lint and Azure Pipelines](https://www.mytechramblings.com/posts/linting-a-dotnet-app-dockerfile-using-hadolint-dockerfile-lint-and-azure-pipelines/)
 - [Docker build caching for .NET applications done right with dotnet-subset](https://blog.nimbleways.com/docker-build-caching-for-dotnet-applications-done-right-with-dotnet-subset/)
 - [Developing ASP.NET Core apps in Docker - Live Recompilation](https://tymisko.hashnode.dev/developing-aspnet-core-apps-in-docker-live-recompilation)
+- [.NET 6 is now in Ubuntu 22.04](https://devblogs.microsoft.com/dotnet/dotnet-6-is-now-in-ubuntu-2204/)
+- [Announcing built-in container support for the .NET SDK](https://devblogs.microsoft.com/dotnet/announcing-builtin-container-support-for-the-dotnet-sdk/)
+- [Tutorial: Containerize a .NET app](https://learn.microsoft.com/en-us/dotnet/core/docker/build-container?tabs=windows)
+- [Containerize a .NET app with dotnet publish](https://learn.microsoft.com/en-us/dotnet/core/docker/publish-as-container)
+- [.NET 7 SDK built-in container support and Ubuntu Chiseled](https://laurentkempe.com/2022/11/14/dotnet-7-sdk-built-in-container-support-and-ubuntu-chiseled/)
+- [Experimenting with .NET 7, WASM, and WASI on Docker](https://laurentkempe.com/2022/10/31/experimenting-with-dotnet-7-wasm-and-wasi-on-docker/)
+- [Trying out the built-in container support for the .NET SDK](https://www.mytechramblings.com/posts/trying-out-the-built-in-container-support-for-the-dotnet-7-sdk/)
+- [Docker import/export vs. load/save](https://pspdfkit.com/blog/2019/docker-import-export-vs-load-save/)
 ## 📹 Videos
 - [Deploy a .NET Core API with Docker (Step-by-Step)](https://www.youtube.com/watch?v=f0lMGPB10bM)
 - [Docker Tutorial for Beginners [FULL COURSE in 3 Hours](https://www.youtube.com/watch?v=3c-iBn73dDE)
 - [How to push a container image to a Docker Repo | Azure Tips and Tricks](https://www.youtube.com/watch?v=r_tGl4zF1ZQ)
 - [Dockerize .NET 6 in 10 Minutes](https://www.youtube.com/watch?v=3s-RfwvijpY)
 - [Docker networking is CRAZY!! (you NEED to learn it)](https://www.youtube.com/watch?v=bKFMS5C4CG0)
+- [Why you no longer need a Dockerfile in .NET 7](https://www.youtube.com/watch?v=BV_f2XnqlRE)
+
 ## 📦 Libraries
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
+- [projectatomic/dockerfile_lint](https://github.com/projectatomic/dockerfile_lint)
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [mariotoffia/FluentDocker](https://github.com/mariotoffia/FluentDocker) - Commands, Services and Fluent API for docker, docker-compose & docker-machine, for win/mac/linux and native docker in c#
 - [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
@@ -72,6 +83,7 @@
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [worstcase/blockade](https://github.com/worstcase/blockade) - Docker-based utility for testing network failures and partitions in distributed applications
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
+- [tmds/build-image](https://github.com/tmds/build-image) - Containerize .NET apps without writing Dockerfiles.
 ## 🚀 Samples
 - [jbw/TooBigToFailBurgerShop](https://github.com/jbw/TooBigToFailBurgerShop/tree/develop/src/services/Ordering/Ordering.API) - .NET Microservice Reference Application. It's also an over-engineered burger shop!
 - [VasilisGaitanidis/master-containerized-microservices](https://github.com/VasilisGaitanidis/master-containerized-microservices) - This repo contains a sample application based on a fictional eCommerce. The primary goal of this sample is to demonstrate several software-architecture concepts like: Clean Architecture, Microservices, CQRS, Event Sourcing, Publish-Subscribe Architecture, Domain Driven Design (DDD). Currently this is a work in progress.
@@ -86,3 +98,4 @@
 - [vietnam-devs/coolstore-microservices/deploys/dockers](https://github.com/vietnam-devs/coolstore-microservices/tree/main/deploys/dockers)
 - [vietnam-devs/coolstore-microservices/Dockerfile](https://github.com/vietnam-devs/coolstore-microservices/blob/main/src/Services/ProductCatalog/ProductCatalogService.Api/Dockerfile)
 - [thangchung/clean-architecture-dotnet/Dockerfile](https://github.com/thangchung/clean-architecture-dotnet/blob/main/samples/Product/ProductService.Api/Dockerfile)
+- [laurentkempe/ChiseledDocker](https://github.com/laurentkempe/ChiseledDocker)

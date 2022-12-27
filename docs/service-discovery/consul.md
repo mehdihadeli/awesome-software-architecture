@@ -32,6 +32,7 @@
 - [hashicorp/consul-template](https://github.com/hashicorp/consul-template) - Template rendering, notifier, and supervisor for @hashicorp Consul and Vault data.
 - [jippi/hashi-ui](https://github.com/jippi/hashi-ui) - A modern user interface for @hashicorp Consul & Nomad
 - [jsiebens/hashi-up](https://github.com/jsiebens/hashi-up) - bootstrap HashiCorp Consul, Nomad, or Vault over SSH < 1 minute
+- [hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s) - First-class support for Consul Service Mesh on Kubernetes
 ## 🚀 Samples
 - [Endava/Endava.Consul.ServiceDiscovery.Demo](https://github.com/Endava/Endava.Consul.ServiceDiscovery.Demo) - This tutorial shows how to implement simple containerized (Docker) micro service architecture with a gateway, load balancer (Ocelot) and automatic service discovery (Consul).
 - [surging](https://github.com/fanliang11/surging) - Surging is a micro-service engine that provides a lightweight, high-performance, modular RPC request pipeline. The service engine supports http, TCP, WS,Grpc, Thrift,Mqtt, UDP, and DNS protocols. It uses ZooKeeper and Consul as a registry, and integrates it. Hash, random, polling, Fair Polling as a load balancing algorithm,
@@ -46,3 +47,4 @@ automatic service discovery (Consul).
 - [discoposse/nomad-vagrant-lab](https://github.com/discoposse/nomad-vagrant-lab) - A nifty little 3-node or 6-node local cluster configuration to run HashiCorp Nomad
 - [anubhavmishra/envoy-consul-sds](https://github.com/anubhavmishra/envoy-consul-sds) - Envoy Consul Service Discovery Service
 - [nairnavin/practical-nomad-consul](https://github.com/nairnavin/practical-nomad-consul) - Set up a 3 Tier application (classic springboot petclinic) in a Nomad / Consul cluster leveraging features of service mesh, ingress and terminating gateways, load balancers etc.
+- [hashicorp/learn-consul-docker](https://github.com/hashicorp/learn-consul-docker) - Docker Compose quick starts for Consul features.

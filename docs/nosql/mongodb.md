@@ -34,7 +34,13 @@
 - [MongoDB Driver Linq](https://mongodb.github.io/mongo-csharp-driver/2.7/reference/driver/crud/linq/)
 - [MongoDB Driver Session and Transaction](https://mongodb.github.io/mongo-csharp-driver/2.7/reference/driver/crud/sessions_and_transactions/)
 - [MongoDB Bulk operations with the C# driver](https://fgambarino.com/c-sharp-mongo-bulk-write/)
-
+- [Setting up MongoDB to Use Standard GUIDs in C#](https://kevsoft.net/2022/02/18/setting-up-mongodb-to-use-standard-guids-in-csharp.html)
+- [Storing GUIDs as strings in MongoDB with C#](https://kevsoft.net/2020/06/25/storing-guids-as-strings-in-mongodb-with-csharp.html)
+- [DDD Values Types in C# with MongoDB](https://kevsoft.net/2022/01/03/ddd-values-types-in-csharp-with-mongodb.html)
+- [How do I detect whether a mongodb serializer is already registered?](https://stackoverflow.com/questions/21386347/how-do-i-detect-whether-a-mongodb-serializer-is-already-registered)
+- [What is new way of setting DateTimeSerializationOptions.Defaults in mongodb c# driver?](https://stackoverflow.com/questions/16185262/what-is-new-way-of-setting-datetimeserializationoptions-defaults-in-mongodb-c-sh)
+- [Serialization in MongoDB Driver C#](http://mongodb.github.io/mongo-csharp-driver/2.18/reference/bson/serialization/)
+- [GuidSerializer changes in MongoDB Driver C# ](http://mongodb.github.io/mongo-csharp-driver/2.18/reference/bson/guidserialization/serializerchanges/guidserializerchanges/)
 ## 📺 Videos
 - [MongoDB In 30 Minutes](https://www.youtube.com/watch?v=pWbMrx5rVBE)
 - [More Flexibility?! Sharding Gets Even Easier with MongoDB 4.4](https://www.youtube.com/watch?v=wGgMnJQunEc)

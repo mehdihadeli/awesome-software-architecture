@@ -15,7 +15,7 @@
 - [Single-node Kubernetes Clusters Using K3s with Benefits of GitOps • Lasse Højgaard • GOTO 2021](https://www.youtube.com/watch?v=ePyFJ7Hd57Q)
 - [Using *HA* Kubernetes at home, was never so simple!](https://www.youtube.com/watch?v=UdjhFLV1yt8)
 - [HA K3s with etcd, kube-vip, MetalLB, and Rancher!](https://www.youtube.com/watch?v=9PLw1xalcYA)
-
+- [Build a Lightweight Private Cloud with Harvester, K3s, and Traefik // Traefik Labs](https://www.youtube.com/watch?v=Lu60U2X7SYI)
 
 ## Courses
 - [Master Traefik Proxy With K3s](https://academy.traefik.io/courses/master-traefik-proxy-with-k3s)

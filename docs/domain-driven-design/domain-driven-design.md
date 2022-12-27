@@ -12,7 +12,8 @@
 - [ddd-crew/ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process)
 - [ddd-crew/core-domain-charts](https://github.com/ddd-crew/core-domain-charts)
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
-
+- [ddd-crew/context-mapping](https://github.com/ddd-crew/context-mapping)
+- [ddd-crew/welcome-to-ddd](https://github.com/ddd-crew/welcome-to-ddd)
 ## 📕 Articles
 - [Design a DDD-oriented microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice) 
 - [PPPDDD.1 – What is Domain Driven Design?](https://herbertograca.com/2016/08/15/pppddd-1-what-is-domain-driven-design/) 
@@ -96,7 +97,7 @@
 - [Modeling Relationships in a DDD Way](https://enterprisecraftsmanship.com/posts/modeling-relationships-in-ddd-way/)
 - [How to create better code using Domain-Driven Design](https://www.altkomsoftware.com/blog/create-better-code-using-domain-driven-design/)
 - [DDD building blocks - Kamil Lelonek](https://blog.lelonek.me/ddd-building-blocks-for-ruby-developers-cdc6c25a80d2)
-
+- [Implementing Domain Driven Design](https://docs.abp.io/en/abp/4.0/Domain-Driven-Design-Implementation-Guide)
 ## 📺 Videos
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU)
@@ -112,7 +113,8 @@
 - [DDD as Low-Code](https://www.youtube.com/watch?v=yohu6qx8-dU)
 - [Is Domain-Driven Design Overrated? • Stefan Tilkov • GOTO 2021](https://www.youtube.com/watch?v=ZZp9RQEGeqQ)
 - [Do you have enough Complexity for a Domain Model (Domain Driven Design)?](https://www.youtube.com/watch?v=L1foFiqopIc)
-
+- [Getting modules right with Domain-driven Design by Michael Plöd - Spring I/O 2022 Sessions](https://www.youtube.com/watch?v=Q_0XW46IlHY)
+- [Hands-on case-study context mapping with Michael Plöd](https://www.youtube.com/watch?v=OthhRfqp-44)
 ## 🚀 Samples
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
 - [kimcu-on-thenet/ddd-net-ef-core](https://github.com/kimcu-on-thenet/ddd-net-ef-core) - Self study: DDD, .net core, entity framework core
@@ -195,6 +197,9 @@
 - [ddd-by-examples/cinema](https://github.com/ddd-by-examples/cinema) - Cinema playground - example repo from reserving seats with different rules
 - [pdevito3/PeakLimsApi](https://github.com/pdevito3/PeakLimsApi) - A complex DDD based web API to model the accessioning workflow within a LIMS.
 - [MarkNijhof/Fohjin](https://github.com/MarkNijhof/Fohjin) - This is a personal sand box
+- [CodelyTV/csharp-ddd-skeleton](https://github.com/CodelyTV/csharp-ddd-skeleton) - C# DDD Skeleton: Bootstrap your new C# projects applying Hexagonal Architecture and Domain-Driven Design patterns
+- [klimisa/aggregate-implementation-patterns-csharp](https://github.com/klimisa/aggregate-implementation-patterns-csharp) - Aggregate implementations workshop port to C#
+- [oskardudycz/EventSourcing.NetCore/Sample/HotelManagement](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/HotelManagement)
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [xhafan/coreddd](https://github.com/xhafan/coreddd) - A set of open-source .NET libraries helping with domain-driven design (DDD) and CQRS
@@ -217,3 +222,5 @@
 - [Patterns, Principles, and Practices of Domain-Driven Design 1st Edition](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709)
 - [Hands-On Domain-Driven Design with .NET Core: Tackling complexity in the heart of software by putting DDD principles into practice](https://www.amazon.com/Hands-Domain-Driven-Design-NET/dp/1788834097/ref=pd_vtp_5/137-5137322-0498527)
 - [Domain-Driven Design The First 15 Years Essays from the community](https://dddeurope.com/15years/)
+- [ABP - Implementing Domain Driven Design](https://abp.io/books/implementing-domain-driven-design)
+- [Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F#](https://www.amazon.com/Domain-Modeling-Made-Functional-Domain-Driven/dp/1680502549)

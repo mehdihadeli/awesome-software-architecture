@@ -15,6 +15,9 @@
 - [Primitive Obsession Code Smell Resolution with example](https://www.thecodebuzz.com/awesome-code-primitive-obsession-code-smell-with-example/)
 - [Code Smell – Primitive Obsession and Refactoring Recipes](https://blog.ndepend.com/code-smell-primitive-obsession-and-refactoring-recipes/)
 - [Dealing with primitive obsession](https://lostechies.com/jimmybogard/2007/12/03/dealing-with-primitive-obsession/)
+- [The type system is a programmer's best friend](https://dusted.codes/the-type-system-is-a-programmers-best-friend)
+- [Design Smell: Primitive Obsession by Mark Seemann](https://blog.ploeh.dk/2011/05/25/DesignSmellPrimitiveObsession/)
+- [From Primitive Obsession to Domain Modelling by Mark Seemann](https://blog.ploeh.dk/2015/01/19/from-primitive-obsession-to-domain-modelling/)
 ## 📺 Videos
 - [Treating Primitive Obsession with ValueObjects | DDD in .NET](https://www.youtube.com/watch?v=h4uldNA1JUE)
 

@@ -18,6 +18,8 @@
 - [Microservices 101: Transactional Outbox and Inbox](https://softwaremill.com/microservices-101/)
 - [Message delivery and deduplication strategies](https://softwaremill.com/message-delivery-and-deduplication-strategies/)
 - [How Postgres sequences issues can impact your messaging guarantees](https://event-driven.io/en/ordering_in_postgres_outbox/)
+- [How to get all messages through Postgres logical replication](https://event-driven.io/en/how_to_get_all_messages_through_postgres_logical_replication/)
+- [What happens if we lose some event(s) during transaction?](https://bozd4g.medium.com/what-happens-if-we-lose-some-events-during-transaction-607e7b08b77)
 ## 📺 Videos
 - [Reliably Save State & Publish Events (Outbox Pattern)](https://www.youtube.com/watch?v=u8fOnxAxKHk)
 - [CAP: Event Bus & Outbox Pattern](https://www.youtube.com/watch?v=dnhPzILvgeo)
@@ -32,8 +34,9 @@
 
 ## 📦 Libraries
 - [oskardudycz/PostgresOutboxPatternWithCDC.NET](https://github.com/oskardudycz/PostgresOutboxPatternWithCDC.NET) - PoC of doing Outbox Pattern with CDC and .NET
-
+- [cfrenzel/Eventfully](https://github.com/cfrenzel/Eventfully) - Lightweight Reliable Messaging Framework using Outbox Pattern / EFCore / AzureServiceBus
 ## 🚀 Samples
 - [joaofbantunes/PostgresChangeDataCaptureOutboxSample](https://github.com/joaofbantunes/PostgresChangeDataCaptureOutboxSample) - Tiny event driven sample application, using change data capture, via Npgsql, to help implement the outbox pattern
 - [seralaci/dotnet-microservices-data-exchange-with-outbox-pattern-debezium](https://github.com/seralaci/dotnet-microservices-data-exchange-with-outbox-pattern-debezium) - True Atomic Microservices Implementation with Debezium and Outbox Pattern to Ensure Data Consistency.
 - [oskardudycz/kafka-connect](https://github.com/oskardudycz/kafka-connect)
+- [bozd4g/FB.TransactionalOutbox](https://github.com/bozd4g/FB.TransactionalOutbox) - A sample Transactional Outbox Pattern implementation written with .NET Core.

@@ -8,6 +8,7 @@
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 ## 📕 Articles
 - [Kubernetes By Example](https://kubernetesbyexample.com/)
+- [Series: Deploying ASP.NET Core applications to Kubernetes](https://andrewlock.net/series/deploying-asp-net-core-applications-to-kubernetes/)
 - [Kubernetes & Traefik 101— When Simplicity Matters](https://medium.com/@geraldcroes/kubernetes-traefik-101-when-simplicity-matters-957eeede2cf8)
 - [Kubernetes on bare-metal in 10 minutes](https://blog.alexellis.io/kubernetes-in-10-minutes/)
 - [A Guide to the Kubernetes Networking Model](https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/)
@@ -32,6 +33,8 @@
 - [Writing .NET Application Services for Kubernetes](https://mikehadlow.com/posts/2022-06-24-writing-dotnet-services-for-kubernetes/)
 - [Fluentd vs. Fluent Bit: Side by Side Comparison](https://logz.io/blog/fluentd-vs-fluent-bit/)
 - [Modern Development Environments for Cloud Native Applications Using Gitpod and Okteto](https://www.okteto.com/blog/modern-development-environments-for-cloud-native-applications-using-gitpod-and-okteto/)
+- [Tools for working with Kubernetes](https://chris-ayers.com/2022/11/17/tools-for-working-with-kubernetes/)
+- [Using Canary Deployments in Kubernetes](https://earthly.dev/blog/canary-dep-in-k8s/)
 ## 📺 Videos
 - [Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]](https://www.youtube.com/watch?v=X48VuDVv0do)
 - [Kubernetes Daemonsets explained | Tutorial | Kubernetes Guide](https://www.youtube.com/watch?v=RGSeeN-o-kQ)
@@ -44,6 +47,9 @@
 - [Detect Kubernetes misconfigurations before its too late | Introduction to Datree](https://www.youtube.com/watch?v=aqiOyXPPadk)
 - [Kubernetes Liveness & Readiness Probes](https://www.youtube.com/watch?v=3TJRkKWuVoM)
 - [A Better Developer Experience With Gitpod & Okteto](https://www.youtube.com/watch?v=dgtuEgmsLoQ)
+- [the ULTIMATE kubernetes management tools comparison!](https://www.youtube.com/watch?v=R0HlJsugOAE)
+- [You MUST use these 6 Kubernetes Tools!!! (kubectx, kubens, kube-ps1, k9s, popeye, stern)](https://www.youtube.com/watch?v=xw3j4aNbHgQ)
+- [10 Must-Have Kubernetes Tools](https://www.youtube.com/watch?v=CB79eTFbR0w)
 ## 📦 Libraries
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
 - [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - SDK for building Kubernetes APIs using CRDs
@@ -71,6 +77,9 @@
 - [dassump/dotnet-appsettings-env](https://github.com/dassump/dotnet-appsettings-env) - Convert .NET appsettings.json file to Kubernetes, Docker and Docker-Compose environment variables.
 - [virtual-kubelet/virtual-kubelet](https://github.com/virtual-kubelet/virtual-kubelet) - Virtual Kubelet is an open source Kubernetes kubelet implementation.
 - [okteto/okteto](https://github.com/okteto/okteto/) - Develop your applications directly in your Kubernetes Cluster
+- [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
+- [ahmetb/kubectx](https://github.com/ahmetb/kubectx) - Faster way to switch between clusters and namespaces in kubectl
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes
 ## 🚀 Samples
 - [arashkaffamanesh/practical-kubernetes-problems](https://github.com/arashkaffamanesh/practical-kubernetes-problems) - For Kubernauts' Practical Kubernetes Trainings
 - [ContainerSolutions/kubernetes-examples](https://github.com/ContainerSolutions/kubernetes-examples) - Minimal self-contained examples of standard Kubernetes features and patterns in YAML
@@ -84,6 +93,9 @@
 - [vietnam-devs/coolstore-microservices/deploys](https://github.com/vietnam-devs/coolstore-microservices/tree/main/deploys)
 - [jtattermusch/grpc-loadbalancing-kubernetes-examples](https://github.com/jtattermusch/grpc-loadbalancing-kubernetes-examples) - gRPC Load Balancing on Kubernetes examples
 - [mikehadlow/NetOnKubernetes](https://github.com/mikehadlow/NetOnKubernetes) - Simple .NET http service example for hosting on Kubernetes.
+- [jxlwqq/kubernetes-examples](https://github.com/jxlwqq/kubernetes-examples) - Kubernetes  samples
+- [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
+- [fluxcd/flux2-kustomize-helm-example](https://github.com/fluxcd/flux2-kustomize-helm-example) - A GitOps workflow example for multi-env deployments with Flux, Kustomize and Helm.
 ## 📚 Books
 - [Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications](https://www.amazon.com/Kubernetes-Patterns-Designing-Cloud-Native-Applications/dp/1492050288)
 - [Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes](https://www.amazon.com/Kubernetes-Best-Practices-Blueprints-Applications/dp/1492056472/)

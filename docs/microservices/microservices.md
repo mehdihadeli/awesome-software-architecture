@@ -97,6 +97,7 @@
 - [Generating sortable Guids using NewId](https://andrewlock.net/generating-sortable-guids-using-newid/)
 - [Release Management for Microservices](https://semaphoreci.com/blog/release-management-microservices)
 - [Microservices to Async Processing Migration at Scale](https://www.infoq.com/articles/microservices-async-migration/)
+- [ViewModel Composition](https://milestone.topics.it/series/view-model-composition.html)
 ## 📺 Videos
 
 - [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) 
@@ -129,18 +130,6 @@
 - [Build Your First Microservice with .NET | Microservices Explained](https://www.youtube.com/watch?v=DFDbh1c9zyE)
 - [ASP.NET Community Standup - .NET Podcasts App Overview!](https://www.youtube.com/watch?v=TkIh_mmEw7c)
 - [Design Microservice Architectures the Right Way](https://www.youtube.com/watch?v=j6ow-UemzBc)
-- [Building FeedR - new microservices series with .NET6.0, episode #1](https://www.youtube.com/watch?v=spnBzawswik)
-- [Building FeedR - Tye, PM2, Docker (Microservices with .NET 6.0) episode #2](https://www.youtube.com/watch?v=DbUt_0E8TKo)
-- [Building FeedR - API Gateway with YARP (Microservices with .NET 6.0) episode #3](https://www.youtube.com/watch?v=jn0SFUennII)
-- [Building FeedR - Pricing Feed, Background Service, Channels (Microservices with .NET 6.0) episode #4](https://www.youtube.com/watch?v=87raSebE80M)
-- [Building FeedR - Redis Pub/Sub + IAsyncEnumerable streaming (Microservices with .NET 6.0) episode #5](https://www.youtube.com/watch?v=80Ke9hsG_RU)
-- [Building FeedR - gRPC streaming services & clients (Microservices with .NET 6.0) episode #6](https://www.youtube.com/watch?v=H6jew1qxQfQ)
-- [Building FeedR - resilient HTTP communication (Microservices with .NET 6.0) episode #7](https://www.youtube.com/watch?v=ujtuJ6kQ0Hw)
-- [Building FeedR - Message Broker template (Microservices with .NET 6.0) episode #8](https://www.youtube.com/watch?v=b_BBPrc2mYQ)
-- [Building FeedR - Apache Pulsar integration (Microservices with .NET 6.0) episode #9](https://www.youtube.com/watch?v=WB72UGqTDoY)
-- [Building FeedR - Message Correlation ID (Microservices with .NET 6.0) episode #10](https://www.youtube.com/watch?v=HXmOJR653FI)
-- [Async Web API testing with TaskCompletionSource (Microservices with .NET 6.0) - FeedR episode #11](https://www.youtube.com/watch?v=N-ofc345-58)
-- [Portainer microservices deployment (Microservices with .NET 6.0) - FeedR episode #12](https://www.youtube.com/watch?v=tBl422FiEBY)
 - [.NET Microservices Basics Course](https://www.youtube.com/watch?v=ByYyk8eMG6c)
 - [Building Event-Driven Microservices with Event Sourcing and CQRS - Lidan Hifi](https://www.youtube.com/watch?v=XWTrcBqXi6s)
 - [Light and Dark Side of the Event-Driven Design • Oskar Dudycz • Devoxx Poland 2021](https://www.youtube.com/watch?v=0pYmuk0-N_4)
@@ -151,8 +140,11 @@
 - [Microservices with .NET 6 and AWS Tutorial - Part 4](https://www.youtube.com/watch?v=wXNDuF4J6Uc)
 - [Shared Database between Services? Maybe!](https://www.youtube.com/watch?v=vwTwkPUcwNM)
 - [Microservices explained - the What, Why and How?](https://www.youtube.com/watch?v=rv4LlmLmVWk)
+- [Wolverine: Your Next Messaging Library](https://www.youtube.com/watch?v=EGwepoGG0CM)
+- [Mauro Servienti - Designing a UI for Microservices](https://www.youtube.com/watch?v=AxWGAiIg7_0)
+- [The HIDDEN Challenge of Microservices: UI Composition](https://www.youtube.com/watch?v=ILbjKR1FXoc)
+- [Mapping event type by convention](https://event-driven.io/en/how_to_map_event_type_by_convention/)
 ## 📦 Libraries
-
 - [rebus-org/Rebus](https://github.com/rebus-org/Rebus) - 🚌 Simple and lean service bus implementation for .NET
 - [dotnetcore/CAP](https://github.com/dotnetcore/CAP) - Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
 - [MassTransit/MassTransit](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET
@@ -167,10 +159,8 @@
 - [BookBeat/knightbus](https://github.com/BookBeat/knightbus) - Fast multi-transport messaging framework
 - [anliang11/surging](https://github.com/fanliang11/surging) - Surging is a micro-service engine that provides a lightweight, high-performance, modular RPC request pipeline. The service engine supports http, TCP, WS,Grpc, Thrift,Mqtt, UDP, and DNS protocols. It uses ZooKeeper and Consul as a registry, and integrates it. Hash, random, polling, Fair Polling as a load balancing algorithm,
 - [FamilyBucket](https://github.com/q315523275/FamilyBucket) - 集合.net core、ocelot、consul、netty、rpc、eventbus、configserver、tracing、sqlsugar、vue-admin、基础管理平台等构建的微服务一条龙应用
-- [snatch-dev/Convey](https://github.com/snatch-dev/Convey) - A simple recipe for .NET Core microservices.
 - [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer) - Progressive microservices framework for Node.js.
 - [networknt/light-4j](https://github.com/networknt/light-4j) - A fast, lightweight and more productive microservices framework
-- [mehdihadeli/MicroBootstrap](https://github.com/mehdihadeli/MicroBootstrap) - MicroBootstrap is a framework with many features for quickly and conveniently creating microservices on .NET Core.
 - [Raiffeisen-DGTL/ViennaNET](https://github.com/Raiffeisen-DGTL/ViennaNET) - Framework for quickly creating enterprise microservices on .NET Core
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
@@ -179,9 +169,10 @@
 - [NHadi/Dermayon](https://github.com/NHadi/Dermayon) - Dermayon is Library for supporting build large application,distributed application, scalable, microservices, cqrs, event sourcing, including generic ef repository pattern with unit of work, generic mongo repository pattern with unit of work, kafka, etc
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [Bullabs/Qitar](https://github.com/Bullabs/Qitar) - Domain Driven Design oriented application framework.
-- [devmentors/micro-framework](https://github.com/devmentors/micro-framework) - Micro framework is a set of helpful components for building the microservices applications.
-## 🚀 Samples
+- [JasperFx/wolverine](https://github.com/JasperFx/wolverine) - Next Generation .NET Command and Message Bus
+- [ServiceComposer/ServiceComposer.AspNetCore](https://github.com/ServiceComposer/ServiceComposer.AspNetCore) - ServiceComposer, a ViewModel Composition API Gateway
 
+## 🚀 Samples
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
 - [coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices) - A full-stack .NET microservices build on Dapr and Tye
 - [practical-dapr](https://github.com/thangchung/practical-dapr) - A full-stack .NET microservices build on Dapr and Tye
@@ -254,6 +245,10 @@
 - [pmorelli92/Orleans.Tournament](https://github.com/pmorelli92/Orleans.Tournament) - Orleans sample with clustering, implicit stream handling, authentication, authorization, websockets
 - [AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing](https://github.com/AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing) - A full-stack .NET 7 EDA solution
 - [markgossa/Reference-Event-Driven-Architecture](https://github.com/markgossa/Reference-Event-Driven-Architecture)
+- [AleksK1NG/Kotlin-Spring-gRPC-Microservice](https://github.com/AleksK1NG/Kotlin-Spring-gRPC-Microservice) - Kotlin Spring gRPC Microservice
+- [jeremydmiller/WolverinePresentation](https://github.com/jeremydmiller/WolverinePresentation) - Sample code and slide deck for my Wolverine talk for the JetBrains webinar
+- [mauroservienti/designing-a-ui-for-microservices-demos/](https://github.com/mauroservienti/designing-a-ui-for-microservices-demos/) - Demos and sample for my "Designing a UI for Microservices" talk
+- [oskardudycz/EventSourcing.NetCore/Sample/HotelManagement](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/HotelManagement)
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
 - [Building Microservices: Designing Fine-Grained Systems, 2nd Edition](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1492034029)
