@@ -64,6 +64,7 @@
 - [Experimenting with .NET 7, WASM, and WASI on Docker](https://laurentkempe.com/2022/10/31/experimenting-with-dotnet-7-wasm-and-wasi-on-docker/)
 - [Trying out the built-in container support for the .NET SDK](https://www.mytechramblings.com/posts/trying-out-the-built-in-container-support-for-the-dotnet-7-sdk/)
 - [Docker import/export vs. load/save](https://pspdfkit.com/blog/2019/docker-import-export-vs-load-save/)
+- [Publishing Images With GitHub Actions](https://www.kenmuse.com/blog/publishing-images-with-github-actions/)
 ## 📹 Videos
 - [Deploy a .NET Core API with Docker (Step-by-Step)](https://www.youtube.com/watch?v=f0lMGPB10bM)
 - [Docker Tutorial for Beginners [FULL COURSE in 3 Hours](https://www.youtube.com/watch?v=3c-iBn73dDE)

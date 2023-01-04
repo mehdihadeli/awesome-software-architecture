@@ -19,6 +19,26 @@
 - [ASP.NET Core integration tests with docker-compose on GitHub Actions](https://blog.joaograssi.com/posts/2020/asp-net-core-integration-tests-with-docker-compose-github-actions/)
 - [Setup Continuous Delivery with GitHub Actions](https://dev.to/github/setup-continuous-delivery-with-github-actions-4pea)
 - [From Zero to Production - Generate everything with a single button](https://steven-giesel.com/blogPost/5f9e9f0d-2413-4e4b-8e38-9eebe9503e52)
+- [Publishing Images With GitHub Actions](https://www.kenmuse.com/blog/publishing-images-with-github-actions/)
+- [Ubuntu 22.04.1 LTS GitHub action Installed Software](https://github.com/actions/runner-images/blob/main/images/linux/Ubuntu2204-Readme.md)
+- [Code Coverage in GitHub with .NET Core](https://samlearnsazure.blog/2021/01/05/code-coverage-in-github-with-net-core/)
+- [About GitHub-hosted runners](https://docs.github.com/en/actions/using-github-hosted-runners/about-github-hosted-runners)
+- [GitHub Actions: Publish Code Coverage Summary to Pull Requests](https://josh-ops.com/posts/github-code-coverage/)
+- [How To Build & Publish NuGet Packages With GitHub Actions](https://www.jamescroft.co.uk/how-to-build-publish-nuget-packages-with-github-actions/)
+- [Setting GitHub Actions Environment Variables In PowerShell](https://www.jamescroft.co.uk/how-to-build-publish-nuget-packages-with-github-actions/)
+- [Generating Code Coverage Reports in .NET Core](https://dotnetthoughts.net/generating-code-coverage-reports-in-dotnet-core/)
+- [Automated versioning and package publishing using GitHub Actions](https://dotnetthoughts.net/automated-versioning-and-package-publishing-using-github-actions/)
+- [Publish docker images to GitHub Container Registry (ghcr)](https://dotnetthoughts.net/publish-images-to-github-container-registry/)
+- [Creating a GitHub Composite Action](https://samlearnsazure.blog/2022/12/19/creating-a-github-composite-action/)
+- [Automatically generated release notes](https://docs.github.com/en/repositories/releasing-projects-on-github/automatically-generated-release-notes)
+- [How to automatically generate release notes for your project](https://dev.to/github/how-to-automatically-generate-release-notes-for-your-project-2ng8)
+- [GitHub actions example for automatic release drafts and changelog.md creation](https://johanneskonings.dev/github/2021/02/28/github_automatic_releases_and-changelog/)
+- [Stop writing your changelogs manually](https://tiagomichaelsousa.dev/articles/stop-writing-your-changelogs-manually)
+- [Git workflow with conventional commits and semantic auto release](https://gist.github.com/vtenq/7a93687108cb876f884c3ce75a8a8023) ⭐⭐
+- [Ship It! (How Wilco Does CI/CD)](https://www.trywilco.com/post/wilco-ci-cd-github-heroku) ⭐⭐
+- [New git guidelines: We have switched to Conventional Commits](https://dev.to/visuellverstehen/new-git-guidelines-we-have-switched-to-conventional-commits-1p0c)
+- [SEMANTIC BRANCH NAMES AND COMMIT MESSAGES IN GIT](https://dev-tips.com/git/semantic-branch-names-and-commit-messages-in-git)
+- [A Guide to Git(Hub) Flow and Commits](https://roalcantara.medium.com/a-guide-to-improve-the-git-hub-flow-and-commits-messages-b495461e1115) ⭐
 ## 📺 Videos
 - [Master GitHub Actions Tutorial - Playlist Cameron McKenzie](https://www.youtube.com/playlist?list=PL_RrEj88onS-um2xFy01sY46ik_2yt_EQ)
 - [Building Docker containers with GitHub Actions](https://www.youtube.com/watch?v=09lZdSpeHAk)
@@ -40,5 +60,24 @@
 - [Tyrrrz/GitHubActionsTestLogger](https://github.com/Tyrrrz/GitHubActionsTestLogger)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - Static checker for GitHub Actions workflow files
+- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to configure QEMU support
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
+- [irongut/CodeCoverageSummary](https://github.com/irongut/CodeCoverageSummary) - A GitHub Action that reads Cobertura format code coverage files and outputs a text or markdown summary
+- [zyborg/dotnet-tests-report](https://github.com/zyborg/dotnet-tests-report) - GitHub Action to run .NET Core tests and generate report attached to Workflow Run
+- [coverallsapp/github-action](https://github.com/coverallsapp/github-action) - Coveralls Github Action
+- [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action) - automated releases based on conventional commits
+- [bcoe/conventional-release-labels](https://github.com/bcoe/conventional-release-labels) - Apply labels for automatically generated release notes, based on conventionalcommits.org
+- [mithro/autolabeler](https://github.com/mithro/autolabeler) - Add labels to Pull Requests based on matched file patterns
+- [TimonVS/pr-labeler-action](https://github.com/TimonVS/pr-labeler-action) - Automatically labels your PRs based on branch name patterns like feature/* or fix/*.
+- [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests
+- [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects 🚀 auto bump versions ⬆️ and auto changelog generation 📂
+- [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - A GitHub Action that ensures that your PR title matches the Conventional Commits spec.
+- [vivaxy/vscode-conventional-commits](https://github.com/vivaxy/vscode-conventional-commits) - 💬Conventional Commits for VSCode.
+- [fuxingloh/multi-labeler](https://github.com/fuxingloh/multi-labeler) - Multi labeler for title, body, comments, commit messages, branch, author or files with automated status checks.
+- [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace
+- [devops-infra/action-pull-request](https://github.com/devops-infra/action-pull-request) - GitHub Action that will create a pull request from the current branch
 ## 🚀 Samples
 - [linkdotnet/deployment-template](https://github.com/linkdotnet/deployment-template/blob/main/.github/workflows)
+- [anuraj/MinimalApi](https://github.com/anuraj/MinimalApi) - ASP.NET Core 7.0 - Minimal API Example - Todo API implementation using ASP.NET Core Minimal API, Entity Framework Core, Token authentication, Versioning, Unit Testing, Integration Testing and Open API.
+- [abap-observability-tools/abap-log-exporter](https://github.com/abap-observability-tools/abap-log-exporter/tree/main/.github)
+- [atk4/data](https://github.com/atk4/data/tree/develop/.github)

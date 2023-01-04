@@ -1,7 +1,7 @@
 # Backend For Frontend (BFF)
 
 ## 📕 Articles
-- [Backends for Frontends pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/backends-for-frontends)
+- [Backends for Frontends pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/backends-for-frontends)
 - [The BFF Pattern (Backend for Frontend): An Introduction](https://blog.bitsrc.io/bff-pattern-backend-for-frontend-an-introduction-e4fa965128bf)
 - [SHARING DATA BETWEEN MODULES IN MODULAR MONOLITH](https://dev.to/lukaszreszke/sharing-data-between-modules-in-modular-monolith-50on)
 - [Pattern: Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
