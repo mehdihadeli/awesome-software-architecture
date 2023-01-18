@@ -21,6 +21,7 @@
 - [Orchestration](https://rafaelldi.blog/posts/orchestration/)
 - [Saga and Process Manager - distributed processes in practice](https://event-driven.io/en/saga_process_manager_distributed_transactions/)
 - [Saga patterns: wrap up - Jimmy Bogard](https://lostechies.com/jimmybogard/2013/05/14/saga-patterns-wrap-up/)
+- [Handling Complexity: Using Sagas to Provide Transactional Support for Distributed Systems](https://medium.com/ssense-tech/handling-complexity-using-sagas-to-provide-transactional-support-for-distributed-systems-61ae909e0829) ⭐
 ## 📺 Videos
 - [Life Beyond Distributed Transactions: An Apostate's Implementation - Jimmy Bogard](https://www.youtube.com/watch?v=AUrKofVRHV4)
 - [Fixing Distributed Systems Fail with Jimmy Bogard](https://www.youtube.com/watch?v=p0M1rrmfrWg)

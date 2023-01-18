@@ -12,3 +12,5 @@
 - [Circuit Breaker Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker)
 - [Throttling Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/throttling)
 - [Queue-Based Load Leveling Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/queue-based-load-leveling)
+- [Improving Microservices Availability](https://www.ledjonbehluli.com/posts/improving_microservices_availability/)
+- [Improving Monolith's Availability](https://www.ledjonbehluli.com/posts/improving_monoliths_availability/)

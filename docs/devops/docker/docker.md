@@ -12,10 +12,10 @@
 - [Understanding How the Docker Daemon and Docker CLI Work Together](https://nickjanetakis.com/blog/understanding-how-the-docker-daemon-and-docker-cli-work-together)
 - [How to build and push Docker image with GitHub actions?](https://event-driven.io/en/how_to_buid_and_push_docker_image_with_github_actions/)
 - [Docker Tip #73: Connecting to a Remote Docker Daemon](https://nickjanetakis.com/blog/docker-tip-73-connecting-to-a-remote-docker-daemon)
-- [How to build an optimal Docker image for your application?](https://event-driven.io/en/how_to_buid_an_optimal_docker_image_for_your_application/)
-- [Optimising ASP.NET Core apps in Docker - avoiding manually copying csproj files](https://andrewlock.net/optimising-asp-net-core-apps-in-docker-avoiding-manually-copying-csproj-files/)
-- [Exploring the .NET Core Docker files: dotnet vs aspnetcore vs aspnetcore-build](https://andrewlock.net/exploring-the-net-core-docker-files-dotnet-vs-aspnetcore-vs-aspnetcore-build/)
-- [Exploring the .NET Core 2.1 Docker files (updated): dotnet:runtime vs aspnetcore-runtime vs sdk](https://andrewlock.net/exploring-the-net-core-2-1-docker-files-dotnet-runtime-vs-aspnetcore-runtime-vs-sdk/)
+- [How to build an optimal Docker image for your application?](https://event-driven.io/en/how_to_buid_an_optimal_docker_image_for_your_application/) ⭐
+- [Optimising ASP.NET Core apps in Docker - avoiding manually copying csproj files](https://andrewlock.net/optimising-asp-net-core-apps-in-docker-avoiding-manually-copying-csproj-files/) ⭐
+- [Exploring the .NET Core Docker files: dotnet vs aspnetcore vs aspnetcore-build](https://andrewlock.net/exploring-the-net-core-docker-files-dotnet-vs-aspnetcore-vs-aspnetcore-build/) ⭐
+- [Exploring the .NET Core 2.1 Docker files (updated): dotnet:runtime vs aspnetcore-runtime vs sdk](https://andrewlock.net/exploring-the-net-core-2-1-docker-files-dotnet-runtime-vs-aspnetcore-runtime-vs-sdk/) ⭐
 - [Building ASP.NET Core apps using Cake in Docker](https://andrewlock.net/building-asp-net-core-apps-using-cake-in-docker/)
 - [Using Docker Hub to automatically build a Docker image for ASP.NET Core apps](https://andrewlock.net/using-docker-hub-to-automatically-build-a-docker-image-for-asp-net-core-apps/)
 - [DOCKER FOR .NET DEVELOPERS (PART 1)](https://www.stevejgordon.co.uk/docker-dotnet-developers-part-1)
@@ -65,6 +65,9 @@
 - [Trying out the built-in container support for the .NET SDK](https://www.mytechramblings.com/posts/trying-out-the-built-in-container-support-for-the-dotnet-7-sdk/)
 - [Docker import/export vs. load/save](https://pspdfkit.com/blog/2019/docker-import-export-vs-load-save/)
 - [Publishing Images With GitHub Actions](https://www.kenmuse.com/blog/publishing-images-with-github-actions/)
+- [Creating a generalised Docker image for building ASP.NET Core apps using ONBUILD](https://andrewlock.net/creating-a-generalised-docker-image-for-building-asp-net-core-apps-using-onbuild/) ⭐
+- [Optimizing your .NET Core Docker image size with multi-stage builds](https://medium.com/@chrislewisdev/optimizing-your-net-core-docker-image-size-with-multi-stage-builds-778c577121d) ⭐
+- [Multi-stage builds](https://docs.docker.com/build/building/multi-stage/) ⭐⭐
 ## 📹 Videos
 - [Deploy a .NET Core API with Docker (Step-by-Step)](https://www.youtube.com/watch?v=f0lMGPB10bM)
 - [Docker Tutorial for Beginners [FULL COURSE in 3 Hours](https://www.youtube.com/watch?v=3c-iBn73dDE)

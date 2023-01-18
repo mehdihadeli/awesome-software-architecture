@@ -47,7 +47,7 @@
 - [Microservices to Async Processing Migration at Scale](https://www.infoq.com/articles/microservices-async-migration/)
 - [How events can help in making the state-based approach efficient](https://event-driven.io/en/how_events_can_help_on_making_state_based_approach_efficient/)
 - [Mapping event type by convention](https://event-driven.io/en/how_to_map_event_type_by_convention/)
-
+- [Understanding Coupling with Event-Driven Architecture](https://medium.com/ssense-tech/understanding-coupling-with-event-driven-architecture-a6b3561b7227)
 
 ## 📺 Videos
 - [Event-Driven Architecture | EDA | Software Architectural Patterns](https://www.youtube.com/watch?v=gIL8rW_eyww&t=0s) 

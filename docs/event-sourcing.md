@@ -143,8 +143,10 @@
 - [Testing business logic in Event Sourcing, and beyond!](https://event-driven.io/en/testing_event_sourcing/)
 - [Testing an Event Sourced Aggregate Root](https://buildplease.com/pages/fpc-13/)
 - [An Executable Specification](https://buildplease.com/pages/fpc-14/)
-- [Event Sourcing explained](https://itnext.io/event-sourcing-explained-b19ccaa93ae4)
+- [Event Sourcing explained](https://itnext.io/event-sourcing-explained-b19ccaa93ae4) ⭐
 - [Essential features of an Event Store for Event Sourcing](https://itnext.io/essential-features-of-an-event-store-for-event-sourcing-13e61ca4d066)
+- [Event Sourcing Part I: Understanding what it is, core components, and common misconceptions](https://medium.com/ssense-tech/event-sourcing-part-i-understanding-what-it-is-core-components-and-common-misconceptions-5dec65f6d61)
+- [Event Sourcing Part II: Implementing an end-to-end solution](https://medium.com/ssense-tech/event-sourcing-part-ii-implementing-an-end-to-end-solution-68b7dbefe89)
 ## 📺 Videos
 - [Event Sourcing Playlist - CodeOpinion](https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ)
 - [Event Sourcing Example & Explained in plain English](https://www.youtube.com/watch?v=AUj4M-st3ic)
@@ -196,7 +198,7 @@
 - [DDD as Low-Code](https://www.youtube.com/watch?v=yohu6qx8-dU)
 - [Introduction to Event Sourcing by Alexey Zimarev](https://www.youtube.com/watch?v=VeZZ2UZMDYo)
 - [The power of transient state in Event Sourcing](https://www.youtube.com/watch?v=XoWEQ_39Mcg)
-
+- [Let's build event store in one hour! - Oskar Dudycz - NDC Oslo 2022](https://www.youtube.com/watch?v=gaoZdtQSOTo)
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET

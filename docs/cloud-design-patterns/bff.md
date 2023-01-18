@@ -12,7 +12,7 @@
 - [Web App Security, Understanding the Meaning of the BFF Pattern](https://dev.to/damikun/web-app-security-understanding-the-meaning-of-the-bff-pattern-i85)
 - [Scaffold a Duende BFF with React and Vite into Any .NET 6 Project](https://wrapt.dev/blog/scaffolding-duende-bff-with-react)
 - [Using Duende BFF with React](https://wrapt.dev/blog/using-duende-bff-with-react)
-
+- [Creating a Standalone Duende BFF for any SPA](https://wrapt.dev/blog/standalone-duende-bff-for-any-spa)
 ## 📺 Videos
 - [Backends For Frontends Pattern - Cloud Design Patterns - BFF Pattern](https://www.youtube.com/watch?v=wgD9t3R3x-w)
 - [The Backend For Frontend Pattern](https://www.youtube.com/watch?v=zazeGmFmUxg)
@@ -31,3 +31,4 @@
 - [thangchung/bff-auth](https://github.com/thangchung/bff-auth) - The demonstration of modern authentication using BFF pattern
 - [davidfowl/TodoApi](https://github.com/davidfowl/TodoApi) - ASP.NET Core API with JWT authentication and authorization
 - [pdevito3/bff-example-craftsman-v0_14](https://github.com/pdevito3/bff-example-craftsman-v0_14)
+- [pdevito3/StandaloneBffExample](https://github.com/pdevito3/StandaloneBffExample) - This is the example report for the standalone Duende BFF for my blog post

@@ -2,6 +2,7 @@
 
 ### 📕Articles
 - [Developing APIs using Actor model in ASP.NET Core](https://dev.to/samueleresca/developing-apis-using-actor-model-in-aspnet-core-2oh2)
+- [Microsoft Orleans - Problems & Solutions](https://www.ledjonbehluli.com/posts/orleans_problems_and_solutions/)
 
 ## 📹 Videos
 

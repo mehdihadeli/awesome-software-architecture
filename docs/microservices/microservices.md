@@ -98,6 +98,7 @@
 - [Release Management for Microservices](https://semaphoreci.com/blog/release-management-microservices)
 - [Microservices to Async Processing Migration at Scale](https://www.infoq.com/articles/microservices-async-migration/)
 - [ViewModel Composition](https://milestone.topics.it/series/view-model-composition.html)
+- [Improving Microservices Availability](https://www.ledjonbehluli.com/posts/improving_microservices_availability/)
 ## 📺 Videos
 
 - [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) 

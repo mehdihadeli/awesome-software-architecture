@@ -17,6 +17,10 @@
 - [[ Kube 64 ] How to set up a local Helm chart repository](https://www.youtube.com/watch?v=hSk_r-CCvLE)
 - [Building Helm Charts From the Ground Up: An Introduction to Kubernetes [I] - Amy Chen, Heptio](https://www.youtube.com/watch?v=vQX5nokoqrQ)
 - [Helm Mini Course Part 1](https://www.youtube.com/watch?v=x77NzZxj670)
+
+## Tools
+- [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
+
 ## 🚀 Samples
 - [kimcu-on-thenet/dnc-k8s-helm](https://github.com/kimcu-on-thenet/dnc-k8s-helm) - An extremely simple .NET Core web api within EntityFrameworkCore which will be deployed in k8s by both kubectl and helm
 - [okteto/movies-with-helm](https://github.com/okteto/movies-with-helm) - Movies App deployed with Helm

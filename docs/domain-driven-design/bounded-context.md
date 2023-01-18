@@ -11,6 +11,7 @@
 - [Bounded Context Canvas V3: Simplifications and Additions](https://medium.com/nick-tune-tech-strategy-blog/bounded-context-canvas-v2-simplifications-and-additions-229ed35f825f)
 - [Practical DDD: Bounded Contexts + Events => Microservices](https://www.infoq.com/presentations/microservices-ddd-bounded-contexts/)
 - [DDD Strategic Patterns: How To Define Bounded Contexts](https://codeburst.io/ddd-strategic-patterns-how-to-define-bounded-contexts-2dc70927976e)
+- [DDD Beyond the Basics: Mastering Multi-Bounded Context Integration](https://medium.com/ssense-tech/ddd-beyond-the-basics-mastering-multi-bounded-context-integration-ca0c7cec6561) ⭐
 ## 📺 Videos
 - [Practical DDD: Bounded Contexts + Events - Microservices, with Indu Alagarsamy](https://www.youtube.com/watch?v=W15v6DSwOEk)
 - [Practical DDD: Bounded Contexts + Events = Microservices](https://www.youtube.com/watch?v=Ab5-ebHja3o)
