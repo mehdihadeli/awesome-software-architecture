@@ -90,3 +90,7 @@
 - [Building Event-Driven Microservices: Leveraging Organizational Data at Scale](https://www.amazon.com/Building-Event-Driven-Microservices-Leveraging-Organizational/dp/1492057894)
 - [Flow Architectures: The Future of Streaming and Event-Driven Integration](https://www.amazon.com/Flow-Architectures-Streaming-Event-Driven-Integration/dp/1492075892/)
 - [Practical Event-Driven Microservices Architecture: Building Sustainable and Highly Scalable Event-Driven Microservices](https://www.amazon.com/Practical-Event-Driven-Microservices-Architecture-Sustainable/dp/1484274679/)
+
+## 🚀 Samples
+
+- [AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing](https://github.com/AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing) - The main objective of this cloud-native project is to represent the state of the art of a distributed, reliable, and highly scalable system by interpreting the most relevant principles of Reactive Domain Driven Design.
