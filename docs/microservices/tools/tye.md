@@ -30,4 +30,3 @@
 - [dotnet/tye/tree/main/samples](https://github.com/dotnet/tye/tree/main/samples)
 - [vietnam-devs/coolstore-microservices/tye.yaml](https://github.com/vietnam-devs/coolstore-microservices/blob/main/tye.yaml)
 - [thangchung/clean-architecture-dotnet/tye.yaml](https://github.com/thangchung/clean-architecture-dotnet/blob/main/samples/tye.yaml)
-- [devmentors/FeedR/tye.yml](https://github.com/devmentors/FeedR/blob/master/tye.yml)

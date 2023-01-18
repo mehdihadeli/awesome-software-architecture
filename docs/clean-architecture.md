@@ -119,7 +119,6 @@
 - [iancooper/CA-Tutorial](https://github.com/iancooper/CA-Tutorial) - Implementing the Clean Architecture in .NET
 - [dimatrubca/book-exchange-app](https://github.com/dimatrubca/book-exchange-app) - BookExchangeApp is a fully functioning application that allows users to exchange books, earn and buy points, and receive recomendations based on the rated books
 - [fullstackhero/dotnet-webapi-boilerplate](https://github.com/fullstackhero/dotnet-webapi-boilerplate) - .NET WebAPI Boilerplate Template built with .NET 6.0. Incorporates the most essential Packages your projects will ever need. Follows Clean Architecture Principles.
-- [devmentors/PackIT](https://github.com/devmentors/PackIT) - PackIT is simple "packing list app" built on top of clean architecture and CQRS.
 - [TanvirArjel/CleanArchitecture](https://github.com/TanvirArjel/CleanArchitecture) - This repository contains the implementation of domain-driven design and clear architecture in ASP.NET Core.
 - [andresantarosa/CleanArchitectureExample](https://github.com/andresantarosa/CleanArchitectureExample) - CleanArchitectureExample Project
 - [referbruv/ContainerNinja.CleanArchitecture](https://github.com/referbruv/ContainerNinja.CleanArchitecture) - ContainerNinja is a boilerplate template project to demonstrate building a multi-container Full Stack application with ASP.NET Core (.NET 6) Web API following Clean Architecture, and Angular.
