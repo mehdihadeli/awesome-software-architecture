@@ -68,6 +68,7 @@
 - [Creating a generalised Docker image for building ASP.NET Core apps using ONBUILD](https://andrewlock.net/creating-a-generalised-docker-image-for-building-asp-net-core-apps-using-onbuild/) ⭐
 - [Optimizing your .NET Core Docker image size with multi-stage builds](https://medium.com/@chrislewisdev/optimizing-your-net-core-docker-image-size-with-multi-stage-builds-778c577121d) ⭐
 - [Multi-stage builds](https://docs.docker.com/build/building/multi-stage/) ⭐⭐
+- [Docker Tutorial – Introduction & Getting Started With Docker](https://spacelift.io/blog/docker-tutorial)
 ## 📹 Videos
 - [Deploy a .NET Core API with Docker (Step-by-Step)](https://www.youtube.com/watch?v=f0lMGPB10bM)
 - [Docker Tutorial for Beginners [FULL COURSE in 3 Hours](https://www.youtube.com/watch?v=3c-iBn73dDE)
