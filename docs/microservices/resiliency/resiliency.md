@@ -33,6 +33,11 @@
 - [Improve resilience in the .NET applications](https://medium.com/@emanuele.bucarelli/improve-resilience-in-the-net-application-80adda2c7710)
 - [Build Resilient Microservices (Web API) using Polly in ASP.NET Core](https://procodeguide.com/programming/polly-in-aspnet-core/)
 - [Strategies to Handle Transient Faults in Web APIs](https://www.dotnetnakama.com/blog/strategies-to-handle-transient-faults-in-web-apis/)
+- [Best practices with HttpClient and Retry Policies with Polly in .NET Core 2, Part 1](http://anthonygiretti.com/2019/03/26/best-practices-with-httpclient-and-retry-policies-with-polly-in-net-core-2-part-1/)
+- [Best practices with HttpClient and Retry Policies with Polly in .NET Core 2, Part 2](https://anthonygiretti.com/2019/03/26/best-practices-with-httpclient-and-retry-policies-with-polly-in-net-core-2-part-2/)
+- [WORKING WITH POLLY – USING THE CONTEXT TO OBTAIN THE RETRY COUNT FOR DIAGNOSTICS](https://www.stevejgordon.co.uk/polly-using-context-to-obtain-retry-count-diagnostics)
+- [gRPC & ASP.NET Core 3.1: Resiliency with Polly](https://anthonygiretti.com/2020/03/31/grpc-asp-net-core-3-1-resiliency-with-polly/)
+- [ASP.NET Core 6: Handling gRPC exception correctly server side](https://anthonygiretti.com/2022/08/28/asp-net-core-6-handling-grpc-exception-correctly-server-side/)
 ## 📺 Videos
 - [Handling Failures in Message Driven Architecture](https://www.youtube.com/watch?v=SesEYHGhlLQ)
 - [Make your microservice resilient with Polly's Circuit Breaker | .NET Core](https://www.youtube.com/watch?v=JljTcjt798c)

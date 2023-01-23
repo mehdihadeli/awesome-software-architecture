@@ -5,6 +5,7 @@
 - [GuillaumeFalourd/useful-actions](https://github.com/GuillaumeFalourd/useful-actions) - Curated list of useful Github actions with workflows examples 💡
 - [28 Days of GitHub Action Tips](https://dev.to/github/28-days-of-github-action-tips-4opg)
 - [28 Days of GitHub: Automating and Improving Your Workflow Series' Articles](https://dev.to/blackgirlbytes/series/16662)
+
 ## 📝 Articles
 - [.NET 💜 GitHub Actions](https://devblogs.microsoft.com/dotnet/dotnet-loves-github-actions/)
 - [Automate Azure AD B2C policies release with GitHub Actions](https://daniel-krzyczkowski.github.io/Automate-Azure-AD-B2C-policies-release-with-GitHub-Actions/)
@@ -52,7 +53,7 @@
 - [Build a .NET web app using GitHub Actions](https://learn.microsoft.com/en-us/dotnet/architecture/devops-for-aspnet-developers/actions-build) ⭐⭐
 - [Deploy a .NET web app using GitHub Actions](https://learn.microsoft.com/en-us/dotnet/architecture/devops-for-aspnet-developers/actions-deploy) ⭐⭐
 - [Deployment with GitHub Actions: The Bad and the Ugly](https://colinsalmcorner.com/deployment-with-github-actions/) ⭐
-- [usings on GitHub Actions Reusable Workflows](https://colinsalmcorner.com/musings-on-reusable-workflows/) ⭐
+- [usings on GitHub Actions Reusable Workflows](https://colinsalmcorner.com/musings-on-reusable-workflows/) ⭐⭐⭐
 - [GitHub Composite Actions](https://colinsalmcorner.com/github-composite-actions/) ⭐
 - [Building and testing .NET](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-net) ⭐⭐
 - [How To Use GitHub Actions for Deployments When Following Trunk-Based Development](https://blog.jannikwempe.com/github-actions-trunk-based-development)
@@ -63,13 +64,21 @@
 - [Assigning permissions to jobs - GitHub Actions Docs](https://docs.github.com/en/actions/using-jobs/assigning-permissions-to-jobs)
 - [About Workflows - GitHub Action Docs](https://docs.github.com/en/actions/using-workflows/about-workflows)
 - [Workflow syntax for GitHub Actions - GitHub Action Docs](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
+- [Events that trigger workflows - GitHub Actions Docs](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows) ⭐
 - [Workflow commands for GitHub Actions - GitHub Action Docs](https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions) 
 - [Steps Context - GitHub Actions Docs](https://docs.github.com/en/actions/learn-github-actions/contexts)
 - [Expressions - GitHub Action Docs](https://docs.github.com/en/actions/learn-github-actions/expressions)
 - [Series: Creating my first GitHub app with Probot](https://andrewlock.net/series/creating-my-first-github-app-with-probot/) ⭐
+- [How to set env parameters conditionally in GitHub Actions](https://dev.to/ku6ryo/how-to-set-env-parameters-conditionally-in-github-actions-1g6a) ⭐
+- [Advanced GitHub Actions - Conditional Workflow ❓](https://hungvu.tech/advanced-github-actions-conditional-workflow) ⭐
+- [Choose environment from branch in GitHub action](https://www.codewrecks.com/post/github/choose-environment-from-branch/) ⭐⭐
+- [A Deep Dive into GitHub Actions’ Reusable Workflows](https://betterprogramming.pub/how-to-use-github-actions-reusable-workflow-8604e8cbf258) ⭐
+- [GitHub Actions: reusable workflows is generally available](https://github.blog/2021-11-29-github-actions-reusable-workflows-is-generally-available/)
+
 ## 📺 Videos
 - [Master GitHub Actions Tutorial - Playlist Cameron McKenzie](https://www.youtube.com/playlist?list=PL_RrEj88onS-um2xFy01sY46ik_2yt_EQ)
 - [Building Docker containers with GitHub Actions](https://www.youtube.com/watch?v=09lZdSpeHAk)
+
 ## 📦 Libraries
 - [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance
 - [xoofx/dotnet-releaser](https://github.com/xoofx/dotnet-releaser) - Easily build, run tests and coverage, cross-compile, package and publish your .NET library or application to NuGet and GitHub.
@@ -113,9 +122,11 @@
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing
 - [semantic-release/exec](https://github.com/semantic-release/exec) - semantic-release plugin to execute custom shell commands
 - [semantic-release/git](https://github.com/semantic-release/git) - semantic-release plugin to commit release assets to the project's git repository
+- [felipecrs/semantic-release-export-data](https://github.com/felipecrs/semantic-release-export-data) - semantic-release plugin to export variables like the next release version
 - [cake-build/cake-action](https://github.com/cake-build/cake-action) Run Cake (C# Make) scripts in your GitHub Actions workflows.
 - [wei/pull](https://github.com/wei/pull) - Keep your forks up-to-date via automated PRs
-
+- [vimtor/action-zip](https://github.com/vimtor/action-zip) - Action for zipping files easily
+- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to GitHub with GitHub Actions for the 80% use case.
 ## 🚀 Samples
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows ⭐⭐
 - [linkdotnet/deployment-template](https://github.com/linkdotnet/deployment-template/blob/main/.github/workflows)
@@ -123,3 +134,5 @@
 - [testcontainers/testcontainers-dotnet](https://github.com/testcontainers/testcontainers-dotnet) ⭐
 - [giraffe-fsharp/Giraffe](https://github.com/giraffe-fsharp/Giraffe/blob/master/.github/workflows/build.yml)
 - [AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing](https://github.com/AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing/tree/release/.github/workflows)
+- [colindembovsky/dotnet-actions-v-pipelines](https://github.com/colindembovsky/dotnet-actions-v-pipelines)
+- [wenqiglantz/reusable-workflows-modules](https://github.com/wenqiglantz/reusable-workflows-modules) ⭐

@@ -147,6 +147,7 @@
 - [Essential features of an Event Store for Event Sourcing](https://itnext.io/essential-features-of-an-event-store-for-event-sourcing-13e61ca4d066)
 - [Event Sourcing Part I: Understanding what it is, core components, and common misconceptions](https://medium.com/ssense-tech/event-sourcing-part-i-understanding-what-it-is-core-components-and-common-misconceptions-5dec65f6d61)
 - [Event Sourcing Part II: Implementing an end-to-end solution](https://medium.com/ssense-tech/event-sourcing-part-ii-implementing-an-end-to-end-solution-68b7dbefe89)
+- [Guide to Projections and Read Models in Event Driven Architecture](https://event-driven.io/en/projections_and_read_models_in_event_driven_architecture/) ⭐
 ## 📺 Videos
 - [Event Sourcing Playlist - CodeOpinion](https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ)
 - [Event Sourcing Example & Explained in plain English](https://www.youtube.com/watch?v=AUj4M-st3ic)
