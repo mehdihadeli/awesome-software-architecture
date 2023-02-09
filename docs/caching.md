@@ -44,6 +44,8 @@
 - [Caching Architectures | Microservices Caching Patterns | System Design Primer | Tech Primers](https://www.youtube.com/watch?v=0x-ZV_vP73k)
 - [Redis Crash Course](https://www.youtube.com/watch?v=jgpVdJB2sKQ)
 - [Redis Stack: The Complete Redis for All Developers](https://www.youtube.com/watch?v=9JeAu--liMk)
+- [Redis for .NET Developers](https://university.redis.com/courses/ru102n/) ⭐
+
 ## Use Cases
 - [Case Studies](https://redislabs.com/case-studies/)
 - [5 Industry Use Cases for Redis Developers](https://redislabs.com/blog/5-industry-use-cases-for-redis-developers/)

@@ -200,6 +200,8 @@
 - [Introduction to Event Sourcing by Alexey Zimarev](https://www.youtube.com/watch?v=VeZZ2UZMDYo)
 - [The power of transient state in Event Sourcing](https://www.youtube.com/watch?v=XoWEQ_39Mcg)
 - [Let's build event store in one hour! - Oskar Dudycz - NDC Oslo 2022](https://www.youtube.com/watch?v=gaoZdtQSOTo)
+- [Event Sourcing in 1 Hour with Marten in .NET](https://www.youtube.com/watch?v=yWpuUHXLhYg)
+
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
 - [EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET

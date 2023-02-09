@@ -117,6 +117,8 @@
 - [Avoiding a QUEUE Backlog Disaster with Backpressure & Flow Control](https://www.youtube.com/watch?v=BIGiLJJlE08)
 - [Avoiding Batch Jobs by a message in the FUTURE](https://www.youtube.com/watch?v=zWgqj2OEKX8)
 - [Wolverine: Your Next Messaging Library](https://www.youtube.com/watch?v=EGwepoGG0CM)
+- [Clean Message Bus Consumers with MediatR in .NET](https://www.youtube.com/watch?v=wnqBmv1RJNE)
+
 ## 📦 Libraries
 
 - [Enexure.MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - MicroBus is a simple in process Mediator for .NET

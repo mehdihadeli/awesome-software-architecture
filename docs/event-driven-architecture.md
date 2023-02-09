@@ -1,6 +1,10 @@
 
 # Event Driven Architecture
 
+# Resources
+- [EDA VISUALS Blog](https://eda-visuals.boyney.io/)
+- [event-driven.io Blog](event-driven.io/en/)
+
 ## 📕 Articles
 - [Event-driven architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/event-driven)
 - [Event-Driven Architecture](https://herbertograca.com/2017/10/05/event-driven-architecture/) 
@@ -48,7 +52,7 @@
 - [How events can help in making the state-based approach efficient](https://event-driven.io/en/how_events_can_help_on_making_state_based_approach_efficient/)
 - [Mapping event type by convention](https://event-driven.io/en/how_to_map_event_type_by_convention/)
 - [Understanding Coupling with Event-Driven Architecture](https://medium.com/ssense-tech/understanding-coupling-with-event-driven-architecture-a6b3561b7227)
-
+- [DOCUMENT YOUR EVENT-DRIVEN ARCHITECTURE](https://eda-visuals.boyney.io/designs/document-event-driven-architectures)
 ## 📺 Videos
 - [Event-Driven Architecture | EDA | Software Architectural Patterns](https://www.youtube.com/watch?v=gIL8rW_eyww&t=0s) 
 - [Events on the outside, on the inside and at the core](https://www.youtube.com/watch?v=rP-InttAbVY)

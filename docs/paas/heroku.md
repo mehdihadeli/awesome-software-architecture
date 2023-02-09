@@ -17,6 +17,9 @@
 - [Heroku: How to push different local Git branches to Heroku/master](https://stackoverflow.com/questions/2971550/heroku-how-to-push-different-local-git-branches-to-heroku-master)
 - [Deploying with Git](https://devcenter.heroku.com/articles/git)
 - [Deploy a PostgreSQL Database on Heroku](https://catalins.tech/heroku-postgres)
+- [Deploying Spring Boot Apps to Heroku using Docker](https://toedter.com/2016/11/05/deploying-spring-boot-apps-to-heroku-using-docker/) ⭐
+- [Deploying .NET Core to Heroku](https://dev.to/alrobilliard/deploying-net-core-to-heroku-1lfe) ⭐
+
 ## 📹 Videos
 - [Deploy Asp.Net Core Website on Heroku using Docker](https://www.youtube.com/watch?v=gQMT4al2Grg)
 

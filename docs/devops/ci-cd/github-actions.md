@@ -5,6 +5,7 @@
 - [GuillaumeFalourd/useful-actions](https://github.com/GuillaumeFalourd/useful-actions) - Curated list of useful Github actions with workflows examples 💡
 - [28 Days of GitHub Action Tips](https://dev.to/github/28-days-of-github-action-tips-4opg)
 - [28 Days of GitHub: Automating and Improving Your Workflow Series' Articles](https://dev.to/blackgirlbytes/series/16662)
+- [GuillaumeFalourd/useful-actions](https://github.com/GuillaumeFalourd/useful-actions) - Curated list of useful Github actions with workflows examples
 
 ## 📝 Articles
 - [.NET 💜 GitHub Actions](https://devblogs.microsoft.com/dotnet/dotnet-loves-github-actions/)
@@ -74,6 +75,18 @@
 - [Choose environment from branch in GitHub action](https://www.codewrecks.com/post/github/choose-environment-from-branch/) ⭐⭐
 - [A Deep Dive into GitHub Actions’ Reusable Workflows](https://betterprogramming.pub/how-to-use-github-actions-reusable-workflow-8604e8cbf258) ⭐
 - [GitHub Actions: reusable workflows is generally available](https://github.blog/2021-11-29-github-actions-reusable-workflows-is-generally-available/)
+- [Configuration options for the dependabot.yml file](https://docs.github.com/en/code-security/dependabot/dependabot-version-updates/) ⭐
+- [Let's code a reusable workflow for building state-of-the-art, multi-platform Docker images with GitHub Actions](https://blog.derlin.ch/github-actions-reusable-workflow-docker-images) ⭐
+- [checkout@v2 not getting recent commits](https://github.com/actions/checkout/issues/439)
+- [Creating a composite action](https://docs.github.com/en/actions/creating-actions/creating-a-composite-action)
+- [Metadata syntax for GitHub Actions](https://docs.github.com/en/actions/creating-actions/metadata-syntax-for-github-actions) ⭐
+- [DRYing out Github Actions - Strategies for minimizing repetition in your workflows](https://technology.doximity.com/articles/drying-out-github-actions)
+- [GitHub Actions: Input types for manual workflows](https://github.blog/changelog/2021-11-10-github-actions-input-types-for-manual-workflows/)
+- [Using Composite Actions with GitHub Actions](https://doug.sh/posts/using-composite-actions-with-github-actions/)
+- [Using Composite GitHub Actions to make your Workflows smaller and more reusable](https://wallis.dev/blog/composite-github-actions) ⭐
+- [How to start using reusable workflows with GitHub Actions](https://github.blog/2022-02-10-using-reusable-workflows-github-actions/) ⭐
+- [The GITHUB_TOKEN in GitHub Actions: How it Works, Change Permissions, Customizations](https://dev.to/github/the-githubtoken-in-github-actions-how-it-works-change-permissions-customizations-3cgp) ⭐
+- [Managing GitHub Actions settings for a repository](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-github-actions-settings-for-a-repository) 
 
 ## 📺 Videos
 - [Master GitHub Actions Tutorial - Playlist Cameron McKenzie](https://www.youtube.com/playlist?list=PL_RrEj88onS-um2xFy01sY46ik_2yt_EQ)
@@ -127,6 +140,13 @@
 - [wei/pull](https://github.com/wei/pull) - Keep your forks up-to-date via automated PRs
 - [vimtor/action-zip](https://github.com/vimtor/action-zip) - Action for zipping files easily
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to GitHub with GitHub Actions for the 80% use case.
+- [PaulHatch/semantic-version](https://github.com/PaulHatch/semantic-version) - A GitHub Action to generate semantic version from a git repository's commit history ⭐
+- [styfle/cancel-workflow-action](https://github.com/styfle/cancel-workflow-action) - GitHub Action to cancel previous running workflows on push
+- [step-security/secure-workflows](https://github.com/step-security/secure-workflows) - Secure GitHub Actions CI/CD workflows via automated remediations
+- [dawidd6/action-download-artifact](https://github.com/dawidd6/action-download-artifact) - A GitHub Action to download an artifact associated with given workflow and commit or other criteria
+- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker
+- [webiny/action-conventional-commits](https://github.com/webiny/action-conventional-commits) - Ensures that all commits are following the conventional-commits standard.
+
 ## 🚀 Samples
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows ⭐⭐
 - [linkdotnet/deployment-template](https://github.com/linkdotnet/deployment-template/blob/main/.github/workflows)
@@ -136,3 +156,4 @@
 - [AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing](https://github.com/AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing/tree/release/.github/workflows)
 - [colindembovsky/dotnet-actions-v-pipelines](https://github.com/colindembovsky/dotnet-actions-v-pipelines)
 - [wenqiglantz/reusable-workflows-modules](https://github.com/wenqiglantz/reusable-workflows-modules) ⭐
+- [GuillaumeFalourd/poc-github-actions](https://github.com/GuillaumeFalourd/poc-github-actions) ⭐⭐ - Various proofs of concept examples using Github Actions

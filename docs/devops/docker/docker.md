@@ -89,6 +89,9 @@
 - [worstcase/blockade](https://github.com/worstcase/blockade) - Docker-based utility for testing network failures and partitions in distributed applications
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [tmds/build-image](https://github.com/tmds/build-image) - Containerize .NET apps without writing Dockerfiles.
+- [Wowu/docker-rollout](https://github.com/Wowu/docker-rollout) - Zero Downtime Deployment for Docker Compose
+- [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
+
 ## 🚀 Samples
 - [jbw/TooBigToFailBurgerShop](https://github.com/jbw/TooBigToFailBurgerShop/tree/develop/src/services/Ordering/Ordering.API) - .NET Microservice Reference Application. It's also an over-engineered burger shop!
 - [VasilisGaitanidis/master-containerized-microservices](https://github.com/VasilisGaitanidis/master-containerized-microservices) - This repo contains a sample application based on a fictional eCommerce. The primary goal of this sample is to demonstrate several software-architecture concepts like: Clean Architecture, Microservices, CQRS, Event Sourcing, Publish-Subscribe Architecture, Domain Driven Design (DDD). Currently this is a work in progress.

@@ -4,6 +4,7 @@
 - [Docker Compose GitHub](https://github.com/docker/compose)
 - [Composerize](https://www.composerize.com/)
 - [docker/awesome-compose](https://github.com/docker/awesome-compose)
+
 ## 📕 Articles
 - [Speed Up Docker Compose with Parallel Builds](https://ardalis.com/speed-up-docker-compose-with-parallel-builds/)
 - [How to Use Docker Compose to Run Multiple Instances of a Service in Development](https://pspdfkit.com/blog/2018/how-to-use-docker-compose-to-run-multiple-instances-of-a-service-in-development/)
@@ -21,9 +22,15 @@
 - [How do I change timezone in a docker container?](https://stackoverflow.com/questions/57607381/how-do-i-change-timezone-in-a-docker-container)
 - [Change TimeZone in Docker and OCI compliant Containers](https://mohitgoyal.co/2021/03/02/change-timezone-in-docker-and-oci-compliant-containers/)
 - [The “.env” file](https://docs.docker.com/compose/environment-variables/#the-env-file)
+
 ## 📺 Videos
 - [Best Practices Around Production Ready Web Apps with Docker Compose](https://www.youtube.com/watch?v=T--X3v2pwtU)
 - [Docker Compose will BLOW your MIND!! (a tutorial)](https://www.youtube.com/watch?v=DM65_JyGxCo)
+
+## Libraries
+- [Wowu/docker-rollout](https://github.com/Wowu/docker-rollout) - Zero Downtime Deployment for Docker Compose
+- [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
+
 ## 🚀 Samples
 - [twzhangyang/RestAirline](https://github.com/twzhangyang/RestAirline) - DDD+CQRS+EventSourcing+Hypermedia API+ASP.NET Core 3.1+Masstransit+terraform+docker+k8s
 - [WolfgangOfner/MicroserviceDemo](https://github.com/WolfgangOfner/MicroserviceDemo) - This is a demo with two ASP .NET 5 microservices using RabbitMQ and Docker
