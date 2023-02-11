@@ -230,7 +230,7 @@ nav:
 - Messaging:
   - Messaging: messaging/messaging.md
   - Change Data Capture (CDC): messaging/change-data-capture.md
-  - Documentation: messaging/documentation.md
+  - Async APIs Documentation: messaging/async-api-documentation.md
   - Kafka: messaging/kafka.md
   - RabbitMQ: messaging/rabbitmq.md
   - Azure Service Bus: azure/messaging/azure-service-bus.md

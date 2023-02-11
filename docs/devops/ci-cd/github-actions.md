@@ -87,6 +87,9 @@
 - [How to start using reusable workflows with GitHub Actions](https://github.blog/2022-02-10-using-reusable-workflows-github-actions/) ⭐
 - [The GITHUB_TOKEN in GitHub Actions: How it Works, Change Permissions, Customizations](https://dev.to/github/the-githubtoken-in-github-actions-how-it-works-change-permissions-customizations-3cgp) ⭐
 - [Managing GitHub Actions settings for a repository](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-github-actions-settings-for-a-repository) 
+- [Supercharging GitHub Actions with Job Summaries](https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/)
+- [Adding a `job summary`](https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions#adding-a-job-summary)
+- [Running unit tests in GitHub Actions](https://octopus.com/blog/githubactions-running-unit-tests)
 
 ## 📺 Videos
 - [Master GitHub Actions Tutorial - Playlist Cameron McKenzie](https://www.youtube.com/playlist?list=PL_RrEj88onS-um2xFy01sY46ik_2yt_EQ)
@@ -146,6 +149,9 @@
 - [dawidd6/action-download-artifact](https://github.com/dawidd6/action-download-artifact) - A GitHub Action to download an artifact associated with given workflow and commit or other criteria
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker
 - [webiny/action-conventional-commits](https://github.com/webiny/action-conventional-commits) - Ensures that all commits are following the conventional-commits standard.
+- [EnricoMi/publish-unit-test-result-action](https://github.com/EnricoMi/publish-unit-test-result-action) - GitHub Action to publish unit test results on GitHub
+- [phoenix-actions/test-reporting](https://github.com/phoenix-actions/test-reporting) - Displays test results from popular testing frameworks directly in GitHub
+- [peter-murray/workflow-application-token-action](https://github.com/peter-murray/workflow-application-token-action) - GitHub Action that will get a scoped short lived token for Actions workflows using a GitHub Application.
 
 ## 🚀 Samples
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows ⭐⭐

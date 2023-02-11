@@ -69,6 +69,8 @@
 - [Optimizing your .NET Core Docker image size with multi-stage builds](https://medium.com/@chrislewisdev/optimizing-your-net-core-docker-image-size-with-multi-stage-builds-778c577121d) ⭐
 - [Multi-stage builds](https://docs.docker.com/build/building/multi-stage/) ⭐⭐
 - [Docker Tutorial – Introduction & Getting Started With Docker](https://spacelift.io/blog/docker-tutorial)
+- [Docker Build Process for .NET Applications](https://marcroussy.com/2020/05/01/docker-build-process-for-dotnet/) ⭐
+
 ## 📹 Videos
 - [Deploy a .NET Core API with Docker (Step-by-Step)](https://www.youtube.com/watch?v=f0lMGPB10bM)
 - [Docker Tutorial for Beginners [FULL COURSE in 3 Hours](https://www.youtube.com/watch?v=3c-iBn73dDE)
@@ -78,19 +80,20 @@
 - [Why you no longer need a Dockerfile in .NET 7](https://www.youtube.com/watch?v=BV_f2XnqlRE)
 
 ## 📦 Libraries
-- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-- [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
-- [projectatomic/dockerfile_lint](https://github.com/projectatomic/dockerfile_lint)
-- [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
-- [mariotoffia/FluentDocker](https://github.com/mariotoffia/FluentDocker) - Commands, Services and Fluent API for docker, docker-compose & docker-machine, for win/mac/linux and native docker in c#
-- [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
-- [mariotoffia/FluentDocker](https://github.com/mariotoffia/FluentDocker) - Use docker, docker-compose local and remote in tests and your .NET core/full framework apps via a FluentAPI
-- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
-- [worstcase/blockade](https://github.com/worstcase/blockade) - Docker-based utility for testing network failures and partitions in distributed applications
-- [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
-- [tmds/build-image](https://github.com/tmds/build-image) - Containerize .NET apps without writing Dockerfiles.
-- [Wowu/docker-rollout](https://github.com/Wowu/docker-rollout) - Zero Downtime Deployment for Docker Compose
-- [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
+- [`wagoodman/dive`](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
+- [`hadolint/hadolint`](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
+- [`projectatomic/dockerfile_lint`](https://github.com/projectatomic/dockerfile_lint)
+- [`nicolaka/netshoot`](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
+- [`mariotoffia/FluentDocker`](https://github.com/mariotoffia/FluentDocker) - Commands, Services and Fluent API for docker, docker-compose & docker-machine, for win/mac/linux and native docker in c#
+- [`docker-slim/docker-slim`](https://github.com/docker-slim/docker-slim) - DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+- [`mariotoffia/FluentDocker`](https://github.com/mariotoffia/FluentDocker) - Use docker, docker-compose local and remote in tests and your .NET core/full framework apps via a FluentAPI
+- [`jesseduffield/lazydocker`](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
+- [`worstcase/blockade`](https://github.com/worstcase/blockade) - Docker-based utility for testing network failures and partitions in distributed applications
+- [`hadolint/hadolint`](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
+- [`tmds/build-image`](https://github.com/tmds/build-image) - Containerize .NET apps without writing Dockerfiles.
+- [`Wowu/docker-rollout`](https://github.com/Wowu/docker-rollout) - Zero Downtime Deployment for Docker Compose
+- [`kubernetes/kompose`](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
+- [`dokku/dokku`](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 
 ## 🚀 Samples
 - [jbw/TooBigToFailBurgerShop](https://github.com/jbw/TooBigToFailBurgerShop/tree/develop/src/services/Ordering/Ordering.API) - .NET Microservice Reference Application. It's also an over-engineered burger shop!
