@@ -11,3 +11,5 @@
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 - [Wix Engineering](https://medium.com/wix-engineering/)
 
+## Roadmaps
+- [Software Architect Roadmap](https://roadmap.sh/software-architect)
