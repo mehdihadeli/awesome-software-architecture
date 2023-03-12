@@ -103,6 +103,8 @@
 - [CRUD API + Complexity = Death by a 1000 Papercuts](https://www.youtube.com/watch?v=kalD8TcRBCc)
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU)
 - [[Oskar Dudycz] Od CRUD do CQRS w praktyce](https://www.youtube.com/watch?v=jU5aKVQmBeM)
+- [CQRS is simpler than you think with C#11 and .NET 7! - Oskar Dudycz](https://www.youtube.com/watch?v=iY7LO289qnQ)
+
 ## 📦 Libraries
 - [eventflow/EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
 - [gautema/CQRSlite](https://github.com/gautema/CQRSlite) - A lightweight framework to help creating CQRS and Eventsourcing applications in C#

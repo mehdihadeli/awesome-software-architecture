@@ -32,5 +32,6 @@
 - [Avoiding Distributed Transactions with the Reservation Pattern](https://www.youtube.com/watch?v=PZm0RQGcs38)
 - [At Least Once - Ian Cooper - NDC Oslo 2022](https://www.youtube.com/watch?v=_9ULo-F4nmE)
 
-## Samples
+## 🚀 Samples
 - [markgossa/Reference-Event-Driven-Architecture](https://github.com/markgossa/Reference-Event-Driven-Architecture)
+- [oskardudycz/EventSourcing.NetCore/Sample/HotelManagement](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/HotelManagement) ⭐

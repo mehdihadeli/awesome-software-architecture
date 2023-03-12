@@ -11,7 +11,7 @@
 - [Pulumi - Infrastructure as Code (IaC) Using Programming Languages](https://www.youtube.com/watch?v=oE3BUi_N0qc)
 - [Managing any Cloud with .NET](https://www.youtube.com/watch?v=hXhZiHtT8f0)
 
-## Libraries
+## 📦 Libraries
 - [pulumi/pulumi-dotnet](https://github.com/pulumi/pulumi-dotnet) - Dotnet support for Pulumi
 
 ## 🚀 Samples

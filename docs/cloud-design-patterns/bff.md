@@ -23,7 +23,7 @@
 - [Mauro Servienti - Designing a UI for Microservices](https://www.youtube.com/watch?v=AxWGAiIg7_0)
 - [The HIDDEN Challenge of Microservices: UI Composition](https://www.youtube.com/watch?v=ILbjKR1FXoc)
 
-## Libraries
+## 📦 Libraries
 - [ServiceComposer/ServiceComposer.AspNetCore](https://github.com/ServiceComposer/ServiceComposer.AspNetCore) - ServiceComposer, a ViewModel Composition API Gateway
 
 ## 🚀 Samples

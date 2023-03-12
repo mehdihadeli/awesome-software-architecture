@@ -9,11 +9,11 @@
 - [Composite UIs for Microservices - Data Composition](https://jimmybogard.com/composite-uis-for-microservices-data-composition/)
 - [ViewModel Composition](https://milestone.topics.it/series/view-model-composition.html)
 
-## Videos
+## 📺 Videos
 - [The HIDDEN Challenge of Microservices: UI Composition](https://www.youtube.com/watch?v=ILbjKR1FXoc)
 
-## Libraries
+## 📦 Libraries
 - [ServiceComposer/ServiceComposer.AspNetCore](https://github.com/ServiceComposer/ServiceComposer.AspNetCore) - ServiceComposer, a ViewModel Composition API Gateway
 
-## Samples
+## 🚀 Samples
 - [mauroservienti/designing-a-ui-for-microservices-demos/](https://github.com/mauroservienti/designing-a-ui-for-microservices-demos/) - Demos and sample for my "Designing a UI for Microservices" talk

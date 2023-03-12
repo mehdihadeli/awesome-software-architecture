@@ -148,6 +148,8 @@
 - [Event Sourcing Part I: Understanding what it is, core components, and common misconceptions](https://medium.com/ssense-tech/event-sourcing-part-i-understanding-what-it-is-core-components-and-common-misconceptions-5dec65f6d61)
 - [Event Sourcing Part II: Implementing an end-to-end solution](https://medium.com/ssense-tech/event-sourcing-part-ii-implementing-an-end-to-end-solution-68b7dbefe89)
 - [Guide to Projections and Read Models in Event Driven Architecture](https://event-driven.io/en/projections_and_read_models_in_event_driven_architecture/) ⭐
+- [Event-driven projections in Marten explained](https://event-driven.io/en/projections_in_marten_explained/)
+
 ## 📺 Videos
 - [Event Sourcing Playlist - CodeOpinion](https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ)
 - [Event Sourcing Example & Explained in plain English](https://www.youtube.com/watch?v=AUj4M-st3ic)
@@ -201,6 +203,7 @@
 - [The power of transient state in Event Sourcing](https://www.youtube.com/watch?v=XoWEQ_39Mcg)
 - [Let's build event store in one hour! - Oskar Dudycz - NDC Oslo 2022](https://www.youtube.com/watch?v=gaoZdtQSOTo)
 - [Event Sourcing in 1 Hour with Marten in .NET](https://www.youtube.com/watch?v=yWpuUHXLhYg)
+- [Event-driven revolution, from CRUD to Event Sourcing in practice - Oskar Dudycz - Devoxx For Ukraine](https://www.youtube.com/watch?v=V5_MMtfPpKs)
 
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET

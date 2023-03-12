@@ -159,6 +159,7 @@ nav:
   - Infrastructure as a Service: iaas/iaas.md
   - Terraform: iaas/terraform.md
   - Pulumi: iaas/pulumi.md
+  - Ansible: iaas/ansible.md
   - Nomad: iaas/nomad.md
 - DevOps:
   - Docker: 
@@ -179,9 +180,11 @@ nav:
         - Nginx Ingress: devops/kubernetes/nginx-ingress.md
         - Traefik Ingress: devops/kubernetes/traefik-ingress.md
     - Other Tools: 
-        - k3s: devops/kubernetes/other-tools/k3s.md
-        - kind: devops/kubernetes/other-tools/kind.md
-        - tilt: devops/kubernetes/other-tools/tilt.md
+        - K3s: devops/kubernetes/other-tools/k3s.md
+        - Telepresence: devops/kubernetes/other-tools/telepresence.md
+        - Telepresence: devops/kubernetes/other-tools/telepresence.md
+        - Garden: devops/kubernetes/other-tools/garden.md
+        - Tilt: devops/kubernetes/other-tools/tilt.md
   - CI/CD:
     - Azure DevOps: devops/ci-cd/azure-devops.md
     - Github Actions: devops/ci-cd/github-actions.md
@@ -313,7 +316,7 @@ nav:
 - Others: others.md
 
 
-copyright: 2022 <a href="https://github.com/mehdihadeli">Mehdi Hadeli</a>.
+copyright: 2023 <a href="https://github.com/mehdihadeli">Mehdi Hadeli</a>.
 #remote_branch: gh-pages 
 #remote_name: origin
 extra:

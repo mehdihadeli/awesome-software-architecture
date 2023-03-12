@@ -47,7 +47,7 @@
 - [Change TimeZone in Docker and OCI compliant Containers](https://mohitgoyal.co/2021/03/02/change-timezone-in-docker-and-oci-compliant-containers/)
 - [Attach to a running container](https://code.visualstudio.com/docs/remote/attach-container)
 - [Create a development container](https://code.visualstudio.com/docs/remote/create-dev-container)
-- [Debugging ASP.NET Core apps in a local Docker container](https://blog.jetbrains.com/dotnet/2018/07/18/debugging-asp-net-core-apps-local-docker-container/)
+- [Debugging ASP.NET Core apps in a local Docker container `Rider`](https://blog.jetbrains.com/dotnet/2018/07/18/debugging-asp-net-core-apps-local-docker-container/)
 - [Ports are not available: listen tcp 0.0.0.0/50070: bind: An attempt was made to access a socket in a way forbidden by its access permissions](https://stackoverflow.com/questions/65272764/ports-are-not-available-listen-tcp-0-0-0-0-50070-bind-an-attempt-was-made-to)
 - [Optimising ASP.NET Core apps in Docker - avoiding manually copying csproj files](https://andrewlock.net/optimising-asp-net-core-apps-in-docker-avoiding-manually-copying-csproj-files/)
 - [Optimising ASP.NET Core apps in Docker - avoiding manually copying csproj files (Part 2)](https://andrewlock.net/optimising-asp-net-core-apps-in-docker-avoiding-manually-copying-csproj-files-part-2/)
@@ -66,10 +66,38 @@
 - [Docker import/export vs. load/save](https://pspdfkit.com/blog/2019/docker-import-export-vs-load-save/)
 - [Publishing Images With GitHub Actions](https://www.kenmuse.com/blog/publishing-images-with-github-actions/)
 - [Creating a generalised Docker image for building ASP.NET Core apps using ONBUILD](https://andrewlock.net/creating-a-generalised-docker-image-for-building-asp-net-core-apps-using-onbuild/) ⭐
-- [Optimizing your .NET Core Docker image size with multi-stage builds](https://medium.com/@chrislewisdev/optimizing-your-net-core-docker-image-size-with-multi-stage-builds-778c577121d) ⭐
+- [Optimizing your .NET Core Docker image size with multi-stage builds](https://medium.com/@chrislewisdev/optimizing-your-net-core-docker-image-size-with-multi-stage-builds-778c577121d) ⭐⭐
 - [Multi-stage builds](https://docs.docker.com/build/building/multi-stage/) ⭐⭐
 - [Docker Tutorial – Introduction & Getting Started With Docker](https://spacelift.io/blog/docker-tutorial)
 - [Docker Build Process for .NET Applications](https://marcroussy.com/2020/05/01/docker-build-process-for-dotnet/) ⭐
+- [Understanding the Docker Build Context (Why You Should Use Dockerignore)](https://www.howtogeek.com/devops/understanding-the-docker-build-context-why-you-should-use-dockerignore/)
+- [How to Debug Dockerized .NET Core Apps in VS Code](https://www.freecodecamp.org/news/how-to-debug-dockerized-net-core-apps-in-vs-code/) ⭐
+- [Demystifying Docker: .NET 6 on Docker + Docker Debugging](https://amelspahic.com/net-6-on-docker-with-debugging) ⭐
+- [docker `network create`](https://docs.docker.com/engine/reference/commandline/network_create/) ⭐
+- [DEBUGGING YOUR .NET CORE IN DOCKER APPLICATIONS WITH VS CODE](https://www.aaron-powell.com/posts/2019-04-04-debugging-dotnet-in-docker-with-vscode/)  ⭐
+- [Attaching to remote processes](https://github.com/OmniSharp/omnisharp-vscode/wiki/Attaching-to-remote-processes)
+- [How to debug a .NET Core app in Docker with VSCode](https://www.richard-banks.org/2018/07/debugging-core-in-docker.html) ⭐⭐
+- [Get started with Docker remote containers on WSL 2](https://learn.microsoft.com/en-us/windows/wsl/tutorials/wsl-containers) ⭐
+- [Docker Desktop WSL 2 backend on Windows](https://docs.docker.com/desktop/windows/wsl/) ⭐
+- [How to configure Docker Desktop to work with the WSL](https://tutorials.releaseworksacademy.com/learn/how-to-configure-docker-desktop-to-work-with-the-wsl.html)
+- [Setting Up Docker for Windows and WSL to Work Flawlessly](https://nickjanetakis.com/blog/setting-up-docker-for-windows-and-wsl-to-work-flawlessly) ⭐
+- [How to properly override the ENTRYPOINT using docker run](https://oprea.rocks/blog/how-to-properly-override-the-entrypoint-using-docker-run)
+- [Docker RUN vs CMD vs ENTRYPOINT](https://codewithyury.com/docker-run-vs-cmd-vs-entrypoint/) ⭐
+- [Running a Docker container as a non-root user](https://medium.com/redbubble/running-a-docker-container-as-a-non-root-user-7d2e00f8ee15)
+- [Using Docker Buildkit --mount=type=cache for caching Nuget packages for .NET 5 dockerfile](https://stackoverflow.com/questions/69464184/using-docker-buildkit-mount-type-cache-for-caching-nuget-packages-for-net-5-d)
+- [Optimizing builds with cache management](https://docs.docker.com/build/cache/) ⭐
+- [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices) ⭐
+- [Speed up pip downloads in Docker with BuildKit’s new caching](https://pythonspeed.com/articles/docker-cache-pip-downloads/) ⭐
+- [How to Keep Docker Container Running for Debugging](https://devopscube.com/keep-docker-container-running/)
+- [Running Docker Containers Indefinitely](https://www.baeldung.com/ops/running-docker-containers-indefinitely)
+- [Removing unused intermediate docker images automatically](https://medium.com/@cikupin/removing-unused-intermediate-docker-images-automatically-25e453c514ea)
+- [Enforce HTTPS in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/security/enforcing-ssl)
+- [Hosting ASP.NET Core images with Docker over HTTPS](https://learn.microsoft.com/en-us/aspnet/core/security/docker-https)
+- [Using Docker Secrets during Development](https://blog.mikesir87.io/2017/05/using-docker-secrets-during-development/)
+- [How to Keep Docker Secrets When Working with Sensitive Data?](https://www.cherryservers.com/blog/how-to-keep-docker-secrets-when-working-with-sensitive-data)
+- [Docker and .Net — Environment variables and appsettings.json](https://levelup.gitconnected.com/docker-environment-variables-appsettings-json-net-bdac052bf3db)
+- [Hot-Reload .NET Configuration in Kubernetes with ConfigMaps](https://www.thorsten-hans.com/hot-reload-net-configuration-in-kubernetes-with-configmaps/) ⭐
+- [Kubernetes–Override an appsettings.json file in an ASP.NET Core app through ConfigMaps](https://bartwullems.blogspot.com/2021/03/kubernetesoverride-appsettingsjson-file.html)
 
 ## 📹 Videos
 - [Deploy a .NET Core API with Docker (Step-by-Step)](https://www.youtube.com/watch?v=f0lMGPB10bM)
@@ -78,6 +106,7 @@
 - [Dockerize .NET 6 in 10 Minutes](https://www.youtube.com/watch?v=3s-RfwvijpY)
 - [Docker networking is CRAZY!! (you NEED to learn it)](https://www.youtube.com/watch?v=bKFMS5C4CG0)
 - [Why you no longer need a Dockerfile in .NET 7](https://www.youtube.com/watch?v=BV_f2XnqlRE)
+- [Debugging .NET Core in Docker with VSCode](https://www.youtube.com/watch?v=ds2bud0ZYTY) ⭐
 
 ## 📦 Libraries
 - [`wagoodman/dive`](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image

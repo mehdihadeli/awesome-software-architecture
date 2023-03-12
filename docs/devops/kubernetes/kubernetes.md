@@ -2,6 +2,9 @@
 
 ## 📘 Resources
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
+- [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
+- [kubectl for Docker Users](https://kubernetes.io/docs/reference/kubectl/docker-cli-to-kubectl/)
+- [kubectl-cheatsheet](https://www.bluematador.com/learn/kubectl-cheatsheet)
 - [fhsinchy/kubernetes-handbook-projects](https://github.com/fhsinchy/kubernetes-handbook-projects) - Project codes used in "The Kubernetes Handbook
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources 🚢🎉
 - [tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources) - A curated list of awesome Kubernetes tools and resources.
@@ -37,6 +40,51 @@
 - [Modern Development Environments for Cloud Native Applications Using Gitpod and Okteto](https://www.okteto.com/blog/modern-development-environments-for-cloud-native-applications-using-gitpod-and-okteto/)
 - [Tools for working with Kubernetes](https://chris-ayers.com/2022/11/17/tools-for-working-with-kubernetes/)
 - [Using Canary Deployments in Kubernetes](https://earthly.dev/blog/canary-dep-in-k8s/)
+- [KIND and Load Balancing with MetalLB on Mac](https://www.thehumblelab.com/kind-and-metallb-on-mac/)
+- [Local Kubernetes Development with Tilt](https://sookocheff.com/post/kubernetes/local-kubernetes-development-with-tilt/)
+- [Checking Kubernetes services status](https://www.ibm.com/docs/en/mvi/1.1.2?topic=environment-checking-kubernetes-services-status)
+- [How to retry image pull in a kubernetes Pods?](https://stackoverflow.com/questions/40259178/how-to-retry-image-pull-in-a-kubernetes-pods)
+- [Deploy and Access the Kubernetes Dashboard](https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/)
+- [Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what?](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0) ⭐
+- [How to Make the Most of Kubernetes Environment Variables](https://release.com/blog/kubernetes-environment-variables)
+- [Kubernetes equivalent of env-file in Docker](https://stackoverflow.com/questions/33478555/kubernetes-equivalent-of-env-file-in-docker)
+- [Managing Secrets using Configuration File](https://kubernetes.io/docs/tasks/configmap-secret/managing-secret-using-config-file/)
+- [Define Dependent Environment Variables](https://kubernetes.io/docs/tasks/inject-data-application/define-interdependent-environment-variables/)
+- [Define Environment Variables for a Container](https://kubernetes.io/docs/tasks/inject-data-application/define-environment-variable-container/)
+- [Understanding Kubernetes services & ingress networking](https://www.cortex.io/post/understanding-kubernetes-services-ingress-networking) ⭐
+- [Combining Ingress Controllers and External Load Balancers with Kubernetes](https://traefik.io/blog/combining-ingress-controllers-and-external-load-balancers-with-kubernetes/)
+- [Configure SSL certificate with cert-manager on Kubernetes](https://blog.knoldus.com/configure-ssl-certificate-with-cert-manager-on-kubernetes/)
+- [Installing Cert manager with Helm](https://cert-manager.io/docs/installation/helm/)
+- [SelfSigned Cert with Cert Manager](https://cert-manager.io/docs/configuration/selfsigned/)
+- [Using a Network Load Balancer with the NGINX Ingress Controller on Amazon EKS](https://aws.amazon.com/blogs/opensource/network-load-balancer-nginx-ingress-controller-eks/) ⭐
+- [What is a Kubernetes Ingress Controller, and How is it Different from a Kubernetes Ingress?](https://traefik.io/glossary/kubernetes-ingress-and-ingress-controller-101/) ⭐
+- [Using NGINX or NGINX Plus as the Ingress Controller for Amazon Elastic Kubernetes Services](https://docs.nginx.com/nginx/deployment-guides/amazon-web-services/ingress-controller-elastic-kubernetes-services/)
+- [ConfigMaps - Docs](https://kubernetes.io/docs/concepts/configuration/configmap/)
+- [Configure a Pod to Use a ConfigMap - Docs](https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/) ⭐⭐
+- [Secrets - Docs](https://kubernetes.io/docs/concepts/configuration/secret/)
+- [Distribute Credentials Securely Using Secrets - Docs](kubernetes.io/docs/tasks/inject-data-application/distribute-credentials-secure/) ⭐⭐
+- [Hot-Reload .NET Configuration in Kubernetes with ConfigMaps](https://www.thorsten-hans.com/hot-reload-net-configuration-in-kubernetes-with-configmaps/) ⭐
+- [Kubernetes–Override an appsettings.json file in an ASP.NET Core app through ConfigMaps](https://bartwullems.blogspot.com/2021/03/kubernetesoverride-appsettingsjson-file.html)
+- [Kubernetes - Reload your ASP.NET Core configuration when a configmap changes–DOTNET_USE_POLLING_FILE_WATCHER](https://bartwullems.blogspot.com/2022/12/kubernetes-reload-your-aspnet-core.html)
+- [Managing Resources](https://kubernetes.io/docs/concepts/cluster-administration/manage-deployment/) ⭐
+- [How to use environment variables in a Kubernetes manifest](https://blog.8bitbuddhism.com/2022/11/12/how-to-use-environment-variables-in-a-kubernetes-manifest/) ⭐
+- [How to quickly replace environment variables in a file](https://skofgar.ch/dev/2020/08/how-to-quickly-replace-environment-variables-in-a-file/) ⭐
+- [Using envsubst to Merge Environment Variables into Config Files](https://nickjanetakis.com/blog/using-envsubst-to-merge-environment-variables-into-config-files)
+- [Service](https://kubernetes.io/docs/concepts/services-networking/service/) ⭐
+- [Pods](kubernetes.io/docs/concepts/workloads/pods/)
+- [Ingress](https://kubernetes.io/docs/concepts/services-networking/ingress/)
+- [Deployments](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
+- [Annotations](https://kubernetes.io/docs/concepts/overview/working-with-objects/annotations/)
+- [Labels and Selectors](https://kubernetes.io/docs/concepts/overview/working-with-objects/labels/) ⭐
+- [Field Selectors](https://kubernetes.io/docs/concepts/overview/working-with-objects/field-selectors/) ⭐
+- [Recommended Labels](https://kubernetes.io/docs/concepts/overview/working-with-objects/common-labels/) ⭐
+- [Well-Known Labels, Annotations and Taints](https://kubernetes.io/docs/reference/labels-annotations-taints/)
+- [Using labels effectively](https://kubernetes.io/docs/concepts/cluster-administration/manage-deployment/#using-labels-effectively)
+- [Why K8s deployments need `matchLabels` keyword](https://rpadovani.com/kubernetes-deployments)
+- [The Guide to Kubernetes Labels](https://blog.kubecost.com/blog/kubernetes-labels/) ⭐
+- [Kubernetes Error Codes: Field Is Immutable](www.datree.io/resources/kubernetes-error-codes-field-is-immutable)
+- [Use Port Forwarding to Access Applications in a Cluster](https://kubernetes.io/docs/tasks/access-application-cluster/port-forward-access-application-cluster/)
+- [Configure Liveness, Readiness and Startup Probes](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/) ⭐
 
 ## 📺 Videos
 - [Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]](https://www.youtube.com/watch?v=X48VuDVv0do)
@@ -53,6 +101,12 @@
 - [the ULTIMATE kubernetes management tools comparison!](https://www.youtube.com/watch?v=R0HlJsugOAE)
 - [You MUST use these 6 Kubernetes Tools!!! (kubectx, kubens, kube-ps1, k9s, popeye, stern)](https://www.youtube.com/watch?v=xw3j4aNbHgQ)
 - [10 Must-Have Kubernetes Tools](https://www.youtube.com/watch?v=CB79eTFbR0w)
+- [Kubernetes Services explained | ClusterIP vs NodePort vs LoadBalancer vs Headless Service](https://www.youtube.com/watch?v=T4Z7visMM4E)
+- [Self-Hosting Your Homelab Services with SSL -- Let's Encrypt, MetalLB, Traefik, Rancher, Kubernetes](https://www.youtube.com/watch?v=pAM2GBCDGTo)
+- [How to deploy & use MetalLB in bare metal Kubernetes](https://www.youtube.com/watch?v=2SmYjj-GFnE)
+- [Configuration management in Kubernetes for beginners](https://www.youtube.com/watch?v=o-gXx7r7Rz4)
+- [Credentials and Configs in Kubernetes Secrets and ConfigMaps](https://www.youtube.com/watch?v=tWc3wfC8sOc)
+- [Level-up Your DevOps with GitHub Actions and Kubernetes](https://www.youtube.com/watch?v=TMbXwNtuAJo)
 
 ## 📦 Libraries
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
@@ -86,6 +140,7 @@
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
+- [bonnefoa/kubectl-fzf](https://github.com/bonnefoa/kubectl-fzf) - A fast kubectl autocompletion with fzf
 
 ## 🚀 Samples
 - [arashkaffamanesh/practical-kubernetes-problems](https://github.com/arashkaffamanesh/practical-kubernetes-problems) - For Kubernauts' Practical Kubernetes Trainings

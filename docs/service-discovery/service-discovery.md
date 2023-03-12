@@ -14,5 +14,5 @@
 - [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 
-## Samples
+## 🚀 Samples
 - [Abdulsametileri/simple-service-discovery](https://github.com/Abdulsametileri/simple-service-discovery) - Basic service discovery implementation

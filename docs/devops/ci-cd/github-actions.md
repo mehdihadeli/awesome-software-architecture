@@ -94,6 +94,8 @@
 ## 📺 Videos
 - [Master GitHub Actions Tutorial - Playlist Cameron McKenzie](https://www.youtube.com/playlist?list=PL_RrEj88onS-um2xFy01sY46ik_2yt_EQ)
 - [Building Docker containers with GitHub Actions](https://www.youtube.com/watch?v=09lZdSpeHAk)
+- [Level-up Your DevOps with GitHub Actions and Kubernetes](https://www.youtube.com/watch?v=TMbXwNtuAJo)
+- [Build and deploy to Kubernetes using Github Actions](https://www.youtube.com/watch?v=xHBiawlGO7s)
 
 ## 📦 Libraries
 - [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance
@@ -152,6 +154,7 @@
 - [EnricoMi/publish-unit-test-result-action](https://github.com/EnricoMi/publish-unit-test-result-action) - GitHub Action to publish unit test results on GitHub
 - [phoenix-actions/test-reporting](https://github.com/phoenix-actions/test-reporting) - Displays test results from popular testing frameworks directly in GitHub
 - [peter-murray/workflow-application-token-action](https://github.com/peter-murray/workflow-application-token-action) - GitHub Action that will get a scoped short lived token for Actions workflows using a GitHub Application.
+- [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) - Official GitHub action for golangci-lint from its authors
 
 ## 🚀 Samples
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows ⭐⭐
@@ -163,3 +166,4 @@
 - [colindembovsky/dotnet-actions-v-pipelines](https://github.com/colindembovsky/dotnet-actions-v-pipelines)
 - [wenqiglantz/reusable-workflows-modules](https://github.com/wenqiglantz/reusable-workflows-modules) ⭐
 - [GuillaumeFalourd/poc-github-actions](https://github.com/GuillaumeFalourd/poc-github-actions) ⭐⭐ - Various proofs of concept examples using Github Actions
+- [LEGO/AsyncAPI.NET](https://github.com/LEGO/AsyncAPI.NET/tree/main/.github/workflows)

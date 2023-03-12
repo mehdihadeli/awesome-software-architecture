@@ -247,6 +247,9 @@
 - [jeremydmiller/WolverinePresentation](https://github.com/jeremydmiller/WolverinePresentation) - Sample code and slide deck for my Wolverine talk for the JetBrains webinar
 - [mauroservienti/designing-a-ui-for-microservices-demos/](https://github.com/mauroservienti/designing-a-ui-for-microservices-demos/) - Demos and sample for my "Designing a UI for Microservices" talk
 - [oskardudycz/EventSourcing.NetCore/Sample/HotelManagement](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/HotelManagement)
+- [thinktecture-labs/cloud-native-sample](https://github.com/thinktecture-labs/cloud-native-sample) - Sample application to demonstrate how to build, orchestrate, and automate a polyglot cloud-native application
+- [chayxana/Restaurant-App](https://github.com/chayxana/Restaurant-App) - Restaurant App 🍔 is a sample open-source e-Commerce 🛒 application for ordering foods, powered by polyglot microservices architecture and cross-platform development including mobile and web
+
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
 - [Building Microservices: Designing Fine-Grained Systems, 2nd Edition](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1492034029)

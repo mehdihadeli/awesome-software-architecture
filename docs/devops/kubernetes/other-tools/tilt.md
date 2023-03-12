@@ -1,6 +1,8 @@
 # Tilt
 
-## 📕 Articles
-- [Local Kubernetes Development with Tilt](https://sookocheff.com/post/kubernetes/local-kubernetes-development-with-tilt/)
+## Resources
+- [Tilt GitHub](https://github.com/tilt-dev/tilt)
+- [Tilt Docs](https://docs.tilt.dev/)
 
-
+## Videos
+- [Development Environments Made Easy With Tilt Rebuilds And Live Updates](https://www.youtube.com/watch?v=fkODRlobR9I)

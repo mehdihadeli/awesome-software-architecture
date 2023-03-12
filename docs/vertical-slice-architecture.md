@@ -2,8 +2,6 @@
 # Vertical Slice Architecture
 
 ## 📕 Articles
-- [How Vertical Slice Architecture fulfills Clean Architecture’s broken promises](https://headspring.com/2020/08/18/how-vertical-slice-architecture-fulfills-clean-architectures-broken-promises/) 
-- [Why vertical slice architecture is better—if you know these few things](https://headspring.com/2019/11/05/why-vertical-slice-architecture-is-better/) 
 - [Vertical Slice Architecture](https://jimmybogard.com/vertical-slice-architecture/)
 - [Package by component and architecturally-aligned testing](http://www.codingthearchitecture.com/2015/03/08/package_by_component_and_architecturally_aligned_testing.html) 
 - [An architecturally-evident coding style](http://www.codingthearchitecture.com/2014/06/01/an_architecturally_evident_coding_style.html) 

@@ -10,6 +10,7 @@
 - [Getting Started with YARP](https://microsoft.github.io/reverse-proxy/articles/getting-started.html)
 - [Duende Use a fully fledged Reverse Proxy](https://docs.duendesoftware.com/identityserver/v5/bff/apis/remote/)
 - [Transformers](https://microsoft.github.io/reverse-proxy/articles/transforms.html)
+- [Use YARP to host client and API server on a single origin to avoid CORS](https://swimburger.net/blog/dotnet/use-yarp-to-host-client-and-api-server-on-a-single-origin)
 
 ## 📺 Videos
 - [Lessons Learned from Building the YARP Proxy on .NET](https://www.youtube.com/watch?v=WJcjlSEXqWA)

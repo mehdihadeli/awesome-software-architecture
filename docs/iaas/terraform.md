@@ -11,6 +11,7 @@
 ## 📦 Libraries
 - [minamijoyo/tfedit](https://github.com/minamijoyo/tfedit) - A refactoring tool for Terraform
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+
 ## 🚀 Samples
 - [twzhangyang/RestAirline](https://github.com/twzhangyang/RestAirline) - DDD+CQRS+EventSourcing+Hypermedia API+ASP.NET Core 3.1+Masstransit+terraform+docker+k8s
-
+- [thinktecture-labs/cloud-native-sample](https://github.com/thinktecture-labs/cloud-native-sample/tree/main/charts)
