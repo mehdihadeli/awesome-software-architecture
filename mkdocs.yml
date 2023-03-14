@@ -257,6 +257,7 @@ nav:
 - Relational Database:
   - Relational Database: relational/relational-database.md
   - Postgresql: relational/postgres.md
+  - SQL: relational/sql.md
 - Azure Cloud:
   - Azure Cloud: azure/azure-cloud.md
   - Azure API Management: azure/azure-api-management.md
