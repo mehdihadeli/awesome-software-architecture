@@ -92,3 +92,4 @@
 - [Software Architect’s Handbook: Become a successful software architect by implementing effective architecture concepts](https://www.amazon.com/Software-Architects-Handbook-implementing-architecture-ebook/dp/B07B3R2ZCX/)
 - [Architectural Patterns: Uncover essential patterns in the most indispensable realm of enterprise architecture](https://www.amazon.com/Architectural-Patterns-indispensable-enterprise-architecture-ebook/dp/B077T7V8RC)
 - [Software Architecture by Example: Using C# and .NET](https://www.amazon.com/Software-Architecture-Example-Using-NET/dp/1484279891)
+- [Architecture Modernization](https://www.manning.com/books/architecture-modernization)
