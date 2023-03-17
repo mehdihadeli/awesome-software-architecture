@@ -99,8 +99,9 @@
 - [Microservices to Async Processing Migration at Scale](https://www.infoq.com/articles/microservices-async-migration/)
 - [ViewModel Composition](https://milestone.topics.it/series/view-model-composition.html)
 - [Improving Microservices Availability](https://www.ledjonbehluli.com/posts/improving_microservices_availability/)
-## 📺 Videos
+- [The Challenge of Microservices: UI Composition](https://codeopinion.com/the-challenge-of-microservices-ui-composition/)
 
+## 📺 Videos
 - [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) 
 - [Microservices Architecture and Implementation on .NET 5](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/?couponCode=FA24745CC57592AB612A)
 - [Designing Loosely Coupled Microservices](https://skillsmatter.com/skillscasts/14926-designing-loosely-coupled-microservices)
@@ -249,6 +250,7 @@
 - [oskardudycz/EventSourcing.NetCore/Sample/HotelManagement](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/HotelManagement)
 - [thinktecture-labs/cloud-native-sample](https://github.com/thinktecture-labs/cloud-native-sample) - Sample application to demonstrate how to build, orchestrate, and automate a polyglot cloud-native application
 - [chayxana/Restaurant-App](https://github.com/chayxana/Restaurant-App) - Restaurant App 🍔 is a sample open-source e-Commerce 🛒 application for ordering foods, powered by polyglot microservices architecture and cross-platform development including mobile and web
+- [thangchung/coffeeshop-on-dapr](https://github.com/thangchung/coffeeshop-on-dapr) - The coffeeshop event-driven application which is developed and run on Dapr
 
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)

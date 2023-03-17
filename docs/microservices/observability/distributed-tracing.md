@@ -90,6 +90,7 @@
 - [Automatic Instrumentation of Containerized .NET Applications With OpenTelemetry](https://www.twilio.com/blog/automatic-instrumentation-of-containerized-dotnet-applications-with-opentelemetry)
 - [Instrumenting .NET Apps with OpenTelemetry](https://www.thorsten-hans.com/instrumenting-dotnet-apps-with-opentelemetry/)
 - [How to handle multiple commands in the same transaction](https://event-driven.io/en/simple_transactional_command_orchestration/)
+- [Observability with Grafana Cloud and OpenTelemetry in .net microservices](https://dev.to/dbolotov/observability-with-grafana-cloud-and-opentelemetry-in-net-microservices-448c) ⭐
 
 ## 📺 Videos
 - [Jimmy Bogard - Distributed Tracing Made Easy with .NET Core and OpenTelemetry](https://www.youtube.com/watch?v=s9UNr1oEMl4)

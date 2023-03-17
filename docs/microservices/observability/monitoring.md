@@ -11,6 +11,7 @@
 - [Create Grafana Dashboards with Prometheus Metrics](https://www.programmingwithwolfgang.com/create-grafana-dashboards-with-prometheus-metrics)
 - [.NET Core Web API Metrics with Prometheus and Grafana](https://dale-bingham-cingulara.medium.com/net-core-web-api-metrics-with-prometheus-and-grafana-fe84a52d9843)
 - [Automatic Instrumentation of Containerized .NET Applications With OpenTelemetry](https://www.twilio.com/blog/automatic-instrumentation-of-containerized-dotnet-applications-with-opentelemetry)
+- [Observability with Grafana Cloud and OpenTelemetry in .net microservices](https://dev.to/dbolotov/observability-with-grafana-cloud-and-opentelemetry-in-net-microservices-448c) ⭐
 
 ## Viodes
 - [Prometheus Grafana Dotnet Core STEP BY STEP](https://www.youtube.com/watch?v=cvt1Vrs3ajU)

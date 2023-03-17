@@ -204,6 +204,7 @@
 - [Let's build event store in one hour! - Oskar Dudycz - NDC Oslo 2022](https://www.youtube.com/watch?v=gaoZdtQSOTo)
 - [Event Sourcing in 1 Hour with Marten in .NET](https://www.youtube.com/watch?v=yWpuUHXLhYg)
 - [Event-driven revolution, from CRUD to Event Sourcing in practice - Oskar Dudycz - Devoxx For Ukraine](https://www.youtube.com/watch?v=V5_MMtfPpKs)
+- [How to model event-sourced systems efficiently - Oskar Dudycz - DDD Europe 2022](https://www.youtube.com/watch?v=gG6DGmYKk4I)
 
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET

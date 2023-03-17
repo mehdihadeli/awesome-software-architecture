@@ -60,6 +60,7 @@
 - [jbw/TooBigToFailBurgerShop](https://github.com/jbw/TooBigToFailBurgerShop) - .NET Microservice Reference Application. It's also an over-engineered burger shop!
 - [baotoq/micro-commerce](https://github.com/baotoq/micro-commerce) - React, Nextjs, ASP.NET Core 5.0, IdentityServer, Dapr, Azure pipeline, K8S, SonarQube
 - [andreatosato/dapr-cloudchampion](https://github.com/andreatosato/dapr-cloudchampion)
+- [thangchung/coffeeshop-on-dapr](https://github.com/thangchung/coffeeshop-on-dapr) - The coffeeshop event-driven application which is developed and run on Dapr
 
 ## 📚 Books
 - [Dapr for .NET Developers](https://docs.microsoft.com/en-us/dotnet/architecture/dapr-for-net-developers/?WT.mc_id=-blog-scottha)
