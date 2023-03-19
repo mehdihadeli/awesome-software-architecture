@@ -149,6 +149,7 @@
 - [Event Sourcing Part II: Implementing an end-to-end solution](https://medium.com/ssense-tech/event-sourcing-part-ii-implementing-an-end-to-end-solution-68b7dbefe89)
 - [Guide to Projections and Read Models in Event Driven Architecture](https://event-driven.io/en/projections_and_read_models_in_event_driven_architecture/) ⭐
 - [Event-driven projections in Marten explained](https://event-driven.io/en/projections_in_marten_explained/)
+- [Projecting Marten events to Elasticsearch](https://event-driven.io/en/projecting_from_marten_to_elasticsearch/)
 
 ## 📺 Videos
 - [Event Sourcing Playlist - CodeOpinion](https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ)

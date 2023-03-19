@@ -94,6 +94,39 @@ nav:
     - Entity Framework: domain-driven-design/orm/ef.md   
 - Data Driven Design: data-driven-design.md
 - CQRS: cqrs.md
+- Microservices: 
+  - Microservices: microservices/microservices.md
+  - Communication & Data Consistency: microservices/communication.md
+  - Services Boundries: microservices/services-boundries.md
+  - Testing: microservices/testing.md
+  - Composite UI: microservices/composite-ui.md
+  - Observibility: 
+    - CorrelationId: microservices/observability/correlationId.md
+    - Observibility: microservices/observability/observibility.md
+    - Distributed Tracing: microservices/observability/distributed-tracing.md
+    - Diagnostics: microservices/observability/diagnostics.md
+    - Logging: microservices/observability/logging.md
+    - Monitoring: microservices/observability/monitoring.md   
+    - Metrics: microservices/observability/metrics.md   
+    - Tools:
+      - EFK: microservices/observability/tools/efk.md  
+      - ELK: microservices/observability/tools/efk.md 
+      - FluentBit: microservices/observability/tools/fluent-bit.md 
+      - FluentD: microservices/observability/tools/fluentd.md 
+      - Loki: microservices/observability/tools/loki.md 
+  - Resiliency:
+    - Resiliency: microservices/resiliency/resiliency.md        
+    - High Availibility: microservices/resiliency/high-availibility.md   
+    - Idempotency: microservices/resiliency/idempotency.md      
+  - Tools: 
+    - CAP: microservices/tools/cap.md
+    - Dapr: microservices/tools/dapr.md
+    - Wolverine: microservices/tools/wolverine.md
+    - SteelToe: microservices/tools/steeltoe.md
+    - Tye: microservices/tools/tye.md
+    - MassTransit: microservices/tools/mass-transit.md
+    - NService Bus: microservices/tools/nservice-bus.md
+    - CAP: microservices/tools/cap.md
 - Modular Monolith: modular-monolith.md
 - Architectural Design Principles: 
   - Architectural Design Principles: architectural-design-principles/architectural-design-principles.md
