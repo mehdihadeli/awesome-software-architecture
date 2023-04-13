@@ -58,3 +58,4 @@
 - [A Basic Guide to SQL Server Stored Procedures](https://www.sqlservertutorial.net/sql-server-stored-procedures/basic-sql-server-stored-procedures/)
 - [SQL Server Clustered Indexes](https://www.sqlservertutorial.net/sql-server-indexes/sql-server-clustered-indexes/)
 - [SQL Server CREATE INDEX](https://www.sqlservertutorial.net/sql-server-indexes/sql-server-create-index/)
+- [SQL Server Index Fragmentation Overview](https://www.mssqltips.com/sqlservertip/4331/sql-server-index-fragmentation-overview/)

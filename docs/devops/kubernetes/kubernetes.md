@@ -107,6 +107,7 @@
 - [Configuration management in Kubernetes for beginners](https://www.youtube.com/watch?v=o-gXx7r7Rz4)
 - [Credentials and Configs in Kubernetes Secrets and ConfigMaps](https://www.youtube.com/watch?v=tWc3wfC8sOc)
 - [Level-up Your DevOps with GitHub Actions and Kubernetes](https://www.youtube.com/watch?v=TMbXwNtuAJo)
+- [Kubernetes + OpenAI = K8sGPT, giving you AI superpowers!](https://www.youtube.com/watch?v=7WA8XVrod2Y)
 
 ## 📦 Libraries
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
@@ -141,6 +142,9 @@
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
 - [bonnefoa/kubectl-fzf](https://github.com/bonnefoa/kubectl-fzf) - A fast kubectl autocompletion with fzf
+- [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - Kubectl plugin for OpenAI GPT
+- [kubernetes-client/csharp](https://github.com/kubernetes-client/csharp) - Officially supported dotnet Kubernetes Client library
+- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes SRE superpowers to everyone
 
 ## 🚀 Samples
 - [arashkaffamanesh/practical-kubernetes-problems](https://github.com/arashkaffamanesh/practical-kubernetes-problems) - For Kubernauts' Practical Kubernetes Trainings

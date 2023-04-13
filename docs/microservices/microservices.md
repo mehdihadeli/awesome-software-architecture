@@ -28,7 +28,7 @@
 - [When to use the microservice architecture: part 5 - the monolithic architecture and rapid, frequent, reliable and sustainable software delivery](https://chrisrichardson.net/post/microservices/2021/02/14/why-microservices-part-5-monolith.html)
 - [A Microservices implementation journey — Part 1](https://koukia.ca/a-microservices-implementation-journey-part-1-9f6471fe917)
 - [Microservices and Docker with .Net Core and Azure Service Fabric - Part One](https://elvanydev.com/Microservices-part1/) 
-- [Microservices and Docker with .Net Core and Azure Service Fabric - Part two](http://elvanydev.com/Microservices-part2/) 
+- [Microservices and Docker with .Net Core and Azure Service Fabric - Part two](http://elvanydev.com/Microservices-part2/)
 - [Microservices and Docker with .Net Core and Azure Service Fabric - Part three](http://elvanydev.com/Microservices-part3/) 
 - [Microservices and Docker with .Net Core and Azure Service Fabric - Part four](http://elvanydev.com/Microservices-part4/) 
 - [What are Microservices? Advantages and Disadvantages of Microservices Architecture](https://www.dotnettricks.com/learn/microservices/architecture-example-advantages)
@@ -146,6 +146,8 @@
 - [Mauro Servienti - Designing a UI for Microservices](https://www.youtube.com/watch?v=AxWGAiIg7_0)
 - [The HIDDEN Challenge of Microservices: UI Composition](https://www.youtube.com/watch?v=ILbjKR1FXoc)
 - [Mapping event type by convention](https://event-driven.io/en/how_to_map_event_type_by_convention/)
+- [Should Each Microservice Have Its Own Database? by Dmitry Belyaev](https://www.youtube.com/watch?v=A62GpUmO9q0)
+
 ## 📦 Libraries
 - [rebus-org/Rebus](https://github.com/rebus-org/Rebus) - 🚌 Simple and lean service bus implementation for .NET
 - [dotnetcore/CAP](https://github.com/dotnetcore/CAP) - Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
@@ -251,6 +253,7 @@
 - [thinktecture-labs/cloud-native-sample](https://github.com/thinktecture-labs/cloud-native-sample) - Sample application to demonstrate how to build, orchestrate, and automate a polyglot cloud-native application
 - [chayxana/Restaurant-App](https://github.com/chayxana/Restaurant-App) - Restaurant App 🍔 is a sample open-source e-Commerce 🛒 application for ordering foods, powered by polyglot microservices architecture and cross-platform development including mobile and web
 - [thangchung/coffeeshop-on-dapr](https://github.com/thangchung/coffeeshop-on-dapr) - The coffeeshop event-driven application which is developed and run on Dapr
+- [thangchung/try-nomad-dapr](https://github.com/thangchung/try-nomad-dapr)
 
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)

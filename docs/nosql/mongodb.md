@@ -19,6 +19,8 @@
 - [MongoDB – Add/Update new field to document using UpdateOne – II](https://www.thecodebuzz.com/mongodb-add-update-field-to-document-in-mongodb-collection/)
 - [MongoDB – Add new field to document using UpdateMany -I](https://www.thecodebuzz.com/mongodb-add-new-field-every-document-in-mongodb-collection/)
 - [NoSQL – MongoDB Repository Implementation in .NET Core with Unit Testing example](https://www.thecodebuzz.com/mongodb-repository-implementation-unit-testing-net-core-example/)
+- [Unit Testing and Mock MongoDB DbContext in ASP.NET Core](https://www.thecodebuzz.com/unit-testing-mocking-dbcontext-mongo-db-asp-net-core/)
+- [Unit Testing and Mocking MongoDB Extension Method in ASP.NET Core](https://www.thecodebuzz.com/mongodb-driver-mocking-unit-testing-iasynccursor-async-method-part1/)
 - [MongoDB Naming Conventions and Standards](https://www.thecodebuzz.com/mongo-db-naming-conventions-standards-guidelines/)
 - [MongoDB Query for records where the field is null or not set](https://www.thecodebuzz.com/mongodb-query-field-is-null-or-not-set-mongo-shell-compass/)
 - [MongoDB create a collection inside a Transaction – Guidelines](https://www.thecodebuzz.com/mongodb-create-a-collection-inside-a-transaction-create-index/)
@@ -41,6 +43,8 @@
 - [What is new way of setting DateTimeSerializationOptions.Defaults in mongodb c# driver?](https://stackoverflow.com/questions/16185262/what-is-new-way-of-setting-datetimeserializationoptions-defaults-in-mongodb-c-sh)
 - [Serialization in MongoDB Driver C#](http://mongodb.github.io/mongo-csharp-driver/2.18/reference/bson/serialization/)
 - [GuidSerializer changes in MongoDB Driver C# ](http://mongodb.github.io/mongo-csharp-driver/2.18/reference/bson/guidserialization/serializerchanges/guidserializerchanges/)
+- [Implementing CRUD operations with ASP.NET Core Web API and Mongo DB](https://dotnetthoughts.net/implementing-crud-operations-with-webapi-and-mongodb/) ⭐
+
 ## 📺 Videos
 - [MongoDB In 30 Minutes](https://www.youtube.com/watch?v=pWbMrx5rVBE)
 - [More Flexibility?! Sharding Gets Even Easier with MongoDB 4.4](https://www.youtube.com/watch?v=wGgMnJQunEc)
@@ -64,6 +68,8 @@
 - [How MongoDB uses MongoDB at Scale](https://www.mongodb.com/presentations/how-mongodb-uses-mongodb-at-scale)
 - [Best Practices for Migrating from RDBMS to MongoDB Webinar](https://www.mongodb.com/presentations/migrating-from-rdbms-to-mongodb-webinar-hk)
 - [Advanced Schema Design Patterns](https://www.youtube.com/watch?v=bxw1AkH2aM4)
+- [Making MongoDB Easy for Entity Framework Users with MongoFramework](https://www.youtube.com/watch?v=qsFyJSCz50Q)
+
 ## Courses
 - [MongoDB Basics](https://university.mongodb.com/courses/M001/about)
 - [MongoDB for SQL Pros](https://university.mongodb.com/courses/M100/about)
@@ -74,6 +80,8 @@
 
 ## 🚀 Samples
 - [dj-nitehawk/MongoWebApiStarter](https://github.com/dj-nitehawk/MongoWebApiStarter) - A full-featured starter template for `dotnet new` to quickly scaffold an Asp.Net 6 Web-Api project with MongoDB as the data store.
+- [anuraj/BookStoreApi](https://github.com/anuraj/BookStoreApi)
+- [brunobritodev/MongoDB-RepositoryUoWPatterns](https://github.com/brunobritodev/MongoDB-RepositoryUoWPatterns)
 
 ## Library
 - [TurnerSoftware/MongoFramework](https://github.com/TurnerSoftware/MongoFramework) - An "Entity Framework"-like interface for MongoDB
@@ -82,3 +90,4 @@
 - [dj-nitehawk/MongoDB-Entities-Repository-Pattern](https://github.com/dj-nitehawk/MongoDB-Entities-Repository-Pattern) - Example project showcasing how to use the repository pattern with the MongoDB.Entities data access library
 - [alexandre-spieser/mongodb-generic-repository](https://github.com/alexandre-spieser/mongodb-generic-repository) - An example of generic repository implementation using the MongoDB C# Sharp 2.0 driver (async)
 - [alexandre-spieser/AspNetCore.Identity.MongoDbCore](https://github.com/alexandre-spieser/AspNetCore.Identity.MongoDbCore) - A MongoDb UserStore and RoleStore adapter for Microsoft.AspNetCore.Identity 2.2. Allows you to use MongoDb instead of SQL server with Microsoft.AspNetCore.Identity 2.2. (not Identity 3.0)
+- [Parkbee/mongo-db](https://github.com/Parkbee/mongo-db) - This repository is intended to be a location for all ParkBee MongoDB utilities

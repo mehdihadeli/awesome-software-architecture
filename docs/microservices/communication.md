@@ -19,3 +19,4 @@
 - [Data Design and Modeling for Microservices](https://www.youtube.com/watch?v=KPtLbSEFe6c)
 - [GOTO 2017 • Effective Microservices in a Data-Centric World • Randy Shoup](https://www.youtube.com/watch?v=whi0T1a4cWU)
 - [GOTO 2018 • 5 Reasons to use Reactive Programming if you are not eBay • Grygoriy Gonchar](https://www.youtube.com/watch?v=DIQ9aNkjKZ8)
+- [Should Each Microservice Have Its Own Database? by Dmitry Belyaev](https://www.youtube.com/watch?v=A62GpUmO9q0)

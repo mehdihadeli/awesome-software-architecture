@@ -153,3 +153,6 @@
 - [EventStore/training-advanced-dotnet](https://github.com/EventStore/training-advanced-dotnet)
 - [oskardudycz/EventSourcing.NetCore/Sample/HotelManagement](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/HotelManagement)
 - [AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing](https://github.com/AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing) - The main objective of this cloud-native project is to represent the state of the art of a distributed, reliable, and highly scalable system by interpreting the most relevant principles of Reactive Domain Driven Design.
+- [matt-bentley/DDDMart](https://github.com/matt-bentley/DDDMart) - Sample eCommerce application using Domain Driven Design
+- [Nairda015/IGroceryStore](https://github.com/Nairda015/IGroceryStore) - IGroceryStore - Loosely coupled monolith
+- [bitloops/ddd-hexagonal-cqrs-es-eda](https://github.com/bitloops/ddd-hexagonal-cqrs-es-eda) - Complete working example of using Domain Driven Design (DDD), Hexagonal Architecture, CQRS, Event Sourcing (ES), Event Driven Architecture (EDA), Behaviour Driven Development (BDD) using TypeScript and NestJS

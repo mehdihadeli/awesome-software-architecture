@@ -150,6 +150,8 @@
 - [Guide to Projections and Read Models in Event Driven Architecture](https://event-driven.io/en/projections_and_read_models_in_event_driven_architecture/) ⭐
 - [Event-driven projections in Marten explained](https://event-driven.io/en/projections_in_marten_explained/)
 - [Projecting Marten events to Elasticsearch](https://event-driven.io/en/projecting_from_marten_to_elasticsearch/)
+- [Ensuring uniqueness in Marten event store](https://event-driven.io/en/unique_constraint_in_marten_event_store/)
+- [Event stores are key-value databases, and why that matters](https://event-driven.io/en/event_stores_are_key_value_stores/)
 
 ## 📺 Videos
 - [Event Sourcing Playlist - CodeOpinion](https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ)
@@ -273,3 +275,4 @@
 - [EventStore/training-advanced-dotnet](https://github.com/EventStore/training-advanced-dotnet)
 - [mat-mcloughlin/PatientMangement](https://github.com/mat-mcloughlin/PatientMangement) - A simple example of how to build an event sourced application
 - [klimisa/aggregate-implementation-patterns-csharp](https://github.com/klimisa/aggregate-implementation-patterns-csharp) - Aggregate implementations workshop port to C#
+- [bitloops/ddd-hexagonal-cqrs-es-eda](https://github.com/bitloops/ddd-hexagonal-cqrs-es-eda) - Complete working example of using Domain Driven Design (DDD), Hexagonal Architecture, CQRS, Event Sourcing (ES), Event Driven Architecture (EDA), Behaviour Driven Development (BDD) using TypeScript and NestJS

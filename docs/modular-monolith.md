@@ -58,6 +58,7 @@
 - [Asynchronous Messaging in a Loosely Coupled Monolith](https://www.youtube.com/watch?v=Qi6TaIYprqc)
 - [Splitting up a Monolith to (micro)Services](https://www.youtube.com/watch?v=Inscvakv5XI)
 - [Avoiding a Big Ball of Mud! Coupling in a Monolith](https://www.youtube.com/watch?v=MLjjWkN44q4)
+
 ## 🚀 Samples
 - [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith application with Domain-Driven Design approach.
 - [kgrzybek/modular-monolith-with-ddd-fe-react](https://github.com/kgrzybek/modular-monolith-with-ddd-fe-react) - FrontEnd React application for Modular Monolith With DDD repository and system
@@ -86,3 +87,4 @@
 - [Ridikk12/ModularMonolith](https://github.com/Ridikk12/ModularMonolith)
 - [thangchung/coffeeshop-modular](https://github.com/thangchung/coffeeshop-modular) - .NET coffee shop application with modular approach
 - [chrisklug/asp-net-modular-monolith](https://github.com/chrisklug/asp-net-modular-monolith) 
+- [Nairda015/IGroceryStore](https://github.com/Nairda015/IGroceryStore) - IGroceryStore - Loosely coupled monolith app

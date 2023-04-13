@@ -66,6 +66,7 @@
 - [Clean Architecture Example & Breakdown - Do I use it?](https://www.youtube.com/watch?v=Ys_W6MyWOCw)
 - [Tired of Layers? Vertical Slice Architecture to the rescue!](https://www.youtube.com/watch?v=lsddiYwWaOQ)
 - [Vertical Slice Architecture, not Layers!](https://www.youtube.com/watch?v=L2Wnq0ChAIA) ⭐
+
 ## 🚀 Samples
 - [jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages) 
 - [oskardudycz/EventSourcing.NetCore/Sample/Warehouse](https://github.com/oskardudycz/EventSourcing.NetCore/tree/cqrs_with_net5/Sample/Warehouse)
@@ -78,14 +79,13 @@
 - [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) 
 - [ardalis/ApiEndpoints/tree/master/sample](https://github.com/ardalis/ApiEndpoints/tree/master/sample)
 - [PacktPublishing/ASP.NET-Core-5-Design-Patterns](https://github.com/PacktPublishing/ASP.NET-Core-5-Design-Patterns/tree/main/C15/Vertical%20Slice%20Architecture)
-- [isaacOjeda/MinimalApiArchitecture](https://github.com/isaacOjeda/MinimalApiArchitecture) - .NET 6 Minimal API with Vertical Slice Architecture
+- [isaacOjeda/MinimalApiArchitecture](https://github.com/isaacOjeda/MinimalApiArchitecture) ⭐ - .NET 6 Minimal API with Vertical Slice Architecture
 - [NikiforovAll/minimal-api-example](https://github.com/NikiforovAll/minimal-api-example) - Original blog post: https://nikiforovall.github.io/dotnet/aspnetcore/2021/09/10/opinionated-minimal-api.html
 - [dj-nitehawk/MiniDevTo](https://github.com/dj-nitehawk/MiniDevTo) - The source code of the Dev.To article [Building REST APIs In .Net 6 The Easy Way!](https://dev.to/djnitehawk/building-rest-apis-in-net-6-the-easy-way-3h0d)
 - [pdevito3/craftsman](https://github.com/pdevito3/craftsman) - A .NET 6 scaffolding tool to help you stop worrying about boilerplate and focus on your business logic
-- [oskardudycz/EventSourcing.NetCore/Sample/ECommerce](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/ECommerce)
+- [oskardudycz/EventSourcing.NetCore/Sample/ECommerce](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/ECommerce) ⭐
 - [oskardudycz/EventSourcing.NetCore/MeetingsManagement](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/MeetingsManagement)
 - [oskardudycz/EventSourcing.JVM](https://github.com/oskardudycz/EventSourcing.JVM) - Examples and Tutorials of Event Sourcing in JVM languages
-
 
 ## 📚 Books
 - [An Atypical ASP.NET Core 5 Design Patterns Guide](https://www.packtpub.com/product/an-atypical-asp-net-core-5-design-patterns-guide/9781789346091)

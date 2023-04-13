@@ -34,6 +34,9 @@
 - [6 Code Smells with your CQRS Events – and How to Avoid Them](https://danielwhittaker.me/2014/10/18/6-code-smells-cqrs-events-avoid/)
 - [Domain Events - Alexey Zimarev](https://alexey-zimarev.medium.com/domain-events-f56555258cf5)
 - [.NET Domain Events Using MediatR](https://wrapt.dev/blog/dotnet-domain-events)
+- [Leaking Value Objects from your Domain](https://codeopinion.com/leaking-value-objects-from-your-domain/) ⭐
+- [Why we Avoid Putting Value Objects in Events](https://buildplease.com/pages/vos-in-events/) ⭐
+
 ## 🚀 Samples
 - [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture/blob/main/src/Clean.Architecture.Infrastructure/Data/AppDbContext.cs)
 - [vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices/blob/da6b9e0d0120693e0239a1dc4077ba452163d61a/src/BasicBuildingBlocks/N8T.Infrastructure.EfCore/Extensions.cs#L63)
@@ -46,3 +49,4 @@
 - [Working on ASP.NET Core apps: eShopOnWeb and Domain Events](https://youtu.be/x-UXUGVLMj8?t=4462)
 - [Implementing Domain Events with Entity Framework Core](https://www.youtube.com/watch?v=SbMbWmmukws)
 - [GOTO 2019 • Temporal Modelling • Mathias Verraes](https://www.youtube.com/watch?v=KNqOWT0lOYY)
+- [Leaking Value Objects from your Domain](https://www.youtube.com/watch?v=CdanF8PWJng) ⭐

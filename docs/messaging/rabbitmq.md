@@ -1,15 +1,15 @@
 # RabbitMQ
 
 ## 📕 Articles
-- [RabbitMQ Introduction](https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html)
-- [RabitMQ Work Queues(using the .NET Client)](https://www.rabbitmq.com/tutorials/tutorial-two-dotnet.html)
-- [RabbitMQ Publish/Subscribe](https://www.rabbitmq.com/tutorials/tutorial-three-dotnet.html)
-- [RabbitMQ Routing](https://www.rabbitmq.com/tutorials/tutorial-four-dotnet.html)
-- [RabbitMQ Topics](https://www.rabbitmq.com/tutorials/tutorial-five-dotnet.html)
-- [RabbitMQ Remote procedure call (RPC)](https://www.rabbitmq.com/tutorials/tutorial-six-dotnet.html)
-- [RabbitMQ Publisher Confirms](https://www.rabbitmq.com/tutorials/tutorial-seven-dotnet.html)
-- [Consumer Acknowledgements and Publisher Confirms](https://www.rabbitmq.com/confirms.html)
-- [AMQP 0-9-1 Model Explained](https://www.rabbitmq.com/tutorials/amqp-concepts.html)
+- [RabbitMQ Introduction](https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html) ⭐
+- [RabitMQ Work Queues(using the .NET Client)](https://www.rabbitmq.com/tutorials/tutorial-two-dotnet.html) ⭐
+- [RabbitMQ Publish/Subscribe](https://www.rabbitmq.com/tutorials/tutorial-three-dotnet.html) ⭐
+- [RabbitMQ Routing](https://www.rabbitmq.com/tutorials/tutorial-four-dotnet.html) ⭐
+- [RabbitMQ Topics](https://www.rabbitmq.com/tutorials/tutorial-five-dotnet.html) ⭐
+- [RabbitMQ Remote procedure call (RPC)](https://www.rabbitmq.com/tutorials/tutorial-six-dotnet.html) ⭐
+- [RabbitMQ Publisher Confirms](https://www.rabbitmq.com/tutorials/tutorial-seven-dotnet.html) ⭐
+- [Consumer Acknowledgements and Publisher Confirms](https://www.rabbitmq.com/confirms.html) ⭐
+- [AMQP 0-9-1 Model Explained](https://www.rabbitmq.com/tutorials/amqp-concepts.html) ⭐
 - [RabbitMQ URI Specification](https://www.rabbitmq.com/uri-spec.html)
 - [Compatibility and Conformance - Classes from the AMQP specification](https://www.rabbitmq.com/specification.html)
 - [AMQP 0-9-1 Complete Reference Guide](https://www.rabbitmq.com/amqp-0-9-1-reference.html)
@@ -68,6 +68,19 @@
 - [RabbitMQ C# [RabbitMQ .Net] Implementation - RabbitMQ Beginner to Advanced Tutorial - Part 03](https://www.youtube.com/watch?v=3erQZTV52CI)
 - [RabbitMQ Best Practice | Webinar with CloudAMQP](https://www.youtube.com/watch?v=HzPOQsMWrGQ)
 - [How to Use RabbitMQ in ASP.NET Core](https://code-maze.com/aspnetcore-rabbitmq/)
+- [RabbitMQ- Tutorial 3 - Core Concepts](https://www.youtube.com/watch?v=iIjCjUKwzZw)
+- [RabbitMQ- Tutorial 5 - AMQP for RabbitMQ (Part 1)](https://www.youtube.com/watch?v=1QPZbPOUmMk)
+- [RabbitMQ- Tutorial 6 - AMQP for RabbitMQ (Part 2)](https://www.youtube.com/watch?v=mXBAjzns6KA)
+- [RabbitMQ- Tutorial 7 - Competing Consumers](https://www.youtube.com/watch?v=hi8DjlcbN4A)
+- [RabbitMQ- Tutorial 8b - Competing Consumers C# Implementation](https://www.youtube.com/watch?v=LBOfQiaGyxQ)
+- [RabbitMQ- Tutorial 9 - Pub/Sub](https://www.youtube.com/watch?v=rgTW-cserPo)
+- [RabbitMQ- Tutorial 11- Routing](https://www.youtube.com/watch?v=56IyW2OWllA)
+- [RabbitMQ- Tutorial 12b - Routing Implementation in C#](https://www.youtube.com/watch?v=JYzhdGvSqrY)
+- [RabbitMQ- Tutorial 15 - Exchange-Exchange Routing, Headers Exchange and Consistent Hashing Exchange](https://www.youtube.com/watch?v=a3dxzvqDhDg)
+- [RabbitMQ- Tutorial 16b - Ex-Ex Routing, Headers Exchange and Consistent Hashing Exchange in C#](https://www.youtube.com/watch?v=dDrmSNCEsS0)
+- [RabbitMQ- Tutorial 17 - Publishing Options](https://www.youtube.com/watch?v=2hQm4IPM8sM)
+- [RabbitMQ- Tutorial 18 - Alternate Exchanges, Dead Letter Exchanges, Message Acks and Queue Options](https://www.youtube.com/watch?v=M7Mg7izbi7w)
+- [RabbitMQ- Tutorial 19b - Alt Exchanges, Dead Letter, Message Acks and Queue Options in C#](https://www.youtube.com/watch?v=JUqcxIkpteg)
 
 ## 📚 Books
 - [The Optimal RabbitMQ Guide](https://www.cloudamqp.com/rabbitmq_ebook.html)
@@ -88,3 +101,4 @@
 ## 🚀 Samples
 - [hrabbitmq/rabbitmq-tutorials/dotnet-6](https://github.com/rabbitmq/rabbitmq-tutorials/tree/master/dotnet-6)
 - [hgmauri/sample-rawrabbit-mediatr](https://github.com/hgmauri/sample-rawrabbit-mediatr) - Example of using RabbitMQ with RawRabbit and MediatR in .NET 5
+- [delaneybrian/jumpstartCS-rabbitmq-csharp](https://github.com/delaneybrian/jumpstartCS-rabbitmq-csharp)
