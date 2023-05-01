@@ -3,4 +3,5 @@
 ## Resources
 - [Wolverine Docs](https://wolverine.netlify.app/)
 
-## Articles
+## Vidoes
+- [Don't let MediatR hold you back, try this...](https://www.youtube.com/watch?v=YlG3bnJ7yCc)

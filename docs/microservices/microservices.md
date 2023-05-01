@@ -175,6 +175,7 @@
 - [Bullabs/Qitar](https://github.com/Bullabs/Qitar) - Domain Driven Design oriented application framework.
 - [JasperFx/wolverine](https://github.com/JasperFx/wolverine) - Next Generation .NET Command and Message Bus
 - [ServiceComposer/ServiceComposer.AspNetCore](https://github.com/ServiceComposer/ServiceComposer.AspNetCore) - ServiceComposer, a ViewModel Composition API Gateway
+- [EasyDesk/easydesk-clean-architecture](https://github.com/EasyDesk/easydesk-clean-architecture) - A microservice framework based on the Clean Architecture and the Domain Driven Design.
 
 ## 🚀 Samples
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.

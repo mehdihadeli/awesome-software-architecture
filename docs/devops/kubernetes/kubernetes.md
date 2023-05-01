@@ -85,6 +85,7 @@
 - [Kubernetes Error Codes: Field Is Immutable](www.datree.io/resources/kubernetes-error-codes-field-is-immutable)
 - [Use Port Forwarding to Access Applications in a Cluster](https://kubernetes.io/docs/tasks/access-application-cluster/port-forward-access-application-cluster/)
 - [Configure Liveness, Readiness and Startup Probes](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/) ⭐
+- [Kubernetes–Override an appsettings.json file in an ASP.NET Core app through ConfigMaps](https://bartwullems.blogspot.com/2021/03/kubernetesoverride-appsettingsjson-file.html)
 
 ## 📺 Videos
 - [Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]](https://www.youtube.com/watch?v=X48VuDVv0do)
@@ -145,6 +146,8 @@
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - Kubectl plugin for OpenAI GPT
 - [kubernetes-client/csharp](https://github.com/kubernetes-client/csharp) - Officially supported dotnet Kubernetes Client library
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes SRE superpowers to everyone
+- [open-policy-agent/conftest](https://github.com/open-policy-agent/conftest) - Write tests against structured configuration data using the Open Policy Agent Rego query language
+- [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources!
 
 ## 🚀 Samples
 - [arashkaffamanesh/practical-kubernetes-problems](https://github.com/arashkaffamanesh/practical-kubernetes-problems) - For Kubernauts' Practical Kubernetes Trainings
@@ -162,6 +165,7 @@
 - [jxlwqq/kubernetes-examples](https://github.com/jxlwqq/kubernetes-examples) - Kubernetes  samples
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [fluxcd/flux2-kustomize-helm-example](https://github.com/fluxcd/flux2-kustomize-helm-example) - A GitOps workflow example for multi-env deployments with Flux, Kustomize and Helm.
+
 ## 📚 Books
 - [Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications](https://www.amazon.com/Kubernetes-Patterns-Designing-Cloud-Native-Applications/dp/1492050288)
 - [Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes](https://www.amazon.com/Kubernetes-Best-Practices-Blueprints-Applications/dp/1492056472/)

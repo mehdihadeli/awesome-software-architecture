@@ -36,11 +36,17 @@
 - [MassTransit Unit Testing](https://www.youtube.com/watch?v=Cx-Mc0DCpfE)
 - [MassTransit Season 2 - Unit Testing with PostgreSQL and Entity Framework](https://www.youtube.com/watch?v=yfRRqPtqkgM)
 - [MassTransit Testing with Web Application Factory](https://www.youtube.com/watch?v=Uzme7vInDz0)
+- [MassTransit Commute - Error Queue](https://www.youtube.com/watch?v=3TMKUu7c4lc)
+- [MassTransit Fault Handling](https://www.youtube.com/watch?v=-lpGYnznbco)
+- [MassTransit Exception Handling, Retry Middleware](https://www.youtube.com/watch?v=f1Oa65U2OeQ)
+
 ## 📦 Libraries
 - [GokGokalp/MetroBus](https://github.com/GokGokalp/MetroBus) - Lightweight messaging wrapper of MassTransit
 - [NCodeGroup/MassTransit.Extensions.Hosting](https://github.com/NCodeGroup/MassTransit.Extensions.Hosting) - MassTransit configuration extensions using Microsoft.Extensions.Hosting.IHostedService and Microsoft.Extensions.DependencyInjection.
 - [phatboyg/GreenPipes](https://github.com/phatboyg/GreenPipes) - An asynchronous pipe implementation for the Task Parallel Library
+
 ## 🚀 Samples
+- [MassTransit/Sample-Twitch](https://github.com/MassTransit/Sample-Twitch)
 - [marco-bue/masstransit-microservices](https://github.com/marco-bue/masstransit-microservices) - A sample on how to utilize MassTransit to do asynchronous communication between microservices
 - [jbw/TooBigToFailBurgerShop](https://github.com/jbw/TooBigToFailBurgerShop) - .NET Microservice Reference Application. It's also an over-engineered burger shop!
 - [kalintsenkov/BettingSystem](https://github.com/kalintsenkov/BettingSystem) - ASP.NET Core | Domain-Driven Design | Clean Architecture

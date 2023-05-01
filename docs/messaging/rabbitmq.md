@@ -9,6 +9,10 @@
 - [RabbitMQ Remote procedure call (RPC)](https://www.rabbitmq.com/tutorials/tutorial-six-dotnet.html) ⭐
 - [RabbitMQ Publisher Confirms](https://www.rabbitmq.com/tutorials/tutorial-seven-dotnet.html) ⭐
 - [Consumer Acknowledgements and Publisher Confirms](https://www.rabbitmq.com/confirms.html) ⭐
+- [Alternate Exchanges](https://www.rabbitmq.com/ae.html) ⭐
+- [Consumer Prefetch](https://www.rabbitmq.com/consumer-prefetch.html) ⭐
+- [Time-To-Live and Expiration](https://www.rabbitmq.com/ttl.html) ⭐
+- [Dead Letter Exchanges](https://www.rabbitmq.com/dlx.html) ⭐
 - [AMQP 0-9-1 Model Explained](https://www.rabbitmq.com/tutorials/amqp-concepts.html) ⭐
 - [RabbitMQ URI Specification](https://www.rabbitmq.com/uri-spec.html)
 - [Compatibility and Conformance - Classes from the AMQP specification](https://www.rabbitmq.com/specification.html)
@@ -56,6 +60,9 @@
 - [A C# .NET Client Proxy For The RabbitMQ Management API](http://mikehadlow.blogspot.com/2012/11/a-c-net-client-proxy-for-rabbitmq.html)
 - [CLEANING UP QUEUES AND EXCHANGES ON RABBITMQ](https://www.planetgeek.ch/2015/08/16/cleaning-up-queues-and-exchanges-on-rabbitmq/)
 - [CLEANUP CODE FOR CLEANING UP QUEUES AND EXCHANGES ON RABBITMQ](https://www.planetgeek.ch/2015/08/31/cleanup-code-for-cleaning-up-queues-and-exchanges-on-rabbitmq/)
+- [Dead Letter Exchanges](https://www.rabbitmq.com/dlx.html)
+- [FAQ: When and how to use the RabbitMQ Dead Letter Exchange](https://www.cloudamqp.com/blog/when-and-how-to-use-the-rabbitmq-dead-letter-exchange.html) ⭐
+
 ## 📺 Videos
 - [The best online training tool for RabbitMQ](https://training.cloudamqp.com/)
 - [What is RabbitMQ?](https://youtu.be/7rkeORD4jSw)

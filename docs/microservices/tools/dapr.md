@@ -43,6 +43,8 @@
 - [Distributed Application Runtime, Introduction for .Net Developers](https://www.youtube.com/watch?v=ruQFIPZl2QM)
 - [Building reliable and portable microservices with Dapr and .NET](https://www.youtube.com/watch?v=Cb0tyU9uSLQ)
 - [Sidecar Pattern to SIMPLIFY services or just more COMPLEXITY?](https://www.youtube.com/watch?v=9zAjtcf9Wyo)
+- [Introduction to Dapr](https://www.youtube.com/watch?v=nK8Ss2UMAxc)
+
 ## 📦 Libraries
 - [dapr/dashboard](https://github.com/dapr/dashboard) - General purpose dashboard for Dapr
 
@@ -61,6 +63,8 @@
 - [baotoq/micro-commerce](https://github.com/baotoq/micro-commerce) - React, Nextjs, ASP.NET Core 5.0, IdentityServer, Dapr, Azure pipeline, K8S, SonarQube
 - [andreatosato/dapr-cloudchampion](https://github.com/andreatosato/dapr-cloudchampion)
 - [thangchung/coffeeshop-on-dapr](https://github.com/thangchung/coffeeshop-on-dapr) - The coffeeshop event-driven application which is developed and run on Dapr
+- [edwinvw/dapr-workshop](https://github.com/edwinvw/dapr-workshop) - Workshop that teaches how to apply Dapr to an existing .NET, Java or Python based microservices application.
+- [EdwinVW/dapr-workshop-csharp](https://github.com/EdwinVW/dapr-workshop-csharp) - Source code for the .NET version of the Dapr workshop (see README for more info).
 
 ## 📚 Books
 - [Dapr for .NET Developers](https://docs.microsoft.com/en-us/dotnet/architecture/dapr-for-net-developers/?WT.mc_id=-blog-scottha)

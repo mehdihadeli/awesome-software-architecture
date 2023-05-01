@@ -97,7 +97,7 @@
 - [How to Keep Docker Secrets When Working with Sensitive Data?](https://www.cherryservers.com/blog/how-to-keep-docker-secrets-when-working-with-sensitive-data)
 - [Docker and .Net — Environment variables and appsettings.json](https://levelup.gitconnected.com/docker-environment-variables-appsettings-json-net-bdac052bf3db)
 - [Hot-Reload .NET Configuration in Kubernetes with ConfigMaps](https://www.thorsten-hans.com/hot-reload-net-configuration-in-kubernetes-with-configmaps/) ⭐
-- [Kubernetes–Override an appsettings.json file in an ASP.NET Core app through ConfigMaps](https://bartwullems.blogspot.com/2021/03/kubernetesoverride-appsettingsjson-file.html)
+- [Secure your .NET cloud apps with rootless Linux Containers](https://devblogs.microsoft.com/dotnet/securing-containers-with-rootless/)
 
 ## 📹 Videos
 - [Deploy a .NET Core API with Docker (Step-by-Step)](https://www.youtube.com/watch?v=f0lMGPB10bM)

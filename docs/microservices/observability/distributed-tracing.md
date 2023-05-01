@@ -82,12 +82,12 @@
 - [Just-in-Time Nomad: Running the OpenTelemetry Collector on Hashicorp Nomad with HashiQube](https://storiesfromtheherd.com/just-in-time-nomad-running-the-opentelemetry-collector-on-hashicorp-nomad-with-hashiqube-4eaf009b8382)
 - [How to setup OpenTelemetry instrumentation in ASP.NET core](https://dev.to/jmourtada/how-to-setup-opentelemetry-instrumentation-in-aspnet-core-23p5)
 - [What is OpenTelemetry?](https://lightstep.com/opentelemetry/about)
-- [Getting started with OpenTelemetry Metrics in .NET. Part 1: Key concepts](https://www.mytechramblings.com/posts/getting-started-with-opentelemetry-metrics-and-dotnet-part-1/)
-- [Getting started with OpenTelemetry Metrics in .NET. Part 2: Instrumenting the BookStore API](https://www.mytechramblings.com/posts/getting-started-with-opentelemetry-metrics-and-dotnet-part-2/)
+- [Getting started with OpenTelemetry Metrics in .NET. Part 1: Key concepts](https://www.mytechramblings.com/posts/getting-started-with-opentelemetry-metrics-and-dotnet-part-1/) ⭐
+- [Getting started with OpenTelemetry Metrics in .NET. Part 2: Instrumenting the BookStore API](https://www.mytechramblings.com/posts/getting-started-with-opentelemetry-metrics-and-dotnet-part-2/) ⭐
 - [OpenTelemetry Distributed Tracing](https://uptrace.dev/opentelemetry/distributed-tracing.html)
 - [OpenTelemetry Tracing API for .NET](https://uptrace.dev/opentelemetry/dotnet-tracing.html)
 - [Set up OpenTelemetry with Event Sourcing and Marten](https://event-driven.io/en/set_up_opentelemetry_wtih_event_sourcing_and_marten/)
-- [Automatic Instrumentation of Containerized .NET Applications With OpenTelemetry](https://www.twilio.com/blog/automatic-instrumentation-of-containerized-dotnet-applications-with-opentelemetry)
+- [Automatic Instrumentation of Containerized .NET Applications With OpenTelemetry](https://www.twilio.com/blog/automatic-instrumentation-of-containerized-dotnet-applications-with-opentelemetry) ⭐
 - [Instrumenting .NET Apps with OpenTelemetry](https://www.thorsten-hans.com/instrumenting-dotnet-apps-with-opentelemetry/)
 - [How to handle multiple commands in the same transaction](https://event-driven.io/en/simple_transactional_command_orchestration/)
 - [Observability with Grafana Cloud and OpenTelemetry in .net microservices](https://dev.to/dbolotov/observability-with-grafana-cloud-and-opentelemetry-in-net-microservices-448c) ⭐
@@ -110,6 +110,22 @@
 - [MassTransit v8 - Open Telemetry](https://www.youtube.com/watch?v=WsTYClGrOVI)
 - [.NET Diagnostics for Applications: Best Practices](https://www.pluralsight.com/courses/dot-net-diagnostics-applications-best-practices)
 - [Distributed Tracing in .NET 6 using OpenTelemetry - Martin Thwaites - NDC Copenhagen 2022](https://www.youtube.com/watch?v=3JnMfJM9K0c)
+
+## 📦 Libraries
+- [SkyAPM/SkyAPM-dotnet](https://github.com/SkyAPM/SkyAPM-dotnet) - The .NET/.NET Core instrument agent for Apache SkyWalking
+- [opentracing-contrib/csharp-netcore](https://github.com/opentracing-contrib/csharp-netcore) - OpenTracing instrumentation for .NET Core & .NET 5 apps
+- [jaegertracing/jaeger-client-csharp](https://github.com/jaegertracing/jaeger-client-csharp) - C# client (tracer) for Jaeger
+- [open-telemetry/opentelemetry-dotnet](https://github.com/open-telemetry/opentelemetry-dotnet) - The OpenTelemetry .NET Client
+- [SkyAPM/SkyAPM-dotnet](https://github.com/SkyAPM/SkyAPM-dotnet) - The .NET/.NET Core instrument agent for Apache SkyWalking
+- [jbogard/MongoDB.Driver.Core.Extensions.DiagnosticSources](https://github.com/jbogard/MongoDB.Driver.Core.Extensions.DiagnosticSources) - extends the core MongoDB C# driver to expose telemetry information via System.Diagnostics.
+- [jbogard/NServiceBus.Extensions.Diagnostics.OpenTelemetry](https://github.com/jbogard/NServiceBus.Extensions.Diagnostics.OpenTelemetry)
+- [jbogard/MongoDB.Driver.Core.Extensions.DiagnosticSources](https://github.com/jbogard/MongoDB.Driver.Core.Extensions.DiagnosticSources)
+- [open-telemetry/opentelemetry-dotnet-contrib](https://github.com/open-telemetry/opentelemetry-dotnet-contrib) - This repository contains set of components extending functionality of the OpenTelemetry .NET SDK. Instrumentation libraries, exporters, and other components can find their home here.
+- [open-telemetry/opentelemetry-dotnet/OpenTelemetry.Exporter.InMemory](https://github.com/open-telemetry/opentelemetry-dotnet/tree/main/src/OpenTelemetry.Exporter.InMemory) - The in-memory exporter stores data in a user provided memory buffer.
+- [alexvaluyskiy/prometheus-net-contrib](https://github.com/alexvaluyskiy/prometheus-net-contrib) - Exposes .NET core diagnostic listeners and counters
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector
+- [open-telemetry/opentelemetry-collector/](https://github.com/open-telemetry/opentelemetry-collector/) - OpenTelemetry Collector
+
 ## 🚀 Samples
 - [karlospn/opentelemetry-tracing-demo](https://github.com/karlospn/opentelemetry-tracing-demo) - Example about how to use OpenTelemetry for tracing when we have a series of distributed applications communicating between them
 - [jbogard/nsb-diagnostics-poc](https://github.com/jbogard/nsb-diagnostics-poc)
@@ -128,17 +144,4 @@
 - [davidfowl/TodoApi](https://github.com/davidfowl/TodoApi/blob/afdc367fadcfd979bb85dd73e5f48cf896ca0f1a/TodoApi/OpenTelemetryExtensions.cs#L11)
 - [oskardudycz/EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore/pull/181)
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous)
-## 📦 Libraries
-- [SkyAPM/SkyAPM-dotnet](https://github.com/SkyAPM/SkyAPM-dotnet) - The .NET/.NET Core instrument agent for Apache SkyWalking
-- [opentracing-contrib/csharp-netcore](https://github.com/opentracing-contrib/csharp-netcore) - OpenTracing instrumentation for .NET Core & .NET 5 apps
-- [jaegertracing/jaeger-client-csharp](https://github.com/jaegertracing/jaeger-client-csharp) - C# client (tracer) for Jaeger
-- [open-telemetry/opentelemetry-dotnet](https://github.com/open-telemetry/opentelemetry-dotnet) - The OpenTelemetry .NET Client
-- [SkyAPM/SkyAPM-dotnet](https://github.com/SkyAPM/SkyAPM-dotnet) - The .NET/.NET Core instrument agent for Apache SkyWalking
-- [jbogard/MongoDB.Driver.Core.Extensions.DiagnosticSources](https://github.com/jbogard/MongoDB.Driver.Core.Extensions.DiagnosticSources) - extends the core MongoDB C# driver to expose telemetry information via System.Diagnostics.
-- [jbogard/NServiceBus.Extensions.Diagnostics.OpenTelemetry](https://github.com/jbogard/NServiceBus.Extensions.Diagnostics.OpenTelemetry)
-- [jbogard/MongoDB.Driver.Core.Extensions.DiagnosticSources](https://github.com/jbogard/MongoDB.Driver.Core.Extensions.DiagnosticSources)
-- [open-telemetry/opentelemetry-dotnet-contrib](https://github.com/open-telemetry/opentelemetry-dotnet-contrib) - This repository contains set of components extending functionality of the OpenTelemetry .NET SDK. Instrumentation libraries, exporters, and other components can find their home here.
-- [open-telemetry/opentelemetry-dotnet/OpenTelemetry.Exporter.InMemory](https://github.com/open-telemetry/opentelemetry-dotnet/tree/main/src/OpenTelemetry.Exporter.InMemory) - The in-memory exporter stores data in a user provided memory buffer.
-- [alexvaluyskiy/prometheus-net-contrib](https://github.com/alexvaluyskiy/prometheus-net-contrib) - Exposes .NET core diagnostic listeners and counters
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector
-- [open-telemetry/opentelemetry-collector/](https://github.com/open-telemetry/opentelemetry-collector/) - OpenTelemetry Collector
+- [kimcuhoang/practical-net-otelcollector](https://github.com/kimcuhoang/practical-net-otelcollector) - Practical .NET Observability with OpenTelemetry Collector

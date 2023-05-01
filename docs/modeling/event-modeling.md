@@ -10,6 +10,7 @@
 - [Natural Human Thinking - Event Storming vs Event Modeling](https://eventmodeling.org/posts/human-natural-thinking/)
 - [Event Modeling Traditional Systems](https://eventmodeling.org/posts/event-modeling-traditional-systems/)
 
+
 ## 📺 Videos
 - [Copenhagen DDD Event Modeling with Adam Dymitruk](https://www.youtube.com/watch?v=U_MwAEf8V_A)
 - [OAuth2 Event Modeling in Go, Part 1](https://www.youtube.com/watch?v=32lvL_Un8ko)

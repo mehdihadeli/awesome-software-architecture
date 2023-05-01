@@ -8,8 +8,8 @@
 - [Martin Kleppmann Yotube](https://www.youtube.com/channel/UClB4KPy5LkJj1t3SgYVtMOQ/videos)
 - [Sairyss/distributed-systems-topics](https://github.com/Sairyss/distributed-systems-topics) - Topics and resources related to distributed systems, system design, microservices, scalability and performance, etc
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-## 📕 Articles
 
+## 📕 Articles
 - [Messaging patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/category/messaging) 
 - [Communication in a microservice architecture](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/communication-in-microservice-architecture)
 - [Asynchronous message-based communication](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/asynchronous-message-based-communication) 
@@ -185,6 +185,8 @@
 - [liuhll/silky](https://github.com/liuhll/silky) - The Silky framework is designed to help developers quickly build a microservice development framework through simple code and configuration under the .net platform.
 - [JasperFx/wolverine](https://github.com/JasperFx/wolverine) - Next Generation .NET Command and Message Bus
 - [boyney123/eventcatalog](https://github.com/boyney123/eventcatalog) - Discover, Explore and Document your Event Driven Architectures powered by Markdown.
+- [EasyDesk/easydesk-clean-architecture](https://github.com/EasyDesk/easydesk-clean-architecture) - A microservice framework based on the Clean Architecture and the Domain Driven Design.
+
 ## 📚 Books
 - [Enterprise Integration Patterns](https://amazon.com/o/asin/0321200683/ref=nosim/enterpriseint-20)
 - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/)
