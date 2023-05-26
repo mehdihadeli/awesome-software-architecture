@@ -15,12 +15,16 @@
 
 ## Viodes
 - [Prometheus Grafana Dotnet Core STEP BY STEP](https://www.youtube.com/watch?v=cvt1Vrs3ajU)
+- [Cloud-native development with .NET 8 | Microsoft Build 2023](https://www.youtube.com/watch?v=hz9d3AcZKqQ)
 
 ## Courses
 - [Introduction to Prometheus](https://training.promlabs.com/training/introduction-to-prometheus)
 
 ## 🚀 Samples
 - [Cingulara/dotnet-core-prometheus-grafana](https://github.com/Cingulara/dotnet-core-prometheus-grafana) - A tutorial repo to use .NET Core 2.2, Prometheus and Grafana to show metrics of your Web APIs
+- [bradygaster/dotnet-cloud-native-build-2023](https://github.com/bradygaster/dotnet-cloud-native-build-2023)
+- [kimcuhoang/practical-net-otelcollector](https://github.com/kimcuhoang/practical-net-otelcollector) ⭐ - Practical .NET Observability with OpenTelemetry Collector
+- [cecilphillip/grafana-otel-dotnet](https://github.com/cecilphillip/grafana-otel-dotnet) ⭐ - Sample setup showing ASP.NET Core observability with Prometheus, Loki, Grafana, Opentelemetry Collector
 
 ## 📦 Libraries
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database

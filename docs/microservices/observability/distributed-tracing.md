@@ -2,6 +2,7 @@
 
 ## 📘 Resources
 - [Awesome OpenTelemetry](https://github.com/magsther/awesome-opentelemetry) - A curated list of OpenTelemetry resources
+- [open-telemetry/semantic-conventions](https://github.com/open-telemetry/semantic-conventions) - Defines standards for generating consistent, accessible telemetry across a variety of domains
 
 ## 📕 Articles
 - [What is OpenTelemetry? - opentelemetry.io](https://opentelemetry.io/docs/concepts/what-is-opentelemetry/)
@@ -110,6 +111,7 @@
 - [MassTransit v8 - Open Telemetry](https://www.youtube.com/watch?v=WsTYClGrOVI)
 - [.NET Diagnostics for Applications: Best Practices](https://www.pluralsight.com/courses/dot-net-diagnostics-applications-best-practices)
 - [Distributed Tracing in .NET 6 using OpenTelemetry - Martin Thwaites - NDC Copenhagen 2022](https://www.youtube.com/watch?v=3JnMfJM9K0c)
+- [Cloud-native development with .NET 8 | Microsoft Build 2023](https://www.youtube.com/watch?v=hz9d3AcZKqQ)
 
 ## 📦 Libraries
 - [SkyAPM/SkyAPM-dotnet](https://github.com/SkyAPM/SkyAPM-dotnet) - The .NET/.NET Core instrument agent for Apache SkyWalking
@@ -144,4 +146,6 @@
 - [davidfowl/TodoApi](https://github.com/davidfowl/TodoApi/blob/afdc367fadcfd979bb85dd73e5f48cf896ca0f1a/TodoApi/OpenTelemetryExtensions.cs#L11)
 - [oskardudycz/EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore/pull/181)
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous)
-- [kimcuhoang/practical-net-otelcollector](https://github.com/kimcuhoang/practical-net-otelcollector) - Practical .NET Observability with OpenTelemetry Collector
+- [kimcuhoang/practical-net-otelcollector](https://github.com/kimcuhoang/practical-net-otelcollector) ⭐ - Practical .NET Observability with OpenTelemetry Collector
+- [cecilphillip/grafana-otel-dotnet](https://github.com/cecilphillip/grafana-otel-dotnet) ⭐ - Sample setup showing ASP.NET Core observability with Prometheus, Loki, Grafana, Opentelemetry Collector
+- [bradygaster/dotnet-cloud-native-build-2023](https://github.com/bradygaster/dotnet-cloud-native-build-2023)

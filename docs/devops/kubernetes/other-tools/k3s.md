@@ -47,6 +47,7 @@
 - [How to access host ip and port?](https://github.com/microsoft/WSL/issues/1032)
 - [Fully Automated K3S etcd High Availability Install](https://docs.technotim.live/posts/k3s-etcd-ansible/)
 - [Configuring Traefik 2 Ingress for Kubernetes](https://docs.technotim.live/posts/k3s-traefik-rancher/)
+- [Setting up a HA Kubernetes cluster using K3S](https://gabrieltanner.org/blog/ha-kubernetes-cluster-using-k3s/)
 
 ## 📺 Videos
 - [Single-node Kubernetes Clusters Using K3s with Benefits of GitOps • Lasse Højgaard • GOTO 2021](https://www.youtube.com/watch?v=ePyFJ7Hd57Q)

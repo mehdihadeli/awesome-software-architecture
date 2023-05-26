@@ -125,7 +125,7 @@ nav:
     - SteelToe: microservices/tools/steeltoe.md
     - Tye: microservices/tools/tye.md
     - MassTransit: microservices/tools/mass-transit.md
-    - NService Bus: microservices/tools/nservice-bus.md
+    - NServiceBus: microservices/tools/nservicebus.md
     - CAP: microservices/tools/cap.md
 - Modular Monolith: modular-monolith.md
 - Architectural Design Principles: 
@@ -147,6 +147,7 @@ nav:
   - Open/Closed Principle: architectural-design-principles/open-closed-principle.md
   - Persistence Ignorance: architectural-design-principles/persistence-ignorance.md
   - Single Responsibility: architectural-design-principles/single-responsibility.md
+  - Strangler Fig Pattern: architectural-design-principles/strangler-fig-pattern.md
   - SOLID: architectural-design-principles/solid.md
   - YAGNI: architectural-design-principles/yagni.md
 - Design Patterns: 

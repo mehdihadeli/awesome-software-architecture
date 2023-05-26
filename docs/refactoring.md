@@ -3,6 +3,7 @@
 
 ## 📕 Articles
 - [Refactoring huge C# code base in minutes](https://laurentkempe.com/2023/02/20/refactoring-huge-csharp-code-base-in-minutes/)
+- [Refactoring Legacy Code with the Strangler Fig Pattern](https://shopify.engineering/refactoring-legacy-code-strangler-fig-pattern)
 
 ## 📺 Videos
 - [The refactoring test (1) - Dependency Inversion & Unit tests | Cracking the .NET interview](https://www.youtube.com/watch?v=U3QvTaw224o)

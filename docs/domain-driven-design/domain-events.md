@@ -36,6 +36,8 @@
 - [.NET Domain Events Using MediatR](https://wrapt.dev/blog/dotnet-domain-events)
 - [Leaking Value Objects from your Domain](https://codeopinion.com/leaking-value-objects-from-your-domain/) ⭐
 - [Why we Avoid Putting Value Objects in Events](https://buildplease.com/pages/vos-in-events/) ⭐
+- [Domain-Driven Design: Domain Events and Integration Events in .Net](https://betterprogramming.pub/domain-driven-design-domain-events-and-integration-events-in-net-5a2a58884aaa) ⭐
+- [From domain events to infrastructure - thinking out loud about possible approaches I don’t hate](https://blog.codingmilitia.com/2023/05/16/from-domain-events-to-infrastructure-thinking-out-loud-about-possible-approaches-i-dont-hate/)
 
 ## 🚀 Samples
 - [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture/blob/main/src/Clean.Architecture.Infrastructure/Data/AppDbContext.cs)

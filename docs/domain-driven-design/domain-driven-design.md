@@ -99,6 +99,9 @@
 - [DDD building blocks - Kamil Lelonek](https://blog.lelonek.me/ddd-building-blocks-for-ruby-developers-cdc6c25a80d2)
 - [Implementing Domain Driven Design](https://docs.abp.io/en/abp/4.0/Domain-Driven-Design-Implementation-Guide)
 - [Domain-Driven Design: Everything You Always Wanted to Know About it, But Were Afraid to Ask](https://medium.com/ssense-tech/domain-driven-design-everything-you-always-wanted-to-know-about-it-but-were-afraid-to-ask-a85e7b74497a) ⭐⭐
+- [Domain-Driven Design: A Walkthrough of Building an Aggregate](https://betterprogramming.pub/domain-driven-design-a-walkthrough-of-building-an-aggregate-c84113aa9975) ⭐
+- [Domain-Driven Design: Domain Events and Integration Events in .Net](https://betterprogramming.pub/domain-driven-design-domain-events-and-integration-events-in-net-5a2a58884aaa) ⭐
+
 ## 📺 Videos
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU)

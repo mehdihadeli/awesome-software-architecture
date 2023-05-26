@@ -20,6 +20,8 @@
 - [Entities - ABP](https://docs.abp.io/en/abp/latest/Entities)
 - [Aggregate pattern in Domain-Driven Design](https://medium.com/eventuous/aggregate-pattern-in-domain-driven-design-7ad823475099)
 - [DDD Beyond the Basics: Mastering Aggregate Design](https://medium.com/ssense-tech/ddd-beyond-the-basics-mastering-aggregate-design-26591e218c8c) ⭐
+- [Domain-Driven Design: A Walkthrough of Building an Aggregate](https://betterprogramming.pub/domain-driven-design-a-walkthrough-of-building-an-aggregate-c84113aa9975) ⭐
+
 ## 📺 Videos
 
 - [Aggregate (Root) Design: Separate Behavior & Data for Persistence](https://www.youtube.com/watch?v=GtWVGJp061A) ⭐

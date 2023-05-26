@@ -37,6 +37,7 @@
 - [gRPC & ASP.NET Core 3.1: Resiliency with Polly](https://anthonygiretti.com/2020/03/31/grpc-asp-net-core-3-1-resiliency-with-polly/) ⭐
 - [ASP.NET Core 6: Handling gRPC exception correctly server side](https://anthonygiretti.com/2022/08/28/asp-net-core-6-handling-grpc-exception-correctly-server-side/) ⭐
 - [Using Polly for .NET Resilience and Transient-Fault-Handling with .NET Core](https://www.telerik.com/blogs/using-polly-for-net-resilience-and-transient-fault-handling-with-net-core) ⭐
+- [Optimally Configuring ASP.NET Core HttpClientFactory](https://rehansaeed.com/optimally-configuring-asp-net-core-httpclientfactory/) ⭐
 
 ## 📺 Videos
 - [Handling Failures in Message Driven Architecture](https://www.youtube.com/watch?v=SesEYHGhlLQ)
@@ -53,3 +54,6 @@
 ## 📦 Libraries
 - [App-vNext/Polly](https://github.com/App-vNext/Polly) - Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+.
 - [Polly-Contrib/Simmy](https://github.com/Polly-Contrib/Simmy) - Simmy is a chaos-engineering and fault-injection tool, integrating with the Polly resilience project for .NET
+
+## Samples
+- [RehanSaeed/HttpClientSample](https://github.com/RehanSaeed/HttpClientSample) ⭐ A sample ASP.NET Core project showing how to configure the HttpClientFactory

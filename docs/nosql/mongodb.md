@@ -44,6 +44,7 @@
 - [Serialization in MongoDB Driver C#](http://mongodb.github.io/mongo-csharp-driver/2.18/reference/bson/serialization/)
 - [GuidSerializer changes in MongoDB Driver C# ](http://mongodb.github.io/mongo-csharp-driver/2.18/reference/bson/guidserialization/serializerchanges/guidserializerchanges/)
 - [Implementing CRUD operations with ASP.NET Core Web API and Mongo DB](https://dotnetthoughts.net/implementing-crud-operations-with-webapi-and-mongodb/) ⭐
+- [How to Migrate Relational Database to MongoDB?: Made Easy](https://hevodata.com/learn/relational-database-to-mongodb/)
 
 ## 📺 Videos
 - [MongoDB In 30 Minutes](https://www.youtube.com/watch?v=pWbMrx5rVBE)

@@ -16,6 +16,8 @@
 - [Introducing Project Tye](https://devblogs.microsoft.com/dotnet/introducing-project-tye/)
 - [Distributed application with Project Tye](https://rafaelldi.blog/posts/distributed-application-with-project-tye/)
 - [Be more productive in developing .NET Core microservices with Tye](https://craftbakery.dev/be-more-productive-with-tye/)
+- [Tye, starting and running multiple APIs with a single command](https://timdeschryver.dev/blog/tye-starting-and-running-multiple-apis-with-a-single-command)
+
 ## 📺 Videos
 - [Building microservices with Tye](https://www.youtube.com/watch?v=m4VsOdIT1O4)
 - [Developing and Deploying Microservices with 'Tye'](https://www.youtube.com/watch?v=_s8UdhGOGmY)

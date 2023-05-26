@@ -39,6 +39,7 @@
 - [MassTransit Commute - Error Queue](https://www.youtube.com/watch?v=3TMKUu7c4lc)
 - [MassTransit Fault Handling](https://www.youtube.com/watch?v=-lpGYnznbco)
 - [MassTransit Exception Handling, Retry Middleware](https://www.youtube.com/watch?v=f1Oa65U2OeQ)
+- [Build Clean Messaging in .NET with MassTransit](https://www.youtube.com/watch?v=4FFYefcx4Bg)
 
 ## 📦 Libraries
 - [GokGokalp/MetroBus](https://github.com/GokGokalp/MetroBus) - Lightweight messaging wrapper of MassTransit

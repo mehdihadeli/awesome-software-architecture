@@ -13,6 +13,7 @@
 - [ChatGPT Might Make Developers Unemployed In A Few Years](https://programmingpercy.tech/blog/chatgpt-might-make-developers-unemployed-in-years/)
 - [GPT4All: Running an Open-source ChatGPT Clone on Your Laptop](https://betterprogramming.pub/gpt4all-running-an-open-source-chatgpt-clone-on-your-laptop-71ebe8600c71)
 - [How to Install AutoGPT in Minutes](https://geekflare.com/how-to-install-autogpt/)
+- [What Are Transformer Models and How Do They Work?](https://txt.cohere.com/what-are-transformer-models/?twclid=2-6qtbhc5iselai1y94f8am1xxm&fbclid=IwAR1gBV0PNiPHU--HAKWLXMqwbnkiaQQ4oRFbRQ2vNqLy83UlrfbJ0_PbMz4)
 
 ## 📺 Videos
 - [ChatGPT Might Make Developers Unemployed In A Few Years](https://www.youtube.com/watch?v=C6tRcvY5xZg)
@@ -30,7 +31,9 @@
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [Significant-Gravitas/Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) - Plugins for Auto-GPT
-- [alaeddine-13/thinkgpt](https://github.com/alaeddine-13/thinkgpt) - https://github.com/alaeddine-13/thinkgpt
+- [alaeddine-13/thinkgpt](https://github.com/alaeddine-13/thinkgpt) 
+- [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. No GPU required
 
 ## Samples
 - [Azure-Samples/openai-dotnet-samples](https://github.com/Azure-Samples/openai-dotnet-samples)
