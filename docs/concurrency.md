@@ -10,7 +10,6 @@
 - [Transactions and optimistic concurrency control](https://docs.microsoft.com/en-us/azure/cosmos-db/sql/database-transactions-optimistic-concurrency)
 - [Optimistic Locking with Version Number](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBMapper.OptimisticLocking.html)
 - [Handling concurrency – Aggregate Pattern and EF Core](http://www.kamilgrzybek.com/design/handling-concurrency-aggregate-pattern-and-ef-core/)
-- [Optimistic Concurrency in an HTTP API with ETags & Hypermedia](https://www.youtube.com/watch?v=2Nk3kCCyu3A)
 - [Handling Concurrency Conflicts](https://docs.microsoft.com/en-us/ef/core/saving/concurrency)
 - [How to handle concurrency in Entity Framework Core](https://www.mssqltips.com/sqlservertip/6115/how-to-handle-concurrency-in-entity-framework-core/)
 - [Handling data concurrency in EF Core and ASP.NET Core WebAPI](https://dejanstojanovic.net/aspnet/2018/november/handling-data-concurrency-in-ef-core-and-aspnet-core-webapi/)
@@ -26,9 +25,17 @@
 - [Optimistic concurrency control in ASP.NET WebAPI](https://tudorturcu.wordpress.com/2012/04/30/optimistic-concurrency-control-asp-net-webapi-en/)
 - [Optimistic concurrency support in HTTP and WebAPI – part 2](https://tudorturcu.wordpress.com/2012/05/17/optimistic-concurrency-support-in-http-and-webapi-part-2/)
 - [Comparing Optimistic and Pessimistic Locking With GO and PostgreSQL](https://hackernoon.com/comparing-optimistic-and-pessimistic-locking-with-go-and-postgresql)
+- [Dealing With Optimistic Concurrency Control Collisions](https://jimmybogard.com/dealing-with-optimistic-concurrency-control-collisions/)
+- [Distributed Locks with Redis](https://redis.io/docs/manual/patterns/distributed-locks/)
+- [Optimistic Concurrency in an HTTP API with ETags & Hypermedia](https://codeopinion.com/optimistic-concurrency-in-an-http-api-with-etags-hypermedia/)
 
 # Videos
 - [Optimistic Concurrency in an HTTP API with ETags & Hypermedia](https://www.youtube.com/watch?v=2Nk3kCCyu3A)
+
+## 📦 Libraries
+- [kidfashion/redlock-cs](https://github.com/kidfashion/redlock-cs) - Distributed lock with Redis and C# (based on http://redis.io/topics/distlock)
+- [samcook/RedLock.net](https://github.com/samcook/RedLock.net) - An implementation of the Redlock algorithm in C#
+- [madelson/DistributedLock](https://github.com/madelson/DistributedLock) - A .NET library for distributed synchronization
 
 # Samples
 - [dotnet/EntityFramework.Docs/Concurrency/BasicSample](https://github.com/dotnet/EntityFramework.Docs/blob/main/samples/core/Saving/Concurrency/BasicSample.cs)

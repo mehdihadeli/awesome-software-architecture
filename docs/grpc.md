@@ -56,7 +56,6 @@
 - [Testing ASP.NET Core gRPC services in JetBrains Rider](https://andrewlock.net/testing-aspnetcore-grpc-services-in-jetbrains-rider/)
 
 ## 📹 Videos
-
 - [Bidirectional Streaming | gRPC in .NET 5](https://www.youtube.com/watch?v=wY4nMSUF9e0)
 - [Client Streaming | gRPC in .NET 5](https://www.youtube.com/watch?v=DNxdvRQ4qRQ)
 - [gRPC Server & Unary Calls | gRPC in .NET 5](https://www.youtube.com/watch?v=hp5FTB7PI9s)
@@ -72,6 +71,7 @@
 - [ASP.NET Community Standup - gRPC Updates in .NET 7](https://www.youtube.com/watch?v=ds27V6rNick)
 - [Where should you use gRPC? And where NOT to use it!](https://youtu.be/4SuFtQV8RCk)
 - [High-performance services with gRPC: What's new in .NET 7 | .NET Conf 2022](https://www.youtube.com/watch?v=et_2NBk4N4Y)
+- [gRPC Error handling in gRPC Bidirectional streams](https://www.youtube.com/watch?v=IT4OfN27D4c)
 
 ## 📦 Libraries
 

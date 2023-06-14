@@ -19,6 +19,8 @@
 - [coding-parrot/Low-Level-Design](https://github.com/coding-parrot/Low-Level-Design) - Useful Resources for Low Level System Design
 - [Coder-World04/Complete-System-Design](https://github.com/Coder-World04/Complete-System-Design) - This repository contains everything you need to become proficient in System Design
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+- [cheatsnake/backend-cheats](https://github.com/cheatsnake/backend-cheats) - Homepage for Backend developers
+
 ## 📕 Articles
 - [System Design: System Design Interviews](https://dev.to/karanpratapsingh/system-design-system-design-interviews-47ak)
 - [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)

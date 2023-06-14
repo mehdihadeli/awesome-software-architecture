@@ -98,6 +98,7 @@
 - [Docker and .Net — Environment variables and appsettings.json](https://levelup.gitconnected.com/docker-environment-variables-appsettings-json-net-bdac052bf3db)
 - [Hot-Reload .NET Configuration in Kubernetes with ConfigMaps](https://www.thorsten-hans.com/hot-reload-net-configuration-in-kubernetes-with-configmaps/) ⭐
 - [Secure your .NET cloud apps with rootless Linux Containers](https://devblogs.microsoft.com/dotnet/securing-containers-with-rootless/)
+- [Testing Chiseled Ubuntu container images with .NET](https://www.mytechramblings.com/posts/testing-chiseled-ubuntu-containers-with-dotnet/)
 
 ## 📹 Videos
 - [Deploy a .NET Core API with Docker (Step-by-Step)](https://www.youtube.com/watch?v=f0lMGPB10bM)

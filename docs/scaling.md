@@ -20,6 +20,7 @@
 - [How to scale projections in the event-driven systems?](https://event-driven.io/en/how_to_scale_projections_in_the_event_driven_systems/)
 - [Scaling services with Shard Manager](https://engineering.fb.com/2020/08/24/production-engineering/scaling-services-with-shard-manager/)
 - [Autoscaling](https://docs.microsoft.com/en-us/azure/architecture/best-practices/auto-scaling)
+- [When Scaling Is Not An Option: A Simple Asynchronous Pattern](https://betterprogramming.pub/when-scaling-is-not-an-option-a-simple-asynchronous-pattern-c84215a695a2)
 
 ## 📺 Videos
 - [AWS re:Invent 2019: [REPEAT] Scaling up to your first 10 million users ](https://www.youtube.com/watch?v=kKjm4ehYiMs)

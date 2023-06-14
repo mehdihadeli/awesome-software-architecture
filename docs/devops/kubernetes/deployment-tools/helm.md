@@ -27,6 +27,7 @@
 
 ## Tools
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
+- [arttor/helmify](https://github.com/arttor/helmify) - Creates Helm chart from Kubernetes yaml
 
 ## 🚀 Samples
 - [kimcu-on-thenet/dnc-k8s-helm](https://github.com/kimcu-on-thenet/dnc-k8s-helm) - An extremely simple .NET Core web api within EntityFrameworkCore which will be deployed in k8s by both kubectl and helm
