@@ -38,6 +38,7 @@
 - [Chris Fidao - Hexagonal Architecture](https://www.youtube.com/watch?v=6SBjKOwVq0o)
 - [Hexagonal Architecture in 10 min](https://www.youtube.com/watch?v=NmD82RAMZ68)
 - [How to apply Hexagonal Architecture with .NET](https://www.youtube.com/watch?v=MjnZKYZRjjs)
+- [Valentina Cupać - Hexagonal Architecture](https://www.youtube.com/playlist?list=PL1msPBH9ZGkhpANkreFA_teOnloVdLuCx)
 
 ## 🚀 Samples
 
