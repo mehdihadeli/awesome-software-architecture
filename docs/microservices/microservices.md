@@ -147,6 +147,8 @@
 - [The HIDDEN Challenge of Microservices: UI Composition](https://www.youtube.com/watch?v=ILbjKR1FXoc)
 - [Mapping event type by convention](https://event-driven.io/en/how_to_map_event_type_by_convention/)
 - [Should Each Microservice Have Its Own Database? by Dmitry Belyaev](https://www.youtube.com/watch?v=A62GpUmO9q0)
+- [Don’t Build a Distributed Monolith - Jonathan "J." Tower - NDC London 2023](https://www.youtube.com/watch?v=p2GlRToY5HI)
+- [Top 5 techniques for building the worst microservice system ever - William Brander - NDC London 2023](https://www.youtube.com/watch?v=88_LUw1Wwe4)
 
 ## 📦 Libraries
 - [rebus-org/Rebus](https://github.com/rebus-org/Rebus) - 🚌 Simple and lean service bus implementation for .NET
@@ -256,6 +258,7 @@
 - [thangchung/coffeeshop-on-dapr](https://github.com/thangchung/coffeeshop-on-dapr) - The coffeeshop event-driven application which is developed and run on Dapr
 - [thangchung/try-nomad-dapr](https://github.com/thangchung/try-nomad-dapr)
 - [m-khooryani/OverCloudAirways](https://github.com/m-khooryani/OverCloudAirways)
+- [meaboutsoftware/evolutionary-architecture](https://github.com/meaboutsoftware/evolutionary-architecture) ⭐ - Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various architectural patterns
 
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
