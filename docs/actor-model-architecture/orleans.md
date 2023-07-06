@@ -3,6 +3,7 @@
 ### 📕Articles
 - [Developing APIs using Actor model in ASP.NET Core](https://dev.to/samueleresca/developing-apis-using-actor-model-in-aspnet-core-2oh2)
 - [Microsoft Orleans - Problems & Solutions](https://www.ledjonbehluli.com/posts/orleans_problems_and_solutions/)
+- [Building Loosely Coupled and Scalable RESTful Services using Orleans](https://www.gokhan-gokalp.com/en/orleans-ile-loosely-coupled-ve-scalable-restful-service-olusturma/)
 
 ## 📹 Videos
 

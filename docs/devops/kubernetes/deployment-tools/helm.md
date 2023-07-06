@@ -11,6 +11,7 @@
 - [Why we moved from Helm to Gitpod Installer](https://www.gitpod.io/blog/gitpod-installer)
 - [Getting Started With Helm 3](https://www.thorsten-hans.com/getting-started-with-helm3/)
 - [When and How to Use Helm and Kustomize Together](https://trstringer.com/helm-kustomize/)
+- [How to Create Helm Chart [Comprehensive Beginners Guide]](https://devopscube.com/create-helm-chart/)
 
 ## 📺 Videos
 - [The Automation Challenge: Kubernetes Operators vs Helm Charts • Ana-Maria Mihalceanu • GOTO 2021](https://www.youtube.com/watch?v=dGx8PjmWkyM)

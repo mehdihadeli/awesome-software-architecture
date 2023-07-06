@@ -112,6 +112,7 @@
 - [.NET Diagnostics for Applications: Best Practices](https://www.pluralsight.com/courses/dot-net-diagnostics-applications-best-practices)
 - [Distributed Tracing in .NET 6 using OpenTelemetry - Martin Thwaites - NDC Copenhagen 2022](https://www.youtube.com/watch?v=3JnMfJM9K0c)
 - [Cloud-native development with .NET 8 | Microsoft Build 2023](https://www.youtube.com/watch?v=hz9d3AcZKqQ)
+- [Practical OpenTelemetry for .NET - Martin Thwaites - NDC Oslo 2023](https://www.youtube.com/watch?v=c4AJlZeX2fE)
 
 ## 📦 Libraries
 - [SkyAPM/SkyAPM-dotnet](https://github.com/SkyAPM/SkyAPM-dotnet) - The .NET/.NET Core instrument agent for Apache SkyWalking

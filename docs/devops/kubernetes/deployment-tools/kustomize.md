@@ -19,6 +19,8 @@
 - [Kustomize Feature List](https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization/#kustomize-feature-list)
 - [The Kustomization File References](https://kubectl.docs.kubernetes.io/references/kustomize/kustomization/) ⭐⭐
 - [When and How to Use Helm and Kustomize Together](https://trstringer.com/helm-kustomize/)
+- [Kustomize Tutorial: Comprehensive Guide For Beginners](https://devopscube.com/kustomize-tutorial/) ⭐⭐
+- [Kuztomize Secret & Configmap Generators [Practical Examples]](https://devopscube.com/kuztomize-configmap-generators/) ⭐⭐
 
 ## 📺 Videos
 - [Kustomize: Deploy Your App with Template Free YAML - Ryan Cox, Lyft](https://www.youtube.com/watch?v=ahMIBxufNR0)

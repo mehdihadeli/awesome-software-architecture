@@ -1,4 +1,4 @@
-# Mass Transit
+# MassTransit
 
 ## 📘 Resources
 - [MassTransit GitHub](https://github.com/MassTransit/MassTransit)
@@ -21,6 +21,7 @@
 - [MassTransit and MediatR – Part 2](https://markgossa.com/2022/06/masstransit-exponential-back-off.html)
 - [MassTransit and MediatR – Part 3](https://markgossa.com/2022/07/masstransit-mediatr-dead-letter-invalid-messages.html)
 - [ASP.NET Correlation ID](https://markgossa.com/2022/05/asp-net-correlation-id.html)
+- [Error Handling and Message Redelivery in MassTransit](https://www.gokhan-gokalp.com/en/messaging-yapilarinda-masstransit-ile-error-ve-redeliver-handling/)
 
 ## 📺 Videos
 - [MassTransit–Youtube videos](https://bartwullems.blogspot.com/2020/07/masstransityoutube-videos.html)
@@ -64,3 +65,4 @@
 - [MassTransit/Sample-GettingStarted](https://github.com/MassTransit/Sample-GettingStarted)
 - [MassTransit/Sample-Outbox](https://github.com/MassTransit/Sample-Outbox)
 - [markgossa/Reference-Event-Driven-Architecture](https://github.com/markgossa/Reference-Event-Driven-Architecture)
+- [MassTransit/Sample-JobConsumers](https://github.com/MassTransit/Sample-JobConsumers)
