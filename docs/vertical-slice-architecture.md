@@ -53,6 +53,8 @@
 - [Vertical Slice Architecture in ASP.NET Core](https://code-maze.com/vertical-slice-architecture-aspnet-core/)
 - [How To Structure Your .NET Solutions: Architecture And Trade-Offs](https://www.jamesmichaelhickey.com/how-to-structure-your-dot-net-solutions-design-and-trade-offs/)
 - [Vertical Software Development](https://medium.com/ssense-tech/vertical-software-development-495b73f7fcdf)
+- [Vertical Slices in practice](https://event-driven.io/en/-vertical_slices_in_practice/)
+
 ## 📺 Videos
 - [SOLID Architecture in Slices not Layers - Jimmy Bogard](https://vimeo.com/131633177)
 - [Vertical Slice Architecture - Jimmy Bogard](https://www.youtube.com/watch?v=5kOzZz2vj2o) 

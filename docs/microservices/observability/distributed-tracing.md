@@ -150,3 +150,4 @@
 - [kimcuhoang/practical-net-otelcollector](https://github.com/kimcuhoang/practical-net-otelcollector) ⭐ - Practical .NET Observability with OpenTelemetry Collector
 - [cecilphillip/grafana-otel-dotnet](https://github.com/cecilphillip/grafana-otel-dotnet) ⭐ - Sample setup showing ASP.NET Core observability with Prometheus, Loki, Grafana, Opentelemetry Collector
 - [bradygaster/dotnet-cloud-native-build-2023](https://github.com/bradygaster/dotnet-cloud-native-build-2023)
+- [bravecobra/emojivoto-dotnet](https://github.com/bravecobra/emojivoto-dotnet)

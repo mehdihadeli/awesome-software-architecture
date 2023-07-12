@@ -53,6 +53,8 @@
 - [Mapping event type by convention](https://event-driven.io/en/how_to_map_event_type_by_convention/)
 - [Understanding Coupling with Event-Driven Architecture](https://medium.com/ssense-tech/understanding-coupling-with-event-driven-architecture-a6b3561b7227)
 - [DOCUMENT YOUR EVENT-DRIVEN ARCHITECTURE](https://eda-visuals.boyney.io/designs/document-event-driven-architectures)
+- [Error Handling in Event-Driven Systems](https://levelup.gitconnected.com/error-handling-in-event-driven-systems-1f0a7ef2cfb7)
+
 ## 📺 Videos
 - [Event-Driven Architecture | EDA | Software Architectural Patterns](https://www.youtube.com/watch?v=gIL8rW_eyww&t=0s) 
 - [Events on the outside, on the inside and at the core](https://www.youtube.com/watch?v=rP-InttAbVY)

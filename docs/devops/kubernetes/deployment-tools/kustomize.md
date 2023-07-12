@@ -21,6 +21,8 @@
 - [When and How to Use Helm and Kustomize Together](https://trstringer.com/helm-kustomize/)
 - [Kustomize Tutorial: Comprehensive Guide For Beginners](https://devopscube.com/kustomize-tutorial/) ⭐⭐
 - [Kuztomize Secret & Configmap Generators [Practical Examples]](https://devopscube.com/kuztomize-configmap-generators/) ⭐⭐
+- [Combining Helm and Kustomize: When, Why, and How?](https://ahmedelfakharany.com/combining-helm-and-kustomize-when-why-and-how-96a3483310db)
+- [Helm vs Kustomize: why, when, and how](https://ahmedelfakharany.com/helm-vs-kustomize-why-when-and-how-5d5ba0f80234)
 
 ## 📺 Videos
 - [Kustomize: Deploy Your App with Template Free YAML - Ryan Cox, Lyft](https://www.youtube.com/watch?v=ahMIBxufNR0)

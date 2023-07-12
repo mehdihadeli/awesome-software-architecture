@@ -16,3 +16,4 @@
 ## 🚀 Samples
 - [twzhangyang/RestAirline](https://github.com/twzhangyang/RestAirline) - DDD+CQRS+EventSourcing+Hypermedia API+ASP.NET Core 3.1+Masstransit+terraform+docker+k8s
 - [thinktecture-labs/cloud-native-sample](https://github.com/thinktecture-labs/cloud-native-sample/tree/main/charts)
+- [bravecobra/k8s-dev-infrastructure](https://github.com/bravecobra/k8s-dev-infrastructure) - A local dev infrastructure on k8s, providing networking, telemetry and saas services

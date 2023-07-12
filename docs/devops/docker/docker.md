@@ -6,6 +6,7 @@
 - [prakhar1989/docker-curriculum](https://docker-curriculum.com) - 🐬 A comprehensive tutorial on getting started with Docker! - docker-curriculum.com
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - 🐳 A curated list of Docker resources and projects
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
+- [Pradumnasaraf/DevOps](https://github.com/Pradumnasaraf/DevOps) - This repo contains all my learning related to DevOps
 
 ## 📝 Articles
 - [Get to Know Docker's Ecosystem](https://nickjanetakis.com/blog/get-to-know-dockers-ecosystem#docker-daemon)

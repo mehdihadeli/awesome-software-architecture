@@ -7,6 +7,8 @@
 - [gentlydownthe WebSite](https://www.gentlydownthe.stream/)
 - [nayekabhishek1/awesome-kafka](https://github.com/nayekabhishek1/awesome-kafka) - A curated list about Apache Kafka
 - [infoslack/awesome-kafka](https://github.com/infoslack/awesome-kafka) - A list about Apache Kafka
+- [dttung2905/kafka-in-production](https://github.com/dttung2905/kafka-in-production) - Tech blogs & talks by companies that run Kafka in production
+
 ## 📕 Articles
 - [INTRODUCTION - Everything you need to know about Kafka in 10 minutes](https://kafka.apache.org/intro)
 - [Introduction to Kafka](https://docs.confluent.io/platform/current/kafka/introduction.html)
