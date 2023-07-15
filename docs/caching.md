@@ -35,6 +35,9 @@
 - [Caching Strategies and How to Choose the Right One](https://codeahoy.com/2017/08/11/caching-strategies-and-how-to-choose-the-right-one/) ⭐
 - [3 crucial caching choices: Where, when, and how](https://www.gomomento.com/blog/6-common-caching-design-patterns-to-execute-your-caching-strategy) ⭐
 - [6 common caching design patterns to execute your caching strategy](https://www.gomomento.com/blog/6-common-caching-design-patterns-to-execute-your-caching-strategy) ⭐
+- [Redis Pub/Sub](https://redis.io/docs/interact/pubsub/)
+- [Redis data types](https://redis.io/docs/data-types/)
+- [Improvements to the Caching Abstraction in ASP.NET Core](https://devblogs.microsoft.com/dotnet/caching-abstraction-improvements-in-aspnetcore/)
 
 ## 📺 Videos
 - [Real-Time Delivery Architecture at Twitter](https://www.infoq.com/presentations/Real-Time-Delivery-Twitter/)
@@ -68,6 +71,7 @@
 - [dotnet-school/dotnet-redis](https://github.com/dotnet-school/dotnet-redis) ⭐
 - [taswar/RedisForNetDevelopers](https://github.com/taswar/RedisForNetDevelopers) - Source code for blog post on Redis for .NET Developer Series
 - [Redislabs-Solution-Architects/acre-sql-demo](https://github.com/Redislabs-Solution-Architects/acre-sql-demo) ⭐
+- [redis-developer/basic-redis-chat-app-demo-dotnet](https://github.com/redis-developer/basic-redis-chat-app-demo-dotnet) ⭐
 
 ## Library
 - [StackExchange/StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) - General purpose redis client

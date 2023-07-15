@@ -31,6 +31,7 @@
 - [Event-driven integration #4 - Outbox publisher (feat. IHostedService & Channels) [ASPF02O|E043]](https://www.youtube.com/watch?v=xnn6AnYyC5g)
 - [Outbox meets change data capture (feat. .NET, PostgreSQL, Kafka and Debezium)](https://www.youtube.com/watch?v=WcmLvoxs9ps)
 - [Outbox meets change data capture - hooking into the Write-Ahead Log (feat. .NET, PostgreSQL & Kafka)](https://www.youtube.com/watch?v=4rnSzEd9jPI)
+- [MassTransit - The New Transactional Outbox](https://www.youtube.com/watch?v=3TjGnmLno_A)
 
 ## 📦 Libraries
 - [oskardudycz/PostgresOutboxPatternWithCDC.NET](https://github.com/oskardudycz/PostgresOutboxPatternWithCDC.NET) - PoC of doing Outbox Pattern with CDC and .NET
