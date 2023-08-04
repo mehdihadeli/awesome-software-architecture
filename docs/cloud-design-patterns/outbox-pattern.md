@@ -20,6 +20,10 @@
 - [How Postgres sequences issues can impact your messaging guarantees](https://event-driven.io/en/ordering_in_postgres_outbox/)
 - [How to get all messages through Postgres logical replication](https://event-driven.io/en/how_to_get_all_messages_through_postgres_logical_replication/)
 - [What happens if we lose some event(s) during transaction?](https://bozd4g.medium.com/what-happens-if-we-lose-some-events-during-transaction-607e7b08b77)
+- [Receive modes in Azure Service Bus](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-queues-topics-subscriptions#receive-modes)
+- [Duplicate detection](https://learn.microsoft.com/en-us/azure/service-bus-messaging/duplicate-detection)
+- [What does idempotent mean in software systems?](https://particular.net/blog/what-does-idempotent-mean)
+
 ## 📺 Videos
 - [Reliably Save State & Publish Events (Outbox Pattern)](https://www.youtube.com/watch?v=u8fOnxAxKHk)
 - [CAP: Event Bus & Outbox Pattern](https://www.youtube.com/watch?v=dnhPzILvgeo)

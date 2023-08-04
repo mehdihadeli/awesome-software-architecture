@@ -7,6 +7,8 @@
 - [Handling duplicate messages using the Idempotent consumer pattern](https://chrisrichardson.net/post/microservices/patterns/2020/10/16/idempotent-consumer.html)
 - [Microservices 101: Transactional Outbox and Inbox](https://softwaremill.com/microservices-101/)
 - [Message delivery and deduplication strategies](https://softwaremill.com/message-delivery-and-deduplication-strategies/)
+- [Duplicate detection](https://learn.microsoft.com/en-us/azure/service-bus-messaging/duplicate-detection)
+- [Exactly-once message delivery](https://exactly-once.github.io/posts/exactly-once-delivery/)
 
 ## 📺 Videos
 - [Inbox & Outbox pattern - transactional message processing [Microservices .NET]](https://www.youtube.com/watch?v=ebyR5RPKciw)

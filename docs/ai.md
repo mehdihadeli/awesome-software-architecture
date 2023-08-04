@@ -15,6 +15,7 @@
 - [How to Install AutoGPT in Minutes](https://geekflare.com/how-to-install-autogpt/)
 - [What Are Transformer Models and How Do They Work?](https://txt.cohere.com/what-are-transformer-models/?twclid=2-6qtbhc5iselai1y94f8am1xxm&fbclid=IwAR1gBV0PNiPHU--HAKWLXMqwbnkiaQQ4oRFbRQ2vNqLy83UlrfbJ0_PbMz4)
 - [Running Large Language Models locally – Your own ChatGPT-like AI in C#](https://blog.maartenballiauw.be/post/2023/06/15/running-large-language-models-locally-your-own-chatgpt-like-ai-in-csharp.html)
+- [What is Semantic Kernel?](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
 
 ## 📺 Videos
 - [ChatGPT Might Make Developers Unemployed In A Few Years](https://www.youtube.com/watch?v=C6tRcvY5xZg)
@@ -22,6 +23,7 @@
 
 ## Courses
 - [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+- [Career Essentials in Generative AI by Microsoft and LinkedIn](https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin)
 
 ## Libraries
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
@@ -39,5 +41,14 @@
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [SevaSk/ecoute](https://github.com/SevaSk/ecoute) - Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation.
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
+- [camenduru/text-generation-webui-colab](https://github.com/camenduru/text-generation-webui-colab) - A colab gradio web UI for running Large Language Models
+- [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
+- [huggingface/transformers](https://github.com/huggingface/transformers) - Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) ⭐ Interact privately with your documents using the power of GPT, 100% privately, no data leaks
+- [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT
+- [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
+
 ## Samples
 - [Azure-Samples/openai-dotnet-samples](https://github.com/Azure-Samples/openai-dotnet-samples)
+- [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes/) - Examples and recipes for Llama 2 model

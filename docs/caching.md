@@ -38,6 +38,7 @@
 - [Redis Pub/Sub](https://redis.io/docs/interact/pubsub/)
 - [Redis data types](https://redis.io/docs/data-types/)
 - [Improvements to the Caching Abstraction in ASP.NET Core](https://devblogs.microsoft.com/dotnet/caching-abstraction-improvements-in-aspnetcore/)
+- [Distributed Locks with Redis](https://redis.io/docs/manual/patterns/distributed-locks/)
 
 ## 📺 Videos
 - [Real-Time Delivery Architecture at Twitter](https://www.infoq.com/presentations/Real-Time-Delivery-Twitter/)
@@ -83,4 +84,5 @@
 - [VahidN/EFCoreSecondLevelCacheInterceptor](https://github.com/VahidN/EFCoreSecondLevelCacheInterceptor) - EF Core Second Level Cache Interceptor
 - [marcoCasamento/Hangfire.Redis.StackExchange](https://github.com/marcoCasamento/Hangfire.Redis.StackExchange) - HangFire Redis storage based on original (and now unsupported) Hangfire.Redis but using lovely StackExchange.Redis client
 - [ZiggyCreatures.FusionCache](https://github.com/jodydonetti/ZiggyCreatures.FusionCache) - FusionCache is an easy to use, high performance and robust cache with an optional distributed 2nd layer and some advanced features.
+- [olsh/stack-exchange-redis-analyzer](https://github.com/olsh/stack-exchange-redis-analyzer) - Roslyn-based analyzer for StackExchange.Redis library
 

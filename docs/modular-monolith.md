@@ -38,6 +38,7 @@
 - [Easy Modular Monolith — Part 5— JWT Authentication/Authorization](https://itnext.io/easy-modular-monolith-part-5-jwt-authentication-authorization-f7a0a275226f)
 - [Easy Modular Monolith — Part 6 — Synchronous communication between modules](https://itnext.io/easy-modular-monolith-part-5-synchronous-communication-between-modules-7af876f06c16)
 - [Build the modular monolith first](https://www.fearofoblivion.com/build-a-modular-monolith-first)
+
 ## 📺 Videos
 - [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE)
 - [Modular monoliths (Simon Brown) - 2016](https://www.youtube.com/watch?v=kbKxmEeuvc4)
@@ -58,11 +59,12 @@
 - [Asynchronous Messaging in a Loosely Coupled Monolith](https://www.youtube.com/watch?v=Qi6TaIYprqc)
 - [Splitting up a Monolith to (micro)Services](https://www.youtube.com/watch?v=Inscvakv5XI)
 - [Avoiding a Big Ball of Mud! Coupling in a Monolith](https://www.youtube.com/watch?v=MLjjWkN44q4)
+- [Building that glorious monolith. And carving it too. - Glenn F. Henriksen - NDC Oslo 2022](https://youtu.be/uOIi0K_mpUo) ⭐ 
 
 ## 🚀 Samples
 - [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith application with Domain-Driven Design approach.
 - [kgrzybek/modular-monolith-with-ddd-fe-react](https://github.com/kgrzybek/modular-monolith-with-ddd-fe-react) - FrontEnd React application for Modular Monolith With DDD repository and system
-- [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 5 Clean Architecture (Microservices, Modular Monolith, Monolith) samples (+Blazor, Angular 11, React 17, Vue 2.6), Domain-Driven Design, CQRS, Event Sourcing, SOLID, Asp.Net Core Identity Custom Storage, Identity Server 4 Admin UI, Entity Framework Core, Selenium E2E Testing, SignalR Notification, Hangfire Tasks Scheduling
+- [phongnguyend/Practical.CleanArchitecture](https://github.com/phongnguyend/Practical.CleanArchitecture) - Asp.Net Core 5 Clean Architecture (Microservices, Modular Monolith, Monolith) samples.
 - [dcomartin/LooselyCoupledMonolith](https://github.com/dcomartin/LooselyCoupledMonolith)
 - [trueai-org/module-shop](https://github.com/trueai-org/module-shop)
 - [thangchung/coolstore-moduliths](https://github.com/thangchung/coolstore-moduliths)

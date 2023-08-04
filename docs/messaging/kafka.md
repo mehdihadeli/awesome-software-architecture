@@ -45,6 +45,7 @@
 - [Everything You Need To Know About Kafka](https://betterprogramming.pub/everything-you-need-to-know-about-kafka-a83e2456d14c)
 - [In the land of the sizing, the one-partition Kafka topic is king](https://www.buildon.aws/posts/in-the-land-of-the-sizing-the-one-partition-kafka-topic-is-king/01-what-are-partitions/)
 - [How Wix manages Schemas for Kafka (and gRPC) used by 2000 microservices](https://medium.com/wix-engineering/how-wix-manages-schemas-for-kafka-and-grpc-used-by-2000-microservices-2117416ea17b)
+- [Enabling Seamless Kafka Async Queuing with Consumer Proxy](https://www.uber.com/en-PT/blog/kafka-async-queuing-with-consumer-proxy/)
 
 ## 📺 Videos
 - [Course | Apache Kafka® Fundamentals](https://www.youtube.com/playlist?list=PLa7VYi0yPIH2PelhRHoFR5iQgflg-y6JA)

@@ -69,13 +69,13 @@
 - [Event Sourcing Examined Part 3 Of 3](https://dasith.me/2017/08/02/event-sourcing-examined-part-3-of-3/)
 - [Event immutability and dealing with change](https://www.eventstore.com/blog/event-immutability-and-dealing-with-change)
 - [How Event Sourcing makes for a better debugging experience for developers](https://www.eventstore.com/blog/how-event-sourcing-makes-for-a-better-debugging-experience-for-developers)
-- [Projections in Event Sourcing](https://zimarev.com/blog/event-sourcing/projections/)
+- [Projections in Event Sourcing](https://web.archive.org/web/20230128040244/https://zimarev.com/blog/event-sourcing/projections/) ⭐
 - [Entities as event streams](https://zimarev.com/blog/event-sourcing/entities-as-streams/#using-events-to-mutate-state)
-- [Event Sourcing basics](https://zimarev.com/blog/event-sourcing/introduction/) ⭐
-- [Event Sourcing and CQRS](https://zimarev.com/blog/event-sourcing/cqrs/) ⭐
-- [Entities as event streams](https://zimarev.com/blog/event-sourcing/entities-as-streams/) ⭐
-- [Reporting models and Event Sourcing](https://zimarev.com/blog/event-sourcing/changes-in-event-sourced-systems/) ⭐
-- [Event Sourcing and Microservices](https://zimarev.com/blog/event-sourcing/microservices/) ⭐
+- [Event Sourcing basics](https://web.archive.org/web/20230128024544/https://zimarev.com/blog/event-sourcing/introduction/) ⭐
+- [Event Sourcing and CQRS](https://web.archive.org/web/20230128024544/https://zimarev.com/blog/event-sourcing/cqrs/) ⭐
+- [Entities as event streams](https://web.archive.org/web/20230128024544/https://zimarev.com/blog/event-sourcing/entities-as-streams/) ⭐
+- [Reporting models and Event Sourcing](https://web.archive.org/web/20230128024544/https://zimarev.com/blog/event-sourcing/changes-in-event-sourced-systems/) ⭐
+- [Event Sourcing and Microservices](https://web.archive.org/web/20230128024544/https://zimarev.com/blog/event-sourcing/microservices/) ⭐
 - [Event immutability and dealing with change](https://www.eventstore.com/blog/event-immutability-and-dealing-with-change?utm_campaign=GWP%20-%20event%20immutability&utm_content=168948136&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3011811)
 - [How to get the current entity state from events?](https://event-driven.io/en/how_to_get_the_current_entity_state_in_event_sourcing/)
 - [When not to use Event Sourcing?](https://event-driven.io/en/when_not_to_use_event_sourcing/)
@@ -152,6 +152,7 @@
 - [Projecting Marten events to Elasticsearch](https://event-driven.io/en/projecting_from_marten_to_elasticsearch/)
 - [Ensuring uniqueness in Marten event store](https://event-driven.io/en/unique_constraint_in_marten_event_store/)
 - [Event stores are key-value databases, and why that matters](https://event-driven.io/en/event_stores_are_key_value_stores/)
+- [How to scale out Marten](https://event-driven.io/en/scaling_out_marten/)
 
 ## 📺 Videos
 - [Event Sourcing Playlist - CodeOpinion](https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ)
