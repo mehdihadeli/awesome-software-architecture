@@ -7,6 +7,7 @@
 - [Communication in a microservice architecture](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/communication-in-microservice-architecture)
 - [A Reference Architecture for Responsive Asynchronous Task Execution](https://medium.com/event-driven-utopia/a-reference-architecture-for-responsive-asynchronous-task-execution-783bd2a1ed8b)
 - [Data Consistency in Microservices Architecture](https://medium.com/garantibbva-teknoloji/data-consistency-in-microservices-architecture-5c67e0f65256)
+- [How microservices communicate with each other](https://harshmatharu.com/blog/how-microservices-communicate-with-each-other)
 
 ## 📺 Videos
 - [Jimmy Bogard - Effective Microservice Communication and Conversation Patterns](https://www.youtube.com/watch?v=SuMF89Dc5XY)
