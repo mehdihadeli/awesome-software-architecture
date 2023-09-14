@@ -29,7 +29,7 @@
 - [cecilphillip/grafana-otel-dotnet](https://github.com/cecilphillip/grafana-otel-dotnet) ⭐ - Sample setup showing ASP.NET Core observability with Prometheus, Loki, Grafana, Opentelemetry Collector
 - [bravecobra/emojivoto-dotnet](https://github.com/bravecobra/emojivoto-dotnet) A microservice example in .NET Core showing opentelemetry capabilities
 - [JamesNK/aspnetcore-grafana](https://github.com/JamesNK/aspnetcore-grafana) - Grafana dashboards for ASP.NET Core metrics
-
+- [davidfowl/OtlpDemo](https://github.com/davidfowl/OtlpDemo) ⭐
 ## 📦 Libraries
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
 - [grafana/mimir](https://github.com/grafana/mimir) - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.

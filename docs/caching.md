@@ -39,6 +39,9 @@
 - [Redis data types](https://redis.io/docs/data-types/)
 - [Improvements to the Caching Abstraction in ASP.NET Core](https://devblogs.microsoft.com/dotnet/caching-abstraction-improvements-in-aspnetcore/)
 - [Distributed Locks with Redis](https://redis.io/docs/manual/patterns/distributed-locks/)
+- [Redis as a Database](https://medium.com/wix-engineering/redis-as-a-database-f9df579b09c0)
+- [MongoDB vs. Redis: Which Database Should You Use?](https://www.integrate.io/blog/mongodb-vs-redis/)
+- [MongoDB vs. Redis Comparison](https://www.mongodb.com/compare/mongodb-vs-redis)
 
 ## 📺 Videos
 - [Real-Time Delivery Architecture at Twitter](https://www.infoq.com/presentations/Real-Time-Delivery-Twitter/)

@@ -48,7 +48,11 @@
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) ⭐ Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
-
+- [microsoft/azurechatgpt](https://github.com/microsoft/azurechatgpt) - Azure ChatGPT: Private & secure ChatGPT for internal enterprise use
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - Your Second Brain supercharged by Generative AI 🧠 Dump all your files and chat with your personal assistant on your files & more using GPT 3.5/4, Private, Anthropic, VertexAI, LLMs...
+- [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
+- [SciSharp/BotSharp](https://github.com/SciSharp/BotSharp) - The LLM Powered Chatbot Framework in .NET
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models. Supports transformers, GPTQ, llama.cpp (ggml/gguf), Llama models
 ## Samples
 - [Azure-Samples/openai-dotnet-samples](https://github.com/Azure-Samples/openai-dotnet-samples)
 - [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes/) - Examples and recipes for Llama 2 model

@@ -38,6 +38,7 @@
 - [ASP.NET Core 6: Handling gRPC exception correctly server side](https://anthonygiretti.com/2022/08/28/asp-net-core-6-handling-grpc-exception-correctly-server-side/) ⭐
 - [Using Polly for .NET Resilience and Transient-Fault-Handling with .NET Core](https://www.telerik.com/blogs/using-polly-for-net-resilience-and-transient-fault-handling-with-net-core) ⭐
 - [Optimally Configuring ASP.NET Core HttpClientFactory](https://rehansaeed.com/optimally-configuring-asp-net-core-httpclientfactory/) ⭐
+- [Making Microservices Fault Tolerant with Code Examples](https://harshmatharu.com/blog/fault-tolerance-in-microservices)
 
 ## 📺 Videos
 - [Handling Failures in Message Driven Architecture](https://www.youtube.com/watch?v=SesEYHGhlLQ)

@@ -18,6 +18,7 @@
 - [Tracing with EventSource in .NET 4.5](http://dev.goshoom.net/2013/04/tracing-with-eventsource/)
 - [MassTransit Prometheus Metrics](https://masstransit-project.com/advanced/monitoring/prometheus.html)
 - [Automatic Instrumentation of Containerized .NET Applications With OpenTelemetry](https://www.twilio.com/blog/automatic-instrumentation-of-containerized-dotnet-applications-with-opentelemetry)
+- [Observing .NET microservices with OpenTelemetry - logs, traces and metrics](https://blog.codingmilitia.com/2023/09/05/observing-dotnet-microservices-with-opentelemetry-logs-traces-metrics/)
 
 ## 📺 Videos
 - [Measure All The Things with App Metrics - Mark Rendle](https://www.youtube.com/watch?v=YJgBAiPlG3k)
@@ -25,3 +26,6 @@
 
 ## 📦 Libraries
 - [AppMetrics/AppMetrics](https://github.com/AppMetrics/AppMetrics) - App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application.
+
+## Samples
+- [joaofbantunes/DotNetMicroservicesObservabilitySample](https://github.com/joaofbantunes/DotNetMicroservicesObservabilitySample) - Sample application looking into observability of .NET microservices, using popular tools and technologies like OpenTelemetry, Prometheus, Grafana and (potentially) others

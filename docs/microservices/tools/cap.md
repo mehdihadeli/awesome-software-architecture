@@ -1,8 +1,10 @@
 # CAP
 
+## Resources
+- [Cap GitHub](https://github.com/dotnetcore/CAP)
+
 ## Articles
-- [System design fundamentals: What is the CAP theorem?](https://www.educative.io/blog/what-is-cap-theorem)
-- [The CAP theorem of domain modeling](https://vkhorikov.medium.com/the-cap-theorem-of-domain-modeling-2e3763301caf)
+- [Efficient Event Communication: Implementing Event Bus and Outbox Patterns with CAP in .NET Core Microservices](https://dev.to/ahmedshahjr/efficient-event-communication-implementing-event-bus-and-outbox-patterns-with-cap-in-net-core-microservices-36oe)
 
 ## 🚀 Samples
 - [MesutAtasoy/Joker](https://github.com/MesutAtasoy/Joker) - An example of microservices container based application which implemented different approaches within each microservice (DDD, CQRS, Simple CRUD)

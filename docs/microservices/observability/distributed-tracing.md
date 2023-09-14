@@ -92,6 +92,7 @@
 - [Instrumenting .NET Apps with OpenTelemetry](https://www.thorsten-hans.com/instrumenting-dotnet-apps-with-opentelemetry/)
 - [How to handle multiple commands in the same transaction](https://event-driven.io/en/simple_transactional_command_orchestration/)
 - [Observability with Grafana Cloud and OpenTelemetry in .net microservices](https://dev.to/dbolotov/observability-with-grafana-cloud-and-opentelemetry-in-net-microservices-448c) ⭐
+- [Observing .NET microservices with OpenTelemetry - logs, traces and metrics](https://blog.codingmilitia.com/2023/09/05/observing-dotnet-microservices-with-opentelemetry-logs-traces-metrics/)
 
 ## 📺 Videos
 - [Jimmy Bogard - Distributed Tracing Made Easy with .NET Core and OpenTelemetry](https://www.youtube.com/watch?v=s9UNr1oEMl4)
@@ -151,3 +152,6 @@
 - [cecilphillip/grafana-otel-dotnet](https://github.com/cecilphillip/grafana-otel-dotnet) ⭐ - Sample setup showing ASP.NET Core observability with Prometheus, Loki, Grafana, Opentelemetry Collector
 - [bradygaster/dotnet-cloud-native-build-2023](https://github.com/bradygaster/dotnet-cloud-native-build-2023)
 - [bravecobra/emojivoto-dotnet](https://github.com/bravecobra/emojivoto-dotnet)
+- [davidfowl/OtlpDemo](https://github.com/davidfowl/OtlpDemo) ⭐
+- [JamesNK/aspnetcore-grafana](https://github.com/JamesNK/aspnetcore-grafana) - Grafana dashboards for ASP.NET Core metrics
+- [joaofbantunes/DotNetMicroservicesObservabilitySample](https://github.com/joaofbantunes/DotNetMicroservicesObservabilitySample) - Sample application looking into observability of .NET microservices, using popular tools and technologies like OpenTelemetry, Prometheus, Grafana and (potentially) others

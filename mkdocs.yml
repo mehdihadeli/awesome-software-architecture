@@ -254,7 +254,7 @@ nav:
 - Design Best Practices: 
   - Design Best Practices: design-best-practices/design-best-practices.md
   - 12 Factor: design-best-practices/12-factor.md
-  - Strongly Type Ids & Snowflake: design-best-practices/strongly-typed-ids.md
+  - Ids: ids.md
   - Thin Controllers: design-best-practices/thin-controllers.md
 - Anti Patterns: 
   - Anti Patterns: anti-patterns/anti-patterns.md
@@ -275,6 +275,7 @@ nav:
 - Distributed Transactions & Saga: distributed-transactions.md
 - Distributed Locking: distributed-locking.md
 - Eventual Consistency: eventual-consistency.md
+- Type Driven Design: type-driven-design.md
 - RESTful API Design: rest.md
 - gRPC: grpc.md
 - Caching: caching.md

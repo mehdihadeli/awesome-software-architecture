@@ -23,6 +23,7 @@
 - [Saga patterns: wrap up - Jimmy Bogard](https://lostechies.com/jimmybogard/2013/05/14/saga-patterns-wrap-up/)
 - [Handling Complexity: Using Sagas to Provide Transactional Support for Distributed Systems](https://medium.com/ssense-tech/handling-complexity-using-sagas-to-provide-transactional-support-for-distributed-systems-61ae909e0829) ⭐
 - [Implementation of Choreography-based Saga in .NET Microservices](https://www.gokhan-gokalp.com/en/implementation-of-choreography-based-saga-in-dotnet-microservices/)
+- [Sagas: When a Distributed Transaction Is The Right Thing For You](https://medium.com/cloud-native-daily/sagas-when-a-distributed-transaction-is-the-right-thing-for-you-dd110253ed1a)
 
 ## 📺 Videos
 - [Life Beyond Distributed Transactions: An Apostate's Implementation - Jimmy Bogard](https://www.youtube.com/watch?v=AUrKofVRHV4)

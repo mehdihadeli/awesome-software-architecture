@@ -43,3 +43,4 @@
 - [Database Sharding Explained | Database Partitioning | Database Scaling Tutorial](https://www.youtube.com/watch?v=VhsMXWb5Eew)
 - [Scaling MongoDB Best Practices for Sharding, Indexing and Performance Isolation](https://www.youtube.com/watch?v=ZcAErl9Ir6Q)
 - [Shared Database between Services? Maybe!](https://www.youtube.com/watch?v=vwTwkPUcwNM)
+- [What is Database Sharding?](https://www.youtube.com/watch?v=XP98YCr-iXQ)
