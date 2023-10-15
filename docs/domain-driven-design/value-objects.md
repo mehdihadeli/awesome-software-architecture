@@ -56,4 +56,4 @@
 - [jhewlett/ValueObject](https://github.com/jhewlett/ValueObject) - A micro library for easily creating C# classes with value semantics. No need to override Equals, GetHashCode, et all.
 - [AntonioFalcaoJr/Dotnet6.EFCore6.Record.ValueObjects](https://github.com/AntonioFalcaoJr/Dotnet6.EFCore6.Record.ValueObjects) - This project aims to demonstrate the configuration and use of Records as Value Objects with EF Core 6
 - [SteveDunn/Vogen](https://github.com/SteveDunn/Vogen) - A semi-opinionated library which is a source generator and a code analyser. It Source generates Value Objects
-- [adampaquette/Typely](https://github.com/adampaquette/Typely) - Domain Primitives creation with a fluent Api and built-in validations. Based on source generator and code analyser.
+- [adampaquette/Typely](https://github.com/adampaquette/Typely) - Domain Primitives creation with a fluent Api and built-in validations. Based on a source generator and code analyzer.
