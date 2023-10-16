@@ -17,7 +17,7 @@
 - [Strengthening your domain: Domain Events](https://lostechies.com/jimmybogard/2010/04/08/strengthening-your-domain-domain-events/)
 - [Implementing event-based communication between microservices (integration events)](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/integration-event-based-microservice-communications) 
 - [DDD and Messaging Architectures](https://verraes.net/2019/05/ddd-msg-arch/) 
-- [Domain events: simple and reliable solution](https://enterprisecraftsmanship.com/posts/domain-events-simple-reliable-solution/) 
+- [Domain events: simple and reliable solution](https://enterprisecraftsmanship.com/posts/domain-events-simple-reliable-solution/)
 - [Domain Events Pattern Example](https://tonytruong.net/domain-events-pattern-example)
 - [Domain Events](https://verraes.net/2014/11/domain-events/)
 - [Patterns for Decoupling in Distributed Systems: Explicit Public Events](http://verraes.net/2019/05/patterns-for-decoupling-distsys-explicit-public-events/)
@@ -38,6 +38,7 @@
 - [Why we Avoid Putting Value Objects in Events](https://buildplease.com/pages/vos-in-events/) ⭐
 - [Domain-Driven Design: Domain Events and Integration Events in .Net](https://betterprogramming.pub/domain-driven-design-domain-events-and-integration-events-in-net-5a2a58884aaa) ⭐
 - [From domain events to infrastructure - thinking out loud about possible approaches I don’t hate](https://blog.codingmilitia.com/2023/05/16/from-domain-events-to-infrastructure-thinking-out-loud-about-possible-approaches-i-dont-hate/)
+- [Internal and external events, or how to design event-driven API](https://event-driven.io/en/internal_external_events/)
 
 ## 🚀 Samples
 - [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture/blob/main/src/Clean.Architecture.Infrastructure/Data/AppDbContext.cs)

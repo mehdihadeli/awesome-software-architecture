@@ -51,3 +51,4 @@
 - [VasilisGaitanidis/master-containerized-microservices/docker-compose](https://github.com/VasilisGaitanidis/master-containerized-microservices/blob/master/src/docker-compose.yml)
 - [vietnam-devs/coolstore-microservices/docker-compose](https://github.com/vietnam-devs/coolstore-microservices/blob/main/docker-compose.yml)
 - [vietnam-devs/coolstore-microservices/docker-compose.override](https://github.com/vietnam-devs/coolstore-microservices/blob/main/docker-compose.override.yml)
+- [open-telemetry/opentelemetry-demo/docker-compose](https://github.com/open-telemetry/opentelemetry-demo/blob/main/docker-compose.yml) ⭐

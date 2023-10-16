@@ -44,6 +44,7 @@
 - [Event Storming and Spring with a Splash of DDD](https://spring.io/blog/2018/04/11/event-storming-and-spring-with-a-splash-of-ddd)
 - [Strategic Domain-Driven Design Kata: Delivericious](https://medium.com/nick-tune-tech-strategy-blog/strategic-domain-driven-design-kata-delivericious-b114ca77163)
 - [Design Level Event Storming with examples!](https://mrpicky.dev/design-level-event-storming-with-examples/)
+- [Why You Should Be Using Event Storming](https://betterprogramming.pub/why-you-should-be-using-event-storming-2f32e5280c8c)
 
 ## 📺 Videos
 - [Scoping and Organizing .NET Microservices Using Event Storming](https://www.pluralsight.com/courses/dotnet-microservices-scoping-organizing)

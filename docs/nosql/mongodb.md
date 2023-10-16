@@ -94,3 +94,4 @@
 - [alexandre-spieser/mongodb-generic-repository](https://github.com/alexandre-spieser/mongodb-generic-repository) - An example of generic repository implementation using the MongoDB C# Sharp 2.0 driver (async)
 - [alexandre-spieser/AspNetCore.Identity.MongoDbCore](https://github.com/alexandre-spieser/AspNetCore.Identity.MongoDbCore) - A MongoDb UserStore and RoleStore adapter for Microsoft.AspNetCore.Identity 2.2. Allows you to use MongoDb instead of SQL server with Microsoft.AspNetCore.Identity 2.2. (not Identity 3.0)
 - [Parkbee/mongo-db](https://github.com/Parkbee/mongo-db) - This repository is intended to be a location for all ParkBee MongoDB utilities
+- [mongodb/mongo-efcore-provider](https://github.com/mongodb/mongo-efcore-provider) - MongoDB Entity Framework Core Provider

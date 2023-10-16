@@ -93,6 +93,9 @@
 - [How to handle multiple commands in the same transaction](https://event-driven.io/en/simple_transactional_command_orchestration/)
 - [Observability with Grafana Cloud and OpenTelemetry in .net microservices](https://dev.to/dbolotov/observability-with-grafana-cloud-and-opentelemetry-in-net-microservices-448c) ⭐
 - [Observing .NET microservices with OpenTelemetry - logs, traces and metrics](https://blog.codingmilitia.com/2023/09/05/observing-dotnet-microservices-with-opentelemetry-logs-traces-metrics/)
+- [Supporting Jaeger with native OTLP](https://deploy-preview-1892--opentelemetry.netlify.app/blog/2022/jaeger-native-otlp/)
+- [OTLP Specification 1.0.0](https://opentelemetry.io/docs/specs/otlp/)
+- [Introducing native support for OpenTelemetry in Jaeger](https://medium.com/jaegertracing/introducing-native-support-for-opentelemetry-in-jaeger-eb661be8183c)
 
 ## 📺 Videos
 - [Jimmy Bogard - Distributed Tracing Made Easy with .NET Core and OpenTelemetry](https://www.youtube.com/watch?v=s9UNr1oEMl4)
@@ -114,6 +117,7 @@
 - [Distributed Tracing in .NET 6 using OpenTelemetry - Martin Thwaites - NDC Copenhagen 2022](https://www.youtube.com/watch?v=3JnMfJM9K0c)
 - [Cloud-native development with .NET 8 | Microsoft Build 2023](https://www.youtube.com/watch?v=hz9d3AcZKqQ)
 - [Practical OpenTelemetry for .NET - Martin Thwaites - NDC Oslo 2023](https://www.youtube.com/watch?v=c4AJlZeX2fE)
+- [Getting started with the OpenTelemetry Collector](https://www.youtube.com/watch?v=EeU-k659lpw)
 
 ## 📦 Libraries
 - [SkyAPM/SkyAPM-dotnet](https://github.com/SkyAPM/SkyAPM-dotnet) - The .NET/.NET Core instrument agent for Apache SkyWalking
@@ -155,3 +159,5 @@
 - [davidfowl/OtlpDemo](https://github.com/davidfowl/OtlpDemo) ⭐
 - [JamesNK/aspnetcore-grafana](https://github.com/JamesNK/aspnetcore-grafana) - Grafana dashboards for ASP.NET Core metrics
 - [joaofbantunes/DotNetMicroservicesObservabilitySample](https://github.com/joaofbantunes/DotNetMicroservicesObservabilitySample) - Sample application looking into observability of .NET microservices, using popular tools and technologies like OpenTelemetry, Prometheus, Grafana and (potentially) others
+- [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) ⭐ - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
+- [open-telemetry/opentelemetry-collector-contrib/examples/demo](https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/main/examples/demo)

@@ -157,3 +157,4 @@
 - [matt-bentley/DDDMart](https://github.com/matt-bentley/DDDMart) - Sample eCommerce application using Domain Driven Design
 - [Nairda015/IGroceryStore](https://github.com/Nairda015/IGroceryStore) - IGroceryStore - Loosely coupled monolith
 - [bitloops/ddd-hexagonal-cqrs-es-eda](https://github.com/bitloops/ddd-hexagonal-cqrs-es-eda) - Complete working example of using Domain Driven Design (DDD), Hexagonal Architecture, CQRS, Event Sourcing (ES), Event Driven Architecture (EDA), Behaviour Driven Development (BDD) using TypeScript and NestJS
+- [matt-bentley/CleanArchitecture](https://github.com/matt-bentley/CleanArchitecture) - An opinionated ASP.NET Core solution setup for creating web applications using Clean Architecture and Domain-Driven Design principles.

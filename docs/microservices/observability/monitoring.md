@@ -18,6 +18,11 @@
 - [Prometheus Grafana Dotnet Core STEP BY STEP](https://www.youtube.com/watch?v=cvt1Vrs3ajU)
 - [Cloud-native development with .NET 8 | Microsoft Build 2023](https://www.youtube.com/watch?v=hz9d3AcZKqQ)
 - [Server Monitoring // Prometheus and Grafana Tutorial](https://www.youtube.com/watch?v=9TJx7QTrTyo)
+- [How to get started with Grafana for your metrics, logs, and traces](https://grafana.com/go/webinar/getting-started-with-grafana-apac/)
+- [Intro to metrics with Grafana: Prometheus, Graphite, and beyond](https://grafana.com/go/webinar/intro-to-metrics-with-grafana-apac/)
+- [How to get started with logging and Grafana Loki](https://grafana.com/go/webinar/getting-started-with-logging-with-loki-apac/)
+- [How to get started with tracing and Grafana Tempo](https://grafana.com/go/webinar/getting-started-with-tracing-tempo-apac/)
+- [Sending generated traces to Grafana Tempo](https://www.youtube.com/watch?v=V5GtJRZtZ90)
 
 ## Courses
 - [Introduction to Prometheus](https://training.promlabs.com/training/introduction-to-prometheus)
