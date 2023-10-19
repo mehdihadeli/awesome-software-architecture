@@ -11,6 +11,8 @@
 - [Start Building .NET Microservices Today, Step by Step](https://dotnetmicroservices.com/)
 - [Sairyss/distributed-systems-topics](https://github.com/Sairyss/distributed-systems-topics) - Topics and resources related to distributed systems, system design, microservices, scalability and performance, etc
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+- [davidetaibi/Microservices_Project_List](https://github.com/davidetaibi/Microservices_Project_List) - A curated List of project that migrated to microservices
+
 ## 📕 Articles
 - [Microservices - Martin Fowler](https://martinfowler.com/articles/microservices.html)
 - [Design a microservice-oriented application](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/microservice-application-design)

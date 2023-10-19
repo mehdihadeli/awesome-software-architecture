@@ -72,6 +72,7 @@
 - [Best Practices for Migrating from RDBMS to MongoDB Webinar](https://www.mongodb.com/presentations/migrating-from-rdbms-to-mongodb-webinar-hk)
 - [Advanced Schema Design Patterns](https://www.youtube.com/watch?v=bxw1AkH2aM4)
 - [Making MongoDB Easy for Entity Framework Users with MongoFramework](https://www.youtube.com/watch?v=qsFyJSCz50Q)
+- [.NET Data Community Standup - Introducing the MongoDB provider for EF Core](https://www.youtube.com/watch?v=Zat-ferrjro)
 
 ## Courses
 - [MongoDB Basics](https://university.mongodb.com/courses/M001/about)

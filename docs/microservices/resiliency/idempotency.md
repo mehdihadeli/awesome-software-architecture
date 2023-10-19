@@ -9,5 +9,7 @@
 - [A simple trick for idempotency handling in the Elastic Search read model](https://event-driven.io/en/simple_trick_for_idempotency_handling_in_elastic_search_readm_model/)
 - [Dealing with Eventual Consistency and Idempotency in MongoDB projections](https://event-driven.io/en/dealing_with_eventual_consistency_and_idempotency_in_mongodb_projections/)
 - [HTTP protocol for exactly-once processing](https://exactly-once.github.io/posts/exactly-once-http/)
+- [Achieving Idempotency: There Are More Ways Than You Think](https://medium.com/@mbneto/achieving-idempotency-there-are-more-ways-than-you-think-12c832f76841)
+
 ## 📦 Libraries
 - [ikyriak/IdempotentAPI](https://github.com/ikyriak/IdempotentAPI) - A .NET library that handles the HTTP write operations (POST and PATCH) that can affect only once for the given request data and idempotency-key by using an ASP.NET Core attribute (filter).
