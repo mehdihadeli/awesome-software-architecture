@@ -47,6 +47,7 @@
 - [How to Migrate Relational Database to MongoDB?: Made Easy](https://hevodata.com/learn/relational-database-to-mongodb/)
 - [MongoDB vs. Redis: Which Database Should You Use?](https://www.integrate.io/blog/mongodb-vs-redis/)
 - [MongoDB vs. Redis Comparison](https://www.mongodb.com/compare/mongodb-vs-redis)
+- [Trying out MongoDB with EF Core using Testcontainers](https://devblogs.microsoft.com/dotnet/efcore-mongodb/)
 
 ## 📺 Videos
 - [MongoDB In 30 Minutes](https://www.youtube.com/watch?v=pWbMrx5rVBE)

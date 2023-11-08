@@ -1,5 +1,8 @@
 # Ansible
 
+## Resources
+- [omerbsezer/Fast-Ansible](https://github.com/omerbsezer/Fast-Ansible) - This repo covers Ansible with LABs
+
 ## Articles
 - [Automate EVERYTHING with Ansible!](https://docs.technotim.live/posts/ansible-automation/)
 - [Using Ansible through Windows 10's Subsystem for Linux](https://www.jeffgeerling.com/blog/2017/using-ansible-through-windows-10s-subsystem-linux)

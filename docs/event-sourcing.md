@@ -235,6 +235,7 @@
 - [ForrestTech/Eventus](https://github.com/ForrestTech/Eventus) - A framework for creating updating and storing event sourced aggregates using a range of storage providers.
 - [NEventStore/NEventStore](https://github.com/NEventStore/NEventStore) - A persistence agnostic Event Store for .NET
 - [ircnelson/enjoy.cqrs](https://github.com/ircnelson/enjoy.cqrs) - This library help you to build your applications using CQRS and Event source concepts.
+
 ## 🚀 Samples
 - [VenomAV/EventSourcingCQRS](https://github.com/VenomAV/EventSourcingCQRS)
 - [oskardudycz/EventSourcing.NetCore/Sample/EventStoreDB/Simple](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/EventStoreDB/Simple)
@@ -277,3 +278,4 @@
 - [mat-mcloughlin/PatientMangement](https://github.com/mat-mcloughlin/PatientMangement) - A simple example of how to build an event sourced application
 - [klimisa/aggregate-implementation-patterns-csharp](https://github.com/klimisa/aggregate-implementation-patterns-csharp) - Aggregate implementations workshop port to C#
 - [bitloops/ddd-hexagonal-cqrs-es-eda](https://github.com/bitloops/ddd-hexagonal-cqrs-es-eda) - Complete working example of using Domain Driven Design (DDD), Hexagonal Architecture, CQRS, Event Sourcing (ES), Event Driven Architecture (EDA), Behaviour Driven Development (BDD) using TypeScript and NestJS
+- [matt-bentley/AspNetCore.EventSourcing](https://github.com/matt-bentley/AspNetCore.EventSourcing) - Simple Event Sourcing implementation in ASP.NET with Entity Framework Core and MediatR

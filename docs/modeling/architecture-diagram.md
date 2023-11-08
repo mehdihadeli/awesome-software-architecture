@@ -1,4 +1,4 @@
-# Architecture Diagram
+# Architecture Diagram & C4 Model
 
 ## 📘 Resources
 - [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams
@@ -16,6 +16,10 @@
 - [Setting up PlantUML for coding C4 architecture diagrams](https://joymonscode.blogspot.com/2019/04/setting-up-plantuml-for-coding-c4.html)
 - [Software Architecture Diagrams as Code](https://shekhargulati.com/2020/04/21/software-architecture-diagrams-as-code/)
 - [3 Diagram as Code Tools That Combined Cover All Your Needs](https://dev.to/xnok/3-diagram-as-code-tools-that-combined-cover-all-your-needs-3fl9)
+- [C4 Model - Getting Started Workshop](https://miro.com/miroverse/c4-model-getting-started-workshop/) ⭐ 
+- [C4 model for system architecture design](https://icepanel.io/blog/2022-10-03-c4-model-for-system-architecture-design) ⭐ 
+- [Visualizing software architecture with the C4 model](https://icepanel.io/blog/2023-02-23-visualizing-software-architecture-with-the-c4-model)
+
 ## 📺 Videos
 - [Setting up PlantUML for coding C4 architecture diagrams in Visual Studio Code](https://www.youtube.com/watch?v=Zt3Bj1HMJ8g)
 - [PlantUML Playlist - Arturo Santiago-Rivera](https://www.youtube.com/playlist?list=PLPPxJMwitEl0-J8xO_z7SzjI9UTYH7dvz)

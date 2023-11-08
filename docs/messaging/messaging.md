@@ -81,6 +81,12 @@
 - [Wire Tap](https://www.enterpriseintegrationpatterns.com/WireTap.html)
 - [Message Ordering in Pub/Sub or Queues](https://codeopinion.com/message-ordering-in-pub-sub-or-queues/)
 - [Mapping event type by convention](https://event-driven.io/en/how_to_map_event_type_by_convention/)
+- [Distributed systems evolution: message contracts](https://milestone.topics.it/2022/07/04/messages-evolution.html)
+- [Back to Basics: commands, events, and messages](https://milestone.topics.it/2023/05/25/back-to-basics-messages.html)
+- [Define messages as POCO, interfaces, or records. Does it really matter?](https://milestone.topics.it/2023/10/31/defining-messages.html)
+- [Internal and external events, or how to design event-driven API](https://event-driven.io/en/internal_external_events/)
+- [9 PROCESSING PATTERNS](https://www.messagehandler.net/patterns/)
+
 ## 📺 Videos
 
 - [Handling Concurrency with Message-IDs | Event Driven Architecture](https://www.youtube.com/watch?v=wefvl2ohiQc)
