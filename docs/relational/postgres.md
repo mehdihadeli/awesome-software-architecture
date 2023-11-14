@@ -21,6 +21,7 @@
 - [Learn PostgreSQL Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=qw--VYLpxG4)
 - [PostgresSQL Playlist - Hussein Nasser](https://www.youtube.com/playlist?list=PLQnljOFTspQWGrOqslniFlRcwxyY94cjj)
 - [Scaling PostgreSQL: How to never shard again](https://www.youtube.com/watch?v=U60z_UTMjAk)
+- [PostgreSQL Tutorial for Beginners](https://www.youtube.com/watch?v=SpfIwlAYaKk)
 
 ## 📦 Libraries
 - [JasperFx/marten](https://github.com/JasperFx/marten) - .NET Transactional Document DB and Event Store on PostgreSQL

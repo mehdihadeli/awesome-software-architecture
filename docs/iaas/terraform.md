@@ -8,6 +8,8 @@
 - [Azure DevOps: Provision API Infrastructure using Terraform - Full Course](https://www.youtube.com/watch?v=Ff0DoAmpv6w)
 - [Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)](https://www.youtube.com/watch?v=7xngnjfIlK4)
 - [Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)](https://www.youtube.com/watch?v=7xngnjfIlK4)
+- [HashiCorp Terraform Associate Certification Course (003) - Pass the Exam!](https://www.youtube.com/watch?v=SPcwo0Gq9T8)
+- [HashiCorp Terraform Associate Certification Course - Pass the Exam!](https://www.youtube.com/watch?v=V4waklkBC38)
 
 ## 📦 Libraries
 - [minamijoyo/tfedit](https://github.com/minamijoyo/tfedit) - A refactoring tool for Terraform

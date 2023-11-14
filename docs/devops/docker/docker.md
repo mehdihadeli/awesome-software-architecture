@@ -141,3 +141,4 @@
 - [vietnam-devs/coolstore-microservices/Dockerfile](https://github.com/vietnam-devs/coolstore-microservices/blob/main/src/Services/ProductCatalog/ProductCatalogService.Api/Dockerfile)
 - [thangchung/clean-architecture-dotnet/Dockerfile](https://github.com/thangchung/clean-architecture-dotnet/blob/main/samples/Product/ProductService.Api/Dockerfile)
 - [laurentkempe/ChiseledDocker](https://github.com/laurentkempe/ChiseledDocker)
+- [richlander/container-workshop](https://github.com/richlander/container-workshop) - Documents fundamental .NET Container workflows

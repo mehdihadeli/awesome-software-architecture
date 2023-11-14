@@ -11,6 +11,7 @@
 - [Event Modeling Traditional Systems](https://eventmodeling.org/posts/event-modeling-traditional-systems/)
 - [E-COMMERCE Modeling TUTORIAL](https://www.messagehandler.net/docs/learning-path/e-commerce/)
 - [Anti-patterns in event modelling - Clickbait event](https://event-driven.io/en/clickbait_event/)
+- [WHAT IS EVENT MODELING? (WITH EXAMPLE)](https://www.goeleven.com/blog/event-modeling/) ⭐
 
 ## 📺 Videos
 - [Event Modeling Workshop - Adam Dymitruk](https://www.youtube.com/watch?v=gyhR5Wey6_s) ⭐

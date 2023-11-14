@@ -2,6 +2,7 @@
 
 ## 📕 Articles
 - [Open-Closed Principle - DevIQ](https://deviq.com/principles/open-closed-principle)
+- [SOLID Design in C#: The Open-Close Principle (OCP)](https://blog.ndepend.com/solid-design-the-open-close-principle-ocp/)
 
 ## 📺 Videos
 

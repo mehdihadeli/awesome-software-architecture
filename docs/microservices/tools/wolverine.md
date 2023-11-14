@@ -7,6 +7,8 @@
 ## Articles
 - [Unraveling the Magic in Wolverine](https://jeremydmiller.com/2023/10/02/unraveling-the-magic-in-wolverine/)
 - [Wolverine is for the developers](https://timdeschryver.dev/blog/wolverine-is-for-the-developers)
+- [How to fully leverage Wolverine with its HTTP package](https://timdeschryver.dev/blog/how-to-fully-leverage-wolverine-with-its-http-package)
+- [Wolverine embraces Observability](https://timdeschryver.dev/blog/wolverine-embraces-observability)
 - [Messages and Serialization](https://wolverine.netlify.app/guide/messages.html)
 - [ASP.Net Core Integration](https://wolverine.netlify.app/guide/http/integration.html)
 - [Using Local Queueing](https://wolverine.netlify.app/guide/messaging/transports/local.html)
