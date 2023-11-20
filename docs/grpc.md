@@ -53,8 +53,9 @@
 - [gRPC client-side load balancing](https://docs.microsoft.com/en-us/aspnet/core/grpc/loadbalancing)
 - [ASP.NET Core 6: Here is the best way to pass a JWT in the headers of a gRPC client](https://anthonygiretti.com/2022/08/15/asp-net-core-6-here-is-the-best-way-to-pass-a-jwt-in-the-headers-of-a-grpc-client/)
 - [ASP.NET Core 6: Handling gRPC exception correctly server side](https://anthonygiretti.com/2022/08/28/asp-net-core-6-handling-grpc-exception-correctly-server-side/)
-## 📹 Videos
+- [Testing ASP.NET Core gRPC services in JetBrains Rider](https://andrewlock.net/testing-aspnetcore-grpc-services-in-jetbrains-rider/)
 
+## 📹 Videos
 - [Bidirectional Streaming | gRPC in .NET 5](https://www.youtube.com/watch?v=wY4nMSUF9e0)
 - [Client Streaming | gRPC in .NET 5](https://www.youtube.com/watch?v=DNxdvRQ4qRQ)
 - [gRPC Server & Unary Calls | gRPC in .NET 5](https://www.youtube.com/watch?v=hp5FTB7PI9s)
@@ -70,6 +71,7 @@
 - [ASP.NET Community Standup - gRPC Updates in .NET 7](https://www.youtube.com/watch?v=ds27V6rNick)
 - [Where should you use gRPC? And where NOT to use it!](https://youtu.be/4SuFtQV8RCk)
 - [High-performance services with gRPC: What's new in .NET 7 | .NET Conf 2022](https://www.youtube.com/watch?v=et_2NBk4N4Y)
+- [gRPC Error handling in gRPC Bidirectional streams](https://www.youtube.com/watch?v=IT4OfN27D4c)
 
 ## 📦 Libraries
 
@@ -85,3 +87,4 @@
 - [aspnetrun/run-aspnet-grpc](https://github.com/aspnetrun/run-aspnet-grpc) - Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5. See gRPC Microservices and Step by Step Implementation on .NET Course w/ discount
 - [jtattermusch/grpc-loadbalancing-kubernetes-examples](https://github.com/jtattermusch/grpc-loadbalancing-kubernetes-examples) - gRPC Load Balancing on Kubernetes examples
 - [wicharypawel/net-core-grpc-load-balance](https://github.com/wicharypawel/net-core-grpc-load-balance)
+- [AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing](https://github.com/AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing) - The main objective of this cloud-native project is to represent the state of the art of a distributed, reliable, and highly scalable system by interpreting the most relevant principles of Reactive Domain Driven Design.

@@ -16,6 +16,8 @@
 - [Introducing Project Tye](https://devblogs.microsoft.com/dotnet/introducing-project-tye/)
 - [Distributed application with Project Tye](https://rafaelldi.blog/posts/distributed-application-with-project-tye/)
 - [Be more productive in developing .NET Core microservices with Tye](https://craftbakery.dev/be-more-productive-with-tye/)
+- [Tye, starting and running multiple APIs with a single command](https://timdeschryver.dev/blog/tye-starting-and-running-multiple-apis-with-a-single-command)
+
 ## 📺 Videos
 - [Building microservices with Tye](https://www.youtube.com/watch?v=m4VsOdIT1O4)
 - [Developing and Deploying Microservices with 'Tye'](https://www.youtube.com/watch?v=_s8UdhGOGmY)
@@ -30,4 +32,3 @@
 - [dotnet/tye/tree/main/samples](https://github.com/dotnet/tye/tree/main/samples)
 - [vietnam-devs/coolstore-microservices/tye.yaml](https://github.com/vietnam-devs/coolstore-microservices/blob/main/tye.yaml)
 - [thangchung/clean-architecture-dotnet/tye.yaml](https://github.com/thangchung/clean-architecture-dotnet/blob/main/samples/tye.yaml)
-- [devmentors/FeedR/tye.yml](https://github.com/devmentors/FeedR/blob/master/tye.yml)

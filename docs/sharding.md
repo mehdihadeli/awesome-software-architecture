@@ -10,6 +10,7 @@
 - [A Guide to Consistent Hashing](https://www.toptal.com/big-data/consistent-hashing)
 - [Scale your app better with Scaling Cube](https://itnext.io/scale-your-app-better-with-scaling-cube-1860930c4d57)
 - [How to use Database Sharding and Scale an ASP.NET Core Microservice Architecture](https://itnext.io/how-to-use-database-sharding-and-scale-an-asp-net-core-microservice-architecture-22c24916590f)
+- [How to Scale an ASP.NET Core Microservice and Sharded Database. Load Test with JMeter](https://itnext.io/how-to-scale-an-asp-net-core-microservice-and-sharded-database-load-test-with-jmeter-1a8c7292e7e3)
 - [An Unorthodox Approach To Database Design : The Coming Of The Shard](http://highscalability.com/blog/2009/8/6/an-unorthodox-approach-to-database-design-the-coming-of-the.html)
 - [Database Sharding](https://medium.com/system-design-blog/database-sharding-69f3f4bd96db)
 - [What Is Sharding?](https://hazelcast.com/glossary/sharding)
@@ -18,6 +19,9 @@
 - [Data partitioning guidance](https://docs.microsoft.com/en-us/azure/architecture/best-practices/data-partitioning)
 - [Data partitioning strategies](https://docs.microsoft.com/en-us/azure/architecture/best-practices/data-partitioning-strategies)
 - [Shared Database between Services? Maybe!](https://codeopinion.com/shared-database-between-services-maybe/)
+- [How sharding a database can make it faster](https://stackoverflow.blog/2022/03/14/how-sharding-a-database-can-make-it-faster/)
+- [All Things Sharding: Techniques and Real-Life Examples in NoSQL Data Storage Systems](https://kousiknath.medium.com/all-things-sharding-techniques-and-real-life-examples-in-nosql-data-storage-systems-3e8beb98830a)
+
 ## 📺 Videos
 - [What is Database Sharding?](https://www.youtube.com/watch?v=5faMjKuB9bc)
 - [What is Database Sharding?](https://www.youtube.com/watch?v=hdxdhCpgYo8)
@@ -39,3 +43,4 @@
 - [Database Sharding Explained | Database Partitioning | Database Scaling Tutorial](https://www.youtube.com/watch?v=VhsMXWb5Eew)
 - [Scaling MongoDB Best Practices for Sharding, Indexing and Performance Isolation](https://www.youtube.com/watch?v=ZcAErl9Ir6Q)
 - [Shared Database between Services? Maybe!](https://www.youtube.com/watch?v=vwTwkPUcwNM)
+- [What is Database Sharding?](https://www.youtube.com/watch?v=XP98YCr-iXQ)

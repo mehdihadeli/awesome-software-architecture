@@ -3,8 +3,10 @@
 ## 📘 Resources
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [GuillaumeFalourd/useful-actions](https://github.com/GuillaumeFalourd/useful-actions) - Curated list of useful Github actions with workflows examples 💡
-- [["28-github-actions"] Series' Articles](https://dev.to/bdougieyo/series/11453)
+- [28 Days of GitHub Action Tips](https://dev.to/github/28-days-of-github-action-tips-4opg)
 - [28 Days of GitHub: Automating and Improving Your Workflow Series' Articles](https://dev.to/blackgirlbytes/series/16662)
+- [GuillaumeFalourd/useful-actions](https://github.com/GuillaumeFalourd/useful-actions) - Curated list of useful Github actions with workflows examples
+
 ## 📝 Articles
 - [.NET 💜 GitHub Actions](https://devblogs.microsoft.com/dotnet/dotnet-loves-github-actions/)
 - [Automate Azure AD B2C policies release with GitHub Actions](https://daniel-krzyczkowski.github.io/Automate-Azure-AD-B2C-policies-release-with-GitHub-Actions/)
@@ -19,9 +21,82 @@
 - [ASP.NET Core integration tests with docker-compose on GitHub Actions](https://blog.joaograssi.com/posts/2020/asp-net-core-integration-tests-with-docker-compose-github-actions/)
 - [Setup Continuous Delivery with GitHub Actions](https://dev.to/github/setup-continuous-delivery-with-github-actions-4pea)
 - [From Zero to Production - Generate everything with a single button](https://steven-giesel.com/blogPost/5f9e9f0d-2413-4e4b-8e38-9eebe9503e52)
+- [Publishing Images With GitHub Actions](https://www.kenmuse.com/blog/publishing-images-with-github-actions/)
+- [Ubuntu 22.04.1 LTS GitHub action Installed Software](https://github.com/actions/runner-images/blob/main/images/linux/Ubuntu2204-Readme.md)
+- [Code Coverage in GitHub with .NET Core](https://samlearnsazure.blog/2021/01/05/code-coverage-in-github-with-net-core/)
+- [About GitHub-hosted runners](https://docs.github.com/en/actions/using-github-hosted-runners/about-github-hosted-runners)
+- [GitHub Actions: Publish Code Coverage Summary to Pull Requests](https://josh-ops.com/posts/github-code-coverage/)
+- [How To Build & Publish NuGet Packages With GitHub Actions](https://www.jamescroft.co.uk/how-to-build-publish-nuget-packages-with-github-actions/)
+- [Setting GitHub Actions Environment Variables In PowerShell](https://www.jamescroft.co.uk/how-to-build-publish-nuget-packages-with-github-actions/)
+- [Generating Code Coverage Reports in .NET Core](https://dotnetthoughts.net/generating-code-coverage-reports-in-dotnet-core/)
+- [Automated versioning and package publishing using GitHub Actions](https://dotnetthoughts.net/automated-versioning-and-package-publishing-using-github-actions/)
+- [Publish docker images to GitHub Container Registry (ghcr)](https://dotnetthoughts.net/publish-images-to-github-container-registry/)
+- [Creating a GitHub Composite Action](https://samlearnsazure.blog/2022/12/19/creating-a-github-composite-action/)
+- [Automatically generated release notes](https://docs.github.com/en/repositories/releasing-projects-on-github/automatically-generated-release-notes)
+- [How to automatically generate release notes for your project](https://dev.to/github/how-to-automatically-generate-release-notes-for-your-project-2ng8)
+- [GitHub actions example for automatic release drafts and changelog.md creation](https://johanneskonings.dev/github/2021/02/28/github_automatic_releases_and-changelog/)
+- [Stop writing your changelogs manually](https://tiagomichaelsousa.dev/articles/stop-writing-your-changelogs-manually) ⭐⭐
+- [Git workflow with conventional commits and semantic auto release](https://gist.github.com/vtenq/7a93687108cb876f884c3ce75a8a8023) ⭐⭐
+- [Ship It! (How Wilco Does CI/CD)](https://www.trywilco.com/post/wilco-ci-cd-github-heroku) ⭐⭐
+- [New git guidelines: We have switched to Conventional Commits](https://dev.to/visuellverstehen/new-git-guidelines-we-have-switched-to-conventional-commits-1p0c)
+- [SEMANTIC BRANCH NAMES AND COMMIT MESSAGES IN GIT](https://dev-tips.com/git/semantic-branch-names-and-commit-messages-in-git)
+- [A Guide to Git(Hub) Flow and Commits](https://roalcantara.medium.com/a-guide-to-improve-the-git-hub-flow-and-commits-messages-b495461e1115) ⭐
+- [Reusing Workflows - GitHub Action Docs](https://docs.github.com/en/actions/using-workflows/reusing-workflows) ⭐
+- [Github Actions: check steps status](https://stackoverflow.com/questions/57850553/github-actions-check-steps-status) 
+- [Dependencies Between Workflows on Github Actions](https://stackoverflow.com/questions/58457140/dependencies-between-workflows-on-github-actions)
+- [7 advanced workflow automation features with GitHub Actions](https://github.blog/2021-11-18-7-advanced-workflow-automation-features-with-github-actions/) ⭐
+- [Storing workflow data as artifacts](https://docs.github.com/en/actions/using-workflows/storing-workflow-data-as-artifacts)
+- [GitHub Actions: Ability to change retention days for artifacts and logs](https://github.blog/changelog/2020-10-08-github-actions-ability-to-change-retention-days-for-artifacts-and-logs/)
+- [How to auto-reject a pull request if tests are failing (Github actions)](https://stackoverflow.com/questions/58654530/how-to-auto-reject-a-pull-request-if-tests-are-failing-github-actions)
+- [Managing a branch protection rule](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/defining-the-mergeability-of-pull-requests/managing-a-branch-protection-rule)
+- [Deploy to Azure with GitHub Actions](https://limeii.github.io/2022/11/deploy-to-azure-appservice-with-github-actions/) ⭐
+- [Deploy on multiple env with GitHub Actions](https://limeii.github.io/2022/11/deploy-on-multiple-environment-with-github-actions/) ⭐
+- [Build a .NET web app using GitHub Actions](https://learn.microsoft.com/en-us/dotnet/architecture/devops-for-aspnet-developers/actions-build) ⭐⭐
+- [Deploy a .NET web app using GitHub Actions](https://learn.microsoft.com/en-us/dotnet/architecture/devops-for-aspnet-developers/actions-deploy) ⭐⭐
+- [Deployment with GitHub Actions: The Bad and the Ugly](https://colinsalmcorner.com/deployment-with-github-actions/) ⭐
+- [usings on GitHub Actions Reusable Workflows](https://colinsalmcorner.com/musings-on-reusable-workflows/) ⭐⭐⭐
+- [GitHub Composite Actions](https://colinsalmcorner.com/github-composite-actions/) ⭐
+- [Building and testing .NET](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-net) ⭐⭐
+- [How To Use GitHub Actions for Deployments When Following Trunk-Based Development](https://blog.jannikwempe.com/github-actions-trunk-based-development)
+- [Automating Releases of .NET SDKs using Semantic Release](https://medium.com/@gpanga/automating-releases-of-net-sdks-using-semantic-release-e3df46013876) ⭐
+- [GitHub Actions: Deprecating save-state and set-output commands](https://github.blog/changelog/2022-10-11-github-actions-deprecating-save-state-and-set-output-commands/)
+- [How to use Cake with Github Actions](https://garywoodfine.com/how-to-use-cake-with-github-actions/)
+- [How to use Github actions to build & deploy Github nuget packages](https://garywoodfine.com/how-to-use-github-actions-to-build-deploy-github-nuget-packages/) ⭐
+- [Assigning permissions to jobs - GitHub Actions Docs](https://docs.github.com/en/actions/using-jobs/assigning-permissions-to-jobs)
+- [About Workflows - GitHub Action Docs](https://docs.github.com/en/actions/using-workflows/about-workflows)
+- [Workflow syntax for GitHub Actions - GitHub Action Docs](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
+- [Events that trigger workflows - GitHub Actions Docs](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows) ⭐
+- [Workflow commands for GitHub Actions - GitHub Action Docs](https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions) 
+- [Steps Context - GitHub Actions Docs](https://docs.github.com/en/actions/learn-github-actions/contexts)
+- [Expressions - GitHub Action Docs](https://docs.github.com/en/actions/learn-github-actions/expressions)
+- [Series: Creating my first GitHub app with Probot](https://andrewlock.net/series/creating-my-first-github-app-with-probot/) ⭐
+- [How to set env parameters conditionally in GitHub Actions](https://dev.to/ku6ryo/how-to-set-env-parameters-conditionally-in-github-actions-1g6a) ⭐
+- [Advanced GitHub Actions - Conditional Workflow ❓](https://hungvu.tech/advanced-github-actions-conditional-workflow) ⭐
+- [Choose environment from branch in GitHub action](https://www.codewrecks.com/post/github/choose-environment-from-branch/) ⭐⭐
+- [A Deep Dive into GitHub Actions’ Reusable Workflows](https://betterprogramming.pub/how-to-use-github-actions-reusable-workflow-8604e8cbf258) ⭐
+- [GitHub Actions: reusable workflows is generally available](https://github.blog/2021-11-29-github-actions-reusable-workflows-is-generally-available/)
+- [Configuration options for the dependabot.yml file](https://docs.github.com/en/code-security/dependabot/dependabot-version-updates/) ⭐
+- [Let's code a reusable workflow for building state-of-the-art, multi-platform Docker images with GitHub Actions](https://blog.derlin.ch/github-actions-reusable-workflow-docker-images) ⭐
+- [checkout@v2 not getting recent commits](https://github.com/actions/checkout/issues/439)
+- [Creating a composite action](https://docs.github.com/en/actions/creating-actions/creating-a-composite-action)
+- [Metadata syntax for GitHub Actions](https://docs.github.com/en/actions/creating-actions/metadata-syntax-for-github-actions) ⭐
+- [DRYing out Github Actions - Strategies for minimizing repetition in your workflows](https://technology.doximity.com/articles/drying-out-github-actions)
+- [GitHub Actions: Input types for manual workflows](https://github.blog/changelog/2021-11-10-github-actions-input-types-for-manual-workflows/)
+- [Using Composite Actions with GitHub Actions](https://doug.sh/posts/using-composite-actions-with-github-actions/)
+- [Using Composite GitHub Actions to make your Workflows smaller and more reusable](https://wallis.dev/blog/composite-github-actions) ⭐
+- [How to start using reusable workflows with GitHub Actions](https://github.blog/2022-02-10-using-reusable-workflows-github-actions/) ⭐
+- [The GITHUB_TOKEN in GitHub Actions: How it Works, Change Permissions, Customizations](https://dev.to/github/the-githubtoken-in-github-actions-how-it-works-change-permissions-customizations-3cgp) ⭐
+- [Managing GitHub Actions settings for a repository](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/enabling-features-for-your-repository/managing-github-actions-settings-for-a-repository) 
+- [Supercharging GitHub Actions with Job Summaries](https://github.blog/2022-05-09-supercharging-github-actions-with-job-summaries/)
+- [Adding a `job summary`](https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions#adding-a-job-summary)
+- [Running unit tests in GitHub Actions](https://octopus.com/blog/githubactions-running-unit-tests)
+- [Publishing a NuGet package using GitHub and GitHub Actions](https://www.meziantou.net/publishing-a-nuget-package-following-best-practices-using-github.htm)
 ## 📺 Videos
 - [Master GitHub Actions Tutorial - Playlist Cameron McKenzie](https://www.youtube.com/playlist?list=PL_RrEj88onS-um2xFy01sY46ik_2yt_EQ)
 - [Building Docker containers with GitHub Actions](https://www.youtube.com/watch?v=09lZdSpeHAk)
+- [Level-up Your DevOps with GitHub Actions and Kubernetes](https://www.youtube.com/watch?v=TMbXwNtuAJo)
+- [Build and deploy to Kubernetes using Github Actions](https://www.youtube.com/watch?v=xHBiawlGO7s)
+
 ## 📦 Libraries
 - [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance
 - [xoofx/dotnet-releaser](https://github.com/xoofx/dotnet-releaser) - Easily build, run tests and coverage, cross-compile, package and publish your .NET library or application to NuGet and GitHub.
@@ -39,5 +114,56 @@
 - [mikepenz/release-changelog-builder-action](https://github.com/mikepenz/release-changelog-builder-action) - A GitHub action that builds your release notes / changelog fast, easy and exactly the way you want.
 - [Tyrrrz/GitHubActionsTestLogger](https://github.com/Tyrrrz/GitHubActionsTestLogger)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally
+- [rhysd/actionlint](https://github.com/rhysd/actionlint) - Static checker for GitHub Actions workflow files ⭐⭐
+- [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) - GitHub Action to configure QEMU support
+- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
+- [irongut/CodeCoverageSummary](https://github.com/irongut/CodeCoverageSummary) - A GitHub Action that reads Cobertura format code coverage files and outputs a text or markdown summary
+- [zyborg/dotnet-tests-report](https://github.com/zyborg/dotnet-tests-report) - GitHub Action to run .NET Core tests and generate report attached to Workflow Run
+- [coverallsapp/github-action](https://github.com/coverallsapp/github-action) - Coveralls Github Action
+- [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action) - automated releases based on conventional commits
+- [bcoe/conventional-release-labels](https://github.com/bcoe/conventional-release-labels) - Apply labels for automatically generated release notes, based on conventionalcommits.org
+- [mithro/autolabeler](https://github.com/mithro/autolabeler) - Add labels to Pull Requests based on matched file patterns
+- [TimonVS/pr-labeler-action](https://github.com/TimonVS/pr-labeler-action) - Automatically labels your PRs based on branch name patterns like feature/* or fix/*.
+- [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests
+- [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects 🚀 auto bump versions ⬆️ and auto changelog generation 📂
+- [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - A GitHub Action that ensures that your PR title matches the Conventional Commits spec.
+- [vivaxy/vscode-conventional-commits](https://github.com/vivaxy/vscode-conventional-commits) - 💬Conventional Commits for VSCode.
+- [fuxingloh/multi-labeler](https://github.com/fuxingloh/multi-labeler) - Multi labeler for title, body, comments, commit messages, branch, author or files with automated status checks.
+- [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace
+- [devops-infra/action-pull-request](https://github.com/devops-infra/action-pull-request) - GitHub Action that will create a pull request from the current branch
+- [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
+- [aslafy-z/conventional-pr-title-action](https://github.com/aslafy-z/conventional-pr-title-action) - Ensure your PR title matches the Conventional Commits spec.
+- [lewagon/wait-on-check-action](https://github.com/lewagon/wait-on-check-action) - This action can be used to halt any workflow until required checks for a given ref (e.g., in a sibling workflow) pass successfully.
+- [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows ⭐⭐
+- [agilepathway/label-checker](https://github.com/agilepathway/label-checker) Check pull requests for the presence or absence of specified labels
+- [cycjimmy/semantic-release-action](https://github.com/cycjimmy/semantic-release-action) - GitHub Action for Semantic Release
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing
+- [semantic-release/exec](https://github.com/semantic-release/exec) - semantic-release plugin to execute custom shell commands
+- [semantic-release/git](https://github.com/semantic-release/git) - semantic-release plugin to commit release assets to the project's git repository
+- [felipecrs/semantic-release-export-data](https://github.com/felipecrs/semantic-release-export-data) - semantic-release plugin to export variables like the next release version
+- [cake-build/cake-action](https://github.com/cake-build/cake-action) Run Cake (C# Make) scripts in your GitHub Actions workflows.
+- [wei/pull](https://github.com/wei/pull) - Keep your forks up-to-date via automated PRs
+- [vimtor/action-zip](https://github.com/vimtor/action-zip) - Action for zipping files easily
+- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically Commit changed Files back to GitHub with GitHub Actions for the 80% use case.
+- [PaulHatch/semantic-version](https://github.com/PaulHatch/semantic-version) - A GitHub Action to generate semantic version from a git repository's commit history ⭐
+- [styfle/cancel-workflow-action](https://github.com/styfle/cancel-workflow-action) - GitHub Action to cancel previous running workflows on push
+- [step-security/secure-workflows](https://github.com/step-security/secure-workflows) - Secure GitHub Actions CI/CD workflows via automated remediations
+- [dawidd6/action-download-artifact](https://github.com/dawidd6/action-download-artifact) - A GitHub Action to download an artifact associated with given workflow and commit or other criteria
+- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker
+- [webiny/action-conventional-commits](https://github.com/webiny/action-conventional-commits) - Ensures that all commits are following the conventional-commits standard.
+- [EnricoMi/publish-unit-test-result-action](https://github.com/EnricoMi/publish-unit-test-result-action) - GitHub Action to publish unit test results on GitHub
+- [phoenix-actions/test-reporting](https://github.com/phoenix-actions/test-reporting) - Displays test results from popular testing frameworks directly in GitHub
+- [peter-murray/workflow-application-token-action](https://github.com/peter-murray/workflow-application-token-action) - GitHub Action that will get a scoped short lived token for Actions workflows using a GitHub Application.
+- [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) - Official GitHub action for golangci-lint from its authors
+
 ## 🚀 Samples
+- [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows ⭐⭐
 - [linkdotnet/deployment-template](https://github.com/linkdotnet/deployment-template/blob/main/.github/workflows)
+- [anuraj/MinimalApi](https://github.com/anuraj/MinimalApi) - ASP.NET Core 7.0 - Minimal API Example - Todo API implementation using ASP.NET Core Minimal API, Entity Framework Core, Token authentication, Versioning, Unit Testing, Integration Testing and Open API.
+- [testcontainers/testcontainers-dotnet](https://github.com/testcontainers/testcontainers-dotnet) ⭐
+- [giraffe-fsharp/Giraffe](https://github.com/giraffe-fsharp/Giraffe/blob/master/.github/workflows/build.yml)
+- [AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing](https://github.com/AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing/tree/release/.github/workflows)
+- [colindembovsky/dotnet-actions-v-pipelines](https://github.com/colindembovsky/dotnet-actions-v-pipelines)
+- [wenqiglantz/reusable-workflows-modules](https://github.com/wenqiglantz/reusable-workflows-modules) ⭐
+- [GuillaumeFalourd/poc-github-actions](https://github.com/GuillaumeFalourd/poc-github-actions) ⭐⭐ - Various proofs of concept examples using Github Actions
+- [LEGO/AsyncAPI.NET](https://github.com/LEGO/AsyncAPI.NET/tree/main/.github/workflows)

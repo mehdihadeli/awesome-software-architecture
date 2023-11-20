@@ -10,6 +10,7 @@
 - [Getting Started with YARP](https://microsoft.github.io/reverse-proxy/articles/getting-started.html)
 - [Duende Use a fully fledged Reverse Proxy](https://docs.duendesoftware.com/identityserver/v5/bff/apis/remote/)
 - [Transformers](https://microsoft.github.io/reverse-proxy/articles/transforms.html)
+- [Use YARP to host client and API server on a single origin to avoid CORS](https://swimburger.net/blog/dotnet/use-yarp-to-host-client-and-api-server-on-a-single-origin)
 
 ## 📺 Videos
 - [Lessons Learned from Building the YARP Proxy on .NET](https://www.youtube.com/watch?v=WJcjlSEXqWA)
@@ -25,6 +26,4 @@
 - [vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices/blob/main/src/BFFs/WebApiGateway/Startup.cs)
 - [thangchung/northwind-dotnet](https://github.com/thangchung/northwind-dotnet/blob/main/AppGateway/appsettings.json)
 - [thangchung/clean-architecture-dotnet](https://github.com/thangchung/clean-architecture-dotnet/blob/main/samples/AppGateway/appsettings.json)
-- [devmentors/Inflow-micro](https://github.com/devmentors/Inflow-micro/blob/010e822c4f923558d92fec261105bc9951cf0556/src/APIGateway/Inflow.APIGateway/Startup.cs#L73)
-- [devmentors/FeedR](https://github.com/devmentors/FeedR/blob/master/src/Gateway/FeedR.Gateway/appsettings.json)
 - [khalidabuhakmeh/YarpReverseProxyFlowThroughAuth](https://github.com/khalidabuhakmeh/YarpReverseProxyFlowThroughAuth)

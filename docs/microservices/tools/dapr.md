@@ -28,6 +28,7 @@
 - [Exploring Dapr: Pub/Sub – Part 3: Azure Service Bus](https://yourazurecoach.com/2019/12/27/exploring-dapr-pub-sub-part-3-azure-service-bus/)
 - [Exploring Dapr: Running your first Dapr app in Kubernetes!](https://yourazurecoach.com/2019/12/30/exploring-dapr-running-your-first-dapr-app-in-kubernetes/)
 - [Simplify microservices with Dapr (Distributed Application Runtime)](https://www.gatevnotes.com/simplify-microservices-development-with-dapr-distributed-application-runtime/)
+- [Understanding the Dapr Workflow engine & authoring workflows in .NET](https://www.diagrid.io/blog/authoring-dapr-workflows-in-dotnet)
 
 ## 📺 Videos
 - [On .NET Live - Microservice applications with DAPR and .NET](https://www.youtube.com/watch?v=kIfmwmJHNMs)
@@ -43,6 +44,9 @@
 - [Distributed Application Runtime, Introduction for .Net Developers](https://www.youtube.com/watch?v=ruQFIPZl2QM)
 - [Building reliable and portable microservices with Dapr and .NET](https://www.youtube.com/watch?v=Cb0tyU9uSLQ)
 - [Sidecar Pattern to SIMPLIFY services or just more COMPLEXITY?](https://www.youtube.com/watch?v=9zAjtcf9Wyo)
+- [Introduction to Dapr](https://www.youtube.com/watch?v=nK8Ss2UMAxc)
+- [Using Consul for Name Resolution in Dapr](https://markheath.net/post/dapr-consul-name-resolution)
+
 ## 📦 Libraries
 - [dapr/dashboard](https://github.com/dapr/dashboard) - General purpose dashboard for Dapr
 
@@ -60,6 +64,12 @@
 - [jbw/TooBigToFailBurgerShop](https://github.com/jbw/TooBigToFailBurgerShop) - .NET Microservice Reference Application. It's also an over-engineered burger shop!
 - [baotoq/micro-commerce](https://github.com/baotoq/micro-commerce) - React, Nextjs, ASP.NET Core 5.0, IdentityServer, Dapr, Azure pipeline, K8S, SonarQube
 - [andreatosato/dapr-cloudchampion](https://github.com/andreatosato/dapr-cloudchampion)
+- [thangchung/coffeeshop-on-dapr](https://github.com/thangchung/coffeeshop-on-dapr) - The coffeeshop event-driven application which is developed and run on Dapr
+- [edwinvw/dapr-workshop](https://github.com/edwinvw/dapr-workshop) - Workshop that teaches how to apply Dapr to an existing .NET, Java or Python based microservices application.
+- [EdwinVW/dapr-workshop-csharp](https://github.com/EdwinVW/dapr-workshop-csharp) - Source code for the .NET version of the Dapr workshop (see README for more info).
+- [markheath/globoticket-dapr](https://github.com/markheath/globoticket-dapr) - A simple Dapr demo microservices application
+- [thangchung/coffeeshop-dapr-workflow](https://github.com/thangchung/coffeeshop-dapr-workflow) - Opinionated coffeeshop application builds with Dapr workflow
+- [thangchung/dapr-labs](https://github.com/thangchung/dapr-labs) - Many forms of coffeeshop implemented by C#, Rust, Spin on Dapr
 
 ## 📚 Books
 - [Dapr for .NET Developers](https://docs.microsoft.com/en-us/dotnet/architecture/dapr-for-net-developers/?WT.mc_id=-blog-scottha)

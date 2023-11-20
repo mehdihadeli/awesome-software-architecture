@@ -6,7 +6,7 @@
 - [AZURE SERVICE BUS .NET SDK DEEP DIVE – CONTENT](https://www.planetgeek.ch/2020/03/09/azure-service-bus-net-sdk-deep-dive-content/)
 
 ## 📕 Articles
-
+- [Service Bus queues, topics, and subscriptions](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-queues-topics-subscriptions) ⭐
 - [Asynchronous messaging with Azure Service Bus](https://daniel-krzyczkowski.github.io/Asynchronous-Messaging-With-Azure-Service-Bus/)
 - [Local Development with Azure Service Bus](https://jimmybogard.com/local-development-with-azure-service-bus/)
 - [USING AZURE SERVICE BUS QUEUES WITH ASP.NET CORE SERVICES](https://damienbod.com/2019/04/23/using-azure-service-bus-queues-with-asp-net-core-services/)
@@ -23,7 +23,6 @@
 - [Robust Messaging using Azure Service Bus](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/robust-messaging-using-azure-service-bus/ba-p/3275225)
 
 ## 📺 Videos
-
 - [Asynchronous messaging with Azure Service Bus](https://www.youtube.com/watch?v=aJn5CDhWvJQ)
 - [On .NET Live - Messaging Patterns for .NET Developers](https://www.youtube.com/watch?v=ef1DK76rseM)
 - [What is Azure Service Bus? (and why you might need it) | Azure Tutorial](https://www.youtube.com/watch?v=HrK1UlPBkEY)
@@ -34,7 +33,9 @@
 - [Azure Service Bus - Implementation with Asp.Net Core 5 (Step by Step)](https://www.youtube.com/watch?v=bmZQkMJErZM)
 - [AZURE SERVICE BUS QUEUE - Getting Started | Azure Series](https://www.youtube.com/watch?v=sjgG3Q2GbeA)
 - [AZURE SERVICE BUS TOPICS & SUBSCRIPTIONS- Getting Started | Azure Series](https://www.youtube.com/watch?v=YFKrguSrOAM)
+
 ## 🚀 Samples
+- [Azure/azure-sdk-for-net/tree/main/sdk/servicebus/Azure.Messaging.ServiceBus/samples](https://github.com/Azure/azure-sdk-for-net/tree/main/sdk/servicebus/Azure.Messaging.ServiceBus/samples)
 - [Azure/azure-service-bus](https://github.com/Azure/azure-service-bus/tree/master/samples)
 - [damienbod/AspNetCoreServiceBus](https://github.com/damienbod/AspNetCoreServiceBus)
 - [WolfgangOfner/MicroserviceDemo](https://github.com/WolfgangOfner/MicroserviceDemo)

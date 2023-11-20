@@ -5,3 +5,4 @@
 - [Azure Table Storage Tutorial | Easy and scalable NoSQL database](https://www.youtube.com/watch?v=HSL1poL1VR0)
 - [AZ-900 Episode 11 | Azure Storage Services | Blob, Queue, Table, Files, Disk and Storage Tiers](https://www.youtube.com/watch?v=_Qlkvd4ZQuo)
 - [Azure Storage Tutorial | Introduction to Blob, Queue, Table & File Share](https://www.youtube.com/watch?v=UzTtastcBsk)
+- [Introduction to Azure Table Storage](https://harshmatharu.com/blog/introduction-to-azure-table-storage)

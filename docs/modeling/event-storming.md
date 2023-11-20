@@ -2,12 +2,12 @@
 # Event Storming
 
 ## 📘 Resources
-
 - [mariuszgil/awesome-eventstorming](https://github.com/mariuszgil/awesome-eventstorming)
 - [ddd-crew/eventstorming-glossary-cheat-sheet](https://github.com/ddd-crew/eventstorming-glossary-cheat-sheet)
 - [wwerner/event-storming-cheatsheet](https://github.com/wwerner/event-storming-cheatsheet)
 - [ddd-crew/ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process)
 - [Event Storming - Judith Birmoser](https://miro.com/miroverse/event-storming/)
+
 ## 📕 Articles
 - [Decomposing the Monolith with Event Storming](https://medium.com/capital-one-tech/event-storming-decomposing-the-monolith-to-kick-start-your-microservice-architecture-acb8695a6e61)
 - [Reactive in practice, Unit 1: Event storming the stock trader domain](https://developer.ibm.com/technologies/java/tutorials/reactive-in-practice-1/)
@@ -43,21 +43,19 @@
 - [Outside-in Domain Landscape Discovery](https://medium.com/nick-tune-tech-strategy-blog/outside-in-domain-landscape-discovery-3ec88aeb70db)
 - [Event Storming and Spring with a Splash of DDD](https://spring.io/blog/2018/04/11/event-storming-and-spring-with-a-splash-of-ddd)
 - [Strategic Domain-Driven Design Kata: Delivericious](https://medium.com/nick-tune-tech-strategy-blog/strategic-domain-driven-design-kata-delivericious-b114ca77163)
+- [Design Level Event Storming with examples!](https://mrpicky.dev/design-level-event-storming-with-examples/)
+- [Why You Should Be Using Event Storming](https://betterprogramming.pub/why-you-should-be-using-event-storming-2f32e5280c8c)
 
 ## 📺 Videos
-
 - [Scoping and Organizing .NET Microservices Using Event Storming](https://www.pluralsight.com/courses/dotnet-microservices-scoping-organizing)
 - [GOTO 2018 • 50.000 Orange Stickies Later • Alberto Brandolini](https://www.youtube.com/watch?v=NGXl1D-KwRI)
-- [Crunching 'real-life stories' with DDD & Event Storming - Kenny Baas-Schwegler - KanDDDinsky 201](https://www.youtube.com/watch?v=WvkBKvMnyuc)
+- [Crunching 'real-life stories' with DDD & Event Storming - Kenny Baas-Schwegler - KanDDDinsky 201](https://www.youtube.com/watch?v=WvkBKvMnyuc) ⭐
 - [Event Storming demo & discussion](https://www.youtube.com/watch?v=xIB_VQVVWKk)
 - ["Domain Modelling in a Remote World" with Marco Heimeshoff (Thursday's Matter)](https://www.youtube.com/watch?v=jdU_iTBP2Qs)
 - [Webinar: Extreme Domain-Driven Design Modelling - Tech Talk by Nexten](https://www.youtube.com/watch?v=uJ4mPU1i6E0)
 - [Event Storming Workshop @Bucharest Software Craftsmanship Community](https://www.youtube.com/watch?v=xVSaDdj3PVE)
 - [Trying out online EventStorming](https://www.youtube.com/watch?v=CbPEibNUe0s)
-- [Building Modular Monolith with ASP.NET Core, .NET 5 and C# 9 - Event Storming Big Picture #Live 1](https://www.youtube.com/watch?v=PLC8xPbEcac)
-- [Building Modular Monolith with ASP.NET Core, .NET 5 and C# 9 - Event Storming Process Level #Live 2](https://www.youtube.com/watch?v=DuNKI4G42Oo)
-- [Building Modular Monolith with ASP.NET Core, .NET 5 and C# 9 - Event Storming Process/Design #Live 3](https://www.youtube.com/watch?v=nUgcrEO0xpk)
-- [Building Modular Monolith with ASP.NET Core, .NET 5 and C# 9 - Event Storming summary #Live 4](https://www.youtube.com/watch?v=fIOMxBc4-fI)
+- [Alberto Brandolini - 100,000 Orange Stickies Later](https://www.youtube.com/watch?v=fGm62ra_mQ8)
 ## 🚀 Samples
 - [ddd-by-examples/library](https://github.com/ddd-by-examples/library) - A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
 - [Event Storming](https://miro.com/app/board/o9J_kt3rZb4=/?fromEmbed=1)
@@ -68,6 +66,10 @@
 - [RagDhiman/Miro-Event-Storming-Steps](https://github.com/RagDhiman/Miro-Event-Storming-Steps) - Scoping and Organizing .NET Microservices Using Event Storming
 - ["Domain Modelling in a Remote World" with Marco Heimeshoff](https://miro.com/app/board/o9J_lSf4hpY=/)
 - [Strategic DDD Kata: Delivericious](https://miro.com/app/board/o9J_l45tkpU=/)
+- [Ecommerece Miro](https://miro.com/app/board/uXjVOqNZGYg=/)
+- [From EventStormin to CoDDDing](https://miro.com/app/board/o9J_kwDgULY=/)
+- [m-khooryani/OverCloudAirways](https://github.com/m-khooryani/OverCloudAirways)
+
 ## 📚 Books
 - [Learn EventStorming notation & discover Big Picture and Process Level EventStorming](https://lukaszcoding.com/eventstorming-cheatsheet)
 - [Introducing EventStorming - Alberto Brandolini](https://leanpub.com/introducing_eventstorming) 

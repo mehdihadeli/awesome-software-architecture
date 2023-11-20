@@ -33,3 +33,4 @@
 - [russparsloe/nomad-zero-to-wow](https://github.com/russparsloe/nomad-zero-to-wow)
 - [hashicorp/nomad-open-telemetry-getting-started](https://github.com/hashicorp/nomad-open-telemetry-getting-started) - OpenTelemetry getting started guides on Nomad
 - [open-telemetry/opentelemetry-collector-contrib/nomad](https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/main/examples/nomad)
+- [hashicorp/nomad-autoscaler-demos](https://github.com/hashicorp/nomad-autoscaler-demos) - A set of demos for the Nomad Autoscaler

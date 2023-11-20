@@ -1,5 +1,9 @@
 # Algorithms
 
+## Sites
+- [https://leetcode.com](https://leetcode.com)
+- [https://neetcode.io](https://neetcode.io/practice)
+
 ## 📘 Resources
 
 - [teivah/algodeck](https://github.com/teivah/algodeck) - An Open-Source Collection of 200+ Algorithmic Flash Cards to Help you Preparing your Algorithm & Data Structure Interview
@@ -8,6 +12,7 @@
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 - [SeanPrashad/leetcode-patterns](https://github.com/SeanPrashad/leetcode-patterns/tree/solutions)
 - [RehanSaeed/.NET-Big-O-Algorithm-Complexity-Cheat-Sheet](https://github.com/RehanSaeed/.NET-Big-O-Algorithm-Complexity-Cheat-Sheet) - Big-O complexities of common algorithms used in .NET and Computer Science.
+
 ## LeetCode Practices
 - [hxu296/leetcode-company-wise-problems-2022](https://github.com/hxu296/leetcode-company-wise-problems-2022) - Lists of company wise questions available on leetcode premium.
 - [krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise) - Contains Company Wise Questions sorted based on Frequency and all time
@@ -33,6 +38,10 @@
 - [aQuaYi/LeetCode-in-Go](https://github.com/aQuaYi/LeetCode-in-Go) - Go Solution for LeetCode algorithms problems, 100% coverage.
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 - [luliyucoordinate/Leetcode](https://github.com/luliyucoordinate/Leetcode) - Play Leetcode with different programming language
+
+## Articles
+- [LeetCode Prep for a Senior+ Software Engineer](https://trstringer.com/leetcode-prep-senior-plus/)
+
 ## 📺 Videos
 - [LeetCode PlayList - Fisher Coder](https://www.youtube.com/playlist?list=PLK0ZC7fyo01Jr4CwyEGPB_YYVYqoJS7LR)
 

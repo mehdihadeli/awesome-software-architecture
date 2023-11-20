@@ -17,7 +17,7 @@
 - [Strengthening your domain: Domain Events](https://lostechies.com/jimmybogard/2010/04/08/strengthening-your-domain-domain-events/)
 - [Implementing event-based communication between microservices (integration events)](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/integration-event-based-microservice-communications) 
 - [DDD and Messaging Architectures](https://verraes.net/2019/05/ddd-msg-arch/) 
-- [Domain events: simple and reliable solution](https://enterprisecraftsmanship.com/posts/domain-events-simple-reliable-solution/) 
+- [Domain events: simple and reliable solution](https://enterprisecraftsmanship.com/posts/domain-events-simple-reliable-solution/)
 - [Domain Events Pattern Example](https://tonytruong.net/domain-events-pattern-example)
 - [Domain Events](https://verraes.net/2014/11/domain-events/)
 - [Patterns for Decoupling in Distributed Systems: Explicit Public Events](http://verraes.net/2019/05/patterns-for-decoupling-distsys-explicit-public-events/)
@@ -33,6 +33,13 @@
 - [Design validations in the domain model layer](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/domain-model-layer-validations)
 - [6 Code Smells with your CQRS Events – and How to Avoid Them](https://danielwhittaker.me/2014/10/18/6-code-smells-cqrs-events-avoid/)
 - [Domain Events - Alexey Zimarev](https://alexey-zimarev.medium.com/domain-events-f56555258cf5)
+- [.NET Domain Events Using MediatR](https://wrapt.dev/blog/dotnet-domain-events)
+- [Leaking Value Objects from your Domain](https://codeopinion.com/leaking-value-objects-from-your-domain/) ⭐
+- [Why we Avoid Putting Value Objects in Events](https://buildplease.com/pages/vos-in-events/) ⭐
+- [Domain-Driven Design: Domain Events and Integration Events in .Net](https://betterprogramming.pub/domain-driven-design-domain-events-and-integration-events-in-net-5a2a58884aaa) ⭐
+- [From domain events to infrastructure - thinking out loud about possible approaches I don’t hate](https://blog.codingmilitia.com/2023/05/16/from-domain-events-to-infrastructure-thinking-out-loud-about-possible-approaches-i-dont-hate/)
+- [Internal and external events, or how to design event-driven API](https://event-driven.io/en/internal_external_events/)
+
 ## 🚀 Samples
 - [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture/blob/main/src/Clean.Architecture.Infrastructure/Data/AppDbContext.cs)
 - [vietnam-devs/coolstore-microservices](https://github.com/vietnam-devs/coolstore-microservices/blob/da6b9e0d0120693e0239a1dc4077ba452163d61a/src/BasicBuildingBlocks/N8T.Infrastructure.EfCore/Extensions.cs#L63)
@@ -45,3 +52,4 @@
 - [Working on ASP.NET Core apps: eShopOnWeb and Domain Events](https://youtu.be/x-UXUGVLMj8?t=4462)
 - [Implementing Domain Events with Entity Framework Core](https://www.youtube.com/watch?v=SbMbWmmukws)
 - [GOTO 2019 • Temporal Modelling • Mathias Verraes](https://www.youtube.com/watch?v=KNqOWT0lOYY)
+- [Leaking Value Objects from your Domain](https://www.youtube.com/watch?v=CdanF8PWJng) ⭐

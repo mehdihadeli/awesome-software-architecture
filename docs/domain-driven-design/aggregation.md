@@ -17,9 +17,15 @@
 - [Link to an aggregate: reference or Id?](https://enterprisecraftsmanship.com/posts/link-to-an-aggregate-reference-or-id/)
 - [Avoid Exposing Collections Directly as Properties](https://ardalis.com/avoid-collections-as-properties/?utm_sq=grcpqjyka3)
 - [Aggregate Responsibility Design](https://ardalis.com/aggregate-responsibility-design/)
+- [Entities - ABP](https://docs.abp.io/en/abp/latest/Entities)
+- [Aggregate pattern in Domain-Driven Design](https://medium.com/eventuous/aggregate-pattern-in-domain-driven-design-7ad823475099)
+- [DDD Beyond the Basics: Mastering Aggregate Design](https://medium.com/ssense-tech/ddd-beyond-the-basics-mastering-aggregate-design-26591e218c8c) ⭐
+- [Domain-Driven Design: A Walkthrough of Building an Aggregate](https://betterprogramming.pub/domain-driven-design-a-walkthrough-of-building-an-aggregate-c84113aa9975) ⭐
+
 ## 📺 Videos
 
-- [Aggregate (Root) Design: Separate Behavior & Data for Persistence](https://www.youtube.com/watch?v=GtWVGJp061A) 
+- [Aggregate (Root) Design: Separate Behavior & Data for Persistence](https://www.youtube.com/watch?v=GtWVGJp061A) ⭐
+- [All our aggregates are wrong - Mauro Servienti](https://www.youtube.com/watch?v=hev65ozmYPI) ⭐
 - [Adding Aggregate Example to Clean Architecture solution template](https://www.youtube.com/watch?v=kxuGtgOimGA)
 - [Aggregate Design: Using Invariants as a Guide](https://www.youtube.com/watch?v=64ngP-aUYPc) 
 - [Decomposing CRUD to a Task Based UI](https://www.youtube.com/watch?v=DjZepWrAKzM)

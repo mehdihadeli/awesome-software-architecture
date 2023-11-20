@@ -7,6 +7,8 @@
 - [gentlydownthe WebSite](https://www.gentlydownthe.stream/)
 - [nayekabhishek1/awesome-kafka](https://github.com/nayekabhishek1/awesome-kafka) - A curated list about Apache Kafka
 - [infoslack/awesome-kafka](https://github.com/infoslack/awesome-kafka) - A list about Apache Kafka
+- [dttung2905/kafka-in-production](https://github.com/dttung2905/kafka-in-production) - Tech blogs & talks by companies that run Kafka in production
+
 ## 📕 Articles
 - [INTRODUCTION - Everything you need to know about Kafka in 10 minutes](https://kafka.apache.org/intro)
 - [Introduction to Kafka](https://docs.confluent.io/platform/current/kafka/introduction.html)
@@ -41,6 +43,10 @@
 - [Top 5 Things Every Apache Kafka Developer Should Know](https://www.confluent.io/en-gb/blog/5-things-every-kafka-developer-should-know/)
 - [Single-partition Kafka topics](https://mikemybytes.com/2021/01/11/single-partition-kafka-topics/)
 - [Everything You Need To Know About Kafka](https://betterprogramming.pub/everything-you-need-to-know-about-kafka-a83e2456d14c)
+- [In the land of the sizing, the one-partition Kafka topic is king](https://www.buildon.aws/posts/in-the-land-of-the-sizing-the-one-partition-kafka-topic-is-king/01-what-are-partitions/)
+- [How Wix manages Schemas for Kafka (and gRPC) used by 2000 microservices](https://medium.com/wix-engineering/how-wix-manages-schemas-for-kafka-and-grpc-used-by-2000-microservices-2117416ea17b)
+- [Enabling Seamless Kafka Async Queuing with Consumer Proxy](https://www.uber.com/en-PT/blog/kafka-async-queuing-with-consumer-proxy/)
+
 ## 📺 Videos
 - [Course | Apache Kafka® Fundamentals](https://www.youtube.com/playlist?list=PLa7VYi0yPIH2PelhRHoFR5iQgflg-y6JA)
 - [Apache Kafka® Tutorials | Kafka 101](https://www.youtube.com/playlist?list=PLa7VYi0yPIH0KbnJQcMv5N9iW8HkZHztH)
@@ -61,6 +67,8 @@
 - [Event-driven integration #5 - Quick intro to Apache Kafka [ASPF02O|E044]](https://www.youtube.com/watch?v=tUzCxZdKEr4)
 - [Event-driven integration #6 - Publishing events (feat. Apache Kafka) [ASPF02O|E045]](https://www.youtube.com/watch?v=T2Dy7cH486c&t=41s)
 - [Building Scalable Real Time Event Processing with Kafka and Flink](https://doordash.engineering/2022/08/02/building-scalable-real-time-event-processing-with-kafka-and-flink/)
+- [Apache Kafka in 1 hour for C# Developers - Guilherme Ferreira - Copenhagen DevFest 2023](https://www.youtube.com/watch?v=E07CGvGVal8)
+
 ## 📦 Libraries
 - [confluentinc/confluent-kafka-dotnet/](https://github.com/confluentinc/confluent-kafka-dotnet/) - Confluent's Apache Kafka .NET client
 - [edenhill/kcat](https://github.com/edenhill/kcat) - Generic command line non-JVM Apache Kafka producer and consumer

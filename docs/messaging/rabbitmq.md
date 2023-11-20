@@ -1,19 +1,23 @@
 # RabbitMQ
 
 ## 📕 Articles
-- [RabbitMQ Introduction](https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html)
-- [RabitMQ Work Queues(using the .NET Client)](https://www.rabbitmq.com/tutorials/tutorial-two-dotnet.html)
-- [RabbitMQ Publish/Subscribe](https://www.rabbitmq.com/tutorials/tutorial-three-dotnet.html)
-- [RabbitMQ Routing](https://www.rabbitmq.com/tutorials/tutorial-four-dotnet.html)
-- [RabbitMQ Topics](https://www.rabbitmq.com/tutorials/tutorial-five-dotnet.html)
-- [RabbitMQ Remote procedure call (RPC)](https://www.rabbitmq.com/tutorials/tutorial-six-dotnet.html)
-- [RabbitMQ Publisher Confirms](https://www.rabbitmq.com/tutorials/tutorial-seven-dotnet.html)
-- [Consumer Acknowledgements and Publisher Confirms](https://www.rabbitmq.com/confirms.html)
-- [AMQP 0-9-1 Model Explained](https://www.rabbitmq.com/tutorials/amqp-concepts.html)
+- [RabbitMQ Introduction](https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html) ⭐
+- [RabitMQ Work Queues(using the .NET Client)](https://www.rabbitmq.com/tutorials/tutorial-two-dotnet.html) ⭐
+- [RabbitMQ Publish/Subscribe](https://www.rabbitmq.com/tutorials/tutorial-three-dotnet.html) ⭐
+- [RabbitMQ Routing](https://www.rabbitmq.com/tutorials/tutorial-four-dotnet.html) ⭐
+- [RabbitMQ Topics](https://www.rabbitmq.com/tutorials/tutorial-five-dotnet.html) ⭐
+- [RabbitMQ Remote procedure call (RPC)](https://www.rabbitmq.com/tutorials/tutorial-six-dotnet.html) ⭐
+- [RabbitMQ Publisher Confirms](https://www.rabbitmq.com/tutorials/tutorial-seven-dotnet.html) ⭐
+- [Consumer Acknowledgements and Publisher Confirms](https://www.rabbitmq.com/confirms.html) ⭐
+- [Alternate Exchanges](https://www.rabbitmq.com/ae.html) ⭐
+- [Consumer Prefetch](https://www.rabbitmq.com/consumer-prefetch.html) ⭐
+- [Time-To-Live and Expiration](https://www.rabbitmq.com/ttl.html) ⭐
+- [Dead Letter Exchanges](https://www.rabbitmq.com/dlx.html) ⭐
+- [AMQP 0-9-1 Model Explained](https://www.rabbitmq.com/tutorials/amqp-concepts.html) ⭐
 - [RabbitMQ URI Specification](https://www.rabbitmq.com/uri-spec.html)
 - [Compatibility and Conformance - Classes from the AMQP specification](https://www.rabbitmq.com/specification.html)
 - [AMQP 0-9-1 Complete Reference Guide](https://www.rabbitmq.com/amqp-0-9-1-reference.html)
-- [Management Plugin](https://www.rabbitmq.com/management.html)
+- [Management Plugin - RabbitMQ Http Apis](https://www.rabbitmq.com/management.html)
 - [Management Command Line Tool](https://www.rabbitmq.com/management-cli.html)
 - [RabbitMQ HTTP API](https://www.rabbitmq.com/management.html#http-api)
 - [RabbitMQ HTTP API reference](https://rawcdn.githack.com/rabbitmq/rabbitmq-server/v3.9.13/deps/rabbitmq_management/priv/www/api/index.html)
@@ -53,6 +57,12 @@
 - [Exchange to Exchange binding in RabbitMQ](https://jstobigdata.com/rabbitmq/exchange-to-exchange-binding-in-rabbitmq/)
 - [RabbitMQ Exchange Types](https://medium.com/trendyol-tech/rabbitmq-exchange-types-d7e1f51ec825)
 - [Wire Tap Enterprise Integration Pattern](https://www.baeldung.com/wiretap-pattern)
+- [A C# .NET Client Proxy For The RabbitMQ Management API](http://mikehadlow.blogspot.com/2012/11/a-c-net-client-proxy-for-rabbitmq.html)
+- [CLEANING UP QUEUES AND EXCHANGES ON RABBITMQ](https://www.planetgeek.ch/2015/08/16/cleaning-up-queues-and-exchanges-on-rabbitmq/)
+- [CLEANUP CODE FOR CLEANING UP QUEUES AND EXCHANGES ON RABBITMQ](https://www.planetgeek.ch/2015/08/31/cleanup-code-for-cleaning-up-queues-and-exchanges-on-rabbitmq/)
+- [Dead Letter Exchanges](https://www.rabbitmq.com/dlx.html)
+- [FAQ: When and how to use the RabbitMQ Dead Letter Exchange](https://www.cloudamqp.com/blog/when-and-how-to-use-the-rabbitmq-dead-letter-exchange.html) ⭐
+
 ## 📺 Videos
 - [The best online training tool for RabbitMQ](https://training.cloudamqp.com/)
 - [What is RabbitMQ?](https://youtu.be/7rkeORD4jSw)
@@ -65,6 +75,19 @@
 - [RabbitMQ C# [RabbitMQ .Net] Implementation - RabbitMQ Beginner to Advanced Tutorial - Part 03](https://www.youtube.com/watch?v=3erQZTV52CI)
 - [RabbitMQ Best Practice | Webinar with CloudAMQP](https://www.youtube.com/watch?v=HzPOQsMWrGQ)
 - [How to Use RabbitMQ in ASP.NET Core](https://code-maze.com/aspnetcore-rabbitmq/)
+- [RabbitMQ- Tutorial 3 - Core Concepts](https://www.youtube.com/watch?v=iIjCjUKwzZw)
+- [RabbitMQ- Tutorial 5 - AMQP for RabbitMQ (Part 1)](https://www.youtube.com/watch?v=1QPZbPOUmMk)
+- [RabbitMQ- Tutorial 6 - AMQP for RabbitMQ (Part 2)](https://www.youtube.com/watch?v=mXBAjzns6KA)
+- [RabbitMQ- Tutorial 7 - Competing Consumers](https://www.youtube.com/watch?v=hi8DjlcbN4A)
+- [RabbitMQ- Tutorial 8b - Competing Consumers C# Implementation](https://www.youtube.com/watch?v=LBOfQiaGyxQ)
+- [RabbitMQ- Tutorial 9 - Pub/Sub](https://www.youtube.com/watch?v=rgTW-cserPo)
+- [RabbitMQ- Tutorial 11- Routing](https://www.youtube.com/watch?v=56IyW2OWllA)
+- [RabbitMQ- Tutorial 12b - Routing Implementation in C#](https://www.youtube.com/watch?v=JYzhdGvSqrY)
+- [RabbitMQ- Tutorial 15 - Exchange-Exchange Routing, Headers Exchange and Consistent Hashing Exchange](https://www.youtube.com/watch?v=a3dxzvqDhDg)
+- [RabbitMQ- Tutorial 16b - Ex-Ex Routing, Headers Exchange and Consistent Hashing Exchange in C#](https://www.youtube.com/watch?v=dDrmSNCEsS0)
+- [RabbitMQ- Tutorial 17 - Publishing Options](https://www.youtube.com/watch?v=2hQm4IPM8sM)
+- [RabbitMQ- Tutorial 18 - Alternate Exchanges, Dead Letter Exchanges, Message Acks and Queue Options](https://www.youtube.com/watch?v=M7Mg7izbi7w)
+- [RabbitMQ- Tutorial 19b - Alt Exchanges, Dead Letter, Message Acks and Queue Options in C#](https://www.youtube.com/watch?v=JUqcxIkpteg)
 
 ## 📚 Books
 - [The Optimal RabbitMQ Guide](https://www.cloudamqp.com/rabbitmq_ebook.html)
@@ -73,8 +96,16 @@
 - [RabbitMQ Essentials - Second Edition](https://www.packtpub.com/product/rabbitmq-essentials-second-edition/9781789131666)
 
 ## 📦 Libraries
+- [rabbitmq/rabbitmq-dotnet-client](https://github.com/rabbitmq/rabbitmq-dotnet-client) - RabbitMQ .NET client for .NET Standard 2.0+ and .NET 4.6.1+
 - [rabbitmq/rabbitmq-stream-dotnet-client](https://github.com/rabbitmq/rabbitmq-stream-dotnet-client) - RabbitMQ client for the stream protocol
+- [thinkco/rabbitmq-httpclient-dotnet](https://github.com/thinkco/rabbitmq-httpclient-dotnet) - RabbitMQ Management HTTP Client for .netCore
+- [EasyNetQ/EasyNetQ.Management.Client](https://github.com/EasyNetQ/EasyNetQ.Management.Client) - EasyNetQ.Management.Client is a .NET client for the RabbitMQ RESTful management API
+- [EasyNetQ/EasyNetQ](https://github.com/EasyNetQ/EasyNetQ) - An easy to use .NET API for RabbitMQ
+- [pardahlman/RawRabbit](https://github.com/pardahlman/RawRabbit) - A modern .NET framework for communication over RabbitMq
+- [MassTransit/MassTransit/](https://github.com/MassTransit/MassTransit/) - Distributed Application Framework for .NET
+- [JasperFx/wolverine/](https://github.com/JasperFx/wolverine/) - Next Generation .NET Command and Message Bus
 
 ## 🚀 Samples
 - [hrabbitmq/rabbitmq-tutorials/dotnet-6](https://github.com/rabbitmq/rabbitmq-tutorials/tree/master/dotnet-6)
 - [hgmauri/sample-rawrabbit-mediatr](https://github.com/hgmauri/sample-rawrabbit-mediatr) - Example of using RabbitMQ with RawRabbit and MediatR in .NET 5
+- [delaneybrian/jumpstartCS-rabbitmq-csharp](https://github.com/delaneybrian/jumpstartCS-rabbitmq-csharp)

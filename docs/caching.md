@@ -3,6 +3,7 @@
 ## 📘 Resources
 - [donnemartin/system-design-primer#cache](https://github.com/donnemartin/system-design-primer#cache)
 - [Redis Youtube](https://www.youtube.com/c/Redisinc/)
+
 ## 📕 Articles
 - [Caching Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/caching)
 - [Where Is My Cache? Architectural Patterns for Caching Microservices](https://hazelcast.com/blog/architectural-patterns-for-caching-microservices/)
@@ -30,7 +31,18 @@
 - [Scaling our inventory cache reads to 1000X](https://medium.com/myntra-engineering/scaling-our-inventory-cache-reads-to-1000x-84a8be1f576e)
 - [Bulk loading - Writing data in bulk using the Redis protocol](https://redis.io/docs/reference/patterns/bulk-loading/)
 - [Redis Explained - Architecture Notes](https://architecturenotes.co/redis/) 
-- [Cache me if you can: A Look at Common Caching Strategies, and how CQRS can Replace the Need in the First Place](https://medium.com/ssense-tech/cache-me-if-you-can-a-look-at-common-caching-strategies-and-how-cqrs-can-replace-the-need-in-the-65ec2b76e9e)
+- [Cache me if you can: A Look at Common Caching Strategies, and how CQRS can Replace the Need in the First Place](https://medium.com/ssense-tech/cache-me-if-you-can-a-look-at-common-caching-strategies-and-how-cqrs-can-replace-the-need-in-the-65ec2b76e9e) ⭐
+- [Caching Strategies and How to Choose the Right One](https://codeahoy.com/2017/08/11/caching-strategies-and-how-to-choose-the-right-one/) ⭐
+- [3 crucial caching choices: Where, when, and how](https://www.gomomento.com/blog/6-common-caching-design-patterns-to-execute-your-caching-strategy) ⭐
+- [6 common caching design patterns to execute your caching strategy](https://www.gomomento.com/blog/6-common-caching-design-patterns-to-execute-your-caching-strategy) ⭐
+- [Redis Pub/Sub](https://redis.io/docs/interact/pubsub/)
+- [Redis data types](https://redis.io/docs/data-types/)
+- [Improvements to the Caching Abstraction in ASP.NET Core](https://devblogs.microsoft.com/dotnet/caching-abstraction-improvements-in-aspnetcore/)
+- [Distributed Locks with Redis](https://redis.io/docs/manual/patterns/distributed-locks/)
+- [Redis as a Database](https://medium.com/wix-engineering/redis-as-a-database-f9df579b09c0)
+- [MongoDB vs. Redis: Which Database Should You Use?](https://www.integrate.io/blog/mongodb-vs-redis/)
+- [MongoDB vs. Redis Comparison](https://www.mongodb.com/compare/mongodb-vs-redis)
+
 ## 📺 Videos
 - [Real-Time Delivery Architecture at Twitter](https://www.infoq.com/presentations/Real-Time-Delivery-Twitter/)
 - [Software Architecture Introduction (part 3): Cache explained](https://www.youtube.com/watch?v=QBMTGngjWdU)
@@ -44,6 +56,12 @@
 - [Caching Architectures | Microservices Caching Patterns | System Design Primer | Tech Primers](https://www.youtube.com/watch?v=0x-ZV_vP73k)
 - [Redis Crash Course](https://www.youtube.com/watch?v=jgpVdJB2sKQ)
 - [Redis Stack: The Complete Redis for All Developers](https://www.youtube.com/watch?v=9JeAu--liMk)
+- [Redis for .NET Developers](https://university.redis.com/courses/ru102n/) ⭐
+- [How to build a real-time leaderboard for the Soccer World Cup with Azure SQL and Redis | Data Exposed](https://learn.microsoft.com/en-us/shows/data-exposed/how-to-build-a-real-time-leaderboard-for-the-soccer-world-cup-with-azure-sql-and-redis-data-exposed)
+- [Write-behind and read-through with RedisGears, Redis Labs](https://www.youtube.com/watch?v=J3eCZJGVze4)
+- [Redis and MongoDB: Write-Behind Pattern](https://www.youtube.com/watch?v=zLlPLl3MXEQ)
+- [How to make your DB fast by using Caching](https://www.youtube.com/watch?v=_JGgGR3Rp60)
+
 ## Use Cases
 - [Case Studies](https://redislabs.com/case-studies/)
 - [5 Industry Use Cases for Redis Developers](https://redislabs.com/blog/5-industry-use-cases-for-redis-developers/)
@@ -54,7 +72,10 @@
 - [Freshworks CASE STUDY](https://redislabs.com/case-studies/freshworks/)
 
 ## 🚀 Samples
+- [dotnet-school/dotnet-redis](https://github.com/dotnet-school/dotnet-redis) ⭐
 - [taswar/RedisForNetDevelopers](https://github.com/taswar/RedisForNetDevelopers) - Source code for blog post on Redis for .NET Developer Series
+- [Redislabs-Solution-Architects/acre-sql-demo](https://github.com/Redislabs-Solution-Architects/acre-sql-demo) ⭐
+- [redis-developer/basic-redis-chat-app-demo-dotnet](https://github.com/redis-developer/basic-redis-chat-app-demo-dotnet) ⭐
 
 ## Library
 - [StackExchange/StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) - General purpose redis client
@@ -66,4 +87,5 @@
 - [VahidN/EFCoreSecondLevelCacheInterceptor](https://github.com/VahidN/EFCoreSecondLevelCacheInterceptor) - EF Core Second Level Cache Interceptor
 - [marcoCasamento/Hangfire.Redis.StackExchange](https://github.com/marcoCasamento/Hangfire.Redis.StackExchange) - HangFire Redis storage based on original (and now unsupported) Hangfire.Redis but using lovely StackExchange.Redis client
 - [ZiggyCreatures.FusionCache](https://github.com/jodydonetti/ZiggyCreatures.FusionCache) - FusionCache is an easy to use, high performance and robust cache with an optional distributed 2nd layer and some advanced features.
+- [olsh/stack-exchange-redis-analyzer](https://github.com/olsh/stack-exchange-redis-analyzer) - Roslyn-based analyzer for StackExchange.Redis library
 

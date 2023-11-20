@@ -8,7 +8,8 @@
 - [Istio in Kubernetes - Getting Started](https://www.programmingwithwolfgang.com/istio-getting-started)
 - [Use Istio to manage your Microservices](https://www.programmingwithwolfgang.com/use-istio-to-manage-your-microservices)
 - [Add Istio to an existing Microservice in Kubernetes](https://www.programmingwithwolfgang.com/add-Istio-to-existing-microservice-in-kubernetes)
-
+- [Automated canary deployments with Flagger and Istio](https://medium.com/google-cloud/automated-canary-deployments-with-flagger-and-istio-ac747827f9d1)
+- [Kubernetes autoscaling with Istio metrics](https://medium.com/google-cloud/kubernetes-autoscaling-with-istio-metrics-76442253a45a)
 ## 📺 Videos
 - [Service Mesh: Crash Course on ISTIO (Part I)](https://www.youtube.com/watch?v=-Ib5_4VaWWs)
 

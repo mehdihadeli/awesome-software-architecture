@@ -11,6 +11,9 @@
 - [Pulumi - Infrastructure as Code (IaC) Using Programming Languages](https://www.youtube.com/watch?v=oE3BUi_N0qc)
 - [Managing any Cloud with .NET](https://www.youtube.com/watch?v=hXhZiHtT8f0)
 
+## 📦 Libraries
+- [pulumi/pulumi-dotnet](https://github.com/pulumi/pulumi-dotnet) - Dotnet support for Pulumi
+
 ## 🚀 Samples
 - [pulumi/examples](https://github.com/pulumi/examples)
 - [martinothamar/EasyAzureWebApp](https://github.com/martinothamar/EasyAzureWebApp) - A sample easy to deploy full stack C# Azure web app using Pulumi
