@@ -38,6 +38,11 @@
 - [Micro Frontends in Action By Michael Geers- August 2020](https://www.manning.com/books/micro-frontends-in-action)
 - [The Art of Micro Frontends By Florian Rappl - June 2021](https://www.packtpub.com/product/the-art-of-micro-frontends/9781800563568)
 
+## 🔊 Meetups
+
+- [Micro Frontends Meetup - July 2023](https://www.youtube.com/watch?v=ulgDjQuLq5k)
+- [Micro Frontends Meetup - November 2023](https://www.youtube.com/watch?v=A_bF4ol0l3k)
+
 ## 🔊 Podcasts
 
 - [What are MFEs?](https://open.spotify.com/episode/7cfGQTgdSgBkxcyXAvUbng)
