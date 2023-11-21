@@ -192,6 +192,7 @@
 - [JasperFx/wolverine](https://github.com/JasperFx/wolverine) - Next Generation .NET Command and Message Bus
 - [boyney123/eventcatalog](https://github.com/boyney123/eventcatalog) - Discover, Explore and Document your Event Driven Architectures powered by Markdown.
 - [EasyDesk/easydesk-clean-architecture](https://github.com/EasyDesk/easydesk-clean-architecture) - A microservice framework based on the Clean Architecture and the Domain Driven Design.
+- [dotnet/aspire](https://github.com/dotnet/aspire) - .NET Aspire is an opinionated, cloud ready stack for building observable, production ready, distributed applications
 
 ## 📚 Books
 - [Enterprise Integration Patterns](https://amazon.com/o/asin/0321200683/ref=nosim/enterpriseint-20)

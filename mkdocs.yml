@@ -125,6 +125,7 @@ nav:
     - SteelToe: microservices/tools/steeltoe.md
     - Tye: microservices/tools/tye.md
     - MassTransit: microservices/tools/mass-transit.md
+    - Aspire: microservices/tools/aspire.md
     - NServiceBus: microservices/tools/nservicebus.md
     - CAP: microservices/tools/cap.md
 - Modular Monolith: modular-monolith.md

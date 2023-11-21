@@ -15,6 +15,8 @@
 
 ## Vidoes
 - [Don't let MediatR hold you back, try this...](https://www.youtube.com/watch?v=YlG3bnJ7yCc)
+- [CQRS with Event Sourcing using the “Critter Stack” | .NET Conf 2023](https://www.youtube.com/watch?v=KousO1UsHYM)
 
 ## Samples
 - [oskardudycz/EventSourcing.NetCore/Sample/Helpdesk.Wolverine](https://github.com/oskardudycz/EventSourcing.NetCore/tree/helpdesk_wolverine/Sample/Helpdesk.Wolverine)
+- [dotnet/aspire](https://github.com/dotnet/aspire) - .NET Aspire is an opinionated, cloud ready stack for building observable, production ready, distributed applications
