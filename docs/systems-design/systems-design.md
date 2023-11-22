@@ -24,6 +24,12 @@
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews
 
 ## 📕 Articles
+- [System Design: Slack](https://newsletter.systemdesign.one/p/messaging-architecture)
+- [System Design: Wechat](https://newsletter.systemdesign.one/p/chat-application-architecture)
+- [System Design: Live Comments](https://systemdesign.one/live-comment-system-design/)
+- [System Design: Leaderboard](https://systemdesign.one/leaderboard-system-design/)
+- [System Design: Pastebin](https://systemdesign.one/system-design-pastebin/)
+- [System Design: Distributed Counter](https://systemdesign.one/distributed-counter-system-design/)
 - [System Design: System Design Interviews](https://dev.to/karanpratapsingh/system-design-system-design-interviews-47ak)
 - [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
 - [YouTube Architecture](http://highscalability.com/youtube-architecture)
