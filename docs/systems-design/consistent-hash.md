@@ -1,6 +1,7 @@
 # Consistent Hashing
 
 ## 📕 Articles
+- [Everything You Need to Know About Consistent Hashing](https://newsletter.systemdesign.one/p/what-is-consistent-hashing)
 - [Introducing Consistent Hashing](https://itnext.io/introducing-consistent-hashing-9a289769052e)
 - [A Guide to Consistent Hashing](https://www.toptal.com/big-data/consistent-hashing)
 - [Consistent Hashing](https://medium.com/system-design-blog/consistent-hashing-b9134c8a9062)
