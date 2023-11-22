@@ -7,6 +7,9 @@
 - [Scalability, Availability & Stability Patterns](http://www.slideshare.net/jboner/scalability-availability-stability-patterns/)
 
 ## 📕 Articles
+- [8 Reasons Why WhatsApp Was Able to Support 50 Billion Messages a Day With Only 32 Engineers](https://newsletter.systemdesign.one/p/whatsapp-engineering)
+- [How Disney+ Hotstar Scaled to 25 Million Concurrent Users](https://newsletter.systemdesign.one/p/hotstar-scaling)
+- [How LinkedIn Scaled to 930 Million Users](https://newsletter.systemdesign.one/p/scalable-software-architecture)
 - [Scalability for Dummies - Part 1: Clones](https://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones)
 - [Scalability for Dummies - Part 2: Database](https://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database)
 - [Scalability for Dummies - Part 3: Cache](https://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache)
