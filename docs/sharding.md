@@ -4,6 +4,7 @@
 - [donnemartin/system-design-primer#sharding](https://github.com/donnemartin/system-design-primer#sharding)
 
 ## 📕 Articles
+- [This Is How Quora Shards MySQL to Handle 13+ Terabytes](https://newsletter.systemdesign.one/p/mysql-sharding)
 - [Sharding pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/sharding)
 - [What Exactly Is Database Sharding?](https://betterprogramming.pub/what-exactly-is-database-sharding-ca618a2cbb9a)
 - [Introducing Consistent Hashing](https://itnext.io/introducing-consistent-hashing-9a289769052e)
