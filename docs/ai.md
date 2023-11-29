@@ -18,10 +18,12 @@
 - [Running Large Language Models locally – Your own ChatGPT-like AI in C#](https://blog.maartenballiauw.be/post/2023/06/15/running-large-language-models-locally-your-own-chatgpt-like-ai-in-csharp.html)
 - [What is Semantic Kernel?](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
 - [Introducing GPTs](https://openai.com/blog/introducing-gpts)
+
 ## 📺 Videos
 - [ChatGPT Might Make Developers Unemployed In A Few Years](https://www.youtube.com/watch?v=C6tRcvY5xZg)
 - [Auto-GPT Tutorial - Create Your Personal AI Assistant](https://www.youtube.com/watch?v=jn8n212l3PQ)
 - [Create a Large Language Model from Scratch with Python – Tutorial](https://www.youtube.com/watch?v=UU1WVnMk4E8)
+- [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) ⭐
 
 ## Courses
 - [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
@@ -46,7 +48,8 @@
 - [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models
 - [camenduru/text-generation-webui-colab](https://github.com/camenduru/text-generation-webui-colab) - A colab gradio web UI for running Large Language Models
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
-- [huggingface/transformers](https://github.com/huggingface/transformers) - Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) ⭐ - Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) ⭐ - Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) ⭐ Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database
@@ -61,6 +64,8 @@
 - [RayVentura/ShortGPT](https://github.com/RayVentura/ShortGPT) - ShortGPT - Experimental AI framework for automated short/video content creation.
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [tmc/langchaingo](https://github.com/tmc/langchaingo) - LangChain for Go, the easiest way to write LLM-based programs in Go
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean HTML/Tailwind/JS code
+
 ## Samples
 - [Azure-Samples/openai-dotnet-samples](https://github.com/Azure-Samples/openai-dotnet-samples)
 - [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes/) - Examples and recipes for Llama 2 model

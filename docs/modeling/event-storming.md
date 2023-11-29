@@ -45,7 +45,10 @@
 - [Strategic Domain-Driven Design Kata: Delivericious](https://medium.com/nick-tune-tech-strategy-blog/strategic-domain-driven-design-kata-delivericious-b114ca77163)
 - [Design Level Event Storming with examples!](https://mrpicky.dev/design-level-event-storming-with-examples/)
 - [Why You Should Be Using Event Storming](https://betterprogramming.pub/why-you-should-be-using-event-storming-2f32e5280c8c)
-
+- [This could be the biggest post about Big Picture Event Storming ever! And with examples!](https://mrpicky.dev/this-could-be-the-biggest-post-about-big-picture-event-storming-ever-and-with-examples/) ⭐
+- [Process Level Event Storming: let’s get this process started!](https://mrpicky.dev/process-level-event-storming-lets-get-this-process-started/)
+- [Mastering Strategic Domain-Driven Design – 3. Draft of Subdomains](https://meaboutsoftware.com/2023/10/01/mastering-strategic-domain-driven-design-3-draft-of-subdomains/)
+- [Mastering Strategic Domain-Driven Design – 4. Tuning of Subdomains](https://meaboutsoftware.com/2023/11/26/mastering-strategic-domain-driven-design-4-tuning-of-subdomains/)
 ## 📺 Videos
 - [Scoping and Organizing .NET Microservices Using Event Storming](https://www.pluralsight.com/courses/dotnet-microservices-scoping-organizing)
 - [GOTO 2018 • 50.000 Orange Stickies Later • Alberto Brandolini](https://www.youtube.com/watch?v=NGXl1D-KwRI)
