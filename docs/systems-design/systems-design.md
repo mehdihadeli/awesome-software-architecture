@@ -22,6 +22,7 @@
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [cheatsnake/backend-cheats](https://github.com/cheatsnake/backend-cheats) - Homepage for Backend developers
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews
+- [CodingChallenges](https://codingchallenges.fyi/challenges/intro)
 
 ## 📕 Articles
 - [System Design: Slack](https://newsletter.systemdesign.one/p/messaging-architecture)

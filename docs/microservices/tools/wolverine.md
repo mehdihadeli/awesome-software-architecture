@@ -11,7 +11,17 @@
 - [Wolverine embraces Observability](https://timdeschryver.dev/blog/wolverine-embraces-observability)
 - [Messages and Serialization](https://wolverine.netlify.app/guide/messages.html)
 - [ASP.Net Core Integration](https://wolverine.netlify.app/guide/http/integration.html)
-- [Using Local Queueing](https://wolverine.netlify.app/guide/messaging/transports/local.html)
+- [Using Local Queueing](https://wolverine.netlify.app/guide/messaging/transports/local.html
+- [Building a Critter Stack Application: Event Storming](https://jeremydmiller.com/2023/11/28/building-a-critter-stack-application-event-storming/)
+- [Building a Critter Stack Application: Marten as Event Store](https://jeremydmiller.com/2023/11/29/building-a-critter-stack-application-marten-as-event-store/)
+- [Building a Critter Stack Application: Marten Projections](https://jeremydmiller.com/2023/11/30/building-a-critter-stack-application-marten-projections/)
+- [Building a Critter Stack Application: Integrating Marten into Our Application](https://jeremydmiller.com/2023/12/01/building-a-critter-stack-application-integrating-marten-into-our-application/)
+- [Building a Critter Stack Application: Wolverine as Mediator](https://jeremydmiller.com/2023/12/03/building-a-critter-stack-application-wolverine-as-mediator/)
+- [Building a Critter Stack Application: Marten Projections](https://jeremydmiller.com/2023/11/30/building-a-critter-stack-application-marten-projections/)
+- [Building a Critter Stack Application: Dealing with Concurrency](https://jeremydmiller.com/2023/12/05/building-a-critter-stack-application-dealing-with-concurrency/)
+- [Building a Critter Stack Application: Integration Testing Harness](https://jeremydmiller.com/2023/12/12/building-a-critter-stack-application-integration-testing-harness/)
+- [Building a Critter Stack Application: Marten as Document Database](https://jeremydmiller.com/2023/12/13/building-a-critter-stack-application-marten-as-document-database/)
+- [Building a Critter Stack Application: Asynchronous Processing with Wolverine](https://jeremydmiller.com/2023/12/14/building-a-critter-stack-application-asynchronous-processing-with-wolverine/)
 
 ## Vidoes
 - [Don't let MediatR hold you back, try this...](https://www.youtube.com/watch?v=YlG3bnJ7yCc)
@@ -20,3 +30,4 @@
 ## Samples
 - [oskardudycz/EventSourcing.NetCore/Sample/Helpdesk.Wolverine](https://github.com/oskardudycz/EventSourcing.NetCore/tree/helpdesk_wolverine/Sample/Helpdesk.Wolverine)
 - [dotnet/aspire](https://github.com/dotnet/aspire) - .NET Aspire is an opinionated, cloud ready stack for building observable, production ready, distributed applications
+- [JasperFx/CritterStackHelpDesk](https://github.com/JasperFx/CritterStackHelpDesk) My take on Oskar's Helpdesk sample application, but with Wolverine

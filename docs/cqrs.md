@@ -115,7 +115,7 @@
 - [Shriek-Projects/shriek-fx](https://github.com/Shriek-Projects/shriek-fx) - An easy-to-use rapid development framework developed on the basis of.NET Core 2.0, following the constraints of domain Driven Design (DDD) specifications, combined with the CQRS architecture to provide the infrastructure for event-driven, event backtracking, responsiveness, and more. Let developers enjoy the true meaning of object-oriented
 - [daxnet/apworks-core](https://github.com/daxnet/apworks-core) - Apworks framework supporting .NET Core
 - [lucabriguglia/OpenCQRS](https://github.com/lucabriguglia/OpenCQRS) - .NET Standard framework to create simple and clean design. Advanced features for DDD, CQRS and Event Sourcing.
-- [kalintsenkov/BookStore](https://github.com/kalintsenkov/BookStore) - ASP.NET Core | Domain-Driven Design | Clean Architecture
+- [event-driven-dotnet/EventDriven.CQRS.Abstractions](https://github.com/event-driven-dotnet/EventDriven.CQRS.Abstractions) - Abstractions for implementing Command Query Responsibility Segregation in .NET
 
 ## 🚀 Samples
 
@@ -159,3 +159,5 @@
 - [Nairda015/IGroceryStore](https://github.com/Nairda015/IGroceryStore) - IGroceryStore - Loosely coupled monolith
 - [bitloops/ddd-hexagonal-cqrs-es-eda](https://github.com/bitloops/ddd-hexagonal-cqrs-es-eda) - Complete working example of using Domain Driven Design (DDD), Hexagonal Architecture, CQRS, Event Sourcing (ES), Event Driven Architecture (EDA), Behaviour Driven Development (BDD) using TypeScript and NestJS
 - [matt-bentley/CleanArchitecture](https://github.com/matt-bentley/CleanArchitecture) - An opinionated ASP.NET Core solution setup for creating web applications using Clean Architecture and Domain-Driven Design principles.
+- [kalintsenkov/BookStore](https://github.com/kalintsenkov/BookStore) - ASP.NET Core | Domain-Driven Design | Clean Architecture
+- [event-driven-dotnet/EventDriven.ReferenceArchitecture](https://github.com/event-driven-dotnet/EventDriven.ReferenceArchitecture) ⭐ - Reference architecture for using EventDriven abstractions and libraries for Domain Driven Design (DDD), Command-Query Responsibility Segregation (CQRS) and Event Driven Architecture (EDA).

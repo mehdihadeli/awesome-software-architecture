@@ -78,6 +78,8 @@
 - [Farfetch/kafka-flow-retry-extensions](https://github.com/Farfetch/kafka-flow-retry-extensions) - Kafka Flow Retry Patterns Extensions
 - [conduktor-ui](https://www.conduktor.io/conduktor-ui)
 - [obsidiandynamics/kafdrop](https://github.com/obsidiandynamics/kafdrop) - Kafka Web UI
+- [LGouellec/kafka-streams-dotnet](https://github.com/LGouellec/kafka-streams-dotnet) - .NET Stream Processing Library for Apache Kafka 
+
 ## 🚀 Samples
 - [dcomartin/Kafka.Demo](https://github.com/dcomartin/Kafka.Demo)
 - [oskardudycz/kafka-connect](https://github.com/oskardudycz/kafka-connect)

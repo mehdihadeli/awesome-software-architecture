@@ -25,6 +25,7 @@
 - [Implementation of Choreography-based Saga in .NET Microservices](https://www.gokhan-gokalp.com/en/implementation-of-choreography-based-saga-in-dotnet-microservices/)
 - [Sagas: When a Distributed Transaction Is The Right Thing For You](https://medium.com/cloud-native-daily/sagas-when-a-distributed-transaction-is-the-right-thing-for-you-dd110253ed1a)
 
+
 ## 📺 Videos
 - [Life Beyond Distributed Transactions: An Apostate's Implementation - Jimmy Bogard](https://www.youtube.com/watch?v=AUrKofVRHV4)
 - [Fixing Distributed Systems Fail with Jimmy Bogard](https://www.youtube.com/watch?v=p0M1rrmfrWg)
@@ -34,6 +35,9 @@
 - [Backpressure in Reactive System](https://blog.frankel.ch/backpressure-reactive-systems/)
 - [Avoiding Distributed Transactions with the Reservation Pattern](https://www.youtube.com/watch?v=PZm0RQGcs38)
 - [At Least Once - Ian Cooper - NDC Oslo 2022](https://www.youtube.com/watch?v=_9ULo-F4nmE)
+
+## Library
+- [event-driven-dotnet/EventDriven.Sagas](https://github.com/event-driven-dotnet/EventDriven.Sagas) - Abstractions and reference architecture for atomic operations that span multiple services.
 
 ## 🚀 Samples
 - [markgossa/Reference-Event-Driven-Architecture](https://github.com/markgossa/Reference-Event-Driven-Architecture)

@@ -49,6 +49,7 @@
 
 ## 📦 Libraries
 - [dapr/dashboard](https://github.com/dapr/dashboard) - General purpose dashboard for Dapr
+- [event-driven-dotnet/EventDriven.EventBus.Dapr](https://github.com/event-driven-dotnet/EventDriven.EventBus.Dapr) - Event bus abstraction over Dapr pub/sub
 
 ## 🚀 Samples
 - [dotnet-architecture/eShopOnDapr](https://github.com/dotnet-architecture/eShopOnDapr) - A sample .NET Core distributed application based on eShopOnContainers, powered by Dapr.
