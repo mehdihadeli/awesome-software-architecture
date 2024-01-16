@@ -90,5 +90,5 @@
 - [thangchung/coffeeshop-modular](https://github.com/thangchung/coffeeshop-modular) - .NET coffee shop application with modular approach
 - [chrisklug/asp-net-modular-monolith](https://github.com/chrisklug/asp-net-modular-monolith) 
 - [Nairda015/IGroceryStore](https://github.com/Nairda015/IGroceryStore) - IGroceryStore - Loosely coupled monolith app
-- [meaboutsoftware/evolutionary-architecture](https://github.com/meaboutsoftware/evolutionary-architecture) ⭐ - Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various architectural patterns
+- [evolutionary-architecture/evolutionary-architecture-by-example](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example) ⭐ - Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various architectural patterns
 - [kamilbaczek/Estimation-Tool](https://github.com/kamilbaczek/Estimation-Tool) ⭐ - Modular monolith architecture example in .NET. Estimation Tool is tool to optimize estimation process in IT company.
