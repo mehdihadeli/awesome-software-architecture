@@ -3,6 +3,7 @@
 
 ## 📘 Resources
 
+- [System Design Weekly Newsletter](https://newsletter.systemdesign.one/)
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 - [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies
 - [shashank88/system_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions
@@ -21,8 +22,15 @@
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [cheatsnake/backend-cheats](https://github.com/cheatsnake/backend-cheats) - Homepage for Backend developers
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews
+- [CodingChallenges](https://codingchallenges.fyi/challenges/intro)
 
 ## 📕 Articles
+- [System Design: Slack](https://newsletter.systemdesign.one/p/messaging-architecture)
+- [System Design: Wechat](https://newsletter.systemdesign.one/p/chat-application-architecture)
+- [System Design: Live Comments](https://systemdesign.one/live-comment-system-design/)
+- [System Design: Leaderboard](https://systemdesign.one/leaderboard-system-design/)
+- [System Design: Pastebin](https://systemdesign.one/system-design-pastebin/)
+- [System Design: Distributed Counter](https://systemdesign.one/distributed-counter-system-design/)
 - [System Design: System Design Interviews](https://dev.to/karanpratapsingh/system-design-system-design-interviews-47ak)
 - [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
 - [YouTube Architecture](http://highscalability.com/youtube-architecture)

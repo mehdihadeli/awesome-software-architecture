@@ -44,6 +44,7 @@
 - [MassTransit Exception Handling, Retry Middleware](https://www.youtube.com/watch?v=f1Oa65U2OeQ)
 - [Build Clean Messaging in .NET with MassTransit](https://www.youtube.com/watch?v=4FFYefcx4Bg)
 - [MassTransit - The New Transactional Outbox](https://www.youtube.com/watch?v=3TjGnmLno_A)
+- [OSS Power-Ups: MassTransit](https://www.youtube.com/watch?v=sbt9p7jqe74)
 
 ## 📦 Libraries
 - [GokGokalp/MetroBus](https://github.com/GokGokalp/MetroBus) - Lightweight messaging wrapper of MassTransit

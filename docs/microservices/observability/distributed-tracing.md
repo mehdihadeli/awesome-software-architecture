@@ -90,9 +90,8 @@
 - [Set up OpenTelemetry with Event Sourcing and Marten](https://event-driven.io/en/set_up_opentelemetry_wtih_event_sourcing_and_marten/)
 - [Automatic Instrumentation of Containerized .NET Applications With OpenTelemetry](https://www.twilio.com/blog/automatic-instrumentation-of-containerized-dotnet-applications-with-opentelemetry) ⭐
 - [Instrumenting .NET Apps with OpenTelemetry](https://www.thorsten-hans.com/instrumenting-dotnet-apps-with-opentelemetry/)
-- [How to handle multiple commands in the same transaction](https://event-driven.io/en/simple_transactional_command_orchestration/)
 - [Observability with Grafana Cloud and OpenTelemetry in .net microservices](https://dev.to/dbolotov/observability-with-grafana-cloud-and-opentelemetry-in-net-microservices-448c) ⭐
-- [Observing .NET microservices with OpenTelemetry - logs, traces and metrics](https://blog.codingmilitia.com/2023/09/05/observing-dotnet-microservices-with-opentelemetry-logs-traces-metrics/)
+- [Observing .NET microservices with OpenTelemetry - logs, traces and metrics](https://blog.codingmilitia.com/2023/09/05/observing-dotnet-microservices-with-opentelemetry-logs-traces-metrics/) ⭐
 - [Supporting Jaeger with native OTLP](https://deploy-preview-1892--opentelemetry.netlify.app/blog/2022/jaeger-native-otlp/)
 - [OTLP Specification 1.0.0](https://opentelemetry.io/docs/specs/otlp/)
 - [Introducing native support for OpenTelemetry in Jaeger](https://medium.com/jaegertracing/introducing-native-support-for-opentelemetry-in-jaeger-eb661be8183c)

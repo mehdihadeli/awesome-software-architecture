@@ -2,6 +2,7 @@
 
 ## 📝 Articles
 
+- [Everything You Need to Know About Micro Frontends](https://newsletter.systemdesign.one/p/micro-frontends)
 - [What’s the Difference Between a Component and a Micro-Frontend?](https://blog.santoshshinde.com/whats-the-difference-between-a-component-and-a-micro-frontend-43aefd0af062)
 - [Micro Frontends](https://martinfowler.com/articles/micro-frontends.html) By [Cam Jackson](https://twitter.com/thecamjackson)
 - [What are Micro Frontends?](https://micro-frontends.org/)

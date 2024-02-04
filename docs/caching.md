@@ -5,6 +5,7 @@
 - [Redis Youtube](https://www.youtube.com/c/Redisinc/)
 
 ## 📕 Articles
+- [Top 5 Caching Patterns](https://newsletter.systemdesign.one/p/caching-patterns)
 - [Caching Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/caching)
 - [Where Is My Cache? Architectural Patterns for Caching Microservices](https://hazelcast.com/blog/architectural-patterns-for-caching-microservices/)
 - [4 ways to update your cache](https://vishnu.hashnode.dev/4-ways-to-update-your-cache-ckn4c0jae0dq8efs152eu8hmq)

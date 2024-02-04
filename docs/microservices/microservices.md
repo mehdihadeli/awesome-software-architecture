@@ -180,6 +180,7 @@
 - [JasperFx/wolverine](https://github.com/JasperFx/wolverine) - Next Generation .NET Command and Message Bus
 - [ServiceComposer/ServiceComposer.AspNetCore](https://github.com/ServiceComposer/ServiceComposer.AspNetCore) - ServiceComposer, a ViewModel Composition API Gateway
 - [EasyDesk/easydesk-clean-architecture](https://github.com/EasyDesk/easydesk-clean-architecture) - A microservice framework based on the Clean Architecture and the Domain Driven Design.
+- [dotnet/aspire](https://github.com/dotnet/aspire) - .NET Aspire is an opinionated, cloud ready stack for building observable, production ready, distributed applications
 
 ## 🚀 Samples
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
@@ -261,6 +262,10 @@
 - [thangchung/try-nomad-dapr](https://github.com/thangchung/try-nomad-dapr)
 - [m-khooryani/OverCloudAirways](https://github.com/m-khooryani/OverCloudAirways)
 - [meaboutsoftware/evolutionary-architecture](https://github.com/meaboutsoftware/evolutionary-architecture) ⭐ - Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various architectural patterns
+- [dotnet/eShop](https://github.com/dotnet/eShop) ⭐ - A reference .NET application implementing an eCommerce site
+- [jeremydmiller/CritterStackHelpDesk](https://github.com/jeremydmiller/CritterStackHelpDesk) - My take on Oskar's Helpdesk sample application, but with Wolverine
+- [event-driven-dotnet/EventDriven.ReferenceArchitecture](https://github.com/event-driven-dotnet/EventDriven.ReferenceArchitecture) ⭐ - Reference architecture for using EventDriven abstractions and libraries for Domain Driven Design (DDD), Command-Query Responsibility Segregation (CQRS) and Event Driven Architecture (EDA).
+- [ebubekirdinc/SuuCat](https://github.com/ebubekirdinc/SuuCat) - SuuCat is a sample containerized application consisting of several microservices. Its purpose is to use microservice patterns in practice
 
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)

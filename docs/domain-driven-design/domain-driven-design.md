@@ -101,6 +101,10 @@
 - [Domain-Driven Design: Everything You Always Wanted to Know About it, But Were Afraid to Ask](https://medium.com/ssense-tech/domain-driven-design-everything-you-always-wanted-to-know-about-it-but-were-afraid-to-ask-a85e7b74497a) ⭐⭐
 - [Domain-Driven Design: A Walkthrough of Building an Aggregate](https://betterprogramming.pub/domain-driven-design-a-walkthrough-of-building-an-aggregate-c84113aa9975) ⭐
 - [Domain-Driven Design: Domain Events and Integration Events in .Net](https://betterprogramming.pub/domain-driven-design-domain-events-and-integration-events-in-net-5a2a58884aaa) ⭐
+- [Mastering Strategic Domain-Driven Design – 1. The Beginning](https://meaboutsoftware.com/2023/07/24/mastering-strategic-domain-driven-design-1-the-beginning/)
+- [Mastering Strategic Domain-Driven Design – 2. The Domain](https://meaboutsoftware.com/2023/08/06/mastering-strategic-domain-driven-design-2-the-domain/)
+- [Mastering Strategic Domain-Driven Design – 3. Draft of Subdomains](https://meaboutsoftware.com/2023/10/01/mastering-strategic-domain-driven-design-3-draft-of-subdomains/)
+- [Mastering Strategic Domain-Driven Design – 4. Tuning of Subdomains](https://meaboutsoftware.com/2023/11/26/mastering-strategic-domain-driven-design-4-tuning-of-subdomains/)
 
 ## 📺 Videos
 - [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
@@ -120,6 +124,8 @@
 - [Getting modules right with Domain-driven Design by Michael Plöd - Spring I/O 2022 Sessions](https://www.youtube.com/watch?v=Q_0XW46IlHY)
 - [Hands-on case-study context mapping with Michael Plöd](https://www.youtube.com/watch?v=OthhRfqp-44)
 - [All our aggregates are wrong - Mauro Servienti](https://www.youtube.com/watch?v=hev65ozmYPI)
+- [DDD in large product portfolios - Andreas Pinhammer](https://www.youtube.com/watch?v=FzycqiJVioI)
+
 ## 🚀 Samples
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
 - [kimcu-on-thenet/ddd-net-ef-core](https://github.com/kimcu-on-thenet/ddd-net-ef-core) - Self study: DDD, .net core, entity framework core

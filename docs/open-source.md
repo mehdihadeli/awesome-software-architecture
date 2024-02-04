@@ -11,6 +11,7 @@
 - [What does it mean to be a maintainer?](https://opensource.guide/best-practices/)
 - [From idea to feature, what is the life cycle of an open source product?](https://blog.kuzzle.io/life-cycle-open-source-product)
 - [How to become an Open Source Software contributor?](https://sagikazarmark.hu/blog/how-to-become-an-open-source-software-contributor/)
+- [6 Proven Guidelines on Open Sourcing From Tumblr](https://newsletter.systemdesign.one/p/open-source-guidelines)
 
 ## 📺 Videos
 - [Complete Guide to Open Source - How to Contribute](https://www.youtube.com/watch?v=yzeVMecydCE)
