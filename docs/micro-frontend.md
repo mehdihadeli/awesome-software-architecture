@@ -47,3 +47,4 @@
 ## 🔊 Podcasts
 
 - [What are MFEs?](https://open.spotify.com/episode/7cfGQTgdSgBkxcyXAvUbng)
+- [What's so cool about Micro frontends - Thoughtworks Technology Podcasts](https://www.thoughtworks.com/insights/podcasts/technology-podcasts/micro-frontends)
