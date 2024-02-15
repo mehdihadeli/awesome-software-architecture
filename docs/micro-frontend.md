@@ -38,7 +38,3 @@
 - [Building Micro-Frontends By Luca Mezzalira - August 2021](https://www.oreilly.com/library/view/building-micro-frontends/9781492082989/)
 - [Micro Frontends in Action By Michael Geers- August 2020](https://www.manning.com/books/micro-frontends-in-action)
 - [The Art of Micro Frontends By Florian Rappl - June 2021](https://www.packtpub.com/product/the-art-of-micro-frontends/9781800563568)
-
-## 🔊 Podcasts
-
-- [What are MFEs?](https://open.spotify.com/episode/7cfGQTgdSgBkxcyXAvUbng)

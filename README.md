@@ -549,7 +549,7 @@ I created this repository to share a set of links that I found valuable and insp
 ### Micro-Frontend
 | Topic | Description |
 |:-------:|:----------- |
-| [Micro-Frontend](docs/micro-frontend.md) | TODO...
+| [Micro-Frontend](docs/micro-frontend.md) | Micro-frontends are revolutionizing the development landscape by allowing independent implementation of a business subdomain, all with the same and different technologies.
 
 ### Others
 | Topic | Description |
