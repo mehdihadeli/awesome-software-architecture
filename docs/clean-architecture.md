@@ -131,6 +131,7 @@
 - [serodriguez68/clean-architecture](https://github.com/serodriguez68/clean-architecture) - A detailed summary of Clean Architecture by Robert C Martin (Uncle Bob)
 - [AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing](https://github.com/AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing) - The main objective of this cloud-native project is to represent the state of the art of a distributed, reliable, and highly scalable system by interpreting the most relevant principles of Reactive Domain Driven Design.
 - [matt-bentley/CleanArchitecture](https://github.com/matt-bentley/CleanArchitecture) - An opinionated ASP.NET Core solution setup for creating web applications using Clean Architecture and Domain-Driven Design principles.
+- [amantinband/clean-architecture](https://github.com/amantinband/clean-architecture) - The ultimate clean architecture template for .NET applications.
 
 ## 📚 Books
 - [Get Your Hands Dirty on Clean Architecture](https://www.packtpub.com/product/get-your-hands-dirty-on-clean-architecture/9781839211966)
