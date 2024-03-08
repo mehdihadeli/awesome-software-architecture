@@ -263,7 +263,7 @@
 - [oskardudycz/EventSourcing.NetCore/Workshops/IntroductionToEventSourcing](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Workshops/IntroductionToEventSourcing) - Introduction to Event Sourcing Workshop
 - [oskardudycz/EventSourcing.JVM](https://github.com/oskardudycz/EventSourcing.JVM) - Examples and Tutorials of Event Sourcing in JVM languages
 - [AleksK1NG/Java-Spring-CRQS-Eventsourcing-Microservice](https://github.com/AleksK1NG/Java-Spring-CRQS-Eventsourcing-Microservice) - Java-Spring-CRQS-Eventsourcing-Microservice
-- [AleksK1NG/Java-Quarkus-Reactive-CQRS-EventSourcing]}(https://github.com/AleksK1NG/Java-Quarkus-Reactive-CQRS-EventSourcing) - Java-Quarkus-Reactive-CQRS-EventSourcing
+- [AleksK1NG/Java-Quarkus-Reactive-CQRS-EventSourcing](https://github.com/AleksK1NG/Java-Quarkus-Reactive-CQRS-EventSourcing) - Java-Quarkus-Reactive-CQRS-EventSourcing
 - [evgeniy-khist/eventstoredb-event-sourcing](https://github.com/evgeniy-khist/eventstoredb-event-sourcing) - EventStoreDB is the database for Event Sourcing. This repository provides a sample of event sourced system that uses EventStoreDB as event store.
 - [evgeniy-khist/postgresql-event-sourcing](https://github.com/evgeniy-khist/postgresql-event-sourcing) - PostgreSQL is the world's most advanced open source database. Also, PostgreSQL is suitable for Event Sourcing. This repository provides a sample of event sourced system that uses PostgreSQL as event store.
 - [Finaps/EventSourcing](https://github.com/Finaps/EventSourcing) - Event Sourcing in .NET 6
