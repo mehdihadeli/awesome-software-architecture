@@ -69,6 +69,9 @@
 - [Tired of Layers? Vertical Slice Architecture to the rescue!](https://www.youtube.com/watch?v=lsddiYwWaOQ)
 - [Vertical Slice Architecture, not Layers!](https://www.youtube.com/watch?v=L2Wnq0ChAIA) ⭐
 - [A Contrarian View of Software Architecture - Jeremy Miller - NDC Oslo 2023](https://www.youtube.com/watch?v=ttYQzHPe5s4)
+- [Battle Of The Software Architectures: Which One Reigns Supreme?](https://www.youtube.com/watch?v=VbuJaH7mKIc)
+- [Vertical Slice Architecture Myths You Need To Know!](https://www.youtube.com/watch?v=TfMArQnepco)
+- [Vertical Slice Architecture (Jimmy Bogard)](https://www.youtube.com/watch?v=oAoaMlS1PWo)
 
 ## 🚀 Samples
 - [jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages) 

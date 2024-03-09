@@ -6,6 +6,7 @@
 - [Code Opinion Blog](https://codeopinion.com/category/event-sourcing/)
 - [Versioning in an Event Sourced System - Gregory Young](https://leanpub.com/esversioning/read)
 - [EventSourcing .NET](https://github.com/oskardudycz/EventSourcing.NetCore#eventsourcing-net)
+
 ## 📕 Articles
 - [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) 
 - [Event Sourcing and CQRS in C#](http://www.andreavallotti.tech/en/2018/01/event-sourcing-and-cqrs-in-c/)
@@ -153,6 +154,8 @@
 - [Ensuring uniqueness in Marten event store](https://event-driven.io/en/unique_constraint_in_marten_event_store/)
 - [Event stores are key-value databases, and why that matters](https://event-driven.io/en/event_stores_are_key_value_stores/)
 - [How to scale out Marten](https://event-driven.io/en/scaling_out_marten/)
+- [Implementing Closing the Books pattern](https://event-driven.io/en/closing_the_books_in_practice/)
+- [Explicit events serialisation in Event Sourcing](https://event-driven.io/en/explicit_events_serialisation_in_event_sourcing/)
 
 ## 📺 Videos
 - [Event Sourcing Playlist - CodeOpinion](https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ)
