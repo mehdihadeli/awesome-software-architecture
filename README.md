@@ -56,7 +56,6 @@ I created this repository to share a set of links that I found valuable and insp
 - [Messaging](#messaging)
 - [Distributed Transactions](#distributed-transactions)
 - [Distributed Locking](#distributed-locking)
-- [Eventual Consistency](#eventual-consistency)
 - [RESTful API Design](#rest)
 - [gRPC](#grpc)
 - [Caching](#caching)
