@@ -132,6 +132,7 @@
 - [alexvaluyskiy/prometheus-net-contrib](https://github.com/alexvaluyskiy/prometheus-net-contrib) - Exposes .NET core diagnostic listeners and counters
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector
 - [open-telemetry/opentelemetry-collector/](https://github.com/open-telemetry/opentelemetry-collector/) - OpenTelemetry Collector
+- [grafana/grafana-opentelemetry-dotnet](https://github.com/grafana/grafana-opentelemetry-dotnet) - Grafana's distribution of OpenTelemetry instrumentation for .NET
 
 ## 🚀 Samples
 - [karlospn/opentelemetry-tracing-demo](https://github.com/karlospn/opentelemetry-tracing-demo) - Example about how to use OpenTelemetry for tracing when we have a series of distributed applications communicating between them

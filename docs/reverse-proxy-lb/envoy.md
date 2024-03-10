@@ -3,6 +3,10 @@
 ## 📘 Resources
 - [Learn Envoy Fundamentals](https://academy.tetrate.io/courses/envoy-fundamentals)
 
+## Articles
+- [Envoy as an API Gateway: Part I](https://ekhabarov.com/post/envoy-as-an-api-gateway-grpc-microservice/?utm_source=related)
+- [Envoy as an API Gateway: Part II](https://ekhabarov.com/post/envoy-as-an-api-gateway-envoy-proxy-container/)
+
 ## 📺 Videos
 - [Build an API Gateway with Envoy and use with .NET Core APIs](https://www.youtube.com/watch?v=UsoH5cqE1OA)
 - [Microservices NET 6.0 | Gateway Envoy | Docker Compose | Visual Studio 2022](https://www.youtube.com/watch?v=-6FPkXrkPnU)

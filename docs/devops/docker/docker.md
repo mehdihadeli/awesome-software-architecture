@@ -100,6 +100,11 @@
 - [Hot-Reload .NET Configuration in Kubernetes with ConfigMaps](https://www.thorsten-hans.com/hot-reload-net-configuration-in-kubernetes-with-configmaps/) ⭐
 - [Secure your .NET cloud apps with rootless Linux Containers](https://devblogs.microsoft.com/dotnet/securing-containers-with-rootless/)
 - [Testing Chiseled Ubuntu container images with .NET](https://www.mytechramblings.com/posts/testing-chiseled-ubuntu-containers-with-dotnet/)
+- [Creating a Private Local Docker Registry in 5 Minutes](https://dev.to/docker/creating-a-private-local-docker-registry-in-5-minutes-2dnl)
+- [4 Easy Steps to Set Up a Private Docker Registry on Ubuntu](https://gcore.com/learning/4-easy-steps-to-set-up-a-private-docker-registry-on-ubuntu/)
+- [Running Artifactory 7 and Postgres using Docker Compose V2](https://wangler.io/running-artifactory-7-using-docker-compose-v2/)
+- [Deploying JFrog Container Registry within a Dockerized infrastructure](https://medium.com/@tomer.klein/deploying-jfrog-container-registry-within-a-dockerized-infrastructure-a3f67328bd27)
+- [Create a Private Docker Registry with Nexus](https://www.ivankrizsan.se/2016/06/09/create-a-private-docker-registry/)
 
 ## 📹 Videos
 - [Deploy a .NET Core API with Docker (Step-by-Step)](https://www.youtube.com/watch?v=f0lMGPB10bM)
@@ -142,3 +147,11 @@
 - [thangchung/clean-architecture-dotnet/Dockerfile](https://github.com/thangchung/clean-architecture-dotnet/blob/main/samples/Product/ProductService.Api/Dockerfile)
 - [laurentkempe/ChiseledDocker](https://github.com/laurentkempe/ChiseledDocker)
 - [richlander/container-workshop](https://github.com/richlander/container-workshop) - Documents fundamental .NET Container workflows
+
+## Registries
+- [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
+- [Quay.io](https://quay.io/)
+- [GitHub Container Registry](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry)
+- [Docker Container Registry](https://hub.docker.com/)
+- [JFrog Docker Registry](https://jfrog.com/help/r/jfrog-artifactory-documentation/set-up-jfrog-container-registry-self-hosted-version)
+- [sonatype-nexus-oss](https://www.sonatype.com/products/sonatype-nexus-oss)
