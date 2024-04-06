@@ -4,6 +4,7 @@
 - [Introducing .NET Aspire: Simplifying Cloud-Native Development with .NET 8](https://devblogs.microsoft.com/dotnet/introducing-dotnet-aspire-simplifying-cloud-native-development-with-dotnet-8/)
 - [Announcing .NET Aspire Preview 2](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-preview-2/)
 - [Why I won't use .NET Aspire for now](https://event-driven.io/en/nay_to_aspire/)
+- [Transactional Outbox in .NET Cloud Native Development via Aspire](https://nikiforovall.github.io/dotnet/aspnetcore/aspire/2024/03/30/aspire-cap.html)
 
 ## Videos
 - [Building Cloud Native apps with .NET 8 | .NET Conf 2023](https://www.youtube.com/watch?v=z1M-7Bms1Jg)

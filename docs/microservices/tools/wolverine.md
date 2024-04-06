@@ -11,7 +11,7 @@
 - [Wolverine embraces Observability](https://timdeschryver.dev/blog/wolverine-embraces-observability)
 - [Messages and Serialization](https://wolverine.netlify.app/guide/messages.html)
 - [ASP.Net Core Integration](https://wolverine.netlify.app/guide/http/integration.html)
-- [Using Local Queueing](https://wolverine.netlify.app/guide/messaging/transports/local.html
+- [Using Local Queueing](https://wolverine.netlify.app/guide/messaging/transports/local.html)
 - [Building a Critter Stack Application: Event Storming](https://jeremydmiller.com/2023/11/28/building-a-critter-stack-application-event-storming/)
 - [Building a Critter Stack Application: Marten as Event Store](https://jeremydmiller.com/2023/11/29/building-a-critter-stack-application-marten-as-event-store/)
 - [Building a Critter Stack Application: Marten Projections](https://jeremydmiller.com/2023/11/30/building-a-critter-stack-application-marten-projections/)
@@ -25,6 +25,9 @@
 - [Building a Critter Stack Application: Durable Outbox Messaging and Why You Care!](https://jeremydmiller.com/2023/12/28/building-a-critter-stack-application-durable-outbox-messaging-and-why-you-care/)
 - [Building a Critter Stack Application: Wolverine HTTP Endpoints](https://jeremydmiller.com/2024/01/09/building-a-critter-stack-application-wolverine-http-endpoints/)
 - [Building a Critter Stack Application: Easy Unit Testing with Pure Functions](https://jeremydmiller.com/2024/01/10/building-a-critter-stack-application-easy-unit-testing-with-pure-functions/)
+- [Wolverine’s Baked In Integration Testing Support](https://jeremydmiller.com/2024/03/25/wolverines-baked-in-integration-testing-support/)
+- [Testing Asynchronous Projections in Marten](https://jeremydmiller.com/2024/03/26/testing-asynchronous-projections-in-marten/)
+
 ## Vidoes
 - [Don't let MediatR hold you back, try this...](https://www.youtube.com/watch?v=YlG3bnJ7yCc)
 - [CQRS with Event Sourcing using the “Critter Stack” | .NET Conf 2023](https://www.youtube.com/watch?v=KousO1UsHYM)

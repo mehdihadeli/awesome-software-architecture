@@ -24,6 +24,9 @@
 - [ASP.NET Correlation ID](https://markgossa.com/2022/05/asp-net-correlation-id.html)
 - [Error Handling and Message Redelivery in MassTransit](https://www.gokhan-gokalp.com/en/messaging-yapilarinda-masstransit-ile-error-ve-redeliver-handling/)
 - [Building a More Useful Outbox for Reliable Messaging](https://jeremydmiller.com/2022/06/16/building-a-more-useful-outbox-for-reliable-messaging/)
+- [MassTransit Testing](https://masstransit.io/documentation/concepts/testing)
+- [MassTransit observability](https://masstransit.io/documentation/configuration/observability)
+- [A better Masstransit Test harness](https://andersmalmgren.com/2022/08/17/a-better-masstransit-test-harness/)
 
 ## 📺 Videos
 - [MassTransit–Youtube videos](https://bartwullems.blogspot.com/2020/07/masstransityoutube-videos.html)
@@ -44,7 +47,9 @@
 - [MassTransit Exception Handling, Retry Middleware](https://www.youtube.com/watch?v=f1Oa65U2OeQ)
 - [Build Clean Messaging in .NET with MassTransit](https://www.youtube.com/watch?v=4FFYefcx4Bg)
 - [MassTransit - The New Transactional Outbox](https://www.youtube.com/watch?v=3TjGnmLno_A)
+- [MassTransit v8 - Open Telemetry](https://www.youtube.com/watch?v=WsTYClGrOVI)
 - [OSS Power-Ups: MassTransit](https://www.youtube.com/watch?v=sbt9p7jqe74)
+- [TestHarnes and OpenTelemetry](https://youtu.be/7PM9XUAAMtA)
 
 ## 📦 Libraries
 - [GokGokalp/MetroBus](https://github.com/GokGokalp/MetroBus) - Lightweight messaging wrapper of MassTransit
