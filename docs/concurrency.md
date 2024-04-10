@@ -30,6 +30,7 @@
 - [Optimistic Concurrency in an HTTP API with ETags & Hypermedia](https://codeopinion.com/optimistic-concurrency-in-an-http-api-with-etags-hypermedia/)
 - [HTTP and ETag Header Fields](https://blog.peterritchie.com/posts/http-and-etag-header-fields) ⭐
 - [ETags in ASP.NET Core](https://blog.peterritchie.com/posts/etags-in-aspdotnet-core) ⭐
+- [Be optimistic about concurrency in Entity Framework](https://www.dateo-software.de/blog/concurrency-entity-framework)
 
 # Videos
 - [Optimistic Concurrency in an HTTP API with ETags & Hypermedia](https://www.youtube.com/watch?v=2Nk3kCCyu3A)
