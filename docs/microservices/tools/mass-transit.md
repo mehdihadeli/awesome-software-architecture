@@ -24,6 +24,9 @@
 - [ASP.NET Correlation ID](https://markgossa.com/2022/05/asp-net-correlation-id.html)
 - [Error Handling and Message Redelivery in MassTransit](https://www.gokhan-gokalp.com/en/messaging-yapilarinda-masstransit-ile-error-ve-redeliver-handling/)
 - [Building a More Useful Outbox for Reliable Messaging](https://jeremydmiller.com/2022/06/16/building-a-more-useful-outbox-for-reliable-messaging/)
+- [MassTransit Testing](https://masstransit.io/documentation/concepts/testing)
+- [MassTransit observability](https://masstransit.io/documentation/configuration/observability)
+- [A better Masstransit Test harness](https://andersmalmgren.com/2022/08/17/a-better-masstransit-test-harness/)
 
 ## 📺 Videos
 
@@ -48,6 +51,7 @@
 - [OSS Power-Ups: MassTransit](https://www.youtube.com/watch?v=sbt9p7jqe74)
 - [MassTransit Message Contract Sharing using NuGet](https://www.youtube.com/watch?v=5i_VQBYvTIQ)
 - [Versioning your MassTransit message contracts](https://www.youtube.com/watch?v=PNNxJthctgk)
+- [TestHarnes and OpenTelemetry](https://youtu.be/7PM9XUAAMtA)
 
 ## 📦 Libraries
 

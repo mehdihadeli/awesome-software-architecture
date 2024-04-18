@@ -52,8 +52,9 @@
 - [Vertical Software Development](https://medium.com/ssense-tech/vertical-software-development-495b73f7fcdf)
 - [Vertical Slices in practice](https://event-driven.io/en/-vertical_slices_in_practice/) ⭐
 - [Low Ceremony Vertical Slice Architecture with Wolverine](https://jeremydmiller.com/2023/07/10/low-ceremony-vertical-slice-architecture-with-wolverine/)
-[Compiled Queries with Marten](https://jeremydmiller.com/2023/07/12/compiled-queries-with-marten/)
+- [Compiled Queries with Marten](https://jeremydmiller.com/2023/07/12/compiled-queries-with-marten/)
 - [Vertical Slice Architecture in ASP.NET Core](https://blog.ndepend.com/vertical-slice-architecture-in-asp-net-core/) ⭐
+- [There is no template for vertical slicing](https://www.dateo-software.de/blog/no-vertical-slicing-template)
 
 ## 📺 Videos
 - [SOLID Architecture in Slices not Layers - Jimmy Bogard](https://vimeo.com/131633177)

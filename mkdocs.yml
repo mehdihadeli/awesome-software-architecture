@@ -202,6 +202,9 @@ nav:
       - Telepresence: devops/kubernetes/other-tools/telepresence.md
       - Garden: devops/kubernetes/other-tools/garden.md
       - Tilt: devops/kubernetes/other-tools/tilt.md
+  - Terminal:
+    - Bash: devops/terminal/bash.md
+    - Powershell: devops/terminal/powershell.md
 - Distributed Locking: distributed-locking.md
 - Distributed Transactions & Saga: distributed-transactions.md
 - Domain Driven Design:

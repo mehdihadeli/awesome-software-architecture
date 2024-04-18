@@ -1,15 +1,20 @@
 # Aspire
 
 ## Articles
+
+- [.NET Aspire overview](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview)
 - [Introducing .NET Aspire: Simplifying Cloud-Native Development with .NET 8](https://devblogs.microsoft.com/dotnet/introducing-dotnet-aspire-simplifying-cloud-native-development-with-dotnet-8/)
 - [Announcing .NET Aspire Preview 2](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-preview-2/)
 - [.NET Aspire preview 3](https://learn.microsoft.com/en-us/dotnet/aspire/whats-new/preview-3)
 - [.NET Aspire preview 4](https://learn.microsoft.com/en-us/dotnet/aspire/whats-new/preview-4)
+- [.NET Aspire preview 5](https://learn.microsoft.com/en-us/dotnet/aspire/whats-new/preview-5)
 - [Why I won't use .NET Aspire for now](https://event-driven.io/en/nay_to_aspire/)
 - [.NET Aspire dashboard is the best tool to visualize your OpenTelemetry data during local development](https://anthonysimmon.com/dotnet-aspire-dashboard-best-tool-visualize-opentelemetry-local-dev/)
 - [.NET Aspire telemetry](https://learn.microsoft.com/en-us/dotnet/aspire/fundamentals/telemetry)
+- [Transactional Outbox in .NET Cloud Native Development via Aspire](https://nikiforovall.github.io/dotnet/aspnetcore/aspire/2024/03/30/aspire-cap.html)
 
 ## Videos
+
 - [Building Cloud Native apps with .NET 8 | .NET Conf 2023](https://www.youtube.com/watch?v=z1M-7Bms1Jg)
 - [What Is .NET Aspire? The Insane Future of .NET!](https://www.youtube.com/watch?v=DORZA_S7f9w)
 

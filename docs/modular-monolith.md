@@ -38,6 +38,8 @@
 - [Easy Modular Monolith — Part 5— JWT Authentication/Authorization](https://itnext.io/easy-modular-monolith-part-5-jwt-authentication-authorization-f7a0a275226f)
 - [Easy Modular Monolith — Part 6 — Synchronous communication between modules](https://itnext.io/easy-modular-monolith-part-5-synchronous-communication-between-modules-7af876f06c16)
 - [Build the modular monolith first](https://www.fearofoblivion.com/build-a-modular-monolith-first)
+- [Thoughts on “Modular Monoliths”](https://jeremydmiller.com/2024/04/01/thoughts-on-modular-monoliths/)
+- [Actually Talking about Modular Monoliths](https://jeremydmiller.com/2024/04/08/actually-talking-about-modular-monoliths/)
 
 ## 📺 Videos
 - [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE)
