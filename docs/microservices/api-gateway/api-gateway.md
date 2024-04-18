@@ -3,6 +3,9 @@
 ## 📕 Articles
 - [Pattern: API Gateway / Backends for Frontends](https://microservices.io/patterns/apigateway.html)
 - [Gateway Aggregation Pattern](https://medium.com/design-microservices-architecture-with-patterns/gateway-aggregation-pattern-9ff92e1771d0)
+- [Microservice Service Discovery: API Gateway or Service Mesh?](https://www.getambassador.io/blog/microservices-discovery-api-gateway-vs-service-mesh)
+- [Service mesh vs. API gateway](https://www.solo.io/topics/service-mesh/service-mesh-vs-api-gateway/)
+
 ## 📺 Videos
 - [Build an API Gateway with Envoy and use with .NET Core APIs](https://www.youtube.com/watch?v=UsoH5cqE1OA)
 

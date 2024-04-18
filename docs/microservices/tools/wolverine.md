@@ -25,6 +25,8 @@
 - [Building a Critter Stack Application: Durable Outbox Messaging and Why You Care!](https://jeremydmiller.com/2023/12/28/building-a-critter-stack-application-durable-outbox-messaging-and-why-you-care/)
 - [Building a Critter Stack Application: Wolverine HTTP Endpoints](https://jeremydmiller.com/2024/01/09/building-a-critter-stack-application-wolverine-http-endpoints/)
 - [Building a Critter Stack Application: Easy Unit Testing with Pure Functions](https://jeremydmiller.com/2024/01/10/building-a-critter-stack-application-easy-unit-testing-with-pure-functions/)
+- [Conventional Message Routing in Wolverine](https://jeremydmiller.com/2024/03/19/conventional-message-routing-in-wolverine/)
+
 ## Vidoes
 - [Don't let MediatR hold you back, try this...](https://www.youtube.com/watch?v=YlG3bnJ7yCc)
 - [CQRS with Event Sourcing using the “Critter Stack” | .NET Conf 2023](https://www.youtube.com/watch?v=KousO1UsHYM)

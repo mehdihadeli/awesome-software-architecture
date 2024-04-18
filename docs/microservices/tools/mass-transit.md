@@ -26,6 +26,7 @@
 - [Building a More Useful Outbox for Reliable Messaging](https://jeremydmiller.com/2022/06/16/building-a-more-useful-outbox-for-reliable-messaging/)
 
 ## 📺 Videos
+
 - [MassTransit–Youtube videos](https://bartwullems.blogspot.com/2020/07/masstransityoutube-videos.html)
 - [Modern .NET Messaging using MassTransit](https://www.youtube.com/watch?v=jQNQDLv7QmU)
 - [.NET Microservices Basics Course](https://youtu.be/ByYyk8eMG6c?t=18839)
@@ -45,13 +46,17 @@
 - [Build Clean Messaging in .NET with MassTransit](https://www.youtube.com/watch?v=4FFYefcx4Bg)
 - [MassTransit - The New Transactional Outbox](https://www.youtube.com/watch?v=3TjGnmLno_A)
 - [OSS Power-Ups: MassTransit](https://www.youtube.com/watch?v=sbt9p7jqe74)
+- [MassTransit Message Contract Sharing using NuGet](https://www.youtube.com/watch?v=5i_VQBYvTIQ)
+- [Versioning your MassTransit message contracts](https://www.youtube.com/watch?v=PNNxJthctgk)
 
 ## 📦 Libraries
+
 - [GokGokalp/MetroBus](https://github.com/GokGokalp/MetroBus) - Lightweight messaging wrapper of MassTransit
 - [NCodeGroup/MassTransit.Extensions.Hosting](https://github.com/NCodeGroup/MassTransit.Extensions.Hosting) - MassTransit configuration extensions using Microsoft.Extensions.Hosting.IHostedService and Microsoft.Extensions.DependencyInjection.
 - [phatboyg/GreenPipes](https://github.com/phatboyg/GreenPipes) - An asynchronous pipe implementation for the Task Parallel Library
 
 ## 🚀 Samples
+
 - [MassTransit/Sample-Twitch](https://github.com/MassTransit/Sample-Twitch)
 - [marco-bue/masstransit-microservices](https://github.com/marco-bue/masstransit-microservices) - A sample on how to utilize MassTransit to do asynchronous communication between microservices
 - [jbw/TooBigToFailBurgerShop](https://github.com/jbw/TooBigToFailBurgerShop) - .NET Microservice Reference Application. It's also an over-engineered burger shop!

@@ -91,6 +91,11 @@
 - [Configure Liveness, Readiness and Startup Probes](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/) ⭐
 - [Kubernetes–Override an appsettings.json file in an ASP.NET Core app through ConfigMaps](https://bartwullems.blogspot.com/2021/03/kubernetesoverride-appsettingsjson-file.html)
 - [Kubeconfig File Explained With Practical Examples](https://devopscube.com/kubernetes-kubeconfig-file/)
+- [The Ultimate Kubectl Command Line Cheat Sheet](https://komodor.com/learn/the-ultimate-kubectl-cheat-sheet/) ⭐
+- [How to Use Kubectl Config Set-Context](https://kodekloud.com/blog/kubectl-change-context/) ⭐
+- [Configure Access to Multiple Clusters](https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/) ⭐
+- [3 questions to answer when considering a multi-cluster Kubernetes architecture](https://www.redhat.com/architect/multi-cluster-kubernetes-architecture) ⭐
+- [Architecting Kubernetes clusters — how many should you have?](https://learnk8s.io/how-many-clusters) ⭐
 ## 📺 Videos
 - [Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]](https://www.youtube.com/watch?v=X48VuDVv0do)
 - [Kubernetes Daemonsets explained | Tutorial | Kubernetes Guide](https://www.youtube.com/watch?v=RGSeeN-o-kQ)
@@ -113,6 +118,7 @@
 - [Credentials and Configs in Kubernetes Secrets and ConfigMaps](https://www.youtube.com/watch?v=tWc3wfC8sOc)
 - [Level-up Your DevOps with GitHub Actions and Kubernetes](https://www.youtube.com/watch?v=TMbXwNtuAJo)
 - [Kubernetes + OpenAI = K8sGPT, giving you AI superpowers!](https://www.youtube.com/watch?v=7WA8XVrod2Y)
+- [DNS for Services and Pods](https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/)
 
 ## 📦 Libraries
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes

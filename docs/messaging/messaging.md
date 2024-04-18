@@ -124,7 +124,10 @@
 - [Avoiding Batch Jobs by a message in the FUTURE](https://www.youtube.com/watch?v=zWgqj2OEKX8)
 - [Wolverine: Your Next Messaging Library](https://www.youtube.com/watch?v=EGwepoGG0CM)
 - [Clean Message Bus Consumers with MediatR in .NET](https://www.youtube.com/watch?v=wnqBmv1RJNE)
-
+- [Using Open Telemetry with the MassTransit Test Harness?](https://www.youtube.com/watch?v=7PM9XUAAMtA)
+- [MassTransit Message Contract Sharing using NuGet](https://www.youtube.com/watch?v=5i_VQBYvTIQ)
+- [Versioning your MassTransit message contracts](https://www.youtube.com/watch?v=PNNxJthctgk)
+  
 ## 📦 Libraries
 
 - [Enexure.MicroBus](https://github.com/Lavinski/Enexure.MicroBus) - MicroBus is a simple in process Mediator for .NET

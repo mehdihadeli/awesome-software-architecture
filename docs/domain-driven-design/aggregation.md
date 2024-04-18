@@ -21,6 +21,7 @@
 - [Aggregate pattern in Domain-Driven Design](https://medium.com/eventuous/aggregate-pattern-in-domain-driven-design-7ad823475099)
 - [DDD Beyond the Basics: Mastering Aggregate Design](https://medium.com/ssense-tech/ddd-beyond-the-basics-mastering-aggregate-design-26591e218c8c) ⭐
 - [Domain-Driven Design: A Walkthrough of Building an Aggregate](https://betterprogramming.pub/domain-driven-design-a-walkthrough-of-building-an-aggregate-c84113aa9975) ⭐
+- [Domain Driven Design: Patterns for Aggregate Creation Mastery](https://www.dandoescode.com/blog/domain-driven-design-patterns-for-aggregate-creation-mastery) ⭐
 
 ## 📺 Videos
 

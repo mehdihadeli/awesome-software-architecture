@@ -42,6 +42,11 @@
 - [System Design: URL Shortener](https://dev.to/karanpratapsingh/system-design-url-shortener-10i5)
 - [Understanding System Design of Netflix: Backend Architecture and Cloud Services](https://medium.com/@nidhiupreti99/understanding-system-design-of-netflix-backend-architecture-and-cloud-services-b077162e45bc)
 - [Netflix System Design- Backend Architecture](https://dev.to/gbengelebs/netflix-system-design-backend-architecture-10i3)
+- [How Uber Serves Over 40 Million Reads Per Second from Online Storage Using an Integrated Cache](https://www.uber.com/en-IN/blog/how-uber-serves-over-40-million-reads-per-second-using-an-integrated-cache/)
+- [How Uber Computes ETA at Half a Million Requests per Second](https://newsletter.systemdesign.one/p/uber-eta)
+- [How Instagram scaled to 14 million users with only 3 engineers](https://read.engineerscodex.com/p/how-instagram-scaled-to-14-million)
+- [How Uber Finds Nearby Drivers at 1 Million Requests per Second](https://newsletter.systemdesign.one/p/how-does-uber-find-nearby-drivers)
+
 ## 📺 Videos
 
 - [Distributed Computing](https://www.youtube.com/watch?v=ajjOEltiZm4) 

@@ -95,6 +95,7 @@
 - [Supporting Jaeger with native OTLP](https://deploy-preview-1892--opentelemetry.netlify.app/blog/2022/jaeger-native-otlp/)
 - [OTLP Specification 1.0.0](https://opentelemetry.io/docs/specs/otlp/)
 - [Introducing native support for OpenTelemetry in Jaeger](https://medium.com/jaegertracing/introducing-native-support-for-opentelemetry-in-jaeger-eb661be8183c)
+- [.NET Aspire dashboard is the best tool to visualize your OpenTelemetry data during local development](https://anthonysimmon.com/dotnet-aspire-dashboard-best-tool-visualize-opentelemetry-local-dev/)
 
 ## 📺 Videos
 - [Jimmy Bogard - Distributed Tracing Made Easy with .NET Core and OpenTelemetry](https://www.youtube.com/watch?v=s9UNr1oEMl4)
