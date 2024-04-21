@@ -31,3 +31,6 @@
 - [Aggregate Design: Using Invariants as a Guide](https://www.youtube.com/watch?v=64ngP-aUYPc) 
 - [Decomposing CRUD to a Task Based UI](https://www.youtube.com/watch?v=DjZepWrAKzM)
 - [ALWAYS Valid Domain Model](https://www.youtube.com/watch?v=JZetlRXdYeI)
+
+## Samples
+- [oskardudycz/slim-down-your-aggregate](https://github.com/oskardudycz/slim-down-your-aggregate)

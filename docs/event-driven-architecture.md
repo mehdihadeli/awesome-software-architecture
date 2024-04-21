@@ -56,6 +56,7 @@
 - [Error Handling in Event-Driven Systems](https://levelup.gitconnected.com/error-handling-in-event-driven-systems-1f0a7ef2cfb7)
 - [Internal and external events, or how to design event-driven API](https://event-driven.io/en/internal_external_events/)
 - [Event-Driven Architecture: What You Need to Know](https://encore.dev/blog/event-driven-architecture) ⭐
+- [Event modelling anti-patterns explained](https://event-driven.io/en/anti-patterns/)
 
 ## 📺 Videos
 - [Event-Driven Architecture | EDA | Software Architectural Patterns](https://www.youtube.com/watch?v=gIL8rW_eyww&t=0s) 

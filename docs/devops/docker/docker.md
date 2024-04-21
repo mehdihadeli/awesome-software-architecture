@@ -105,6 +105,7 @@
 - [Running Artifactory 7 and Postgres using Docker Compose V2](https://wangler.io/running-artifactory-7-using-docker-compose-v2/)
 - [Deploying JFrog Container Registry within a Dockerized infrastructure](https://medium.com/@tomer.klein/deploying-jfrog-container-registry-within-a-dockerized-infrastructure-a3f67328bd27)
 - [Create a Private Docker Registry with Nexus](https://www.ivankrizsan.se/2016/06/09/create-a-private-docker-registry/)
+- [Streamline your container build and publish with .NET 8](https://devblogs.microsoft.com/dotnet/streamline-container-build-dotnet-8/)
 
 ## 📹 Videos
 - [Deploy a .NET Core API with Docker (Step-by-Step)](https://www.youtube.com/watch?v=f0lMGPB10bM)
