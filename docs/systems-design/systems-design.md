@@ -3,7 +3,8 @@
 
 ## 📘 Resources
 
-- [System Design Weekly Newsletter](https://newsletter.systemdesign.one/)
+- [System Design Weekly Newsletter](https://newsletter.systemdesign.one/) - A resource to help you learn system design.
+- [systemdesign42/system-design](https://github.com/systemdesign42/system-design)
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 - [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies
 - [shashank88/system_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions

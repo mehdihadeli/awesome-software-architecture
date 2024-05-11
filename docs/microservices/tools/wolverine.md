@@ -30,6 +30,7 @@
 - [Conventional Message Routing in Wolverine](https://jeremydmiller.com/2024/03/19/conventional-message-routing-in-wolverine/)
 - [Wolverine’s Baked In Integration Testing Support](https://jeremydmiller.com/2024/03/25/wolverines-baked-in-integration-testing-support/)
 - [Testing Asynchronous Projections in Marten](https://jeremydmiller.com/2024/03/26/testing-asynchronous-projections-in-marten/)
+- [Critter Stack Improvements for Event Driven Architecture](https://jeremydmiller.com/2024/05/02/critter-stack-improvements-for-event-driven-architecture/)
 
 ## Videos
 

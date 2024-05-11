@@ -12,7 +12,12 @@
 - [Lesson 4 - Advanced Akka.Cluster Techniques DistributedPubSub, Sharding, and ClusterClient](https://petabridge.com/cluster/lesson4)
 - [Lesson 5 - Deploying Akka.Cluster in Kubernetes](https://petabridge.com/cluster/lesson5)
 - [Lesson 6 - Monitoring Akka.NET with Phobos](https://petabridge.com/cluster/lesson6)
+
 ## 🚀 Samples
 - [petabridge/akkadotnet-cluster-workshop](https://github.com/petabridge/akkadotnet-cluster-workshop) - Akka.NET + Kubernetes + Akka.Cluster Training Course
 - [petabridge/akka-bootcamp](https://github.com/petabridge/akka-bootcamp) - Self-paced training course to learn Akka.NET fundamentals from scratch
 - [petabridge/azure-container-app-akkadotnet](https://github.com/petabridge/azure-container-app-akkadotnet)
+- [petabridge/akkadotnet-code-samples](https://github.com/petabridge/akkadotnet-code-samples) - Akka.NET professional reference code samples
+
+## Libraries
+- [petabridge/TurboMqtt](https://github.com/petabridge/TurboMqtt) - The fastest Message Queue Telemetry Transport (MQTT) client for .NET.
