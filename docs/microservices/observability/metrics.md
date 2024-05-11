@@ -19,7 +19,8 @@
 - [MassTransit Prometheus Metrics](https://masstransit-project.com/advanced/monitoring/prometheus.html)
 - [Automatic Instrumentation of Containerized .NET Applications With OpenTelemetry](https://www.twilio.com/blog/automatic-instrumentation-of-containerized-dotnet-applications-with-opentelemetry)
 - [Observing .NET microservices with OpenTelemetry - logs, traces and metrics](https://blog.codingmilitia.com/2023/09/05/observing-dotnet-microservices-with-opentelemetry-logs-traces-metrics/)
-
+- [OpenTelemetry Collector Metrics - Prometheus - Grafana in .NET 8](https://www.mytechramblings.com/posts/getting-started-with-opentelemetry-metrics-and-dotnet-part-1)
+  
 ## 📺 Videos
 - [Measure All The Things with App Metrics - Mark Rendle](https://www.youtube.com/watch?v=YJgBAiPlG3k)
 - [How to collect metrics and create dashboards using Grafana, Prometheus and AppMetrics in .NET Core](https://www.youtube.com/watch?v=sM7D8biBf4k)
@@ -29,3 +30,4 @@
 
 ## Samples
 - [joaofbantunes/DotNetMicroservicesObservabilitySample](https://github.com/joaofbantunes/DotNetMicroservicesObservabilitySample) - Sample application looking into observability of .NET microservices, using popular tools and technologies like OpenTelemetry, Prometheus, Grafana and (potentially) others
+- [karlospn/opentelemetry-metrics-demo](https://github.com/karlospn/opentelemetry-metrics-demo) - This repository contains a practical example about how to use OpenTelemetry to add custom metrics to a .NET app, and how to visualize those metrics using Prometheus and Grafana.
