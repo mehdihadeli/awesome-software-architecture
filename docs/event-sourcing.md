@@ -156,6 +156,9 @@
 - [How to scale out Marten](https://event-driven.io/en/scaling_out_marten/)
 - [Implementing Closing the Books pattern](https://event-driven.io/en/closing_the_books_in_practice/)
 - [Explicit events serialisation in Event Sourcing](https://event-driven.io/en/explicit_events_serialisation_in_event_sourcing/)
+- [Marten, Metrics, and Open Telemetry Support](https://jeremydmiller.com/2024/04/30/marten-metrics-and-open-telemetry-support/)
+- [Marten, PostgreSQL, and .NET Aspire walk into a bar](https://jeremydmiller.com/2024/05/01/marten-postgresql-and-net-aspire-walk-into-a-bar/)
+- [Why you should batch message processing and how to do it with .NET AsyncEnumerable](https://event-driven.io/en/batching_async_enumerable/)
 
 ## 📺 Videos
 - [Event Sourcing Playlist - CodeOpinion](https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ)
@@ -212,6 +215,7 @@
 - [Event Sourcing in 1 Hour with Marten in .NET](https://www.youtube.com/watch?v=yWpuUHXLhYg)
 - [Event-driven revolution, from CRUD to Event Sourcing in practice - Oskar Dudycz - Devoxx For Ukraine](https://www.youtube.com/watch?v=V5_MMtfPpKs)
 - [How to model event-sourced systems efficiently - Oskar Dudycz - DDD Europe 2022](https://www.youtube.com/watch?v=gG6DGmYKk4I)
+- [Practical Introduction to Event Sourcing](https://www.youtube.com/watch?v=O3qbCuHvcPk)
 
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
@@ -282,3 +286,4 @@
 - [klimisa/aggregate-implementation-patterns-csharp](https://github.com/klimisa/aggregate-implementation-patterns-csharp) - Aggregate implementations workshop port to C#
 - [bitloops/ddd-hexagonal-cqrs-es-eda](https://github.com/bitloops/ddd-hexagonal-cqrs-es-eda) - Complete working example of using Domain Driven Design (DDD), Hexagonal Architecture, CQRS, Event Sourcing (ES), Event Driven Architecture (EDA), Behaviour Driven Development (BDD) using TypeScript and NestJS
 - [matt-bentley/AspNetCore.EventSourcing](https://github.com/matt-bentley/AspNetCore.EventSourcing) - Simple Event Sourcing implementation in ASP.NET with Entity Framework Core and MediatR
+- [JasperFx/CritterStackSamples](https://github.com/JasperFx/CritterStackSamples) - Samples using the "Critter Stack" Tools

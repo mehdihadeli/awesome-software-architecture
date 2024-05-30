@@ -15,6 +15,7 @@
 - [Transactional Outbox in .NET Cloud Native Development via Aspire](https://nikiforovall.github.io/dotnet/aspnetcore/aspire/2024/03/30/aspire-cap.html)
 - [.NET Aspire dashboard overview](https://learn.microsoft.com/en-us/dotnet/aspire/fundamentals/dashboard)
 - [Standalone Aspire dashboard sample app](https://learn.microsoft.com/en-us/samples/dotnet/aspire-samples/aspire-standalone-dashboard/)
+- [General Availability of .NET Aspire: Simplifying .NET Cloud-Native Development](https://devblogs.microsoft.com/dotnet/dotnet-aspire-general-availability/)
 
 ## Videos
 
@@ -34,3 +35,4 @@
 - [Depechie/OpenTelemetryGrafana](https://github.com/Depechie/OpenTelemetryGrafana) - OpenTelemetry and Grafana stack
 - [Djoufson/booky](https://github.com/Djoufson/booky) - Booky is an opinionated open source project to showcase microservices best practices from my (Djoufson) personal experience and preferences.
 - [laurentkempe/aspirePlayground](https://github.com/laurentkempe/aspirePlayground) - Some experiments around .NET Aspire to learn.
+- [oskardudycz/EventSourcing.NetCore/Sample/ECommerce](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/ECommerce)

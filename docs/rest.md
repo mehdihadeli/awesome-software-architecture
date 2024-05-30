@@ -41,5 +41,7 @@
 - [Principles & Best practices of REST API Design](https://blog.devgenius.io/best-practice-and-cheat-sheet-for-rest-api-design-6a6e12dfa89f)
 - [RESTful web API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 - [Web API implementation](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-implementation)
+- [ENSURING THE CORRECTNESS OF YOUR API](https://www.natmarchand.fr/ensuring-correctness-api/)
+
 ## 📺 Videos
 - [Nate Barbettini – API Throwdown: RPC vs REST vs GraphQL, Iterate 20](https://www.youtube.com/watch?v=IvsANO0qZEg)
