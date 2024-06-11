@@ -18,6 +18,8 @@ I created this repository to share a set of links that I found valuable and insp
 
 --------------------------
 
+Remember that each pattern has its own trade-offs. And you need to pay attention more to why you're choosing a certain pattern than to how to implement it.
+
 ## Contents
 - [Software Architecture](#software-architecture)
 - [Actor Model Architecture](#actor-model-architecture)
