@@ -9,6 +9,7 @@
 - [Control concurrency for shared resources in distributed systems with DLM (Distributed Lock Manager)](https://m-qafouri.medium.com/serialize-access-to-a-shared-resource-in-distributed-systems-with-dlm-distributed-lock-manager-5abf5e393e15)
 - [Solving Concurrency in Event-Driven Microservices](https://itnext.io/solving-concurrency-in-event-driven-microservices-79bbc13b597c)
 - [Distributed Locks with Redis](https://redis.io/docs/manual/patterns/distributed-locks/)
+- [LCL: A Lock Chain Length-based Distributed Algorithm for Deadlock Detection and Resolution](https://github.com/oceanbase/LCL)
 
 ## 📦 Libraries
 - [kidfashion/redlock-cs](https://github.com/kidfashion/redlock-cs) - Distributed lock with Redis and C# (based on http://redis.io/topics/distlock)
