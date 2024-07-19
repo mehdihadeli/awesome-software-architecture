@@ -23,6 +23,7 @@
 - [Receive modes in Azure Service Bus](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-queues-topics-subscriptions#receive-modes)
 - [Duplicate detection](https://learn.microsoft.com/en-us/azure/service-bus-messaging/duplicate-detection)
 - [What does idempotent mean in software systems?](https://particular.net/blog/what-does-idempotent-mean)
+- [Transactional outbox pattern meets distributed tracing and OpenTelemetry](https://blog.codingmilitia.com/2024/06/17/transactional-outbox-pattern-meets-distributed-tracing-and-opentelemetry/)
 
 ## 📺 Videos
 - [Reliably Save State & Publish Events (Outbox Pattern)](https://www.youtube.com/watch?v=u8fOnxAxKHk)
@@ -45,3 +46,4 @@
 - [seralaci/dotnet-microservices-data-exchange-with-outbox-pattern-debezium](https://github.com/seralaci/dotnet-microservices-data-exchange-with-outbox-pattern-debezium) - True Atomic Microservices Implementation with Debezium and Outbox Pattern to Ensure Data Consistency.
 - [oskardudycz/kafka-connect](https://github.com/oskardudycz/kafka-connect)
 - [bozd4g/FB.TransactionalOutbox](https://github.com/bozd4g/FB.TransactionalOutbox) - A sample Transactional Outbox Pattern implementation written with .NET Core.
+- [joaofbantunes/OutboxPatternMeetsOpenTelemetrySample](https://github.com/joaofbantunes/OutboxPatternMeetsOpenTelemetrySample)

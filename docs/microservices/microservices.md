@@ -266,6 +266,7 @@
 - [jeremydmiller/CritterStackHelpDesk](https://github.com/jeremydmiller/CritterStackHelpDesk) - My take on Oskar's Helpdesk sample application, but with Wolverine
 - [event-driven-dotnet/EventDriven.ReferenceArchitecture](https://github.com/event-driven-dotnet/EventDriven.ReferenceArchitecture) ⭐ - Reference architecture for using EventDriven abstractions and libraries for Domain Driven Design (DDD), Command-Query Responsibility Segregation (CQRS) and Event Driven Architecture (EDA).
 - [ebubekirdinc/SuuCat](https://github.com/ebubekirdinc/SuuCat) - SuuCat is a sample containerized application consisting of several microservices. Its purpose is to use microservice patterns in practice
+- [Physer/Microshop.NET](https://github.com/Physer/Microshop.NET) - A .NET e-commerce showcase in a event-driven microservices architecture
 
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)

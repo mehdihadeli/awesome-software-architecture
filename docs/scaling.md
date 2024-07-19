@@ -24,6 +24,7 @@
 - [Scaling services with Shard Manager](https://engineering.fb.com/2020/08/24/production-engineering/scaling-services-with-shard-manager/)
 - [Autoscaling](https://docs.microsoft.com/en-us/azure/architecture/best-practices/auto-scaling)
 - [When Scaling Is Not An Option: A Simple Asynchronous Pattern](https://betterprogramming.pub/when-scaling-is-not-an-option-a-simple-asynchronous-pattern-c84215a695a2)
+- [Scaling Backend to 1M requests with just 2GB ram](https://dev.to/rikenshah/scaling-backend-to-1m-requests-with-just-2gb-ram-4m0c)
 
 ## 📺 Videos
 - [AWS re:Invent 2019: [REPEAT] Scaling up to your first 10 million users ](https://www.youtube.com/watch?v=kKjm4ehYiMs)

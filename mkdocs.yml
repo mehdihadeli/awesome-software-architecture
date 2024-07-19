@@ -263,7 +263,6 @@ nav:
     - Diagnostics: microservices/observability/diagnostics.md
     - Logging: microservices/observability/logging.md
     - Monitoring: microservices/observability/monitoring.md
-    - Metrics: microservices/observability/metrics.md
     - Tools:
       - EFK: microservices/observability/tools/efk.md
       - ELK: microservices/observability/tools/efk.md

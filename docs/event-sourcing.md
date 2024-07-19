@@ -159,6 +159,8 @@
 - [Marten, Metrics, and Open Telemetry Support](https://jeremydmiller.com/2024/04/30/marten-metrics-and-open-telemetry-support/)
 - [Marten, PostgreSQL, and .NET Aspire walk into a bar](https://jeremydmiller.com/2024/05/01/marten-postgresql-and-net-aspire-walk-into-a-bar/)
 - [Why you should batch message processing and how to do it with .NET AsyncEnumerable](https://event-driven.io/en/batching_async_enumerable/)
+- [Persistent vs catch-up, EventStoreDB subscriptions in action](https://event-driven.io/en/persistent_vs_catch_up_eventstoredb_subscriptions_in_action/)
+- [Filtering EventStoreDB subscriptions by event types](https://event-driven.io/en/filtering_eventstoredb_subscriptions_by_event_types/)
 
 ## 📺 Videos
 - [Event Sourcing Playlist - CodeOpinion](https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ)
@@ -216,6 +218,8 @@
 - [Event-driven revolution, from CRUD to Event Sourcing in practice - Oskar Dudycz - Devoxx For Ukraine](https://www.youtube.com/watch?v=V5_MMtfPpKs)
 - [How to model event-sourced systems efficiently - Oskar Dudycz - DDD Europe 2022](https://www.youtube.com/watch?v=gG6DGmYKk4I)
 - [Practical Introduction to Event Sourcing](https://www.youtube.com/watch?v=O3qbCuHvcPk)
+- [Student Enrollment with EventStoreDB (an introduction to Event Sourcing)](https://www.youtube.com/watch?v=SB55-lgK_8I)
+- [Getting Started with Event Sourcing in .NET](https://www.youtube.com/watch?v=n_o-xuuVtmw)
 
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET

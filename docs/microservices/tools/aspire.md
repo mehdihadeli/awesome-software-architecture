@@ -1,5 +1,8 @@
 # Aspire
 
+## Resources
+- [Asipre Docs](https://learn.microsoft.com/en-us/dotnet/aspire/)
+
 ## Articles
 
 - [.NET Aspire overview](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview)
@@ -16,6 +19,7 @@
 - [.NET Aspire dashboard overview](https://learn.microsoft.com/en-us/dotnet/aspire/fundamentals/dashboard)
 - [Standalone Aspire dashboard sample app](https://learn.microsoft.com/en-us/samples/dotnet/aspire-samples/aspire-standalone-dashboard/)
 - [General Availability of .NET Aspire: Simplifying .NET Cloud-Native Development](https://devblogs.microsoft.com/dotnet/dotnet-aspire-general-availability/)
+- [Learn .NET Aspire by example: Polyglot persistence featuring PostgreSQL, Redis, MongoDB, and Elasticsearch](https://nikiforovall.github.io/dotnet/aspire/2024/06/18/polyglot-persistance-with-aspire.html)
 
 ## Videos
 
@@ -36,3 +40,5 @@
 - [Djoufson/booky](https://github.com/Djoufson/booky) - Booky is an opinionated open source project to showcase microservices best practices from my (Djoufson) personal experience and preferences.
 - [laurentkempe/aspirePlayground](https://github.com/laurentkempe/aspirePlayground) - Some experiments around .NET Aspire to learn.
 - [oskardudycz/EventSourcing.NetCore/Sample/ECommerce](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/ECommerce)
+- [NikiforovAll/social-media-app-aspire](https://github.com/NikiforovAll/social-media-app-aspire) - Polyglot persistence via Aspire
+- [thangchung/practical-dotnet-aspire](https://github.com/thangchung/practical-dotnet-aspire) - The practical .NET Aspire builds on the coffeeshop app business domain

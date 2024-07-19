@@ -21,3 +21,4 @@
 
 ## Libraries
 - [petabridge/TurboMqtt](https://github.com/petabridge/TurboMqtt) - The fastest Message Queue Telemetry Transport (MQTT) client for .NET.
+- [akkadotnet/akkadotnet-templates](https://github.com/akkadotnet/akkadotnet-templates) - Production-ready dotnet new templates for Akka.NET

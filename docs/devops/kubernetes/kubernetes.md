@@ -75,7 +75,7 @@
 - [How to quickly replace environment variables in a file](https://skofgar.ch/dev/2020/08/how-to-quickly-replace-environment-variables-in-a-file/) ⭐
 - [Using envsubst to Merge Environment Variables into Config Files](https://nickjanetakis.com/blog/using-envsubst-to-merge-environment-variables-into-config-files)
 - [Service](https://kubernetes.io/docs/concepts/services-networking/service/) ⭐
-- [Pods](kubernetes.io/docs/concepts/workloads/pods/)
+- [Pods](https://kubernetes.io/docs/concepts/workloads/pods/)
 - [Ingress](https://kubernetes.io/docs/concepts/services-networking/ingress/)
 - [Deployments](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
 - [Annotations](https://kubernetes.io/docs/concepts/overview/working-with-objects/annotations/)
@@ -96,6 +96,9 @@
 - [Configure Access to Multiple Clusters](https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/) ⭐
 - [3 questions to answer when considering a multi-cluster Kubernetes architecture](https://www.redhat.com/architect/multi-cluster-kubernetes-architecture) ⭐
 - [Architecting Kubernetes clusters — how many should you have?](https://learnk8s.io/how-many-clusters) ⭐
+- [Developing and debugging services locally using telepresence](https://kubernetes.io/docs/tasks/debug/debug-cluster/local-debugging/)
+- [Adding health checks with Liveness, Readiness, and Startup probes](https://andrewlock.net/deploying-asp-net-core-applications-to-kubernetes-part-6-adding-health-checks-with-liveness-readiness-and-startup-probes/)
+
 ## 📺 Videos
 - [Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]](https://www.youtube.com/watch?v=X48VuDVv0do)
 - [Kubernetes Daemonsets explained | Tutorial | Kubernetes Guide](https://www.youtube.com/watch?v=RGSeeN-o-kQ)
@@ -160,6 +163,7 @@
 - [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources!
 - [komodorio/validkube](https://github.com/komodorio/validkube) - ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene & security.
 - [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig 
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions
 
 ## 🚀 Samples
 - [arashkaffamanesh/practical-kubernetes-problems](https://github.com/arashkaffamanesh/practical-kubernetes-problems) - For Kubernauts' Practical Kubernetes Trainings
@@ -178,6 +182,7 @@
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [fluxcd/flux2-kustomize-helm-example](https://github.com/fluxcd/flux2-kustomize-helm-example) - A GitOps workflow example for multi-env deployments with Flux, Kustomize and Helm.
 - [bravecobra/k8s-dev-infrastructure](https://github.com/bravecobra/k8s-dev-infrastructure) - A local dev infrastructure on k8s, providing networking, telemetry and saas services
+- [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) ⭐ - Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks, Production-Ready Checklist - experience from several production environments
 
 ## 📚 Books
 - [Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications](https://www.amazon.com/Kubernetes-Patterns-Designing-Cloud-Native-Applications/dp/1492050288)

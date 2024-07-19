@@ -31,9 +31,15 @@
 ## Tools
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
 - [arttor/helmify](https://github.com/arttor/helmify) - Creates Helm chart from Kubernetes yaml
+- [helm-unittest/helm-unittest](https://github.com/helm-unittest/helm-unittest) - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin
 
 ## 🚀 Samples
 - [kimcu-on-thenet/dnc-k8s-helm](https://github.com/kimcu-on-thenet/dnc-k8s-helm) - An extremely simple .NET Core web api within EntityFrameworkCore which will be deployed in k8s by both kubectl and helm
 - [okteto/movies-with-helm](https://github.com/okteto/movies-with-helm) - Movies App deployed with Helm
-- [marcel-dempers/docker-development-youtube-series/kubernetes/helm](https://github.com/marcel-dempers/docker-development-youtube-series/tree/master/kubernetes/helm)
-- [thinktecture-labs/cloud-native-sample](https://github.com/thinktecture-labs/cloud-native-sample/tree/main/charts)
+- [thinktecture-labs/cloud-native-sample](https://github.com/thinktecture-labs/cloud-native-sample/tree/main/charts) - Sample application to demonstrate how to build, orchestrate, and automate a polyglot cloud-native application
+- [https://github.com/energywebfoundation/generic-microservices-helm](https://github.com/energywebfoundation/generic-microservices-helm) - Generic Helm Chart for Deployments
+- [https://github.com/cetic/helm-microservice](https://github.com/cetic/helm-microservice) - A Helm Chart for DRY microservice deployments
+- [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
+- [hextrust/generic-helm-chart](https://github.com/hextrust/generic-helm-chart) - Helm Chart Template for standard microservice provisioning
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
+- [baloise-incubator/generic-chart](https://github.com/baloise-incubator/generic-chart) - General purpose Helm Chart

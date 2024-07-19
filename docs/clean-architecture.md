@@ -49,6 +49,7 @@
 - [Clean Architecture — ASP.NET Core API using Partitioned Repository Pattern with Azure Cosmos DB](https://medium.com/swlh/clean-architecture-with-partitioned-repository-pattern-using-azure-cosmos-db-62241854cbc5)
 - [Onion Architecture in ASP.NET Core](https://code-maze.com/onion-architecture-in-aspnetcore/)
 - [Implementing Clean Architecture in ASP.NET Application](https://harshmatharu.com/blog/clean-architecture-in-aspnet)
+- [Clean Architecture in .NET - code-maze.com](https://code-maze.com/dotnet-clean-architecture/) ⭐
 
 ## 📺 Videos
 - [Clean Testing - Clean Architecture with .NET Core - Jason Taylor - NDC Oslo 2020](https://www.youtube.com/watch?v=T6NRcX1vnz8) 
