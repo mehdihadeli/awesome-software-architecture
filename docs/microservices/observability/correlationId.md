@@ -18,5 +18,8 @@
 - [Capturing and forwarding correlation IDs in ASP.NET Core](https://vgaltes.com/post/forwarding-correlation-ids-in-aspnetcore/)
 - [Header propagation using ASP.NET Core](https://craftbakery.dev/http-header-propagation-aspnet-core/)
 - [Request Header Propagation In .NET Core Web Applications](https://thecodeblogger.com/2021/05/25/request-header-propagation-in-net-core-web-applications/)
+- [CorrelationId Tracing in .NET Microservices with HTTP and MassTransit](https://berkselvi.dev/posts/correlationid-tracing-net-microservices-with-http-and-rabbitmq/)
+- [How to propagate HTTP Headers (and Correlation IDs) using HttpClients in C#](https://www.code4it.dev/blog/propagate-httpheader-and-correlation-id/)
+
 ## 📦 Libraries
 - [Microsoft.AspNetCore.HeaderPropagation](https://www.nuget.org/packages/Microsoft.AspNetCore.HeaderPropagation/)
