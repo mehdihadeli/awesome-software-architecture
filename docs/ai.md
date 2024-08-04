@@ -72,6 +72,7 @@
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean HTML/Tailwind/JS code
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ⭐ - Build context-aware reasoning applications
+- [meta-llama/llama-models](https://github.com/meta-llama/llama-models)
 
 ## Samples
 - [Azure-Samples/openai-dotnet-samples](https://github.com/Azure-Samples/openai-dotnet-samples)
