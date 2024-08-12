@@ -233,7 +233,7 @@ I created this repository to share a set of links that I found valuable and insp
 | Topic | Description |
 |:-------:|:----------- |
 | [Design Patterns](docs/design-patterns/design-patterns.md) | A comprehensive list of design patterns with examples and explanations of how they can be used to solve common software design   problems. 
-| [Adapter Pattern](docs/design-patterns/adapter-pattern.md) |  The Adapter Pattern is a structural design pattern that allows objects with incompatible interfaces to work together by providing a wrapper that adapts the interface of one object to match the interface of another. 
+| [Adapter Pattern](docs/design-patterns/adapter-pattern.md) |  The Adapter Pattern is a structural design pattern that allows objects with incompatible interfaces to work together by providing a wrapper that adapts the interface of one object to match the interface of another. Actually The Adapter acts as a wrapper between two objects. It catches calls for one object and transforms them to format and interface recognizable by the second object. 
 | [AutoPilot](docs/design-patterns/autopilot.md) |The AutoPilot pattern is a behavioral design pattern that automates the decision-making process within a system, allowing it to operate independently with minimal human intervention. This pattern is often used in systems that require continuous operation and adaptive responses to changing conditions.
 | [Builder](docs/design-patterns/builder.md) | TODO...
 | [Chain of Responsibility](docs/design-patterns/chain-of-responsibility.md) | TODO...
