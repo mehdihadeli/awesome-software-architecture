@@ -158,7 +158,6 @@ nav:
   - Thin Controllers: design-best-practices/thin-controllers.md
 - Design Patterns:
   - Adapter Pattern: design-patterns/adapter-pattern.md
-  - AutoPilot Pattern: design-patterns/autopilot.md
   - Builder Pattern: design-patterns/builder.md
   - Chain Of Responsibility: design-patterns/chain-of-responsibility.md
   - Command Message Pattern: design-patterns/command-message-pattern.md
