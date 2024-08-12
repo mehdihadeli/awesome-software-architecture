@@ -101,4 +101,4 @@
 ## 🚀 Samples
 
 - [AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing](https://github.com/AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing) - The main objective of this cloud-native project is to represent the state of the art of a distributed, reliable, and highly scalable system by interpreting the most relevant principles of Reactive Domain Driven Design.
-- [rkudryashov/event-driven-architecture](https://github.com/rkudryashov/event-driven-architecture) - The accompanying project for the [article](https://romankudryashov.com/blog/2024/07/event-driven-architecture). It demonstrates the implementation of the event-driven architecture (Transactional outbox, Inbox, and Saga patterns) on the modern stack of Java technologies: Kotlin, Spring Boot, Apache Kafka, Kafka Connect, Debezium, CloudEvents, and others.
+- [rkudryashov/event-driven-architecture](https://github.com/rkudryashov/event-driven-architecture) Event-driven architecture (Transactional outbox, Inbox, and Saga patterns) on the modern stack of Java technologies.
