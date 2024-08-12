@@ -109,8 +109,11 @@
 - [How To Run Docker in Docker Container [3 Easy Methods]](https://devopscube.com/run-docker-in-docker/)
 
 ## 📹 Videos
+- [Complete Docker Course - From BEGINNER to PRO! (Learn Containers)](https://www.youtube.com/watch?v=RqTEHSBrYFw)
+- [Docker Crash Course for Absolute Beginners ](https://www.youtube.com/watch?v=pg19Z8LL06w)
 - [Deploy a .NET Core API with Docker (Step-by-Step)](https://www.youtube.com/watch?v=f0lMGPB10bM)
 - [Docker Tutorial for Beginners [FULL COURSE in 3 Hours](https://www.youtube.com/watch?v=3c-iBn73dDE)
+- [Docker Tutorial for Beginners - A Full DevOps Course on How to Run Applications in Containers](https://www.youtube.com/watch?v=fqMOX6JJhGo)
 - [How to push a container image to a Docker Repo | Azure Tips and Tricks](https://www.youtube.com/watch?v=r_tGl4zF1ZQ)
 - [Dockerize .NET 6 in 10 Minutes](https://www.youtube.com/watch?v=3s-RfwvijpY)
 - [Docker networking is CRAZY!! (you NEED to learn it)](https://www.youtube.com/watch?v=bKFMS5C4CG0)

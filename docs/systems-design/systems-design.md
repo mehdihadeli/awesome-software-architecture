@@ -24,6 +24,7 @@
 - [cheatsnake/backend-cheats](https://github.com/cheatsnake/backend-cheats) - Homepage for Backend developers
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews
 - [CodingChallenges](https://codingchallenges.fyi/challenges/intro)
+- [IGotAnOffer-Engineering Youtube Channel](https://www.youtube.com/@IGotAnOffer-Engineering)
 
 ## 📕 Articles
 - [System Design: Slack](https://newsletter.systemdesign.one/p/messaging-architecture)
@@ -65,6 +66,7 @@
 - [System Design Interview Course - tryexponent](https://www.tryexponent.com/courses/system-design-interview)
 - [Distributed Systems lecture series - Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 - [Real-Time Delivery Architecture at Twitter](https://www.youtube.com/watch?v=J5auCY4ajK8)
+- [Google system design interview: Design Spotify (with ex-Google EM)](https://www.youtube.com/watch?v=_K-eupuDVEc)
 
 ## 📚 Books
 - [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)

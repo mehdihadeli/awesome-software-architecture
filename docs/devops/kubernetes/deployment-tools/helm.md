@@ -14,6 +14,7 @@
 - [How to Create Helm Chart [Comprehensive Beginners Guide]](https://devopscube.com/create-helm-chart/) ⭐
 - [Combining Helm and Kustomize: When, Why, and How?](https://ahmedelfakharany.com/combining-helm-and-kustomize-when-why-and-how-96a3483310db)
 - [Helm vs Kustomize: why, when, and how](https://ahmedelfakharany.com/helm-vs-kustomize-why-when-and-how-5d5ba0f80234)
+- [What the Helm?!](https://dev.to/cyclops-ui/what-the-helm-155f)
 
 ## 📺 Videos
 - [The Automation Challenge: Kubernetes Operators vs Helm Charts • Ana-Maria Mihalceanu • GOTO 2021](https://www.youtube.com/watch?v=dGx8PjmWkyM)
@@ -43,3 +44,7 @@
 - [hextrust/generic-helm-chart](https://github.com/hextrust/generic-helm-chart) - Helm Chart Template for standard microservice provisioning
 - [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
 - [baloise-incubator/generic-chart](https://github.com/baloise-incubator/generic-chart) - General purpose Helm Chart
+
+## Public Charts
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
+- [artifacthub/hub](https://github.com/artifacthub/hub) - Find, install and publish Cloud Native packages

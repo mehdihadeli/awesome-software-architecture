@@ -62,6 +62,7 @@
 - [CLEANUP CODE FOR CLEANING UP QUEUES AND EXCHANGES ON RABBITMQ](https://www.planetgeek.ch/2015/08/31/cleanup-code-for-cleaning-up-queues-and-exchanges-on-rabbitmq/)
 - [Dead Letter Exchanges](https://www.rabbitmq.com/dlx.html)
 - [FAQ: When and how to use the RabbitMQ Dead Letter Exchange](https://www.cloudamqp.com/blog/when-and-how-to-use-the-rabbitmq-dead-letter-exchange.html) ⭐
+- [Native AMQP 1.0](https://www.rabbitmq.com/blog/2024/08/05/native-amqp)
 
 ## 📺 Videos
 - [The best online training tool for RabbitMQ](https://training.cloudamqp.com/)
@@ -104,6 +105,7 @@
 - [pardahlman/RawRabbit](https://github.com/pardahlman/RawRabbit) - A modern .NET framework for communication over RabbitMq
 - [MassTransit/MassTransit/](https://github.com/MassTransit/MassTransit/) - Distributed Application Framework for .NET
 - [JasperFx/wolverine/](https://github.com/JasperFx/wolverine/) - Next Generation .NET Command and Message Bus
+- [rabbitmq/rabbitmq-amqp-dotnet-client](https://github.com/rabbitmq/rabbitmq-amqp-dotnet-client)
 
 ## 🚀 Samples
 - [hrabbitmq/rabbitmq-tutorials/dotnet-6](https://github.com/rabbitmq/rabbitmq-tutorials/tree/master/dotnet-6)

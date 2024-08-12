@@ -4,7 +4,6 @@
 - [Asipre Docs](https://learn.microsoft.com/en-us/dotnet/aspire/)
 
 ## Articles
-
 - [.NET Aspire overview](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview)
 - [Introducing .NET Aspire: Simplifying Cloud-Native Development with .NET 8](https://devblogs.microsoft.com/dotnet/introducing-dotnet-aspire-simplifying-cloud-native-development-with-dotnet-8/)
 - [Announcing .NET Aspire Preview 2](https://devblogs.microsoft.com/dotnet/announcing-dotnet-aspire-preview-2/)
@@ -20,9 +19,9 @@
 - [Standalone Aspire dashboard sample app](https://learn.microsoft.com/en-us/samples/dotnet/aspire-samples/aspire-standalone-dashboard/)
 - [General Availability of .NET Aspire: Simplifying .NET Cloud-Native Development](https://devblogs.microsoft.com/dotnet/dotnet-aspire-general-availability/)
 - [Learn .NET Aspire by example: Polyglot persistence featuring PostgreSQL, Redis, MongoDB, and Elasticsearch](https://nikiforovall.github.io/dotnet/aspire/2024/06/18/polyglot-persistance-with-aspire.html)
+- [Adding .NET Aspire to your existing .NET apps](https://devblogs.microsoft.com/dotnet/adding-dotnet-aspire-to-your-existing-dotnet-apps/)
 
 ## Videos
-
 - [Building Cloud Native apps with .NET 8 | .NET Conf 2023](https://www.youtube.com/watch?v=z1M-7Bms1Jg)
 - [What Is .NET Aspire? The Insane Future of .NET!](https://www.youtube.com/watch?v=DORZA_S7f9w)
 - [WHY and HOW to Add .NET Aspire to ANY .NET API and Web App in Minutes](https://www.youtube.com/watch?v=fN3ufsIF7vs)

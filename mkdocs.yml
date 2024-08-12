@@ -184,6 +184,7 @@ nav:
     - Docker Compose: devops/docker/docker-compose.md
   - Kubernetes:
     - Kubernetes: devops/kubernetes/kubernetes.md
+    - Debuging & Development: devops/kubernetes/debuging-development.md
     - Deployment Strategies: devops/kubernetes/deployment-strategies.md
     - Deployment Tools:
       - Argo-CD: devops/kubernetes/deployment-tools/argo-cd.md
@@ -196,10 +197,12 @@ nav:
       - Nginx Ingress: devops/kubernetes/nginx-ingress.md
       - Traefik Ingress: devops/kubernetes/traefik-ingress.md
     - Other Tools:
-      - K3s: devops/kubernetes/other-tools/k3s.md
-      - Telepresence: devops/kubernetes/other-tools/telepresence.md
-      - Telepresence: devops/kubernetes/other-tools/telepresence.md
       - Garden: devops/kubernetes/other-tools/garden.md
+      - K3s: devops/kubernetes/other-tools/k3s.md
+      - Mirrord: devops/kubernetes/other-tools/mirrord.md
+      - Okteto: devops/kubernetes/other-tools/okteto.md
+      - Skaffold: devops/kubernetes/other-tools/skaffold.md
+      - Telepresence: devops/kubernetes/other-tools/telepresence.md
       - Tilt: devops/kubernetes/other-tools/tilt.md
   - Terminal:
     - Bash: devops/terminal/bash.md

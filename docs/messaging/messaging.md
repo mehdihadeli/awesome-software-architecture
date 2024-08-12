@@ -86,6 +86,7 @@
 - [Define messages as POCO, interfaces, or records. Does it really matter?](https://milestone.topics.it/2023/10/31/defining-messages.html)
 - [Internal and external events, or how to design event-driven API](https://event-driven.io/en/internal_external_events/)
 - [9 PROCESSING PATTERNS](https://www.messagehandler.net/patterns/)
+- [7 Message Metadata Patterns Every Developer Should Know](https://thehonestcoder.com/7-message-metadata-patterns/)
 
 ## 📺 Videos
 

@@ -30,7 +30,9 @@
 - [Hosting ASP.NET Core images with Docker Compose over HTTPS](https://learn.microsoft.com/en-us/aspnet/core/security/docker-compose-https?view=aspnetcore-7.0)
 - [How to Secure Sensitive Data With Docker Compose Secrets](https://www.howtogeek.com/devops/how-to-secure-sensitive-data-with-docker-compose-secrets/)
 - [How to Keep Docker Secrets When Working with Sensitive Data?](https://www.cherryservers.com/blog/how-to-keep-docker-secrets-when-working-with-sensitive-data)
+
 ## 📺 Videos
+- [Ultimate Docker Compose Tutorial](https://www.youtube.com/watch?v=SXwC9fSwct8)
 - [Best Practices Around Production Ready Web Apps with Docker Compose](https://www.youtube.com/watch?v=T--X3v2pwtU)
 - [Docker Compose will BLOW your MIND!! (a tutorial)](https://www.youtube.com/watch?v=DM65_JyGxCo)
 
