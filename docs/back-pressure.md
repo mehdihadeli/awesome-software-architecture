@@ -14,3 +14,4 @@
 - [Back Pressure in Action](https://www.youtube.com/watch?v=dsuvnoEezxs)
 - [Avoiding a QUEUE Backlog Disaster with Backpressure & Flow Control](https://www.youtube.com/watch?v=BIGiLJJlE08)
 - [It's all a Numbers Game - the Dirty Little Secret of Scalable Systems • Martin Thompson • GOTO 2012](https://www.youtube.com/watch?v=1KRYH75wgy4)
+- [Backpressure Explained - Akka .NET](https://www.youtube.com/watch?v=0KYoIvrM9VY)

@@ -14,6 +14,7 @@
 - [How to Create Helm Chart [Comprehensive Beginners Guide]](https://devopscube.com/create-helm-chart/) ⭐
 - [Combining Helm and Kustomize: When, Why, and How?](https://ahmedelfakharany.com/combining-helm-and-kustomize-when-why-and-how-96a3483310db)
 - [Helm vs Kustomize: why, when, and how](https://ahmedelfakharany.com/helm-vs-kustomize-why-when-and-how-5d5ba0f80234)
+- [What the Helm?!](https://dev.to/cyclops-ui/what-the-helm-155f)
 
 ## 📺 Videos
 - [The Automation Challenge: Kubernetes Operators vs Helm Charts • Ana-Maria Mihalceanu • GOTO 2021](https://www.youtube.com/watch?v=dGx8PjmWkyM)
@@ -31,9 +32,19 @@
 ## Tools
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
 - [arttor/helmify](https://github.com/arttor/helmify) - Creates Helm chart from Kubernetes yaml
+- [helm-unittest/helm-unittest](https://github.com/helm-unittest/helm-unittest) - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin
 
 ## 🚀 Samples
 - [kimcu-on-thenet/dnc-k8s-helm](https://github.com/kimcu-on-thenet/dnc-k8s-helm) - An extremely simple .NET Core web api within EntityFrameworkCore which will be deployed in k8s by both kubectl and helm
 - [okteto/movies-with-helm](https://github.com/okteto/movies-with-helm) - Movies App deployed with Helm
-- [marcel-dempers/docker-development-youtube-series/kubernetes/helm](https://github.com/marcel-dempers/docker-development-youtube-series/tree/master/kubernetes/helm)
-- [thinktecture-labs/cloud-native-sample](https://github.com/thinktecture-labs/cloud-native-sample/tree/main/charts)
+- [thinktecture-labs/cloud-native-sample](https://github.com/thinktecture-labs/cloud-native-sample/tree/main/charts) - Sample application to demonstrate how to build, orchestrate, and automate a polyglot cloud-native application
+- [https://github.com/energywebfoundation/generic-microservices-helm](https://github.com/energywebfoundation/generic-microservices-helm) - Generic Helm Chart for Deployments
+- [https://github.com/cetic/helm-microservice](https://github.com/cetic/helm-microservice) - A Helm Chart for DRY microservice deployments
+- [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
+- [hextrust/generic-helm-chart](https://github.com/hextrust/generic-helm-chart) - Helm Chart Template for standard microservice provisioning
+- [stakater/application](https://github.com/stakater/application) - Generic helm chart for all kind of applications
+- [baloise-incubator/generic-chart](https://github.com/baloise-incubator/generic-chart) - General purpose Helm Chart
+
+## Public Charts
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
+- [artifacthub/hub](https://github.com/artifacthub/hub) - Find, install and publish Cloud Native packages

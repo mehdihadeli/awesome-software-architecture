@@ -52,8 +52,9 @@
 - [Vertical Software Development](https://medium.com/ssense-tech/vertical-software-development-495b73f7fcdf)
 - [Vertical Slices in practice](https://event-driven.io/en/-vertical_slices_in_practice/) ⭐
 - [Low Ceremony Vertical Slice Architecture with Wolverine](https://jeremydmiller.com/2023/07/10/low-ceremony-vertical-slice-architecture-with-wolverine/)
-[Compiled Queries with Marten](https://jeremydmiller.com/2023/07/12/compiled-queries-with-marten/)
+- [Compiled Queries with Marten](https://jeremydmiller.com/2023/07/12/compiled-queries-with-marten/)
 - [Vertical Slice Architecture in ASP.NET Core](https://blog.ndepend.com/vertical-slice-architecture-in-asp-net-core/) ⭐
+- [There is no template for vertical slicing](https://www.dateo-software.de/blog/no-vertical-slicing-template)
 
 ## 📺 Videos
 - [SOLID Architecture in Slices not Layers - Jimmy Bogard](https://vimeo.com/131633177)
@@ -69,6 +70,9 @@
 - [Tired of Layers? Vertical Slice Architecture to the rescue!](https://www.youtube.com/watch?v=lsddiYwWaOQ)
 - [Vertical Slice Architecture, not Layers!](https://www.youtube.com/watch?v=L2Wnq0ChAIA) ⭐
 - [A Contrarian View of Software Architecture - Jeremy Miller - NDC Oslo 2023](https://www.youtube.com/watch?v=ttYQzHPe5s4)
+- [Battle Of The Software Architectures: Which One Reigns Supreme?](https://www.youtube.com/watch?v=VbuJaH7mKIc)
+- [Vertical Slice Architecture Myths You Need To Know!](https://www.youtube.com/watch?v=TfMArQnepco)
+- [Vertical Slice Architecture (Jimmy Bogard)](https://www.youtube.com/watch?v=oAoaMlS1PWo)
 
 ## 🚀 Samples
 - [jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages) 
@@ -90,7 +94,6 @@
 - [oskardudycz/EventSourcing.NetCore/MeetingsManagement](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/MeetingsManagement)
 - [oskardudycz/EventSourcing.JVM](https://github.com/oskardudycz/EventSourcing.JVM) - Examples and Tutorials of Event Sourcing in JVM languages
 - [Hona/VerticalSliceArchitecture](https://github.com/Hona/VerticalSliceArchitecture) - A small but opinionated Vertical Slice Architecture solution template for .NET 8
-## 📚 Books
-- [An Atypical ASP.NET Core 5 Design Patterns Guide](https://www.packtpub.com/product/an-atypical-asp-net-core-5-design-patterns-guide/9781789346091)
+- [baranacikgoz/modular-monolith-ddd-vsa-webapi](https://github.com/baranacikgoz/modular-monolith-ddd-vsa-webapi) - A .NET 8 Webapi boilerplate with Modular Monolith approach, Domain-Driven Design and Vertical Slices architecture along with Clean Architecture principles per feature
 
 

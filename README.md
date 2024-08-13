@@ -56,7 +56,6 @@ I created this repository to share a set of links that I found valuable and insp
 - [Messaging](#messaging)
 - [Distributed Transactions](#distributed-transactions)
 - [Distributed Locking](#distributed-locking)
-- [Eventual Consistency](#eventual-consistency)
 - [RESTful API Design](#rest)
 - [gRPC](#grpc)
 - [Caching](#caching)
@@ -178,7 +177,6 @@ I created this repository to share a set of links that I found valuable and insp
 | [Observability](docs/microservices/observability/observability.md) | An exploration of the concept of observability in microservices architecture, which involves the ability to monitor and debug distributed systems, and the different techniques and tools for achieving observability, such as logging, tracing, health checks ,and monitoring.
 | [Observability - Distributed Tracing](docs/microservices/observability/distributed-tracing.md) | A deep dive into the use of distributed tracing as a tool for achieving observability in microservices architecture, including an overview of how distributed tracing works, common tracing frameworks, and how to instrument microservices for tracing.
 | [Observability - Monitoring](docs/microservices/observability/monitoring.md) | An overview of the different types of monitoring that can be used in microservices architecture, such as system monitoring, application monitoring, and business monitoring, and the different tools and approaches for monitoring microservices.
-| [Observability - Metrics](docs/microservices/observability/metrics.md) | An exploration of the use of metrics as a tool for achieving observability in microservices architecture, including an overview of the different types of metrics, how to collect and store metrics, and how to use metrics for monitoring and alerting.
 | [Observability - Diagnostics](docs/microservices/observability/diagnostics.md) | An overview of the different techniques and tools for diagnosing and debugging issues in microservices architecture, including log analysis.
 | [Observability - Logging](docs/microservices/observability/logging.md) | Logging is an important aspect of observability in microservices architecture. This topic covers different logging frameworks and strategies used for monitoring and troubleshooting distributed systems.
 | [Observability - CorrelationId](docs/microservices/observability/correlationId.md) | Correlation ID is a technique used to track requests across multiple microservices. This topic explains what Correlation ID is and how it is implemented in a distributed system.
@@ -223,20 +221,19 @@ I created this repository to share a set of links that I found valuable and insp
 | [GRASP](docs/architectural-design-principles/grasp.md) | The General Responsibility Assignment Software Patterns (GRASP) are a set of guidelines for assigning responsibilities to objects and modules in a software system. |
 | [Interface Segregation](docs/architectural-design-principles/interface-segregation.md) | The Interface Segregation principle, which states that clients should not be forced to depend on interfaces they do not use, and that interfaces should be designed to be cohesive and focused on a single purpose. |
 | [Inversion Control](docs/architectural-design-principles/inversion-control.md) | The Inversion of Control (IoC) pattern, which is a technique for decoupling the dependencies between modules or components in a system, by inverting the direction of the dependencies. |
-| [KIIS](docs/architectural-design-principles/kiss.md) | Keep It Simple, Stupid (KISS) is a design principle that encourages keeping systems and solutions as simple as possible to avoid unnecessary complexity and increase maintainability. |
+| [KISS](docs/architectural-design-principles/kiss.md) | Keep It Simple, Stupid (KISS) is a design principle that encourages keeping systems and solutions as simple as possible to avoid unnecessary complexity and increase maintainability. |
 | [Open Closed Principles](docs/architectural-design-principles/open-closed-principles.md) | The Open-Closed Principle (OCP) is a design principle that promotes the idea of writing code that is open to extension but closed to modification, meaning that new features should be added to a system without changing its existing codebase. |
 | [Persistence Ignorance](docs/architectural-design-principles/persistence-ignorance.md) | Persistence Ignorance (PI) is a design principle that encourages decoupling business logic from persistence logic to increase flexibility, maintainability, and testability. |
 | [Single Responsibility](docs/architectural-design-principles/single-responsibility.md) | The Single Responsibility Principle (SRP) is a design principle that advocates for a class or module to have only one reason to change, meaning it should only have one responsibility or job. |
-| [Strangler Fig Pattern](docs/architectural-design-principles/strangler-fig-pattern) | The Strangler Fig Pattern is an approach to software modernization that involves gradually replacing an existing system with a new one, module by module, rather than attempting to migrate it all at once. |
+| [Strangler Fig Pattern](docs/architectural-design-principles/strangler-fig-pattern.md) | The Strangler Fig Pattern is an approach to software modernization that involves gradually replacing an existing system with a new one, module by module, rather than attempting to migrate it all at once. |
 | [Solid](docs/architectural-design-principles/solid.md) | SOLID is an acronym for five object-oriented design principles (Single Responsibility Principle, Open-Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, and Dependency Inversion Principle) that aim to make software systems more maintainable, scalable, and testable. |
 | [Yagni](docs/architectural-design-principles/yagni.md) | You Aren't Gonna Need It (YAGNI) is a principle that advises against writing code for features that are not yet needed, to avoid adding unnecessary complexity to the codebase and focus on delivering only what is required. |
 
 ### Design Patterns
 | Topic | Description |
 |:-------:|:----------- |
-| [Design Patterns](docs/design-patterns/design-patterns.md) | TODO...
-| [Adapter Pattern](docs/design-patterns/adapter-pattern.md) | TODO...
-| [AutoPilot](docs/design-patterns/autopilot.md) | TODO...
+| [Design Patterns](docs/design-patterns/design-patterns.md) | A comprehensive list of design patterns with examples and explanations of how they can be used to solve common software design problems. 
+| [Adapter Pattern](docs/design-patterns/adapter-pattern.md) |  The Adapter Pattern is a structural design pattern that allows objects with incompatible interfaces to work together by providing a wrapper that adapts the interface of one object to match the interface of another. Actually The Adapter acts as a wrapper between two objects. It catches calls for one object and transforms them to format and interface recognizable by the second object. 
 | [Builder](docs/design-patterns/builder.md) | TODO...
 | [Chain of Responsibility](docs/design-patterns/chain-of-responsibility.md) | TODO...
 | [Command Message Pattern](docs/design-patterns/command-message-pattern.md) | TODO...
@@ -353,10 +350,10 @@ I created this repository to share a set of links that I found valuable and insp
 |:-------:|:----------- |
 | [Object Oriented Design](docs/object-oriented-design.md) | TODO...
 
-### System Design
+### Systems Design
 | Topic | Description |
 |:-------:|:----------- |
-| [System Design](docs/systems-design/systems-design.md) | TODO...
+| [Systems Design](docs/systems-design/systems-design.md) | TODO...
 | [Consistent Hash](docs/systems-design/consistent-hash.md) | TODO...
 
 ### Scaling
@@ -549,7 +546,7 @@ I created this repository to share a set of links that I found valuable and insp
 ### Micro-Frontend
 | Topic | Description |
 |:-------:|:----------- |
-| [Micro-Frontend](docs/micro-frontend.md) | TODO...
+| [Micro-Frontend](docs/micro-frontend.md) | Micro-frontends are revolutionizing the development landscape by allowing independent implementation of a business subdomain, all with the same and different technologies.
 
 ### Others
 | Topic | Description |

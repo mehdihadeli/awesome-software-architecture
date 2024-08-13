@@ -6,6 +6,7 @@
 - [Code Opinion Blog](https://codeopinion.com/category/event-sourcing/)
 - [Versioning in an Event Sourced System - Gregory Young](https://leanpub.com/esversioning/read)
 - [EventSourcing .NET](https://github.com/oskardudycz/EventSourcing.NetCore#eventsourcing-net)
+
 ## 📕 Articles
 - [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) 
 - [Event Sourcing and CQRS in C#](http://www.andreavallotti.tech/en/2018/01/event-sourcing-and-cqrs-in-c/)
@@ -153,6 +154,13 @@
 - [Ensuring uniqueness in Marten event store](https://event-driven.io/en/unique_constraint_in_marten_event_store/)
 - [Event stores are key-value databases, and why that matters](https://event-driven.io/en/event_stores_are_key_value_stores/)
 - [How to scale out Marten](https://event-driven.io/en/scaling_out_marten/)
+- [Implementing Closing the Books pattern](https://event-driven.io/en/closing_the_books_in_practice/)
+- [Explicit events serialisation in Event Sourcing](https://event-driven.io/en/explicit_events_serialisation_in_event_sourcing/)
+- [Marten, Metrics, and Open Telemetry Support](https://jeremydmiller.com/2024/04/30/marten-metrics-and-open-telemetry-support/)
+- [Marten, PostgreSQL, and .NET Aspire walk into a bar](https://jeremydmiller.com/2024/05/01/marten-postgresql-and-net-aspire-walk-into-a-bar/)
+- [Why you should batch message processing and how to do it with .NET AsyncEnumerable](https://event-driven.io/en/batching_async_enumerable/)
+- [Persistent vs catch-up, EventStoreDB subscriptions in action](https://event-driven.io/en/persistent_vs_catch_up_eventstoredb_subscriptions_in_action/)
+- [Filtering EventStoreDB subscriptions by event types](https://event-driven.io/en/filtering_eventstoredb_subscriptions_by_event_types/)
 
 ## 📺 Videos
 - [Event Sourcing Playlist - CodeOpinion](https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ)
@@ -209,6 +217,9 @@
 - [Event Sourcing in 1 Hour with Marten in .NET](https://www.youtube.com/watch?v=yWpuUHXLhYg)
 - [Event-driven revolution, from CRUD to Event Sourcing in practice - Oskar Dudycz - Devoxx For Ukraine](https://www.youtube.com/watch?v=V5_MMtfPpKs)
 - [How to model event-sourced systems efficiently - Oskar Dudycz - DDD Europe 2022](https://www.youtube.com/watch?v=gG6DGmYKk4I)
+- [Practical Introduction to Event Sourcing](https://www.youtube.com/watch?v=O3qbCuHvcPk)
+- [Student Enrollment with EventStoreDB (an introduction to Event Sourcing)](https://www.youtube.com/watch?v=SB55-lgK_8I)
+- [Getting Started with Event Sourcing in .NET](https://www.youtube.com/watch?v=n_o-xuuVtmw)
 
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
@@ -263,7 +274,7 @@
 - [oskardudycz/EventSourcing.NetCore/Workshops/IntroductionToEventSourcing](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Workshops/IntroductionToEventSourcing) - Introduction to Event Sourcing Workshop
 - [oskardudycz/EventSourcing.JVM](https://github.com/oskardudycz/EventSourcing.JVM) - Examples and Tutorials of Event Sourcing in JVM languages
 - [AleksK1NG/Java-Spring-CRQS-Eventsourcing-Microservice](https://github.com/AleksK1NG/Java-Spring-CRQS-Eventsourcing-Microservice) - Java-Spring-CRQS-Eventsourcing-Microservice
-- [AleksK1NG/Java-Quarkus-Reactive-CQRS-EventSourcing]}(https://github.com/AleksK1NG/Java-Quarkus-Reactive-CQRS-EventSourcing) - Java-Quarkus-Reactive-CQRS-EventSourcing
+- [AleksK1NG/Java-Quarkus-Reactive-CQRS-EventSourcing](https://github.com/AleksK1NG/Java-Quarkus-Reactive-CQRS-EventSourcing) - Java-Quarkus-Reactive-CQRS-EventSourcing
 - [evgeniy-khist/eventstoredb-event-sourcing](https://github.com/evgeniy-khist/eventstoredb-event-sourcing) - EventStoreDB is the database for Event Sourcing. This repository provides a sample of event sourced system that uses EventStoreDB as event store.
 - [evgeniy-khist/postgresql-event-sourcing](https://github.com/evgeniy-khist/postgresql-event-sourcing) - PostgreSQL is the world's most advanced open source database. Also, PostgreSQL is suitable for Event Sourcing. This repository provides a sample of event sourced system that uses PostgreSQL as event store.
 - [Finaps/EventSourcing](https://github.com/Finaps/EventSourcing) - Event Sourcing in .NET 6
@@ -279,3 +290,4 @@
 - [klimisa/aggregate-implementation-patterns-csharp](https://github.com/klimisa/aggregate-implementation-patterns-csharp) - Aggregate implementations workshop port to C#
 - [bitloops/ddd-hexagonal-cqrs-es-eda](https://github.com/bitloops/ddd-hexagonal-cqrs-es-eda) - Complete working example of using Domain Driven Design (DDD), Hexagonal Architecture, CQRS, Event Sourcing (ES), Event Driven Architecture (EDA), Behaviour Driven Development (BDD) using TypeScript and NestJS
 - [matt-bentley/AspNetCore.EventSourcing](https://github.com/matt-bentley/AspNetCore.EventSourcing) - Simple Event Sourcing implementation in ASP.NET with Entity Framework Core and MediatR
+- [JasperFx/CritterStackSamples](https://github.com/JasperFx/CritterStackSamples) - Samples using the "Critter Stack" Tools

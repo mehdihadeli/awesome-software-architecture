@@ -33,9 +33,6 @@
 - [How to Add MySql & MongoDB to a Kubernetes .Net Core Microservice Architecture](https://dev.to/christianzink/databases-in-a-kubernetes-angular-net-core-microservice-architecture-22jc)
 - [Building and publishing .NET Core Micro-services to Kubernetes using Azure DevOps](https://fizzylogic.nl/2019/11/15/building-and-publishing-net-core-microservices-to-kubernetes-using-azure-devops)
 - [Managing Applications in Kubernetes with the Carvel Kapp Controller](https://thecloudblog.net/post/managing-applications-in-kubernetes-with-the-carvel-kapp-controller/)
-- [Getting Started with Telepresence on Windows](https://www.getambassador.io/resources/getting-started-with-telepresence-on-windows/)
-- [Using Telepresence 2 for Kubernetes debugging and local development](https://codefresh.io/blog/telepresence-2-local-development/)
-- [An alternative to Telepresence 2: Gefyra](https://unikube.io/blog/alternative-to-telepresence-2-gefyra/)
 - [Kubectl List and Switch Context](https://linuxhint.com/kubectl-list-switch-context/)
 - [Kubectl Config Set-Context | Tutorial and Best Practices](https://www.containiq.com/post/kubectl-config-set-context-tutorial-and-best-practices)
 - [A guide to swiftly managing your Kubernetes resources using K9s](https://earthly.dev/blog/managing-k8s-with-k9s/)
@@ -75,7 +72,7 @@
 - [How to quickly replace environment variables in a file](https://skofgar.ch/dev/2020/08/how-to-quickly-replace-environment-variables-in-a-file/) ⭐
 - [Using envsubst to Merge Environment Variables into Config Files](https://nickjanetakis.com/blog/using-envsubst-to-merge-environment-variables-into-config-files)
 - [Service](https://kubernetes.io/docs/concepts/services-networking/service/) ⭐
-- [Pods](kubernetes.io/docs/concepts/workloads/pods/)
+- [Pods](https://kubernetes.io/docs/concepts/workloads/pods/)
 - [Ingress](https://kubernetes.io/docs/concepts/services-networking/ingress/)
 - [Deployments](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
 - [Annotations](https://kubernetes.io/docs/concepts/overview/working-with-objects/annotations/)
@@ -94,15 +91,21 @@
 - [Evolution of Capacity Management: From Bare Metal to Kubernetes](https://mkdev.me/posts/evolution-of-capacity-management-from-bare-metal-to-kubernetes)
 - [Kubernetes Is Not an Orchestrator: The Jump to Universality for Infrastructure Abstractions](https://mkdev.me/posts/kubernetes-is-not-an-orchestrator-the-jump-to-universality-for-infrastructure-abstractions)
 - [Kubernetes Capacity and Resource Management: It's Not What You Think It Is](https://mkdev.me/posts/kubernetes-capacity-and-resource-management-it-s-not-what-you-think-it-is)
+- [The Ultimate Kubectl Command Line Cheat Sheet](https://komodor.com/learn/the-ultimate-kubectl-cheat-sheet/) ⭐
+- [How to Use Kubectl Config Set-Context](https://kodekloud.com/blog/kubectl-change-context/) ⭐
+- [Configure Access to Multiple Clusters](https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/) ⭐
+- [3 questions to answer when considering a multi-cluster Kubernetes architecture](https://www.redhat.com/architect/multi-cluster-kubernetes-architecture) ⭐
+- [Architecting Kubernetes clusters — how many should you have?](https://learnk8s.io/how-many-clusters) ⭐
+- [Adding health checks with Liveness, Readiness, and Startup probes](https://andrewlock.net/deploying-asp-net-core-applications-to-kubernetes-part-6-adding-health-checks-with-liveness-readiness-and-startup-probes/)
+
 ## 📺 Videos
 - [Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]](https://www.youtube.com/watch?v=X48VuDVv0do)
+- [Complete Kubernetes Course - From BEGINNER to PRO](https://www.youtube.com/watch?v=2T86xAtR6Fo)
 - [Kubernetes Daemonsets explained | Tutorial | Kubernetes Guide](https://www.youtube.com/watch?v=RGSeeN-o-kQ)
 - [Kubernetes Essentials Playlist - IBM Cloud](https://www.youtube.com/playlist?list=PLOspHqNVtKABAVX4azqPIu6UfsPzSu2YN)
 - [Kubernetes 101 Playlist - Jeff Geerling](https://www.youtube.com/playlist?list=PL2_OBreMn7FoYmfx27iSwocotjiikS5BD)
 - [100DaysOfKubernetes Playlist- Anais Urlichs](https://www.youtube.com/playlist?list=PLWnens-FYbIpUpmiiNYfkqTZQUYppGMFV)
 - [gRPC Load Balancing on Kubernetes - Jan Tattermusch, Google (Intermediate Skill Level)](https://www.youtube.com/watch?v=F2znfxn_5Hg)
-- [How We Use Telepresence 2 at Ambassador Labs](https://www.youtube.com/watch?v=nN1yF6RCaW4)
-- [Intro: Telepresence: Fast Local-to-Remote Development for Kubernetes - Daniel Bryant, Datawire](https://www.youtube.com/watch?v=9eyHSjbZwR8)
 - [Detect Kubernetes misconfigurations before its too late | Introduction to Datree](https://www.youtube.com/watch?v=aqiOyXPPadk)
 - [Kubernetes Liveness & Readiness Probes](https://www.youtube.com/watch?v=3TJRkKWuVoM)
 - [A Better Developer Experience With Gitpod & Okteto](https://www.youtube.com/watch?v=dgtuEgmsLoQ)
@@ -117,6 +120,8 @@
 - [Level-up Your DevOps with GitHub Actions and Kubernetes](https://www.youtube.com/watch?v=TMbXwNtuAJo)
 - [Kubernetes + OpenAI = K8sGPT, giving you AI superpowers!](https://www.youtube.com/watch?v=7WA8XVrod2Y)
 - [Kubernetes Secrets with GitOps and Sealed Secrets Controller](https://youtu.be/PP4UImKKk2g?si=Ecv8Khr-eh0SlwaK)
+- [DNS for Services and Pods](https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/)
+
 
 ## 📦 Libraries
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
@@ -158,6 +163,8 @@
 - [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources!
 - [komodorio/validkube](https://github.com/komodorio/validkube) - ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene & security.
 - [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig 
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) - Connect your local process and your cloud environment, and run local code in cloud conditions
+- [gefyrahq/gefyra](https://github.com/gefyrahq/gefyra) - Blazingly-fast, rock-solid, local application development with Kubernetes.
 
 ## 🚀 Samples
 - [arashkaffamanesh/practical-kubernetes-problems](https://github.com/arashkaffamanesh/practical-kubernetes-problems) - For Kubernauts' Practical Kubernetes Trainings
@@ -176,6 +183,7 @@
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [fluxcd/flux2-kustomize-helm-example](https://github.com/fluxcd/flux2-kustomize-helm-example) - A GitOps workflow example for multi-env deployments with Flux, Kustomize and Helm.
 - [bravecobra/k8s-dev-infrastructure](https://github.com/bravecobra/k8s-dev-infrastructure) - A local dev infrastructure on k8s, providing networking, telemetry and saas services
+- [HariSekhon/Kubernetes-configs](https://github.com/HariSekhon/Kubernetes-configs) ⭐ - Advanced Kubernetes YAML configs - Best Practices, Tips & Tricks, Production-Ready Checklist - experience from several production environments
 
 ## 📚 Books
 - [Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications](https://www.amazon.com/Kubernetes-Patterns-Designing-Cloud-Native-Applications/dp/1492050288)

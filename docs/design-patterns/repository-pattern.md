@@ -47,7 +47,7 @@
 - [Ardalis - Working on the Ardalis.Specification and EF Extensions GitHub projects](https://www.youtube.com/watch?v=PbHic9Ndqoc)o)
 ## 🚀 Samples
 - [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb/blob/15bd78ee5b753a51fd9f8214a6ee8f5007e2d40f/src/Infrastructure/Data/EfRepository.cs)
-- [thangchung/clean-architecture-dotnet](thangchung/clean-architecture-dotnet/blob/main/src/N8T.Infrastructure.EfCore/Repository.cs)
+- [thangchung/clean-architecture-dotnet](https://github.com/thangchung/clean-architecture-dotnet/blob/main/src/N8T.Infrastructure.EfCore/Repository.cs)
 ## 📦 Libraries
 - [ardalis/Specification](https://github.com/ardalis/Specification) - Base class with tests for adding specifications to a DDD model
 - [FoundatioFx/Foundatio.Repositories](https://github.com/FoundatioFx/Foundatio.Repositories) - Generic repositories

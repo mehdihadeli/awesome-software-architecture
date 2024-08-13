@@ -95,6 +95,11 @@
 - [Supporting Jaeger with native OTLP](https://deploy-preview-1892--opentelemetry.netlify.app/blog/2022/jaeger-native-otlp/)
 - [OTLP Specification 1.0.0](https://opentelemetry.io/docs/specs/otlp/)
 - [Introducing native support for OpenTelemetry in Jaeger](https://medium.com/jaegertracing/introducing-native-support-for-opentelemetry-in-jaeger-eb661be8183c)
+- [.NET Aspire dashboard is the best tool to visualize your OpenTelemetry data during local development](https://anthonysimmon.com/dotnet-aspire-dashboard-best-tool-visualize-opentelemetry-local-dev/)
+- [Trace Propagation and Public API Endpoints in .NET – Part 1 (Disable All)](https://martinjt.me/2023/07/07/trace-propagation-and-public-api-endpoints-in-net-part-1-disable-all/)
+- [Where are my traces? (weird .NET meets OpenTelemetry gotcha)](https://blog.codingmilitia.com/2024/05/13/where-are-my-traces-weird-dotnet-meets-opentelemetry-gotcha/)
+- [Monitoring Unit Tests with OpenTelemetry in .NET](https://www.honeycomb.io/blog/monitoring-unit-tests-opentelemetry)
+- [Automated Tests instrumentation via OpenTelemetry and Aspire Dashboard](https://nikiforovall.github.io/dotnet/opentelemtry/2024/06/07/test-instrumentation-with-otel-aspire.html)
 
 ## 📺 Videos
 - [Jimmy Bogard - Distributed Tracing Made Easy with .NET Core and OpenTelemetry](https://www.youtube.com/watch?v=s9UNr1oEMl4)
@@ -132,6 +137,7 @@
 - [alexvaluyskiy/prometheus-net-contrib](https://github.com/alexvaluyskiy/prometheus-net-contrib) - Exposes .NET core diagnostic listeners and counters
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector
 - [open-telemetry/opentelemetry-collector/](https://github.com/open-telemetry/opentelemetry-collector/) - OpenTelemetry Collector
+- [grafana/grafana-opentelemetry-dotnet](https://github.com/grafana/grafana-opentelemetry-dotnet) - Grafana's distribution of OpenTelemetry instrumentation for .NET
 
 ## 🚀 Samples
 - [karlospn/opentelemetry-tracing-demo](https://github.com/karlospn/opentelemetry-tracing-demo) - Example about how to use OpenTelemetry for tracing when we have a series of distributed applications communicating between them

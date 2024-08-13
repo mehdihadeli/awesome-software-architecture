@@ -21,6 +21,11 @@
 - [Competing Consumers pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/competing-consumers)
 - [A world of messages with Azure](https://blexin.com/en/blog-en/a-world-of-messages-with-azure/)
 - [Robust Messaging using Azure Service Bus](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/robust-messaging-using-azure-service-bus/ba-p/3275225)
+- [Local Development with Azure Service Bus](https://www.jimmybogard.com/local-development-with-azure-service-bus/)
+- [How to integrate Service Bus with RabbitMQ](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-integrate-with-rabbitmq)
+- [Advanced Message Queueing Protocol (AMQP) 1.0 support in Service Bus](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-overview)
+- [How to bridge RabbitMQ with Service Bus](https://dev.to/azure/how-to-bridge-rabbitmq-with-azure-service-bus-98l)
+- [How to use AMQP 1.0 with the Service Bus .NET API](https://github.com/toddkitta/azure-content/blob/master/articles/service-bus/service-bus-dotnet-advanced-message-queuing.md)
 
 ## 📺 Videos
 - [Asynchronous messaging with Azure Service Bus](https://www.youtube.com/watch?v=aJn5CDhWvJQ)

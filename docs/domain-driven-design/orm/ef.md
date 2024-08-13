@@ -22,6 +22,8 @@
 - [Strengthening your domain: Encapsulated collections](https://lostechies.com/jimmybogard/2010/03/10/strengthening-your-domain-encapsulated-collections/)
 - [Encapsulated Collections in Entity Framework Core](https://ardalis.com/encapsulated-collections-in-entity-framework-core/?utm_sq=gtj0ysb0tw)
 - [How to have private constructors and private setters when using Entity Framework Core Database first](https://davecallan.com/how-to-have-private-constructors-and-private-setters-when-using-entity-framework-core-database-first/)
+- [Domain-Driven Design With Entity Framework Core 8](https://thehonestcoder.com/ddd-ef-core-8/)
+
 ## 📺 Videos
 - [How to use EF Core 5 with DDD style projects - part 1](https://www.youtube.com/watch?v=bzI5g6PVM-I)
 - [How to use EF Core 5 with DDD style projects - part 2](https://www.youtube.com/watch?v=D1hSU-q3GLc)

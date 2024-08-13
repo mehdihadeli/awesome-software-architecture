@@ -54,6 +54,11 @@
 - [ASP.NET Core 6: Here is the best way to pass a JWT in the headers of a gRPC client](https://anthonygiretti.com/2022/08/15/asp-net-core-6-here-is-the-best-way-to-pass-a-jwt-in-the-headers-of-a-grpc-client/)
 - [ASP.NET Core 6: Handling gRPC exception correctly server side](https://anthonygiretti.com/2022/08/28/asp-net-core-6-handling-grpc-exception-correctly-server-side/)
 - [Testing ASP.NET Core gRPC services in JetBrains Rider](https://andrewlock.net/testing-aspnetcore-grpc-services-in-jetbrains-rider/)
+- [Sharing gRPC ProtoBuf contracts using a REST endpoint](https://devblogs.microsoft.com/premier-developer/sharing-grpc-protobuf-contracts-using-a-rest-endpoint/)
+- [How to share Protobuf definitions for gRPC Services?](https://mrico.eu/how-to-share-protobuf-for-grpc-services/)
+- [Sharing gRPC protobufs between microservices](https://jozefcipa.com/blog/sharing-grpc-protobufs-between-microservices/) ⭐
+- [Packaging Generated Code for gRPC Services](https://www.bugsnag.com/blog/libraries-for-grpc-services/) ⭐
+- [](https://medium.com/namely-labs/how-we-build-grpc-services-at-namely-52a3ae9e7c35)
 
 ## 📹 Videos
 - [Bidirectional Streaming | gRPC in .NET 5](https://www.youtube.com/watch?v=wY4nMSUF9e0)
@@ -82,6 +87,8 @@
 - [Cysharp/MagicOnion](https://github.com/Cysharp/MagicOnion) - Unified Realtime/API framework for .NET platform and Unity.
 - [AnthonyGiretti/grpc-aspnetcore-validator](https://github.com/AnthonyGiretti/grpc-aspnetcore-validator) - Simple request message validator for grpc.aspnetcore
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
+- [bufbuild/buf](https://github.com/bufbuild/buf) - A new way of working with Protocol Buffers.
+
 ## 🚀 Samples
 
 - [aspnetrun/run-aspnet-grpc](https://github.com/aspnetrun/run-aspnet-grpc) - Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5. See gRPC Microservices and Step by Step Implementation on .NET Course w/ discount

@@ -38,6 +38,9 @@
 - [Easy Modular Monolith — Part 5— JWT Authentication/Authorization](https://itnext.io/easy-modular-monolith-part-5-jwt-authentication-authorization-f7a0a275226f)
 - [Easy Modular Monolith — Part 6 — Synchronous communication between modules](https://itnext.io/easy-modular-monolith-part-5-synchronous-communication-between-modules-7af876f06c16)
 - [Build the modular monolith first](https://www.fearofoblivion.com/build-a-modular-monolith-first)
+- [Thoughts on “Modular Monoliths”](https://jeremydmiller.com/2024/04/01/thoughts-on-modular-monoliths/)
+- [Actually Talking about Modular Monoliths](https://jeremydmiller.com/2024/04/08/actually-talking-about-modular-monoliths/)
+- [Modular Monoliths and the “Critter Stack”](https://jeremydmiller.com/2024/04/15/modular-monoliths-and-the-critter-stack/)
 
 ## 📺 Videos
 - [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE)
@@ -92,3 +95,5 @@
 - [Nairda015/IGroceryStore](https://github.com/Nairda015/IGroceryStore) - IGroceryStore - Loosely coupled monolith app
 - [evolutionary-architecture/evolutionary-architecture-by-example](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example) ⭐ - Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various architectural patterns
 - [kamilbaczek/Estimation-Tool](https://github.com/kamilbaczek/Estimation-Tool) ⭐ - Modular monolith architecture example in .NET. Estimation Tool is tool to optimize estimation process in IT company.
+- [baranacikgoz/modular-monolith-ddd-vsa-webapi](https://github.com/baranacikgoz/modular-monolith-ddd-vsa-webapi) - A .NET 8 Webapi boilerplate with Modular Monolith approach, Domain-Driven Design and Vertical Slices architecture along with Clean Architecture principles per feature
+- [kamilbaczek/Modular-monolith-by-example](https://github.com/kamilbaczek/Modular-monolith-by-example) - Modular monolith architecture example in .NET. Estimation Tool is tool to optimize estimation process in IT company.

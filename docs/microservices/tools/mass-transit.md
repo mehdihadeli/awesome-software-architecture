@@ -24,8 +24,12 @@
 - [ASP.NET Correlation ID](https://markgossa.com/2022/05/asp-net-correlation-id.html)
 - [Error Handling and Message Redelivery in MassTransit](https://www.gokhan-gokalp.com/en/messaging-yapilarinda-masstransit-ile-error-ve-redeliver-handling/)
 - [Building a More Useful Outbox for Reliable Messaging](https://jeremydmiller.com/2022/06/16/building-a-more-useful-outbox-for-reliable-messaging/)
+- [MassTransit Testing](https://masstransit.io/documentation/concepts/testing)
+- [MassTransit observability](https://masstransit.io/documentation/configuration/observability)
+- [A better Masstransit Test harness](https://andersmalmgren.com/2022/08/17/a-better-masstransit-test-harness/)
 
 ## 📺 Videos
+
 - [MassTransit–Youtube videos](https://bartwullems.blogspot.com/2020/07/masstransityoutube-videos.html)
 - [Modern .NET Messaging using MassTransit](https://www.youtube.com/watch?v=jQNQDLv7QmU)
 - [.NET Microservices Basics Course](https://youtu.be/ByYyk8eMG6c?t=18839)
@@ -45,13 +49,18 @@
 - [Build Clean Messaging in .NET with MassTransit](https://www.youtube.com/watch?v=4FFYefcx4Bg)
 - [MassTransit - The New Transactional Outbox](https://www.youtube.com/watch?v=3TjGnmLno_A)
 - [OSS Power-Ups: MassTransit](https://www.youtube.com/watch?v=sbt9p7jqe74)
+- [MassTransit Message Contract Sharing using NuGet](https://www.youtube.com/watch?v=5i_VQBYvTIQ)
+- [Versioning your MassTransit message contracts](https://www.youtube.com/watch?v=PNNxJthctgk)
+- [TestHarnes and OpenTelemetry](https://youtu.be/7PM9XUAAMtA)
 
 ## 📦 Libraries
+
 - [GokGokalp/MetroBus](https://github.com/GokGokalp/MetroBus) - Lightweight messaging wrapper of MassTransit
 - [NCodeGroup/MassTransit.Extensions.Hosting](https://github.com/NCodeGroup/MassTransit.Extensions.Hosting) - MassTransit configuration extensions using Microsoft.Extensions.Hosting.IHostedService and Microsoft.Extensions.DependencyInjection.
 - [phatboyg/GreenPipes](https://github.com/phatboyg/GreenPipes) - An asynchronous pipe implementation for the Task Parallel Library
 
 ## 🚀 Samples
+
 - [MassTransit/Sample-Twitch](https://github.com/MassTransit/Sample-Twitch)
 - [marco-bue/masstransit-microservices](https://github.com/marco-bue/masstransit-microservices) - A sample on how to utilize MassTransit to do asynchronous communication between microservices
 - [jbw/TooBigToFailBurgerShop](https://github.com/jbw/TooBigToFailBurgerShop) - .NET Microservice Reference Application. It's also an over-engineered burger shop!

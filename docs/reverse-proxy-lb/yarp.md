@@ -18,6 +18,7 @@
 - [Building FeedR - API Gateway with YARP (Microservices with .NET 6.0) episode #3](https://www.youtube.com/watch?v=jn0SFUennII)
 - [ASP.NET Community Standup - YARP 1.1 Release](https://www.youtube.com/watch?v=2AERbOJwXG4)
 - [Migrate Your Legacy ASP.NET Projects to ASP.NET Core Incrementally with YARP | .NET Conf 2022](https://www.youtube.com/watch?v=XQyCgwB_szI)
+- [Reverse proxying is easy with YARP | .NET Conf 2023](https://www.youtube.com/watch?v=P8y8NAroVKk)
 
 ## 🚀 Samples
 - [manfredsteyer/yarp-auth-proxy](https://github.com/manfredsteyer/yarp-auth-proxy)
