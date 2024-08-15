@@ -234,7 +234,6 @@ nav:
   - Value Objects: domain-driven-design/value-objects.md
 - Event Driven Architecture: event-driven-architecture.md
 - Eventual Consistency: eventual-consistency.md
-- Eventual Consistency: eventual-consistency.md
 - Functional Programming: functional.md
 - gRPC: grpc.md
 - Hexagonal Architecture: hexagonal-architecture.md
