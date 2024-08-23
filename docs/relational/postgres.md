@@ -30,4 +30,4 @@
 - [jbogard/Respawn](https://github.com/jbogard/Respawn) - Intelligent database cleaner for integration tests
 - [npgsql/efcore.pg](https://github.com/npgsql/efcore.pg) - Entity Framework Core provider for PostgreSQL
 - [efcore/EFCore.NamingConventions](https://github.com/efcore/EFCore.NamingConventions) - Entity Framework Core plugin to apply naming conventions to table and column names (e.g. snake_case)
-- [Particular/NServiceBus.PostgreSQL.Transport](https://docs.particular.net/transports/postgresq) - Use a PostgreSQL database as a message transport for NServiceBus.
+- [Particular/NServiceBus.PostgreSQL.Transport](https://docs.particular.net/transports/postgresql) - Use a PostgreSQL database as a message transport for NServiceBus.
