@@ -48,6 +48,12 @@
 - [MongoDB vs. Redis: Which Database Should You Use?](https://www.integrate.io/blog/mongodb-vs-redis/)
 - [MongoDB vs. Redis Comparison](https://www.mongodb.com/compare/mongodb-vs-redis)
 - [Trying out MongoDB with EF Core using Testcontainers](https://devblogs.microsoft.com/dotnet/efcore-mongodb/)
+- [This Is How Quora Shards MySQL to Handle 13+ Terabytes](https://newsletter.systemdesign.one/p/mysql-sharding)
+- [Sharding in MongoDB](https://www.mongodb.com/docs/manual/sharding/)
+- [Replication in MongoDB](https://www.mongodb.com/docs/manual/replication/)
+- [Database Sharding: Concepts and Examples](https://www.mongodb.com/resources/products/capabilities/database-sharding-explained)
+- [Database Scaling](https://www.mongodb.com/resources/basics/scaling)
+- [MongoDB Replication](https://www.mongodb.com/resources/products/capabilities/replication)
 
 ## 📺 Videos
 - [MongoDB In 30 Minutes](https://www.youtube.com/watch?v=pWbMrx5rVBE)
@@ -74,6 +80,8 @@
 - [Advanced Schema Design Patterns](https://www.youtube.com/watch?v=bxw1AkH2aM4)
 - [Making MongoDB Easy for Entity Framework Users with MongoFramework](https://www.youtube.com/watch?v=qsFyJSCz50Q)
 - [.NET Data Community Standup - Introducing the MongoDB provider for EF Core](https://www.youtube.com/watch?v=Zat-ferrjro)
+- [Deploy a MongoDB Cluster with Docker](https://dev.to/mattdark/deploy-a-mongodb-cluster-with-docker-1fal)
+- [Deploy a MongoDB Cluster With Docker Compose](https://dev.to/mattdark/deploy-a-mongodb-cluster-with-docker-compose-4ieo)
 
 ## Courses
 - [MongoDB Basics](https://university.mongodb.com/courses/M001/about)
@@ -87,6 +95,7 @@
 - [dj-nitehawk/MongoWebApiStarter](https://github.com/dj-nitehawk/MongoWebApiStarter) - A full-featured starter template for `dotnet new` to quickly scaffold an Asp.Net 6 Web-Api project with MongoDB as the data store.
 - [anuraj/BookStoreApi](https://github.com/anuraj/BookStoreApi)
 - [brunobritodev/MongoDB-RepositoryUoWPatterns](https://github.com/brunobritodev/MongoDB-RepositoryUoWPatterns)
+- [minhhungit/mongodb-cluster-docker-compose](https://github.com/minhhungit/mongodb-cluster-docker-compose) - docker-compose for mongodb cluster sharded with replication
 
 ## Library
 - [TurnerSoftware/MongoFramework](https://github.com/TurnerSoftware/MongoFramework) - An "Entity Framework"-like interface for MongoDB

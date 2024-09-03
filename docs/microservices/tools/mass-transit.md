@@ -27,6 +27,12 @@
 - [MassTransit Testing](https://masstransit.io/documentation/concepts/testing)
 - [MassTransit observability](https://masstransit.io/documentation/configuration/observability)
 - [A better Masstransit Test harness](https://andersmalmgren.com/2022/08/17/a-better-masstransit-test-harness/)
+- [RabbitMQ Transport](https://masstransit.io/documentation/transports/rabbitmq) ⭐
+- [A better Masstransit Test harness](https://andersmalmgren.com/2022/08/17/a-better-masstransit-test-harness/)
+- [Getting rid of the slow Masstransit test harness](https://andersmalmgren.com/2022/11/23/getting-rid-of-the-slow-masstransit-test-harness/)
+- [Messaging through a service bus in .NET using MassTransit part 5: failures](https://dotnetcodr.com/2016/09/28/messaging-through-a-service-bus-in-net-using-masstransit-part-5-failures/)
+- [Messaging through a service bus in .NET using MassTransit part 7: intercepting messages](https://dotnetcodr.com/2016/10/04/messaging-through-a-service-bus-in-net-using-masstransit-part-7-intercepting-messages/)
+- [Messaging through a service bus in .NET using MassTransit part 6: message types and inheritance support](https://dotnetcodr.com/2016/10/06/messaging-through-a-service-bus-in-net-using-masstransit-part-8-observing-events-in-the-bus/)
 
 ## 📺 Videos
 
@@ -52,6 +58,7 @@
 - [MassTransit Message Contract Sharing using NuGet](https://www.youtube.com/watch?v=5i_VQBYvTIQ)
 - [Versioning your MassTransit message contracts](https://www.youtube.com/watch?v=PNNxJthctgk)
 - [TestHarnes and OpenTelemetry](https://youtu.be/7PM9XUAAMtA)
+- [MassTransit - Publish vs. Send, Commands](https://www.youtube.com/watch?v=byceLITKaIk)
 
 ## 📦 Libraries
 

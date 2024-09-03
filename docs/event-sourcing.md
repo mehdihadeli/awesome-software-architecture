@@ -161,6 +161,7 @@
 - [Why you should batch message processing and how to do it with .NET AsyncEnumerable](https://event-driven.io/en/batching_async_enumerable/)
 - [Persistent vs catch-up, EventStoreDB subscriptions in action](https://event-driven.io/en/persistent_vs_catch_up_eventstoredb_subscriptions_in_action/)
 - [Filtering EventStoreDB subscriptions by event types](https://event-driven.io/en/filtering_eventstoredb_subscriptions_by_event_types/)
+- [Using event metadata in event-driven projections](https://event-driven.io/en/projections_and_event_metadata/)
 
 ## 📺 Videos
 - [Event Sourcing Playlist - CodeOpinion](https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ)

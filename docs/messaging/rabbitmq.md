@@ -32,7 +32,7 @@
 - [when rabbitmq delete message from queue?](https://stackoverflow.com/questions/32737824/when-rabbitmq-delete-message-from-queue)
 - [Decoupling the communication with RabbitMQ](https://blexin.com/en/blog-en/decoupling-the-communication-with-rabbitmq/)
 - [High availability with RabbitMQ](https://blexin.com/en/blog-en/high-availability-with-rabbitmq/)
-- [Routing Topologies for Performance and Scalability with RabbitMQ](https://spring.io/blog/2011/04/01/routing-topologies-for-performance-and-scalability-with-rabbitmq/)
+- [Routing Topologies for Performance and Scalability with RabbitMQ](https://spring.io/blog/2011/04/01/routing-topologies-for-performance-and-scalability-with-rabbitmq/) ⭐
 - [Messaging with RabbitMQ and .NET review part 1: foundations and terminology](https://dotnetcodr.com/2016/08/02/messaging-with-rabbitmq-and-net-review-part-1-foundations-and-terminology/)
 - [Messaging with RabbitMQ and .NET review part 2: installation and setup](https://dotnetcodr.com/2016/08/03/messaging-with-rabbitmq-and-net-review-part-2-installation-and-setup/)
 - [Messaging with RabbitMQ and .NET review part 3: the .NET client and some initial code](https://dotnetcodr.com/2016/08/05/messaging-with-rabbitmq-and-net-review-part-3-the-net-client-and-some-initial-code/)
@@ -63,7 +63,8 @@
 - [Dead Letter Exchanges](https://www.rabbitmq.com/dlx.html)
 - [FAQ: When and how to use the RabbitMQ Dead Letter Exchange](https://www.cloudamqp.com/blog/when-and-how-to-use-the-rabbitmq-dead-letter-exchange.html) ⭐
 - [Native AMQP 1.0](https://www.rabbitmq.com/blog/2024/08/05/native-amqp)
-
+- [Setting Up a RabbitMQ Cluster](https://levelup.gitconnected.com/setting-up-rabbitmq-cluster-c247d61385ed)
+- [Clustering Guide](https://www.rabbitmq.com/docs/clustering)
 ## 📺 Videos
 - [The best online training tool for RabbitMQ](https://training.cloudamqp.com/)
 - [What is RabbitMQ?](https://youtu.be/7rkeORD4jSw)
@@ -111,3 +112,4 @@
 - [hrabbitmq/rabbitmq-tutorials/dotnet-6](https://github.com/rabbitmq/rabbitmq-tutorials/tree/master/dotnet-6)
 - [hgmauri/sample-rawrabbit-mediatr](https://github.com/hgmauri/sample-rawrabbit-mediatr) - Example of using RabbitMQ with RawRabbit and MediatR in .NET 5
 - [delaneybrian/jumpstartCS-rabbitmq-csharp](https://github.com/delaneybrian/jumpstartCS-rabbitmq-csharp)
+- [serkodev/rabbitmq-cluster-docker](https://github.com/serkodev/rabbitmq-cluster-docker) - 1-click setup RabbitMQ Cluster with Docker Compose

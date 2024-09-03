@@ -24,6 +24,7 @@
 - [Duplicate detection](https://learn.microsoft.com/en-us/azure/service-bus-messaging/duplicate-detection)
 - [What does idempotent mean in software systems?](https://particular.net/blog/what-does-idempotent-mean)
 - [Transactional outbox pattern meets distributed tracing and OpenTelemetry](https://blog.codingmilitia.com/2024/06/17/transactional-outbox-pattern-meets-distributed-tracing-and-opentelemetry/)
+- [Saga Orchestration for Microservices Using the Outbox Pattern](https://www.infoq.com/articles/saga-orchestration-outbox/) ⭐
 
 ## 📺 Videos
 - [Reliably Save State & Publish Events (Outbox Pattern)](https://www.youtube.com/watch?v=u8fOnxAxKHk)

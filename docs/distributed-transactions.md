@@ -26,6 +26,8 @@
 - [Sagas: When a Distributed Transaction Is The Right Thing For You](https://medium.com/cloud-native-daily/sagas-when-a-distributed-transaction-is-the-right-thing-for-you-dd110253ed1a)
 - [How to handle multiple commands in the same transaction](https://event-driven.io/en/simple_transactional_command_orchestration/)
 - [Combining the To-Do List and the Passage Of Time patterns for resilient business workflows](https://event-driven.io/en/to_do_list_and_passage_of_time_patterns_combined/)
+- [Low Ceremony Sagas with Wolverine](https://jeremydmiller.com/2024/08/20/low-ceremony-sagas-with-wolverine/)
+- [Saga Orchestration for Microservices Using the Outbox Pattern](https://www.infoq.com/articles/saga-orchestration-outbox/) ⭐
 
 ## 📺 Videos
 - [Life Beyond Distributed Transactions: An Apostate's Implementation - Jimmy Bogard](https://www.youtube.com/watch?v=AUrKofVRHV4)

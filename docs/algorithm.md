@@ -12,6 +12,7 @@
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 - [SeanPrashad/leetcode-patterns](https://github.com/SeanPrashad/leetcode-patterns/tree/solutions)
 - [RehanSaeed/.NET-Big-O-Algorithm-Complexity-Cheat-Sheet](https://github.com/RehanSaeed/.NET-Big-O-Algorithm-Complexity-Cheat-Sheet) - Big-O complexities of common algorithms used in .NET and Computer Science.
+- [ashishps1/awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) - Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews
 
 ## LeetCode Practices
 - [hxu296/leetcode-company-wise-problems-2022](https://github.com/hxu296/leetcode-company-wise-problems-2022) - Lists of company wise questions available on leetcode premium.
@@ -41,6 +42,7 @@
 
 ## Articles
 - [LeetCode Prep for a Senior+ Software Engineer](https://trstringer.com/leetcode-prep-senior-plus/)
+- [LeetCode was HARD until I Learned these 15 Patterns](https://blog.algomaster.io/p/15-leetcode-patterns)
 
 ## 📺 Videos
 - [LeetCode PlayList - Fisher Coder](https://www.youtube.com/playlist?list=PLK0ZC7fyo01Jr4CwyEGPB_YYVYqoJS7LR)

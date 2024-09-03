@@ -150,6 +150,18 @@ nav:
 - Code Review: code-review.md
 - Concurrency: concurrency.md
 - CQRS: cqrs.md
+- Database:
+  - NoSQL: 
+      - CosmosDB: database/nosql/cosmosdb.md
+      - DocumentDB: database/nosql/documentdb.md
+      - MongoDB: database/nosql/mongodb.md
+      - NoSQL: database/nosql/nosql.md
+  - Relational Database:
+      - Postgresql: database/relational/postgres.md
+      - Relational Database: database/relational/relational-database.md
+      - SQL: database/relational/sql.md
+  - Replication: database/replication.md
+  - Sharding: database/sharding.md
 - Data Driven Design: data-driven-design.md
 - Design Best Practices:
   - 12 Factor: design-best-practices/12-factor.md
@@ -304,12 +316,6 @@ nav:
   - Tools: modeling/tools.md
   - Use Case Diagram: modeling/use-case-diagram.md
 - Modular Monolith: modular-monolith.md
-- NoSQL:
-  - CosmosDB: nosql/cosmosdb.md
-  - DocumentDB: nosql/documentdb.md
-  - MongoDB: nosql/mongodb.md
-  - NoSQL: nosql/nosql.md
-  - Postgresql: nosql/postgresql.md
 - Object Oriented Design: object-oriented-design.md
 - Onion Architecture: onion-architecture.md
 - Open Source: open-source.md
@@ -320,10 +326,6 @@ nav:
   - OpenShift: paas/openshift.md
   - Rancher: paas/rancher.md
 - Refactoring: refactoring.md
-- Relational Database:
-  - Postgresql: relational/postgres.md
-  - Relational Database: relational/relational-database.md
-  - SQL: relational/sql.md
 - RESTful API Design: rest.md
 - Reverse Proxy & Load Balancing:
   - Envoy: reverse-proxy-lb/envoy.md
@@ -347,7 +349,6 @@ nav:
   - Maesh: service-mesh/maesh.md
   - Service Mesh: service-mesh/service-mesh.md
 - Service Oriented Architecture: service-oriented-architecture.md
-- Sharding: sharding.md
 - Software Architecture: software-architecture.md
 - Systems Design:
   - Consistent Hashing: systems-design/consistent-hash.md

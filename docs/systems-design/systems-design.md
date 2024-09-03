@@ -4,16 +4,13 @@
 ## 📘 Resources
 
 - [System Design Weekly Newsletter](https://newsletter.systemdesign.one/) - A resource to help you learn system design.
-- [systemdesign42/system-design](https://github.com/systemdesign42/system-design)
+- [systemdesign42/system-design](https://github.com/systemdesign42/system-design) - A resource to help you pass system design interview and become good at work
+- [SystemDesignSchool WebSite](https://systemdesignschool.io/problems)
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 - [checkcheckzz/system-design-interview](https://github.com/checkcheckzz/system-design-interview) - System design interview for IT companies
 - [shashank88/system_design](https://github.com/shashank88/system_design) - Preparation links and resources for system design questions
 - [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
 - [Preparing for the Systems Design and Coding Interview](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/)
-- [http://highscalability.com/all-time-favorites/](http://highscalability.com/all-time-favorites/)
-- [systeminterview](https://courses.systeminterview.com/courses/system-design-interview-an-insider-s-guide?ref=c89a35)
-- [System Design (Real World Examples)](https://interviewdaemon.com/courses/design-real-world-examples)
-- [System Design Cheatsheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 - [Sairyss/distributed-systems-topics](https://github.com/Sairyss/distributed-systems-topics) - This is a list of topics and resources related to distributed systems, system design, microservices, scalability and performance, etc
 - [bregman-arie/system-design-notebook](https://github.com/bregman-arie/system-design-notebook) - Learn System Design step by step
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet
@@ -23,8 +20,12 @@
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [cheatsnake/backend-cheats](https://github.com/cheatsnake/backend-cheats) - Homepage for Backend developers
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews
-- [CodingChallenges](https://codingchallenges.fyi/challenges/intro)
+- [CodingChallenges WebSite](https://codingchallenges.fyi/challenges/intro)
 - [IGotAnOffer-Engineering Youtube Channel](https://www.youtube.com/@IGotAnOffer-Engineering)
+- [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources
+
+## Courses
+- [Grokking Modern System Design Interview for Engineers & Managers](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)
 
 ## 📕 Articles
 - [System Design: Slack](https://newsletter.systemdesign.one/p/messaging-architecture)
@@ -48,6 +49,8 @@
 - [How Uber Computes ETA at Half a Million Requests per Second](https://newsletter.systemdesign.one/p/uber-eta)
 - [How Instagram scaled to 14 million users with only 3 engineers](https://read.engineerscodex.com/p/how-instagram-scaled-to-14-million)
 - [How Uber Finds Nearby Drivers at 1 Million Requests per Second](https://newsletter.systemdesign.one/p/how-does-uber-find-nearby-drivers)
+- [System Design: How to Scale a Database](https://blog.algomaster.io/p/system-design-how-to-scale-a-database)
+- [Database Scaling](https://www.mongodb.com/resources/basics/scaling)
 
 ## 📺 Videos
 
@@ -67,6 +70,8 @@
 - [Distributed Systems lecture series - Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 - [Real-Time Delivery Architecture at Twitter](https://www.youtube.com/watch?v=J5auCY4ajK8)
 - [Google system design interview: Design Spotify (with ex-Google EM)](https://www.youtube.com/watch?v=_K-eupuDVEc)
+- [Basic System Design for Uber or Lyft | System Design Interview Prep](https://www.youtube.com/watch?v=R_agd5qZ26Y)
+- [Design Twitter - System Design Interview](https://www.youtube.com/watch?v=o5n85GRKuzk)
 
 ## 📚 Books
 - [Software Engineering at Google](https://www.oreilly.com/library/view/software-engineering-at/9781492082781/)

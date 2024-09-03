@@ -1,5 +1,8 @@
 # Monitoring
 
+## Resources
+- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - Collection of Prometheus alerting rules
+
 ## 📕 Articles
 - [.NET metrics](https://docs.microsoft.com/en-us/dotnet/core/diagnostics/metrics)
 - [Creating Metrics](https://docs.microsoft.com/en-us/dotnet/core/diagnostics/metrics-instrumentation)
@@ -21,6 +24,8 @@
 - [MassTransit Prometheus Metrics](https://masstransit-project.com/advanced/monitoring/prometheus.html)
 - [Automatic Instrumentation of Containerized .NET Applications With OpenTelemetry](https://www.twilio.com/blog/automatic-instrumentation-of-containerized-dotnet-applications-with-opentelemetry)
 - [Introducing ASP.NET Core metrics and Grafana dashboards in .NET 8](https://devblogs.microsoft.com/dotnet/introducing-aspnetcore-metrics-and-grafana-dashboards-in-dotnet-8/)  
+- [Getting Started with Prometheus Alerting](https://dev.to/mattdark/getting-started-with-prometheus-alerting-3059)
+- [Prometheus Sample Alert Rules](https://www.squadcast.com/blog/prometheus-sample-alert-rules)
 
 ## Viodes
 - [Prometheus Grafana Dotnet Core STEP BY STEP](https://www.youtube.com/watch?v=cvt1Vrs3ajU)

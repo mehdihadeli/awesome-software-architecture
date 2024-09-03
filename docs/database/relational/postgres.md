@@ -26,7 +26,6 @@
 ## 📦 Libraries
 - [JasperFx/marten](https://github.com/JasperFx/marten) - .NET Transactional Document DB and Event Store on PostgreSQL
 - [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it's 2021
-- [atrauzzi/protoculture-dotnet-postgres](https://github.com/atrauzzi/protoculture-dotnet-postgres) - Embedded-style PostgreSQL for .NET Applications
 - [jbogard/Respawn](https://github.com/jbogard/Respawn) - Intelligent database cleaner for integration tests
 - [npgsql/efcore.pg](https://github.com/npgsql/efcore.pg) - Entity Framework Core provider for PostgreSQL
 - [efcore/EFCore.NamingConventions](https://github.com/efcore/EFCore.NamingConventions) - Entity Framework Core plugin to apply naming conventions to table and column names (e.g. snake_case)

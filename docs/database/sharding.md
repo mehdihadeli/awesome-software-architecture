@@ -22,10 +22,14 @@
 - [How sharding a database can make it faster](https://stackoverflow.blog/2022/03/14/how-sharding-a-database-can-make-it-faster/)
 - [All Things Sharding: Techniques and Real-Life Examples in NoSQL Data Storage Systems](https://kousiknath.medium.com/all-things-sharding-techniques-and-real-life-examples-in-nosql-data-storage-systems-3e8beb98830a)
 - [This Is How Quora Shards MySQL to Handle 13+ Terabytes](https://newsletter.systemdesign.one/p/mysql-sharding)
-  
+- [Sharding in MongoDB](https://www.mongodb.com/docs/manual/sharding/)
+- [Database Sharding: Concepts and Examples](https://www.mongodb.com/resources/products/capabilities/database-sharding-explained)
+- [Database Scaling](https://www.mongodb.com/resources/basics/scaling)
+- [MongoDB Sharding - How to Deploy a Sharded Cluster](https://phoenixnap.com/kb/mongodb-sharding)
+
 ## 📺 Videos
 - [What is Database Sharding?](https://www.youtube.com/watch?v=5faMjKuB9bc)
-- [What is Database Sharding?](https://www.youtube.com/watch?v=hdxdhCpgYo8)
+- [What is Database Sharding? - Be A Better Dev](https://www.youtube.com/watch?v=hdxdhCpgYo8)
 - [More Flexibility?! Sharding Gets Even Easier with MongoDB 4.4](https://www.youtube.com/watch?v=wGgMnJQunEc)
 - [Key based Sharding | Shard Key | Hash function | Advantages and disadvantages | 2021](https://www.youtube.com/watch?v=arUpleGFdt4&t=181s)
 - [Range based sharding | Advantages and disadvantages | Hotspots | Use Cases](https://www.youtube.com/watch?v=avepna2q9w0)

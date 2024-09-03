@@ -83,6 +83,7 @@
 ## 🚀 Samples
 - [dcomartin/Kafka.Demo](https://github.com/dcomartin/Kafka.Demo)
 - [oskardudycz/kafka-connect](https://github.com/oskardudycz/kafka-connect)
+- [minhhungit/kafka-kraft-cluster-docker-compose](https://github.com/minhhungit/kafka-kraft-cluster-docker-compose) - workable kafka cluster with kraft mode using docker-compose
 
 ## 📚 Books
 - [Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale 2nd Edition](https://www.amazon.com/Kafka-Definitive-Real-Time-Stream-Processing/dp/1492043087/)

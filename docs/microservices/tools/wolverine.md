@@ -1,12 +1,10 @@
 # Wolverine
 
 ## Resources
-
 - [Wolverine Docs](https://wolverine.netlify.app/)
 - [Wolverine blog posts](https://jeremydmiller.com/?s=Wolverine)
 
 ## Articles
-
 - [Unraveling the Magic in Wolverine](https://jeremydmiller.com/2023/10/02/unraveling-the-magic-in-wolverine/)
 - [Wolverine is for the developers](https://timdeschryver.dev/blog/wolverine-is-for-the-developers)
 - [How to fully leverage Wolverine with its HTTP package](https://timdeschryver.dev/blog/how-to-fully-leverage-wolverine-with-its-http-package)
@@ -31,14 +29,14 @@
 - [Wolverine’s Baked In Integration Testing Support](https://jeremydmiller.com/2024/03/25/wolverines-baked-in-integration-testing-support/)
 - [Testing Asynchronous Projections in Marten](https://jeremydmiller.com/2024/03/26/testing-asynchronous-projections-in-marten/)
 - [Critter Stack Improvements for Event Driven Architecture](https://jeremydmiller.com/2024/05/02/critter-stack-improvements-for-event-driven-architecture/)
+- [Low Ceremony Sagas with Wolverine](https://jeremydmiller.com/2024/08/20/low-ceremony-sagas-with-wolverine/)
+- [How Wolverine allows for easier testing](https://jeremydmiller.com/2022/12/13/how-wolverine-allows-for-easier-testing/)
 
 ## Videos
-
 - [Don't let MediatR hold you back, try this...](https://www.youtube.com/watch?v=YlG3bnJ7yCc)
 - [CQRS with Event Sourcing using the “Critter Stack” | .NET Conf 2023](https://www.youtube.com/watch?v=KousO1UsHYM)
 
 ## Samples
-
 - [oskardudycz/EventSourcing.NetCore/Sample/Helpdesk.Wolverine](https://github.com/oskardudycz/EventSourcing.NetCore/tree/helpdesk_wolverine/Sample/Helpdesk.Wolverine)
 - [dotnet/aspire](https://github.com/dotnet/aspire) - .NET Aspire is an opinionated, cloud ready stack for building observable, production ready, distributed applications
 - [JasperFx/CritterStackHelpDesk](https://github.com/JasperFx/CritterStackHelpDesk) My take on Oskar's Helpdesk sample application, but with Wolverine

@@ -22,12 +22,15 @@
 - [Running Large Language Models locally – Your own ChatGPT-like AI in C#](https://blog.maartenballiauw.be/post/2023/06/15/running-large-language-models-locally-your-own-chatgpt-like-ai-in-csharp.html)
 - [What is Semantic Kernel?](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
 - [Introducing GPTs](https://openai.com/blog/introducing-gpts)
+- [Using Phi-3 & C# with ONNX for text and vision samples](https://devblogs.microsoft.com/dotnet/using-phi3-csharp-with-onnx-for-text-and-vision-samples-md/)
+- [Building a Local RAG System for Privacy Preservation with Ollama and Weaviate](https://weaviate.io/blog/local-rag-with-ollama-and-weaviate)
 
 ## 📺 Videos
 - [ChatGPT Might Make Developers Unemployed In A Few Years](https://www.youtube.com/watch?v=C6tRcvY5xZg)
 - [Auto-GPT Tutorial - Create Your Personal AI Assistant](https://www.youtube.com/watch?v=jn8n212l3PQ)
 - [Create a Large Language Model from Scratch with Python – Tutorial](https://www.youtube.com/watch?v=UU1WVnMk4E8)
 - [Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) ⭐
+- [.NET AI Community Standup - Phi-3 & C#](https://www.youtube.com/watch?v=fbojvzHGtkM)
 
 ## Courses
 - [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
@@ -74,6 +77,16 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ⭐ - Build context-aware reasoning applications
 - [meta-llama/llama-models](https://github.com/meta-llama/llama-models) - Utilities intended for use with Llama models.
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
+- [User-friendly WebUI for LLMs (Formerly Ollama WebUI)](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI.
+- [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper:
+- [Kwai-Kolors/Kolors](https://github.com/Kwai-Kolors/Kolors) - Kolors: Effective Training of Diffusion Model for Photorealistic Text-to-Image Synthesis
+
 ## Samples
 - [Azure-Samples/openai-dotnet-samples](https://github.com/Azure-Samples/openai-dotnet-samples)
 - [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes/) - Examples and recipes for Llama 2 model
+
+## Books
+- [Building LLMs for Production: Enhancing LLM Abilities and Reliability with Prompting, Fine-Tuning, and RAG](https://www.amazon.com/Building-LLMs-Production-Reliability-Fine-Tuning/dp/B0D4FFPFW8)
+- [Super Study Guide: Transformers & Large Language Models](https://www.amazon.com/dp/B0DC4NYLTN/)
+- [microsoft/Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook) - This is a Phi-3 book for getting started with Phi-3. 

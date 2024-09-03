@@ -1,10 +1,10 @@
 # High Availability
 
 ## 📘 Resources
-- [High availability](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/reliability-patterns#high-availability)
-- [Availability](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/reliability-patterns#availability)
+- [Cloud design patterns that support reliability](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/reliability-patterns)
 
 ## 📕 Articles
+- [Improving Application Availability: The Basics](https://medium.com/ssense-tech/improving-application-availability-the-basics-f6c3365235fc)
 - [Deployment stamps pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/deployment-stamp)
 - [Geodes Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/geodes)
 - [Health Endpoint Monitoring Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/health-endpoint-monitoring)
