@@ -23,7 +23,7 @@
 - [What is Semantic Kernel?](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
 - [Introducing GPTs](https://openai.com/blog/introducing-gpts)
 - [Using Phi-3 & C# with ONNX for text and vision samples](https://devblogs.microsoft.com/dotnet/using-phi3-csharp-with-onnx-for-text-and-vision-samples-md/)
-- [Building a Local RAG System for Privacy Preservation with Ollama and Weaviate](https://weaviate.io/blog/local-rag-with-ollama-and-weaviate)
+- [Getting started with Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/get-started/quick-start-guide?pivots=programming-language-csharp)
 
 ## 📺 Videos
 - [ChatGPT Might Make Developers Unemployed In A Few Years](https://www.youtube.com/watch?v=C6tRcvY5xZg)
@@ -81,6 +81,7 @@
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI.
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper:
 - [Kwai-Kolors/Kolors](https://github.com/Kwai-Kolors/Kolors) - Kolors: Effective Training of Diffusion Model for Photorealistic Text-to-Image Synthesis
+- [microsoft/kernel-memory](https://github.com/microsoft/kernel-memory) - RAG architecture: index and query any data using LLM and natural language, track sources, show citations, asynchronous memory patterns
 
 ## Samples
 - [Azure-Samples/openai-dotnet-samples](https://github.com/Azure-Samples/openai-dotnet-samples)

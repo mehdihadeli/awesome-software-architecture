@@ -14,3 +14,4 @@
 - [Read Preference Use Cases](https://www.mongodb.com/docs/manual/core/read-preference-use-cases/)
 - [Deploy a Self-Managed Replica Set](https://www.mongodb.com/docs/manual/tutorial/deploy-replica-set/)
 - [Convert a Standalone Self-Managed mongod to a Replica Set](https://www.mongodb.com/docs/manual/tutorial/convert-standalone-to-replica-set/#std-label-server-replica-set-deploy-convert)
+- [Connect to a Deployment](https://www.mongodb.com/docs/mongodb-shell/connect/)

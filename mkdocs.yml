@@ -62,7 +62,9 @@ nav:
   - Akka .NET: actor-model-architecture/akka-net.md
   - Orleans: actor-model-architecture/orleans.md
   - Protoactor: actor-model-architecture/protoactor.md
-- AI: ai.md
+- AI:
+    AI: ai/ai.md
+    RAG: ai/rag.md
 - Algorithms: algorithm.md
 - Anti Patterns:
   - Anti Patterns: anti-patterns/anti-patterns.md
