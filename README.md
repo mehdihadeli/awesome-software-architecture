@@ -442,14 +442,16 @@ I created this repository to share a set of links that I found valuable and insp
 
 ### Messaging
 
-|                               Topic                                | Description |
-| :----------------------------------------------------------------: | :---------- |
-|              [Messaging](docs/messaging/messaging.md)              | TODO...     |
-|                  [Kafka](docs/messaging/kafka.md)                  | TODO...     |
-|               [Rabbitmq](docs/messaging/rabbitmq.md)               | TODO...     |
-|                   [Nats](docs/messaging/nats.md)                   | TODO...     |
-| [Change Data Capture (CDC)](docs/messaging/change-data-capture.md) | TODO...     |
-|          [Documentation](docs/messaging/documentation.md)          | TODO...     |
+|                               Topic                                		 | Description |
+| :----------------------------------------------------------------: 	     | :---------- |
+|              [Messaging](docs/messaging/messaging.md)              		 | TODO...     |
+|  [Async APIs Documentation](docs/messaging/async-api-documentation.md)     | TODO...     |
+|      [Messaging-patterns](docs/messaging/messaging-patterns.md)   		 | TODO...     |
+|                  [Kafka](docs/messaging/kafka.md)                 		 | TODO...     |
+|               [Rabbitmq](docs/messaging/rabbitmq.md)              		 | TODO...     |
+|                   [Nats](docs/messaging/nats.md)                  		 | TODO...     |
+|                   [ZeroMQ](docs/messaging/zeromq.md)              		 | TODO...     |
+| [Change Data Capture (CDC)](docs/messaging/change-data-capture.md)		 | TODO...     |
 
 ### Distributed Transactions
 

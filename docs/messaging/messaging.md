@@ -2,23 +2,18 @@
 # Messaging 
 
 ## 📘 Resources
+- [DDD and Messaging Architectures](https://verraes.net/2019/05/ddd-msg-arch/)
 - [clemensv/messaging](https://github.com/clemensv/messaging) - Resource collection for messaging and eventing
 - [Messaging Playlist - CodeOpinion](https://www.youtube.com/playlist?list=PLThyvG1mlMzm2FyVpKDiU2c7VtrB2Zezg)
-- [DDD and Messaging Architectures](https://verraes.net/2019/05/ddd-msg-arch/)
 - [Martin Kleppmann Yotube](https://www.youtube.com/channel/UClB4KPy5LkJj1t3SgYVtMOQ/videos)
-- [Sairyss/distributed-systems-topics](https://github.com/Sairyss/distributed-systems-topics) - Topics and resources related to distributed systems, system design, microservices, scalability and performance, etc
-- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
 ## 📕 Articles
-- [Messaging patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/category/messaging) 
 - [Communication in a microservice architecture](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/communication-in-microservice-architecture)
 - [Asynchronous message-based communication](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/asynchronous-message-based-communication) 
 - [Modular Monolith: Integration Styles](http://www.kamilgrzybek.com/tag/messaging/) 
 - [Marrying RESTful HTTP with Asynchronous and Event-Driven Services](https://sookocheff.com/post/api/marrying-restful-http-with-asynchronous-design/)
 - [DDD and Messaging Architectures](https://verraes.net/2019/05/ddd-msg-arch/) 
 - [Asynchronous Messaging Patterns](https://blogs.mulesoft.com/api-integration/patterns/asynchronous-messaging-patterns/)
-- [Messaging Patterns Overview](https://www.enterpriseintegrationpatterns.com/patterns/messaging/)
-- [Service Activator](https://www.enterpriseintegrationpatterns.com/patterns/messaging/MessagingAdapter.html)
 - [Message Properties](https://codeopinion.com/message-properties/)
 - [Message Naming Guidelines](https://codeopinion.com/message-naming-guidelines/)
 - [Organizing (Commands, Events & Handlers) in Microservices](https://codeopinion.com/organizing-commands-events-handlers-in-microservices/)
@@ -85,8 +80,6 @@
 - [Back to Basics: commands, events, and messages](https://milestone.topics.it/2023/05/25/back-to-basics-messages.html)
 - [Define messages as POCO, interfaces, or records. Does it really matter?](https://milestone.topics.it/2023/10/31/defining-messages.html)
 - [Internal and external events, or how to design event-driven API](https://event-driven.io/en/internal_external_events/)
-- [9 PROCESSING PATTERNS](https://www.messagehandler.net/patterns/)
-- [7 Message Metadata Patterns Every Developer Should Know](https://thehonestcoder.com/7-message-metadata-patterns/)
 
 ## 📺 Videos
 

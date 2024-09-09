@@ -2,6 +2,7 @@
 # Event Driven Architecture
 
 # Resources
+- [Cloud Design Patterns - Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
 - [EDA VISUALS Blog](https://eda-visuals.boyney.io/)
 - [event-driven.io Blog](event-driven.io/en/)
 

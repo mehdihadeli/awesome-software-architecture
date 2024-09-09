@@ -54,6 +54,8 @@
 - [Database Sharding: Concepts and Examples](https://www.mongodb.com/resources/products/capabilities/database-sharding-explained)
 - [Database Scaling](https://www.mongodb.com/resources/basics/scaling)
 - [MongoDB Replication](https://www.mongodb.com/resources/products/capabilities/replication)
+- [The only local MongoDB replica set with Docker Compose guide you’ll ever need!](https://medium.com/workleap/the-only-local-mongodb-replica-set-with-docker-compose-guide-youll-ever-need-2f0b74dd8384)
+- [Deploy a MongoDB Cluster with Docker](https://dev.to/mattdark/deploy-a-mongodb-cluster-with-docker-1fal)
 
 ## 📺 Videos
 - [MongoDB In 30 Minutes](https://www.youtube.com/watch?v=pWbMrx5rVBE)

@@ -15,3 +15,5 @@
 - [Deploy a Self-Managed Replica Set](https://www.mongodb.com/docs/manual/tutorial/deploy-replica-set/)
 - [Convert a Standalone Self-Managed mongod to a Replica Set](https://www.mongodb.com/docs/manual/tutorial/convert-standalone-to-replica-set/#std-label-server-replica-set-deploy-convert)
 - [Connect to a Deployment](https://www.mongodb.com/docs/mongodb-shell/connect/)
+- [The only local MongoDB replica set with Docker Compose guide you’ll ever need!](https://medium.com/workleap/the-only-local-mongodb-replica-set-with-docker-compose-guide-youll-ever-need-2f0b74dd8384)
+- [Deploy a MongoDB Cluster with Docker](https://dev.to/mattdark/deploy-a-mongodb-cluster-with-docker-1fal)

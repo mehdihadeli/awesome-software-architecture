@@ -264,8 +264,10 @@ nav:
   - Change Data Capture (CDC): messaging/change-data-capture.md
   - Kafka: messaging/kafka.md
   - Messaging: messaging/messaging.md
+  - Messaging Patterns: messaging/messaging-patterns.md
   - NATS: messaging/nats.md
   - RabbitMQ: messaging/rabbitmq.md
+  - ZeroMQ: messaging/zeromq.md
 - Micro-Frontend: micro-frontend.md
 - Microservices:
   - Communication & Data Consistency: microservices/communication.md

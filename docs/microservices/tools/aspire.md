@@ -2,6 +2,7 @@
 
 ## Resources
 - [Asipre Docs](https://learn.microsoft.com/en-us/dotnet/aspire/)
+- [aspireify.net](https://aspireify.net/) - .NET Aspire News, Samples and Tutorials
 
 ## Articles
 - [.NET Aspire overview](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/aspire-overview)
@@ -27,6 +28,7 @@
 - [What Is .NET Aspire? The Insane Future of .NET!](https://www.youtube.com/watch?v=DORZA_S7f9w)
 - [WHY and HOW to Add .NET Aspire to ANY .NET API and Web App in Minutes](https://www.youtube.com/watch?v=fN3ufsIF7vs)
 - [ASP.NET Community Standup: .NET Aspire Update](https://www.youtube.com/watch?v=Osf7_ZxRlvw)
+- [Let's Learn .NET Aspire](https://www.youtube.com/watch?v=8i3FaHChh20)
 
 ## Tools
 - [prom3theu5/aspirational-manifests](https://github.com/prom3theu5/aspirational-manifests) - Handle deployments of .NET Aspire AppHost Projects
