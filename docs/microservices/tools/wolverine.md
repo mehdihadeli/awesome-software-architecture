@@ -31,6 +31,7 @@
 - [Critter Stack Improvements for Event Driven Architecture](https://jeremydmiller.com/2024/05/02/critter-stack-improvements-for-event-driven-architecture/)
 - [Low Ceremony Sagas with Wolverine](https://jeremydmiller.com/2024/08/20/low-ceremony-sagas-with-wolverine/)
 - [How Wolverine allows for easier testing](https://jeremydmiller.com/2022/12/13/how-wolverine-allows-for-easier-testing/)
+- [CQRS Command Handlers with Marten](https://jeremydmiller.com/2024/09/09/cqrs-command-handlers-with-marten/)
 
 ## Videos
 - [Don't let MediatR hold you back, try this...](https://www.youtube.com/watch?v=YlG3bnJ7yCc)
