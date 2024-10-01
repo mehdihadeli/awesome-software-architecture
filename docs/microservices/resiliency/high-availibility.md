@@ -5,6 +5,7 @@
 
 ## 📕 Articles
 - [Improving Application Availability: The Basics](https://medium.com/ssense-tech/improving-application-availability-the-basics-f6c3365235fc)
+- [Improving Application Availability: Redundancy and Persistence](https://medium.com/ssense-tech/improving-application-availability-redundancy-and-persistence-e68d1f891dc4)
 - [Deployment stamps pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/deployment-stamp)
 - [Geodes Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/geodes)
 - [Health Endpoint Monitoring Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/health-endpoint-monitoring)

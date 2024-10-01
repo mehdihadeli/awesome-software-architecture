@@ -41,6 +41,7 @@
 - [Thoughts on “Modular Monoliths”](https://jeremydmiller.com/2024/04/01/thoughts-on-modular-monoliths/)
 - [Actually Talking about Modular Monoliths](https://jeremydmiller.com/2024/04/08/actually-talking-about-modular-monoliths/)
 - [Modular Monoliths and the “Critter Stack”](https://jeremydmiller.com/2024/04/15/modular-monoliths-and-the-critter-stack/)
+- [Breaking It Down: How to Migrate Your Modular Monolith to Microservices](https://www.milanjovanovic.tech/blog/breaking-it-down-how-to-migrate-your-modular-monolith-to-microservices)
 
 ## 📺 Videos
 - [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE)

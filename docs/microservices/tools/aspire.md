@@ -44,3 +44,8 @@
 - [oskardudycz/EventSourcing.NetCore/Sample/ECommerce](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/ECommerce)
 - [NikiforovAll/social-media-app-aspire](https://github.com/NikiforovAll/social-media-app-aspire) - Polyglot persistence via Aspire
 - [thangchung/practical-dotnet-aspire](https://github.com/thangchung/practical-dotnet-aspire) - The practical .NET Aspire builds on the coffeeshop app business domain
+- [dotnet/aspire-samples/AspireShop](https://github.com/dotnet/aspire-samples/tree/main/samples/AspireShop)
+- [cecilphillip/shadowshop](https://github.com/cecilphillip/shadowshop) - Sample estore application using Stripe and Temporal. Orchestrated with .NET Aspire.
+- [dotnet/eShop](https://github.com/dotnet/eShop) - A reference .NET application implementing an eCommerce 
+- [dotnet/eShopSupport](https://github.com/dotnet/eShopSupport) - A reference .NET application using AI for a customer support ticketing system
+- [Azure-Samples/eShopOnAzure](https://github.com/Azure-Samples/eShopOnAzure) - A variant of https://github.com/dotnet/eShop that uses Azure services

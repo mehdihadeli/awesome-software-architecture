@@ -66,9 +66,14 @@ nav:
     AI: ai/ai.md
     Embedding & Vector: ai/embedding-vector.md
     LangChain: ai/langchain.md
-    RAG: ai/rag.md
     Models:
-      - Ollama: ai/models/Ollama.md
+      - Models: ai/models.md
+      - Hugging Face: ai/models/hugging-face.md
+      - Ollama: ai/models/ollama.md
+      - OpenAI: ai/models/openai.md
+      - Phi: ai/models/phi.md
+    RAG: ai/rag.md
+    Semantic Kernel: ai/semantic-kernel.md
 - Algorithms: algorithm.md
 - Anti Patterns:
   - Anti Patterns: anti-patterns/anti-patterns.md

@@ -12,7 +12,7 @@
 - [Consul in .NET — A Service Mesh Solution And Service Discovery Tool](https://medium.com/@KeivanDamirchi/consul-in-net-a-service-mesh-solution-and-service-discovery-tool-eff18292c771)
 - [Service Discovery Using Consul And ASP.NET Core](https://dev.to/raidzen10/service-discovery-using-consul-and-asp-net-core-2c4b)
 - [How to build .NET Core microservices – tutorial part 3: Service Discovery with Eureka](https://www.altkomsoftware.com/blog/microservices-service-discovery-eureka/)
-
+- [Service Discovery in .NET](https://weblogs.asp.net/ricardoperes/service-discovery-in-net)
 
 ## 📦 Libraries
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.

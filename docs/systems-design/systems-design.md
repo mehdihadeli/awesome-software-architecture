@@ -51,6 +51,9 @@
 - [How Uber Finds Nearby Drivers at 1 Million Requests per Second](https://newsletter.systemdesign.one/p/how-does-uber-find-nearby-drivers)
 - [System Design: How to Scale a Database](https://blog.algomaster.io/p/system-design-how-to-scale-a-database)
 - [Database Scaling](https://www.mongodb.com/resources/basics/scaling)
+- [How Discord Stores Trillions of Messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
+- [Sharding & IDs at Instagram](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c)
+- [Thundering Herds & Promises](https://instagram-engineering.com/thundering-herds-promises-82191c8af57d)
 
 ## 📺 Videos
 

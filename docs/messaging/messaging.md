@@ -80,6 +80,7 @@
 - [Back to Basics: commands, events, and messages](https://milestone.topics.it/2023/05/25/back-to-basics-messages.html)
 - [Define messages as POCO, interfaces, or records. Does it really matter?](https://milestone.topics.it/2023/10/31/defining-messages.html)
 - [Internal and external events, or how to design event-driven API](https://event-driven.io/en/internal_external_events/)
+- [How Discord Stores Trillions of Messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
 
 ## 📺 Videos
 

@@ -27,6 +27,9 @@
 - [Scaling Backend to 1M requests with just 2GB ram](https://dev.to/rikenshah/scaling-backend-to-1m-requests-with-just-2gb-ram-4m0c)
 - [System Design: How to Scale a Database](https://blog.algomaster.io/p/system-design-how-to-scale-a-database)
 - [Database Scaling](https://www.mongodb.com/resources/basics/scaling)
+- [How Discord Stores Trillions of Messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
+- [Sharding & IDs at Instagram](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c)
+- [Thundering Herds & Promises](https://instagram-engineering.com/thundering-herds-promises-82191c8af57d)
 
 ## 📺 Videos
 - [AWS re:Invent 2019: [REPEAT] Scaling up to your first 10 million users ](https://www.youtube.com/watch?v=kKjm4ehYiMs)
@@ -51,6 +54,7 @@
 - [Randy Shoup - Service Architectures at Scale Lessons from Google & eBay](https://www.youtube.com/watch?v=fhm4QnyWvUo)
 - [Cloud Native Objects for High Scale & Performance](https://www.youtube.com/watch?v=iE8cisVgoj8)
 - [Competing Consumers Pattern for Scalability | Message Queues](https://www.youtube.com/watch?v=xv6Ljbq6me8)
+
 ## 📚 Books
 - [Architecting for Scale: How to Maintain High Availability and Manage Risk in the Cloud 2nd Edition](https://www.amazon.com/Architecting-Scale-Maintain-Availability-Manage/dp/1492057177/)
 - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/)

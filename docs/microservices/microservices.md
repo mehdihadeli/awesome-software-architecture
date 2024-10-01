@@ -268,6 +268,8 @@
 - [ebubekirdinc/SuuCat](https://github.com/ebubekirdinc/SuuCat) - SuuCat is a sample containerized application consisting of several microservices. Its purpose is to use microservice patterns in practice
 - [Physer/Microshop.NET](https://github.com/Physer/Microshop.NET) - A .NET e-commerce showcase in a event-driven microservices architecture
 - [dotnet/eShopSupport](https://github.com/dotnet/eShopSupport) - A reference .NET application using AI for a customer support ticketing system
+- [Azure-Samples/eShopOnAzure](https://github.com/Azure-Samples/eShopOnAzure) - A variant of https://github.com/dotnet/eShop that uses Azure 
+- [thangchung/practical-dotnet-aspire](https://github.com/thangchung/practical-dotnet-aspire) - The practical .NET Aspire builds on the coffeeshop app business domain
 
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
