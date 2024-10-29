@@ -14,6 +14,7 @@
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - Guides, papers, lecture, notebooks and resources for prompt engineering
 - [LLM University](https://cohere.com/llmu)
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
+- [Hugging Face Learn](https://huggingface.co/learn)
 
 ## Articles
 - [Reviewing GitHub Copilot by Building a Deck of Cards](https://programmingpercy.tech/blog/reviewing-github-copilot-by-building-deck-of-cards/)
@@ -22,7 +23,9 @@
 - [How to Install AutoGPT in Minutes](https://geekflare.com/how-to-install-autogpt/)
 - [What Are Transformer Models and How Do They Work?](https://txt.cohere.com/what-are-transformer-models/?twclid=2-6qtbhc5iselai1y94f8am1xxm&fbclid=IwAR1gBV0PNiPHU--HAKWLXMqwbnkiaQQ4oRFbRQ2vNqLy83UlrfbJ0_PbMz4)
 - [Running Large Language Models locally – Your own ChatGPT-like AI in C#](https://blog.maartenballiauw.be/post/2023/06/15/running-large-language-models-locally-your-own-chatgpt-like-ai-in-csharp.html)
-- [Introducing GPTs](https://openai.com/blog/introducing-gpts)
+- [Chat Templates](https://huggingface.co/blog/chat-templates)
+- [Introducing Microsoft.Extensions.AI Preview – Unified AI Building Blocks for .NET](https://devblogs.microsoft.com/dotnet/introducing-microsoft-extensions-ai-preview/)
+- [GitHub Models and .NET: Building Generative AI apps for engineers](https://devblogs.microsoft.com/dotnet/using-github-models-and-dotnet-to-build-generative-ai-apps/)
 
 ## 📺 Videos
 - [ChatGPT Might Make Developers Unemployed In A Few Years](https://www.youtube.com/watch?v=C6tRcvY5xZg)
@@ -86,6 +89,9 @@
 - [meta-llama/codellama](https://github.com/meta-llama/codellama) - Inference code for CodeLlama models
 DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
 - [deepseek-ai/DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
+- [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - State-of-the-Art Text Embeddings
+- [SciSharp/TensorFlow.NET](https://github.com/SciSharp/TensorFlow.NET) - .NET Standard bindings for Google's TensorFlow for developing, training and deploying Machine Learning models in C# and F#.
+- [dotnet/smartcomponents](https://github.com/dotnet/smartcomponents) - Sample intelligent app features provided as reusable .NET components
 
 ## Tools
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
@@ -101,10 +107,14 @@ DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intellig
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [microsoft/chat-copilot](https://github.com/microsoft/chat-copilot)
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - OpenHands: Code Less, Make More
+- [Doriandarko/o1-engineer](https://github.com/Doriandarko/o1-engineer) - o1-engineer is a command-line tool designed to assist developers in managing and interacting with their projects efficiently. 
+- [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.
+- [Doriandarko/RepoToTextForLLMs](https://github.com/Doriandarko/RepoToTextForLLMs) - Automate the analysis of GitHub repositories for LLMs with RepoToTextForLLMs. 
+- [carlrobertoh/CodeGPT](https://github.com/carlrobertoh/CodeGPT) - The leading open-source AI copilot for JetBrains. Connect to any model in any environment, and customize your coding experience in any way you like.
 
 ## Samples
 - [Azure-Samples/openai-dotnet-samples](https://github.com/Azure-Samples/openai-dotnet-samples)
-- [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes/) - Examples and recipes for Llama 2 model
+- [dotnet/ai-samples](https://github.com/dotnet/ai-samples)
 
 ## Books
 - [Building LLMs for Production: Enhancing LLM Abilities and Reliability with Prompting, Fine-Tuning, and RAG](https://www.amazon.com/Building-LLMs-Production-Reliability-Fine-Tuning/dp/B0D4FFPFW8)

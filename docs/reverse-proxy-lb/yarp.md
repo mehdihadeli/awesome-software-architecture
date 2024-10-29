@@ -28,3 +28,4 @@
 - [thangchung/northwind-dotnet](https://github.com/thangchung/northwind-dotnet/blob/main/AppGateway/appsettings.json)
 - [thangchung/clean-architecture-dotnet](https://github.com/thangchung/clean-architecture-dotnet/blob/main/samples/AppGateway/appsettings.json)
 - [khalidabuhakmeh/YarpReverseProxyFlowThroughAuth](https://github.com/khalidabuhakmeh/YarpReverseProxyFlowThroughAuth)
+- [cecilphillip/yarp-samples](https://github.com/cecilphillip/yarp-samples) - Samples for setting up YARP and HTTP APIs

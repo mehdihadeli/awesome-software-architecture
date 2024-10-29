@@ -65,9 +65,10 @@
 - [Apache Kafka - 2022 Edition [.NET 6 Consumer and Producer, Docker containerized Kafka services]](https://www.youtube.com/watch?v=A4Y7z6wFRk0)
 - [ASP.NET Producer for Apache Kafka - 2022 Edition [Multiple partitions and ASP.NET Producer]](https://www.youtube.com/watch?v=FzufaOUdA10)
 - [Event-driven integration #5 - Quick intro to Apache Kafka [ASPF02O|E044]](https://www.youtube.com/watch?v=tUzCxZdKEr4)
-- [Event-driven integration #6 - Publishing events (feat. Apache Kafka) [ASPF02O|E045]](https://www.youtube.com/watch?v=T2Dy7cH486c&t=41s)
+- [Event-driven integration #6 - Publishing events (feat. Apache Kafka) [ASPF02O|E045]](https://www.youtube.com/watch?v=T2Dy7cH486c)
 - [Building Scalable Real Time Event Processing with Kafka and Flink](https://doordash.engineering/2022/08/02/building-scalable-real-time-event-processing-with-kafka-and-flink/)
 - [Apache Kafka in 1 hour for C# Developers - Guilherme Ferreira - Copenhagen DevFest 2023](https://www.youtube.com/watch?v=E07CGvGVal8)
+- [Kafka for .NET Developers - Ian Cooper - NDC Oslo 2024](https://www.youtube.com/watch?v=tIZC70Swfwk)
 
 ## 📦 Libraries
 - [confluentinc/confluent-kafka-dotnet/](https://github.com/confluentinc/confluent-kafka-dotnet/) - Confluent's Apache Kafka .NET client

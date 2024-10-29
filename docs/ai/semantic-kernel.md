@@ -8,6 +8,7 @@
 ## Articles
 - [What is Semantic Kernel?](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
 - [Getting started with Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/get-started/quick-start-guide?pivots=programming-language-csharp)
+- [Introducing new Ollama Connector for Local Models](https://devblogs.microsoft.com/semantic-kernel/introducing-new-ollama-connector-for-local-models/)
 
 ## Libraries
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps

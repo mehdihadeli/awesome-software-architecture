@@ -42,6 +42,8 @@
 - [Actually Talking about Modular Monoliths](https://jeremydmiller.com/2024/04/08/actually-talking-about-modular-monoliths/)
 - [Modular Monoliths and the “Critter Stack”](https://jeremydmiller.com/2024/04/15/modular-monoliths-and-the-critter-stack/)
 - [Breaking It Down: How to Migrate Your Modular Monolith to Microservices](https://www.milanjovanovic.tech/blog/breaking-it-down-how-to-migrate-your-modular-monolith-to-microservices)
+- [Modular Monolith - A Gentle Introduction](https://www.dandoescode.com/blog/modular-monolith/a-gentle-introduction)
+- [Modular Monolith - Implementation Deep Dive](https://www.dandoescode.com/blog/modular-monolith/implementation-deep-dive)
 
 ## 📺 Videos
 - [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE)
@@ -98,3 +100,4 @@
 - [kamilbaczek/Estimation-Tool](https://github.com/kamilbaczek/Estimation-Tool) ⭐ - Modular monolith architecture example in .NET. Estimation Tool is tool to optimize estimation process in IT company.
 - [baranacikgoz/modular-monolith-ddd-vsa-webapi](https://github.com/baranacikgoz/modular-monolith-ddd-vsa-webapi) - A .NET 8 Webapi boilerplate with Modular Monolith approach, Domain-Driven Design and Vertical Slices architecture along with Clean Architecture principles per feature
 - [kamilbaczek/Modular-monolith-by-example](https://github.com/kamilbaczek/Modular-monolith-by-example) - Modular monolith architecture example in .NET. Estimation Tool is tool to optimize estimation process in IT company.
+- [PeterKneale/modular_monolith_saas](https://github.com/PeterKneale/modular_monolith_saas)

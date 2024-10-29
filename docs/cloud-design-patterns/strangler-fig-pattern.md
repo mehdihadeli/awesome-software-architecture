@@ -1,10 +1,6 @@
-# Strangler Fig pattern
+# Strangler Fig Pattern
 
-## 📕 Articles
-
+## Articles
 - [Strangler Fig pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/strangler-fig)
-
-## 🚀 Samples
-
-- [VisualReCode/Cocoon](https://github.com/VisualReCode/Cocoon) 
-    > An implementation of the Strangler Fig pattern for ASP.NET Core
+- [StranglerFigApplication](https://martinfowler.com/bliki/StranglerFigApplication.html)
+- [Refactoring Legacy Code with the Strangler Fig Pattern](https://shopify.engineering/refactoring-legacy-code-strangler-fig-pattern)

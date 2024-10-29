@@ -102,7 +102,6 @@ nav:
   - Persistence Ignorance: architectural-design-principles/persistence-ignorance.md
   - Single Responsibility: architectural-design-principles/single-responsibility.md
   - SOLID: architectural-design-principles/solid.md
-  - Strangler Fig Pattern: architectural-design-principles/strangler-fig-pattern.md
   - YAGNI: architectural-design-principles/yagni.md
 - Architecture Decision Records (ADR): adr.md
 - Azure Cloud:
