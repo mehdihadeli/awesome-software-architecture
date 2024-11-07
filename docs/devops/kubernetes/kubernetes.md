@@ -88,6 +88,9 @@
 - [Configure Liveness, Readiness and Startup Probes](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/) ⭐
 - [Kubernetes–Override an appsettings.json file in an ASP.NET Core app through ConfigMaps](https://bartwullems.blogspot.com/2021/03/kubernetesoverride-appsettingsjson-file.html)
 - [Kubeconfig File Explained With Practical Examples](https://devopscube.com/kubernetes-kubeconfig-file/)
+- [Evolution of Capacity Management: From Bare Metal to Kubernetes](https://mkdev.me/posts/evolution-of-capacity-management-from-bare-metal-to-kubernetes)
+- [Kubernetes Is Not an Orchestrator: The Jump to Universality for Infrastructure Abstractions](https://mkdev.me/posts/kubernetes-is-not-an-orchestrator-the-jump-to-universality-for-infrastructure-abstractions)
+- [Kubernetes Capacity and Resource Management: It's Not What You Think It Is](https://mkdev.me/posts/kubernetes-capacity-and-resource-management-it-s-not-what-you-think-it-is)
 - [The Ultimate Kubectl Command Line Cheat Sheet](https://komodor.com/learn/the-ultimate-kubectl-cheat-sheet/) ⭐
 - [How to Use Kubectl Config Set-Context](https://kodekloud.com/blog/kubectl-change-context/) ⭐
 - [Configure Access to Multiple Clusters](https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/) ⭐
@@ -116,7 +119,9 @@
 - [Credentials and Configs in Kubernetes Secrets and ConfigMaps](https://www.youtube.com/watch?v=tWc3wfC8sOc)
 - [Level-up Your DevOps with GitHub Actions and Kubernetes](https://www.youtube.com/watch?v=TMbXwNtuAJo)
 - [Kubernetes + OpenAI = K8sGPT, giving you AI superpowers!](https://www.youtube.com/watch?v=7WA8XVrod2Y)
+- [Kubernetes Secrets with GitOps and Sealed Secrets Controller](https://youtu.be/PP4UImKKk2g?si=Ecv8Khr-eh0SlwaK)
 - [DNS for Services and Pods](https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/)
+
 
 ## 📦 Libraries
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
