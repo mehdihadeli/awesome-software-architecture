@@ -62,6 +62,9 @@ nav:
   - Akka .NET: actor-model-architecture/akka-net.md
   - Orleans: actor-model-architecture/orleans.md
   - Protoactor: actor-model-architecture/protoactor.md
+- Architecture Documententation:
+  - ADR: architecture-documententation/adr.md
+  - C4: architecture-documententation/c4.md
 - AI:
     AI: ai/ai.md
     Embedding & Vector: ai/embedding-vector.md

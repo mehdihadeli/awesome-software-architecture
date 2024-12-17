@@ -37,6 +37,8 @@
 - [Explicit validation in C# just got simpler!](https://event-driven.io/en/explicit_validation_in_csharp_just_got_simpler/) ⭐
 - [Notes about C# records and Nullable Reference Types](https://event-driven.io/en/notes_about_csharp_records_and_nullable_reference_types/) ⭐
 - [Exploring Advanced Error Handling Patterns with Event Driven Architecture Part I](https://medium.com/ssense-tech/exploring-advanced-error-handling-patterns-with-event-driven-architecture-part-i-e2f37741d904)
+- [DDD: Business Logic & Exceptions in Entities](https://mbarkt3sto.hashnode.dev/ddd-business-logic-exceptions-in-entities)
+
 ## 📦 Libraries
 - [ardalis/GuardClauses](https://github.com/ardalis/GuardClauses) - A simple package with guard clause extensions.
 - [danielwertheim/Ensure.That](https://github.com/danielwertheim/Ensure.That) - Guard clause project for .NET

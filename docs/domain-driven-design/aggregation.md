@@ -22,6 +22,8 @@
 - [DDD Beyond the Basics: Mastering Aggregate Design](https://medium.com/ssense-tech/ddd-beyond-the-basics-mastering-aggregate-design-26591e218c8c) ⭐
 - [Domain-Driven Design: A Walkthrough of Building an Aggregate](https://betterprogramming.pub/domain-driven-design-a-walkthrough-of-building-an-aggregate-c84113aa9975) ⭐
 - [Domain Driven Design: Patterns for Aggregate Creation Mastery](https://www.dandoescode.com/blog/domain-driven-design-patterns-for-aggregate-creation-mastery) ⭐
+- [DDD: Entity vs. Value Object vs. Aggregate Root](https://mbarkt3sto.hashnode.dev/ddd-entity-vs-value-object-vs-aggregate-root) ⭐
+- [Classes internal to an aggregate: entities or value objects?](https://enterprisecraftsmanship.com/posts/classes-internal-to-an-aggregate-entities-or-value-objects/)
 
 ## 📺 Videos
 
@@ -34,3 +36,4 @@
 
 ## Samples
 - [oskardudycz/slim-down-your-aggregate](https://github.com/oskardudycz/slim-down-your-aggregate)
+- [oskardudycz/kandddinsky2024](https://github.com/oskardudycz/kandddinsky2024)

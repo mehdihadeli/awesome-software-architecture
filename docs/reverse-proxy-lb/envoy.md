@@ -13,8 +13,9 @@
 - [Load balancing and HTTP Routing with Envoy Proxy](https://www.youtube.com/watch?v=D0cuv1AEftE)
 - [Envoy Proxy Crash Course, Architecture, L7 & L4 Proxying, HTTP/2, Enabling TLS 1.2/1.3 and more](https://www.youtube.com/watch?v=40gKzHQWgP0)
 - [The hardest part of operating a service mesh: Envoy Proxy](https://www.youtube.com/watch?v=oQ600fSfbXk)
+
 ## 📦 Libraries
-- [turbinelabs/rotor](https://github.com/turbinelabs/rotor) - Rotor is a fast, lightweight bridge between your service discovery and Envoy’s configuration APIs. 
+- [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
 
 ## 🚀 Samples
 - [jbw/TooBigToFailBurgerShop](https://github.com/jbw/TooBigToFailBurgerShop/tree/develop/src/services/ApiGateway/Envoy)

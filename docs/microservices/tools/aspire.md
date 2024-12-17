@@ -22,6 +22,8 @@
 - [Learn .NET Aspire by example: Polyglot persistence featuring PostgreSQL, Redis, MongoDB, and Elasticsearch](https://nikiforovall.github.io/dotnet/aspire/2024/06/18/polyglot-persistance-with-aspire.html)
 - [Adding .NET Aspire to your existing .NET apps](https://devblogs.microsoft.com/dotnet/adding-dotnet-aspire-to-your-existing-dotnet-apps/)
 - [What’s new in .NET Aspire 8.1 for cloud native developers!](https://devblogs.microsoft.com/dotnet/whats-new-in-aspire-8-1/)
+- [Introducing the .NET Aspire Community Toolkit](https://devblogs.microsoft.com/dotnet/introducing-the-dotnet-aspire-community-toolkit/)
+- [Using Local AI models with .NET Aspire](https://devblogs.microsoft.com/dotnet/local-ai-models-with-dotnet-aspire/)
 
 ## Videos
 - [Building Cloud Native apps with .NET 8 | .NET Conf 2023](https://www.youtube.com/watch?v=z1M-7Bms1Jg)
@@ -33,6 +35,8 @@
 ## Tools
 - [prom3theu5/aspirational-manifests](https://github.com/prom3theu5/aspirational-manifests) - Handle deployments of .NET Aspire AppHost Projects
 - [martinjt/aspire-app-extension](https://github.com/martinjt/aspire-app-extension)
+- [aws/integrations-on-dotnet-aspire-for-aws](https://github.com/aws/integrations-on-dotnet-aspire-for-aws) - This repositry contains the integrations with .NET Aspire for AWS.
+- [CommunityToolkit/Aspire](https://github.com/CommunityToolkit/Aspire) - A community project with additional components and extensions for .NET Aspire
 
 ## Samples
 - [dotnet/aspire-samples](https://github.com/dotnet/aspire-samples)
@@ -49,3 +53,4 @@
 - [dotnet/eShop](https://github.com/dotnet/eShop) - A reference .NET application implementing an eCommerce 
 - [dotnet/eShopSupport](https://github.com/dotnet/eShopSupport) - A reference .NET application using AI for a customer support ticketing system
 - [Azure-Samples/eShopOnAzure](https://github.com/Azure-Samples/eShopOnAzure) - A variant of https://github.com/dotnet/eShop that uses Azure services
+- [dotnet/eShop](https://github.com/dotnet/eShop) - A reference .NET application implementing an eCommerce site

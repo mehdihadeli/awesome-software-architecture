@@ -43,6 +43,7 @@
 - [Redis as a Database](https://medium.com/wix-engineering/redis-as-a-database-f9df579b09c0)
 - [MongoDB vs. Redis: Which Database Should You Use?](https://www.integrate.io/blog/mongodb-vs-redis/)
 - [MongoDB vs. Redis Comparison](https://www.mongodb.com/compare/mongodb-vs-redis)
+- [Redis Anti-Patterns Every Developer Should Avoid](https://redis.io/learn/howtos/antipatterns)
 
 ## 📺 Videos
 - [Real-Time Delivery Architecture at Twitter](https://www.infoq.com/presentations/Real-Time-Delivery-Twitter/)

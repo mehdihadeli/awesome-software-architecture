@@ -269,6 +269,7 @@
 - [Physer/Microshop.NET](https://github.com/Physer/Microshop.NET) - A .NET e-commerce showcase in a event-driven microservices architecture
 - [dotnet/eShopSupport](https://github.com/dotnet/eShopSupport) - A reference .NET application using AI for a customer support ticketing system
 - [Azure-Samples/eShopOnAzure](https://github.com/Azure-Samples/eShopOnAzure) - A variant of https://github.com/dotnet/eShop that uses Azure 
+- [dotnet/eShop](https://github.com/dotnet/eShop) - A reference .NET application implementing an eCommerce site
 - [thangchung/practical-dotnet-aspire](https://github.com/thangchung/practical-dotnet-aspire) - The practical .NET Aspire builds on the coffeeshop app business domain
 
 ## 📚 Books

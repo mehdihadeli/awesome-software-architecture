@@ -42,6 +42,7 @@
 - [From Primitive Obsession to Domain Modelling by Mark Seemann](https://blog.ploeh.dk/2015/01/19/from-primitive-obsession-to-domain-modelling/)
 - [eShopOnWeb Architecture (2/16) – uses Value Objects to model immutable domain concepts](https://davecallan.com/eshoponweb-uses-value-objects-to-model-immutable-domain-concepts/)
 - [A Modern Way to Create Value Objects to Solve Primitive Obsession in .NET](https://antondevtips.com/blog/a-modern-way-to-create-value-objects-to-solve-primitive-obsession-in-net)
+- [DDD: Value Objects](https://mbarkt3sto.hashnode.dev/ddd-value-objects)
 
 ## 📺 Videos
 - [Treating Primitive Obsession with ValueObjects | DDD in .NET](https://www.youtube.com/watch?v=h4uldNA1JUE)

@@ -215,6 +215,7 @@
 - [evolutionary-architecture/evolutionary-architecture-by-example](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example) ⭐ - Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various architectural patterns. 
 - [kamilbaczek/Estimation-Tool](https://github.com/kamilbaczek/Estimation-Tool) ⭐ - Modular monolith architecture example in .NET. Estimation Tool is tool to optimize estimation process in IT company.
 - [baranacikgoz/modular-monolith-ddd-vsa-webapi](https://github.com/baranacikgoz/modular-monolith-ddd-vsa-webapi) - A .NET 8 Webapi boilerplate with Modular Monolith approach, Domain-Driven Design and Vertical Slices architecture along with Clean Architecture principles per feature
+- [oskardudycz/kandddinsky2024](https://github.com/oskardudycz/kandddinsky2024)
 
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET

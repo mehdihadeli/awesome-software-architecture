@@ -43,7 +43,8 @@
 - [Domain Modeling Heuristics #1: I See Users Everywhere!](https://www.jamesmichaelhickey.com/i-see-users-everywhere/)
 - [Entity Best Practices & Conventions - ABP](https://docs.abp.io/en/abp/latest/Best-Practices/Entities)
 - [Entities - ABP](https://docs.abp.io/en/abp/latest/Entities)
-- [Aggregate pattern in Domain-Driven Design](https://medium.com/eventuous/aggregate-pattern-in-domain-driven-design-7ad823475099)
+- [DDD: Domain Entities](https://mbarkt3sto.hashnode.dev/ddd-domain-entities)
+
 ## 📺 Videos
 - [AVOID Entity Services by Focusing on Capabilities](https://www.youtube.com/watch?v=2gOOstEI4vU) 
 - [ALWAYS Valid Domain Model](https://www.youtube.com/watch?v=JZetlRXdYeI)

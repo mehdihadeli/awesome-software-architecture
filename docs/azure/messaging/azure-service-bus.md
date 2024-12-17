@@ -26,6 +26,7 @@
 - [Advanced Message Queueing Protocol (AMQP) 1.0 support in Service Bus](https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-overview)
 - [How to bridge RabbitMQ with Service Bus](https://dev.to/azure/how-to-bridge-rabbitmq-with-azure-service-bus-98l)
 - [How to use AMQP 1.0 with the Service Bus .NET API](https://github.com/toddkitta/azure-content/blob/master/articles/service-bus/service-bus-dotnet-advanced-message-queuing.md)
+- [Overview of the Azure Service Bus emulator](https://learn.microsoft.com/en-us/azure/service-bus-messaging/overview-emulator)
 
 ## 📺 Videos
 - [Asynchronous messaging with Azure Service Bus](https://www.youtube.com/watch?v=aJn5CDhWvJQ)
@@ -38,6 +39,9 @@
 - [Azure Service Bus - Implementation with Asp.Net Core 5 (Step by Step)](https://www.youtube.com/watch?v=bmZQkMJErZM)
 - [AZURE SERVICE BUS QUEUE - Getting Started | Azure Series](https://www.youtube.com/watch?v=sjgG3Q2GbeA)
 - [AZURE SERVICE BUS TOPICS & SUBSCRIPTIONS- Getting Started | Azure Series](https://www.youtube.com/watch?v=YFKrguSrOAM)
+
+## Libraries
+- [Azure/azure-service-bus-emulator-installer](https://github.com/Azure/azure-service-bus-emulator-installer) - This repository acts as a central hub for handling issues, collecting feedback, and facilitating discussions related to the Azure Service Bus Emulator.
 
 ## 🚀 Samples
 - [Azure/azure-sdk-for-net/tree/main/sdk/servicebus/Azure.Messaging.ServiceBus/samples](https://github.com/Azure/azure-sdk-for-net/tree/main/sdk/servicebus/Azure.Messaging.ServiceBus/samples)
