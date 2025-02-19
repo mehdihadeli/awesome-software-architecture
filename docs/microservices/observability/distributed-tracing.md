@@ -100,6 +100,8 @@
 - [Where are my traces? (weird .NET meets OpenTelemetry gotcha)](https://blog.codingmilitia.com/2024/05/13/where-are-my-traces-weird-dotnet-meets-opentelemetry-gotcha/)
 - [Monitoring Unit Tests with OpenTelemetry in .NET](https://www.honeycomb.io/blog/monitoring-unit-tests-opentelemetry)
 - [Automated Tests instrumentation via OpenTelemetry and Aspire Dashboard](https://nikiforovall.github.io/dotnet/opentelemtry/2024/06/07/test-instrumentation-with-otel-aspire.html)
+- [A Beginner's Guide to the OpenTelemetry Collector](https://betterstack.com/community/guides/observability/opentelemetry-collector/) ⭐
+
 
 ## 📺 Videos
 - [Jimmy Bogard - Distributed Tracing Made Easy with .NET Core and OpenTelemetry](https://www.youtube.com/watch?v=s9UNr1oEMl4)

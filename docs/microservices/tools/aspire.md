@@ -24,6 +24,9 @@
 - [What’s new in .NET Aspire 8.1 for cloud native developers!](https://devblogs.microsoft.com/dotnet/whats-new-in-aspire-8-1/)
 - [Introducing the .NET Aspire Community Toolkit](https://devblogs.microsoft.com/dotnet/introducing-the-dotnet-aspire-community-toolkit/)
 - [Using Local AI models with .NET Aspire](https://devblogs.microsoft.com/dotnet/local-ai-models-with-dotnet-aspire/)
+- [.NET Aspire dashboard overview](https://learn.microsoft.com/en-us/dotnet/aspire/fundamentals/dashboard/overview)
+- [Standalone .NET Aspire dashboard](https://learn.microsoft.com/en-us/dotnet/aspire/fundamentals/dashboard/standalone)
+- [Explore the .NET Aspire dashboard](https://learn.microsoft.com/en-us/dotnet/aspire/fundamentals/dashboard/explore)
 
 ## Videos
 - [Building Cloud Native apps with .NET 8 | .NET Conf 2023](https://www.youtube.com/watch?v=z1M-7Bms1Jg)
@@ -54,3 +57,4 @@
 - [dotnet/eShopSupport](https://github.com/dotnet/eShopSupport) - A reference .NET application using AI for a customer support ticketing system
 - [Azure-Samples/eShopOnAzure](https://github.com/Azure-Samples/eShopOnAzure) - A variant of https://github.com/dotnet/eShop that uses Azure services
 - [dotnet/eShop](https://github.com/dotnet/eShop) - A reference .NET application implementing an eCommerce site
+- [dotnet-presentations/eshop-app-workshop](https://github.com/dotnet-presentations/eshop-app-workshop) - This workshop will teach you ASP.NET Core & .NET Aspire by building the product catalog & order placement features of the eShop reference application.

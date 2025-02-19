@@ -28,6 +28,9 @@
 - [Combining the To-Do List and the Passage Of Time patterns for resilient business workflows](https://event-driven.io/en/to_do_list_and_passage_of_time_patterns_combined/)
 - [Low Ceremony Sagas with Wolverine](https://jeremydmiller.com/2024/08/20/low-ceremony-sagas-with-wolverine/)
 - [Saga Orchestration for Microservices Using the Outbox Pattern](https://www.infoq.com/articles/saga-orchestration-outbox/) ⭐
+- [Distributed Transactions in Microservices with Kafka Streams and Spring Boot](https://piotrminkowski.com/2022/01/24/distributed-transactions-in-microservices-with-kafka-streams-and-spring-boot/)
+- [Deep Dive into Saga Transactions with Kafka Streams and Spring Boot](https://piotrminkowski.com/2022/02/07/deep-dive-into-saga-transactions-with-kafka-streams-and-spring-boot/)
+
 
 ## 📺 Videos
 - [Life Beyond Distributed Transactions: An Apostate's Implementation - Jimmy Bogard](https://www.youtube.com/watch?v=AUrKofVRHV4)
@@ -45,3 +48,4 @@
 ## 🚀 Samples
 - [markgossa/Reference-Event-Driven-Architecture](https://github.com/markgossa/Reference-Event-Driven-Architecture)
 - [oskardudycz/EventSourcing.NetCore/Sample/HotelManagement](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/HotelManagement) ⭐
+- [piomin/sample-spring-kafka-microservices](https://github.com/piomin/sample-spring-kafka-microservices) - Example microservices showing how to use Kafka and Kafka Streams with Spring Boot on the example of distributed transactions implementations with the SAGA pattern

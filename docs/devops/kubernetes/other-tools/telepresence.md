@@ -11,7 +11,7 @@
 - [An alternative to Telepresence 2: Gefyra](https://unikube.io/blog/alternative-to-telepresence-2-gefyra/)
 - [Comparing Local Kubernetes Development Tools: Telepresence, Gefyra, and mirrord](https://kubernetes.io/blog/2023/09/12/local-k8s-development-tools/)
 - [mirrord as an alternative to Telepresence](https://metalbear.co/blog/mirrord-as-an-alternative-to-telepresence/)
-
+- [Development on Kubernetes with Telepresence and Skaffold](https://piotrminkowski.com/2021/12/21/development-on-kubernetes-with-telepresence-and-skaffold/)
 
 ## Videos
 - [Local Kubernetes Development with Telepresence](https://www.youtube.com/watch?v=k0C2M8_8olg)
@@ -19,3 +19,6 @@
 - [Teleporting And Intercepting Microservices With CodeZero](https://www.youtube.com/watch?v=bt5lQqRJxlE)
 - [How We Use Telepresence 2 at Ambassador Labs](https://www.youtube.com/watch?v=nN1yF6RCaW4)
 - [Intro: Telepresence: Fast Local-to-Remote Development for Kubernetes - Daniel Bryant, Datawire](https://www.youtube.com/watch?v=9eyHSjbZwR8)
+
+## Samples
+- [piomin/sample-istio-services](https://github.com/piomin/sample-istio-services)

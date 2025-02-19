@@ -12,6 +12,7 @@
 - [Lesson 4 - Advanced Akka.Cluster Techniques DistributedPubSub, Sharding, and ClusterClient](https://petabridge.com/cluster/lesson4)
 - [Lesson 5 - Deploying Akka.Cluster in Kubernetes](https://petabridge.com/cluster/lesson5)
 - [Lesson 6 - Monitoring Akka.NET with Phobos](https://petabridge.com/cluster/lesson6)
+- [How to Start Learning Actor-Based Programming](https://petabridge.com/blog/begin-learning-actor-based-design/)
 
 ## Videos
 - [Webinar: Akka.NET Application Management Best Practices](https://www.youtube.com/watch?v=X1Tg4R2JFMQ)

@@ -14,6 +14,7 @@
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
 - [ddd-crew/context-mapping](https://github.com/ddd-crew/context-mapping)
 - [ddd-crew/welcome-to-ddd](https://github.com/ddd-crew/welcome-to-ddd)
+
 ## 📕 Articles
 - [Design a DDD-oriented microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice) 
 - [PPPDDD.1 – What is Domain Driven Design?](https://herbertograca.com/2016/08/15/pppddd-1-what-is-domain-driven-design/) 
@@ -158,10 +159,6 @@
 - [falberthen/EcommerceDDD](https://github.com/falberthen/EcommerceDDD) - A lightweight ASP.NET Core SPA (Angular) showcase of Domain-Driven Design, CQRS, and Event Sourcing.
 - [DevBetterCom/DevBetterWeb](https://github.com/DevBetterCom/DevBetterWeb) - A simple web application for devBetter
 - [baratgabor/MyWarehouse](https://github.com/baratgabor/MyWarehouse) - Clean Architecture and Domain Driven Design sample project based on C# 9 / .NET 5 / ASP.NET Core 5 / EF Core 5 & Angular 11 with Bootstrap.
-- [oskardudycz/EventSourcing.NetCore/ECommerce](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/ECommerce)
-- [oskardudycz/EventSourcing.NetCore/Sample/Tickets](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/Tickets)
-- [oskardudycz/EventSourcing.NetCore/Sample/MeetingsManagement](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/MeetingsManagement)
-- [oskardudycz/EventSourcing.NetCore/Sample/Warehouse](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/Warehouse)
 - [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example?utm_source=about-wild-workouts) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring of a Go project.
 - [peholmst/DDDExample](https://github.com/peholmst/DDDExample) - Example application for my TechLunch @ Vaadin about DDD and the Hexagonal Architecture
 - [EnLabSoftware/HRManagement](https://github.com/EnLabSoftware/HRManagement)
@@ -215,7 +212,13 @@
 - [evolutionary-architecture/evolutionary-architecture-by-example](https://github.com/evolutionary-architecture/evolutionary-architecture-by-example) ⭐ - Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various architectural patterns. 
 - [kamilbaczek/Estimation-Tool](https://github.com/kamilbaczek/Estimation-Tool) ⭐ - Modular monolith architecture example in .NET. Estimation Tool is tool to optimize estimation process in IT company.
 - [baranacikgoz/modular-monolith-ddd-vsa-webapi](https://github.com/baranacikgoz/modular-monolith-ddd-vsa-webapi) - A .NET 8 Webapi boilerplate with Modular Monolith approach, Domain-Driven Design and Vertical Slices architecture along with Clean Architecture principles per feature
-- [oskardudycz/kandddinsky2024](https://github.com/oskardudycz/kandddinsky2024)
+- [oskardudycz/EventSourcing.NetCore/ECommerce](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/ECommerce)
+- [oskardudycz/EventSourcing.NetCore/Sample/Tickets](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/Tickets)
+- [oskardudycz/EventSourcing.NetCore/Sample/MeetingsManagement](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/MeetingsManagement)
+- [oskardudycz/EventSourcing.NetCore/Sample/Warehouse](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/Warehouse) 
+- [EventSourcing.NetCore/tree/main/Sample/Warehouse.MinimalAPI](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/Warehouse.MinimalAPI) ⭐
+- [oskardudycz/kandddinsky2024](https://github.com/oskardudycz/kandddinsky2024) ⭐
+- [oskardudycz/slim-down-your-aggregate/tree/main/csharp/Original](https://github.com/oskardudycz/slim-down-your-aggregate) ⭐
 
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET

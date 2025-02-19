@@ -71,7 +71,7 @@
 - [Anti-patterns in event modelling - State Obsession](https://event-driven.io/en/state-obsession/)
 - [How to build event-driven projections with Entity Framework](https://event-driven.io/en/how_to_do_events_projections_with_entity_framework/)
 - [Let's talk about positions in event stores](https://event-driven.io/en/lets_talk_about_positions_in_event_stores/)
-- [Simple patterns for events schema versioning](https://event-driven.io/en/simple_events_versioning_patterns/)
+- [Simple patterns for events schema versioning](https://event-driven.io/en/simple_events_versioning_patterns/) ⭐
 - [How to (not) do the events versioning?](https://event-driven.io/en/how_to_do_event_versioning/)
 - [How to do snapshots in Marten?](https://event-driven.io/en/how_to_do_snapshots_in_Marten/)
 - [Keep your streams short! Temporal modeling for fast reads and optimal data retention](https://www.eventstore.com/blog/keep-your-streams-short-temporal-modelling-for-fast-reads-and-optimal-data-retention)
@@ -237,10 +237,8 @@
 
 ## 🚀 Samples
 - [VenomAV/EventSourcingCQRS](https://github.com/VenomAV/EventSourcingCQRS)
-- [oskardudycz/EventSourcing.NetCore/Sample/EventStoreDB/Simple](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/EventStoreDB/Simple)
 - [oskardudycz/EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore) - Examples and Tutorials of Event Sourcing in .NET
 - [oskardudycz/EventSourcing.NodeJS](https://github.com/oskardudycz/EventSourcing.NodeJS) - Examples and Tutorials of Event Sourcing in NodeJS
-- [oskardudycz/EventSourcing.NetCore/BuildYourOwnEventStore](https://github.com/oskardudycz/EventSourcing.NetCore/tree/3c9782d760df75ee9d75f63955b82d76aba0bd2b/Workshops/BuildYourOwnEventStore)
 - [mizrael/SuperSafeBank](https://github.com/mizrael/SuperSafeBank) - Sample Event Sourcing implementation with .NET Core
 - [Hands-On-Domain-Driven-Design-with-.NET-Core](https://github.com/PacktPublishing/Hands-On-Domain-Driven-Design-with-.NET-Core) 
 - [Aggregates.NET](https://github.com/charlessolar/Aggregates.NET) - .NET event sourced domain driven design model via NServiceBus and GetEventStore
@@ -279,3 +277,7 @@
 - [bitloops/ddd-hexagonal-cqrs-es-eda](https://github.com/bitloops/ddd-hexagonal-cqrs-es-eda) - Complete working example of using Domain Driven Design (DDD), Hexagonal Architecture, CQRS, Event Sourcing (ES), Event Driven Architecture (EDA), Behaviour Driven Development (BDD) using TypeScript and NestJS
 - [matt-bentley/AspNetCore.EventSourcing](https://github.com/matt-bentley/AspNetCore.EventSourcing) - Simple Event Sourcing implementation in ASP.NET with Entity Framework Core and MediatR
 - [JasperFx/CritterStackSamples](https://github.com/JasperFx/CritterStackSamples) - Samples using the "Critter Stack" Tools
+- [oskardudycz/EventSourcing.JVM/tree/main/samples/event-sourcing-esdb-aggregates](https://github.com/oskardudycz/EventSourcing.JVM/tree/main/samples/event-sourcing-esdb-aggregates) ⭐
+- [oskardudycz/EventSourcing.NetCore/tree/main/Sample/EventStoreDB/ECommerce](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/EventStoreDB/ECommerce) ⭐
+- [oskardudycz/EventSourcing.JVM/tree/main/samples/event-sourcing-esdb-simple](https://github.com/oskardudycz/EventSourcing.JVM/tree/main/samples/event-sourcing-esdb-simple) ⭐
+- [oskardudycz/EventSourcing.NetCore/tree/main/Sample/EventStoreDB/Simple](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/EventStoreDB/Simple) ⭐

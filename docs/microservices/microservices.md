@@ -271,6 +271,8 @@
 - [Azure-Samples/eShopOnAzure](https://github.com/Azure-Samples/eShopOnAzure) - A variant of https://github.com/dotnet/eShop that uses Azure 
 - [dotnet/eShop](https://github.com/dotnet/eShop) - A reference .NET application implementing an eCommerce site
 - [thangchung/practical-dotnet-aspire](https://github.com/thangchung/practical-dotnet-aspire) - The practical .NET Aspire builds on the coffeeshop app business domain
+- [dotnet-presentations/eshop-app-workshop](https://github.com/dotnet-presentations/eshop-app-workshop) - This workshop will teach you ASP.NET Core & .NET Aspire by building the product catalog & order placement features of the eShop reference application.
+- [foxminchan/BookWorm](https://github.com/foxminchan/BookWorm) - The practical implementation of .NET Aspire using Microservices
 
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)
@@ -278,7 +280,6 @@
 - [Microservices Patterns: With examples in Java 1st Edition](https://www.manning.com/books/microservices-patterns)
 - [Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization](https://www.amazon.com/Production-Ready-Microservices-Susan-Fowler/dp/1491965975)
 - [Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith 1st Edition](https://www.amazon.com/Monolith-Microservices-Evolutionary-Patterns-Transform/dp/1492047848)
-- [Reactive Microservices Architecture](https://www.goodreads.com/book/show/29630482-reactive-microservices-architecture)
 - [Microservice Architecture: Aligning Principles, Practices, and Culture](https://www.amazon.com/Microservice-Architecture-Aligning-Principles-Practices/dp/1491956259)
 - [Microservices in .NET Core, Second Edition](https://www.manning.com/books/microservices-in-net-core-second-edition)
 - [Microservices in Action](https://www.manning.com/books/microservices-in-action)

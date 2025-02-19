@@ -1,5 +1,8 @@
 # LangChain
 
+## Resources
+- [LangChain Academy](https://academy.langchain.com/collections)
+
 ## Articles
 - [Build a Retrieval Augmented Generation (RAG) App](https://js.langchain.com/v0.2/docs/tutorials/rag/)
 

@@ -39,6 +39,8 @@
 - [Using Polly for .NET Resilience and Transient-Fault-Handling with .NET Core](https://www.telerik.com/blogs/using-polly-for-net-resilience-and-transient-fault-handling-with-net-core) ⭐
 - [Optimally Configuring ASP.NET Core HttpClientFactory](https://rehansaeed.com/optimally-configuring-asp-net-core-httpclientfactory/) ⭐
 - [Making Microservices Fault Tolerant with Code Examples](https://harshmatharu.com/blog/fault-tolerance-in-microservices)
+- [Introduction to resilient app development](https://learn.microsoft.com/en-us/dotnet/core/resilience/)
+- [Build resilient HTTP apps: Key development patterns](https://learn.microsoft.com/en-us/dotnet/core/resilience/http-resilience)
 
 ## 📺 Videos
 - [Handling Failures in Message Driven Architecture](https://www.youtube.com/watch?v=SesEYHGhlLQ)

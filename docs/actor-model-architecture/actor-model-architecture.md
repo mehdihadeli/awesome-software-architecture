@@ -4,6 +4,8 @@
 - [How virtual actors will help you scale your applications the easy way](https://www.etteplan.com/stories/how-virtual-actors-will-help-you-scale-your-applications-easy-way)
 - [Comparing .NET virtual actor frameworks](https://www.etteplan.com/stories/comparing-net-virtual-actor-frameworks)
 - [Benchmark: .NET virtual actor frameworks](https://www.etteplan.com/stories/benchmark-net-virtual-actor-frameworks)
+- [How to Start Learning Actor-Based Programming](https://petabridge.com/blog/begin-learning-actor-based-design/)
+
 ## 📦 Libraries
 - [dotnet/orleans](https://github.com/dotnet/orleans) - Cloud Native application framework for .NET
 - [asynkron/protoactor-dotnet](https://github.com/asynkron/protoactor-dotnet) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin

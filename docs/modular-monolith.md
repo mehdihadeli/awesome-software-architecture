@@ -44,6 +44,7 @@
 - [Breaking It Down: How to Migrate Your Modular Monolith to Microservices](https://www.milanjovanovic.tech/blog/breaking-it-down-how-to-migrate-your-modular-monolith-to-microservices)
 - [Modular Monolith - A Gentle Introduction](https://www.dandoescode.com/blog/modular-monolith/a-gentle-introduction)
 - [Modular Monolith - Implementation Deep Dive](https://www.dandoescode.com/blog/modular-monolith/implementation-deep-dive)
+- [Modular Monolith - Simplifying the Inner Development Loop with .NET Aspire](https://www.dandoescode.com/blog/modular-monolith/simplifying-the-inner-dev-loop-with-aspire)
 
 ## 📺 Videos
 - [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE)

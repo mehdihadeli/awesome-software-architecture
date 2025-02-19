@@ -91,6 +91,8 @@
 - [Adding a `job summary`](https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions#adding-a-job-summary)
 - [Running unit tests in GitHub Actions](https://octopus.com/blog/githubactions-running-unit-tests)
 - [Publishing a NuGet package using GitHub and GitHub Actions](https://www.meziantou.net/publishing-a-nuget-package-following-best-practices-using-github.htm)
+- [Run GitHub Actions locally with DinD and nektos/act](https://gauravgahlot.in/run-github-actions-locally-docker-nektos-act/)
+
 ## 📺 Videos
 - [Master GitHub Actions Tutorial - Playlist Cameron McKenzie](https://www.youtube.com/playlist?list=PL_RrEj88onS-um2xFy01sY46ik_2yt_EQ)
 - [Building Docker containers with GitHub Actions](https://www.youtube.com/watch?v=09lZdSpeHAk)

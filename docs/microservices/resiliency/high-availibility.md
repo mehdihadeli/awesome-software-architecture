@@ -7,6 +7,7 @@
 - [Improving Application Availability: The Basics](https://medium.com/ssense-tech/improving-application-availability-the-basics-f6c3365235fc)
 - [Improving Application Availability: Redundancy and Persistence](https://medium.com/ssense-tech/improving-application-availability-redundancy-and-persistence-e68d1f891dc4)
 - [Improving Your Application Availability — Graceful Degradation and Asynchronous Processing](https://medium.com/ssense-tech/improving-your-application-availability-graceful-degradation-and-asynchronous-processing-c4356eb5dc07)
+- [Improving Your Application Availability — Active-Active Patterns](https://medium.com/ssense-tech/improving-your-application-availability-active-active-patterns-20eaa6f9d57e)
 - [Deployment stamps pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/deployment-stamp)
 - [Geodes Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/geodes)
 - [Health Endpoint Monitoring Pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/health-endpoint-monitoring)

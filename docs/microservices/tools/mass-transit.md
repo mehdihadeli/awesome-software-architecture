@@ -86,3 +86,4 @@
 - [MassTransit/Sample-Outbox](https://github.com/MassTransit/Sample-Outbox)
 - [markgossa/Reference-Event-Driven-Architecture](https://github.com/markgossa/Reference-Event-Driven-Architecture)
 - [MassTransit/Sample-JobConsumers](https://github.com/MassTransit/Sample-JobConsumers)
+- [MassTransit/Sample-Kafka](https://github.com/MassTransit/Sample-Kafka)
