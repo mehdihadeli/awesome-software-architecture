@@ -30,6 +30,7 @@
 - [How Discord Stores Trillions of Messages](https://discord.com/blog/how-discord-stores-trillions-of-messages)
 - [Sharding & IDs at Instagram](https://instagram-engineering.com/sharding-ids-at-instagram-1cf5a71e5a5c)
 - [Thundering Herds & Promises](https://instagram-engineering.com/thundering-herds-promises-82191c8af57d)
+- [Guide to performance and scalability in microservices architectures](https://www.cerbos.dev/blog/performance-and-scalability-microservices)
 
 ## 📺 Videos
 - [AWS re:Invent 2019: [REPEAT] Scaling up to your first 10 million users ](https://www.youtube.com/watch?v=kKjm4ehYiMs)
