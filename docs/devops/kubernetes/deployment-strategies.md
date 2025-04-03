@@ -4,6 +4,7 @@
 
 - [Six Strategies for Application Deployment](https://thenewstack.io/deployment-strategies/)
 - [Kubernetes deployment strategies](https://blog.container-solutions.com/kubernetes-deployment-strategies)
+- [What's so bad about sidecars, anyway?](https://www.cerbos.dev/blog/whats-so-bad-about-sidecars-anyway)
 
 ## 📺 Videos
 - [Webinar: Deployment Strategies on Kubernetes](https://www.youtube.com/watch?v=1oPhfKye5Pg)
