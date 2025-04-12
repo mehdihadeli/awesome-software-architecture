@@ -69,6 +69,7 @@ nav:
     AI: ai/ai.md
     Embedding & Vector: ai/embedding-vector.md
     LangChain: ai/langchain.md
+    Model Context Protocol (MCP): ai/mcp.md
     Models:
       - Models: ai/models.md
       - Hugging Face: ai/models/hugging-face.md

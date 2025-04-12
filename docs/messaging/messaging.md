@@ -122,6 +122,7 @@
 - [Using Open Telemetry with the MassTransit Test Harness?](https://www.youtube.com/watch?v=7PM9XUAAMtA)
 - [MassTransit Message Contract Sharing using NuGet](https://www.youtube.com/watch?v=5i_VQBYvTIQ)
 - [Versioning your MassTransit message contracts](https://www.youtube.com/watch?v=PNNxJthctgk)
+- [Consistency and Agreements in Distributed Systems - Jimmy Bogard - NDC London 2025](https://www.youtube.com/watch?v=FZ-1dbtQXYY)  
   
 ## 📦 Libraries
 

@@ -21,12 +21,16 @@
 - [General Availability of .NET Aspire: Simplifying .NET Cloud-Native Development](https://devblogs.microsoft.com/dotnet/dotnet-aspire-general-availability/)
 - [Learn .NET Aspire by example: Polyglot persistence featuring PostgreSQL, Redis, MongoDB, and Elasticsearch](https://nikiforovall.github.io/dotnet/aspire/2024/06/18/polyglot-persistance-with-aspire.html)
 - [Adding .NET Aspire to your existing .NET apps](https://devblogs.microsoft.com/dotnet/adding-dotnet-aspire-to-your-existing-dotnet-apps/)
-- [What’s new in .NET Aspire 8.1 for cloud native developers!](https://devblogs.microsoft.com/dotnet/whats-new-in-aspire-8-1/)
 - [Introducing the .NET Aspire Community Toolkit](https://devblogs.microsoft.com/dotnet/introducing-the-dotnet-aspire-community-toolkit/)
 - [Using Local AI models with .NET Aspire](https://devblogs.microsoft.com/dotnet/local-ai-models-with-dotnet-aspire/)
 - [.NET Aspire dashboard overview](https://learn.microsoft.com/en-us/dotnet/aspire/fundamentals/dashboard/overview)
 - [Standalone .NET Aspire dashboard](https://learn.microsoft.com/en-us/dotnet/aspire/fundamentals/dashboard/standalone)
 - [Explore the .NET Aspire dashboard](https://learn.microsoft.com/en-us/dotnet/aspire/fundamentals/dashboard/explore)
+- [What’s new in .NET Aspire 8.1 for cloud native developers!](https://devblogs.microsoft.com/dotnet/whats-new-in-aspire-8-1/)
+- [What's new in .NET Aspire 9.0](https://learn.microsoft.com/en-us/dotnet/aspire/whats-new/dotnet-aspire-9)
+- [What's new in .NET Aspire 9.1](https://learn.microsoft.com/en-us/dotnet/aspire/whats-new/dotnet-aspire-9.1)
+- [.NET Aspire 9.2 is Now Available with New Ways to Deploy](https://devblogs.microsoft.com/dotnet/dotnet-aspire-92-is-now-available-with-new-ways-to-deploy/)
+- [What's new in .NET Aspire 9.2](https://learn.microsoft.com/en-us/dotnet/aspire/whats-new/dotnet-aspire-9.2)
 
 ## Videos
 - [Building Cloud Native apps with .NET 8 | .NET Conf 2023](https://www.youtube.com/watch?v=z1M-7Bms1Jg)

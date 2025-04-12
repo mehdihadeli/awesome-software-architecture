@@ -281,3 +281,4 @@
 - [oskardudycz/EventSourcing.NetCore/tree/main/Sample/EventStoreDB/ECommerce](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/EventStoreDB/ECommerce) ⭐
 - [oskardudycz/EventSourcing.JVM/tree/main/samples/event-sourcing-esdb-simple](https://github.com/oskardudycz/EventSourcing.JVM/tree/main/samples/event-sourcing-esdb-simple) ⭐
 - [oskardudycz/EventSourcing.NetCore/tree/main/Sample/EventStoreDB/Simple](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/EventStoreDB/Simple) ⭐
+- [oskardudycz/EventSourcing.NetCore/tree/main/Sample/EventsVersioning](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/EventsVersioning) ⭐

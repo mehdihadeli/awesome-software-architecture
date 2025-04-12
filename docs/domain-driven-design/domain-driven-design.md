@@ -126,6 +126,7 @@
 - [Hands-on case-study context mapping with Michael Plöd](https://www.youtube.com/watch?v=OthhRfqp-44)
 - [All our aggregates are wrong - Mauro Servienti](https://www.youtube.com/watch?v=hev65ozmYPI)
 - [DDD in large product portfolios - Andreas Pinhammer](https://www.youtube.com/watch?v=FzycqiJVioI)
+- [Slim down your aggregates! - Oskar Dudycz](https://www.architecture-weekly.com/p/webinar-8-slim-down-your-aggregates)
 
 ## 🚀 Samples
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.

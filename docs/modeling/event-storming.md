@@ -49,6 +49,7 @@
 - [Process Level Event Storming: let’s get this process started!](https://mrpicky.dev/process-level-event-storming-lets-get-this-process-started/)
 - [Mastering Strategic Domain-Driven Design – 3. Draft of Subdomains](https://meaboutsoftware.com/2023/10/01/mastering-strategic-domain-driven-design-3-draft-of-subdomains/)
 - [Mastering Strategic Domain-Driven Design – 4. Tuning of Subdomains](https://meaboutsoftware.com/2023/11/26/mastering-strategic-domain-driven-design-4-tuning-of-subdomains/)
+
 ## 📺 Videos
 - [Scoping and Organizing .NET Microservices Using Event Storming](https://www.pluralsight.com/courses/dotnet-microservices-scoping-organizing)
 - [GOTO 2018 • 50.000 Orange Stickies Later • Alberto Brandolini](https://www.youtube.com/watch?v=NGXl1D-KwRI)
@@ -59,6 +60,8 @@
 - [Event Storming Workshop @Bucharest Software Craftsmanship Community](https://www.youtube.com/watch?v=xVSaDdj3PVE)
 - [Trying out online EventStorming](https://www.youtube.com/watch?v=CbPEibNUe0s)
 - [Alberto Brandolini - 100,000 Orange Stickies Later](https://www.youtube.com/watch?v=fGm62ra_mQ8)
+- [Modularization with Event Storming Process Level - Radek Maziarka](https://www.architecture-weekly.com/p/webinar-9-radek-maziarka-modularization)
+
 ## 🚀 Samples
 - [ddd-by-examples/library](https://github.com/ddd-by-examples/library) - A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
 - [Event Storming](https://miro.com/app/board/o9J_kt3rZb4=/?fromEmbed=1)

@@ -106,6 +106,7 @@
 - [CQRS is simpler than you think with C#11 and .NET 7! - Oskar Dudycz](https://www.youtube.com/watch?v=iY7LO289qnQ)
 - [CQRS pitfalls and patterns - Udi Dahan - NDC Oslo 2023](https://www.youtube.com/watch?v=Lw04HRF8ies)
 - [CQRS Global Introduction. DDD IASA - Udi Dahan](https://www.youtube.com/watch?v=EkEz3pcLdgY)
+- [From CQRS to CRUD in Practice - Oskar Dudycz](https://www.architecture-weekly.com/p/webinar-4-from-cqrs-to-crud-in-practice)
 
 ## 📦 Libraries
 - [eventflow/EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
