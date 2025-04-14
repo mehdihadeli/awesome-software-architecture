@@ -44,6 +44,8 @@
 - [Layers, hexagons, features and components](https://www.codingthearchitecture.com/2016/04/25/layers_hexagons_features_and_components.html)
 - [PresentationDomainDataLayering](https://martinfowler.com/bliki/PresentationDomainDataLayering.html)
 - [Architectural Drivers: Building Blocks for Decision Making](https://www.neverletdown.net/2014/10/architectural-drivers.html)
+- [Certifications for Enterprise Architects, Domain Solutions Architects, and Software Engineers](https://www.cerbos.dev/blog/certifications-for-enterprise-architects-domain-solutions-architects-software-engineers)
+- [11 best open source tools for Software Architects](https://www.cerbos.dev/blog/best-open-source-tools-software-architects)
 
 ## 📺 Videos
 
