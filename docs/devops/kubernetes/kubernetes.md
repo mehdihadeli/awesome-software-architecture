@@ -94,6 +94,7 @@
 - [3 questions to answer when considering a multi-cluster Kubernetes architecture](https://www.redhat.com/architect/multi-cluster-kubernetes-architecture) ⭐
 - [Architecting Kubernetes clusters — how many should you have?](https://learnk8s.io/how-many-clusters) ⭐
 - [Adding health checks with Liveness, Readiness, and Startup probes](https://andrewlock.net/deploying-asp-net-core-applications-to-kubernetes-part-6-adding-health-checks-with-liveness-readiness-and-startup-probes/)
+- [Guide to Kubernetes RBAC](https://www.cerbos.dev/blog/guide-to-kubernetes-rbac)
 
 ## 📺 Videos
 - [Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]](https://www.youtube.com/watch?v=X48VuDVv0do)
