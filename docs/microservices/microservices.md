@@ -102,6 +102,16 @@
 - [ViewModel Composition](https://milestone.topics.it/series/view-model-composition.html)
 - [Improving Microservices Availability](https://www.ledjonbehluli.com/posts/improving_microservices_availability/)
 - [The Challenge of Microservices: UI Composition](https://codeopinion.com/the-challenge-of-microservices-ui-composition/)
+- [Determining service boundaries and decomposing your monolith](https://www.cerbos.dev/blog/determining-service-boundaries-and-decomposing-monolith)
+- [How to address decentralized data management in microservices](https://www.cerbos.dev/blog/data-management-in-microservices)
+- [How to pick the right inter-service communication pattern for your microservices](https://www.cerbos.dev/blog/inter-service-communication-microservices)
+- [Designing service discovery and load balancing in a microservices architecture](https://www.cerbos.dev/blog/service-discovery-load-balancing-microservices)
+- [The value of monitoring and observability in microservices, and associated challenges](https://www.cerbos.dev/blog/monitoring-and-observability-microservices)
+- [Best practices for testing and deploying microservices](https://www.cerbos.dev/blog/testing-and-deployment-strategies-microservices)
+- [Understanding security and access control requirements of microservices environment](https://www.cerbos.dev/blog/security-and-access-control-microservices)
+- [Guide to performance and scalability in microservices architectures](https://www.cerbos.dev/blog/performance-and-scalability-microservices)
+- [Top 10 organizational and technical challenges when migrating from a monolith to microservices (with in-depth company examples)](https://www.cerbos.dev/blog/organizational-technical-challenges-migrating-monolith-to-microservices)
+- [Effective team collaboration and code ownership for managing microservices systems](https://www.cerbos.dev/blog/team-collaboration-and-code-ownership-microservices)
 
 ## 📺 Videos
 - [Microservices Architectural Pattern](https://www.youtube.com/watch?v=8BPDv038oMI&t=0s) 
