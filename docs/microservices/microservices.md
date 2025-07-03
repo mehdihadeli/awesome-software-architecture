@@ -273,6 +273,8 @@
 - [thangchung/practical-dotnet-aspire](https://github.com/thangchung/practical-dotnet-aspire) - The practical .NET Aspire builds on the coffeeshop app business domain
 - [dotnet-presentations/eshop-app-workshop](https://github.com/dotnet-presentations/eshop-app-workshop) - This workshop will teach you ASP.NET Core & .NET Aspire by building the product catalog & order placement features of the eShop reference application.
 - [foxminchan/BookWorm](https://github.com/foxminchan/BookWorm) - The practical implementation of .NET Aspire using Microservices
+- [foxminchan/CoolShop](https://github.com/foxminchan/CoolShop) - A cloud-native e-commerce app built on Dapr and Aspire
+- [Azure-Samples/eShopLite](https://github.com/Azure-Samples/eShopLite) - eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more.
 
 ## 📚 Books
 - [Microservices Architecture and Step by Step Implementation on .NET](https://aspnetrun.azurewebsites.net/Microservices)

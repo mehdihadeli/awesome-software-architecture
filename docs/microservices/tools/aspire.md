@@ -31,6 +31,7 @@
 - [What's new in .NET Aspire 9.1](https://learn.microsoft.com/en-us/dotnet/aspire/whats-new/dotnet-aspire-9.1)
 - [.NET Aspire 9.2 is Now Available with New Ways to Deploy](https://devblogs.microsoft.com/dotnet/dotnet-aspire-92-is-now-available-with-new-ways-to-deploy/)
 - [What's new in .NET Aspire 9.2](https://learn.microsoft.com/en-us/dotnet/aspire/whats-new/dotnet-aspire-9.2)
+- [Converting a docker-compose file to .NET Aspire](https://andrewlock.net/converting-a-docker-compose-file-to-aspire/)
 
 ## Videos
 - [Building Cloud Native apps with .NET 8 | .NET Conf 2023](https://www.youtube.com/watch?v=z1M-7Bms1Jg)
@@ -38,12 +39,14 @@
 - [WHY and HOW to Add .NET Aspire to ANY .NET API and Web App in Minutes](https://www.youtube.com/watch?v=fN3ufsIF7vs)
 - [ASP.NET Community Standup: .NET Aspire Update](https://www.youtube.com/watch?v=Osf7_ZxRlvw)
 - [Let's Learn .NET Aspire](https://www.youtube.com/watch?v=8i3FaHChh20)
+- [What is .NET Aspire service discovery?](https://learn.microsoft.com/en-us/shows/dotnet-aspire-2024/what-is-dotnet-aspire-service-discovery)
 
 ## Tools
 - [prom3theu5/aspirational-manifests](https://github.com/prom3theu5/aspirational-manifests) - Handle deployments of .NET Aspire AppHost Projects
 - [martinjt/aspire-app-extension](https://github.com/martinjt/aspire-app-extension)
 - [aws/integrations-on-dotnet-aspire-for-aws](https://github.com/aws/integrations-on-dotnet-aspire-for-aws) - This repositry contains the integrations with .NET Aspire for AWS.
 - [CommunityToolkit/Aspire](https://github.com/CommunityToolkit/Aspire) - A community project with additional components and extensions for .NET Aspire
+- [aspirant-project/aspirant](https://github.com/aspirant-project/aspirant) - Extensions for .NET Aspire
 
 ## Samples
 - [dotnet/aspire-samples](https://github.com/dotnet/aspire-samples)
@@ -62,3 +65,6 @@
 - [Azure-Samples/eShopOnAzure](https://github.com/Azure-Samples/eShopOnAzure) - A variant of https://github.com/dotnet/eShop that uses Azure services
 - [dotnet/eShop](https://github.com/dotnet/eShop) - A reference .NET application implementing an eCommerce site
 - [dotnet-presentations/eshop-app-workshop](https://github.com/dotnet-presentations/eshop-app-workshop) - This workshop will teach you ASP.NET Core & .NET Aspire by building the product catalog & order placement features of the eShop reference application.
+- [foxminchan/BookWorm](https://github.com/foxminchan/BookWorm) - The practical implementation of .NET Aspire using Microservices
+- [foxminchan/CoolShop](https://github.com/foxminchan/CoolShop) - A cloud-native e-commerce app built on Dapr and Aspire
+- [devkimchi/aspir8-from-scratch](https://github.com/devkimchi/aspir8-from-scratch) - Let's deploy Aspire-flavoured apps to a Kubernetes cluster, through Aspir8! 

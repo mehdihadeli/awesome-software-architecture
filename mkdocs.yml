@@ -76,8 +76,9 @@ nav:
       - Ollama: ai/models/ollama.md
       - OpenAI: ai/models/openai.md
       - Phi: ai/models/phi.md
+    Prompt Engineering: ai/prompt-engineering.md
     RAG: ai/rag.md
-    Semantic Kernel: ai/semantic-kernel.md
+    Semantic Kernel & .NET AI: ai/semantic-kernel.md
 - Algorithms: algorithm.md
 - Anti Patterns:
   - Anti Patterns: anti-patterns/anti-patterns.md

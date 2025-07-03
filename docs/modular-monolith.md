@@ -102,3 +102,4 @@
 - [baranacikgoz/modular-monolith-ddd-vsa-webapi](https://github.com/baranacikgoz/modular-monolith-ddd-vsa-webapi) - A .NET 8 Webapi boilerplate with Modular Monolith approach, Domain-Driven Design and Vertical Slices architecture along with Clean Architecture principles per feature
 - [kamilbaczek/Modular-monolith-by-example](https://github.com/kamilbaczek/Modular-monolith-by-example) - Modular monolith architecture example in .NET. Estimation Tool is tool to optimize estimation process in IT company.
 - [PeterKneale/modular_monolith_saas](https://github.com/PeterKneale/modular_monolith_saas)
+- [youssefbennour/AspNetCore.Starter](https://github.com/youssefbennour/AspNetCore.Starter) - A modular-monolith ASP.NET Core starter inspired by Evolutionary-architecture
