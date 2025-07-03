@@ -1,0 +1,8229 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Curated list of awesome articles and resources to learn and practice about software architecture, patterns and principles.">
+      
+      
+      
+        <link rel="canonical" href="https://awesome-architecture.com/microservices/microservices/">
+      
+      
+        <link rel="prev" href="../composite-ui/">
+      
+      
+        <link rel="next" href="../observability/correlationId/">
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.5.17">
+    
+    
+      
+        <title>Microservices - Awesome Software Architecture</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.bcfcd587.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#microservices" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Awesome Software Architecture" class="md-header__button md-logo" aria-label="Awesome Software Architecture" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Awesome Software Architecture
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Microservices
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6zm0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4zM7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/mehdihadeli/awesome-software-architecture" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    mehdihadeli/awesome-software-architecture
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Awesome Software Architecture" class="md-nav__button md-logo" aria-label="Awesome Software Architecture" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    Awesome Software Architecture
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/mehdihadeli/awesome-software-architecture" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    mehdihadeli/awesome-software-architecture
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../abstraction/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Abstraction
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Actor Model Architecture
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Actor Model Architecture
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../actor-model-architecture/actor-model-architecture/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Actor Model Architecture
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../actor-model-architecture/akka-net/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Akka .NET
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../actor-model-architecture/orleans/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Orleans
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../actor-model-architecture/protoactor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Protoactor
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Architecture Documententation
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Architecture Documententation
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../architecture-documententation/adr/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    ADR
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../architecture-documententation/c4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    C4
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    AI
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            AI
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ai/ai/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    AI
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ai/embedding-vector/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Embedding & Vector
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ai/langchain/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    LangChain
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ai/mcp/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Model Context Protocol (MCP)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_5" id="__nav_4_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Models
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_5">
+            <span class="md-nav__icon md-icon"></span>
+            Models
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ai/models.md" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Models
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ai/models/hugging-face/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Hugging Face
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ai/models/ollama/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ollama
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ai/models/openai/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    OpenAI
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ai/models/phi/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Phi
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ai/prompt-engineering/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Prompt Engineering
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ai/rag/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    RAG
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ai/semantic-kernel/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Semantic Kernel & .NET AI
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../algorithm/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Algorithms
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Anti Patterns
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Anti Patterns
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../anti-patterns/anti-patterns/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Anti Patterns
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../anti-patterns/big-ball-of-mud/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Big Ball of Mud
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../anti-patterns/code-smells/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Code Smells
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../anti-patterns/god-object/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    God Object
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../anti-patterns/partial-object/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Partial/Optional Object
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../anti-patterns/static-cling/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Static Cling
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Architectural Design Principles
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Architectural Design Principles
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../architectural-design-principles/architectural-design-principles/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Architectural Design Principles
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../architectural-design-principles/cap/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    CAP Theorem
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../architectural-design-principles/cohesion/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cohesion
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../architectural-design-principles/cqs/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Command Query Separation - CQS
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../architectural-design-principles/coupling/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Coupling
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../architectural-design-principles/crosscutting-concerns.md" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Crosscutting Concerns
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../architectural-design-principles/dependency-inversion/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dependency Inversion
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../architectural-design-principles/dry/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Donot Repeat Yourself - DRY
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../architectural-design-principles/encapsulation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Encapsulation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../architectural-design-principles/fail-fast/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Fail-Fast
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../architectural-design-principles/favor-composition-over-inheritance/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Favor Composition over Inheritance
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../architectural-design-principles/grasp/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    GRASP
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../architectural-design-principles/interface-segregation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Interface Segregation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../architectural-design-principles/inversion-control/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Inversion of Control
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../architectural-design-principles/kiss/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Keep It Simple - KISS
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../architectural-design-principles/open-closed-principle.md" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Open/Closed Principle
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../architectural-design-principles/persistence-ignorance/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Persistence Ignorance
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../architectural-design-principles/single-responsibility/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Single Responsibility
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../architectural-design-principles/solid/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    SOLID
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../architectural-design-principles/yagni/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    YAGNI
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../adr/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Architecture Decision Records (ADR)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" >
+        
+          
+          <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Azure Cloud
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            Azure Cloud
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../azure/azure-api-management/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Azure API Management
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../azure/azure-configuration/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Azure App Configuration
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../azure/azure-app-service/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Azure App Service
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../azure/azure-app-service-plan/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Azure App Service Plan
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../azure/azure-cloud/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Azure Cloud
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../azure/azure-functions/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Azure Functions / Azure Serverless
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../azure/aks/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Azure Kubernetes Service (AKS)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../azure/azure-load-balancing/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Azure Load Balancing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../azure/azure-logic-app/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Azure Logic App
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_10" >
+        
+          
+          <label class="md-nav__link" for="__nav_9_10" id="__nav_9_10_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Azure Messaging
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_10_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_10">
+            <span class="md-nav__icon md-icon"></span>
+            Azure Messaging
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../azure/messaging/messaging/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Azure Messaging
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../azure/messaging/azure-event-grid/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Azure Event Grid
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../azure/messaging/azure-event-hub/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Azure Event Hub
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../azure/messaging/azure-queue/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Azure Queue
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../azure/messaging/azure-service-bus/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Azure Service Bus
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../azure/messaging/azure-web-pub-sub/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Azure Web Pub/Sub
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_11" >
+        
+          
+          <label class="md-nav__link" for="__nav_9_11" id="__nav_9_11_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Azure NoSQL
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_11_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_11">
+            <span class="md-nav__icon md-icon"></span>
+            Azure NoSQL
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../azure/nosql/cosmosdb/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Azure CosmosDB
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../azure/nosql/azure-nosql/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Azure NoSQL
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../azure/azure-resource/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Azure Resource & Resource Group
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../azure/azure-resource-manager/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Azure Resource Manager (ARM)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_14" >
+        
+          
+          <label class="md-nav__link" for="__nav_9_14" id="__nav_9_14_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Azure Sequrity
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_14_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_14">
+            <span class="md-nav__icon md-icon"></span>
+            Azure Sequrity
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../azure/azure-active-directory.md" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Azure Active Directory (Azure AD)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../azure/azure-key-vault.md" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Azure Key Vault
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../azure/azure-sql/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Azure SQL
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_16" >
+        
+          
+          <label class="md-nav__link" for="__nav_9_16" id="__nav_9_16_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Azure Storage
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_16_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9_16">
+            <span class="md-nav__icon md-icon"></span>
+            Azure Storage
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../azure/storage/storage/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Azure Storage
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../azure/storage/blob/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Azure Blob
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../azure/storage/queue/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Azure Queue
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../azure/storage/table/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Azure Table
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../azure/storage/file/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Azure File
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../azure/azure-template.md" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Azure Template
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../back-pressure/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Back Pressure
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../caching/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Caching
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../clean-architecture/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Clean Architecture
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../clean-code/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Clean Code
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cloud-best-practices/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cloud Best Practices
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_15" >
+        
+          
+          <label class="md-nav__link" for="__nav_15" id="__nav_15_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Cloud Design Patterns
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_15_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_15">
+            <span class="md-nav__icon md-icon"></span>
+            Cloud Design Patterns
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cloud-design-patterns/ambassador-pattern/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ambassador Pattern
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cloud-design-patterns/anti-corruption-layer-pattern/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Anti Corruption Layer Pattern
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cloud-design-patterns/bff/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Backends for Frontends
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cloud-design-patterns/bulkhead-pattern/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bulkhead Pattern
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cloud-design-patterns/circuit-breaker/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Circuit Breaker Pattern
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cloud-design-patterns/cloud-design-patterns/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cloud Design Patterns
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cloud-design-patterns/exactly-one-delivery/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Exactly One Delivery
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cloud-design-patterns/gateway-aggregation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Gateway Aggregation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cloud-design-patterns/gateway-pattern/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Gateway Pattern
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cloud-design-patterns/inbox-pattern/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Inbox Pattern
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cloud-design-patterns/outbox-pattern/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Outbox Pattern
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cloud-design-patterns/sidecar/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sidecar Pattern
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cloud-design-patterns/strangler-fig-pattern/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Strangler Fig Pattern
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cloud-native/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cloud Native
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../code-review/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Code Review
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../concurrency/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Concurrency
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../cqrs/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    CQRS
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_20" >
+        
+          
+          <label class="md-nav__link" for="__nav_20" id="__nav_20_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Database
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_20_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_20">
+            <span class="md-nav__icon md-icon"></span>
+            Database
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_20_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_20_1" id="__nav_20_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    NoSQL
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_20_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_20_1">
+            <span class="md-nav__icon md-icon"></span>
+            NoSQL
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../database/nosql/cosmosdb/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    CosmosDB
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../database/nosql/documentdb/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    DocumentDB
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../database/nosql/mongodb/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    MongoDB
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../database/nosql/nosql/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    NoSQL
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_20_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_20_2" id="__nav_20_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Relational Database
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_20_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_20_2">
+            <span class="md-nav__icon md-icon"></span>
+            Relational Database
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../database/relational/postgres/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Postgresql
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../database/relational/relational-database/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Relational Database
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../database/relational/sql/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    SQL
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../database/replication/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Replication
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../database/sharding/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sharding
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../data-driven-design/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Data Driven Design
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_22" >
+        
+          
+          <label class="md-nav__link" for="__nav_22" id="__nav_22_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Design Best Practices
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_22_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_22">
+            <span class="md-nav__icon md-icon"></span>
+            Design Best Practices
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design-best-practices/12-factor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    12 Factor
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design-best-practices/design-best-practices/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Design Best Practices
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ids/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ids
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design-best-practices/thin-controllers/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Thin Controllers
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_23" >
+        
+          
+          <label class="md-nav__link" for="__nav_23" id="__nav_23_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Design Patterns
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_23_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_23">
+            <span class="md-nav__icon md-icon"></span>
+            Design Patterns
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design-patterns/adapter-pattern/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Adapter Pattern
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design-patterns/builder/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Builder Pattern
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design-patterns/chain-of-responsibility/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Chain Of Responsibility
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design-patterns/command-message-pattern/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Command Message Pattern
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design-patterns/decorator-pattern/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Decorator Pattern
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design-patterns/design-patterns/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Design Patterns
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design-patterns/factory-pattern/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Factory Pattern
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design-patterns/observer/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Observer Pattern
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design-patterns/query-object-pattern/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Query Object Pattern
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design-patterns/repository-pattern/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Repository Pattern
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design-patterns/repr/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    REPR
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design-patterns/singleton/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Singleton
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design-patterns/specification-pattern/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Specification Pattern
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design-patterns/state-pattern/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    State Pattern
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design-patterns/strategy-pattern/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Strategy Pattern
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../design-patterns/transaction-script-pattern/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Transaction Script Pattern
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_24" >
+        
+          
+          <label class="md-nav__link" for="__nav_24" id="__nav_24_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    DevOps
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_24_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_24">
+            <span class="md-nav__icon md-icon"></span>
+            DevOps
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_24_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_24_1" id="__nav_24_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    CI/CD
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_24_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_24_1">
+            <span class="md-nav__icon md-icon"></span>
+            CI/CD
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../devops/ci-cd/azure-devops/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Azure DevOps
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../devops/ci-cd/github-actions/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Github Actions
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../devops/ci-cd/jenkins/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Jenkins
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../devops/containerd/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Containerd
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_24_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_24_3" id="__nav_24_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Docker
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_24_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_24_3">
+            <span class="md-nav__icon md-icon"></span>
+            Docker
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../devops/docker/docker/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Docker
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../devops/docker/docker-compose/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Docker Compose
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_24_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_24_4" id="__nav_24_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Kubernetes
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_24_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_24_4">
+            <span class="md-nav__icon md-icon"></span>
+            Kubernetes
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../devops/kubernetes/kubernetes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kubernetes
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../devops/kubernetes/debuging-development/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Debuging & Development
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../devops/kubernetes/deployment-strategies/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Deployment Strategies
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_24_4_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_24_4_4" id="__nav_24_4_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Deployment Tools
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_24_4_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_24_4_4">
+            <span class="md-nav__icon md-icon"></span>
+            Deployment Tools
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../devops/kubernetes/deployment-tools/argo-cd/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Argo-CD
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../devops/kubernetes/deployment-tools/helm/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Helm
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../devops/kubernetes/deployment-tools/kustomize/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kustomize
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../devops/kubernetes/deployment-tools/kubernetes-operator/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kubernetes Operator
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../devops/kubernetes/deployment-tools/jenkins/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Jenkins
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_24_4_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_24_4_5" id="__nav_24_4_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Ingress Controller
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_24_4_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_24_4_5">
+            <span class="md-nav__icon md-icon"></span>
+            Ingress Controller
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../devops/kubernetes/ingress-controller.md" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ingress Controller
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../devops/kubernetes/nginx-ingress.md" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Nginx Ingress
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../devops/kubernetes/traefik-ingress.md" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Traefik Ingress
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_24_4_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_24_4_6" id="__nav_24_4_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Other Tools
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_24_4_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_24_4_6">
+            <span class="md-nav__icon md-icon"></span>
+            Other Tools
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../devops/kubernetes/other-tools/garden/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Garden
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../devops/kubernetes/other-tools/k3s/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    K3s
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../devops/kubernetes/other-tools/mirrord/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mirrord
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../devops/kubernetes/other-tools/okteto/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Okteto
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../devops/kubernetes/other-tools/skaffold/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Skaffold
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../devops/kubernetes/other-tools/telepresence/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Telepresence
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../devops/kubernetes/other-tools/tilt/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tilt
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_24_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_24_5" id="__nav_24_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Terminal
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_24_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_24_5">
+            <span class="md-nav__icon md-icon"></span>
+            Terminal
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../devops/terminal/bash/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bash
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../devops/terminal/powershell/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Powershell
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../distributed-locking/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Distributed Locking
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../distributed-transactions/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Distributed Transactions & Saga
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_27" >
+        
+          
+          <label class="md-nav__link" for="__nav_27" id="__nav_27_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Domain Driven Design
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_27_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_27">
+            <span class="md-nav__icon md-icon"></span>
+            Domain Driven Design
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../domain-driven-design/aggregation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Aggregation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../domain-driven-design/anemic-domain-model/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Anemic Domain Model
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../domain-driven-design/application-service/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Application Service
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../domain-driven-design/bounded-context/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Bounded Context
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../domain-driven-design/domain/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Domain
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../domain-driven-design/domain-driven-design/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Domain Driven Design
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../domain-driven-design/domain-events/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Domain Events
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../domain-driven-design/domain-service/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Domain Service
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../domain-driven-design/enums/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Enums
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../domain-driven-design/event-sourcing.md" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Event Sourcing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../domain-driven-design/exception-and-validation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Exception And Validation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../domain-driven-design/infrastructure/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Infrastructure
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../domain-driven-design/integration-event/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Integration Events
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../domain-driven-design/mapping/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Mapping
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_27_15" >
+        
+          
+          <label class="md-nav__link" for="__nav_27_15" id="__nav_27_15_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    ORMs
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_27_15_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_27_15">
+            <span class="md-nav__icon md-icon"></span>
+            ORMs
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../domain-driven-design/orm/ef/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entity Framework
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../architectural-design-principles/persistence-ignorance/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Persistence Ignorance
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../domain-driven-design/domain-primitives/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Primitive obsession
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../domain-driven-design/rich-domain-model/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rich Domain Model
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../domain-driven-design/strategic-design-patterns/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Strategic Design Patterns
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../domain-driven-design/tactical-design-patterns/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tactical Design Patterns
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../domain-driven-design/value-objects/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Value Objects
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../event-driven-architecture/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Event Driven Architecture
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../eventual-consistency/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Eventual Consistency
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../functional/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Functional Programming
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../grpc/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    gRPC
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../hexagonal-architecture/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Hexagonal Architecture
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_33" >
+        
+          
+          <label class="md-nav__link" for="__nav_33" id="__nav_33_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Infrastructure as a Service
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_33_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_33">
+            <span class="md-nav__icon md-icon"></span>
+            Infrastructure as a Service
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../iaas/ansible/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ansible
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../iaas/iaas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Infrastructure as a Service
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../iaas/nomad/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Nomad
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../iaas/pulumi/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Pulumi
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../iaas/terraform/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Terraform
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../interview/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Interview
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_35" >
+        
+          
+          <label class="md-nav__link" for="__nav_35" id="__nav_35_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Messaging
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_35_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_35">
+            <span class="md-nav__icon md-icon"></span>
+            Messaging
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../messaging/async-api-documentation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Async APIs Documentation
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../azure/messaging/azure-service-bus/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Azure Service Bus
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../messaging/change-data-capture/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Change Data Capture (CDC)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../messaging/kafka/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Kafka
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../messaging/messaging/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Messaging
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../messaging/messaging-patterns/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Messaging Patterns
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../messaging/nats/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    NATS
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../messaging/rabbitmq/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    RabbitMQ
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../messaging/zeromq/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    ZeroMQ
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../micro-frontend/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Micro-Frontend
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_37" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_37" id="__nav_37_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Microservices
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_37_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_37">
+            <span class="md-nav__icon md-icon"></span>
+            Microservices
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../communication/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Communication & Data Consistency
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../composite-ui/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Composite UI
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Microservices
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Microservices
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#resources" class="md-nav__link">
+    <span class="md-ellipsis">
+      📘 Resources
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#articles" class="md-nav__link">
+    <span class="md-ellipsis">
+      📕 Articles
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#videos" class="md-nav__link">
+    <span class="md-ellipsis">
+      📺 Videos
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#libraries" class="md-nav__link">
+    <span class="md-ellipsis">
+      📦 Libraries
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#samples" class="md-nav__link">
+    <span class="md-ellipsis">
+      🚀 Samples
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#books" class="md-nav__link">
+    <span class="md-ellipsis">
+      📚 Books
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_37_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_37_4" id="__nav_37_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Observibility
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_37_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_37_4">
+            <span class="md-nav__icon md-icon"></span>
+            Observibility
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../observability/correlationId/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    CorrelationId
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../observability/observibility.md" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Observibility
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../observability/distributed-tracing/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Distributed Tracing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../observability/diagnostics/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Diagnostics
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../observability/logging/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Logging
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../observability/monitoring/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Monitoring
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_37_4_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_37_4_7" id="__nav_37_4_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Tools
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_37_4_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_37_4_7">
+            <span class="md-nav__icon md-icon"></span>
+            Tools
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../observability/tools/efk/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    EFK
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../observability/tools/efk/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    ELK
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../observability/tools/fluent-bit/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    FluentBit
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../observability/tools/fluentd/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    FluentD
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../observability/tools/loki/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Loki
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_37_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_37_5" id="__nav_37_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Resiliency
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_37_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_37_5">
+            <span class="md-nav__icon md-icon"></span>
+            Resiliency
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../resiliency/resiliency/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Resiliency
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../resiliency/high-availibility/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    High Availibility
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../resiliency/idempotency/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Idempotency
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../services-boundries/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Services Boundries
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../testing/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Testing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_37_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_37_8" id="__nav_37_8_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Tools
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_37_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_37_8">
+            <span class="md-nav__icon md-icon"></span>
+            Tools
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tools/cap/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    CAP
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tools/dapr/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dapr
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tools/wolverine/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Wolverine
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tools/steeltoe/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    SteelToe
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tools/tye/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tye
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tools/mass-transit/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    MassTransit
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tools/aspire/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Aspire
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tools/nservicebus/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    NServiceBus
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tools/cap/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    CAP
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_38" >
+        
+          
+          <label class="md-nav__link" for="__nav_38" id="__nav_38_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Modeling
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_38_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_38">
+            <span class="md-nav__icon md-icon"></span>
+            Modeling
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modeling/architecture-diagram/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Architecture Diagram
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modeling/class-diagram/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Class Diagram
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modeling/component-diagram/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Component Diagram
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modeling/conceptual-diagram.md" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Conceptual Diagram
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modeling/conceptual-modeling/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Conceptual Modeling
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modeling/data-modeling-notations.md" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Data Modeling Notations
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modeling/domain-stroytelling/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Domain Stroytelling
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modeling/er-diagrams/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    ER Diagrams
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modeling/event-modeling/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Event Modeling
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modeling/event-storming/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Event Storming
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modeling/logical-modeling/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Logical Modeling
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modeling/modeling/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Modeling
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modeling/physical-modeling/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Physical Modeling
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modeling/relationship/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Relationship
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modeling/tools/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tools
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modeling/use-case-diagram/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Use Case Diagram
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modular-monolith/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Modular Monolith
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../object-oriented-design/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Object Oriented Design
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../onion-architecture/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Onion Architecture
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../open-source/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Open Source
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../others/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Others
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_44" >
+        
+          
+          <label class="md-nav__link" for="__nav_44" id="__nav_44_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Platform as a Service
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_44_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_44">
+            <span class="md-nav__icon md-icon"></span>
+            Platform as a Service
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../paas/heroku/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Heroku
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../paas/netlify/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Netlify
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../paas/openshift/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    OpenShift
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../paas/rancher/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rancher
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../refactoring/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Refactoring
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../rest/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    RESTful API Design
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_47" >
+        
+          
+          <label class="md-nav__link" for="__nav_47" id="__nav_47_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Reverse Proxy & Load Balancing
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_47_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_47">
+            <span class="md-nav__icon md-icon"></span>
+            Reverse Proxy & Load Balancing
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reverse-proxy-lb/envoy/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Envoy
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reverse-proxy-lb/fabio/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Fabio
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reverse-proxy-lb/haproxy/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    HAProxy
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reverse-proxy-lb/load-balancing/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Load Balancing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reverse-proxy-lb/metallb/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    MetalLB
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reverse-proxy-lb/nginx/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Nginx
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reverse-proxy-lb/reverse-proxy/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reverse Proxy
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reverse-proxy-lb/traefik/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Traefik
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reverse-proxy-lb/yarp/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    YARP
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../scaling/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Scaling
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_49" >
+        
+          
+          <label class="md-nav__link" for="__nav_49" id="__nav_49_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Service Discovery & Registry
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_49_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_49">
+            <span class="md-nav__icon md-icon"></span>
+            Service Discovery & Registry
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../service-discovery/consul/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Consul
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../service-discovery/eureka/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Eureka
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../service-discovery/service-discovery/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Service Discovery & Registry
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_50" >
+        
+          
+          <label class="md-nav__link" for="__nav_50" id="__nav_50_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Service Mesh
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_50_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_50">
+            <span class="md-nav__icon md-icon"></span>
+            Service Mesh
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../service-discovery/consul/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Consul & Consul Connect
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../service-mesh/istio/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Istio
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../service-mesh/linkerd/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Linkerd
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../service-mesh/maesh/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Maesh
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../service-mesh/service-mesh/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Service Mesh
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../service-oriented-architecture/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Service Oriented Architecture
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../software-architecture/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Software Architecture
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_53" >
+        
+          
+          <label class="md-nav__link" for="__nav_53" id="__nav_53_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Systems Design
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_53_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_53">
+            <span class="md-nav__icon md-icon"></span>
+            Systems Design
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../systems-design/consistent-hash/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Consistent Hashing
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../systems-design/systems-design/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Systems Design
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../type-driven-design/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Type Driven Design
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../vertical-slice-architecture/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vertical Slice Architecture
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+<h1 id="microservices">Microservices<a class="headerlink" href="#microservices" title="Permanent link">&para;</a></h1>
+<h2 id="resources">📘 Resources<a class="headerlink" href="#resources" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="https://dotnet.microsoft.com/learn/aspnet/microservices-architecture">.NET Microservices Architecture Guidance</a> </li>
+<li><a href="https://github.com/mjebrahimi/Awesome-Microservices-NetCore">Awesome Microservices .NET Core</a> -</li>
+<li><a href="https://docs.microsoft.com/en-us/dotnet/architecture/microservices/">.NET Microservices: Architecture for Containerized .NET Applications</a></li>
+<li><a href="https://devblogs.microsoft.com/dotnet/cloud-native-learning-resources-for-net-developers/">Cloud-Native learning resources for .NET developers</a></li>
+<li><a href="https://github.com/mfornos/awesome-microservices">mfornos/awesome-microservices</a></li>
+<li><a href="https://dotnetmicroservices.com/">Start Building .NET Microservices Today, Step by Step</a></li>
+<li><a href="https://github.com/Sairyss/distributed-systems-topics">Sairyss/distributed-systems-topics</a> - Topics and resources related to distributed systems, system design, microservices, scalability and performance, etc</li>
+<li><a href="https://github.com/donnemartin/system-design-primer">donnemartin/system-design-primer</a> - Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</li>
+<li><a href="https://github.com/davidetaibi/Microservices_Project_List">davidetaibi/Microservices_Project_List</a> - A curated List of project that migrated to microservices</li>
+</ul>
+<h2 id="articles">📕 Articles<a class="headerlink" href="#articles" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="https://martinfowler.com/articles/microservices.html">Microservices - Martin Fowler</a></li>
+<li><a href="https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/microservice-application-design">Design a microservice-oriented application</a></li>
+<li><a href="https://www.programmingwithwolfgang.com/microservice-series-from-zero-to-hero">Microservice Series - From Zero to Hero</a></li>
+<li><a href="https://docs.microsoft.com/en-us/dotnet/architecture/microservices/multi-container-microservice-net-applications/data-driven-crud-microservice">Creating a simple data-driven CRUD microservice</a></li>
+<li><a href="https://herbertograca.com/2017/01/26/microservices-architecture/">Microservices architecture: What the gurus say about it</a></li>
+<li><a href="https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices">Microservices architecture style</a></li>
+<li><a href="https://medium.com/aspnetrun/securing-microservices-with-identityserver4-with-oauth2-and-openid-connect-fronted-by-ocelot-api-49ea44a0cf9e">Securing Microservices with IdentityServer4, OAuth2 and OpenID Connect fronted by Ocelot API Gateway</a></li>
+<li><a href="https://www.cncf.io/blog/2021/02/12/saga-pattern-how-to-manage-distributed-transactions-with-microservices">Saga Pattern: how to manage distributed transactions with microservices</a></li>
+<li><a href="https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/nosql-database-persistence-infrastructure">Use NoSQL databases as a persistence infrastructure</a></li>
+<li><a href="https://chrisrichardson.net/post/microservices/2020/02/18/why-microservices-part-1.html">When to use the microservice architecture: part 1 - the need to deliver software rapidly, frequently, and reliably</a></li>
+<li><a href="https://chrisrichardson.net/post/microservices/2020/03/30/why-microservices-part-2.html">Why microservices: part 2 - the need for sustainable development</a></li>
+<li><a href="https://chrisrichardson.net/post/microservices/2020/04/11/why-microservices-part-3.html">Why microservices - part 3: two thirds of the success triangle - process and organization</a></li>
+<li><a href="https://chrisrichardson.net/post/microservices/2020/05/21/why-microservices-part-4.html">Why microservices - part 4: the last third of the success triangle: architectural requirements for rapid, frequent, reliable and sustainable development</a></li>
+<li><a href="https://chrisrichardson.net/post/microservices/2021/02/14/why-microservices-part-5-monolith.html">When to use the microservice architecture: part 5 - the monolithic architecture and rapid, frequent, reliable and sustainable software delivery</a></li>
+<li><a href="https://koukia.ca/a-microservices-implementation-journey-part-1-9f6471fe917">A Microservices implementation journey — Part 1</a></li>
+<li><a href="https://elvanydev.com/Microservices-part1/">Microservices and Docker with .Net Core and Azure Service Fabric - Part One</a> </li>
+<li><a href="http://elvanydev.com/Microservices-part2/">Microservices and Docker with .Net Core and Azure Service Fabric - Part two</a></li>
+<li><a href="http://elvanydev.com/Microservices-part3/">Microservices and Docker with .Net Core and Azure Service Fabric - Part three</a> </li>
+<li><a href="http://elvanydev.com/Microservices-part4/">Microservices and Docker with .Net Core and Azure Service Fabric - Part four</a> </li>
+<li><a href="https://www.dotnettricks.com/learn/microservices/architecture-example-advantages">What are Microservices? Advantages and Disadvantages of Microservices Architecture</a></li>
+<li><a href="https://medium.com/aspnetrun/microservices-architecture-on-net-3b4865eea03f">Microservices Architecture on .NET with applying CQRS, Clean Architecture and Event-Driven Communication</a></li>
+<li><a href="https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture">Best Practices for Building a Microservice Architecture</a></li>
+<li><a href="https://logcorner.com/building-microservices-through-event-driven-architecture-part1-application-specific-business-rules/">Building microservices through Event Driven Architecture part1 : application specific business rules</a></li>
+<li><a href="https://medium.com/swlh/a-design-analysis-of-cloud-based-microservices-architecture-at-netflix-98836b2da45f">A Design Analysis of Cloud-based Microservices Architecture at Netflix</a></li>
+<li><a href="http://elvanydev.com/Microservices-part1/">Microservices and Docker with .Net Core and Azure Service Fabric - Part One</a></li>
+<li><a href="http://elvanydev.com/Microservices-part2/">Microservices and Docker with .Net Core and Azure Service Fabric - Part two</a></li>
+<li><a href="http://elvanydev.com/Microservices-part3/">Microservices and Docker with .Net Core and Azure Service Fabric - Part three</a></li>
+<li><a href="http://elvanydev.com/Microservices-part4/">Microservices and Docker with .Net Core and Azure Service Fabric - Part four</a></li>
+<li><a href="https://itnext.io/how-to-build-an-event-driven-asp-net-core-microservice-architecture-e0ef2976f33f">How to Build an Event-Driven ASP.NET Core Microservice Architecture</a></li>
+<li><a href="https://itnext.io/the-outbox-pattern-in-event-driven-asp-net-core-microservice-architectures-10b8d9923885">The Outbox Pattern in Event-Driven ASP.NET Core Microservice Architectures</a></li>
+<li><a href="https://threedots.tech/post/microservices-or-monolith-its-detail/">Why using Microservices or Monolith can be just a detail?</a></li>
+<li><a href="https://auth0.com/blog/implementing-nanoservices-in-aspnet-core/">Implementing Nanoservices in ASP.NET Core</a></li>
+<li><a href="https://medium.com/capital-one-tech/10-microservices-best-practices-for-the-optimal-architecture-design-capital-one-de16abf2a232">10 Microservices Best Practices for the Optimal Architecture Design</a></li>
+<li><a href="https://threedots.tech/post/ddd-lite-in-go-introduction/">Introduction to DDD Lite: When microservices in Go are not enough</a></li>
+<li><a href="https://dev.to/thangchung/how-to-make-dapr-client-works-well-with-refit-and-restease-40m">How to make Dapr client works well with Refit and RestEase in 5 minutes</a></li>
+<li><a href="https://dev.to/thangchung/debugging-dapr-application-using-tye-tool-1djb">Debugging Dapr application using Tye tool</a></li>
+<li><a href="https://itnext.io/monolith-or-microservices-neither-combine-both-with-integrated-microservices-5265594c3d59">Monolith or Microservices? Neither, Combine Both With Integrated Microservices</a></li>
+<li><a href="https://ardalis.com/prioritizing-and-microservices/">Prioritizing and Microservices</a></li>
+<li><a href="https://medium.com/@cramirez92/build-a-nodejs-cinema-microservice-and-deploying-it-with-docker-part-1-7e28e25bfa8b">How to build a NodeJS cinema microservice and deploy it with docker</a></li>
+<li><a href="https://devblogs.microsoft.com/aspnet/your-top-dotnet-microservices-questions-answered/">Your Top .NET Microservices Questions Answered</a></li>
+<li><a href="https://medium.com/event-driven-utopia/querying-microservices-with-the-cqrs-and-materialized-view-pattern-bdb8b17f95d1">Querying Microservices with the CQRS and Materialized View Pattern</a></li>
+<li><a href="https://itnext.io/how-to-cache-aggregated-data-with-redis-and-lua-scripts-for-a-scaled-microservice-architecture-2b791289e911">How to Cache Aggregated Data with Redis and Lua Scripts for a Scaled Microservice Architecture</a></li>
+<li><a href="https://levelup.gitconnected.com/patterns-to-know-before-migrating-your-monolith-to-microservices-72fcbcc7846e">Patterns to know before migrating your monolith to microservices</a></li>
+<li><a href="https://www.michalbialecki.com/2019/02/08/why-duplication-isnt-always-a-bad-thing-in-micro-services/">Why duplication isn’t always a bad thing in micro-services</a></li>
+<li><a href="https://www.capitalone.com/tech/software-engineering/10-microservices-best-practices/">10 Microservices Best Practices for the Optimal Architecture Design</a></li>
+<li><a href="https://medium.com/capital-one-tech/how-to-avoid-coupling-in-microservices-design-b241d77ae233">How to Avoid Coupling in Microservices Design</a></li>
+<li><a href="https://martinfowler.com/articles/break-monolith-into-microservices.html">How to break a Monolith into Microservices</a></li>
+<li><a href="https://docs.microsoft.com/en-us/dotnet/architecture/microservices/architect-microservice-container-applications/identify-microservice-domain-model-boundaries">Identify domain-model boundaries for each microservice</a></li>
+<li><a href="https://medium.com/swlh/a-design-analysis-of-cloud-based-microservices-architecture-at-netflix-98836b2da45f">A Design Analysis of Cloud-based Microservices Architecture at Netflix</a></li>
+<li><a href="https://medium.com/design-microservices-architecture-with-patterns/monolithic-to-microservices-architecture-with-patterns-best-practices-a768272797b2">Monolithic to Microservices Architecture with Patterns &amp; Best Practices</a></li>
+<li><a href="https://medium.com/design-microservices-architecture-with-patterns/microservices-database-management-patterns-and-principles-9121e25619f1">Microservices Database Management Patterns and Principles</a></li>
+<li><a href="https://medium.com/design-microservices-architecture-with-patterns/how-to-choose-a-database-for-microservices-cap-theorem-d1585bf40ecd">How to Choose a Database for Microservices — CAP Theorem</a></li>
+<li><a href="https://medium.com/design-microservices-architecture-with-patterns/service-aggregator-pattern-e87561a47ac6">Service Aggregator Pattern</a></li>
+<li><a href="https://medium.com/design-microservices-architecture-with-patterns/event-sourcing-pattern-in-microservices-architectures-e72bf0fc9274">Event Sourcing Pattern in Microservices Architectures</a></li>
+<li><a href="https://medium.com/design-microservices-architecture-with-patterns/cqrs-design-pattern-in-microservices-architectures-5d41e359768c">CQRS Design Pattern in Microservices Architectures</a></li>
+<li><a href="https://medium.com/design-microservices-architecture-with-patterns/materialized-view-pattern-f29ea249f8f8">Materialized View Pattern</a></li>
+<li><a href="https://medium.com/design-microservices-architecture-with-patterns/microservices-deployments-with-containers-and-orchestrators-c693292997f9">Microservices Deployments with Containers and Orchestrators</a></li>
+<li><a href="https://medium.com/design-microservices-architecture-with-patterns/outbox-pattern-for-microservices-architectures-1b8648dfaa27">Outbox Pattern for Microservices Architectures</a></li>
+<li><a href="https://medium.com/design-microservices-architecture-with-patterns/saga-pattern-for-microservices-distributed-transactions-7e95d0613345">Saga Pattern for Microservices Distributed Transactions</a></li>
+<li><a href="https://medium.com/design-microservices-architecture-with-patterns/microservices-distributed-transactions-a71a996e5db8">Microservices Distributed Transactions</a></li>
+<li><a href="https://medium.com/design-microservices-architecture-with-patterns/database-sharding-pattern-for-scaling-microservices-database-architecture-2077a556078">Database Sharding Pattern for Scaling Microservices Database Architecture</a></li>
+<li><a href="https://medium.com/design-microservices-architecture-with-patterns/service-registry-pattern-75f9c4e50d09">Service Registry Pattern</a></li>
+<li><a href="https://medium.com/design-microservices-architecture-with-patterns/api-gateway-pattern-8ed0ddfce9df">API Gateway Pattern</a></li>
+<li><a href="https://medium.com/design-microservices-architecture-with-patterns/gateway-aggregation-pattern-9ff92e1771d0">Gateway Aggregation Pattern</a></li>
+<li><a href="https://medium.com/design-microservices-architecture-with-patterns/microservice-communications-between-backend-internal-microservices-9029d4b0acd8">Microservice Communications between Backend Internal Microservices</a></li>
+<li><a href="https://medium.com/design-microservices-architecture-with-patterns/backends-for-frontends-pattern-bff-7ccd9182c6a1">Backends for Frontends Pattern — BFF</a></li>
+<li><a href="https://medium.com/design-microservices-architecture-with-patterns/microservices-data-management-3235893b7c29">Microservices Data Management</a></li>
+<li><a href="https://medium.com/design-microservices-architecture-with-patterns/microservices-data-management-when-performing-queries-between-services-42896a733567">Microservices Data Management when performing Queries between Services</a></li>
+<li><a href="https://medium.com/design-microservices-architecture-with-patterns/microservices-architecture-2bec9da7d42a">Microservices Architecture</a></li>
+<li><a href="https://medium.com/design-microservices-architecture-with-patterns/scaling-databases-in-microservices-architecture-with-horizontal-vertical-and-functional-data-537c5aea41d6">Scaling Databases in Microservices Architecture with Horizontal, Vertical, and Functional Data Partitioning</a></li>
+<li><a href="https://medium.com/design-microservices-architecture-with-patterns/microservices-distributed-caching-76828817e41b">Microservices Distributed Caching</a></li>
+<li><a href="https://solace.com/blog/experience-awesomeness-event-driven-microservices/">REST vs Messaging for Microservices – Which One is Best?</a></li>
+<li><a href="https://greeeg.com/issues/microservices-patterns-synchronous-vs-asynchronous">Microservices patterns: synchronous vs asynchronous communication</a></li>
+<li><a href="https://exceptionnotfound.net/integers-vs-guids-the-great-primary-key-debate/">Integers vs GUIDs - The Great Primary Key Debate</a></li>
+<li><a href="https://medium.com/@quocnguyen2501/int-or-guid-for-your-primary-key-what-your-choice-927f40c9dc08">INT or GUID for your primary key, what your choice ?</a></li>
+<li><a href="https://tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439">UUID or GUID as Primary Keys? Be Careful!</a></li>
+<li><a href="https://www.ben-morris.com/orchestration-vs-choreography-for-microservice-workflows/">Orchestration vs choreography for microservice workflows</a></li>
+<li><a href="https://www.callicoder.com/distributed-unique-id-sequence-number-generator/">Generating unique IDs in a distributed environment at high scale.</a></li>
+<li><a href="https://www.endava.com/en/blog/Engineering/2022/Scalable-Microservices-Architecture-with-NET-Made-Easy-a-Tutorial">SCALABLE MICROSERVICES ARCHITECTURE WITH .NET MADE EASY – A TUTORIAL</a></li>
+<li><a href="https://event-driven.io/en/how_to_cut_microservices/">How (not) to cut microservices</a></li>
+<li><a href="https://medium.com/garantibbva-teknoloji/data-consistency-in-microservices-architecture-5c67e0f65256">Data Consistency in Microservices Architecture</a></li>
+<li><a href="https://zimarev.com/blog/event-sourcing/microservices/">Event Sourcing and Microservices</a></li>
+<li><a href="https://andrewlock.net/generating-sortable-guids-using-newid/">Generating sortable Guids using NewId</a></li>
+<li><a href="https://semaphoreci.com/blog/release-management-microservices">Release Management for Microservices</a></li>
+<li><a href="https://www.infoq.com/articles/microservices-async-migration/">Microservices to Async Processing Migration at Scale</a></li>
+<li><a href="https://milestone.topics.it/series/view-model-composition.html">ViewModel Composition</a></li>
+<li><a href="https://www.ledjonbehluli.com/posts/improving_microservices_availability/">Improving Microservices Availability</a></li>
+<li><a href="https://codeopinion.com/the-challenge-of-microservices-ui-composition/">The Challenge of Microservices: UI Composition</a></li>
+</ul>
+<h2 id="videos">📺 Videos<a class="headerlink" href="#videos" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=8BPDv038oMI&amp;t=0s">Microservices Architectural Pattern</a> </li>
+<li><a href="https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/?couponCode=FA24745CC57592AB612A">Microservices Architecture and Implementation on .NET 5</a></li>
+<li><a href="https://skillsmatter.com/skillscasts/14926-designing-loosely-coupled-microservices">Designing Loosely Coupled Microservices</a></li>
+<li><a href="https://www.youtube.com/watch?v=vpU04uGz19U&amp;ab_channel=Hazelcast">Architectural Patterns for High-Performance Microservices in Kubernetes</a></li>
+<li><a href="https://www.youtube.com/watch?v=GBTdnfD6s5Q&amp;t=825s">GOTO 2020 • When To Use Microservices (And When Not To!) • Sam Newman &amp; Martin Fowler</a></li>
+<li><a href="https://www.youtube.com/watch?v=V3NQt5KP7EM">GOTO 2021 • The Problem with Microservices • Dave Farley</a></li>
+<li><a href="https://www.youtube.com/watch?v=7uvK4WInq6k">GOTO 2019 • 3 Common Pitfalls in Microservice Integration &amp; How to Avoid Them • Bernd Rücker</a></li>
+<li><a href="https://www.youtube.com/watch?v=yPf5MfOZPY0">GOTO 2015 • Challenges in Implementing Microservices • Fred George</a></li>
+<li><a href="https://www.youtube.com/watch?v=H0LUi51aCP8">GOTO 2020 • Beyond Microservices: Streams, State and Scalability • Gwen Shapira</a></li>
+<li><a href="https://www.youtube.com/watch?v=T0zpPO7Ub_s">GOTO 2020 • Why GraphQL Between Microservices Is the Worst &amp; Best Idea • Uri Goldshtein</a></li>
+<li><a href="https://www.youtube.com/watch?v=jrbWIS7BH70">GOTO 2019 • Event-Driven Microservices, the Sense, the Non-sense and a Way Forward • Allard Buijze</a></li>
+<li><a href="https://www.youtube.com/watch?v=yJHvMabxVYU&amp;list=PLEx5khR4g7PI89_ZS_wz5suqCoqFgv-gO">GOTO 2021 • Scale, Flow and Microservices • James Lewis</a></li>
+<li><a href="https://www.youtube.com/watch?v=0H68V2BzutA">From a distributed monolith to a microservices solution - Jan de Vries</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLkQkbY7JNJuDqCFncFdTzGm6cRYCF-kZO">Microservices for system design interview preparation Playlist - Tech Dummies Narendra L</a></li>
+<li><a href="https://www.youtube.com/watch?v=dlnu5pSsg7k">Bounded Contexts, Microservices, and Everything In Between - Vladik Khononov - KanDDDinsky 2018</a></li>
+<li><a href="https://www.youtube.com/watch?v=1gPz0G6GZCU">Creating MicroService with .Net 5</a></li>
+<li><a href="https://www.youtube.com/watch?v=rzjy2DDPwio">How to design and code a scaleable solution (from monolith to microservices)</a></li>
+<li><a href="https://www.youtube.com/watch?v=bGdar01KNzg">Building Reactive Microservices with .NET Core - Kevin Hoffman, Capital One</a></li>
+<li><a href="https://www.youtube.com/watch?v=3hMtjPcU248">&ldquo;Reactive Microsystems - The Evolution of Microservices at Scale,&rdquo; with Jonas Bonér</a></li>
+<li><a href="https://www.youtube.com/watch?v=PgHMtMmSn9s">Does CAP Theorem apply to Microservices?</a></li>
+<li><a href="https://www.youtube.com/watch?v=sstOXCQ-EG0">Let&rsquo;s Learn .NET - Microservices</a></li>
+<li><a href="https://medium.com/event-driven-utopia/8-practical-use-cases-of-change-data-capture-8f059da4c3b7">8 Practical Use Cases of Change Data Capture</a></li>
+<li><a href="https://www.youtube.com/watch?v=CZ3wIuvmHeM">Mastering Chaos - A Netflix Guide to Microservices</a></li>
+<li><a href="https://www.youtube.com/watch?v=gjtFGx0yX5M">Compositional UIs - the Microservices Last Mile - Jimmy Bogard</a></li>
+<li><a href="https://www.youtube.com/watch?v=gfh-VCTwMw8">Avoiding Microservice Megadisasters - Jimmy Bogard</a></li>
+<li><a href="https://www.youtube.com/watch?v=g1UQf3TOBn8">Why programming language performance in microservices isn&rsquo;t (that) important</a></li>
+<li><a href="https://www.youtube.com/c/binarythistle/videos">.NET Microservices – Full Course</a></li>
+<li><a href="https://www.youtube.com/watch?v=DFDbh1c9zyE">Build Your First Microservice with .NET | Microservices Explained</a></li>
+<li><a href="https://www.youtube.com/watch?v=TkIh_mmEw7c">ASP.NET Community Standup - .NET Podcasts App Overview!</a></li>
+<li><a href="https://www.youtube.com/watch?v=j6ow-UemzBc">Design Microservice Architectures the Right Way</a></li>
+<li><a href="https://www.youtube.com/watch?v=ByYyk8eMG6c">.NET Microservices Basics Course</a></li>
+<li><a href="https://www.youtube.com/watch?v=XWTrcBqXi6s">Building Event-Driven Microservices with Event Sourcing and CQRS - Lidan Hifi</a></li>
+<li><a href="https://www.youtube.com/watch?v=0pYmuk0-N_4">Light and Dark Side of the Event-Driven Design • Oskar Dudycz • Devoxx Poland 2021</a></li>
+<li><a href="https://www.youtube.com/watch?v=Uc7SLJbKAGo">Microservices gets it WRONG defining Service Boundaries</a></li>
+<li><a href="https://www.youtube.com/watch?v=ioa5RolwPKQ">Microservices with .NET 6 and AWS Tutorial - Part 1</a></li>
+<li><a href="https://www.youtube.com/watch?v=4hZ5ujckDXE">Microservices with .NET 6 and AWS Tutorial - Part 2</a></li>
+<li><a href="https://www.youtube.com/watch?v=mCLHw3GTHOo">Microservices with .NET 6 and AWS Tutorial - Part 3</a></li>
+<li><a href="https://www.youtube.com/watch?v=wXNDuF4J6Uc">Microservices with .NET 6 and AWS Tutorial - Part 4</a></li>
+<li><a href="https://www.youtube.com/watch?v=vwTwkPUcwNM">Shared Database between Services? Maybe!</a></li>
+<li><a href="https://www.youtube.com/watch?v=rv4LlmLmVWk">Microservices explained - the What, Why and How?</a></li>
+<li><a href="https://www.youtube.com/watch?v=EGwepoGG0CM">Wolverine: Your Next Messaging Library</a></li>
+<li><a href="https://www.youtube.com/watch?v=AxWGAiIg7_0">Mauro Servienti - Designing a UI for Microservices</a></li>
+<li><a href="https://www.youtube.com/watch?v=ILbjKR1FXoc">The HIDDEN Challenge of Microservices: UI Composition</a></li>
+<li><a href="https://event-driven.io/en/how_to_map_event_type_by_convention/">Mapping event type by convention</a></li>
+<li><a href="https://www.youtube.com/watch?v=A62GpUmO9q0">Should Each Microservice Have Its Own Database? by Dmitry Belyaev</a></li>
+<li><a href="https://www.youtube.com/watch?v=p2GlRToY5HI">Don’t Build a Distributed Monolith - Jonathan &ldquo;J.&rdquo; Tower - NDC London 2023</a></li>
+<li><a href="https://www.youtube.com/watch?v=88_LUw1Wwe4">Top 5 techniques for building the worst microservice system ever - William Brander - NDC London 2023</a></li>
+</ul>
+<h2 id="libraries">📦 Libraries<a class="headerlink" href="#libraries" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="https://github.com/rebus-org/Rebus">rebus-org/Rebus</a> - 🚌 Simple and lean service bus implementation for .NET</li>
+<li><a href="https://github.com/dotnetcore/CAP">dotnetcore/CAP</a> - Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern</li>
+<li><a href="https://github.com/MassTransit/MassTransit">MassTransit/MassTransit</a> - Distributed Application Framework for .NET</li>
+<li><a href="https://github.com/BrighterCommand/Brighter">BrighterCommand/Brighter</a> - Command Dispatcher, Processor, and Distributed Task Queue</li>
+<li><a href="https://github.com/microsoft/reverse-proxy">microsoft/reverse-proxy</a> - YARP: A toolkit for developing high-performance HTTP reverse proxy applications.</li>
+<li><a href="https://github.com/abpframework/abp">abpframework/abp</a> - Open Source Web Application Framework for ASP.NET Core</li>
+<li><a href="https://github.com/lucabriguglia/Kledex">lucabriguglia/Kledex</a> - .NET Standard framework to create simple and clean design. Advanced features for DDD, CQRS and Event Sourcing.</li>
+<li><a href="https://github.com/gigya/microdot">gigya/microdot</a> - Microdot: An open source .NET microservices framework</li>
+<li><a href="https://github.com/SteeltoeOSS/Steeltoe">SteeltoeOSS/Steeltoe</a> - Steeltoe .NET Core Components: CircuitBreaker, Configuration, Connectors, Discovery, Logging, Management, and Security</li>
+<li><a href="https://github.com/FoundatioFx/Foundatio">FoundatioFx/Foundatio</a> - Pluggable foundation blocks for building distributed apps.</li>
+<li><a href="https://github.com/enbiso/Enbiso.NLib">enbiso/Enbiso.NLib</a> - .Net Standard Libraries for Microservices</li>
+<li><a href="https://github.com/BookBeat/knightbus">BookBeat/knightbus</a> - Fast multi-transport messaging framework</li>
+<li><a href="https://github.com/fanliang11/surging">anliang11/surging</a> - Surging is a micro-service engine that provides a lightweight, high-performance, modular RPC request pipeline. The service engine supports http, TCP, WS,Grpc, Thrift,Mqtt, UDP, and DNS protocols. It uses ZooKeeper and Consul as a registry, and integrates it. Hash, random, polling, Fair Polling as a load balancing algorithm,</li>
+<li><a href="https://github.com/q315523275/FamilyBucket">FamilyBucket</a> - 集合.net core、ocelot、consul、netty、rpc、eventbus、configserver、tracing、sqlsugar、vue-admin、基础管理平台等构建的微服务一条龙应用</li>
+<li><a href="https://github.com/moleculerjs/moleculer">moleculerjs/moleculer</a> - Progressive microservices framework for Node.js.</li>
+<li><a href="https://github.com/networknt/light-4j">networknt/light-4j</a> - A fast, lightweight and more productive microservices framework</li>
+<li><a href="https://github.com/Raiffeisen-DGTL/ViennaNET">Raiffeisen-DGTL/ViennaNET</a> - Framework for quickly creating enterprise microservices on .NET Core</li>
+<li><a href="https://github.com/go-kit/kit">go-kit/kit</a> - A standard library for microservices.</li>
+<li><a href="https://github.com/asim/go-micro">asim/go-micro</a> - Go Micro is a framework for distributed systems development</li>
+<li><a href="https://github.com/go-kratos/kratos">go-kratos/kratos</a> - A Go framework for microservices.</li>
+<li><a href="https://github.com/GDATASoftwareAG/motornet">GDATASoftwareAG/motornet</a> - Motor.NET is a microservice framework based on Microsoft.Extensions.Hosting</li>
+<li><a href="https://github.com/NHadi/Dermayon">NHadi/Dermayon</a> - Dermayon is Library for supporting build large application,distributed application, scalable, microservices, cqrs, event sourcing, including generic ef repository pattern with unit of work, generic mongo repository pattern with unit of work, kafka, etc</li>
+<li><a href="https://github.com/Eventuous/eventuous">Eventuous/eventuous</a> - Minimalistic Event Sourcing library for .NET</li>
+<li><a href="https://github.com/Bullabs/Qitar">Bullabs/Qitar</a> - Domain Driven Design oriented application framework.</li>
+<li><a href="https://github.com/JasperFx/wolverine">JasperFx/wolverine</a> - Next Generation .NET Command and Message Bus</li>
+<li><a href="https://github.com/ServiceComposer/ServiceComposer.AspNetCore">ServiceComposer/ServiceComposer.AspNetCore</a> - ServiceComposer, a ViewModel Composition API Gateway</li>
+<li><a href="https://github.com/EasyDesk/easydesk-clean-architecture">EasyDesk/easydesk-clean-architecture</a> - A microservice framework based on the Clean Architecture and the Domain Driven Design.</li>
+<li><a href="https://github.com/dotnet/aspire">dotnet/aspire</a> - .NET Aspire is an opinionated, cloud ready stack for building observable, production ready, distributed applications</li>
+</ul>
+<h2 id="samples">🚀 Samples<a class="headerlink" href="#samples" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="https://github.com/dotnet-architecture/eShopOnContainers">eShopOnContainers</a> - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.</li>
+<li><a href="https://github.com/vietnam-devs/coolstore-microservices">coolstore-microservices</a> - A full-stack .NET microservices build on Dapr and Tye</li>
+<li><a href="https://github.com/thangchung/practical-dapr">practical-dapr</a> - A full-stack .NET microservices build on Dapr and Tye</li>
+<li><a href="https://github.com/twzhangyang/RestAirline">twzhangyang/RestAirline</a> - DDD+CQRS+EventSourcing+Hypermedia API+ASP.NET Core 3.1+Masstransit+terraform+docker+k8s</li>
+<li><a href="https://github.com/charlessolar/eShopOnContainersDDD">eShopOnContainersDDD</a> - Fork of dotnet-architecture/eShopOnContainers in full DDD/CQRS design using my own patterns</li>
+<li><a href="https://github.com/kimcu-on-thenet/dapr-tye-simple-microservices">dapr-tye-simple-microservices</a> - An example of building .NET Core microservices with Dapr and Tye</li>
+<li><a href="https://github.com/madslundt/NetCoreMicroservicesSample">madslundt/NetCoreMicroservicesSample</a> - Sample using micro services in .NET Core 3.1 Focusing on clean code</li>
+<li><a href="https://github.com/aspnetrun/run-aspnetcore-microservices">run-aspnetcore-microservices</a> - Microservices on .Net platforms which used Asp.Net Web API, Docker, RabbitMQ, Ocelot API Gateway, MongoDB, Redis, SqlServer, Entity Framework Core, CQRS and Clean Architecture implementation. See Microservices Architecture and Step by Step Implementation on .NET Course w/ discount</li>
+<li><a href="https://github.com/aspnetrun/run-aspnet-identityserver4">run-aspnet-identityserver4</a> - Secure microservices with using standalone Identity Server 4 and backing with Ocelot API Gateway. Protect our ASP.NET Web MVC and API applications with using OAuth 2 and OpenID Connect in IdentityServer4. Securing your web application and API with tokens, working with claims, authentication and authorization middlewares and applying policies.</li>
+<li><a href="https://github.com/alugili/ModernArchitectureShop">ModernArchitectureShop</a> - The Microservices Online Shop is an application with a modern software architecture that is cleanly designed and based on.NET lightweight technologies. The shop has two build variations. The first variant is the classic Microservices Architectural Style. The second one is with Dapr. Dapr has a comprehensive infrastructure</li>
+<li><a href="https://github.com/aspnetrun/run-aspnet-grpc">run-aspnet-grpc</a> - Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5. See gRPC Microservices and Step by Step Implementation on .NET Course w/ discount</li>
+<li><a href="https://github.com/jbossdemocentral/coolstore-microservice">coolstore-microservice</a></li>
+<li><a href="https://github.com/thangchung/practical-clean-ddd">practical-clean-ddd</a> - A simplified and effortless approach to get started with Domain-driven Design, Clean Architecture, CQRS, and Microservices patterns</li>
+<li><a href="https://github.com/thangchung/shopping-cart-k8s">shopping-cart-k8s</a> - Service Mesh patterns for Microservices</li>
+<li><a href="https://github.com/ImranMA/MicroCouriers">MicroCouriers</a> - Microservices ASP.NET Core + Event Bus + Kubernetes + Design Patterns</li>
+<li><a href="https://github.com/dzimchuk/book-fast-service-fabric">book-fast-service-fabric</a> - A sample demonstrating how to implement a multitenant facility management and accommodation booking application as native Azure Service Fabric reliable services</li>
+<li><a href="https://github.com/profjordanov/realworld-microservices">profjordanov/realworld-microservices</a> - Microservices based .NET Core backend implementation for RealWorld</li>
+<li><a href="https://github.com/mspnp/microservices-reference-implementation">mspnp/microservices-reference-implementation</a> - A reference implementation demonstrating microservices architecture and best practices for Microsoft Azure</li>
+<li><a href="https://github.com/patrikduch/netcore-microservices">patrikduch/netcore-microservices</a> - Advanced Microservices Architecture with NET5 framework</li>
+<li><a href="https://github.com/alibaba/spring-cloud-alibaba">alibaba/spring-cloud-alibaba</a> - Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.</li>
+<li><a href="https://github.com/piomin/sample-spring-microservices-new">piomin/sample-spring-microservices-new</a> - Demo for Spring Boot 2 and Spring Cloud microservices with distributed configuration (Spring Cloud Config), service discovery (Eureka), API gateway (Spring Cloud Gateway, Zuul), Swagger2 API documentation, logs correlation using Spring Cloud Sleuth and many more</li>
+<li><a href="https://github.com/ThreeDotsLabs/monolith-microservice-shop">ThreeDotsLabs/monolith-microservice-shop</a> - Source code for <a href="https://threedots.tech/post/microservices-or-monolith-its-detail/">https://threedots.tech/post/microservices-or-monolith-its-detail/</a> article.</li>
+<li><a href="https://github.com/phongnguyend/Practical.CleanArchitecture">phongnguyend/Practical.CleanArchitecture</a></li>
+<li><a href="https://github.com/thangchung/clean-architecture-dotnet">thangchung/clean-architecture-dotnet</a> - Dev: Apply Minimal Clean Architecture with DDD-lite, CQRS-lite, and just enough Cloud-native patterns on eCommerce sample business domain. 🍻 Ops: Use Tye with Dapr extension to deploy it to Kubernetes.</li>
+<li><a href="https://github.com/Crizstian/cinema-microservice">Crizstian/cinema-microservice</a> - Example of a cinema microservice</li>
+<li><a href="https://github.com/mmorejon/microservices-docker-go-mongodb">mmorejon/microservices-docker-go-mongodb</a> - Example of Microservices in Go with Docker, Kubernetes and MongoDB</li>
+<li><a href="https://github.com/AlphaYu/Adnc">AlphaYu/Adnc</a> - .NET6 microservice/distributed development framework, but also suitable for the development of monolithic architecture systems.</li>
+<li><a href="https://github.com/benc-uk/dapr-store">hbenc-uk/dapr-store</a> - Sample application showcasing the use of Dapr to build microservices based apps</li>
+<li><a href="https://github.com/sjefvanleeuwen/showcase">sjefvanleeuwen/showcase</a> - A Full Stack Journey with Micro Services and Micro Front Ends. Using dapr, kubernetes, react module federation and web assembly</li>
+<li><a href="https://github.com/baotoq/micro-commerce">baotoq/micro-commerce</a> - React, Nextjs, ASP.NET Core 5.0, IdentityServer, Dapr, Azure pipeline, K8S, SonarQube</li>
+<li><a href="https://github.com/MongkonEiadon/VehicleTracker">MongkonEiadon/VehicleTracker</a> - Vehicle Tracker with Microservice example</li>
+<li><a href="https://github.com/yang-xiaodong/eShopOnContainers">yang-xiaodong/eShopOnContainers</a> - Replace eShopOnContainers EventBus with CAP</li>
+<li><a href="https://github.com/jbw/TooBigToFailBurgerShop">jbw/TooBigToFailBurgerShop</a> - .NET Microservice Reference Application. It&rsquo;s also an over-engineered burger shop!</li>
+<li><a href="https://github.com/Daniel-Krzyczkowski/Smart-Accounting">Daniel-Krzyczkowski/Smart-Accounting</a> - This repository contains a solution for collecting invoices in a digital way.</li>
+<li><a href="https://github.com/juicycleff/ultimate-backend">juicycleff/ultimate-backend</a> - Multi tenant SaaS starter kit with cqrs graphql microservice architecture, apollo federation, event source and authentication</li>
+<li><a href="https://github.com/OpenCodeFoundation/eSchool">OpenCodeFoundation/eSchool</a> - eSchool Microservice based Solution</li>
+<li><a href="https://github.com/ttulka/ddd-example-ecommerce-microservices">ttulka/ddd-example-ecommerce-microservices</a> - Domain-driven design microservices example</li>
+<li><a href="https://github.com/WolfgangOfner/MicroserviceDemo">WolfgangOfner/MicroserviceDemo</a> - This is a demo with two ASP .NET 5 microservices using RabbitMQ and Docker</li>
+<li><a href="https://github.com/hd9/aspnet-microservices">hd9/aspnet-microservices</a> - Sample microservice architecture using .NET Core, Docker, Azure and Kubernetes.</li>
+<li><a href="https://github.com/mansoorafzal/AspnetMicroservices">mansoorafzal/AspnetMicroservices</a> - Development and Communication of Microservices with .NET Core 5 using ASP.NET Web API, Docker Compose, RabbitMQ, MassTransit, Portainer, gRPC, Protocol Buffers, SQL Server, Redis, MongoDB, PostgreSQL, Dapper, Entity Framework Core, AutoMapper, MediatR, FluentValidation, Ocelot, Elasticsearch, Kibana, Polly, OpenTelemetry, Jaeger.</li>
+<li><a href="https://github.com/VasilisGaitanidis/master-containerized-microservices">VasilisGaitanidis/master-containerized-microservices</a> - This repo contains a sample application based on a fictional eCommerce. The primary goal of this sample is to demonstrate several software-architecture concepts like: Clean Architecture, Microservices, CQRS, Event Sourcing, Publish-Subscribe Architecture, Domain Driven Design (DDD). Currently this is a work in progress.</li>
+<li><a href="https://github.com/MesutAtasoy/Joker">MesutAtasoy/Joker</a> - An example of microservices container based application which implemented different approaches within each microservice (DDD, CQRS, Simple CRUD)</li>
+<li><a href="https://github.com/evgenirusev/Distributed-eStore">evgenirusev/Distributed-eStore</a> - Ecommerce SPA application with a microservices architecture implemented from scratch. Tech stack - Docker, Consul, Fabio, RabbitMQ, .Net Core, Mediatr, CQRS, React, Redux. .NET Core Microservices template, .NET React Redux, .NET RabbitMQ, .NET Distributed, Docker, .NET Core with Docker.</li>
+<li><a href="https://github.com/Particular/eShopOnContainers/tree/archive">Particular/eShopOnContainers</a></li>
+<li><a href="https://github.com/matjazbravc/Microservice.Architecture.Demo">matjazbravc/Microservice.Architecture.Demo</a> - This demo shows a working sample of microservices architecture using ASP.NET Core. It covers how to create microservices, how to create API gateways using Ocelot, how to use MassTransit as distributed application framework, RabbitMQ as message broker, how to unit test microservices using xUnit, how to monitor microservices using health checks</li>
+<li><a href="https://github.com/Azure-Samples/container-apps-store-api-microservice">Azure-Samples/container-apps-store-api-microservice</a> - Sample microservices solution using Azure Container Apps, Dapr, Cosmos DB, and Azure API Management</li>
+<li><a href="https://github.com/thangchung/northwind-dotnet">thangchung/northwind-dotnet</a> - A full-stack .NET 6 Microservices build on Minimal APIs and C# 10</li>
+<li><a href="https://github.com/ivaylokenov/Architecture-of-ASP.NET-Core-Microservices-Applications">ivaylokenov/Architecture-of-ASP.NET-Core-Microservices-Applications</a> - Architecture of ASP.NET Core Microservices Applications</li>
+<li><a href="https://github.com/oskardudycz/EventSourcing.NetCore/tree/50dc5fdd7da0f4e790288c59fbfb9803543d6e8b/Sample/MeetingsManagement">EventSourcing.NetCore/MeetingsManagement</a></li>
+<li><a href="https://github.com/microsoft/dotnet-podcasts">microsoft/dotnet-podcasts</a> - .NET 6 reference application shown at .NET Conf 2021 featuring ASP.NET Core, Blazor, .NET MAUI, Microservices, and more!</li>
+<li><a href="https://github.com/thangchung/bff-auth">thangchung/bff-auth</a> - The demonstration of modern authentication using BFF pattern</li>
+<li><a href="https://github.com/manfredsteyer/yarp-auth-proxy">manfredsteyer/yarp-auth-proxy</a></li>
+<li><a href="https://github.com/thiagocruzrj/E-Commerce-Microservices">thiagocruzrj/E-Commerce-Microservices</a> - Creating a distributed e-commerce system with microservice architecture.</li>
+<li><a href="https://github.com/Daniel-Krzyczkowski/Cloud-Pharmacy-On-Azure">Daniel-Krzyczkowski/Cloud-Pharmacy-On-Azure</a> - Cloud Pharmacy is a fake medical company which used Microsoft Azure cloud services to implement the system for patients, physicians, and medicaments store.</li>
+<li><a href="https://github.com/malikmasis/TelephoneDirectory">malikmasis/TelephoneDirectory</a> - microservices-&gt; .net core 3.1 - Docker, Jenkins, Ocelot, RabbitMq, MassTransit, mssql, postgresql, elastic search, serilog, kibana, swagger, jwt</li>
+<li><a href="https://github.com/anhkhoadx/Microservices">anhkhoadx/Microservices</a></li>
+<li><a href="https://github.com/NHadi/Pos">NHadi/Pos</a> - Sample Application DDD, Reactive Microservices, CQRS Event Sourcing Powered by DERMAYON LIBRARY</li>
+<li><a href="https://github.com/m-jovanovic/event-reminder">m-jovanovic/event-reminder</a> - .NET Core Web API for seamless event organization with configurable notification systems.</li>
+<li><a href="https://github.com/AleksK1NG/Java-Spring-CQRS-Microservice">AleksK1NG/Java-Spring-CQRS-Microservice</a> - Java-Spring-CQRS-Microservice</li>
+<li><a href="https://github.com/desenvolvedor-io/dev-store">desenvolvedor-io/dev-store</a> - A microservices e-commerce reference application built with ASP.NET 6</li>
+<li><a href="https://github.com/idugalic/digital-restaurant">idugalic/digital-restaurant</a> - DDD. Event sourcing. CQRS. REST. Modular. Microservices. Kotlin. Spring. Axon platform. Apache Kafka. RabbitMQ</li>
+<li><a href="https://github.com/fraktalio/order-demo">fraktalio/order-demo</a> - Axon demo - <code>Order Management</code> Information System - A part of the systems landscape</li>
+<li><a href="https://github.com/AleksK1NG/Kotlin-ES-CQRS-Microservice">AleksK1NG/Kotlin-ES-CQRS-Microservice</a> - Kotlin-ES-CQRS-Microservice</li>
+<li><a href="https://github.com/thangchung/coffeeshop-on-nomad">thangchung/coffeeshop-on-nomad</a> - The .NET coffeeshop application runs on Nomad and Consul Connect</li>
+<li><a href="https://github.com/patrikduch/netcore-microservices">patrikduch/netcore-microservices</a> - Advanced NET Microservice Architecture with Azure Kubernetes Services integration.</li>
+<li><a href="https://github.com/Ninchuga/AspNetMicroservicesShop">Ninchuga/AspNetMicroservicesShop</a> - AspNetMicroservicesShop</li>
+<li><a href="https://github.com/pmorelli92/Orleans.Tournament">pmorelli92/Orleans.Tournament</a> - Orleans sample with clustering, implicit stream handling, authentication, authorization, websockets</li>
+<li><a href="https://github.com/AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing">AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing</a> - A full-stack .NET 7 EDA solution</li>
+<li><a href="https://github.com/markgossa/Reference-Event-Driven-Architecture">markgossa/Reference-Event-Driven-Architecture</a></li>
+<li><a href="https://github.com/AleksK1NG/Kotlin-Spring-gRPC-Microservice">AleksK1NG/Kotlin-Spring-gRPC-Microservice</a> - Kotlin Spring gRPC Microservice</li>
+<li><a href="https://github.com/jeremydmiller/WolverinePresentation">jeremydmiller/WolverinePresentation</a> - Sample code and slide deck for my Wolverine talk for the JetBrains webinar</li>
+<li><a href="https://github.com/mauroservienti/designing-a-ui-for-microservices-demos/">mauroservienti/designing-a-ui-for-microservices-demos/</a> - Demos and sample for my &ldquo;Designing a UI for Microservices&rdquo; talk</li>
+<li><a href="https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/HotelManagement">oskardudycz/EventSourcing.NetCore/Sample/HotelManagement</a></li>
+<li><a href="https://github.com/thinktecture-labs/cloud-native-sample">thinktecture-labs/cloud-native-sample</a> - Sample application to demonstrate how to build, orchestrate, and automate a polyglot cloud-native application</li>
+<li><a href="https://github.com/chayxana/Restaurant-App">chayxana/Restaurant-App</a> - Restaurant App 🍔 is a sample open-source e-Commerce 🛒 application for ordering foods, powered by polyglot microservices architecture and cross-platform development including mobile and web</li>
+<li><a href="https://github.com/thangchung/coffeeshop-on-dapr">thangchung/coffeeshop-on-dapr</a> - The coffeeshop event-driven application which is developed and run on Dapr</li>
+<li><a href="https://github.com/thangchung/try-nomad-dapr">thangchung/try-nomad-dapr</a></li>
+<li><a href="https://github.com/m-khooryani/OverCloudAirways">m-khooryani/OverCloudAirways</a></li>
+<li><a href="https://github.com/meaboutsoftware/evolutionary-architecture">meaboutsoftware/evolutionary-architecture</a> ⭐ - Navigate the complex landscape of .NET software architecture with our step-by-step, story-like guide. Unpack the interplay between modular monoliths, microservices, domain-driven design, and various architectural patterns</li>
+<li><a href="https://github.com/dotnet/eShop">dotnet/eShop</a> ⭐ - A reference .NET application implementing an eCommerce site</li>
+<li><a href="https://github.com/jeremydmiller/CritterStackHelpDesk">jeremydmiller/CritterStackHelpDesk</a> - My take on Oskar&rsquo;s Helpdesk sample application, but with Wolverine</li>
+<li><a href="https://github.com/event-driven-dotnet/EventDriven.ReferenceArchitecture">event-driven-dotnet/EventDriven.ReferenceArchitecture</a> ⭐ - Reference architecture for using EventDriven abstractions and libraries for Domain Driven Design (DDD), Command-Query Responsibility Segregation (CQRS) and Event Driven Architecture (EDA).</li>
+<li><a href="https://github.com/ebubekirdinc/SuuCat">ebubekirdinc/SuuCat</a> - SuuCat is a sample containerized application consisting of several microservices. Its purpose is to use microservice patterns in practice</li>
+<li><a href="https://github.com/Physer/Microshop.NET">Physer/Microshop.NET</a> - A .NET e-commerce showcase in a event-driven microservices architecture</li>
+<li><a href="https://github.com/dotnet/eShopSupport">dotnet/eShopSupport</a> - A reference .NET application using AI for a customer support ticketing system</li>
+<li><a href="https://github.com/Azure-Samples/eShopOnAzure">Azure-Samples/eShopOnAzure</a> - A variant of <a href="https://github.com/dotnet/eShop">https://github.com/dotnet/eShop</a> that uses Azure </li>
+<li><a href="https://github.com/dotnet/eShop">dotnet/eShop</a> - A reference .NET application implementing an eCommerce site</li>
+<li><a href="https://github.com/thangchung/practical-dotnet-aspire">thangchung/practical-dotnet-aspire</a> - The practical .NET Aspire builds on the coffeeshop app business domain</li>
+<li><a href="https://github.com/dotnet-presentations/eshop-app-workshop">dotnet-presentations/eshop-app-workshop</a> - This workshop will teach you ASP.NET Core &amp; .NET Aspire by building the product catalog &amp; order placement features of the eShop reference application.</li>
+<li><a href="https://github.com/foxminchan/BookWorm">foxminchan/BookWorm</a> - The practical implementation of .NET Aspire using Microservices</li>
+<li><a href="https://github.com/foxminchan/CoolShop">foxminchan/CoolShop</a> - A cloud-native e-commerce app built on Dapr and Aspire</li>
+<li><a href="https://github.com/Azure-Samples/eShopLite">Azure-Samples/eShopLite</a> - eShopLite is a set of reference .NET applications implementing an eCommerce site with features like Semantic Search, MCP, Reasoning models and more.</li>
+</ul>
+<h2 id="books">📚 Books<a class="headerlink" href="#books" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="https://aspnetrun.azurewebsites.net/Microservices">Microservices Architecture and Step by Step Implementation on .NET</a></li>
+<li><a href="https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1492034029">Building Microservices: Designing Fine-Grained Systems, 2<sup>nd</sup> Edition</a></li>
+<li><a href="https://www.manning.com/books/microservices-patterns">Microservices Patterns: With examples in Java 1<sup>st</sup> Edition</a></li>
+<li><a href="https://www.amazon.com/Production-Ready-Microservices-Susan-Fowler/dp/1491965975">Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization</a></li>
+<li><a href="https://www.amazon.com/Monolith-Microservices-Evolutionary-Patterns-Transform/dp/1492047848">Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith 1<sup>st</sup> Edition</a></li>
+<li><a href="https://www.amazon.com/Microservice-Architecture-Aligning-Principles-Practices/dp/1491956259">Microservice Architecture: Aligning Principles, Practices, and Culture</a></li>
+<li><a href="https://www.manning.com/books/microservices-in-net-core-second-edition">Microservices in .NET Core, Second Edition</a></li>
+<li><a href="https://www.manning.com/books/microservices-in-action">Microservices in Action</a></li>
+<li><a href="https://www.manning.com/books/microservices-security-in-action?query=Microservices">Microservices Security in Action</a></li>
+<li><a href="https://www.amazon.com/Building-Microservices-ASP-NET-Core-Cross-Platform/dp/1491961732">Building Microservices with ASP.NET Core: Develop, Test, and Deploy Cross-Platform Services in the Cloud</a></li>
+<li><a href="https://www.amazon.com/Building-Event-Driven-Microservices-Leveraging-Organizational/dp/1492057894">Building Event-Driven Microservices: Leveraging Organizational Data at Scale</a></li>
+<li><a href="https://www.amazon.com/Microservices-Step-Step-Microservice-Architecture/dp/1492075450">Microservices: Up and Running: A Step-by-Step Guide to Building a Microservices Architecture</a></li>
+<li><a href="https://www.amazon.com/Practical-Microservices-Dapr-NET-cloud-native/dp/1800568371">Practical Microservices with Dapr and .NET: A developer&rsquo;s guide to building cloud-native applications using the Dapr event-driven runtime</a></li>
+<li><a href="https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/">Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems</a></li>
+<li><a href="https://www.amazon.com/Microservices-Enterprise-Designing-Developing-Deploying/dp/1484238575/">Microservices for the Enterprise: Designing, Developing, and Deploying</a></li>
+<li><a href="https://www.amazon.com/Embracing-Microservices-Design-anti-patterns-architectural/dp/180181838X/ref=pd_sbs_52/142-1174349-9952515">Embracing Microservices Design: A practical guide to revealing anti-patterns and architectural pitfalls to avoid microservices fallacies</a></li>
+<li><a href="https://www.amazon.com/Practical-Event-Driven-Microservices-Architecture-Sustainable/dp/1484274679/">Practical Event-Driven Microservices Architecture: Building Sustainable and Highly Scalable Event-Driven Microservices</a></li>
+<li><a href="https://www.amazon.com/Practical-Microservices-Dapr-NET-cloud-native-ebook/dp/B08P5L81X8/">Practical Microservices with Dapr and .NET: A developer&rsquo;s guide to building cloud-native applications using the Dapr event-driven runtime</a></li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      2023 <a href="https://github.com/mehdihadeli">Mehdi Hadeli</a>.
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://twitter.com/mehdi_hadeli" target="_blank" rel="noopener" title="twitter.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.linkedin.com/in/mehdihadeli" target="_blank" rel="noopener" title="www.linkedin.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/mehdihadeli" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M186.1 328.7c0 20.9-10.9 55.1-36.7 55.1s-36.7-34.2-36.7-55.1 10.9-55.1 36.7-55.1 36.7 34.2 36.7 55.1zM480 278.2c0 31.9-3.2 65.7-17.5 95-37.9 76.6-142.1 74.8-216.7 74.8-75.8 0-186.2 2.7-225.6-74.8-14.6-29-20.2-63.1-20.2-95 0-41.9 13.9-81.5 41.5-113.6-5.2-15.8-7.7-32.4-7.7-48.8 0-21.5 4.9-32.3 14.6-51.8 45.3 0 74.3 9 108.8 36 29-6.9 58.8-10 88.7-10 27 0 54.2 2.9 80.4 9.2 34-26.7 63-35.2 107.8-35.2 9.8 19.5 14.6 30.3 14.6 51.8 0 16.4-2.6 32.7-7.7 48.2 27.5 32.4 39 72.3 39 114.2zm-64.3 50.5c0-43.9-26.7-82.6-73.5-82.6-18.9 0-37 3.4-56 6-14.9 2.3-29.8 3.2-45.1 3.2-15.2 0-30.1-.9-45.1-3.2-18.7-2.6-37-6-56-6-46.8 0-73.5 38.7-73.5 82.6 0 87.8 80.4 101.3 150.4 101.3h48.2c70.3 0 150.6-13.4 150.6-101.3zm-82.6-55.1c-25.8 0-36.7 34.2-36.7 55.1s10.9 55.1 36.7 55.1 36.7-34.2 36.7-55.1-10.9-55.1-36.7-55.1z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.instant", "navigation.tracking", "toc.integrate", "navigation.top"], "search": "../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.1e8ae164.min.js"></script>
+      
+    
+  </body>
+</html>
