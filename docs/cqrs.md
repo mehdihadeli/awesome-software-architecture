@@ -117,6 +117,7 @@
 - [daxnet/apworks-core](https://github.com/daxnet/apworks-core) - Apworks framework supporting .NET Core
 - [lucabriguglia/OpenCQRS](https://github.com/lucabriguglia/OpenCQRS) - .NET Standard framework to create simple and clean design. Advanced features for DDD, CQRS and Event Sourcing.
 - [event-driven-dotnet/EventDriven.CQRS.Abstractions](https://github.com/event-driven-dotnet/EventDriven.CQRS.Abstractions) - Abstractions for implementing Command Query Responsibility Segregation in .NET
+- [OpenCQRS](https://www.opencqrs.com/) – Java CQRS Framework for the EventSourcingDB
 
 ## 🚀 Samples
 
