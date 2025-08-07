@@ -5,6 +5,7 @@
 - [Cloud Design Patterns - Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
 - [EDA VISUALS Blog](https://eda-visuals.boyney.io/)
 - [event-driven.io Blog](event-driven.io/en/)
+- [CQRS, Event Sourcing & co. – Rethink How You Build Software](https://www.cqrs.com/)
 
 ## 📕 Articles
 - [Event-driven architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/event-driven)
