@@ -4,7 +4,7 @@
 - [ddd-crew/ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process) 
 
 ## 📕 Articles
-- [Finding service boundaries: more than just the bounded context](https://www.ben-morris.com/finding-service-boundaries-more-than-just-the-bounded-context
+- [Finding service boundaries: more than just the bounded context](https://www.ben-morris.com/finding-service-boundaries-more-than-just-the-bounded-context)
 - [Heuristics for Identifying Service Boundaries](https://opencredo.com/blogs/identify-service-boundary-heuristics/)
 - [Chapter 4. Rightsizing Your Microservices: Finding Service Boundaries](https://www.oreilly.com/library/view/microservices-up-and/9781492075448/ch04.html)
 - [Finding Service Boundaries: The One Rule That Matters](https://medium.com/nick-tune-tech-strategy-blog/finding-service-boundaries-the-one-rule-that-matters-2bd00f4e0c78)
