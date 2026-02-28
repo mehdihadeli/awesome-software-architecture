@@ -3,6 +3,7 @@
 ## Resources
 - [arc42/arc42-template](https://github.com/arc42/arc42-template) - arc42 - the template for software architecture documentation and communication
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
+- [reasoning-formats/reasoning-formats](https://github.com/reasoning-formats/reasoning-formats) - Decision Reasoning Format (DRF) — a vendor-neutral, machine-readable YAML/JSON format for structured decision documentation with explicit reasoning, cognitive state tracking, and trade-off documentation
 - [C4Model.com](https://c4model.com)
 
 ## Articles
