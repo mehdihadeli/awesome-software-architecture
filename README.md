@@ -463,12 +463,6 @@ I created this repository to share a set of links that I found valuable and insp
 | :------------------------------------------------: | :---------- |
 | [Distributed Locking](docs/distributed-locking.md) | TODO...     |
 
-### Eventual Consistency
-
-|                        Topic                         | Description |
-| :--------------------------------------------------: | :---------- |
-| [Eventual Consistency](docs/eventual-consistency.md) | TODO...     |
-
 ### RESTful API Design
 
 |               Topic                | Description |
