@@ -85,6 +85,7 @@ I created this repository to share a set of links that I found valuable and insp
 |                         Topic                          | Description                                                                                                                                 |
 | :----------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------ |
 | [Software Architecture](docs/software-architecture.md) | Software architecture refers to the fundamental structures of a software system and the discipline of creating such structures and systems. |
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for software architecture workflow orchestration, automated design pattern management, and multi-agent coordination. MIT licensed.
 
 ### Actor Model Architecture
 
