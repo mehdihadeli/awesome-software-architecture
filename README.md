@@ -365,6 +365,7 @@ I created this repository to share a set of links that I found valuable and insp
 |            [Consul](docs/service-discovery/consul.md)            | TODO...     |
 |            [Eureka](docs/service-discovery/eureka.md)            | TODO...     |
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=mehdihadeli_awesome-software-architecture) - Find trending repos through developers you follow instead of star-velocity rankings.
 ### Service Mesh
 
 |                       Topic                       | Description |
