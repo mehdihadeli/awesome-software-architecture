@@ -107,6 +107,8 @@ I created this repository to share a set of links that I found valuable and insp
 | :------------------------: | :----------------------------------- |
 |    [AI](docs/ai/ai.md)     | Artificial intelligence topics       |
 | [AI - RAG](docs/ai/rag.md) | Retrieval-Augmented Generation (RAG) |
+| [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) | Self-evolving AI coding intelligence with infinite memory, genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense. |
+| [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) | 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update. |
 
 ### Clean Architecture
 
