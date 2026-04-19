@@ -86,6 +86,8 @@ I created this repository to share a set of links that I found valuable and insp
 | :----------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------ |
 | [Software Architecture](docs/software-architecture.md) | Software architecture refers to the fundamental structures of a software system and the discipline of creating such structures and systems. |
 
+- **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 ### Actor Model Architecture
 
 |                                         Topic                                         | Description                                                                                                                                                                                                                    |
