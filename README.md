@@ -329,6 +329,7 @@ I created this repository to share a set of links that I found valuable and insp
 |                                        [Docker](docs/devops/docker/docker.md)                                         | TODO...     |
 |                            [Docker - Docker Compose](docs/devops/docker/docker-compose.md)                            | TODO...     |
 |                                  [Kubernetes](docs/devops/kubernetes/kubernetes.md)                                   | TODO...     |
+|                      [KubeStellar Console](https://console.kubestellar.io)                      | Open source AI-powered multi-cluster Kubernetes dashboard for distributed systems observability with Prometheus, OpenTelemetry, and 20+ CNCF integrations. CNCF Sandbox project. |
 |                              [Kubernetes - Services](docs/devops/kubernetes/services.md)                              | TODO...     |
 |                 [Kubernetes - Deployment Strategies](docs/devops/kubernetes/deployment-strategies.md)                 | TODO...     |
 |             [Kubernetes - Deployment Tools - ArgoCd](docs/devops/kubernetes/deployment-tools/argo-cd.md)              | TODO...     |
