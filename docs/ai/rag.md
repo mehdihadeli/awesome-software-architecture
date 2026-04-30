@@ -11,8 +11,8 @@
 - [Building an Advanced RAG System With Self-Querying Retrieval](https://www.mongodb.com/developer/products/atlas/advanced-rag-self-querying-retrieval/)
 - [Demystifying Retrieval Augmented Generation with .NET](https://devblogs.microsoft.com/dotnet/demystifying-retrieval-augmented-generation-with-dotnet/)
 - [Building Intelligent Applications with Local RAG in .NET and Phi-3: A Hands-On Guide](https://techcommunity.microsoft.com/t5/educator-developer-blog/building-intelligent-applications-with-local-rag-in-net-and-phi/ba-p/4175721)
-- [Bring your AI Copilots to the edge with Phi-3 and Semantic Kernel
-](https://arafattehsin.com/ai-copilot-offline-phi3-semantic-kernel/)
+- [Bring your AI Copilots to the edge with Phi-3 and Semantic Kernel](https://arafattehsin.com/ai-copilot-offline-phi3-semantic-kernel/)
+- [Building RAG with .NET Aspire and Python](https://nikiforovall.blog/dotnet/ai/2026/02/22/building-rag-with-aspire-and-python)
 
 ## Videos
 - [.NET AI Community Standup - Phi-3 & C#: Bringing AI to your .NET Apps](https://www.youtube.com/watch?v=fbojvzHGtkM)

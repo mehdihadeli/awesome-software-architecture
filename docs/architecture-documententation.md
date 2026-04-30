@@ -9,6 +9,9 @@
 - [Architecture Decision Records](https://endjin.com/blog/2023/07/architecture-decision-records)
 - [Documenting software architecture with arc42](https://www.innoq.com/en/blog/2022/08/brief-introduction-to-arc42/)
 - [Demystifying Architectural Decision Records: Why Every Project Needs Them](https://www.dandoescode.com/blog/demystifying-architectural-decision-records-why-every-project-needs-them)
+- [Keep Your Architecture Diagrams in Code, Not in Tools](https://architecture-as-code.hashnode.dev/keep-your-architecture-diagrams-in-code-not-in-tools)
+- [Keep Your AI and Architecture/Design in Sync](https://architecture-as-code.hashnode.dev/keep-your-ai-and-architecturedesign-in-sync)
+- [Architecture as Code in Practice](https://architecture-as-code.hashnode.dev/architecture-as-code-in-practice)
 
 ## 📺 Videos
 

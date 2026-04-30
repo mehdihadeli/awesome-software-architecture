@@ -28,12 +28,15 @@
 ## Libraries & Tools
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [microsoft/mcp-gateway](https://github.com/microsoft/mcp-gateway) - MCP Gateway is a reverse proxy and management layer for MCP servers, enabling scalable, session-aware stateful routing and lifecycle management of MCP servers in Kubernetes environments.
+- [excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp) - Fast and streamable Excalidraw MCP App
+- [jgraph/drawio-mcp](https://github.com/jgraph/drawio-mcp)
+- [microsoft/azure-devops-mcp](https://github.com/microsoft/azure-devops-mcp) - The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.
 
 ## Samples
 
 - [microsoft/mcp-dotnet-samples](https://github.com/microsoft/mcp-dotnet-samples) - A comprehensive set of samples of creating and using MCP servers and clients with .NET
 - [Azure-Samples/azure-ai-travel-agents](https://github.com/Azure-Samples/azure-ai-travel-agents) - The AI Travel Agents is a robust enterprise application (hosted on ACA) that leverages MCP and multiple LamaIndex AI agents to enhance travel agency operations.
-- [microsoft/azure-devops-mcp](https://github.com/microsoft/azure-devops-mcp) - The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.
+
 - [microsoft/lets-learn-mcp-csharp](https://github.com/microsoft/lets-learn-mcp-csharp)
 - [skills/integrate-mcp-with-copilot](https://github.com/skills/integrate-mcp-with-copilot) - Learn how to use MCP Servers with GitHub Copilot
 - [christian-posta/mcp-auth-step-by-step](https://github.com/christian-posta/mcp-auth-step-by-step) - Step by step walkthrough of an MCP Authorization implementation

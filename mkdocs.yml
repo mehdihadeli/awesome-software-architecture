@@ -65,19 +65,18 @@ nav:
 - Architecture Documententation: architecture-documententation.md
 - AI:
     A2A: ai/a2a.md
+    ACP: ai/acp.md
     AI: ai/ai.md
     Agents: ai/agent.md
+    Agent Skills: ai/skills.md
+    Code Assistants: ai/code-assistants.md
     Microsoft Agent Framework: ai/agent-framework.md
     Embedding & Vector: ai/embedding-vector.md
     Code Assistants: ai/code-assistants.md
     LangChain: ai/langchain.md
     Model Context Protocol (MCP): ai/mcp.md
-    Models:
-      - Models: ai/models.md
-      - Hugging Face: ai/models/hugging-face.md
-      - Ollama: ai/models/ollama.md
-      - OpenAI: ai/models/openai.md
-      - Phi: ai/models/phi.md
+    Models: ai/models.md
+    Ollama: ai/ollama.md
     Prompt Engineering: ai/prompt-engineering.md
     RAG: ai/rag.md
     Semantic Kernel & .NET AI: ai/semantic-kernel.md

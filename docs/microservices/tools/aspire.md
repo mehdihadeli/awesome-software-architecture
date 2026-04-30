@@ -68,6 +68,7 @@
 - [Harness the power of .NET Aspire Components - Aug 13, 2024](https://www.youtube.com/watch?v=istmgTDtSSQ)
 - [Secrets, Security, and Keycloak in .NET Aspire - Aug 14, 2024](https://www.youtube.com/watch?v=xjsB8dOLV-I)
 - [Aspire for AI Applications](https://www.youtube.com/watch?v=7nQCRRYp44k)
+- [Building next-level conversational AI apps with .NET and Aspire - Steve Sanderson - NDC Melbourne](https://www.youtube.com/watch?v=WzF5XpzkZeg)
 
 ## Tools
 - [prom3theu5/aspirational-manifests](https://github.com/prom3theu5/aspirational-manifests) - Handle deployments of .NET Aspire AppHost Projects
