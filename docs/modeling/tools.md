@@ -3,6 +3,7 @@
 
 - [Diagrams.Net](https://www.diagrams.net)
 - [IcePanel](https://icepanel.io)
+- [Uxxu](https://uxxu.io) - C4 software architecture modeling platform for connected diagrams and shared architecture workspaces.
 - [Vertabelo](https://vertabelo.com)
 - [Reverse engineering - vertabelo](https://vertabelo.com/documentation/physical-model/reverse-engineering-doc/)
 - [LucidChart](https://www.lucidchart.com/pages/)
