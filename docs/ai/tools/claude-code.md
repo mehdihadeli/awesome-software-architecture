@@ -13,6 +13,9 @@
 - [Reverse Engineering your Software Architecture with Claude Code to Help Claude Code](https://medium.com/nick-tune-tech-strategy-blog/reverse-engineering-your-software-architecture-with-claude-code-to-help-claude-code-1746a7b941bc)
 - [A Friendly Guide to Agents and Sub-Agents in Claude Code](https://aslamdoctor.com/a-friendly-guide-to-agents-and-sub-agents-in-claude-code/)
 - [Beyond permission prompts: making Claude Code more secure and autonomous](https://www.anthropic.com/engineering/claude-code-sandboxing)
+- [Claude Code agent teams explained](https://newsletter.owainlewis.com/p/claude-code-agent-teams-explained)
+- [Claude Code & GitHub Copilot | Cross-Compatible Prompt Structure](https://raffertyuy.com/raztype/claude-copilot-xcompatibility/)
+- [Claude Code Configuration Blueprint: The Complete Guide for Production Teams](https://dev.to/mir_mursalin_ankur/claude-code-configuration-blueprint-the-complete-guide-for-production-teams-557p)
 
 ## Videos
 - [How to use Claude Code for beginners](https://www.youtube.com/watch?v=U_vwfQBhVSY)
@@ -25,3 +28,4 @@
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Anthropic-managed directory of high quality Claude Code Plugins.
 - [papaoloba/spec-based-claude-code](https://github.com/papaoloba/spec-based-claude-code) - Implementation of a Spec-Driven Development workflow in Claude Code using custom slash commands
 - [Aaronontheweb/dotnet-skills](https://github.com/Aaronontheweb/dotnet-skills) - Claude Code skills and sub-agents for .NET Developers
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman

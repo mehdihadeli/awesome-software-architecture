@@ -23,6 +23,7 @@
 ## Samples
 - [NikiforovAll/notebook-agent](https://github.com/NikiforovAll/notebook-agent) - Demonstrates how to use Semantic Kernel and Kernel Memory in a polyglot notebook environment.
 - [luisquintanilla/RAGDotnetAIFundamentals](https://github.com/luisquintanilla/RAGDotnetAIFundamentals) - This sample shows how to apply vanilla / simple RAG pattern using .NET fundamentals in the AI ecosystem
+- [NikiforovAll/company_intel](https://github.com/NikiforovAll/company_intel)
 
 ## Books
 - [Building LLMs for Production: Enhancing LLM Abilities and Reliability with Prompting, Fine-Tuning, and RAG](https://www.amazon.com/Building-LLMs-Production-Reliability-Fine-Tuning/dp/B0D4FFPFW8)
