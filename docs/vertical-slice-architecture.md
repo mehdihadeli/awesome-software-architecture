@@ -76,6 +76,7 @@
 - [Vertical Slice Architecture (Jimmy Bogard)](https://www.youtube.com/watch?v=oAoaMlS1PWo)
 
 ## 🚀 Samples
+- [MairwunNx/Feature-Action-Architecture](https://github.com/MairwunNx/Feature-Action-Architecture) - Backend architecture pattern focused on feature slices, explicit dependencies, and clear layer boundaries.
 - [jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages) 
 - [oskardudycz/EventSourcing.NetCore/Sample/Warehouse](https://github.com/oskardudycz/EventSourcing.NetCore/tree/cqrs_with_net5/Sample/Warehouse)
 - [sandeepgangwar/Vertical-Slice-Architecture](https://github.com/sandeepgangwar/Vertical-Slice-Architecture)
