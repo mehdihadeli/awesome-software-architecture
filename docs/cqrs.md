@@ -137,6 +137,7 @@
 - [oskardudycz/EventSourcing.NetCore/ECommerce](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/ECommerce)
 - [oskardudycz/EventSourcing.NetCore/Sample/Tickets](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/Tickets)
 - [oskardudycz/EventSourcing.NetCore/Sample/MeetingsManagement](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/MeetingsManagement)
+- [nekzabirov/IGaming-Game-Engine](https://github.com/nekzabirov/IGaming-Game-Engine) - Production iGaming/casino engine in Kotlin/Ktor with a CQRS bus where commands return `Result<R>`, queries return `R`, and handlers are auto-discovered through Koin + Kotlin reflection on generic type arguments. Read-side view types are co-located with their queries so each feature has a single source of truth.
 - [oskardudycz/EventSourcing.NetCore/Sample/Warehouse](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/Warehouse)
 - [keremvaris/Sennedjem](https://github.com/keremvaris/Sennedjem) - Sennedjem is a software development infrastructure that adopts the CQRS (Command Query Responsibility Segregation) approach and focuses on SOLID principles and Clean Architecture methods. RabbitMq is very skilled in integrating with ElasticSearch etc tools. 
 - [grandnode/grandnode2](https://github.com/grandnode/grandnode2) - Open source, headless, multi-tenant eCommerce platform built with .NET Core, MongoDB, AWS DocumentDB, Azure CosmosDB, Vue.js.
