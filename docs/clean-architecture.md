@@ -133,6 +133,7 @@
 - [AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing](https://github.com/AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing) - The main objective of this cloud-native project is to represent the state of the art of a distributed, reliable, and highly scalable system by interpreting the most relevant principles of Reactive Domain Driven Design.
 - [matt-bentley/CleanArchitecture](https://github.com/matt-bentley/CleanArchitecture) - An opinionated ASP.NET Core solution setup for creating web applications using Clean Architecture and Domain-Driven Design principles.
 - [amantinband/clean-architecture](https://github.com/amantinband/clean-architecture) - The ultimate clean architecture template for .NET applications.
+- [yerdaulet-damir/vibecodex](https://github.com/yerdaulet-damir/vibecodex) - Production architecture bible for AI-assisted coding: 54 principles covering clean architecture, hexagonal/ports-and-adapters, ACL, bulkhead isolation, and single-writer pattern across FastAPI, Next.js 15 & Go 1.22+.
 
 ## 📚 Books
 - [Get Your Hands Dirty on Clean Architecture](https://www.packtpub.com/product/get-your-hands-dirty-on-clean-architecture/9781839211966)
