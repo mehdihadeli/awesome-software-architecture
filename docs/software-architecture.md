@@ -93,3 +93,4 @@
 - [Architectural Patterns: Uncover essential patterns in the most indispensable realm of enterprise architecture](https://www.amazon.com/Architectural-Patterns-indispensable-enterprise-architecture-ebook/dp/B077T7V8RC)
 - [Software Architecture by Example: Using C# and .NET](https://www.amazon.com/Software-Architecture-Example-Using-NET/dp/1484279891)
 - [Architecture Modernization](https://www.manning.com/books/architecture-modernization)
+- [Kafka for Architects](https://www.manning.com/books/kafka-for-architects)
