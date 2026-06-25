@@ -50,5 +50,4 @@
 - [SketchingDev/hexagonal-lambda](https://github.com/SketchingDev/hexagonal-lambda) - NodeJS project demonstrating an AWS Lambda using Hexagonal architecture.
 - [damonkelley/ports-and-adapters-examples](https://github.com/damonkelley/ports-and-adapters-examples) - Ports and Adapters Examples
 - [tpierrain/hexagonalThis](https://github.com/tpierrain/hexagonalThis) - A simple kata to live-code with Alistair about Hexagonal Architecture
-
-	
+- [Haraj-backend/hex-monscape](https://github.com/Haraj-backend/hex-monscape) - Getting started guidelines in writing maintainable code using Hexagonal Architecture using Golang
