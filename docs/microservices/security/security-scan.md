@@ -1,7 +1,12 @@
 # Security Scan
 
+## Resources
+
+- [djvirus9/awesome-devsecops-mastery-2026](https://github.com/djvirus9/awesome-devsecops-mastery-2026/)
+
 ## Articles
 
+- [SBOM Tools 2026: Syft vs Trivy vs Dependency-Track Compared](https://devsecops.ae/sbom-tools-comparison-2026/)
 - [How to Deploy Trivy as an Image Scanner with Portainer - Image](https://oneuptime.com/blog/post/2026-03-20-trivy-image-scanner-portainer/)
 - [How to Scan Docker Images for Vulnerabilities with Trivy](https://oneuptime.com/blog/post/2026-01-16-docker-scan-images-trivy/)
 - [How to Implement Container Scanning with Trivy](https://oneuptime.com/blog/post/2026-01-25-container-scanning-trivy/)
