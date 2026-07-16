@@ -5,6 +5,7 @@
 - [Put your AI to the Test with Microsoft.Extensions.AI.Evaluation](https://developer.microsoft.com/blog/put-your-ai-to-the-test-with-microsoft-extensions-ai-evaluation)
 - [The Microsoft.Extensions.AI.Evaluation libraries](https://learn.microsoft.com/en-us/dotnet/ai/evaluation/libraries)
 - [Evaluating LLM Models in GitHub Copilot. A Practical Scoring and Assessment Guide](https://dev.to/pwd9000/evaluating-llm-models-in-github-copilot-a-practical-scoring-and-assessment-guide-1f23)
+- [Token-Saving Plugins Are Mostly Stupid Idea](https://turaai.net/blog#token-saving-plugins-are-mostly-stupid-idea) - An evidence-backed audit of coding-agent token-saving claims using matched long-horizon runs, public per-run data, and verifier results.
 
 ## libraries
 
