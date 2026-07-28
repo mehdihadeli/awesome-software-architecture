@@ -247,3 +247,7 @@
 - [ABP - Implementing Domain Driven Design](https://abp.io/books/implementing-domain-driven-design)
 - [Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F#](https://www.amazon.com/Domain-Modeling-Made-Functional-Domain-Driven/dp/1680502549)
 - [Collaborative Software Design - How to facilitate domain modeling decisions](https://www.manning.com/books/collaborative-software-design)
+
+## 🔧 Tools
+
+- [DDD Toolbox - Open-source collection of modern web-based tools including Domain Storytelling and Event Storming](https://dddtoolbox.com) ([Source Code](https://github.com/poulainpi/ddd-toolbox))
