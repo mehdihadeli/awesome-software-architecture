@@ -50,5 +50,6 @@
 - [SketchingDev/hexagonal-lambda](https://github.com/SketchingDev/hexagonal-lambda) - NodeJS project demonstrating an AWS Lambda using Hexagonal architecture.
 - [damonkelley/ports-and-adapters-examples](https://github.com/damonkelley/ports-and-adapters-examples) - Ports and Adapters Examples
 - [tpierrain/hexagonalThis](https://github.com/tpierrain/hexagonalThis) - A simple kata to live-code with Alistair about Hexagonal Architecture
+- [nekzabirov/IGaming-Game-Engine](https://github.com/nekzabirov/IGaming-Game-Engine) - Production iGaming/casino engine in Kotlin/Ktor structured around Hexagonal Architecture: pure domain layer with zero framework deps, application ports for wallet/limits/file/event, and infrastructure adapters for RabbitMQ, S3, gRPC clients, and Exposed (PostgreSQL). Game aggregator integrations (Pragmatic Play, OneGameHub, Pateplay) are pluggable adapters discovered at boot via Koin.
 
 	
