@@ -60,6 +60,8 @@
 - [Visualising software architecture with the C4 model - Simon Brown, Agile on the Beach 2019](https://www.youtube.com/watch?v=x2-rSnhpw0g)
 - [Structurizr C4 Model series](https://www.youtube.com/playlist?list=PLLET0MJVt0Uc0Nek7yck8FG2fNnv9H32v)
 - [Software Architecture vs Code](https://www.youtube.com/watch?v=ehH3UGdSwPo)
+- [GOTO 2021 • Software Architecture for Developers (Teaser) • Simon Brown & Stefan Tilkov](https://www.youtube.com/watch?v=oRe1zuY165Q)
+- [GOTO 2021 • Why Architectural Work Comes Before Coding Part 1/2 • Simon Brown & Stefan Tilkov](https://www.youtube.com/watch?v=TE4rKZ7M1aM)
 - [GOTO 2021 • Software Architecture for Developers Part 2/2 • Simon Brown & Stefan Tilkov](https://www.youtube.com/watch?v=gDlE4q3mozY)
 
 
