@@ -37,3 +37,4 @@
 - [pierre3/PlantUmlClassDiagramGenerator](https://github.com/pierre3/PlantUmlClassDiagramGenerator) - This is a generator to create a class-diagram of PlantUML from the C# source code.
 - [drawsql.app](https://drawsql.app/)
 - [excalidraw.com](https://excalidraw.com/)
+- [flow-chart.io](https://flow-chart.io) - AI diagram generator that produces fully editable scene graphs from plain language — C4 model, cloud architecture, BPMN, ERD, DevOps pipelines. Every node and connector stays editable after AI generation. Freemium.
