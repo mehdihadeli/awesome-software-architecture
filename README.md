@@ -624,3 +624,5 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-software-arc
 <a href="https://github.com/mehdihadeli/awesome-software-architecture/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=mehdihadeli/awesome-software-architecture" />
 </a>
+
+- [flow-chart.io](https://flow-chart.io/?utm_source=awesome-software-architecture&utm_medium=referral&utm_campaign=first_customer&utm_content=directory) — AI diagram generator producing fully editable C4 model, cloud architecture, and BPMN diagrams from plain-English prompts. Output is a live scene graph — every node and connector is selectable and editable. MCP endpoint available.
