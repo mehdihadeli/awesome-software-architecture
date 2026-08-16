@@ -10,4 +10,5 @@
 - [Visual Paradigm](https://www.visual-paradigm.com)
 - [Creately](https://creately.com)
 - [CloudSkew](https://app.cloudskew.com)
+- [Canopy](https://canopy.8starlabs.com) - Architecture maps for understanding systems, dependencies, costs, and AI-ready context.
 - [ExcaliDraw](https://github.com/excalidraw/excalidraw)
