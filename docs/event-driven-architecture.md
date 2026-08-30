@@ -7,6 +7,7 @@
 - [event-driven.io Blog](event-driven.io/en/)
 
 ## 📕 Articles
+- [Webhook Replay Protection: Why Signature Verification Is Not Enough](https://buildwithafolayan.com/insights/webhook-replay-protection)
 - [Event-driven architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/event-driven)
 - [Event-Driven Architecture](https://herbertograca.com/2017/10/05/event-driven-architecture/) 
 - [Journey to Event Driven – Part 1: Why Event-First Programming Changes Everything](https://www.confluent.io/blog/journey-to-event-driven-part-1-why-event-first-thinking-changes-everything/)
