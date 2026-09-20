@@ -7,6 +7,7 @@
 </p>
 
 ## Explore Awesome Architecture
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — a tool for recording and replaying AI agent runs.
 
 The repository is the source catalog. The web app turns it into a reader-friendly experience with searchable collections, clickable subcollections, topic pages, resource-type filters, and direct links to every reference.
 
