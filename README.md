@@ -69,6 +69,8 @@ Topic pages are discovered from folders automatically, so new topics do not requ
 
 ## Browse Resources
 
+- [MySpec](https://myspec.dev) — Spec-driven development platform compiling interactive architectural specifications and task trees for AI coding agents with MCP server support.
+
 The catalog includes articles, videos, courses, books, libraries, samples, tools, and other references. Search the [web app](https://awesome-architecture.com/) by collection, topic, section, name or source domain, or browse the full source tree in [`docs/`](docs/).
 
 ## 🙏 Special Thanks
