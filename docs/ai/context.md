@@ -28,4 +28,4 @@
 - [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.
 - [getzep/graphiti](https://github.com/getzep/graphiti) ⭐ - Build Real-Time Knowledge Graphs for AI Agents
-
+- [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format) ⭐ - OKF is a universal, vendor-neutral format for representing knowledge as plain markdown files with YAML frontmatter

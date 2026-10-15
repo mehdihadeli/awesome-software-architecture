@@ -13,6 +13,7 @@
 - [Microsoft Agent Framework — Foundations](https://nikiforovall.blog/dotnet/ai/2026/03/02/microsoft-agent-framework-foundations.html)
 - [Microsoft Agent Framework — Azure AI Foundry](https://nikiforovall.blog/dotnet/ai/2026/03/24/microsoft-agent-framework-azure-ai-foundry.html)
 - [Microsoft Agent Framework — Workflows, MCP, A2A & AG-UI](https://nikiforovall.blog/dotnet/ai/2026/03/07/microsoft-agent-framework-workflows-mcp-a2a-agui.html)
+- [AG-UI Protocol now has a first-class .NET SDK](https://devblogs.microsoft.com/dotnet/ag-ui-dotnet-sdk/)
 
 ## Videos
 - [Agent Framework: Building Blocks for the Next Generation of AI Agents](https://www.youtube.com/watch?v=AAgdMhftj8w)
@@ -31,3 +32,4 @@
 - [elbruno/elbruno.agentsorchestration](https://github.com/elbruno/elbruno.agentsorchestration) - A lightweight .NET library for orchestrating multiple AI agents through a 6-step pipeline (Plan → Parse → Execute → Verify → Review → Report).
 - [luisquintanilla/dotnet-ai-e2e](https://github.com/luisquintanilla/dotnet-ai-e2e) - End-to-end .NET AI demo: MEAI, MAF, MCP, Aspire, Vector Data, Python polyglot agents, and AI Evaluation
 - [NikiforovAll/maf-getting-started](https://github.com/NikiforovAll/maf-getting-started) - Microsoft Agent Framework (MAF) getting started — presentation series with runnable .NET samples
+- [tommasodotNET/agent-framework-aspire](https://github.com/tommasodotNET/agent-framework-aspire) - This repository contains a sample implementation of the Microsoft Agent Framework using Aspire, demonstrating how to build Retrieval-Augmented Generation (RAG) applications with both .NET and Python agents.
