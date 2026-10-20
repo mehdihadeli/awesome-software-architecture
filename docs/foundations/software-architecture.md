@@ -14,7 +14,7 @@
 - [unlight/solution-architecture](https://github.com/unlight/solution-architecture) - Solution Architecture links, articles, books, video lessons, etc.
 - [chanakaudaya/solution-architecture-patterns](https://github.com/chanakaudaya/solution-architecture-patterns) - Reusable, vendor-neutral, industry-specific, vendor-specific solution architecture patterns for enterprise
 - [Software Architect Roadmap](https://roadmap.sh/software-architect) - Complete guide to become a Software Architect.
-
+- [DenisHogberg/OCOM](https://github.com/DenisHogberg/OCOM) - Object-Centric Operating Model, an open specification that describes an organization as governed objects (identity, ownership, lifecycle, evidence) and keeps every derived view a projection of the canonical record
 ## 🎬 Youtube Channels
 - [CodeOpinion](https://www.youtube.com/channel/UC3RKA4vunFAfrfxiJhPEplw)
 - [Martin Kleppmann](https://www.youtube.com/channel/UClB4KPy5LkJj1t3SgYVtMOQ/videos)
