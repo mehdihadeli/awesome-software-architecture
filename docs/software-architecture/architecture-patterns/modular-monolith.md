@@ -4,6 +4,8 @@
 
 - [Modular Monoliths - Simon Brown](https://files.gotocon.com/uploads/slides/conference_12/515/original/gotoberlin2018-modular-monoliths.pdf)
 
+- [Modulith Rules](https://github.com/modular-monolith/modular-monolith-rules) | Library | modular-monolith/modular-monolith-rules - Pre-built ArchUnit rules for checking module boundaries, dependency cycles and communication contracts in Java modular monoliths.
+
 ## 📕 Articles
 
 - [Modular Monolith: A Primer](http://www.kamilgrzybek.com/design/modular-monolith-primer/)
