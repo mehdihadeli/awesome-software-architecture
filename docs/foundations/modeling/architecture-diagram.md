@@ -37,3 +37,4 @@
 - [pierre3/PlantUmlClassDiagramGenerator](https://github.com/pierre3/PlantUmlClassDiagramGenerator) - This is a generator to create a class-diagram of PlantUML from the C# source code.
 - [drawsql.app](https://drawsql.app/)
 - [excalidraw.com](https://excalidraw.com/)
+- [radicaltools/radical.tools](https://github.com/radicaltools/radical.tools) - Open-source (MIT) modelling studio for the C4 model: diagrams, tables and a wiki are views of one model, with ADRs, requirements and fitness functions linked to its elements; runs in the browser, models stored as Markdown files in git
