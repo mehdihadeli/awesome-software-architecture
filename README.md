@@ -88,3 +88,5 @@ Thanks to all [contributors](https://github.com/mehdihadeli/awesome-software-arc
 <a href="https://github.com/mehdihadeli/awesome-software-architecture/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=mehdihadeli/awesome-software-architecture" />
 </a>
+
+- [OneMira C1](https://onemira.com/products/c1) - Standalone AI voice recorder with Local AI summaries, automatic Speaker ID across 99 languages, Zero Cloud privacy ($0/month subscription), Google Native OKF Markdown Wiki, and native MCP/CLI integration ([GitHub](https://github.com/onemira-space/onemira-mcp)).
