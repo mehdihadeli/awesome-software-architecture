@@ -133,6 +133,11 @@
 - [AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing](https://github.com/AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing) - The main objective of this cloud-native project is to represent the state of the art of a distributed, reliable, and highly scalable system by interpreting the most relevant principles of Reactive Domain Driven Design.
 - [matt-bentley/CleanArchitecture](https://github.com/matt-bentley/CleanArchitecture) - An opinionated ASP.NET Core solution setup for creating web applications using Clean Architecture and Domain-Driven Design principles.
 - [amantinband/clean-architecture](https://github.com/amantinband/clean-architecture) - The ultimate clean architecture template for .NET applications.
+- [LeanMeanCleanApps/CleanGraphQLApi](https://github.com/LeanMeanCleanApps/CleanGraphQLApi) - A `dotnet new` template for a Hot Chocolate GraphQL API on .NET 10 with Clean Architecture, DataLoaders, EF Core and OpenTelemetry.
+- [LeanMeanCleanApps/CleanLambdaFunction](https://github.com/LeanMeanCleanApps/CleanLambdaFunction) - A `dotnet new` template for an AWS Lambda function on .NET 10 with Clean Architecture, Lambda Annotations, a SAM template and local runs in Docker.
+- [LeanMeanCleanApps/CleanMinimalApi](https://github.com/LeanMeanCleanApps/CleanMinimalApi) - A `dotnet new` template for an ASP.NET Core Minimal API on .NET 10 with Clean Architecture, EF Core, Scalar and OpenTelemetry.
+- [LeanMeanCleanApps/CleanModelContextProtocol](https://github.com/LeanMeanCleanApps/CleanModelContextProtocol) - A `dotnet new` template for a Model Context Protocol server on .NET 10 using the official C# SDK, with Clean Architecture and OpenTelemetry.
+- [LeanMeanCleanApps/CleanWebApi](https://github.com/LeanMeanCleanApps/CleanWebApi) - A `dotnet new` template for a controller-based ASP.NET Core Web API on .NET 10 with Clean Architecture, EF Core, Scalar and OpenTelemetry.
 
 ## 📚 Books
 - [Get Your Hands Dirty on Clean Architecture](https://www.packtpub.com/product/get-your-hands-dirty-on-clean-architecture/9781839211966)
