@@ -1,8 +1,23 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import {
+  useEffect,
+  useMemo,
+  useRef,
+  useState,
+  type KeyboardEvent,
+} from "react";
 import Link from "next/link";
 import type { Collection, Resource, ResourceType, Topic } from "@/lib/content";
+import {
+  buildSearchIndex,
+  createSearchQuery,
+  highlightText,
+  rankCollections,
+  runSearch,
+  type HighlightPart,
+  type SearchQuery,
+} from "@/lib/search";
 
 const resourceTypes: ResourceType[] = [
   "Article",
@@ -47,10 +62,188 @@ const collectionEmojis: Record<string, string> = {
 
 const fallbackCollectionEmojis = ["◈", "⬡", "✺", "⌘", "◍", "◇"];
 
+const MAX_TOPIC_RESULTS = 6;
+const MAX_RESOURCE_RESULTS = 10;
+
 function getCollectionEmoji(slug: string, colorIndex: number) {
   return (
     collectionEmojis[slug] ||
     fallbackCollectionEmojis[colorIndex % fallbackCollectionEmojis.length]
+  );
+}
+
+function Highlight({ text, query }: { text: string; query: SearchQuery }) {
+  const parts = highlightText(text, query);
+
+  return (
+    <>
+      {parts.map((part: HighlightPart, index: number) =>
+        part.match ? (
+          <mark key={`${index}-${part.text}`}>{part.text}</mark>
+        ) : (
+          <span key={`${index}-${part.text}`}>{part.text}</span>
+        ),
+      )}
+    </>
+  );
+}
+
+function SearchResultsPanel({
+  query,
+  searchQuery,
+  results,
+  activeIndex,
+  setActiveIndex,
+  registerResult,
+  onClear,
+}: {
+  query: string;
+  searchQuery: SearchQuery;
+  results: ReturnType<typeof runSearch>;
+  activeIndex: number;
+  setActiveIndex: (index: number) => void;
+  registerResult: (index: number, node: HTMLAnchorElement | null) => void;
+  onClear: () => void;
+}) {
+  const topics = results.topics.slice(0, MAX_TOPIC_RESULTS);
+  const resources = results.resources.slice(0, MAX_RESOURCE_RESULTS);
+
+  return (
+    <section
+      className="search-results"
+      id="search-results"
+      aria-label="Search results"
+      aria-live="polite"
+    >
+      <div className="search-results-head">
+        <div>
+          <p className="eyebrow">Search</p>
+          <h2>
+            {results.total === 0
+              ? "No matches"
+              : `${results.total} ${results.total === 1 ? "match" : "matches"}`}{" "}
+            for <q>{query.trim()}</q>
+          </h2>
+        </div>
+        <button className="search-clear" type="button" onClick={onClear}>
+          Clear search
+        </button>
+      </div>
+
+      {results.total === 0 && (
+        <div className="empty-state">
+          <strong>No topics, resources, or collections matched.</strong>
+          <span>
+            Check the spelling, try a shorter word, or remove the collection and
+            type filters.
+          </span>
+        </div>
+      )}
+
+      {topics.length > 0 && (
+        <div className="search-group">
+          <h3 className="search-group-title">
+            Topics <span>{results.topics.length}</span>
+          </h3>
+          <ul className="search-list">
+            {topics.map((topic, index) => (
+              <li key={`topic-${topic.id}`}>
+                <Link
+                  className={`search-result${activeIndex === index ? " active" : ""}`}
+                  href={`/topics/${topic.slug}`}
+                  ref={(node) => registerResult(index, node)}
+                  onMouseEnter={() => setActiveIndex(index)}
+                >
+                  <span className="search-result-icon" aria-hidden="true">
+                    {topic.icon}
+                  </span>
+                  <span className="search-result-body">
+                    <span className="search-result-title">
+                      <Highlight text={topic.title} query={searchQuery} />
+                    </span>
+                    <span className="search-result-desc">
+                      <Highlight text={topic.description} query={searchQuery} />
+                    </span>
+                    <span className="search-result-meta">
+                      <span className="search-result-badge">
+                        {topic.category}
+                      </span>
+                      {topic.resourceCount} resources · {topic.sectionCount}{" "}
+                      sections
+                    </span>
+                  </span>
+                  <span className="search-result-arrow" aria-hidden="true">
+                    ↗
+                  </span>
+                </Link>
+              </li>
+            ))}
+          </ul>
+          {results.topics.length > topics.length && (
+            <p className="search-more">
+              Showing {topics.length} of {results.topics.length} matching
+              topics.
+            </p>
+          )}
+        </div>
+      )}
+
+      {resources.length > 0 && (
+        <div className="search-group">
+          <h3 className="search-group-title">
+            Resources <span>{results.resources.length}</span>
+          </h3>
+          <ul className="search-list">
+            {resources.map((resource, offset) => {
+              const index = topics.length + offset;
+
+              return (
+                <li key={`resource-${resource.id}`}>
+                  <a
+                    className={`search-result${activeIndex === index ? " active" : ""}`}
+                    href={resource.url}
+                    target="_blank"
+                    rel="noreferrer"
+                    ref={(node) => registerResult(index, node)}
+                    onMouseEnter={() => setActiveIndex(index)}
+                  >
+                    <span className="search-result-icon" aria-hidden="true">
+                      {resource.icon}
+                    </span>
+                    <span className="search-result-body">
+                      <span className="search-result-title">
+                        <Highlight text={resource.title} query={searchQuery} />
+                      </span>
+                      <span className="search-result-desc">
+                        <Highlight
+                          text={resource.description}
+                          query={searchQuery}
+                        />
+                      </span>
+                      <span className="search-result-meta">
+                        <span className="search-result-badge">
+                          {resource.type}
+                        </span>
+                        {resource.topic} · {resource.domain}
+                      </span>
+                    </span>
+                    <span className="search-result-arrow" aria-hidden="true">
+                      ↗
+                    </span>
+                  </a>
+                </li>
+              );
+            })}
+          </ul>
+          {results.resources.length > resources.length && (
+            <p className="search-more">
+              Showing {resources.length} of {results.resources.length} matching
+              resources.
+            </p>
+          )}
+        </div>
+      )}
+    </section>
   );
 }
 
@@ -235,66 +428,100 @@ export function HomeAtlas({
   const [activeCollection, setActiveCollection] = useState("All");
   const [activeType, setActiveType] = useState<"All" | ResourceType>("All");
   const [sortBy, setSortBy] = useState<SortOption>("relevance");
+  const [activeIndex, setActiveIndex] = useState(0);
+
+  const searchInputRef = useRef<HTMLInputElement>(null);
+  const resultRefs = useRef<Array<HTMLAnchorElement | null>>([]);
+
+  const searchIndex = useMemo(
+    () => buildSearchIndex({ collections, topics, resources }),
+    [collections, resources, topics],
+  );
+  const searchQuery = useMemo(() => createSearchQuery(query), [query]);
+  const hasQuery = !searchQuery.isEmpty;
+
+  const results = useMemo(
+    () =>
+      runSearch(searchIndex, searchQuery, {
+        collection: activeCollection === "All" ? null : activeCollection,
+        type: activeType === "All" ? null : activeType,
+      }),
+    [activeCollection, activeType, searchIndex, searchQuery],
+  );
 
   const visibleCollections = useMemo(() => {
-    const normalizedQuery = query.trim().toLowerCase();
-    const filtered = collections.filter((collection) => {
-      if (activeCollection !== "All" && collection.slug !== activeCollection) {
-        return false;
-      }
-
-      if (activeType !== "All" && collection.typeCounts[activeType] === 0) {
-        return false;
-      }
-
-      if (!normalizedQuery) return true;
-
-      const collectionTopics = topics.filter((topic) =>
-        topic.path.startsWith(`${collection.slug}/`),
-      );
-      const topicText = collectionTopics
-        .map(
-          (topic) =>
-            `${topic.title} ${topic.description} ${topic.sections.map((section) => section.title).join(" ")}`,
-        )
-        .join(" ")
-        .toLowerCase();
-      const resourceText = resources
-        .filter((resource) =>
-          resource.topicSlug.startsWith(`${collection.slug}-`),
-        )
-        .map(
-          (resource) =>
-            `${resource.title} ${resource.description} ${resource.domain}`,
-        )
-        .join(" ")
-        .toLowerCase();
-
-      return (
-        `${collection.title} ${collection.description} ${collection.subCollections.map((subCollection) => subCollection.title).join(" ")}`
-          .toLowerCase()
-          .includes(normalizedQuery) ||
-        topicText.includes(normalizedQuery) ||
-        resourceText.includes(normalizedQuery)
-      );
+    const ranked = rankCollections(searchIndex, searchQuery, {
+      collection: activeCollection === "All" ? null : activeCollection,
+      type: activeType === "All" ? null : activeType,
     });
+    const bySlug = new Map(
+      collections.map((collection) => [collection.slug, collection]),
+    );
+    const list = ranked
+      .map((match) => bySlug.get(match.slug))
+      .filter((collection): collection is Collection => Boolean(collection));
 
-    return [...filtered].sort((left, right) => {
-      if (sortBy === "topics") return right.topicCount - left.topicCount;
-      if (sortBy === "resources")
-        return right.resourceCount - left.resourceCount;
-      if (sortBy === "name") return left.title.localeCompare(right.title);
-      return 0;
-    });
+    if (sortBy === "topics") {
+      return [...list].sort(
+        (left, right) => right.topicCount - left.topicCount,
+      );
+    }
+    if (sortBy === "resources") {
+      return [...list].sort(
+        (left, right) => right.resourceCount - left.resourceCount,
+      );
+    }
+    if (sortBy === "name") {
+      return [...list].sort((left, right) =>
+        left.title.localeCompare(right.title),
+      );
+    }
+
+    return list;
   }, [
     activeCollection,
     activeType,
     collections,
-    query,
-    resources,
+    searchIndex,
+    searchQuery,
     sortBy,
-    topics,
   ]);
+
+  const displayedResultCount =
+    Math.min(results.topics.length, MAX_TOPIC_RESULTS) +
+    Math.min(results.resources.length, MAX_RESOURCE_RESULTS);
+
+  useEffect(() => {
+    if (!hasQuery) return;
+    resultRefs.current[activeIndex]?.scrollIntoView({ block: "nearest" });
+  }, [activeIndex, hasQuery]);
+
+  useEffect(() => {
+    function handleShortcut(event: globalThis.KeyboardEvent) {
+      if (event.key !== "/" || event.metaKey || event.ctrlKey || event.altKey) {
+        return;
+      }
+
+      const target = event.target as HTMLElement | null;
+      const tagName = target?.tagName;
+
+      if (
+        tagName === "INPUT" ||
+        tagName === "TEXTAREA" ||
+        tagName === "SELECT" ||
+        target?.isContentEditable
+      ) {
+        return;
+      }
+
+      event.preventDefault();
+      searchInputRef.current?.focus();
+      searchInputRef.current?.select();
+    }
+
+    window.addEventListener("keydown", handleShortcut);
+    return () => window.removeEventListener("keydown", handleShortcut);
+  }, []);
 
   const hasFilters =
     query.trim() || activeCollection !== "All" || activeType !== "All";
@@ -304,19 +531,85 @@ export function HomeAtlas({
     setActiveCollection("All");
     setActiveType("All");
     setSortBy("relevance");
+    setActiveIndex(0);
+  }
+
+  function clearQuery() {
+    setQuery("");
+    setActiveIndex(0);
+    searchInputRef.current?.focus();
+  }
+
+  function handleSearchKeyDown(event: KeyboardEvent<HTMLInputElement>) {
+    if (event.key === "Escape") {
+      if (query) {
+        event.preventDefault();
+        clearQuery();
+      } else {
+        searchInputRef.current?.blur();
+      }
+      return;
+    }
+
+    if (!hasQuery || displayedResultCount === 0) return;
+
+    if (event.key === "ArrowDown" || event.key === "ArrowUp") {
+      event.preventDefault();
+      setActiveIndex((current) => {
+        const next = event.key === "ArrowDown" ? current + 1 : current - 1;
+        return (next + displayedResultCount) % displayedResultCount;
+      });
+      return;
+    }
+
+    if (event.key === "Enter") {
+      event.preventDefault();
+      const target =
+        resultRefs.current[Math.min(activeIndex, displayedResultCount - 1)] ??
+        resultRefs.current[0];
+      target?.click();
+    }
   }
 
   return (
     <>
       <section className="home-search-strip" id="collections">
-        <label className="atlas-search atlas-search-simple">
-          <span aria-hidden="true">⌕</span>
+        <div className="atlas-search atlas-search-simple" role="search">
+          <span className="atlas-search-icon" aria-hidden="true">
+            ⌕
+          </span>
           <input
+            ref={searchInputRef}
+            type="search"
             value={query}
-            onChange={(event) => setQuery(event.target.value)}
-            placeholder="Search collections, topics, sections, names, source..."
+            onChange={(event) => {
+              setQuery(event.target.value);
+              setActiveIndex(0);
+            }}
+            onKeyDown={handleSearchKeyDown}
+            placeholder="Search topics, resources, sections, or sources..."
+            aria-label="Search topics, resources, sections, or sources"
+            enterKeyHint="go"
           />
-        </label>
+          <small className="search-hint">
+            {hasQuery
+              ? `${results.total} ${results.total === 1 ? "result" : "results"}`
+              : query.trim()
+                ? "Keep typing…"
+                : "Press / to search"}
+          </small>
+          {query.trim() && (
+            <button
+              className="search-clear search-clear-inline"
+              type="button"
+              onClick={clearQuery}
+              aria-label="Clear search"
+            >
+              ✕
+            </button>
+          )}
+          <kbd aria-hidden="true">/</kbd>
+        </div>
         <div className="advanced-search" aria-label="Advanced search filters">
           <div className="advanced-search-group">
             <span className="advanced-search-label">Collection</span>
@@ -325,7 +618,10 @@ export function HomeAtlas({
                 className={`atlas-chip tag-collection-all${activeCollection === "All" ? " active" : ""}`}
                 type="button"
                 aria-pressed={activeCollection === "All"}
-                onClick={() => setActiveCollection("All")}
+                onClick={() => {
+                  setActiveCollection("All");
+                  setActiveIndex(0);
+                }}
               >
                 All <strong>{collections.length}</strong>
               </button>
@@ -335,7 +631,10 @@ export function HomeAtlas({
                   type="button"
                   aria-pressed={activeCollection === collection.slug}
                   key={collection.slug}
-                  onClick={() => setActiveCollection(collection.slug)}
+                  onClick={() => {
+                    setActiveCollection(collection.slug);
+                    setActiveIndex(0);
+                  }}
                 >
                   {collection.title} <strong>{collection.topicCount}</strong>
                 </button>
@@ -349,7 +648,10 @@ export function HomeAtlas({
                 className={`atlas-chip tag-all-types${activeType === "All" ? " active" : ""}`}
                 type="button"
                 aria-pressed={activeType === "All"}
-                onClick={() => setActiveType("All")}
+                onClick={() => {
+                  setActiveType("All");
+                  setActiveIndex(0);
+                }}
               >
                 All types
               </button>
@@ -364,7 +666,10 @@ export function HomeAtlas({
                     type="button"
                     aria-pressed={activeType === type}
                     key={type}
-                    onClick={() => setActiveType(type)}
+                    onClick={() => {
+                      setActiveType(type);
+                      setActiveIndex(0);
+                    }}
                   >
                     {type} <strong>{count}</strong>
                   </button>
@@ -374,8 +679,9 @@ export function HomeAtlas({
           </div>
           <div className="advanced-search-footer">
             <span>
-              Showing {visibleCollections.length} of {collections.length}{" "}
-              collections
+              {hasQuery
+                ? `${results.total} results · ${visibleCollections.length} of ${collections.length} collections`
+                : `Showing ${visibleCollections.length} of ${collections.length} collections`}
             </span>
             <label>
               Sort by
@@ -404,11 +710,25 @@ export function HomeAtlas({
         </div>
       </section>
 
+      {hasQuery && (
+        <SearchResultsPanel
+          query={query}
+          searchQuery={searchQuery}
+          results={results}
+          activeIndex={activeIndex}
+          setActiveIndex={setActiveIndex}
+          registerResult={(index, node) => {
+            resultRefs.current[index] = node;
+          }}
+          onClear={clearQuery}
+        />
+      )}
+
       <section className="atlas-section" id="topics">
         <div className="atlas-section-head">
           <div>
             <p className="eyebrow">Collections</p>
-            <h2>Choose collection</h2>
+            <h2>{hasQuery ? "Matching collections" : "Choose collection"}</h2>
           </div>
           <span className="section-count">
             {visibleCollections.length} shown

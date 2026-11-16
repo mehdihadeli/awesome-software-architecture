@@ -159,13 +159,9 @@
 - [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) - Official GitHub action for golangci-lint from its authors
 
 ## 🚀 Samples
-- [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows ⭐⭐
-- [linkdotnet/deployment-template](https://github.com/linkdotnet/deployment-template/blob/main/.github/workflows)
-- [anuraj/MinimalApi](https://github.com/anuraj/MinimalApi) - ASP.NET Core 7.0 - Minimal API Example - Todo API implementation using ASP.NET Core Minimal API, Entity Framework Core, Token authentication, Versioning, Unit Testing, Integration Testing and Open API.
-- [testcontainers/testcontainers-dotnet](https://github.com/testcontainers/testcontainers-dotnet) ⭐
-- [giraffe-fsharp/Giraffe](https://github.com/giraffe-fsharp/Giraffe/blob/master/.github/workflows/build.yml)
-- [AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing](https://github.com/AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing/tree/release/.github/workflows)
-- [colindembovsky/dotnet-actions-v-pipelines](https://github.com/colindembovsky/dotnet-actions-v-pipelines)
-- [wenqiglantz/reusable-workflows-modules](https://github.com/wenqiglantz/reusable-workflows-modules) ⭐
-- [GuillaumeFalourd/poc-github-actions](https://github.com/GuillaumeFalourd/poc-github-actions) ⭐⭐ - Various proofs of concept examples using Github Actions
-- [LEGO/AsyncAPI.NET](https://github.com/LEGO/AsyncAPI.NET/tree/main/.github/workflows)
+- [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows 
+- [djvirus9/awesome-devsecops-mastery-2026](https://github.com/djvirus9/awesome-devsecops-mastery-2026) ⭐ - Executable DevSecOps reference: API tests, CI gates, supply-chain evidence, Kubernetes policy, and incident response.
+- [abhishekpanda0620/devsecops-platform-template](https://github.com/abhishekpanda0620/devsecops-platform-template) ⭐ - Various proofs of concept examples using Github Actions 
+- [CyberScholarnow/complete-devsecops-demo](https://github.com/CyberScholarnow/complete-devsecops-demo) - Secure CI/CD Pipeline
+- [NotHarshhaa/devops-project-templates](https://github.com/NotHarshhaa/devops-project-templates) - A collection of production-ready DevOps & Cloud project templates designed for DevOps Engineers, Cloud Engineers, and Platform Engineers.
+- [rahulmotvani0-sketch/devsecops-secure-cicd-template](https://github.com/rahulmotvani0-sketch/devsecops-secure-cicd-template) - Enterprise DevSecOps CI/CD Pipeline & Reusable GitHub Actions with Shift-Left Security Scanners (Gitleaks, Semgrep, Trivy, Checkov, Syft SBOM, Cosign Image Signing)

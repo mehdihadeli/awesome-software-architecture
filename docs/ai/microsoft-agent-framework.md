@@ -14,6 +14,7 @@
 - [Microsoft Agent Framework — Azure AI Foundry](https://nikiforovall.blog/dotnet/ai/2026/03/24/microsoft-agent-framework-azure-ai-foundry.html)
 - [Microsoft Agent Framework — Workflows, MCP, A2A & AG-UI](https://nikiforovall.blog/dotnet/ai/2026/03/07/microsoft-agent-framework-workflows-mcp-a2a-agui.html)
 - [AG-UI Protocol now has a first-class .NET SDK](https://devblogs.microsoft.com/dotnet/ag-ui-dotnet-sdk/)
+- [Give your coding agent a head start with Microsoft Agent Framework skills for .NET and Python](https://devblogs.microsoft.com/agent-framework/give-your-coding-agent-a-head-start-with-microsoft-agent-framework-skills-for-net-and-python/)
 
 ## Videos
 - [Agent Framework: Building Blocks for the Next Generation of AI Agents](https://www.youtube.com/watch?v=AAgdMhftj8w)

@@ -36,4 +36,7 @@
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) ⭐ - A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
-- [johnpapa/ai-ready](https://github.com/johnpapa/ai-ready) - Agent Skill that analyzes your repo and generates the AI-ready configuration coding agents need — AGENTS.md, copilot-instructions, CI, issue templates, and more. Works in Claude Code, GitHub Copilot, Codex, and Cursor.
+- [codebytes/agent-skills](https://github.com/codebytes/agent-skills)
+- [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) ⭐ - Open-source skills for designing and reviewing software with AI agents
+- [microsoft/azure-skills](https://github.com/microsoft/azure-skills) - Official agent plugin providing skills and MCP server configurations for Azure scenarios.
+- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices

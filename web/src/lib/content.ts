@@ -192,6 +192,7 @@ function parseResources(
   sourcePath: string,
 ): Resource[] {
   const resources: Resource[] = [];
+  const seenUrls = new Set<string>();
   let currentType: ResourceType = "Resource";
   let currentSection = "Resources";
   let currentIcon = sectionIconForType(currentType);
@@ -211,17 +212,21 @@ function parseResources(
     );
     if (!link) continue;
 
+    const url = link[2];
+    if (seenUrls.has(url)) continue;
+    seenUrls.add(url);
+
     const title = stripMarkdown(link[1]);
     const description = stripMarkdown(
       link[3] || `A curated ${currentType.toLowerCase()} related to ${topic}.`,
     );
-    const id = `${sourcePath}:${currentSection}:${link[2]}`;
-    const domain = new URL(link[2]).hostname.replace(/^www\./, "");
+    const id = `${sourcePath}:${currentSection}:${url}`;
+    const domain = new URL(url).hostname.replace(/^www\./, "");
 
     resources.push({
       id,
       title,
-      url: link[2],
+      url,
       description,
       type: currentType,
       topic,
