@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { GitHubLink } from "@/components/github-link";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { getCatalog } from "@/lib/content";
 
@@ -49,7 +50,10 @@ export default async function SubCollectionPage({
         <Link className="back-link" href={`/collections/${collection.slug}`}>
           ← Back to {collection.title}
         </Link>
-        <ThemeToggle />
+        <div className="nav-actions">
+          <GitHubLink />
+          <ThemeToggle />
+        </div>
       </nav>
       <div className="collection-page-shell">
         <div className="breadcrumbs">

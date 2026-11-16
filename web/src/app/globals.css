@@ -138,7 +138,6 @@ select {
 }
 
 .nav-links a,
-.github-link,
 .back-link {
   color: var(--muted);
   font-size: 0.77rem;
@@ -157,12 +156,52 @@ select {
   background: rgba(21, 33, 39, 0.08);
 }
 
-.github-link,
 .back-link {
   padding: 0.75rem 1rem;
   border: 1px solid var(--line);
   border-radius: 999px;
   background: rgba(255, 255, 255, 0.6);
+}
+
+.nav-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.github-icon-link {
+  display: grid;
+  width: 2.45rem;
+  height: 2.45rem;
+  flex: 0 0 auto;
+  place-items: center;
+  border: 1px solid var(--line-strong);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.65);
+  color: var(--ink);
+  box-shadow: var(--shadow);
+  transition:
+    transform 0.2s ease,
+    border-color 0.2s ease,
+    background 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.github-icon-link svg {
+  width: 1.1rem;
+  height: 1.1rem;
+}
+
+.github-icon-link:hover {
+  transform: translateY(-2px);
+  border-color: color-mix(in srgb, var(--ink) 42%, transparent);
+  background: var(--surface-strong);
+  box-shadow: 0 18px 38px rgba(21, 33, 39, 0.14);
+}
+
+.github-icon-link:focus-visible {
+  outline: 3px solid color-mix(in srgb, var(--accent) 40%, transparent);
+  outline-offset: 2px;
 }
 
 .page-shell,
@@ -1968,7 +2007,7 @@ html[data-theme="dark"] body::before {
 
 html[data-theme="dark"] .brand-mark,
 html[data-theme="dark"] .nav-links,
-html[data-theme="dark"] .github-link,
+html[data-theme="dark"] .github-icon-link,
 html[data-theme="dark"] .back-link,
 html[data-theme="dark"] .atlas-search,
 html[data-theme="dark"] .topic-hero,
@@ -2045,6 +2084,11 @@ html[data-theme="dark"] .search-result-badge {
   background: color-mix(in srgb, #cfdaff 12%, transparent);
 }
 
+html[data-theme="dark"] .github-icon-link:hover {
+  border-color: color-mix(in srgb, var(--ink) 55%, transparent);
+  background: var(--surface-strong);
+}
+
 html[data-theme="dark"] .resource-card.type-resource,
 html[data-theme="dark"] .resource-card.type-article,
 html[data-theme="dark"] .resource-card.type-video,
@@ -2118,6 +2162,10 @@ html[data-theme="dark"] input {
     order: 3;
     width: 100%;
     justify-content: space-between;
+  }
+
+  .nav-actions {
+    margin-left: auto;
   }
 
   .page-shell,

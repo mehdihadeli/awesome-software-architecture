@@ -1,4 +1,5 @@
 import { HomeAtlas } from "@/components/home-atlas";
+import { GitHubLink, repositoryUrl } from "@/components/github-link";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { getCatalog } from "@/lib/content";
 import Link from "next/link";
@@ -25,23 +26,14 @@ export default function Home() {
             Collections
           </a>
           <a href="#topics">Topics</a>
-          <a
-            href="https://github.com/mehdihadeli/awesome-software-architecture"
-            target="_blank"
-            rel="noreferrer"
-          >
+          <a href={repositoryUrl} target="_blank" rel="noreferrer">
             Source
           </a>
         </div>
-        <a
-          className="github-link"
-          href="https://github.com/mehdihadeli/awesome-software-architecture"
-          target="_blank"
-          rel="noreferrer"
-        >
-          View on GitHub <span aria-hidden="true">↗</span>
-        </a>
-        <ThemeToggle />
+        <div className="nav-actions">
+          <GitHubLink />
+          <ThemeToggle />
+        </div>
       </nav>
       <div className="page-shell" id="collection">
         <HomeAtlas {...catalog} />
