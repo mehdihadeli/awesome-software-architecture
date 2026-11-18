@@ -49,3 +49,4 @@
 - [skills/integrate-mcp-with-copilot](https://github.com/skills/integrate-mcp-with-copilot) - Learn how to use MCP Servers with GitHub Copilot
 - [christian-posta/mcp-auth-step-by-step](https://github.com/christian-posta/mcp-auth-step-by-step) - Step by step walkthrough of an MCP Authorization implementation
 - [nikiforovall/mcp-template-dotnet](https://github.com/nikiforovall/mcp-template-dotnet)
+- [LeanMeanCleanApps/CleanModelContextProtocol](https://github.com/LeanMeanCleanApps/CleanModelContextProtocol) - A `dotnet new` template for a Model Context Protocol server on .NET 10 using the official C# SDK, with Clean Architecture and OpenTelemetry.
