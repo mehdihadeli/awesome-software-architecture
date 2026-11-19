@@ -57,6 +57,7 @@
 ## 📦 Libraries
 - [App-vNext/Polly](https://github.com/App-vNext/Polly) - Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+.
 - [Polly-Contrib/Simmy](https://github.com/Polly-Contrib/Simmy) - Simmy is a chaos-engineering and fault-injection tool, integrating with the Polly resilience project for .NET
+- [AhsanSheraz/pyresilience](https://github.com/AhsanSheraz/pyresilience) - pyresilience is a Python resilience library that applies Retry, Circuit Breaker, Timeout, Fallback, Bulkhead, Rate Limiter, and Cache policies to sync and async functions through a single decorator
 
 ## Samples
 - [RehanSaeed/HttpClientSample](https://github.com/RehanSaeed/HttpClientSample) ⭐ A sample ASP.NET Core project showing how to configure the HttpClientFactory
