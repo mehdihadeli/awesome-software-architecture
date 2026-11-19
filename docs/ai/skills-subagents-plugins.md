@@ -9,6 +9,7 @@
 - [About Agent Skills](https://docs.github.com/en/copilot/concepts/agents/about-agent-skills)
 - [Use Agent Skills in VS Code](https://code.visualstudio.com/docs/copilot/customization/agent-skills)
 - [Extend your coding agent with .NET Skills](https://devblogs.microsoft.com/dotnet/extend-your-coding-agent-with-dotnet-skills/)
+- [Skills over MCP are now available in VS Code](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/skills-over-mcp-are-now-available-in-vs-code/4574580)
 
 ## Tools & Libraries
 
@@ -40,3 +41,4 @@
 - [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) ⭐ - Open-source skills for designing and reviewing software with AI agents
 - [microsoft/azure-skills](https://github.com/microsoft/azure-skills) - Official agent plugin providing skills and MCP server configurations for Azure scenarios.
 - [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices
+- [modelcontextprotocol/ext-skills](https://github.com/modelcontextprotocol/ext-skills) - MCP Extension for Skills discovery and distribution through MCP primitives. Maintained by the Skills Over MCP
