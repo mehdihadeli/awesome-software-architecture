@@ -29,6 +29,7 @@
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources
 - [codeKarle](https://www.youtube.com/channel/UCZEfiXy7PmtVTezYUvc4zZw)
 - [@AkhilSharmaTech Youtube Channel](https://www.youtube.com/@AkhilSharmaTech)
+- [Anatomy of a Payment](https://digbijoylabs.github.io/anatomy-of-a-payment/) - Interactive Apache-2.0 payment-rail workbench and [CC-BY-4.0 paper](https://doi.org/10.5281/zenodo.24444210) on authorization, clearing, settlement finality, and double-entry ledger invariants.
 
 ## Courses
 - [Grokking Modern System Design Interview for Engineers & Managers](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers)
