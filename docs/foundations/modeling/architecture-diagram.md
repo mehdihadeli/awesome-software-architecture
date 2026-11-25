@@ -33,6 +33,7 @@
 - [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML) - C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams)
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
+- [ArchScript](https://archscript.dev) - Architecture as code: a small DSL for elements, domains, deployments (cluster/server/container) and relations, with an auto-laid-out diagram, built-in architecture rules and exports to Mermaid, PlantUML and Markdown. Runs in the browser; also available for VS Code, Mac, iPad and iPhone.
 - [C4 DSL Extension](https://marketplace.visualstudio.com/items?itemName=systemticks.c4-dsl-extension)
 - [pierre3/PlantUmlClassDiagramGenerator](https://github.com/pierre3/PlantUmlClassDiagramGenerator) - This is a generator to create a class-diagram of PlantUML from the C# source code.
 - [drawsql.app](https://drawsql.app/)
