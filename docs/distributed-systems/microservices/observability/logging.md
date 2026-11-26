@@ -20,3 +20,4 @@
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [serilog-contrib/serilog-sinks-grafana-loki](https://github.com/serilog-contrib/serilog-sinks-grafana-loki) - A Serilog sink sending log events to Grafana Loki
 - [JosephWoodward/Serilog-Sinks-Loki](https://github.com/JosephWoodward/Serilog-Sinks-Loki) - A Serilog Sink for Loki, Grafana's new Prometheus inspired log aggregator
+- [LogBrewCo/sdk](https://github.com/LogBrewCo/sdk) - Official LogBrew SDKs for JavaScript, Python, Go, Ruby, PHP, .NET, Java, Swift, Rust and more. They send logs, traces and errors from your services to LogBrew, which groups errors into issues and links each one to the logs and trace of the request that failed.
