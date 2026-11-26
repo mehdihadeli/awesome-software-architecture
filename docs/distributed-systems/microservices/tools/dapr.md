@@ -6,6 +6,10 @@
 - [Dapr Youtube](https://www.youtube.com/channel/UCtpSQ9BLB_3EXdWAUQYwnRA/videos)
 - [mstrYoda/awesome-dapr](https://github.com/mstrYoda/awesome-dapr) - A cruated list of awesome Dapr application runtime related tools.
 - [dapr/quickstarts](https://github.com/dapr/quickstarts) - Dapr quickstart code samples and tutorials showcasing core Dapr capabilities
+- [Dapr Docs](https://docs.dapr.io/) - Official Dapr documentation with concepts, building block guides and SDK references.
+- [diagrid-labs/awesome-dapr-workflow](https://github.com/diagrid-labs/awesome-dapr-workflow) - A curated list of Dapr Workflow libraries, samples and resources.
+- [Dapr 101](https://www.diagrid.io/university/dapr-101) - Free, self-paced lab that runs in the browser. Covers the state management, service invocation and pub/sub APIs.
+- [Dapr Workflow 101](https://www.diagrid.io/university/dapr-workflow) - Free, self-paced lab. Runs the task chaining, fan-out/fan-in and monitor patterns, and recovers a workflow after a crash.
 
 ## 📕 Articles
 - [Make microservices fun again with Dapr](https://daveabrock.com/2021/04/29/meet-dapr)
@@ -45,10 +49,11 @@
 - [Building reliable and portable microservices with Dapr and .NET](https://www.youtube.com/watch?v=Cb0tyU9uSLQ)
 - [Sidecar Pattern to SIMPLIFY services or just more COMPLEXITY?](https://www.youtube.com/watch?v=9zAjtcf9Wyo)
 - [Introduction to Dapr](https://www.youtube.com/watch?v=nK8Ss2UMAxc)
+- [Reliable Agentic Systems need Durable Execution - Marc Duiker - NDC London 2026](https://www.youtube.com/watch?v=rY8GpdjVQL0)
 - [Using Consul for Name Resolution in Dapr](https://markheath.net/post/dapr-consul-name-resolution)
 
 ## 📦 Libraries
-- [dapr/dashboard](https://github.com/dapr/dashboard) - General purpose dashboard for Dapr
+- [diagridio/dev-dashboard](https://github.com/diagridio/dev-dashboard) - Dapr Dev Dashboard, a local dev tool with a live view of Dapr apps, sidecars, workflows, actors, pub/sub and logs. Replaces the archived dapr/dashboard.
 - [event-driven-dotnet/EventDriven.EventBus.Dapr](https://github.com/event-driven-dotnet/EventDriven.EventBus.Dapr) - Event bus abstraction over Dapr pub/sub
 
 ## 🚀 Samples
@@ -71,6 +76,8 @@
 - [markheath/globoticket-dapr](https://github.com/markheath/globoticket-dapr) - A simple Dapr demo microservices application
 - [thangchung/coffeeshop-dapr-workflow](https://github.com/thangchung/coffeeshop-dapr-workflow) - Opinionated coffeeshop application builds with Dapr workflow
 - [thangchung/dapr-labs](https://github.com/thangchung/dapr-labs) - Many forms of coffeeshop implemented by C#, Rust, Spin on Dapr
+- [diagrid-labs/dapr-building-block-apis](https://github.com/diagrid-labs/dapr-building-block-apis) - Demo apps for the Dapr state management, service invocation, pub/sub and workflow APIs, plus Dapr resiliency policies, in .NET.
+- [diagrid-labs/dapr-workflow-versioning](https://github.com/diagrid-labs/dapr-workflow-versioning) - Shows how to deploy breaking workflow changes while older instances are still running, using patching and named versions in .NET.
 
 ## 📚 Books
 - [Dapr for .NET Developers](https://docs.microsoft.com/en-us/dotnet/architecture/dapr-for-net-developers/?WT.mc_id=-blog-scottha)
